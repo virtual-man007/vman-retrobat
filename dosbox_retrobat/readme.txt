@@ -2,20 +2,24 @@ Reference
 =========
 https://www.reddit.com/r/OdroidGo/comments/ftk4ib/guide_how_to_run_dos_games_on_oga_batocera/
 
-Instructions
-============
-1) Edit Dosbox section in V:\RetroBat\system\templates\emulationstation\es_systems.*.cfg as described: 
-    <path>~\..\roms\dos</path>
-    <extension>.pc</extension>
-   
-2) Copy dosbox.conf to V:\RetroBat\emulators\dosbox\
+Instructions #1
+===============
+1) Copy dosbox.conf to V:\RetroBat\emulators\dosbox\
 
-3) Copy gamelist.xml to V:\roms\dos\ 
+2) Copy gamelist.xml to V:\roms\dos\
 
-4) Copy folders.bat to V:\roms and execute
+3) Copy folders.bat to V:\roms and execute
 NOTE: This step will rename folder V:\roms\pc to V:\roms\dos for RetroBat integration. 
 NOTE2: Please execute only once as it add extension .pc to all folders, else you'll have to manually rename them from .pc.pc back to .pc !   
 
+Intructions #2 Daggerfall specific issue
+========================================
+1) Edit and replace in V:\RetroBat\roms\dos\The_Elder_Scrolls_II_Daggerfall.pc\dosbox.bat the line:
+mount D: /home/pi/RetroPie/roms/pc/The_Elder_Scrolls_II_Daggerfall/DF/DFCD -t cdrom -label Daggerfall
+with the line:
+mount D: V:\RetroBat\roms\dos\The_Elder_Scrolls_II_Daggerfall.pc\DF\DFCD -t cdrom -label Daggerfall
+
+-----------------
 Retrobat behavior
 =================
 - Scans files or folders with extension defined in es_systems.*.cfg templates, matches gamelist.xml when file/folder exists.
@@ -37,13 +41,3 @@ Changes made
 - Updated paths in gamelist.xml based in the renamed folders
 - Manually updated es_systems.*.cfg to scan for .pc extension  
   
-Daggerfall specific issue
-=========================
-Edit and replace in V:\RetroBat\roms\dos\The_Elder_Scrolls_II_Daggerfall.pc\dosbox.bat the line:
-mount D: /home/pi/RetroPie/roms/pc/The_Elder_Scrolls_II_Daggerfall/DF/DFCD -t cdrom -label Daggerfall
-with the line:
-mount D: V:\RetroBat\roms\dos\The_Elder_Scrolls_II_Daggerfall.pc\DF\DFCD -t cdrom -label Daggerfall
-
-Known issues
-============
-- Video snapshots for Atomix and Comanche CD crash Retrobat, please rename them on folder V:\roms\dos\snap 
