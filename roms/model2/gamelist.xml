@@ -1,0 +1,908 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Model 2</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game id="41073" source="ScreenScraper.fr">
+		<path>./dynamcop.zip</path>
+		<name>Dynamite Cop (Export, Model 2A)</name>
+		<desc>Dynamite Cop is a 3D beat 'em up for up to two players in which players play as either Bruno Delinger, Jean Ivy, or Eddie Brown and fight through levels on board a cruise ship and on a deserted island to save the President's daughter from a band of modern-day pirates led by Wolf "White Fang" Hongo, the main antagonist from the first game. The classic Sega arcade game Tranquilizer Gun (1980) is included as a bonus game on the Dreamcast version. Clearing all missions will enable you to play Tranquilizer Gun an unlimited number of times.</desc>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>AM1</developer>
+		<publisher>Sega</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-2</players>
+		<image>./mixart/dynamcop.png</image>
+		<marquee>./wheel/dynamcop.png</marquee>
+		<video>./snap/dynamcop.mp4</video>
+		<genreid>263</genreid>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./dyndek2b.zip</path>
+		<name>dyndek2b</name>
+		<desc />
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./dynmcopb.zip</path>
+		<name>dynmcopb</name>
+		<desc />
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="150301" source="ScreenScraper.fr">
+		<path>./indy500to.zip</path>
+		<name>Indy 500 Twin (Revision A)</name>
+		<desc>Ladies and Gentlemen, Start Your Engines!!</desc>
+		<releasedate>19950101T000000</releasedate>
+		<image>./mixart/indy500to.png</image>
+		<marquee>./wheel/indy500to.png</marquee>
+	</game>
+	<game id="37477" source="ScreenScraper.fr">
+		<path>./pltkids.zip</path>
+		<name>Pilot Kids (Model 2B, Revision A)</name>
+		<desc>A cutesy horizontal shooter where you play a kid in an airplane shooting at awesome bosses like an attack dog.</desc>
+		<rating>0.85</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Psikyo</publisher>
+		<genre>Shoot'em Up-Shoot'em up / Horizontal</genre>
+		<players>1</players>
+		<image>./mixart/pltkidsa.png</image>
+		<marquee>./wheel/pltkidsa.png</marquee>
+		<video>./snap/pltkidsa.mp4</video>
+		<genreid>260</genreid>
+	</game>
+	<game id="150303" source="ScreenScraper.fr">
+		<path>./srallycb.zip</path>
+		<name>Sega Rally Championship - Twin/dx (Revision B)</name>
+		<releasedate>19950101T000000</releasedate>
+		<image>./mixart/srallycb.png</image>
+		<marquee>./wheel/srallycb.png</marquee>
+		<video>./snap/srallyc.mp4</video>
+	</game>
+	<game id="37486" source="ScreenScraper.fr">
+		<path>./srallyc.zip</path>
+		<name>Sega Rally Championship (Revision C)</name>
+		<desc>Sega Rally Championship gameplay is both accessible and technical. The game provides 4 tracks of increasing difficulty, and 3 rally cars. The tracks are very detailed, and provide numerous challenges, as well as various track surfaces, side animations, and environments.</desc>
+		<rating>0.85</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<image>./mixart/srallyc.png</image>
+		<marquee>./wheel/srallyc.png</marquee>
+		<video>./snap/srallyc.mp4</video>
+		<genreid>1537</genreid>
+	</game>
+	<game id="37484" source="ScreenScraper.fr">
+		<path>./skisuprg.zip</path>
+		<name>Sega Ski Super G</name>
+		<desc>In Sega Ski Super G, the objective is to race against other opponents under a time limit. The game has two modes: World Series and Time Attack.</desc>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<image>./mixart/skisuprg.png</image>
+		<marquee>./wheel/skisuprg.png</marquee>
+		<video>./snap/skisuprg.mp4</video>
+		<genreid>1536</genreid>
+	</game>
+	<game id="43366" source="ScreenScraper.fr">
+		<path>./stcca.zip</path>
+		<name>Sega Touring Car Championship (Revision A)</name>
+		<desc>Sega Touring Car Championship is a Sega Model 2C CRX arcade racing game developed by Sega AM5 in 1996. It is similar to Sega Rally Championship in design, but uses touring cars instead of rally cars. Unlike Sega Rally Championship, Sega Touring Car Championship has never seen a sequel, and it considered a far less successful game for a variety of reasons, most notably the steep difficulty curve and often awkward car handing.</desc>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+		<players>1</players>
+		<image>./mixart/stccb.png</image>
+		<marquee>./wheel/stccb.png</marquee>
+		<genreid>1537</genreid>
+	</game>
+	<game id="43366" source="ScreenScraper.fr">
+		<path>./stccb.zip</path>
+		<name>Sega Touring Car Championship (Revision B)</name>
+		<desc>Sega Touring Car Championship is a Sega Model 2C CRX arcade racing game developed by Sega AM5 in 1996. It is similar to Sega Rally Championship in design, but uses touring cars instead of rally cars. Unlike Sega Rally Championship, Sega Touring Car Championship has never seen a sequel, and it considered a far less successful game for a variety of reasons, most notably the steep difficulty curve and often awkward car handing.</desc>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+		<players>1</players>
+		<image>./mixart/stccb.png</image>
+		<marquee>./wheel/stccb.png</marquee>
+		<genreid>1537</genreid>
+	</game>
+	<game id="37489" source="ScreenScraper.fr">
+		<path>./stcc.zip</path>
+		<name>Sega Touring Car Championship</name>
+		<desc>Sega Touring Car Championship is a Sega Model 2C CRX arcade racing game developed by Sega AM5 in 1996. It is similar to Sega Rally Championship in design, but uses touring cars instead of rally cars. Unlike Sega Rally Championship, Sega Touring Car Championship has never seen a sequel, and it considered a far less successful game for a variety of reasons, most notably the steep difficulty curve and often awkward car handing.</desc>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-2</players>
+		<image>./mixart/stcc.png</image>
+		<marquee>./wheel/stcc.png</marquee>
+		<video>./snap/stcc.mp4</video>
+		<genreid>1537</genreid>
+	</game>
+	<game id="37481" source="ScreenScraper.fr">
+		<path>./segawski.zip</path>
+		<name>Sega Water Ski (Japan, Revision A)</name>
+		<desc>The objective of this game is similar to the last game, "Top Skater". Except you're water-skiing, instead of skateboaring.</desc>
+		<rating>0.75</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./mixart/segawski.png</image>
+		<marquee>./wheel/segawski.png</marquee>
+		<video>./snap/segawski.mp4</video>
+		<genreid>1536</genreid>
+	</game>
+	<game id="37485" source="ScreenScraper.fr">
+		<path>./skytargt.zip</path>
+		<name>Sky Target</name>
+		<desc>Sky Target is a 1995 arcade game by Sega. A rail shooter featuring a number of planes including the default F-14D Super Tomcat, it is best remembered for its semi-official connection to Sega's earlier hit After Burner. Although never billed as a sequel, its overt similarities to the 1987 classic were nonetheless referenced in official promotional materials and recognized by the media.</desc>
+		<rating>0.75</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<image>./mixart/skytargt.png</image>
+		<marquee>./wheel/skytargt.png</marquee>
+		<video>./snap/skytargt.mp4</video>
+		<genreid>260</genreid>
+	</game>
+	<game id="37480" source="ScreenScraper.fr">
+		<path>./schamp.zip</path>
+		<name>Sonic Championship (USA)</name>
+		<desc>Sonic the Fighters, known as Sonic Championship on arcade versions in North America and Europe, is a fighting game developed by Sega AM2 for Sega's Model 2 arcade system. The game, which allows players to fight using characters from the Sonic the Hedgehog series, was released in arcades in Japan in May 1996 and North America in June 1996. The game was included in the compilation disc Sonic Gems Collection for PlayStation 2 and Nintendo GameCube in 2005. A HD port for Xbox Live Arcade and PlayStation Network was released in November 2012.</desc>
+		<rating>0.85</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>1-2</players>
+		<image>./mixart/schamp.png</image>
+		<marquee>./wheel/schamp.png</marquee>
+		<video>./snap/schamp.mp4</video>
+		<genreid>262</genreid>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./srallyp.zip</path>
+		<name>srallyp</name>
+		<desc />
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="37483" source="ScreenScraper.fr">
+		<path>./sgt24h.zip</path>
+		<name>Super GT 24h</name>
+		<desc>1996 arcade racing game. Work your way to the top spot within 5 laps</desc>
+		<rating>0.85</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Jaleco</developer>
+		<publisher>Jaleco</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<image>./mixart/sgt24h.png</image>
+		<marquee>./wheel/sgt24h.png</marquee>
+		<video>./snap/sgt24h.mp4</video>
+		<genreid>1537</genreid>
+	</game>
+	<game id="37492" source="ScreenScraper.fr">
+		<path>./topskatr.zip</path>
+		<name>Top Skater (Export, Revision A)</name>
+		<desc>The first high tech skateboard simulator hits the streets with full body racing action! Perform difficult moves like the pros, without breaking your appendages. Players can use their entire body to maneuver through ultra-challenging skateboarding courses... this is not a video game its a spectator sport! Choose from six unique characters with individual style and personality. Includes all the hard-core skateboard moves: kick flips, 180-degree turns, 360 flips, indy nose bones, Oilies and more!</desc>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports / Skateboard-Sports</genre>
+		<players>1</players>
+		<image>./mixart/topskatr.png</image>
+		<marquee>./wheel/topskatr.png</marquee>
+		<video>./snap/topskatr.mp4</video>
+		<genreid>1538</genreid>
+	</game>
+	<game id="37492" source="ScreenScraper.fr">
+		<path>./topskatrj.zip</path>
+		<name>Top Skater (Japan)</name>
+		<desc>The first high tech skateboard simulator hits the streets with full body racing action! Perform difficult moves like the pros, without breaking your appendages. Players can use their entire body to maneuver through ultra-challenging skateboarding courses... this is not a video game its a spectator sport! Choose from six unique characters with individual style and personality. Includes all the hard-core skateboard moves: kick flips, 180-degree turns, 360 flips, indy nose bones, Oilies and more!</desc>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports / Skateboard-Sports</genre>
+		<players>1</players>
+		<image>./mixart/topskatru.png</image>
+		<marquee>./wheel/topskatr.png</marquee>
+		<video>./snap/topskatr.mp4</video>
+		<genreid>1538</genreid>
+	</game>
+	<game id="37492" source="ScreenScraper.fr">
+		<path>./topskatru.zip</path>
+		<name>Top Skater (USA, Revision A)</name>
+		<desc>The first high tech skateboard simulator hits the streets with full body racing action! Perform difficult moves like the pros, without breaking your appendages. Players can use their entire body to maneuver through ultra-challenging skateboarding courses... this is not a video game its a spectator sport! Choose from six unique characters with individual style and personality. Includes all the hard-core skateboard moves: kick flips, 180-degree turns, 360 flips, indy nose bones, Oilies and more!</desc>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports / Skateboard-Sports</genre>
+		<players>1</players>
+		<image>./mixart/topskatru.png</image>
+		<marquee>./wheel/topskatr.png</marquee>
+		<video>./snap/topskatr.mp4</video>
+		<genreid>1538</genreid>
+	</game>
+	<game id="43926" source="ScreenScraper.fr">
+		<path>./vcopa.zip</path>
+		<name>Virtua Cop (Revision A)</name>
+		<desc>Players assume the role of police officers in a first-person perspective and use a light gun to shoot criminals and advance through the game, with penalties for shooting civilians. The players could also shoot powerups that grants him a weapon or a life. The weapon is lost if the player is hit, but not if he shoots a civilian. Virtua Cop was notable for its use of polygonal graphics, which were subsequently used in both House of the Dead and Time Crisis, instead of the two dimensional sprites that were popular for previous games in the same genre. It is also notable for being one of the first games to allow the player to shoot through glass. Its name derived from this graphical style, which was previously used in Virtua Fighter, Virtua Striker and Virtua Racing.</desc>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Lightgun Shooter-Shooter</genre>
+		<players>1-2</players>
+		<image>./mixart/vcopa.png</image>
+		<marquee>./wheel/vcopa.png</marquee>
+		<genreid>261</genreid>
+	</game>
+	<game id="37493" source="ScreenScraper.fr">
+		<path>./vcop.zip</path>
+		<name>Virtua Cop (Revision B)</name>
+		<desc>Players assume the role of police officers in a first-person perspective and use a light gun to shoot criminals and advance through the game, with penalties for shooting civilians. The players could also shoot powerups that grants him a weapon or a life. The weapon is lost if the player is hit, but not if he shoots a civilian. Virtua Cop was notable for its use of polygonal graphics, which were subsequently used in both House of the Dead and Time Crisis, instead of the two dimensional sprites that were popular for previous games in the same genre. It is also notable for being one of the first games to allow the player to shoot through glass. Its name derived from this graphical style, which was previously used in Virtua Fighter, Virtua Striker and Virtua Racing.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+		<image>./mixart/vcop.png</image>
+		<marquee>./wheel/vcopa.png</marquee>
+		<video>./snap/vcop.mp4</video>
+		<genreid>260</genreid>
+	</game>
+	<game id="43936" source="ScreenScraper.fr">
+		<path>./vf2a.zip</path>
+		<name>Virtua Fighter 2 (Revision A)</name>
+		<desc>Virtua Fighter 2 is a fighting game developed by Sega. It is the sequel to Virtua Fighter and the second game in the Virtua Fighter series. It was created by the Sega's Yu Suzuki-headed AM2 and was released in the arcade in 1994. VF2 was known for breakthrough graphics at the time. It used Sega's Model 2 arcade hardware to run the game at 60 frames per second at a high resolution with no slowdown.
+
+The arena size could be adjusted up to a very small platform or all the way to 82 meters, which in the genre is considered very large; this is the only game in the seriesâ€”other than Virtua Fighter Remixâ€”that could have such size adjustments. The physical energy meter could also be adjusted to infinity as well, giving you the advantage when beating opponents in the game or practicing moves against the computer player. Incidentally, players discovered that adjusting the arena to a smaller size and giving the characters infinite health could lead to mock sumo matches, wherein victory is achieved by knocking the other player out of the ring.</desc>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>1-2</players>
+		<image>./mixart/vf2o.png</image>
+		<marquee>./wheel/vf2o.png</marquee>
+		<genreid>262</genreid>
+	</game>
+	<game id="43936" source="ScreenScraper.fr">
+		<path>./vf2b.zip</path>
+		<name>Virtua Fighter 2 (Revision B)</name>
+		<desc>Virtua Fighter 2 is a fighting game developed by Sega. It is the sequel to Virtua Fighter and the second game in the Virtua Fighter series. It was created by the Sega's Yu Suzuki-headed AM2 and was released in the arcade in 1994. VF2 was known for breakthrough graphics at the time. It used Sega's Model 2 arcade hardware to run the game at 60 frames per second at a high resolution with no slowdown.
+
+The arena size could be adjusted up to a very small platform or all the way to 82 meters, which in the genre is considered very large; this is the only game in the seriesâ€”other than Virtua Fighter Remixâ€”that could have such size adjustments. The physical energy meter could also be adjusted to infinity as well, giving you the advantage when beating opponents in the game or practicing moves against the computer player. Incidentally, players discovered that adjusting the arena to a smaller size and giving the characters infinite health could lead to mock sumo matches, wherein victory is achieved by knocking the other player out of the ring.</desc>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>1-2</players>
+		<image>./mixart/vf2o.png</image>
+		<marquee>./wheel/vf2o.png</marquee>
+		<genreid>262</genreid>
+	</game>
+	<game id="37495" source="ScreenScraper.fr">
+		<path>./vf2.zip</path>
+		<name>Virtua Fighter 2 (Version 2.1)</name>
+		<desc>Virtua Fighter 2 is a fighting game developed by Sega. It is the sequel to Virtua Fighter and the second game in the Virtua Fighter series. It was created by the Sega's Yu Suzuki-headed AM2 and was released in the arcade in 1994. VF2 was known for breakthrough graphics at the time. It used Sega's Model 2 arcade hardware to run the game at 60 frames per second at a high resolution with no slowdown.
+
+The arena size could be adjusted up to a very small platform or all the way to 82 meters, which in the genre is considered very large; this is the only game in the seriesâ€”other than Virtua Fighter Remixâ€”that could have such size adjustments. The physical energy meter could also be adjusted to infinity as well, giving you the advantage when beating opponents in the game or practicing moves against the computer player. Incidentally, players discovered that adjusting the arena to a smaller size and giving the characters infinite health could lead to mock sumo matches, wherein victory is achieved by knocking the other player out of the ring.</desc>
+		<rating>0.9</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<image>./mixart/vf2.png</image>
+		<marquee>./wheel/vf2.png</marquee>
+		<video>./snap/vf2.mp4</video>
+		<genreid>262</genreid>
+	</game>
+	<game id="43936" source="ScreenScraper.fr">
+		<path>./vf2o.zip</path>
+		<name>Virtua Fighter 2</name>
+		<desc>Virtua Fighter 2 is a fighting game developed by Sega. It is the sequel to Virtua Fighter and the second game in the Virtua Fighter series. It was created by the Sega's Yu Suzuki-headed AM2 and was released in the arcade in 1994. VF2 was known for breakthrough graphics at the time. It used Sega's Model 2 arcade hardware to run the game at 60 frames per second at a high resolution with no slowdown.
+
+The arena size could be adjusted up to a very small platform or all the way to 82 meters, which in the genre is considered very large; this is the only game in the seriesâ€”other than Virtua Fighter Remixâ€”that could have such size adjustments. The physical energy meter could also be adjusted to infinity as well, giving you the advantage when beating opponents in the game or practicing moves against the computer player. Incidentally, players discovered that adjusting the arena to a smaller size and giving the characters infinite health could lead to mock sumo matches, wherein victory is achieved by knocking the other player out of the ring.</desc>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>1-2</players>
+		<image>./mixart/vf2o.png</image>
+		<marquee>./wheel/vf2o.png</marquee>
+		<genreid>262</genreid>
+	</game>
+	<game id="37501" source="ScreenScraper.fr">
+		<path>./vstriker.zip</path>
+		<name>Virtua Striker (Revision A)</name>
+		<desc>Virtua Striker is the first three-dimensional computer graphic soccer gameby Sega, bringing extreme competition to the arcades.
+
+State of the art texture mapping provides sophisticated reproduction of the World Cup atmosphere, with incredibly immersive game action and realistic backgrounds. It uses the same architecture as Virtua Fighter 2.</desc>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./mixart/vstriker.png</image>
+		<marquee>./wheel/vstriker.png</marquee>
+		<video>./snap/vstriker.mp4</video>
+		<genreid>1536</genreid>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./vstrikro.zip</path>
+		<name>vstrikro</name>
+		<desc />
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+	</game>
+	<game id="37503" source="ScreenScraper.fr">
+		<path>./waverunr.zip</path>
+		<name>Wave Runner (Japan, Revision A)</name>
+		<desc>WaveRunner is a jet-ski racing game. This game features three courses, and up to four cabinets can be linked for multiplayer racing.</desc>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports</genre>
+		<players>1-2</players>
+		<image>./mixart/waverunr.png</image>
+		<marquee>./wheel/waverunr.png</marquee>
+		<video>./snap/waverunr.mp4</video>
+		<genreid>1536</genreid>
+	</game>
+	<game id="37505" source="ScreenScraper.fr">
+		<path>./zeroguna.zip</path>
+		<name>Zero Gunner (Export, Model 2A)</name>
+		<desc>In the future date of 2016, worldwide martial law is initiated when a widespread terrorist organization overthrew and took control of the world's military authorities. A group of ace helicopter pilots are secretly amassed in a special forces squadron called ZERO to travel around the world and destroy the occupied terrorist forces.</desc>
+		<rating>0.9</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Psikyo</publisher>
+		<genre>Shooter / Plane-Shooter-Shoot'em Up</genre>
+		<players>1-2</players>
+		<image>./mixart/zeroguna.png</image>
+		<marquee>./wheel/zeroguna.png</marquee>
+		<video>./snap/zeroguna.mp4</video>
+		<genreid>260</genreid>
+	</game>
+	<game id="37505" source="ScreenScraper.fr">
+		<path>./zerogun.zip</path>
+		<name>Zero Gunner (Export, Model 2B)</name>
+		<desc>In the future date of 2016, worldwide martial law is initiated when a widespread terrorist organization overthrew and took control of the world's military authorities. A group of ace helicopter pilots are secretly amassed in a special forces squadron called ZERO to travel around the world and destroy the occupied terrorist forces.</desc>
+		<rating>0.9</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Psikyo</publisher>
+		<genre>Shooter / Plane-Shooter-Shoot'em Up</genre>
+		<players>1-2</players>
+		<image>./mixart/zeroguna.png</image>
+		<marquee>./wheel/zeroguna.png</marquee>
+		<video>./snap/zeroguna.mp4</video>
+		<genreid>260</genreid>
+	</game>
+	<game id="37505" source="ScreenScraper.fr">
+		<path>./zerogunaj.zip</path>
+		<name>Zero Gunner (Japan, Model 2A)</name>
+		<desc>In the future date of 2016, worldwide martial law is initiated when a widespread terrorist organization overthrew and took control of the world's military authorities. A group of ace helicopter pilots are secretly amassed in a special forces squadron called ZERO to travel around the world and destroy the occupied terrorist forces.</desc>
+		<rating>0.9</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Psikyo</publisher>
+		<genre>Shooter / Plane-Shooter-Shoot'em Up</genre>
+		<players>1-2</players>
+		<image>./mixart/zeroguna.png</image>
+		<marquee>./wheel/zeroguna.png</marquee>
+		<video>./snap/zeroguna.mp4</video>
+		<genreid>260</genreid>
+	</game>
+	<game id="37505" source="ScreenScraper.fr">
+		<path>./zerogunj.zip</path>
+		<name>Zero Gunner (Japan, Model 2B)</name>
+		<desc>In the future date of 2016, worldwide martial law is initiated when a widespread terrorist organization overthrew and took control of the world's military authorities. A group of ace helicopter pilots are secretly amassed in a special forces squadron called ZERO to travel around the world and destroy the occupied terrorist forces.</desc>
+		<rating>0.9</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Psikyo</publisher>
+		<genre>Shooter / Plane-Shooter-Shoot'em Up</genre>
+		<players>1-2</players>
+		<image>./mixart/zeroguna.png</image>
+		<marquee>./wheel/zeroguna.png</marquee>
+		<video>./snap/zeroguna.mp4</video>
+		<genreid>260</genreid>
+	</game>
+	<game id="46497" source="ScreenScraper.fr">
+		<path>./model2.zip</path>
+		<name>ZZZ(notgame):Model2</name>
+		<releasedate />
+		<image>./mixart/model2.png</image>
+	</game>
+	<game>
+		<path>./daytona.zip</path>
+		<name>Daytona USA (Japan, Revision A)</name>
+		<desc>Daytona USA is an excellent checkpoint-style racing game.</desc>
+		<image>./mixart/daytonat.png</image>
+		<video>./snap/daytonat.mp4</video>
+		<marquee>./wheel/daytonat.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+	</game>
+	<game>
+		<path>./daytonagtx.zip</path>
+		<name>Daytona USA</name>
+		<desc>Daytona USA is an excellent checkpoint-style racing game.</desc>
+		<image>./mixart/daytonat.png</image>
+		<video>./snap/daytonat.mp4</video>
+		<marquee>./wheel/daytonat.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+	</game>
+	<game>
+		<path>./daytonam.zip</path>
+		<name>Daytona USA (Japan, To The MAXX)</name>
+		<desc>Daytona USA is an excellent checkpoint-style racing game.</desc>
+		<image>./mixart/daytonat.png</image>
+		<video>./snap/daytonat.mp4</video>
+		<marquee>./wheel/daytonat.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+	</game>
+	<game>
+		<path>./daytonase.zip</path>
+		<name>Daytona USA (Japan, Revision A)</name>
+		<desc>Daytona USA is an excellent checkpoint-style racing game.</desc>
+		<image>./mixart/daytonat.png</image>
+		<video>./snap/daytonat.mp4</video>
+		<marquee>./wheel/daytonat.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+	</game>
+	<game>
+		<path>./daytonat.zip</path>
+		<name>Daytona USA (Japan, Turbo hack, set 1)</name>
+		<desc>Daytona USA is an excellent checkpoint-style racing game.</desc>
+		<image>./mixart/daytonat.png</image>
+		<video>./snap/daytonat.mp4</video>
+		<marquee>./wheel/daytonat.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+	</game>
+	<game>
+		<path>./daytonata.zip</path>
+		<name>Daytona USA (set 2)</name>
+		<desc>Daytona USA is an excellent checkpoint-style racing game.</desc>
+		<image>./mixart/daytonat.png</image>
+		<video>./snap/daytonat.mp4</video>
+		<marquee>./wheel/daytonat.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+	</game>
+	<game>
+		<path>./desert.zip</path>
+		<name>Desert Tank</name>
+		<desc>Desert Tank is a 3-D tank simulator.</desc>
+		<image>./mixart/desert.png</image>
+		<video>./snap/desert.mp4</video>
+		<marquee>./wheel/desert.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em Up</genre>
+	</game>
+	<game>
+		<path>./doa.zip</path>
+		<name>Dead or Alive (Model 2B, Revision B)</name>
+		<desc>Dead or Alive is a fighting game and the first entry in the long-running Dead or Alive series. The gameplay of Dead or Alive was unique at the time of its debut because it featured different choices in gameplay than other 3D fighting games (at least at the time).</desc>
+		<image>./mixart/doa.png</image>
+		<video>./snap/doa.mp4</video>
+		<marquee>./wheel/doa.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./doaa.zip</path>
+		<name>Dead Or Alive (Model 2A, Revision A)</name>
+		<desc>Dead or Alive is a fighting game and the first entry in the long-running Dead or Alive series. The gameplay of Dead or Alive was unique at the time of its debut because it featured different choices in gameplay than other 3D fighting games (at least at the time).</desc>
+		<image>./mixart/doaa.png</image>
+		<marquee>./wheel/doaa.png</marquee>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Team Ninja</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./dynabb97.zip</path>
+		<name>Dynamite Baseball 97 (Revision A)</name>
+		<desc>Dynamite Baseball '97 is a 3-D baseball game, sequel to the original "Dynamite Baseball", which was released in 1996.  
+ 
+The music is very identical to the songs from the Sega Model 3 game, "Harley-Davidson &amp; L.A. Riders", and an earlier Sega Model 2 game, "Sega Ski Super-G".</desc>
+		<image>./mixart/dynabb97.png</image>
+		<video>./snap/dynabb97.mp4</video>
+		<marquee>./wheel/dynabb97.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports / Baseball-Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./dyndeka2.zip</path>
+		<name>Dynamite Deka 2 (Japan, Model 2A)</name>
+		<desc>Dynamite Cop is a 3D beat 'em up for up to two players in which players play as either Bruno Delinger, Jean Ivy, or Eddie Brown and fight through levels on board a cruise ship and on a deserted island to save the President's daughter from a band of modern-day pirates led by Wolf "White Fang" Hongo, the main antagonist from the first game. The classic Sega arcade game Tranquilizer Gun (1980) is included as a bonus game on the Dreamcast version. Clearing all missions will enable you to play Tranquilizer Gun an unlimited number of times.</desc>
+		<image>./mixart/dyndeka2.png</image>
+		<video>./snap/dynamcop.mp4</video>
+		<marquee>./wheel/dyndeka2.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>AM1</developer>
+		<publisher>Sega</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./dynmcopc.zip</path>
+		<name>dynmcopc</name>
+		<releasedate />
+		<players />
+	</game>
+	<game>
+		<path>./fvipers.zip</path>
+		<name>Fighting Vipers (revision D)</name>
+		<desc>Fighting Vipers is a 3-D fighting game.</desc>
+		<image>./mixart/fvipers.png</image>
+		<video>./snap/fvipers.mp4</video>
+		<marquee>./wheel/fvipers.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight / 3D-Fight</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./gunblade.zip</path>
+		<name>Gunblade NY (Revision A)</name>
+		<desc>Gunblade NY is an eye-popping, chase-oriented, futuristic-style military gun shooting game that pits you as a sniper of sorts against a horde of crazy Android Terrorists who are causing nothing but trouble in a futuristic large city in the United States of America. 
+ 
+Gunblade NY was pretty popular at the arcades mainly because you can shoot down the enemy missiles and as you destroy the crazy androids, you are 'locked' through the android so that you can destroy them one at a time.</desc>
+		<image>./mixart/gunblade.png</image>
+		<video>./snap/gunblade.mp4</video>
+		<marquee>./wheel/gunblade.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Lightgun Shooter-Shooter-Shoot'em Up</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./indy500d.zip</path>
+		<name>Indy 500 Twin (Revision A)</name>
+		<desc>Ladies and Gentlemen, Start Your Engines!!</desc>
+		<image>./mixart/indy500to.png</image>
+		<marquee>./wheel/indy500to.png</marquee>
+		<releasedate>19950101T000000</releasedate>
+	</game>
+	<game>
+		<path>./lastbrnx.zip</path>
+		<name>Last Bronx (Export, Revision A)</name>
+		<desc>Nine gang leaders battle it out for control over Tokyo city in this AM3 developed arcade fighting game. It was the first motion captured fighting game released back in May 1996 to Arcades in Japan.</desc>
+		<image>./mixart/lastbrnx.png</image>
+		<video>./snap/lastbrnx.mp4</video>
+		<marquee>./wheel/lastbrnx.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./lastbrnxj.zip</path>
+		<name>Last Bronx (Japan, Revision A)</name>
+		<desc>Nine gang leaders battle it out for control over Tokyo city in this AM3 developed arcade fighting game. It was the first motion captured fighting game released back in May 1996 to Arcades in Japan.</desc>
+		<image>./mixart/lastbrnxu.png</image>
+		<marquee>./wheel/lastbrnxu.png</marquee>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./lastbrnxu.zip</path>
+		<name>Last Bronx (USA, Revision A)</name>
+		<desc>Nine gang leaders battle it out for control over Tokyo city in this AM3 developed arcade fighting game. It was the first motion captured fighting game released back in May 1996 to Arcades in Japan.</desc>
+		<image>./mixart/lastbrnxu.png</image>
+		<marquee>./wheel/lastbrnxu.png</marquee>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./manxtt.zip</path>
+		<name>ManxTT Superbike (revision D)</name>
+		<desc>This game is a motorcycle race with the standard schema "gone last, finish first". It was based on the real-life Isle of Man Trophy race. Only 2 tracks are available, a short and a long version of the course. 
+The arcade cabinet provided a life-size bike on which to sit, which was really fun. However, it aged more badly than other similar games.</desc>
+		<image>./mixart/manxtt.png</image>
+		<video>./snap/manxtt.mp4</video>
+		<marquee>./wheel/manxtt.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Motorcycle Race, 1st Pers.-Race, Driving</genre>
+	</game>
+	<game>
+		<path>./manxttc.zip</path>
+		<name>Manx Tt Superbike - Dx (Revision C)</name>
+		<desc>Manx TT - Super Bike (c) 1995 Sega.  - TECHNICAL -  Sega Model 2A hardware  Main CPU : i960KB (@ 25 Mhz), 68000 (@ 12 Mhz) Sound Chips : SCSP (@ 12 Mhz)  Players : 2 Control : 8-way joystick Buttons : 4  - TRIVIA -  Released in November 1995 in Japan and</desc>
+		<image>./mixart/manxttc.png</image>
+		<marquee>./wheel/manxttc.png</marquee>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving-Motorcycle Race, 3rd Pers.</genre>
+	</game>
+	<game>
+		<path>./motoraid.zip</path>
+		<name>Motor Raid</name>
+		<desc>Based on Manx TT Superbike, but taking a cue from Road Rash, the player must race his motorcycle while defeating both his opponents and the clock. 
+ 
+It has all the standard features of such a title: passing a checkpoint adds more time, and when the countdown reaches zero, the player is stopped. Opponents can be hit with either a weapon or bare hands. A Turbo mode can be engaged by hitting the throttle twice.</desc>
+		<image>./mixart/motoraid.png</image>
+		<video>./snap/motoraid.mp4</video>
+		<marquee>./wheel/motoraid.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Motorcycle Race, 1st Pers.-Race, Driving</genre>
+	</game>
+	<game>
+		<path>./overrev.zip</path>
+		<name>Over Rev (Model 2C, Revision A)</name>
+		<desc>Over REV is a 1997 racing game developed by Jaleco for Sega's Model 2 arcade board. It features four nicely rendered tracks across the Greater Tokyo Area. Although it has some serious issues with driving and collision physics, if you stick with the game long enough to overcome its intricacies, it can be pretty rewarding. Like Jaleco's other Model 2 racer, Super GT 24h, you'll want to use an automatic transmission.</desc>
+		<image>./mixart/overrevb.png</image>
+		<video>./snap/overrevb.mp4</video>
+		<marquee>./wheel/overrevb.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Jaleco</developer>
+		<publisher>Jaleco</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./overrevb.zip</path>
+		<name>Over Rev (Model 2B, Revision B)</name>
+		<desc>Over REV is a 1997 racing game developed by Jaleco for Sega's Model 2 arcade board. It features four nicely rendered tracks across the Greater Tokyo Area. Although it has some serious issues with driving and collision physics, if you stick with the game long enough to overcome its intricacies, it can be pretty rewarding. Like Jaleco's other Model 2 racer, Super GT 24h, you'll want to use an automatic transmission.</desc>
+		<image>./mixart/overrevb.png</image>
+		<video>./snap/overrevb.mp4</video>
+		<marquee>./wheel/overrevb.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Jaleco</developer>
+		<publisher>Jaleco</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./pltkidsa.zip</path>
+		<name>Pilot Kids (Model 2A)</name>
+		<desc>A cutesy horizontal shooter where you play a kid in an airplane shooting at awesome bosses like an attack dog.</desc>
+		<image>./mixart/pltkidsa.png</image>
+		<video>./snap/pltkidsa.mp4</video>
+		<marquee>./wheel/pltkidsa.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Psikyo</publisher>
+		<genre>Shoot'em Up-Shoot'em up / Horizontal</genre>
+	</game>
+	<game>
+		<path>./rchase2.zip</path>
+		<name>Rail Chase 2 (Revision A)</name>
+		<desc>A shooting game in which you and a second player board a runaway mine cart and blast away at any oncoming enemies.</desc>
+		<image>./mixart/rchase2.png</image>
+		<video>./snap/rchase2.mp4</video>
+		<marquee>./wheel/rchase2.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Lightgun Shooter-Shooter-Shoot'em Up</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./sfight.zip</path>
+		<name>Sonic the Fighters (Japan)</name>
+		<desc>Sonic the Fighters, known as Sonic Championship on arcade versions in North America and Europe, is a fighting game developed by Sega AM2 for Sega's Model 2 arcade system. The game, which allows players to fight using characters from the Sonic the Hedgehog series, was released in arcades in Japan in May 1996 and North America in June 1996. The game was included in the compilation disc Sonic Gems Collection for PlayStation 2 and Nintendo GameCube in 2005. A HD port for Xbox Live Arcade and PlayStation Network was released in November 2012.</desc>
+		<image>./mixart/schamp.png</image>
+		<video>./snap/schamp.mp4</video>
+		<marquee>./wheel/schamp.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./von.zip</path>
+		<name>Dennou Senki Virtual-On (USA, Revision B)</name>
+		<desc>Virtual-On is set up similar to a Versus fighting game. Two Virtuaroids (Mecha) face each other on a stage. The player(s) use a variety of firearms, explosives, melee weapons, and other techniques to destroy the enemy for a set number of rounds, usually a single battle, or best two out of three rounds, like fighting games.
+
+The game is made to be played with a two-joystick setup, known as the twin-sticks. Each stick is equipped with a trigger and a button on top of the stick.</desc>
+		<image>./mixart/von.png</image>
+		<video>./snap/von.mp4</video>
+		<marquee>./wheel/von.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./vonj.zip</path>
+		<name>Cyber Troopers Virtual-on (Japan, Revision B)</name>
+		<desc>Virtual-On is set up similar to a Versus fighting game. Two Virtuaroids (Mecha) face each other on a stage. The player(s) use a variety of firearms, explosives, melee weapons, and other techniques to destroy the enemy for a set number of rounds, usually a single battle, or best two out of three rounds, like fighting games.
+
+The game is made to be played with a two-joystick setup, known as the twin-sticks. Each stick is equipped with a trigger and a button on top of the stick.</desc>
+		<image>./mixart/vonj.png</image>
+		<marquee>./wheel/vonj.png</marquee>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight-Fight / Versus-Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./bel.zip</path>
+		<name>Behind... Enemy Lines</name>
+		<desc>Behind Enemy Lines is a first-person view shoot'em up.</desc>
+		<image>./mixart/bel.png</image>
+		<video>./snap/bel.mp4</video>
+		<marquee>./wheel/bel.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter / 1st person-Lightgun Shooter-Shooter-Shoot'em Up</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./daytonas.zip</path>
+		<name>Daytona USA (With Saturn Adverts)</name>
+		<desc>Daytona USA is an excellent checkpoint-style racing game.</desc>
+		<image>./mixart/daytonat.png</image>
+		<video>./snap/daytonat.mp4</video>
+		<marquee>./wheel/daytonat.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+	</game>
+	<game>
+		<path>./indy500.zip</path>
+		<name>Indianapolis 500 (Revision A, Newer)</name>
+		<desc>Ladies and Gentlemen, Start Your Engines!!</desc>
+		<image>./mixart/indy500.png</image>
+		<video>./snap/indy500.mp4</video>
+		<marquee>./wheel/indy500.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Various-Various / Electro- Mechanical-Race, Driving</genre>
+	</game>
+	<game>
+		<path>./vcop2.zip</path>
+		<name>Virtua Cop 2</name>
+		<desc>The game features three levels through which the player's movement is automated on a predetermined path. It is the player's job to shoot the criminals that appear before time runs out and they shoot back. Along the way there will be various objects in the background that can be broken if shot, some of which will reveal power ups afterwards. At the end of each level there is a boss battle, as well as one extra final boss battle after all three levels have been finished.</desc>
+		<image>./mixart/vcop2.png</image>
+		<video>./snap/vcop2.mp4</video>
+		<marquee>./wheel/vcop2.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Lightgun Shooter-Shooter-Shoot'em Up</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./hotd.zip</path>
+		<name>House of the Dead</name>
+		<desc>Make your way through a haunted mansion filled with crazed zombies, chainsaw-wielding 'undeads' and other nasty creatures! Your mission is to investigate the status of the mysteriously missing personnel at a genetic engineering center, and the first team of operatives sent to rescue them. You must destroy the Undead's evil creator, Dr. Curien, while saving the scientists and your girl. During the game, you discover that good doctor is the one resurrecting the Undead, and you must stop him and his evil undead minions.</desc>
+		<image>./mixart/hotd.png</image>
+		<video>./snap/hotd.mp4</video>
+		<marquee>./wheel/hotd.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./dayton93.zip</path>
+		<name>Daytona USA</name>
+		<desc>Daytona USA is an excellent checkpoint-style racing game.</desc>
+		<image>./mixart/daytonat.png</image>
+		<video>./snap/daytonat.mp4</video>
+		<marquee>./wheel/daytonat.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+	</game>
+</gameList>

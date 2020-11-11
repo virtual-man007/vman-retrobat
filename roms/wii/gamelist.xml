@@ -1,0 +1,1094 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Wii</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game id="8701" source="ScreenScraper.fr">
+		<path>./Animal Crossing - City Folk [NTSC-U].cc.rvz</path>
+		<name>Animal Crossing: City Folk</name>
+		<desc>If life were an endless vacation, what would you do? Go fishing, collect shells or watch fireworks with friends? Build a snowman, exchange presents with family or decorate your house for the holidays? Take a trip to the city, go on a shopping spree or visit friends from all over the globe? In Animal Crossing: Let's Go to the City, life moves at a relaxed pace, but the world brims with endless possibilities.There?s always something new to do. In the living, breathing world of Animal Crossing: Let's Go to the City days and seasons pass in real time, so there?s always something to discover. Catch fireflies in the summer, go trick-or-treating on Halloween or hunt for eggs on Bunny Day. If you?re in the mood for something a little faster paced, take a bus to a new urban city area that?s unique to Animal Crossing: Let's Go to the City. There you can catch a show at the theatre or check out the sales at Gracie?s boutique. But if you don?t show your face back home for too long, your neighbours will miss you.</desc>
+		<rating>0.8</rating>
+		<releasedate>20081116T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./mixart/Animal Crossing - City Folk [NTSC-U].cc.png</image>
+		<marquee>./wheel/Animal Crossing - City Folk [NTSC-U].cc.png</marquee>
+		<video>./snap/Animal Crossing - City Folk [NTSC-U].cc.mp4</video>
+		<genreid>1024</genreid>
+	</game>
+	<game id="9061" source="ScreenScraper.fr">
+		<path>./Arc Rise Fantasia [NTSC-U].cc.rvz</path>
+		<name>Arc Rise Fantasia</name>
+		<desc>From Image Epoch, the team that created the strategy RPG Luminous Arc, comesan epic RPG exclusively developed for the Wii. Arc Rise Fantasia is a product of old and new, combining gorgeous graphics with modern gameplay while bringing classic Japanese high fantasy role-playing action involving airships and dragons, exclusively to the platform.Players will jump into the shoes of L'Arc, a calm and composed mercenary, who sets out to defend the Meridian Empire from an impending invasion of ferocious creatures. After assembling a party of friends, each with a unique set of abilities, players will embark on a perilous journey across an overworld filled with deadly enemies and treacherous dungeons. While strategically queuing up attacks, players can summon mystical creatures and work with their party members to execute massive attacks.</desc>
+		<rating>0.75</rating>
+		<releasedate>20090604T000000</releasedate>
+		<developer>Image Epoch</developer>
+		<publisher>Ignition Entertainment</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Arc Rise Fantasia [NTSC-U].cc.png</image>
+		<marquee>./wheel/Arc Rise Fantasia [NTSC-U].cc.png</marquee>
+		<video>./snap/Arc Rise Fantasia [NTSC-U].cc.mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="9454" source="ScreenScraper.fr">
+		<path>./Baroque (USA).cc.rvz</path>
+		<name>Baroque</name>
+		<desc>A World Affected by Death and Reincarnation. Step into a dark action-RPG featuring twisted characters presented in a disturbing world of pain and suffering. After a cataclysmic event, the land and its inhabitants are warped into a nightmare only you can solve. Battle merciless foes as you travel deeper into the shifting Neuro Tower in search of absolution. Experience a never-before-seen dungeon structure where levels are forever-changing. Engage yourself in a unique propgression system where death merely serves to advance the storyline. Descend through the darkness to unveil more secrets of a broken world.</desc>
+		<rating>0.9</rating>
+		<releasedate>20080408T000000</releasedate>
+		<developer>Sting Entertainment</developer>
+		<publisher>Rising Star Games</publisher>
+		<genre>Action-Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Baroque (USA).cc.png</image>
+		<marquee>./wheel/Baroque (USA).cc.png</marquee>
+		<video>./snap/Baroque (USA).cc.mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="152802" source="ScreenScraper.fr">
+		<path>./Battalion Wars 2 [NTSC-U].cc.rvz</path>
+		<name>Battalion Wars 2</name>
+		<desc>This sequel to Battalion Wars plays much like its predecessor, blending real-time strategy with third-person shooting. The game's plot traces decades of war among six factions (Solar Empire, Western Frontier, Anglo Isles, Iron Legion, Tundran Territories, Xylvania), and unfolds through contemporary missions that advance the conflict and flashback missions that reveal its history. 
+ 
+Players control a soldier or a land, sea, or air vehicle to engage in combat directly and to command other units. The Wii Remote is used to target and fire, but selecting and ordering units is performed through conventional button presses. The Wii Nunchuk's thumbstick controls player movement, and evasive maneuvers are handled through gestures. 
+ 
+In the single-player campaign mode, the player assumes control of the various factions at different points in the conflict's history. The game also features three online multiplayer modes. Skirmish mode is a timed two-player match to score more points than the other player by destroying opposing units. Assault mode is a timed two-player match in which one player attempts to destroy the other player's resources and fortifications while the other defends. Co-Op mode is an untimed two-player match in which both players work together to complete special online missions that are not part of the single-player campaign. Offline local multiplayer is not supported.</desc>
+		<rating>0.9</rating>
+		<releasedate>20071029T000000</releasedate>
+		<developer>Kuju Entertainment</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Strategy</genre>
+		<players>2</players>
+		<image>./mixart/Battalion Wars 2 [NTSC-U].cc.png</image>
+		<marquee>./wheel/Battalion Wars 2 [NTSC-U].cc.png</marquee>
+		<video>./snap/Battalion Wars 2 [NTSC-U].cc.mp4</video>
+		<genreid>1280</genreid>
+	</game>
+	<game id="9037" source="ScreenScraper.fr">
+		<path>./Bit.Trip Complete [NTSC-U].cc.rvz</path>
+		<name>Bit.trip Complete</name>
+		<desc>Retro-classic meets modern-cool in this collection of games built on a creative combination of 8-bit graphics and addictive, quick-hit, arcade-style play that dares you to escape its gravitational pull. Bit.Trip Complete brings together six Bit.Trip games: Bit.Trip Beat, Core, Void, Runner, Fate, and Flux. Together, they tell the epic story of CommaderVideo. Beat, Core, and Void are all rhythm-based challenges. Runner moves to 2600-style platforming, Fate turns on the shooter explosiveness, while Flux returns to Bit.Trip's rhythm roots. Each game features a classic chiptune soundtrack and one-of-a-kind visuals that look like they leaked out of an Atari that spent the last 30 years cooking in the microwave.Features:- 6 Complete Games- Online Leaderboards- 120 New Gameplay Challenges- New Difficulty Modes- Unlockable Audio, Video, and Art Galleries</desc>
+		<rating>0.85</rating>
+		<releasedate>20120316T000000</releasedate>
+		<developer>Gaijin Games</developer>
+		<publisher>Marvelous Interactive</publisher>
+		<genre>Various-Compilation-Music and Dance-Action-Shoot'em Up</genre>
+		<players>1</players>
+		<image>./mixart/Bit.Trip Complete [NTSC-U].cc.png</image>
+		<marquee>./wheel/Bit.Trip Complete [NTSC-U].cc.png</marquee>
+		<video>./snap/Bit.Trip Complete [NTSC-U].cc.mp4</video>
+		<genreid>266</genreid>
+	</game>
+	<game id="9396" source="ScreenScraper.fr">
+		<path>./Bomberman Blast.wad</path>
+		<name>Bomberman Blast</name>
+		<desc>A brand new addition to the "Bomberman" series is available on WiiWare! Up to 8 players can battle online at once via Nintendo Wi-Fi Connection! Simple controls make this a great game for family and friends to enjoy at anytime!New items can be triggered by shaking the Wii Remote for excitement never before experienced in a Bomberman title! You can even take the intensity up another notch by adding your own Miis to the mix!Battle results can be recorded on the Nintendo Wi-Fi Connection Ranking, so see how you stack up against others around the globe! This title will prove to be a blast for everyone--from those who've never touched a Bomberman game, to the Bomberman masters!</desc>
+		<rating>0.85</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+		<image>./mixart/Bomberman Blast.png</image>
+		<marquee>./wheel/Bomberman Blast.png</marquee>
+		<video>./snap/Bomberman Blast.mp4</video>
+		<genreid>256</genreid>
+	</game>
+	<game id="9039" source="ScreenScraper.fr">
+		<path>./A Boy and his Blob [NTSC-U].cc.rvz</path>
+		<name>Boy And His Blob, A</name>
+		<desc>The far-off kingdom of Blobolonia is threatened by an evil emperor.  An alien blob escapes from Blobolonia, searching for help, and he crash lands on planet Earth.  There he finds a young boy.  Help the pair save Blobolonia from the Emperor's tyrannical reign!
+
+A Boy and his Blob is based on David Crane's Nintendo game of the same name.  As the nameless Boy, you have control over an alien blob who can transform into different objects when you feed him different flavored jellybeans.  The transformations are usually based on puns (for example, punch is a hole, apple is a jack and licorice is a ladder) or similar sounding names (such as tangerine trampoline and pear parachute).  Using the different tools that Blob can transform into, it's up to the player to reach the exit door at the end of each level.
+
+Each level also has three hidden treasure chests in it.  If all three are found, a bonus level is unlocked.  The bonus levels are Challenge Levels, which are more difficult, and often based around using a specific skill or jellybean flavor.  Completing these levels unlocks special rewards such as concept art, videos and new game modes.</desc>
+		<rating>0.9</rating>
+		<releasedate>20091013T000000</releasedate>
+		<developer>Wayforward Technologies</developer>
+		<publisher>Majesco</publisher>
+		<genre>Action-Platform-Puzzle-Game</genre>
+		<players>1</players>
+		<image>./mixart/A Boy and his Blob [NTSC-U].cc.png</image>
+		<marquee>./wheel/A Boy and his Blob [NTSC-U].cc.png</marquee>
+		<video>./snap/A Boy and his Blob [NTSC-U].cc.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="9810" source="ScreenScraper.fr">
+		<path>./Castle of Shikigami III [NTSC-U].cc.rvz</path>
+		<name>Castle of Shikigami III</name>
+		<desc>A continuation of the Shikigami series, CoS III is a standard vertical-scrolling sci-fi shooter, featuring ten different characters each with their own special weapons and abilities.
+
+There are five different stages to play in, each of them divided into two chapters and has the standard huge, wild-looking bosses to destroy. The player also has the option to switch between aircraft in mid-flight in one-player games or you can play with a friend in co-op.  There are fifty-five possible story elements and a Tension Bonus system that rewards the player by putting themselves in danger by getting close to enemies and dodging enemy fire and it also has a gallery mode.</desc>
+		<rating>0.65</rating>
+		<releasedate>20080513T000000</releasedate>
+		<developer>PQube</developer>
+		<publisher>Alfa System</publisher>
+		<genre>Action-Shoot'em Up</genre>
+		<players>2</players>
+		<image>./mixart/Castle of Shikigami III [NTSC-U].cc.png</image>
+		<marquee>./wheel/Castle of Shikigami III [NTSC-U].cc.png</marquee>
+		<video>./snap/Castle of Shikigami III [NTSC-U].cc.mp4</video>
+		<genreid>260</genreid>
+	</game>
+	<game id="9144" source="ScreenScraper.fr">
+		<path>./Castlevania ReBirth.wad</path>
+		<name>Castlevania : The Adventure Rebirth</name>
+		<desc>The classic Castlevania game is reborn for the Wii with all-new upgrades. 
+ 
+Another 100 years has passed since the death of Count Dracula, but the revival of his curse has emerged once again within the realms of Transylvania. Play the role of the ultimate gothic hero from the long lineage of vampire hunters, the Belmont clan, and rid the universe of Dracula s legion of darkness and doom. Based on the classic 1989 original Castlevania: The Adventure, the WiiWare version will allow players of a new generation and older fans to experience one of the most popular games within the storied Castlevania timeline from a new perspective.</desc>
+		<rating>0.7</rating>
+		<releasedate>20091228T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./mixart/Castlevania ReBirth.png</image>
+		<marquee>./wheel/Castlevania ReBirth.png</marquee>
+		<video>./snap/Castlevania ReBirth.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="8891" source="ScreenScraper.fr">
+		<path>./Castlevania Judgment [NTSC-U].cc.rvz</path>
+		<name>Castlevania Judgment</name>
+		<desc>Castlevania Judgement is a first in many: it s the first Castlevania beat em up. It s also the first time old friends of the Belmont clan meet together in a full 3D environment. 
+ 
+Galamoth pursues to change the course of fate by resurrecting a 10,000 year old demon, Time Reaper, to destroy Dracula. Aeon, a magician who discovers Galamoth s plan, summons past and present Castlevania heroes through a time rift to stop Galamoth. 
+ 
+Castlevania Judgement is a 3D beat em up where you go one-on-one against friends or computer foes. Several different game modes like the usual beat em up modes of story, training and versus. In addition there s a Castle mode, where you must venture through Dracula s Castle before going face to face with Time Reaper. Survival mode has you fighting for time as there are no continues.</desc>
+		<rating>0.85</rating>
+		<releasedate>20090319T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action-Fight</genre>
+		<players>2</players>
+		<image>./mixart/Castlevania Judgment [NTSC-U].cc.png</image>
+		<marquee>./wheel/Castlevania Judgment [NTSC-U].cc.png</marquee>
+		<video>./snap/Castlevania Judgment [NTSC-U].cc.mp4</video>
+		<genreid>262</genreid>
+	</game>
+	<game id="10088" source="ScreenScraper.fr">
+		<path>./Cho Aniki.wad</path>
+		<name>Cho Aniki : Super Big Brothers</name>
+		<desc>In Cho Aniki - Super Big Brothers despite having dominated the Galactic Bodybuilding Contest for the past 10 years, the emperor of Planet Builder felt ill at ease. His home planet's supply of PROTEIN was running out. Holding muscular prowess to be the supreme virtue of the universe, the forces of Planet Builder indiscriminately invaded nearby planets. Unwilling to stand by and let their celestial home be laid to waste, "IDATEN" and "BENTEN" set forth to drive out the invading Builder forces, destroy their PROTEIN mining facilities, and make their way to Planet Builder itself to annihilate this galactic menace!</desc>
+		<releasedate>20080509T000000</releasedate>
+		<developer>Masaya Games</developer>
+		<publisher>Masaya Games</publisher>
+		<genre>Shoot'em Up</genre>
+		<image>./mixart/Cho Aniki.png</image>
+		<marquee>./wheel/Cho Aniki.png</marquee>
+		<video>./snap/Cho Aniki.mp4</video>
+		<genreid>260</genreid>
+	</game>
+	<game id="9797" source="ScreenScraper.fr">
+		<path>./Club Penguin - Game Day [NTSC-U].cc.rvz</path>
+		<name>Club Penguin Game Day!</name>
+		<desc>Play in the first ever Club Penguin island-wide Game Day challenge only on the Nintendo Wii. Create your own penguin, join a team and compete against other penguin teams in Dance Off!, Puffle Paddle, Sumo Smash, Fast Freeze and more. Compete to see who is the best team once and for all!</desc>
+		<rating>0.8</rating>
+		<releasedate>20100916T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Casual Game</genre>
+		<image>./mixart/Club Penguin - Game Day [NTSC-U].cc.png</image>
+		<marquee>./wheel/Club Penguin - Game Day [NTSC-U].cc.png</marquee>
+		<video>./snap/Club Penguin - Game Day [NTSC-U].cc.mp4</video>
+		<genreid>2304</genreid>
+	</game>
+	<game id="9759" source="ScreenScraper.fr">
+		<path>./Contra ReBirth (USA) (WiiWare).wad</path>
+		<name>Contra Rebirth</name>
+		<desc>Experience fast paced 2D side scrolling action from the series that pioneered the run-and-gun genre.
+
+Chief Salamander and his Neo-Salamander Force travel back to 1973 AD to invade Earth. They land in Central America and take control of the Shizuoka ruins on the Yucatan Peninsula. There, the aliens plan the destruction of all the ?Contra" on Earth. The Galactic President calls on Lance Bean, a member of the elite "Contra" warriors to save the Earth, but his sudden disappearance jeopardizes the safety of the planet. Now, Bill Rizer and the samurai, Genbei Yagyu are the last hope for Earth and must pick up their weapons and defeat the evil Neo-Salamander Army before all is lost. Experience the fast paced action packed 2D side-scrolling adventure that pioneered the run-and-gun genre.</desc>
+		<rating>0.75</rating>
+		<releasedate>20090512T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1-2</players>
+		<image>./mixart/Contra ReBirth (USA) (WiiWare).png</image>
+		<marquee>./wheel/Contra ReBirth (USA) (WiiWare).png</marquee>
+		<video>./snap/Contra ReBirth (USA) (WiiWare).mp4</video>
+		<genreid>256</genreid>
+	</game>
+	<game id="9211" source="ScreenScraper.fr">
+		<path>./Dokapon Kingdom (USA).cc.rvz</path>
+		<name>Dokapon Kingdom</name>
+		<desc>The Kingdom of Dokapon is a land of wealth and riches ruled by a gold-loving King and his daughter Princess Penny. One day, monsters begin appearing all over the realm, assaulting the towns and stealing all of the empire¿s wealth. The King, unable to collect taxes from his impoverished citizens, calls for heroes from across the land to come and rid his monarchy of these monsters. The prize for the hero who is able to free the land: The hand of Princess Penny and rule of the Kingdom itself! Warning : relationship counseling not included!</desc>
+		<rating>0.65</rating>
+		<releasedate>20081014T000000</releasedate>
+		<developer>Sting</developer>
+		<publisher>Bigben Interactive</publisher>
+		<genre>Casual Game-Role playing games</genre>
+		<players>2-4</players>
+		<image>./mixart/Dokapon Kingdom (USA).cc.png</image>
+		<marquee>./wheel/Dokapon Kingdom (USA).cc.png</marquee>
+		<video>./snap/Dokapon Kingdom (USA).cc.mp4</video>
+		<genreid>2304</genreid>
+	</game>
+	<game id="8712" source="ScreenScraper.fr">
+		<path>./Donkey Kong Country Returns (USA) (En,Fr,Es) (Rev 1).cc.rvz</path>
+		<name>Donkey Kong Country Returns</name>
+		<desc>Under the influence of a group of evil Tikis, the animals of Donkey Kong Island have raided Donkey Kong's banana hoard and stolen his stash of bananas - and being an ape of large appetites he understandably wants them back. Good thing that you are along for the ride. With Donkey Kong Country Returns, Retro Studios brings Donkey Kong back to a banana and platforming hungry public in a new side-scrolling adventure with familiar characters and new levels that reignite the passion players had for the Super NES original and all things Donkey Kong.</desc>
+		<rating>0.9</rating>
+		<releasedate>20101203T000000</releasedate>
+		<developer>Retro Studios</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Platform</genre>
+		<players>2</players>
+		<image>./mixart/Donkey Kong Country Returns (USA) (En,Fr,Es) (Rev 1).cc.png</image>
+		<marquee>./wheel/Donkey Kong Country Returns (USA) (En,Fr,Es) (Rev 1).cc.png</marquee>
+		<video>./snap/Donkey Kong Country Returns (USA) (En,Fr,Es) (Rev 1).cc.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="9664" source="ScreenScraper.fr">
+		<path>./Dr Mario Online Rx.wad</path>
+		<name>Dr. Mario Online RX</name>
+		<desc>The all-time puzzle classic returns for the Wii generation, featuring online gameplay and a new Germ Buster mode! Destroy all the viruses trapped in the bottle by dropping and slotting capsules to create lines of matching colours. The more viruses you clear, the faster the capsules drop.nnnnIn Dr. Mario, challenge the computer in 1 Player mode, go head-to-head with a friend in 2 Player mode, or prove your skills against the world via Nintendo Wi-Fi Connection. You can also send a demo version of the game to a friend (within your region) using WiiConnect24.nnnnIn Germ Buster (based on the relaxation game in More Brain Training from Dr Kawashima), up to four players can use their Wii Remotes to grab, spin and slot capsules as your Miis try to keep the nasty bugs at bay. Who thought that catching germs could be so much fun?</desc>
+		<rating>0.7</rating>
+		<releasedate>20080325T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Compilation-Puzzle-Game</genre>
+		<players>1-2</players>
+		<image>./mixart/Dr Mario Online Rx.png</image>
+		<marquee>./wheel/Dr Mario Online Rx.png</marquee>
+		<video>./snap/Dr Mario Online Rx.mp4</video>
+		<genreid>3840</genreid>
+	</game>
+	<game id="9951" source="ScreenScraper.fr">
+		<path>./Dracula - Undead Awakening.wad</path>
+		<name>Dracula : Undead Awakening</name>
+		<desc>Are you a Vampire Hunter, ready to battle legions of undead foes; zombies, ghouls, werewolves and Dracula himself? 
+ 
+Are you a vampire hunter? Are you ready to battle legions of undead foes including zombies, ghouls, werewolves, and more? You will need to wield an arsenal of jaw-droppingly powerful weaponry with skill and intelligence. Uncover devastating firepower such as machine guns, buzz-saws and flamethrowers, choosing upgrades for them as well as unique new perks for your character as your enemies increase in number and ferocity. You are a tough customer, but bewareâ€”Lord Dracula is always on the hunt and you are his prey! Enemies in Dracula have one thing in common. Undead, lycanthrope, mutant, and many moreâ€”they re all after your flesh. Not to worry thoughâ€”you come bearing â€œgifts.â€  Well, as long as you think of sharp, explosive, devastatingly destructive weaponry and ammo as â€œgifts.â€ </desc>
+		<rating>0.85</rating>
+		<releasedate>20100226T000000</releasedate>
+		<developer>Chillingo</developer>
+		<publisher>Chillingo</publisher>
+		<genre>Adventure</genre>
+		<image>./mixart/Dracula - Undead Awakening.png</image>
+		<marquee>./wheel/Dracula - Undead Awakening.png</marquee>
+		<video>./snap/Dracula - Undead Awakening.mp4</video>
+		<genreid>512</genreid>
+	</game>
+	<game id="9538" source="ScreenScraper.fr">
+		<path>./Excitebike - World Rally (USA) (WiiWare).wad</path>
+		<name>Excitebike : World Rally</name>
+		<desc>The classic game play of Excitebike is combined with new controls and features in this exclusive WiiWare title! 
+Prepare to face daredevil jumps, crazy obstacles, and other racers in the newest member of the venerable Excitebike franchise, exclusively available on the WiiWare service. Choose from multiple camera angles as you tilt your way to smooth landings using the motion-sensitive controls and compete in races around the world in four championship circuits. Better yet, use Nintendo Wi-Fi Connection to invite friends to a race, or if you re feeling brave, take on anyone else looking for a match. Feel like tackling a challenge of your own design? Use the intuitive Track Editor to choose from the available obstacles and put together your dream course, then share your masterpiece with friends (and vice versa) to see whose creation skills reign supreme. After all, you know what they say about riding a bikeâ€”once you ve learned how, you never forget...</desc>
+		<rating>0.9</rating>
+		<releasedate>20091109T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<image>./mixart/Excitebike - World Rally (USA) (WiiWare).png</image>
+		<marquee>./wheel/Excitebike - World Rally (USA) (WiiWare).png</marquee>
+		<video>./snap/Excitebike - World Rally (USA) (WiiWare).mp4</video>
+		<genreid>1537</genreid>
+	</game>
+	<game id="9636" source="ScreenScraper.fr">
+		<path>./FAST - Racing League.wad</path>
+		<name>FAST : Racing League</name>
+		<desc>Prepare yourself for a whole new racing experience at breakneck speeds. 
+ 
+In the year 2112 the masses are fascinated by extreme high speed races. The latest antigrav racing technology introduced phase shifting. Perfect phase matching of track and racing machine is the key to stay alive. 
+ 
+Prepare yourself for a whole new racing experience at breakneck speeds. Push your skills to the limit to win races and beat records. Challenge your friends to an all-out split-screen competition. Compete against ruthless opponents and race to the top of all leagues. Warm up your engines, the future is now...</desc>
+		<rating>0.8</rating>
+		<releasedate>20110527T000000</releasedate>
+		<developer>Shin'en</developer>
+		<publisher>Shin'en</publisher>
+		<genre>Race, Driving</genre>
+		<players>1-4</players>
+		<image>./mixart/FAST - Racing League.png</image>
+		<marquee>./wheel/FAST - Racing League.png</marquee>
+		<video>./snap/FAST - Racing League.mp4</video>
+		<genreid>1537</genreid>
+	</game>
+	<game id="8799" source="ScreenScraper.fr">
+		<path>./FIFA Soccer 10 (USA) (En,Es).cc.rvz</path>
+		<name>FIFA 10 World Class Soccer</name>
+		<desc>Listening to feedback and addressing gamer frustrations has become a key part of the EA SPORTS strategy to improve the FIFA franchise on an annual basis.Better balance on lofted through balls, improved goalkeeper intelligence, more realistic shooting mechanics with less shots hitting the goal posts, a practice arena to perfect skills, and a more immersive football experience through continuous play and quick free kicks are just a few of the issues raised by fans and addressed in FIFA 10. Three new innovations revealed today have been developed to change the player control experience in FIFA 10. The first-ever true 360° dribbling system gives players finer control of the ball, enabling them to find spaces between defenders that previously were not possible. Using an all-new animation technology, skilled dribblers now have the ability to face the defender and use highly responsive lateral dribbling to skip past him. An innovative concept called Freedom in Physical Play enables players to perform wider dribble touches and new collision sharing creates a varied, less predictable, and extended fight for possession between the dribbler and a defender.FIFA 10 also features a deeper iteration of the ever-popular Manager Mode with more than 50 major improvements, including new match realism, realistic player transfers based on multiple decision points, and true-to-life player growth curves.</desc>
+		<rating>0.65</rating>
+		<releasedate>20091001T000000</releasedate>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>4</players>
+		<image>./mixart/FIFA Soccer 10 (USA) (En,Es).cc.png</image>
+		<marquee>./wheel/FIFA Soccer 10 (USA) (En,Es).cc.png</marquee>
+		<video>./snap/FIFA Soccer 10 (USA) (En,Es).cc.mp4</video>
+		<genreid>1536</genreid>
+	</game>
+	<game id="8856" source="ScreenScraper.fr">
+		<path>./Final Fantasy Crystal Chronicles - Echoes of Time (USA) (En,Fr,Es).cc.rvz</path>
+		<name>Final Fantasy Crystal Chronicles: Echoes of Time</name>
+		<desc>Journey forth into the world of FINAL FANTASY CRYSTAL CHRONICLES: ECHOES OF TIME, as you select your own adventurer and take on the challenges of the world. Choose your race, gender, and equipment as you battle your way through dungeons of hordes of creatures. Join with others for Wi-Fi and cross platform play! For the first time ever adventurers now come together on Wii and Nintendo DS the world over!</desc>
+		<rating>0.6</rating>
+		<releasedate>20090324T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role playing games</genre>
+		<image>./mixart/Final Fantasy Crystal Chronicles - Echoes of Time (USA) (En,Fr,Es).cc.png</image>
+		<marquee>./wheel/Final Fantasy Crystal Chronicles - Echoes of Time (USA) (En,Fr,Es).cc.png</marquee>
+		<video>./snap/Final Fantasy Crystal Chronicles - Echoes of Time (USA) (En,Fr,Es).cc.mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="9001" source="ScreenScraper.fr">
+		<path>./Final Fantasy IV - The After Years (USA) (WiiWare).wad</path>
+		<name>Final Fantasy IV : The After Years</name>
+		<desc>Final Fantasy IV : Les Années Suivantes sur Wii nous raconte la suite de Final Fantasy IV. Le soft, proposé sous la forme d'épisodes téléchargeables, était sorti sur mobile au Japon. L'histoire nous permet de découvrir le devenir des héros du volet original, mais se focalise également sur leurs descendants. Les notions de phases lunaires et d'attaques de coopération ont été rajoutées pour dynamiser le gameplay traditionnel de la série.</desc>
+		<rating>0.6</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Final Fantasy IV - The After Years (USA) (WiiWare).png</image>
+		<marquee>./wheel/Final Fantasy IV - The After Years (USA) (WiiWare).png</marquee>
+		<video>./snap/Final Fantasy IV - The After Years (USA) (WiiWare).mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="8714" source="ScreenScraper.fr">
+		<path>./Fire Emblem - Radiant Dawn (USA) (Rev 1).cc.rvz</path>
+		<name>Fire Emblem: Radiant Dawn</name>
+		<desc>The sequel to 2005 s Path of Radiance and the tenth game in the Fire Emblem series, Radiant Dawn takes place three years after the defeat of the Daein kingdom by Crimea. 
+ 
+Unlike other Wii games, the main method of control is either through the classic controller or GameCube controller, since the action is wholly turn-based tactical combat, largely the same as the previous nine games. The game consists of 44 chapters and uses the same engine as Path of Radiance. There are three new weapon and magic types: Knife, Dark Magic and Strike. 
+ 
+The player must lead a band of heroes against the Begnion Empire s oppression of the defeated Daein, along with help from many of the heroes from Path of Radiance. The members of the Dawn group are the main heroes of the game, with a major role for Sothe, who was a child thief from the previous Fire Emblem game.</desc>
+		<rating>0.9</rating>
+		<releasedate>20071105T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy-Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Fire Emblem - Radiant Dawn (USA) (Rev 1).cc.png</image>
+		<marquee>./wheel/Fire Emblem - Radiant Dawn (USA) (Rev 1).cc.png</marquee>
+		<video>./snap/Fire Emblem - Radiant Dawn (USA) (Rev 1).cc.mp4</video>
+		<genreid>1280</genreid>
+	</game>
+	<game id="10440" source="ScreenScraper.fr">
+		<path>./Frogger Returns.wad</path>
+		<name>Frogger Returns</name>
+		<desc>Your favorite street-hopping amphibian is back!  
+ 
+Frogger Returns takes the heart-pounding challenge of arcade Frogger and takes it into the next dimension! Classic top-down 2D gameplay is updated with colorful 3D graphics, a new perspective, all-new levels, new enemies and game-changing power-ups to dodge and use! Local multiplayer lets you race a friend to victory</desc>
+		<rating>0.85</rating>
+		<releasedate>20100212T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Various</genre>
+		<image>./mixart/Frogger Returns.png</image>
+		<marquee>./wheel/Frogger Returns.png</marquee>
+		<video>./snap/Frogger Returns.mp4</video>
+	</game>
+	<game id="9140" source="ScreenScraper.fr">
+		<path>./Geometry Wars - Galaxies (USA).cc.rvz</path>
+		<name>Geometry Wars Galaxies</name>
+		<desc>Blast your way through all-new battle grids, upgrade your new Battle Drone and blast through relentless waves of enemies in the first-ever Geometry Wars single-player campaign. Then join a friend for fast-paced multiplayer that's out of this world. Geometry Wars: Galaxies also includes the full version of Bizarre Creations' Geometry Wars: Retro Evolved, winner of IGN's Best Xbox Live Arcade Title of the Year.</desc>
+		<rating>0.85</rating>
+		<releasedate>20071120T000000</releasedate>
+		<developer>Kuju Entertainment</developer>
+		<publisher>Sierra</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<image>./mixart/Geometry Wars - Galaxies (USA).cc.png</image>
+		<marquee>./wheel/Geometry Wars - Galaxies (USA).cc.png</marquee>
+		<video>./snap/Geometry Wars - Galaxies (USA).cc.mp4</video>
+		<genreid>260</genreid>
+	</game>
+	<game id="10075" source="ScreenScraper.fr">
+		<path>./Gradius ReBirth.wad</path>
+		<name>Gradius Rebirth</name>
+		<desc>Blast your way through levels filled with alien spaceships and otherworldly creatures in this retro side-scrolling shooter. Pick your weapons carefully and upgrade them to create a devastating arsenal of space-aged weapons that will aid you in your challenging mission. Players can post their high scores to worldwide leader boards via Nintendo Wi-Fi Connection and see where they rank against all the other Gradius ReBirth players. Test your skills with Gradius ReBirth and see if you have what it takes to beat this action-packed arcade shooter.</desc>
+		<rating>0.85</rating>
+		<releasedate>20090309T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<image>./mixart/Gradius ReBirth.png</image>
+		<marquee>./wheel/Gradius ReBirth.png</marquee>
+		<video>./snap/Gradius ReBirth.mp4</video>
+		<genreid>260</genreid>
+	</game>
+	<game id="10458" source="ScreenScraper.fr">
+		<path>./Gyrostarr.wad</path>
+		<name>Gyrostarr</name>
+		<desc>Killer arcade shooter with 50 levels of intense action and 1-4 player mayhem. Master the warp gate! 
+ 
+Gyrostarr challenges you and up to three additional players to pilot your ships through a series of twisting, turning technoplasma tracks while battling a variety of deadly alien foes at ever-increasing speeds. While fighting and maneuvering, you must collect enough energy to activate the ancient warpgate at the end of each track. Succeed, and you can journey to the next, even deadlier track. Fail, and the gate will slam shut, destroying your ship. Enhance your ship with weapon pickups, coordinate attacks with your friends to fire powerful combined blasts and use your grapple to snag energy and pickups in the midst of combat. Control your ship with the Wii Remote controller, Nunchuk controller or Classic Controller, or use the "paired" control system that allows two players to use a connected Wii Remote and Nunchuk or Classic Controller at the same time. Offering 50 levels of intense action, powerful pickups, high-speed bonus levels and mayhem for up to four players, Gyrostarr is a killer arcade challenge.</desc>
+		<releasedate>20080602T000000</releasedate>
+		<developer>High Voltage</developer>
+		<publisher>High Voltage</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2-4</players>
+		<image>./mixart/Gyrostarr.png</image>
+		<marquee>./wheel/Gyrostarr.png</marquee>
+		<video>./snap/Gyrostarr.mp4</video>
+		<genreid>260</genreid>
+	</game>
+	<game id="9916" source="ScreenScraper.fr">
+		<path>./Fluidity.wad</path>
+		<name>Hydroventure</name>
+		<desc>Fluidity sur Wii est un jeu original qui nous propose de faire évoluer une flaque d'eau à travers des niveaux de plus en plus tortueux. Le joueur devra incliner les décors à l'aide de sa Wiimote pour diriger la flaque dans la direction de son choix et éviter les nombreuses embûches qui se dresseront sur son parcours.</desc>
+		<rating>0.95</rating>
+		<releasedate>20101224T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<image>./mixart/Fluidity.png</image>
+		<marquee>./wheel/Fluidity.png</marquee>
+		<video>./snap/Fluidity.mp4</video>
+		<genreid>256</genreid>
+	</game>
+	<game id="10249" source="ScreenScraper.fr">
+		<path>./Indianapolis 500 Legends (USA).cc.rvz</path>
+		<name>Indianapolis 500 Legends</name>
+		<desc>Indianapolis 500 Legends transports us back to the famous race during the Golden Racing era from 1961 to 1971. Race in open-wheel Indy cars and play a role in the story that characterized each Indy 500 event. Experience the personal rivalries, technological breakthroughs, race track changes and dramas that shaped the evolution of an epic international motor sport event. 
+
+Indy 500 features mission based racing that includes challenging famous rivals to re-live key moments in Indy 500 history. The game also showcases the innovative control system of the Wii - Steer your race car with the Wii Remote and perform pit stop min-games using gesture games.</desc>
+		<releasedate>20071002T000000</releasedate>
+		<developer>Torus Games</developer>
+		<publisher>Torus Games</publisher>
+		<genre>Sports-Race, Driving</genre>
+		<players>2</players>
+		<image>./mixart/Indianapolis 500 Legends (USA).cc.png</image>
+		<marquee>./wheel/Indianapolis 500 Legends (USA).cc.png</marquee>
+		<video>./snap/Indianapolis 500 Legends (USA).cc.mp4</video>
+		<genreid>1537</genreid>
+	</game>
+	<game id="8861" source="ScreenScraper.fr">
+		<path>./Kirby's Epic Yarn (USA) (En,Fr,Es).cc.rvz</path>
+		<name>Kirby's Epic Yarn</name>
+		<desc>While walking through Dream Land, Kirby discovers a tomato and decides to eat it. Yin-Yarn, the evil sorceror who possessed the tomato (revealed to be a Metamato), appears and magically banishes Kirby into Patch Land, a world completely made of fabric, via the sock carried around his neck. In Patch Land, Kirby s body transforms into yarn, rendering his power to inhale useless. Instead, Kirby is granted the ability to transform by the magic of the Metamato, which he uses to rescue a boy being attacked by a monster. The boy, named Prince Fluff, explains that Yin-Yarn has separated Patch Land into pieces, which was tied together by magic yarn. Kirby decides to help Prince Fluff collect all seven pieces of the yarn and restore Patch Land. 
+ 
+Meanwhile, Yin-Yarn captures King Dedede and Meta Knight and places them under his control. Kirby is forced to fight Dedede and Meta Knight after they ambush him in Patch Land. When Kirby and Prince Fluff finally collect all the Magic Yarn, Meta Knight, no longer under the sorceror s influence, informs Kirby that Yin-Yarn is turning Dream Land into fabric. Prince Fluff produces the second sock, its magic fully restored, and uses it to transport Kirby and himself to Dream Land; now completely made of yarn. Kirby confronts and defeats Yin-Yarn, breaking the spell and returning Dream Land and himself back to normal. Prince Fluff parts with Kirby, stating that he can visit Patch Land anytime via Yin-Yarn s magic sock.</desc>
+		<rating>0.8</rating>
+		<releasedate>20101017T000000</releasedate>
+		<developer>Good-Feel</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure-Action-Platform</genre>
+		<players>2</players>
+		<image>./mixart/Kirby's Epic Yarn (USA) (En,Fr,Es).cc.png</image>
+		<marquee>./wheel/Kirby's Epic Yarn (USA) (En,Fr,Es).cc.png</marquee>
+		<video>./snap/Kirby's Epic Yarn (USA) (En,Fr,Es).cc.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="8773" source="ScreenScraper.fr">
+		<path>./Kirby's Return to Dream Land (USA) (En,Fr,Es).cc.rvz</path>
+		<name>Kirby's Return to Dream Land</name>
+		<desc>Kirby and his friends are back in an adventure designed to satisfy longtime Kirby fans and beginners alike. When an alien spaceship crashes in the otherwise peaceful realm of Pop Star, its pieces are scattered throughout the land. Players must guide Kirby as he retrieves the ship's parts and helps the aliens return to their home planet. This time, however, he's not alone. At any time, up to three more players can join in the fun and play as Meta Knight, King Dedede and Waddle Dee to help Kirby in his quest.Kirby's powerful Copy Ability returns, allowing him to inhale, spit and transform as he encounters enemies.The game also introduces new Super Abilities, which are activated when Kirby inhales special enemy characters. For example, the "Super Sword" Super Ability allows Kirby to swing a giant sword and wipe out an entire screen's worth of foes.Up to four players can enjoy the action together. They play cooperatively to progress through the game and collect Point Stars and Ability Stars. Players can join and leave the game at any time.</desc>
+		<rating>0.85</rating>
+		<releasedate>20111024T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure-Action-Platform</genre>
+		<players>2-4</players>
+		<image>./mixart/Kirby's Return to Dream Land (USA) (En,Fr,Es).cc.png</image>
+		<marquee>./wheel/Kirby's Return to Dream Land (USA) (En,Fr,Es).cc.png</marquee>
+		<video>./snap/Kirby's Return to Dream Land (USA) (En,Fr,Es).cc.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="8694" source="ScreenScraper.fr">
+		<path>./Mario Kart Wii (USA) (En,Fr,Es).cc.rvz</path>
+		<name>Mario Kart Wii</name>
+		<desc>Mario Kart Wii is an installment of the long-running Mario Kart series, but here for the Nintendo Wii, where you take control of various Nintendo characters to race through different tracks and win the Grand Prix, using a variety of vehicles and items spread through the track to help you.
+
+There are various additions to the series. Players can now also play with motorbikes, which can do wheelies but are lighter and can't super boost, in contrast with karts. There's 6 varieties of each for each character class to choose from, and 4 new characters have been added as well as being able to drive with your Mii. Finally, there's 16 new tracks as well as 16 returning from previous games.
+
+Gameplay has also been modified. Drifting has been tweaked so that it's easier to use and players only get a turbo boost based on how well they perform the drift. It can be set to Manual, where players press a button to drift, or Automatic, where it's automatically triggered on curves but provides no turbo boost. Stunts can also be performed in the air to gain turbo boosts. Races have also been bolstered to support up to 12 players now.
+
+There's 4 modes of play to choose from: Grand Prix, where you race through series of tracks in the 50cc (karts only), 100cc (bikes only) and 150cc (karts and bikes) cups; Time Trial, where you take on ghost replays and try to finish in the least time; Versus, where you race against opponents on a single track; and Battle, where you can compete against your foes in either hitting them with weapons or collecting coins.
+
+Multiplayer is also supported, allowing up to 4 players in hotseat and 12 online on Nintendo Wi-Fi, where you can take on strangers and friends (with Friend Codes) in any game mode, play in competitions, beat other's ghost replays or check online rankings. The game can be played using a Wii Wheel (included), Wii Remote, Nunchuck, Classic Controller, or Gamecube Controller.</desc>
+		<rating>0.8</rating>
+		<releasedate>20080427T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+		<image>./mixart/Mario Kart Wii (USA) (En,Fr,Es).cc.png</image>
+		<marquee>./wheel/Mario Kart Wii (USA) (En,Fr,Es).cc.png</marquee>
+		<video>./snap/Mario Kart Wii (USA) (En,Fr,Es).cc.mp4</video>
+		<genreid>1537</genreid>
+	</game>
+	<game id="8777" source="ScreenScraper.fr">
+		<path>./Mario Strikers Charged (USA) (En,Fr,Es) (Rev 1).cc.rvz</path>
+		<name>Mario Strikers Charged Football</name>
+		<desc>Supercharged Characters! - The captains from Super Mario Strikers are back, joined by four new ones, and now you can create your own original team by mixing and matching your captain with an all-new cast of sidekicks. All characters have their own sets of special abilities, making each one play completely differently from one another. New captain super-abilities and sidekick skill-shots add a new level of depth to already crazy soccer battles on the most unpredictable and hazard-filled pitches in the Mario universe. Each field features its own set of interactive hazards that alter game play over the course of the game. **Nintendo Wi-Fi Connection Game Play! - There are tons of new single-player modes, from tournaments to challenges to tutorials, but the game truly shines in multiplayer. The game features a robust multiplayer mode?up to four players can battle locally, or they can go online in each specific sales territory for one-on-one matches. **Kickin' Wii Controls! - Building on the frantic fun of Super Mario Strikers, this game gets you into action only possible on the Wii. Primary game play controls use both the Wii Remote and Nunchuck controllers. Use the Nunchuk to control your characters and deploy items. Flick the Wii Remote to perform the defensive "Big Hit" move and flatten foes. To defend against a "Mega Strike" goal attempt, use the Wii Remote to point at the screen and manually defend against multiple balls as they rocket towards the screen!</desc>
+		<rating>0.8</rating>
+		<releasedate>20070730T000000</releasedate>
+		<developer>Next Level Games</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>4</players>
+		<image>./mixart/Mario Strikers Charged (USA) (En,Fr,Es) (Rev 1).cc.png</image>
+		<marquee>./wheel/Mario Strikers Charged (USA) (En,Fr,Es) (Rev 1).cc.png</marquee>
+		<video>./snap/Mario Strikers Charged (USA) (En,Fr,Es) (Rev 1).cc.mp4</video>
+		<genreid>1536</genreid>
+	</game>
+	<game id="9476" source="ScreenScraper.fr">
+		<path>./Mega Man 10 (USA) (WiiWare).wad</path>
+		<name>Mega Man 10</name>
+		<desc>20XX. A virus called Roboenza starts infecting robots, rendering them useless. Humankind would be helpless enough without the aid of their robot assistants - but the worst is yet to come! The second phase of the illness causes the infected robots to turn against their masters and try to take over the world! Dr. Wily claims to have built a medicine making machine to cure the epidemic, but it has been stolen by the berserk robots. Mega Man must fight eight violent robots to retrieve the machine and save the world.
+
+Mega Man 10 retains the 8-bitish graphical style and gameplay of its predecessor Mega Man 9 and the old NES titles. The player must again jump, run and shoot his way through 8 stages filled with robotic enemies, destroy the Robot Master at the end of the stage and take his weapon to be used against further enemies.
+
+Mega Man still can't slide or charge his weapon as he could in Mega Man 3 and 4, respectively, but you can also play as Proto Man who has both of these abilities as well as his trademark shield to block projectiles - however, Proto Man takes twice as much damage from enemy attacks. Bass will also be playable character via downloadable content, and will be able to aim his gun at 45-degree angles.
+
+Like Mega Man 9, this game also features a Time Attack mode and Challenges, where the player must race against the clock or beat the game under certain conditions, such as never dying or beating all the bosses using only the standard Mega Buster weapon. The game also has separate Challenge Rooms, where the player must clear a room under different conditions given at the beginning of the Challenge.</desc>
+		<rating>0.7</rating>
+		<releasedate>20100101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action-Platform</genre>
+		<players>1</players>
+		<image>./mixart/Mega Man 10 (USA) (WiiWare).png</image>
+		<marquee>./wheel/Mega Man 10 (USA) (WiiWare).png</marquee>
+		<video>./snap/Mega Man 10 (USA) (WiiWare).mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="9440" source="ScreenScraper.fr">
+		<path>./Mega Man 9 (USA) (WiiWare).wad</path>
+		<name>Mega Man 9 : The Ambition's Revival</name>
+		<desc>Mega Man 9 brings the series back to its old school roots with retro gameplay, music and classic 8-bit style graphics! 
+ 
+Mega Man fans, your wait is over! The classic Blue Bomber that debuted in 1987 is back with the ninth installment in the classic series. It s a new adventure for Mega Man all done in an 8-bit style -- graphics, music, and gameplay are all like you remember them!</desc>
+		<rating>0.85</rating>
+		<releasedate>20080922T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<image>./mixart/Mega Man 9 (USA) (WiiWare).png</image>
+		<marquee>./wheel/Mega Man 9 (USA) (WiiWare).png</marquee>
+		<video>./snap/Mega Man 9 (USA) (WiiWare).mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="8704" source="ScreenScraper.fr">
+		<path>./Monster Hunter Tri (USA).cc.rvz</path>
+		<name>Monster Hunter Tri</name>
+		<desc>Monster Hunter Tri depicts an ecosystem where man co-exists with fantastic beasts that roam both the land and the sea. Featuring both online and offline cooperative modes, players can join online hunting parties with up to four players or play with two players on a single TV for select quests. Players also have the option to face Monster Hunter Tri s quests as a single player experience accompanied by Cha-Cha, an AI hunting partner whose tracking and trapping skills will prove invaluable in the hunt.</desc>
+		<rating>0.9</rating>
+		<releasedate>20100423T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Role playing games</genre>
+		<image>./mixart/Monster Hunter Tri (USA).cc.png</image>
+		<marquee>./wheel/Monster Hunter Tri (USA).cc.png</marquee>
+		<video>./snap/Monster Hunter Tri (USA).cc.mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="8762" source="ScreenScraper.fr">
+		<path>./Muramasa - The Demon Blade (USA).cc.rvz</path>
+		<name>Muramasa: The Demon Blade</name>
+		<desc>Based on ancient Japanese lore, Muramasa: The Demon Blade plunges players into the mystical Genroku era, ruled by the skilled shogun Tsunayoshi Tokogawa. But this culture is threatened; Tokogawa's thirst for power leads to a conflict over the enormously powerful, though cursed, Demon Blades. Used in hatred, drenched in blood, the cursed blades condemn those who use them to tragedy, madness and ultimately deaths. As chaos spreads, denizens from the netherworld breach their realm as these malevolent swords summon evil spirits - and the Dragon and Demon Gods as well. Featuring hand-drawn 2D art reflecting the heritage and tone of the storyline, Muramasa transports plauers into a little known mythology, envisioned by the creators of the critically acclaimed Odin Sphere. Players take on the role of a male ninja or female kunoichi, utilising their ninja prowess to traverse the clever side-scrolling levels that feature vertical progression as well as the traditional horizontal stage advancement.Features:* From the subtle movements of a character's clothes to their explosive battle animations, every detail is expertly animated by hand for amazing visuals* Playing as a male ninja or female kunoichi, a wide variety of ninja skills are at your disposal as you progress through levels horizontally and vertically* Gameplay transitions seamlessly from player-controlled elements to story sequences to keep the player engaged within the world* Take a journey through a tale influenced by the lesser-told, but equally rich and mysterious, Japanese mythology</desc>
+		<rating>0.9</rating>
+		<releasedate>20091113T000000</releasedate>
+		<developer>Vanillaware</developer>
+		<publisher>Rising Star Games</publisher>
+		<genre>Adventure-Action-Beat'em Up</genre>
+		<players>1</players>
+		<image>./mixart/Muramasa - The Demon Blade (USA).cc.png</image>
+		<marquee>./wheel/Muramasa - The Demon Blade (USA).cc.png</marquee>
+		<video>./snap/Muramasa - The Demon Blade (USA).cc.mp4</video>
+		<genreid>263</genreid>
+	</game>
+	<game id="9801" source="ScreenScraper.fr">
+		<path>./NASCAR Kart Racing (USA).cc.rvz</path>
+		<name>Nascar Kart Racing</name>
+		<desc>The game features fourteen real world NASCAR drivers and ten fictional drivers. The cover drivers are, from left to right, Carl Edwards, Kyle Busch, Dale Earnhardt Jr., Jeff Gordon, Tony Stewart, and Jimmie Johnson.</desc>
+		<rating>0.75</rating>
+		<releasedate>20090210T000000</releasedate>
+		<developer>EA Sports</developer>
+		<publisher>EA Sports</publisher>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+		<image>./mixart/NASCAR Kart Racing (USA).cc.png</image>
+		<marquee>./wheel/NASCAR Kart Racing (USA).cc.png</marquee>
+		<video>./snap/NASCAR Kart Racing (USA).cc.mp4</video>
+		<genreid>1537</genreid>
+	</game>
+	<game id="8698" source="ScreenScraper.fr">
+		<path>./New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2).cc.rvz</path>
+		<name>New Super Mario Bros. Wii</name>
+		<desc>Princess Peach has been kidnapped!  Again!  Everyone was celebrating the Princess' birthday when a giant birthday cake arrived... but then Bowser Jr. and the seven Koopalings popped out and kidnapped her!  Mario, Luigi and two Toads make chase to rescue her once more.  Will they succeed?
+
+New Super Mario Bros. Wii is a continuation of the Super Mario Bros. games.  As with the original, players jump, dash and grab power ups such as the Super Mushroom and the the Fire Flower, which lets them throw fireballs at their foes.  New powerups have been added too - the Propeller Hat allows players to zoom vertically up in the air, and then glide back down, the Ice Flower lets players freeze enemies into icy blocks, and the Penguin Suit gives them traction on ice as well as allowing them to belly slide.  Yoshi, from Super Mario World makes a return, as well - players can ride him and he'll eat enemies and berries in levels.
+
+The Wii Remote's tilting feature is used to activate certain parts of levels - for example, jumping onto specific platforms and tilting the Wii Remote will angle the platform too.  Another level has players aiming a light on a boat by using the Wii Remote so that they're not lost in the dark.  Shaking the Wii Remote while wearing the Propeller Hat causes the player to fly straight up, while shaking it near objects picks them up or throws them.
+
+The game has a special feature known as a 'Super Guide' - when a player dies eight times in total in a level, a special block appears at the start of the stage the next time they play.  If the player hits this block, Luigi will take over and play through the level, showing them how to complete it.  This allows players to progress through the game even if they are having trouble on a particularly difficult level.
+
+Up to four players can play simultaneously.  When playing together, as long as one person is on-screen in a level, players can keep returning in-game after they die by floating in a bubble which is then popped.  If all players lose their lives, they are sent back to the map screen.  Another mode, Coin Battle, has all players versus each other, with the aim being to pick up the most coins while heading toward the goal.</desc>
+		<rating>0.85</rating>
+		<releasedate>20091115T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shooter Small-Action-Platform</genre>
+		<players>1-4</players>
+		<image>./mixart/New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2).cc.png</image>
+		<marquee>./wheel/New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2).cc.png</marquee>
+		<video>./snap/New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2).cc.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="9507" source="ScreenScraper.fr">
+		<path>./NHL 2K10 (USA).cc.rvz</path>
+		<name>Nhl 2k10</name>
+		<desc>NHL 2K10 returns to the ice; in its second year of being developed by Visual Concepts. 
+
+New features include improved graphics/presentation; which includes brand new player models, player faces and all new intros unique for all 30 teams in the league.
+
+There is also a revamped franchise mode; which includes new GM Personalities, Roster Management, League Records, Team States, and support for fantasy drafts and created teams.
+
+The Wii version includes Mii Superskills that offers five new mini-games to play with your own avatar.  These includes Hardest Shot, Fastest Skater, Accuracy Shooting, Breakaway Relay, and Goalie Supersave.
+
+Also on the Nintendo Wii this year is support for Wii motion plus allowing for 1:1 on ice motions, as well as online support with 2K's full suite (leagues, team up, quick matches). The game also supports Wii Speak so you can chat with your friends during online games.</desc>
+		<rating>0.85</rating>
+		<releasedate>20090918T000000</releasedate>
+		<developer>2K Games</developer>
+		<publisher>Visual Concepts</publisher>
+		<genre>Sports</genre>
+		<image>./mixart/NHL 2K10 (USA).cc.png</image>
+		<marquee>./wheel/NHL 2K10 (USA).cc.png</marquee>
+		<video>./snap/NHL 2K10 (USA).cc.mp4</video>
+		<genreid>1536</genreid>
+	</game>
+	<game id="9141" source="ScreenScraper.fr">
+		<path>./Nights - Journey of Dreams (USA) (En,Ja,Fr,De,Es,It).cc.rvz</path>
+		<name>NiGHTS: Journey of Dreams</name>
+		<desc>This time around, however, Nights takes a bit of a different turn. Keeping in line with the "world of dreams" theme . it wouldn t be Nights without it . players will take control of Will and Helen, two young children each entering into Nightopia (the world of dreams) with their own back-story, emotional baggage, and inner demons that come to life though the forming of nightmares. It s a pretty simple concept overall, and with each child s five main levels you ll get a different piece of the story leading up to the same grand finale. Once they arrive in the land of dreams, each character meets up with a Nights almost instantaneously, and from there learns to meld with the mysterious creature and fly through the world of Nightopia. Along the way you ll learn of the quest to find the hidden Ideya (basically essences of the human spirit), and eventually attempt to defeat a powerful god-like creature named Wizeman and his right-hand man Reala.</desc>
+		<rating>0.75</rating>
+		<releasedate>20071218T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<genre>Action-Platform</genre>
+		<players>2</players>
+		<image>./mixart/Nights - Journey of Dreams (USA) (En,Ja,Fr,De,Es,It).cc.png</image>
+		<marquee>./wheel/Nights - Journey of Dreams (USA) (En,Ja,Fr,De,Es,It).cc.png</marquee>
+		<video>./snap/Nights - Journey of Dreams (USA) (En,Ja,Fr,De,Es,It).cc.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="10220" source="ScreenScraper.fr">
+		<path>./Pulseman.wad</path>
+		<name>Pulseman</name>
+		<desc>Pulseman is an electric hero who was created to fight cyber crime. Combat the galaxy gang throughout 7 stages with around 50 levels. Pulseman is best described as a fusion between the gameplay of Sonic the Hedgehog and Mega Man in ways of gameplay.</desc>
+		<rating>0.7</rating>
+		<releasedate>20090703T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>Sega</publisher>
+		<genre>Action-Platform</genre>
+		<image>./mixart/Pulseman.png</image>
+		<marquee>./wheel/Pulseman.png</marquee>
+		<video>./snap/Pulseman.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="8792" source="ScreenScraper.fr">
+		<path>./Punch-Out!! (USA) (En,Fr,Es).cc.rvz</path>
+		<name>Punch-Out!!</name>
+		<desc>One of the biggest names in boxing returns after a 15-year hiatus. In Punch-Out!! you play as young up-and-coming fighter Little Mac who, with the help of his ringside trainer Doc Lewis, is working his way through the ranks of a wide variety of boxing caricatures, each with their own patterns of attacks. Grab a Wii Remote controller in one hand and a Nunchuk controller in the other and step back into the ring with a modern update of the classic Punch-Out!!Little Mac Is BackEveryone?s favorite underdog from the 1980s joins the best of the original Punch-Out!! cast in a modern re-imagining of the series. Players will find familiar names like Glass Joe, King Hippo and trainer Doc Louis. These boxers come to life again in cell-shaded 3-D, complete with hilarious fighting animations and back stories that capture all the fun and flair of the original Punch-Out!! games.The Wii's Motion SensitivityThe motion-sensitive controls of the Wii console mean that when players throw punches, Little Mac throws punches as well. Additionally, you can control hooks and jabs by combining motion control with control-stick movement. The motion-sensing Wii Remote and Nunchuk controllers turn real-life swings into on-screen punches, so anyone can play. The game can also be played with classic NES-style controls by turning the Wii Remote sideways.CharactersPunch-Out!! features a total of 13 opponents for Little Mac to step into the ring with. 12 of which are returning from previous games in the Punch-Out!! series. Each has their own back story and patterns of attacks to learn and learns to counter. Just a few of the characters you can expect to see are:Little MacSmall but extremely game, Little Mac is a young, up-and-coming fighter, who with the help of his trainer, ex-champion Doc Lewis, has set his sights on working his way through the ranks.Glass JoeA fearful French fighter due to his extremely weak chin, Glass Joe will crumple to the mat quickly with just a few well-placed shots, making him an easy mark and a good warm-up for the fighters to follow.King HippoKing Hippo is both huge and an immensely powerful fighter, but can be weakened with the right combinations to the head and body, giving you time to go for the knockout if you can survive his onslaught.Von KaiserAn old-timey fighter whose rumored childhood difficulties have left him eager to dish out punishment in the ring, Von Kaiser is a dangerous opponent, but one who will turn tail if you can find his weakness.Special AttacksPlayers can obtain special 'Star Punches,' which allow Little Mac to take more health from his rival in a single punch. Players can now use multiple stars in a single punch for an extra-powerful attack.Controller OptionsPunch-Out!! features multiple controller options. For players looking to take advantage of the Wii's motion control capabilities, Punch-Out!! uses the Wii Remote and Nunchuck controllers to simulate throwing punches. Use the Nunchuck to throw a left punch and the Wii Remote to throw a right punch. Fans of the NES version and core gamers will be excited to see Nintendo has also included the option to play Punch-Out!! using the classic layout from the original NES controller. Use the 1 and 2 buttons along with the cross pad to throw hooks and jabs or to dodge.</desc>
+		<rating>0.9</rating>
+		<releasedate>20090518T000000</releasedate>
+		<developer>Next Level Games</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports-Fight</genre>
+		<players>2</players>
+		<image>./mixart/Punch-Out!! (USA) (En,Fr,Es).cc.png</image>
+		<marquee>./wheel/Punch-Out!! (USA) (En,Fr,Es).cc.png</marquee>
+		<video>./snap/Punch-Out!! (USA) (En,Fr,Es).cc.mp4</video>
+		<genreid>262</genreid>
+	</game>
+	<game id="9411" source="ScreenScraper.fr">
+		<path>./Rampage - Total Destruction (USA).cc.rvz</path>
+		<name>Rampage: Total Destruction</name>
+		<desc>Get ready to roam, rage and Rampage your way through cities of the world destroying everything in your path in Rampage: Total Destruction! George, Lizzy and Ralph are back along with 27 new monsters that you can find, collect and play as. Wander through 3D neighborhoods of major cities trashing everything in sight as you uncover hidden monsters and power-ups.In Rampage, players take on the role of Mutated Giant Monsters created by the unscrupulous scum labs corporation (operating under the guise of a soft drink company.) The player's goal is to progress through a series of cities around the globe destroying as much of them as possible in an effort to locate all the other captive monsters. Features:? Collect Monsters - Collect and Play as 30 different monsters each with their own unique attributes!? Destroy It All - Roam through 7 major cities around the globe destroying everything in your path!? Throw Stuff - Increase the levels of damage and destruction by throwing objects around!</desc>
+		<rating>0.55</rating>
+		<releasedate>20070119T000000</releasedate>
+		<developer>Pipeworks Software</developer>
+		<publisher>Midway</publisher>
+		<genre>Action</genre>
+		<players>1-4</players>
+		<image>./mixart/Rampage - Total Destruction (USA).cc.png</image>
+		<marquee>./wheel/Rampage - Total Destruction (USA).cc.png</marquee>
+		<video>./snap/Rampage - Total Destruction (USA).cc.mp4</video>
+		<genreid>256</genreid>
+	</game>
+	<game id="8753" source="ScreenScraper.fr">
+		<path>./Rayman Origins (USA) (En,Fr,Es).cc.rvz</path>
+		<name>Rayman Origins</name>
+		<desc>Ever wondered what lies at the root of the Rayman madness? Find out in Rayman Origins! Romp through a gigantic new Rayman universe that covers 12 worlds and 60 levels, and shows you the roots of Rayman. It comes stuffed with over 100 characters, so you never know who - or what - you might encounter! Pick up some bizarre new abilities, including dives, slaps, and the show-stopping HairlyCopter. Use your powers to battle bosses that get weirder (think evil, meat-eating flower) and more epic as the game goes on. Adventure in single player, or have friends join as Globox or one of two playable Teensies in drop-in/drop-out co-op play.</desc>
+		<rating>0.9</rating>
+		<releasedate>20111124T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Adventure-Action-Platform</genre>
+		<players>4</players>
+		<image>./mixart/Rayman Origins (USA) (En,Fr,Es).cc.png</image>
+		<marquee>./wheel/Rayman Origins (USA) (En,Fr,Es).cc.png</marquee>
+		<video>./snap/Rayman Origins (USA) (En,Fr,Es).cc.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="8769" source="ScreenScraper.fr">
+		<path>./Rune Factory - Frontier (USA).cc.rvz</path>
+		<name>Rune Factory Frontier</name>
+		<desc>The player can own a farm. There are 4 distinct seasons, 3 of which you can grow different types of crops. Examples include: Strawberries and turnips in the spring, tomatoes and pineapples in the summer, and yams in the fall. There are many other crops, and you can grow flowers, which can all be sold for gold (the game's currency.) Farming is only half of the game. The other half is dungeon crawling. There are four very different dungeons, three of which represent the four different seasons (the third dungeon represents both autumn and winter). In these dungeons, crops of that dungeon's seasonal affiliation can be grown. The fourth dungeon, Whale Island, is omni-seasonal, and all crops can be grown there at any time.</desc>
+		<rating>0.9</rating>
+		<releasedate>20090317T000000</releasedate>
+		<developer>Xseed Games                                                        |Neverland</developer>
+		<publisher>Rising Star Games</publisher>
+		<genre>Role playing games-Simulation</genre>
+		<players>1</players>
+		<image>./mixart/Rune Factory - Frontier (USA).cc.png</image>
+		<marquee>./wheel/Rune Factory - Frontier (USA).cc.png</marquee>
+		<video>./snap/Rune Factory - Frontier (USA).cc.mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="8897" source="ScreenScraper.fr">
+		<path>./Sengoku Basara - Samurai Heroes (USA) (En,Fr,Es).cc.rvz</path>
+		<name>Sengoku Basara Samurai Heroes</name>
+		<desc>Featuring unique playable characters, as well as supporting generals who will make it easier to command and lead armies, players will see the battle from the perspective of each military commander with the ultimate goal of re-writing history to rule all of 16th century Japan. In the dynamic new "Hero s Story" mode, the player s decisions impact history with a redesigned story mode. Based on choices made by the player, new drama unfolds as friends become enemies, enemies become friends, and a new Sengoku story unfolds. Adding a new strategic element to the game, forces can fight for control/taking over of camps and ultimately entire battlefields.</desc>
+		<rating>0.9</rating>
+		<releasedate>20100729T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+		<image>./mixart/Sengoku Basara - Samurai Heroes (USA) (En,Fr,Es).cc.png</image>
+		<marquee>./wheel/Sengoku Basara - Samurai Heroes (USA) (En,Fr,Es).cc.png</marquee>
+		<video>./snap/Sengoku Basara - Samurai Heroes (USA) (En,Fr,Es).cc.mp4</video>
+		<genreid>263</genreid>
+	</game>
+	<game id="8885" source="ScreenScraper.fr">
+		<path>./Sin &amp; Punishment - Star Successor (USA).cc.rvz</path>
+		<name>Sin and Punishment: Successor of the Skies</name>
+		<desc>Sin and Punishment: Star Successor is a Rail Shooting game, developed by Treasure and published by Nintendo. The game can be controlled using one of four control methods: Wii Remote with Nunchuk, Wii Zapper, Classic Controller (as well as the Classic Controller Pro) and the Nintendo GameCube Controller. Playing as either Isa or Kachi, the player traverses through on-rail levels, moving and shooting independently. Attacking enemies can either be shot at from afar, or melee attacked when they are close enough. Some missiles can be melee attacked to turn them against enemies. Getting successive enemy hits whilst remaining unscathed increases the score multiplier.</desc>
+		<rating>0.8</rating>
+		<releasedate>20100627T000000</releasedate>
+		<developer>Treasure</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Lightgun Shooter</genre>
+		<players>2</players>
+		<image>./mixart/Sin &amp; Punishment - Star Successor (USA).cc.png</image>
+		<marquee>./wheel/Sin &amp; Punishment - Star Successor (USA).cc.png</marquee>
+		<video>./snap/Sin &amp; Punishment - Star Successor (USA).cc.mp4</video>
+		<genreid>261</genreid>
+	</game>
+	<game id="8731" source="ScreenScraper.fr">
+		<path>./Sonic Colors (USA) (En,Ja,Fr,De,Es,It).cc.rvz</path>
+		<name>Sonic Colours</name>
+		<desc>A brand new high speed action adventure in which Sonic the Hedgehog races through incredible theme park inspired worlds to rescue a colourful alien race from the clutches of Dr Eggman. An extraordinary amusement park has been seen orbiting around the home planet of Sonic the Hedgehog, and rumours are spreading that an alien race of Wisps, who have a unique colourful energy, are being held captive there by the evil Dr Eggman. Soon after arriving at the amusement park Sonic discovers he is able to use these mysterious alien forces to help the Wisps escape! Sonic Colours for the Wii seamlessly combines both 3D and classic 2D game play perspectives.</desc>
+		<rating>0.8</rating>
+		<releasedate>20101112T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<genre>Action-Platform</genre>
+		<players>2</players>
+		<image>./mixart/Sonic Colors (USA) (En,Ja,Fr,De,Es,It).cc.png</image>
+		<marquee>./wheel/Sonic Colors (USA) (En,Ja,Fr,De,Es,It).cc.png</marquee>
+		<video>./snap/Sonic Colors (USA) (En,Ja,Fr,De,Es,It).cc.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="9202" source="ScreenScraper.fr">
+		<path>./Sonic the Hedgehog 4 - Episode I (USA) (WiiWare).wad</path>
+		<name>Sonic the Hedgehog 4 : Episode I</name>
+		<desc>Sonic the Hedgehog 4is an episodic platform video game as part of the Sonic the Hedgehog series. The game was developed by Dimps alongside members of Sonic Team[7] and is intended to be a return to the roots of the Sonic the Hedgehog series. 
+ 
+Episode 1 was released in October 2010 with slight variations in exact date and price amongst its four platforms, iOS, PlayStation Network, WiiWare, and Xbox Live Arcade.</desc>
+		<rating>0.6</rating>
+		<releasedate>20101015T000000</releasedate>
+		<developer>Dimps</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./mixart/Sonic the Hedgehog 4 - Episode I (USA) (WiiWare).png</image>
+		<marquee>./wheel/Sonic the Hedgehog 4 - Episode I (USA) (WiiWare).png</marquee>
+		<video>./snap/Sonic the Hedgehog 4 - Episode I (USA) (WiiWare).mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="10541" source="ScreenScraper.fr">
+		<path>./Space Invaders Get Even.wad</path>
+		<name>Space Invaders : Get Even</name>
+		<desc>Join forces with the Invaders for the first time in an all-new SPACE INVADERS experience! It s time for revenge! 
+ 
+The Space Invaders are back, and this time they re out to get even! Take control of a UFO and make those Earthlings pay by unleashing your fleet of heroic invaders against their puny tanks, fighter jets, and artillery--but watch out for the massive boss awaiting you at the end of each stage! Use your invaders  five attack types and the might of the mother ship to rack up high scores.</desc>
+		<releasedate>20081201T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<image>./mixart/Space Invaders Get Even.png</image>
+		<marquee>./wheel/Space Invaders Get Even.png</marquee>
+		<video>./snap/Space Invaders Get Even.mp4</video>
+		<genreid>260</genreid>
+	</game>
+	<game id="10043" source="ScreenScraper.fr">
+		<path>./Star Soldier R.wad</path>
+		<name>Star Soldier R</name>
+		<desc>Star Soldier R is a top-down shooter for the Wii. The game is unique as there are only 2 levels, as the game has a 2 minute mode (1 stage) and a 5 minute mode (2 stages). The gameplay is as simple as shooting your enemies and getting to the end. There are weapon power-ups such as multiple lasers and shields. There is also a quick shot mode where you have to tap the shoot button as fast as you can before the time runs out. You can also upload your scores to Nintendo Wi-Fi Connection and compete for the highest score.</desc>
+		<rating>0.55</rating>
+		<releasedate>20080520T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action-Lightgun Shooter</genre>
+		<players>1</players>
+		<image>./mixart/Star Soldier R.png</image>
+		<marquee>./wheel/Star Soldier R.png</marquee>
+		<video>./snap/Star Soldier R.mp4</video>
+		<genreid>261</genreid>
+	</game>
+	<game id="8703" source="ScreenScraper.fr">
+		<path>./Super Mario Galaxy 2.cc.rvz</path>
+		<name>Super Mario Galaxy 2</name>
+		<desc>Mario returns to the stars as the everlasting villain Bowser has kidnapped Princess Peach once more. This time while she was baking a cake...
+Once again Mario is determined to fight Bowser and free Princess Peach. 
+
+The basic goal of each level is to collect the golden star. The environment is still a mixture of standard Mario stages and miniature planetoids with their own orbital gravity. Throughout the game the perspective is changed at some stages, switching from 3D to 2D. The 2D part is similar to New Super Mario Bros. Wii.
+
+Super Mario Galaxy 2 features a further improved experience over its predecessor, with two new suits for Mario and the return of Yoshi. Mario's first new suit is the Cloud Suit, which allows him to create three safe but temporary platforms. The second new suite is the Rock Suit. While wearing it, Mario can roll up into a ball which will be necessary to complete some challenges.
+For the first time in the franchise Yoshi will be able to wear a suit as well. By finding it, he will become "Light Yoshi" that allows him to see certain platforms that are otherwise invisible.
+
+Like in the original Super Mario Galaxy a second player can join the experience by pointing the Wii Remote on the screen to collect coins. What is new to the game however, is that the second player now also can collect items that are out of the reach of Mario.
+
+To aid the entry for people new to the franchise, the game features an introduction to the game play and controls of the game.</desc>
+		<rating>0.95</rating>
+		<releasedate>20100523T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Platform</genre>
+		<players>2</players>
+		<image>./mixart/Super Mario Galaxy 2.cc.png</image>
+		<marquee>./wheel/Super Mario Galaxy 2.cc.png</marquee>
+		<video>./snap/Super Mario Galaxy 2.cc.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="8708" source="ScreenScraper.fr">
+		<path>./Super Mario Galaxy (USA) (En,Fr,Es).cc.rvz</path>
+		<name>Super Mario Galaxy</name>
+		<desc>Mario takes to the skies and beyond in another outing to save the Princess. As the Mushroom Kingdom prepares to celebrate the arrival of a comet that appears in the skies every hundred years, Princess Peach sends Mario an invitation to attend. As Mario arrives, Bowser and minions attack the Kingdom and once again kidnap the Princess... and her entire castle. Mario gives chase but is lost as the ship leaves the atmosphere and ends up on a space station built on the visiting comet overseen by the mysterious Rosalina. It's up to Mario to brave new galaxies, find the elusive Power Stars, and bring his friends home.
+
+Super Mario Galaxy plays similarly to Super Mario 64, as Mario explores his latest 3D world defying gravity, crossing various terrains, and even running upside down across the planet surfaces. Bouncing from planet to planet, Mario must collect Star Bits and coins, using his usual jump attacks and spins (now controlled with movement from the Wii Remote). The Wii Remote is also used to collect out of reach Star Bits and also can be controlled by a second player.
+
+In addition, Mario can find new suits (similar to Super Mario Bros. 3) that give him the ability to turn into the ghostly Boo Mario, the high-flying Bee Mario, launch fireballs as Fire Mario and skate across frozen lakes as Ice Mario. New challenges also await Mario including ray surfing, balancing on a high-speed ball, floating inside bubbles, and other challenges in his quest to get all 120 stars. Even Luigi lends a hand in the search, making valuable contributions to the adventure.
+
+Players can also take a snapshot of the worlds they've completed along with their best record times and send them to their friends via Wi-Fi.</desc>
+		<rating>0.85</rating>
+		<releasedate>20071112T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Platform</genre>
+		<players>2</players>
+		<image>./mixart/Super Mario Galaxy (USA) (En,Fr,Es).cc.png</image>
+		<marquee>./wheel/Super Mario Galaxy (USA) (En,Fr,Es).cc.png</marquee>
+		<video>./snap/Super Mario Galaxy (USA) (En,Fr,Es).cc.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="8713" source="ScreenScraper.fr">
+		<path>./Super Paper Mario.wbfs</path>
+		<name>Super Paper Mario</name>
+		<desc>In this action-platformer, Bowser and Peach find themselves at the wedding altar, forced into marriage by the evil Count Bleck. With this union, a void will engulf the entire universe as foretold by the book, the Dark Prognosticus. Before Luigi can stop Count Bleck, the villain escapes with an item known as the Chaos Heart. However, there is another book, called the Light Prognosticus, which can counteract the Dark Prognosticus. The Light Prognosticus foretells of a hero dressed in overalls. This hero is believed to possess the power to stop certain destruction of the universe.
+
+Mario, joined by Peach, Bowser, and a new group of friends, must travel through eight worlds in search of Pure Hearts. Each character has a special ability, which can help the player solve the game's many puzzles. Mario can flip between the second and third dimensions in order to find items, secret pathways, and pound enemies. Peach can use her parasol to float long distances and to defend against enemy attacks. Bowser uses his fire breath to light things and to fry enemies.
+
+Super Paper Mario does not fully depart from its RPG roots. For instance Mario and friends receive points from baddies. These points allow Mario and company to level up. Items can also be used to attack enemies or gain lives. Players collect coins to pay for more items.
+
+Players can shake the Wii remote after jumping on bad guys but before hitting the ground to gain extra experience points. Players use Tippi, a Pixl, allowing them to point the remote at the screen to find secrets. Other Pixls, who help in other ways, can be found along the way. Pixls besides Tippi can be used by pressing the 1 button.</desc>
+		<rating>0.85</rating>
+		<releasedate>20070409T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Platform-Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Super Paper Mario.png</image>
+		<marquee>./wheel/Super Paper Mario.png</marquee>
+		<video>./snap/Super Paper Mario.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="8692" source="ScreenScraper.fr">
+		<path>./Super Smash Bros. Brawl.cc.rvz</path>
+		<name>Super Smash Bros. Brawl</name>
+		<desc>Welcome to a brawl for the ages, where anything can happen, anyone can show up and all bets are off.Game storyline: In multiplayer games, characters from all Nintendo universes meet up in Nintendo locales to duke it out. In the solo mode called "The Subspace Emissary," the world of Smash Bros. is invaded by an entity called the Ancient Minister and his army of creatures, called "The Primid." Normally, characters come alive in the world of Smash Bros. to do battle, then turn back into trophies when defeated. However, the Ancient Minister starts turning characters into trophies to harness their power, then detonates bombs that suck pieces of the world back into his realm of Subspace. Eventually, all the characters must work together to defeat the invading creatures from Subspace - this is accomplished by playing through side-scrolling levels.How to progress through the game: For multiplayer games, players pick characters, set rules and locations for where they want to play and then duke it out. In Solo Mode, characters play through a long, side-scrolling adventure, beating up enemies along the way as they watch short cinematics starring their favorite characters.Characters: Mario, Samus, Bowser, Donkey Kong, Solid Snake, Meta Knight, Kirby, Pikachu, Zero Suit Samus, Link, Zelda, Pit and Wario, to name just a few. Anyone and anything from a Nintendo universe could appear in this game in one form or another.Special powers/weapons/moves/features: Anything from a Nintendo game could conceivably be in this game, whether it's a musical score, an obscure item or a character that shows up to help the fighters. Super Smash Bros. Brawl is eminently customizable, so players can choose the frequency of items appearing, adjust musical scores and basically play the game however they'd like. Items range from baseball bats to proximity mines to Poké Balls to Assist Trophies, which spawn characters like Hammer Bros. and Sim City's Dr. Wright to attack others.Super Smash Brawl Tournament WinnersLA Region Winner - David SegalSF Region Winner - Jason CaroMA Region Winner - Daniel JungNY Region Winner - Jensen SantiagoTournament National ChampionDaniel Jung * This action-packed fighting game features a ridiculous number of characters that have appeared on Nintendo platforms, from Mario to Link to Pikachu ... to Solid Snake! As they square off in famous locales drawn from the rich history of Nintendo, literally anything can happen - and usually does. With limitless customizing options, items and weapons that boggle the mind and a wealth of modes, this game has truly infinite replayability. * Super Smash Bros. Brawl features a sprawling adventure mode called "The Subspace Emissary" that's a full game in and of itself. Players jump and brawl their way through enemy-packed side-scrolling levels, meeting up with other characters, watching incredible cinematics and taking on massive bosses. * For the first time, this celebrated series is going Wi-Fi, allowing up to four players to brawl, no matter where they may be.</desc>
+		<rating>0.95</rating>
+		<releasedate>20080309T000000</releasedate>
+		<developer>Game Arts</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Fight</genre>
+		<players>2-4</players>
+		<image>./mixart/Super Smash Bros. Brawl.cc.png</image>
+		<marquee>./wheel/Super Smash Bros. Brawl.cc.png</marquee>
+		<video>./snap/Super Smash Bros. Brawl.cc.mp4</video>
+		<genreid>262</genreid>
+	</game>
+	<game id="8846" source="ScreenScraper.fr">
+		<path>./Tatsunoko vs. Capcom - Ultimate All-Stars (USA).cc.rvz</path>
+		<name>Tatsunoko vs. Capcom: Ultimate All-Stars</name>
+		<desc>From Capcom?s 30-year history comes characters like Ryu and Chun-Li from the Street Fighter series, Morrigan from Darkstalkers and company mascot Mega Man Volnutt from Mega Man Legends. Tatsunoko?s near half-century of Japanese animation excellence is represented by the likes of Ken the Eagle and Jun the Swan from the Science Ninja Team Gatchaman anime (known in Europe as Battle of the Planets or G-Force), cybernetic warrior Casshan and comedic action hero Yatterman No. 1. All together, there are more than 20 colourful combatants to choose from in order to form the ultimate tag team combination.Gameplay will instantly set fighting game fans? fingers twitching, combining elements from Capcom games like Street Fighter and previous entries in the VS series, TATSUNOKO VS. CAPCOM ULTIMATE ALL-STARS is a fun fighting game designed for all levels of players. Players choose from the combined roster of fighters to create their favourite two man/woman/cyborg/robot tag team, rotating on the fly between the two players throughout the course of each match. Those new to the genre will appreciate the game?s bright visual style and simplified four-button fighting controls. Hardcore Capcom fighting fans will dig in to the game?s depth, uncovering huge Aerial Rave combos and unique Variable Assists, gorgeous Ultimate Hyper Combos, and Variable Combinations that combine the capabilities of two members of the player?s tag-team to unleash huge damage. ? More than 20 fighters to choose from:o Capcom: Ryu, Chun-Li (Street Fighter), Batsu (Rival Schools), Alex (Street Fighter III), Morrigan (Darkstalkers), Soki (Onimusha: Dawn of Dreams), Mega Man Volnutt (Mega Man Legends), Roll (Mega Man), Saki (Quiz Nanairo Dreams), Viewtiful Joe, PTX-40A (Lost Planet) and more to be announcedo Tatsunoko: Ken the Eagle, Jun the Swan (Science Ninja Team Gatchaman), Yatterman, Doronjo (Yatterman), Casshan, Tekkaman, Polymar, Karas, Ippatsuman and Gold Lightan, plus others to be revealed.? Possible additions to the game: the team is exploring adding new Capcom and Tatsunoko characters as well as online gameplay.? Two-man tag team action: Players build their own perfect team and use Assist Attacks and each character?s special moves to create their own unique fighting style.? Four button fighting controls: Easy-to-understand four button control scheme opens gameplay up to new players with familiar movements and combos? Depth of gameplay: Once the basics are mastered, players can go deeper into the fighting game controls to master Aerial Rave air combos, Delayed Hyper Combos, Mega Crash defensive moves, Assault attack moves and the Baroque extended combo system.? Fast-paced action and huge attacks: Each characters has a unique arsenal of moves, including spectacular Hyper Combos that literally take over the screen with devastating results.3D characters, 2D fighting gameplay: As in Street Fighter IV, TVC: ULTIMATE ALL-STARS has bright, 3D rendered characters battling it out in familiar 2D style.</desc>
+		<rating>0.85</rating>
+		<releasedate>20081211T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action-Fight</genre>
+		<players>4</players>
+		<image>./mixart/Tatsunoko vs. Capcom - Ultimate All-Stars (USA).cc.png</image>
+		<marquee>./wheel/Tatsunoko vs. Capcom - Ultimate All-Stars (USA).cc.png</marquee>
+		<video>./snap/Tatsunoko vs. Capcom - Ultimate All-Stars (USA).cc.mp4</video>
+		<genreid>262</genreid>
+	</game>
+	<game id="9566" source="ScreenScraper.fr">
+		<path>./Tetris Party Deluxe (USA) (En,Fr,Es).cc.rvz</path>
+		<name>Tetris Party Deluxe</name>
+		<desc>Tetris Party Deluxe builds on success of Tetris Party (formerly found on WiiWare) by adding new modes and features to enrich the overall game play experience. The game features six new game modes, including the explosive Bombliss and VS. Sprint -- a mode that enables up to four players to compete for the first 40 line completion! In addition, there are four additional enhanced modes of play including an Edit Mode within Shadow that lets players create their own shadow puzzles to play. And for Tetris fans who like playing with others, Tetris Party Deluxe has a wealth of modes including online battles over Nintendo Wi-Fi Connection in addition to local multiplayer fun for groups of friends and family. With the Wii version, there are even crazy ways of playing the game -- use the Wii Balance Board, Wii Wheel, Wii Speak or your own personal Mii to customize the game experience!</desc>
+		<rating>0.75</rating>
+		<releasedate>20100903T000000</releasedate>
+		<developer>Tetris Online, Inc</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>4+</players>
+		<image>./mixart/Tetris Party Deluxe (USA) (En,Fr,Es).cc.png</image>
+		<marquee>./wheel/Tetris Party Deluxe (USA) (En,Fr,Es).cc.png</marquee>
+		<video>./snap/Tetris Party Deluxe (USA) (En,Fr,Es).cc.mp4</video>
+		<genreid>2816</genreid>
+	</game>
+	<game id="9667" source="ScreenScraper.fr">
+		<path>./Tetris Party.wad</path>
+		<name>Tetris Party</name>
+		<desc>Tetris Party is a WiiWare edition of the traditional game of Tetris in a variety of modes, and it also introduces new modes such as Co-op Tetris and Duel Spaces. The standard tetris mode has a ghost shape at the bottom of the screen so you can see where the block will land, you can see the next four blocks and you can hold a block for later use.
+
+In single player you can choose Marathon, Computer Battle, Field Climber, Shadow and Stage Racer.
+
+Marathon is an endless game where you have to get as many lines as possible. Computer Battle is the same except against a computer opponent. Field Climber is a Lemmings-like, similar to the gameplay in Tetris Plus. A tiny person walks at the bottom of the screen, you have to help him climb all the way to the top by laying out blocks to form stairs, but be careful not to squash him. Shadow is a game where you have to fill in a shadow figure with blocks. You have to try to make a perfect overlap with no blocks outside the silhouette. In Stage Racer you have to manoeuvre a single block down a vertically scrolling screen. Move and rotate it so that it doesn't get stuck, because when it touches the top of the screen it's game over.
+
+Multiplayer offers the following games: VS Battle, VS Field Climber, VS Hot Lines, VS Shadow, Co-op Tetris and Duel Spaces.
+
+VS Battle, VS Field Climber, VS Hot Lines and VS Shadow are all battle versions of the single player games. You can gain power-ups that temporary freezes the opponents game or temporary stops them from rotating their blocks. In VS Hot Lines you have to clear certain lines indicated in green, which are typically not at the bottom of the screen. Once you clear a green line it disappears, clear all green lines to win the game. Co-op Tetris and Duel Spaces are both played in a larger area, 20 blocks wide. In Co-op Tetris two players work together to form lines. In Duel Spaces two players take turns dropping tetrominoes. Each player must try to seal off sections in the grid and capture as grid space as possible.
+
+You can also play online in World Battle or Friend Battle using Wi-Fi, and you can play using the Wii Balance Board.</desc>
+		<rating>0.85</rating>
+		<releasedate>20081024T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>2-4</players>
+		<image>./mixart/Tetris Party.png</image>
+		<marquee>./wheel/Tetris Party.png</marquee>
+		<video>./snap/Tetris Party.mp4</video>
+		<genreid>2816</genreid>
+	</game>
+	<game id="8717" source="ScreenScraper.fr">
+		<path>./Last Story, The (USA) (En,Fr,Es).cc.rvz</path>
+		<name>The Last Story</name>
+		<desc>Embroiled in seemingly endless conflict, the Empire has been slowly weakened by the relentless onslaught of enemy forces. Despite the debilitated state of the mainland, however, a virtually impenetrable last line of defense stands proud and keeps hope alive for all the land. That beacon of hope is Lazulis Island, ruled by the renowned Count Arganan. With the employment of an army of weapons that magically ?and mysteriously-- concentrates beasts into a single region, his island has become a small wonder for its powers.
+
+Among those coming to the island to seek their fortune is Zael, a young man who at an early age was orphaned when his homeland became one of the many victims of battle. Though he and his band of fellow mercenaries often face disdain and fear as they are perceived to be of a lower class, they manage to catch the eye of none other than Count Arganan himself. If they can successfully complete the tasks put before them by the Count, they may have a rare chance to gain the most honorable status that they have only dreamed of - knighthood.
+
+It is during one of these missions bestowed upon them that Zael discovers a hidden site, one which grants him a wondrous and yet familiar power to gather his enemies in one place?</desc>
+		<rating>0.85</rating>
+		<releasedate>20120224T000000</releasedate>
+		<developer>Mistwalker</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Last Story, The (USA) (En,Fr,Es).cc.png</image>
+		<marquee>./wheel/Last Story, The (USA) (En,Fr,Es).cc.png</marquee>
+		<video>./snap/Last Story, The (USA) (En,Fr,Es).cc.mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="10190" source="ScreenScraper.fr">
+		<path>./Ultimate Shooting Collection (USA).cc.rvz</path>
+		<name>Ultimate Shooting Collection</name>
+		<desc>Ultimate Shooting Collection is a compilation of Karous, Radio Allergy, and Chaos Field. This is also first time English versions of Karous and Radio Allergy are released.</desc>
+		<rating>0.6</rating>
+		<releasedate>20090119T000000</releasedate>
+		<developer>UFO Interactive</developer>
+		<publisher>Milestone</publisher>
+		<genre>Compilation-Shoot'em Up</genre>
+		<players>1</players>
+		<image>./mixart/Ultimate Shooting Collection (USA).cc.png</image>
+		<marquee>./wheel/Ultimate Shooting Collection (USA).cc.png</marquee>
+		<video>./snap/Ultimate Shooting Collection (USA).cc.mp4</video>
+		<genreid>260</genreid>
+	</game>
+	<game id="9097" source="ScreenScraper.fr">
+		<path>./Victorious Boxers - Revolution (USA).cc.rvz</path>
+		<name>Victorious Boxers Challenge</name>
+		<desc>Victorious Boxers takes full advantage of the unique capabilities of the Wii Remote and Nunchuk to give players an authentic, real-life boxing experience. The various moves include punches like jabs, straights, uppercuts and hooks, as well as defensive maneuvers like ducks and sways.Players can enjoy several rounds with their friends or play through the deep and compelling Story Mode as they follow the story of Ippo Makunouchi, a high school student who is bullied by his classmates, as he rises to the top of the professional boxing ranks.</desc>
+		<rating>0.65</rating>
+		<releasedate>20071017T000000</releasedate>
+		<developer>Grand Master Design</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Sports-Fight</genre>
+		<players>2</players>
+		<image>./mixart/Victorious Boxers - Revolution (USA).cc.png</image>
+		<marquee>./wheel/Victorious Boxers - Revolution (USA).cc.png</marquee>
+		<video>./snap/Victorious Boxers - Revolution (USA).cc.mp4</video>
+		<genreid>262</genreid>
+	</game>
+	<game id="8833" source="ScreenScraper.fr">
+		<path>./WWE SmackDown vs. Raw 2010 (USA) (En,Fr,Es).cc.rvz</path>
+		<name>Wwe Smackdown Vs Raw 2010</name>
+		<desc>The best-selling fighting videogame franchise returns to the virtual ring with the most authentic, entertaining and compelling simulation of WWE programming to date. Featuring unparalleled creation tools, a robust Superstar roster, key franchise improvements and a few surprises, WWE SmackDown vs. Raw 2010 delivers the empowering freedom to create, customize and share gameplay experiences. It s your world now.</desc>
+		<rating>0.85</rating>
+		<releasedate>20091023T000000</releasedate>
+		<developer>Yuke's Co</developer>
+		<publisher>THQ</publisher>
+		<genre>Sports-Fight</genre>
+		<image>./mixart/WWE SmackDown vs. Raw 2010 (USA) (En,Fr,Es).cc.png</image>
+		<marquee>./wheel/WWE SmackDown vs. Raw 2010 (USA) (En,Fr,Es).cc.png</marquee>
+		<video>./snap/WWE SmackDown vs. Raw 2010 (USA) (En,Fr,Es).cc.mp4</video>
+		<genreid>262</genreid>
+	</game>
+	<game id="8697" source="ScreenScraper.fr">
+		<path>./Xenoblade Chronicles (USA) (En,Fr,Es).cc.rvz</path>
+		<name>Xenoblade Chronicles</name>
+		<desc>Join the battle for Bionis to repel the invasion of a terrifying mechanical army and uncover the secrets of a mystical sword called the Monado in Xenoblade.Xenoblade Chronicles is an epic role-playing game which takes place on an immense game world on the remains of two giant titans, and features fast-paced real-time battling. The game heavily focuses on exploring vast landscapes and immerses you into the game with cinematic cut scenes.The story focuses on Shulk and the Monado, a mystical sword that gives his bearer great powers, and a war between humans and robots.The game?s real-time battles has an action oriented approach, giving you the chance to unleash special attacks and strategies by selecting them from a command gauge; the battling also is interlinked with the affinity between characters.</desc>
+		<rating>0.95</rating>
+		<releasedate>20110819T000000</releasedate>
+		<developer>Monolith Soft</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Xenoblade Chronicles (USA) (En,Fr,Es).cc.png</image>
+		<marquee>./wheel/Xenoblade Chronicles (USA) (En,Fr,Es).cc.png</marquee>
+		<video>./snap/Xenoblade Chronicles (USA) (En,Fr,Es).cc.mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game>
+		<path>./LostWinds - Winter of the Melodias.wad</path>
+		<name>LostWinds : Winter of the Melodias</name>
+		<desc>The power of the wind is back in the palm of your hand in this all-new sequel to the award-winning LostWinds. 
+ 
+LostWinds: Winter of the Melodias follows on from the award-winning WiiWare launch title LostWinds. Enril the Wind Spirit again protects and guides the young boy Toku, powering his jumps, aiding his glides and smashing his enemies. An evil adversary binds the fate of Toku s mother Magdi and the ancient Melodia civilization. To save Magdi, Toku and Enril must face new foes, enlist friends old and new, and wield incredible new powers . including the ability to switch the very seasons themselves . as they explore the diverse, richly interactive Chilling Peaks and Melodia City areas of the magical, stunningly presented land of Mistralis. This enchanting, exhilarating, explorative gameplay experience is bursting with new ideas that make exceptional use of the Wii Remote controller. The awesome power of the Wind is back in the palm of your hand.</desc>
+		<image>./mixart/LostWinds - Winter of the Melodias.png</image>
+		<video>./snap/LostWinds.mp4</video>
+		<marquee>./wheel/LostWinds - Winter of the Melodias.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20091009T000000</releasedate>
+		<developer>Frontier Developments</developer>
+		<publisher>Frontier Developments</publisher>
+		<genre>Platform-Puzzle-Game</genre>
+		<playcount>2</playcount>
+		<lastplayed>20201101T141629</lastplayed>
+		<gametime>129</gametime>
+	</game>
+	<game>
+		<path>./LostWinds.wad</path>
+		<name>LostWinds</name>
+		<desc>Little time has passed since the events which unfolded between Toku, Enril, Deo and Magmok in ?LostWinds?.The famous explorer Notéa's sudden return from an expedition brings with it saddening news. Whilst searching for the ruins of the Melodia City, Toku's mother Magdi has mysteriously disappeared. The only clues to her whereabouts lie within the tattered remains of her treasured journal.As repayment for saving his life, the ancient Guardian Magmok pledges his assistance to Toku and Enril as they head up into the mountains in search of Magdi.Toku and Enril arrive at Summerfalls Village, a picturesque location that has been beset by an eternal winter. Even more worryingly, its people now live in fear of ferocious monsters who hide in the snow.Fearing the worst, and with the chilling cold taking its toll, Toku and Enril seek the help of Sonté the Spirit of Seasons. Sonté's season-changing powers will provide the key to unravelling the plight of Summerfalls, and unearth an ancient curse that haunts the Melodia City.As events continue to take unexpected turns Toku and Enril venture onward. Wielding their new powers with care in the face of potentially fatal dilemmas, Toku and Enril are plunged into a race against time to save not only the life of Toku's mother but also the future of Mistralis...</desc>
+		<image>./mixart/LostWinds.png</image>
+		<video>./snap/LostWinds.mp4</video>
+		<marquee>./wheel/LostWinds.png</marquee>
+		<rating>1</rating>
+		<releasedate>20080520T000000</releasedate>
+		<developer>Frontier Developments</developer>
+		<publisher>Frontier Developments</publisher>
+		<genre>Action-Platform-Puzzle-Game</genre>
+		<playcount>2</playcount>
+		<lastplayed>20201101T141917</lastplayed>
+		<gametime>178</gametime>
+	</game>
+</gameList>

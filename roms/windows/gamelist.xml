@@ -1,0 +1,1198 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./198X.lnk</path>
+		<name>198X</name>
+		<image>./mixart/198X.png</image>
+		<marquee>./wheel/198X.png</marquee>
+		<video>./snap/198X.mp4</video>
+		<desc>Over-the-top arcade action meets coming-of-age drama, blurring the lines between game and reality.</desc>
+		<rating>0.85</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>Hi-Bit Studios</developer>
+		<publisher>Sonka</publisher>
+		<genre>Arcade</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Adventure Pinball.lnk</path>
+		<name>Adventure Pinball: Forgotten Island</name>
+		<image>./mixart/Adventure Pinball.png</image>
+		<marquee>./wheel/Adventure Pinball.png</marquee>
+		<video>./snap/Adventure Pinball.mp4</video>
+		<desc>It starts when you receive a note and map from your long lost grandfather, along with the promise of the adventure of a lifetime. You'll encounter dinosaurs, volcanoes, and man-eating sharks, as well as a tribe of cavemen to save.</desc>
+		<rating>0.75</rating>
+		<releasedate>20111201T000000</releasedate>
+		<developer>Digital Extremes</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Pinball</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Akane.lnk</path>
+		<name>Akane</name>
+		<image>./mixart/Akane.png</image>
+		<marquee>./wheel/Akane.png</marquee>
+		<video>./snap/Akane.mp4</video>
+		<desc>Akane is an Arena Arcade-Slash where you kill your enemies with only 1 hit. The objective of the game is simple, to kill as many enemies as possible.</desc>
+		<rating>0.90</rating>
+		<releasedate>20181201T000000</releasedate>
+		<developer>Ludic Studios</developer>
+		<publisher>Ludic Studios</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Alltynex Second.lnk</path>
+		<name>Alltynex Second</name>
+		<image>./mixart/Alltynex Second.png</image>
+		<marquee>./wheel/Alltynex Second.png</marquee>
+		<video>./snap/Alltynex Second.mp4</video>
+		<desc>The year is 2192AD. 40 years ago, the Stellar-class All-purpose Administrative Computer ALLTYNEX suddenly attempted to enact genocide upon mankind.</desc>
+		<rating>0.90</rating>
+		<releasedate>20141201T000000</releasedate>
+		<developer>Siter Skain</developer>
+		<publisher>Nyu Media</publisher>
+		<genre>Action, Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Another World 20th Anniversary Edition.lnk</path>
+		<name>Another World 20th Anniversary Edition</name>
+		<image>./mixart/Another World 20th Anniversary Edition.png</image>
+		<marquee>./wheel/Another World 20th Anniversary Edition.png</marquee>
+		<video>./snap/Another World 20th Anniversary Edition.mp4</video>
+		<desc>This is an updated version of Another World for the 20th anniversary of the original game, five years after the updated 15th anniversary edition. It is adapted for mobile devices offering both touch controls and a virtual D-pad.</desc>
+		<rating>0.90</rating>
+		<releasedate>20131201T000000</releasedate>
+		<developer>DotEmu, Eric Chahi</developer>
+		<publisher>Focus Home Interactive</publisher>
+		<genre>Action, Adventure, Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Battle Planet - Judgement Day.lnk</path>
+		<name>Battle Planet - Judgement Day</name>
+		<desc>Battle Planet - Judgement Day is a planetary rogue-lite top-down shooter. You are one of the universe's 3 most wanted criminals on the run.</desc>
+		<image>./mixart/Battle Planet - Judgement Day.png</image>
+		<marquee>./wheel/Battle Planet - Judgement Day.png</marquee>
+		<video>./snap/Battle Planet - Judgement Day.mp4</video>
+		<desc />
+		<rating>0.85</rating>
+		<releasedate>19971201T000000</releasedate>
+		<developer>Wildfire Studios</developer>
+		<publisher>GT Interactive Software</publisher>
+		<genre>Pinball</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Black Future '88.lnk</path>
+		<name>Black Future '88</name>
+		<image>./mixart/Black Future '88.png</image>
+		<marquee>./wheel/Black Future '88.png</marquee>
+		<video>./snap/Black Future '88.mp4</video>
+		<desc>Black Future ’88 is a Synth-Punk roguelike 2D action Shooter. Vertically climb an always evolving procedural tower to reach the top and kill its insane owner…before your heart explodes. Shoot, slash, dash and upgrade yourself to survive the endless.</desc>
+		<rating>0.95</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>Superscarysnakes</developer>
+		<publisher>Good Shepherd Entertainment</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Blasphemous.lnk</path>
+		<name>Blasphemous</name>
+		<image>./mixart/Blasphemous.png</image>
+		<marquee>./wheel/Blasphemous.png</marquee>
+		<video>./snap/Blasphemous.mp4</video>
+		<desc>A foul curse has fallen upon the land of Cvstodia and all its inhabitants - it is simply known as The Miracle. Play as The Penitent One - a sole survivor of the massacre of the ‘Silent Sorrow’.</desc>
+		<rating>0.90</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>The Game Kitchen</developer>
+		<publisher>Team17 Digital Ltd</publisher>
+		<genre>Action, Adventure, Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Blazing Chrome.lnk</path>
+		<name>Blazing Chrome</name>
+		<image>./mixart/Blazing Chrome.png</image>
+		<marquee>./wheel/Blazing Chrome.png</marquee>
+		<video>./snap/Blazing Chrome.mp4</video>
+		<desc>In Blazing Chrome, bring your best pal and kick some metal butts to free the humankind while enjoying a classic run’n’gun, fully loaded with action and exciting fights!</desc>
+		<rating>0.95</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>JoyMasher</developer>
+		<publisher>The Arcade Crew</publisher>
+		<genre>Action, Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Broforce.lnk</path>
+		<name>Broforce</name>
+		<image>./mixart/Broforce.png</image>
+		<marquee>./wheel/Broforce.png</marquee>
+		<video>./snap/Broforce.mp4</video>
+		<desc>When evil threatens the world, the world calls on Broforce - an under-funded, over-powered paramilitary organization dealing exclusively in excessive force.</desc>
+		<rating>0.90</rating>
+		<releasedate>20151201T000000</releasedate>
+		<developer>Free Lives</developer>
+		<publisher>Devolver Digital</publisher>
+		<genre>Action, Platform, Shooter</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Command and Conquer - Tiberian Dawn.lnk</path>
+		<name>Command and Conquer - Tiberian Dawn</name>
+		<image>./mixart/Command and Conquer - Tiberian Dawn.png</image>
+		<marquee>./wheel/Command and Conquer - Tiberian Dawn.png</marquee>
+		<video>./snap/Command and Conquer - Tiberian Dawn.mp4</video>
+		<desc>Tiberian Dawn features three factions, each with its unique strengths and tactics; the Global Defense Initiative GDI, the Brotherhood of NOD and The Forgotten, a non-playable neutral faction of mutants who have been physically and mentally affected by the Tiberium.</desc>
+		<rating>0.90</rating>
+		<releasedate>19991201T000000</releasedate>
+		<developer>Westwood Studios</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Crimzon Clover - World Ignition.lnk</path>
+		<name>Crimzon Clover - World Ignition</name>
+		<image>./mixart/Crimzon Clover - World Ignition.png</image>
+		<marquee>./wheel/Crimzon Clover - World Ignition.png</marquee>
+		<video>./snap/Crimzon Clover - World Ignition.mp4</video>
+		<desc>Take the role of a skilled pilot in the fight to destroy massive waves of enemies while dodging their unending rain of bullets. Each of the three ships has their own style of standard firing and a unique appearance.</desc>
+		<rating>0.90</rating>
+		<releasedate>20111201T000000</releasedate>
+		<developer>Yotsubane</developer>
+		<publisher>Degica</publisher>
+		<genre>Action, Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Cuphead.lnk</path>
+		<name>Cuphead</name>
+		<image>./mixart/Cuphead.png</image>
+		<marquee>./wheel/Cuphead.png</marquee>
+		<video>./snap/Cuphead.mp4</video>
+		<desc>Cuphead is a run and gun platform indie video game developed and published by StudioMDHR Entertainment. As the titular character Cuphead, the player fights a series of bosses in order to repay a debt to the devil.</desc>
+		<rating>0.95</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>StudioMDHR Entertainment</developer>
+		<publisher>StudioMDHR Entertainment</publisher>
+		<genre>Adventure, Platform</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Dark Quest 2.lnk</path>
+		<name>Dark Quest 2</name>
+		<image>./mixart/Dark Quest 2.png</image>
+		<marquee>./wheel/Dark Quest 2.png</marquee>
+		<video>./snap/Dark Quest 2.mp4</video>
+		<desc>Dark Quest 2 is a turn based RPG where you control a party of heroes on your epic quest to defeat the evil sorcerer and his minions. Dark Quest 2 is a turn based RPG inspired by legendary board game Hero Quest.</desc>
+		<rating>0.75</rating>
+		<releasedate>20181201T000000</releasedate>
+		<developer>Brain Seal Ltd</developer>
+		<publisher>Brain Seal Ltd</publisher>
+		<genre>Role-Playing</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./DOOM64 EX.lnk</path>
+		<name>DOOM64 EX</name>
+		<image>./mixart/DOOM64 EX.png</image>
+		<marquee>./wheel/DOOM64 EX.png</marquee>
+		<video>./snap/DOOM64 EX.mp4</video>
+		<desc>Doom64 EX is a reimplementation of Doom 64 by Samuel "Kaiser" Villarreal. It is based on Doom3D, though rewritten for OpenGL rather than DirectX, and including some bug fixes from Boom and MBF.</desc>
+		<rating>0.99</rating>
+		<releasedate>20081201T000000</releasedate>
+		<developer>id Software</developer>
+		<publisher>Midway</publisher>
+		<genre>Action, Horror, Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Double Dragon Neon.lnk</path>
+		<name>Double Dragon Neon</name>
+		<image>./mixart/Double Dragon Neon.png</image>
+		<marquee>./wheel/Double Dragon Neon.png</marquee>
+		<video>./snap/Double Dragon Neon.mp4</video>
+		<desc>BRO-TACULAR! Legendary martial artists, Billy and Jimmy Lee return in this creative re-imagining of the classic beat ‘em up, Double Dragon Neon.</desc>
+		<rating>0.90</rating>
+		<releasedate>20141201T000000</releasedate>
+		<developer>Abstraction Games</developer>
+		<publisher>Majesco Entertainment</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./DriftOn.lnk</path>
+		<name>DriftOn</name>
+		<image>./mixart/DriftOn.png</image>
+		<marquee>./wheel/DriftOn.png</marquee>
+		<video>./snap/DriftOn.mp4</video>
+		<desc>DriftOn is an infinite racing game in the surreal fracturing world. You drive through terrain that keeps breaking apart. Crumbling race track introduces its challenges that test speed of your reaction and skill of predicting the road in its fractured state.</desc>
+		<rating>0.80</rating>
+		<releasedate>20201201T000000</releasedate>
+		<developer>SPokeDev</developer>
+		<publisher>SPokeDev</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Drifting-Lands.lnk</path>
+		<name>Drifting-Lands</name>
+		<image>./mixart/Drifting-Lands.png</image>
+		<marquee>./wheel/Drifting-Lands.png</marquee>
+		<video>./snap/Drifting-Lands.mp4</video>
+		<desc>Drifting Lands is an hybrid of classical horizontal shoot'em'up with a lot of strong gameplay elements coming straight from the action-RPG genre. If you want an original diablo-like game or you want a different kind of shoot'em'up, you're in the right place!</desc>
+		<rating>0.85</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Alkemi</developer>
+		<publisher>Alkemi</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Dune 2000.lnk</path>
+		<name>Dune 2000</name>
+		<image>./mixart/Dune 2000.png</image>
+		<marquee>./wheel/Dune 2000.png</marquee>
+		<video>./snap/Dune 2000.mp4</video>
+		<desc>Dune 2000 is a remake of the classic Dune II updated for Windows. In this Real-Time Strategy game, you can play one of the three houses, the evil Harkonnen, the greed filled Ordos or the noble Atreides.</desc>
+		<rating>0.95</rating>
+		<releasedate>19981201T000000</releasedate>
+		<developer>Westwood Studios</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Epic Pinball - The Complete Collection.lnk</path>
+		<name>Epic Pinball - The Complete Collection</name>
+		<image>./mixart/Epic Pinball - The Complete Collection.png</image>
+		<marquee>./wheel/Epic Pinball - The Complete Collection.png</marquee>
+		<video>./snap/Epic Pinball - The Complete Collection.mp4</video>
+		<desc>You will love the sound effects and bouncing action of this PC version of pinball. All the elements of the classic game are preserved, including the concentration of keeping your ball rolling, tilting the tables and getting all the right combinations of letters and channels to score maximum.</desc>
+		<rating>0.80</rating>
+		<releasedate>19931101T000000</releasedate>
+		<developer>Digital Extremes</developer>
+		<publisher>Epic MegaGames, Inc.</publisher>
+		<genre>Pinball</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./FATE Undiscovered Realms.lnk</path>
+		<name>FATE Undiscovered Realms</name>
+		<image>./mixart/FATE Undiscovered Realms.png</image>
+		<marquee>./wheel/FATE Undiscovered Realms.png</marquee>
+		<video>./snap/FATE Undiscovered Realms.mp4</video>
+		<desc>Fate: Undiscovered Realms is an action role-playing roguelike video game developed by WildTangent and released on July 17, 2008, as a stand-alone expansion to the 2005 PC game Fate.</desc>
+		<rating>0.80</rating>
+		<releasedate>20081101T000000</releasedate>
+		<developer>WildTangent</developer>
+		<publisher>Encore Software</publisher>
+		<genre>Role-Playing</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Fight'N Rage.lnk</path>
+		<name>Fight'N Rage</name>
+		<image>./mixart/Fight'N Rage.png</image>
+		<marquee>./wheel/Fight'N Rage.png</marquee>
+		<video>./snap/Fight'N Rage.mp4</video>
+		<desc>Fight’N Rage is a brand new old-school side-scroller beat’em up. Inspired by the classics from the “golden age”, and with an art style that mimics the aesthetic from the 90's arcade gems, this game pays homage to all classic gameplay features that makes this genre one of the best from its time!</desc>
+		<rating>0.90</rating>
+		<releasedate>20171101T000000</releasedate>
+		<developer>sebagamesdev</developer>
+		<publisher>sebagamesdev</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-3</players>
+	</game>
+	<game>
+		<path>./Gauntlet Slayer Edition.lnk</path>
+		<name>Gauntlet Slayer Edition</name>
+		<image>./mixart/Gauntlet Slayer Edition.png</image>
+		<marquee>./wheel/Gauntlet Slayer Edition.png</marquee>
+		<video>./snap/Gauntlet Slayer Edition.mp4</video>
+		<desc>Gauntlet is a top-down dungeon crawler and an entry in the long-running Gauntlet series. The game supports up to four online or local players working cooperatively, each using a different one of the four available hero types: Elf, Valkyrie, Warrior and Wizard.</desc>
+		<rating>0.90</rating>
+		<releasedate>20141101T000000</releasedate>
+		<developer>Arrowhead Game Studios</developer>
+		<publisher>WB Games</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Guacamelee Super Turbo Championship Edition.lnk</path>
+		<name>Guacamelee Super Turbo Championship Edition</name>
+		<image>./mixart/Guacamelee Super Turbo Championship Edition.png</image>
+		<marquee>./wheel/Guacamelee Super Turbo Championship Edition.png</marquee>
+		<video>./snap/Guacamelee Super Turbo Championship Edition.mp4</video>
+		<desc>The definitive version of the smash hit Metroidvania-style action-platformer, Guacamelee! STCE adds new levels, powers, challenges and refinements to the sprawling, ridiculous, Mexican-inspired adventure of the original Guacamelee!</desc>
+		<rating>0.90</rating>
+		<releasedate>20131201T000000</releasedate>
+		<developer>DrinkBox Studios</developer>
+		<publisher>Activision</publisher>
+		<genre>Beat'em up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Gun Crazy.lnk</path>
+		<name>Gun Crazy</name>
+		<image>./mixart/Gun Crazy.png</image>
+		<marquee>./wheel/Gun Crazy.png</marquee>
+		<video>./snap/Gun Crazy.mp4</video>
+		<desc>Gun Crazy is a fast paced and hectic arcade style action shoot em' up, sporting old school pixel art and a retro sound track.</desc>
+		<rating>0.85</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>Ritual Games</developer>
+		<publisher>GrabTheGames</publisher>
+		<genre>Shoot'em up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Half-Life HD.lnk</path>
+		<name>Half-Life HD</name>
+		<desc>Deep in the bowels of the Black Mesa Federal Research Facility, a decommissioned missile base, a top-secret experiment goes terribly wrong. As aliens come through the walls and a military death squad shoots everything in sight, young research associate Gordon Freeman must scramble to stay alive. Find your way through the monster-ridden areas of Black Mesa using your wits, limited security clearance, and a variety of weapons, ranging from a crowbar and pistols to a rocket launcher and grenades. With split-screen deathmatch and its exclusive "Decay" single-player and multiplayer cooperative modes, Half-Life is an action experience like no other.</desc>
+		<rating>0.85</rating>
+		<releasedate />
+		<developer>Valve</developer>
+		<publisher>Valve</publisher>
+		<genre>Action-Shooter / 3rd person-Shooter</genre>
+		<image>./mixart/Half-Life HD.png</image>
+		<marquee>./wheel/Half-Life HD.png</marquee>
+		<video>./snap/Half-Life HD.mp4</video>
+	</game>
+	<game>
+		<path>./Halo - Combat Evolved Anniversary.lnk</path>
+		<name>Halo - Combat Evolved Anniversary</name>
+		<image>./mixart/Halo - Combat Evolved Anniversary.png</image>
+		<marquee>./wheel/Halo - Combat Evolved Anniversary.png</marquee>
+		<video>./snap/Halo - Combat Evolved Anniversary.mp4</video>
+		<desc>Halo: Combat Evolved Anniversary comes to PC as the second installment of Halo: The Master Chief Collection. Now optimized for PC, relive the spectacularly remastered edition of the original Halo campaign, created in celebration of the 10th anniversary of one of the most beloved franchises in gaming history.</desc>
+		<rating>0.99</rating>
+		<releasedate>20201201T000000</releasedate>
+		<developer>353 Industries</developer>
+		<publisher>Xbox Game Studios</publisher>
+		<genre>Action, Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Halo - Spartan Strike.lnk</path>
+		<name>Halo - Spartan Strike</name>
+		<image>./mixart/Halo - Spartan Strike.png</image>
+		<marquee>./wheel/Halo - Spartan Strike.png</marquee>
+		<video>./snap/Halo - Spartan Strike.mp4</video>
+		<desc>Halo: Spartan Strike makes you a Spartan supersoldier battling evil forces. Delve into 30 challenging missions through cities and jungles using a devastating arsenal of weapons, abilities and vehicles including the iconic Warthog against the Covenant and Promethean enemies. Be the Spartan and deny your foes the conquest of Earth.</desc>
+		<rating>0.95</rating>
+		<releasedate>20141201T000000</releasedate>
+		<developer>353 Industries</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Huntdown.lnk</path>
+		<name>Huntdown</name>
+		<image>./mixart/Huntdown.png</image>
+		<marquee>./wheel/Huntdown.png</marquee>
+		<video>./snap/Huntdown.mp4</video>
+		<desc>In the mayhem-filled streets of the future where gangs rule and cops fear to tread, only the bounty hunters can free the city from corruption. Lay waste to the criminal underworld and make a killing in this hard boiled action comedy arcade shooter.</desc>
+		<rating>0.95</rating>
+		<releasedate>20201201T000000</releasedate>
+		<developer>Easy Trigger</developer>
+		<publisher>Coffee Stain Publishing</publisher>
+		<genre>Action, Platform</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Ion Fury.lnk</path>
+		<name>Ion Fury</name>
+		<image>./mixart/Ion Fury.png</image>
+		<marquee>./wheel/Ion Fury.png</marquee>
+		<video>./snap/Ion Fury.mp4</video>
+		<desc>3D Realms, creators of Duke Nukem 3D, Prey, and Max Payne, are excited to team up with Voidpoint to bring back the legendary Build Engine, famously known for classic first-person shooters like Duke Nukem 3D, Shadow Warrior, and Blood. Ion Fury is the real deal! While Shelly “Bombshell” Harrison earned her codename defusing bombs for the Global Defense Force, when evil transhumanist mastermind Dr. Jadus Heskel unleashes the members of his cybernetic cult onto the streets of Neo DC, she knows it’s time to start causing explosions instead of preventing them.</desc>
+		<rating>0.90</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>Voidpoint, LLC</developer>
+		<publisher>3D Realms</publisher>
+		<genre>Action, Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Juanito Arcade Mayhem.lnk</path>
+		<name>Juanito Arcade Mayhem</name>
+		<image>./mixart/Juanito Arcade Mayhem.png</image>
+		<marquee>./wheel/Juanito Arcade Mayhem.png</marquee>
+		<video>./snap/Juanito Arcade Mayhem.mp4</video>
+		<desc>Arcade Mayhem Juanito is a retro experience about arcade-hopping. Teleport into different video games, play with unique mechanics inspired by well-known arcade games, face stunningly animated bosses and join the fight against the clonocell invasion.</desc>
+		<rating>0.95</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Game Ever Studio</developer>
+		<publisher>Game Ever Studio</publisher>
+		<genre>Arcade</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Mega Man Zero - ZX Legacy Collection.lnk</path>
+		<name>Mega Man Zero - ZX Legacy Collection</name>
+		<image>./mixart/Mega Man Zero - ZX Legacy Collection.png</image>
+		<marquee>./wheel/Mega Man Zero - ZX Legacy Collection.png</marquee>
+		<video>./snap/Mega Man Zero - ZX Legacy Collection.mp4</video>
+		<desc>Mega Man Zero/ZX Legacy Collection brings together six classic titles in one game: Mega Man Zero 1, 2, 3 and 4, as well as Mega Man ZX and ZX Advent.</desc>
+		<rating>0.75</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Megamagic - Wizards of the Neon Age.lnk</path>
+		<name>Megamagic - Wizards of the Neon Age</name>
+		<image>./mixart/Megamagic - Wizards of the Neon Age.png</image>
+		<marquee>./wheel/Megamagic - Wizards of the Neon Age.png</marquee>
+		<video>./snap/Megamagic - Wizards of the Neon Age.mp4</video>
+		<desc>Prepare to delve into a fascinating world where the forces of technology and magic are embroiled in a vicious struggle! Blurring the lines between the RPG and strategy genres, Megamagic recaptures the unmistakable flavour of the 80s in a game filled with pop culture references and magnified by the incredible music by Mitch Murder, composer of Kung Fury and Hotline Miami 2 soundtracks.</desc>
+		<rating>0.75</rating>
+		<releasedate>20161201T000000</releasedate>
+		<developer>Beautifun Games</developer>
+		<publisher>Beautifun Game</publisher>
+		<genre>Role-Playing</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Neon Abyss.lnk</path>
+		<name>Neon Abyss</name>
+		<image>./mixart/Neon Abyss.png</image>
+		<marquee>./wheel/Neon Abyss.png</marquee>
+		<video>./snap/Neon Abyss.mp4</video>
+		<desc>Neon Abyss is a frantic, roguelike action-platformer where you run ‘n’ gun your way into the Abyss as part of the Hades formed ‘Grim Squad’. Featuring unlimited item synergies and a unique dungeon evolution system, each run diversifies the experience and every choice alters the ruleset. Get ready to unleash hell! Evolving Dungeon With each run, you will be able to unlock new rooms, items, bosses, special rules and even new endings!</desc>
+		<rating>0.90</rating>
+		<releasedate>20201201T000000</releasedate>
+		<developer>Veewo Games</developer>
+		<publisher>Team 17 Digital Ltd</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Neon Chrome.lnk</path>
+		<name>Neon Chrome</name>
+		<image>./mixart/Neon Chrome.png</image>
+		<marquee>./wheel/Neon Chrome.png</marquee>
+		<video>./snap/Neon Chrome.mp4</video>
+		<desc>Neon Chrome is a top-down cyberpunk shooter with roguelike elements. It takes place in Neon Chrome, an arcology (large tower) built by Neon Corp where millions of people live. The player takes control of one of the inhabitants flagged for removal. He connects to one of thousands of assets through an immersion chair to bring down the system, with a new asset for every session, from a selection of three.</desc>
+		<rating>0.85</rating>
+		<releasedate>20161201T000000</releasedate>
+		<developer>10tons Ltd</developer>
+		<publisher>10tons Ltd</publisher>
+		<genre>Action, Role-Playing, Shooter</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./NeuroVoider.lnk</path>
+		<name>NeuroVoider</name>
+		<image>./mixart/NeuroVoider.png</image>
+		<marquee>./wheel/NeuroVoider.png</marquee>
+		<video>./snap/NeuroVoider.mp4</video>
+		<desc>NeuroVoider* is a twin-stick shooter RPG set in a cyber futuristic world about brains shooting around evil robots with nuclear rocket launchers. Battle through the horde of vigilant robots, boost your character with the smoking remains of your victims, and defeat the master NeuroVoider to end this eternal war. Play it coop with up to 4 friends, or go alone in an adventure of hack'n'slash rampage, with a pinch of rogue-lite, and some permadeath. * may contain explosions. </desc>
+		<rating>3.33</rating>
+		<releasedate>20160831T000000</releasedate>
+		<developer>Flying Oak Games</developer>
+		<publisher>Plug In Digital</publisher>
+		<genre>Action, Role-Playing, Shooter</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Nex Machina.lnk</path>
+		<name>Nex Machina</name>
+		<image>./mixart/Nex Machina.png</image>
+		<marquee>./wheel/Nex Machina.png</marquee>
+		<video>./snap/Nex Machina.mp4</video>
+		<desc>Nex Machina is an intense arcade style twin-stick shooter from Housemarque. Taking hints from both Robotron and Smash TV, Nex Machina focuses on pure action, voxel destruction and competition in the distant, cablepunk themed future. Housemarque, the creators of Resogun, and Eugene Jarvis invite you on a trip back to the age of arcades and play Nex Machina, the twinstick shooter of this generation. Destroy the evil robots, free the humans and defeat your friends' high scores along with their dreams of success. Do you have what it takes to make it to the top?</desc>
+		<rating>4.56</rating>
+		<releasedate>20170620T000000</releasedate>
+		<developer>Housemarque</developer>
+		<publisher>Housemarque</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./NyxQuest - Kindred Spirits.lnk</path>
+		<name>NyxQuest - Kindred Spirits</name>
+		<image>./mixart/NyxQuest - Kindred Spirits.png</image>
+		<marquee>./wheel/NyxQuest - Kindred Spirits.png</marquee>
+		<video>./snap/NyxQuest - Kindred Spirits.mp4</video>
+		<desc>Fly with Nyx across the ruins of the ancient Greece in her dangerous search for her dearest friend Icarus. Use the powers of Zeus and the Gods from Olympus and use them wisely in order to help Nyx to complete her epic adventure.</desc>
+		<rating>0.80</rating>
+		<releasedate>20100927T000000</releasedate>
+		<developer>Over The Top Games</developer>
+		<publisher>Over The Top Games</publisher>
+		<genre>Action, Adventure, Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Oceanhorn - Monster of Uncharted Seas.lnk</path>
+		<name>Oceanhorn - Monster of Uncharted Seas</name>
+		<image>./mixart/Oceanhorn - Monster of Uncharted Seas.png</image>
+		<marquee>./wheel/Oceanhorn - Monster of Uncharted Seas.png</marquee>
+		<video>./snap/Oceanhorn - Monster of Uncharted Seas.mp4</video>
+		<desc>You wake up and find a letter from your father. He is gone… The only lead is his old notebook and a mysterious necklace. What happened? Oceanhorn: Monster of Uncharted Seas combines captivating storytelling, breathtaking 3D visuals and exciting gameplay into one epic action-adventure experience. In the game you explore the islands of Uncharted Seas, a world filled with many dangers, puzzles and secrets. You must fight monsters, learn to use magic and discover ancient treasures, which will help you on your quest. Use all of your wits and skill to unravel the mysteries of the ancient kingdom of Arcadia and the sea monster, Oceanhorn.</desc>
+		<rating>4.05</rating>
+		<releasedate>20150317T000000</releasedate>
+		<developer>Cornfox and Brothers </developer>
+		<publisher>FDG Entertainment</publisher>
+		<genre>Action, Adventure, Role-Playing</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./PAC-MAN Championship Edition 2.lnk</path>
+		<name>PAC-MAN Championship Edition 2</name>
+		<image>./mixart/PAC-MAN Championship Edition 2.png</image>
+		<marquee>./wheel/PAC-MAN Championship Edition 2.png</marquee>
+		<video>./snap/PAC-MAN Championship Edition 2.mp4</video>
+		<desc>The much-awaited sequel to PAC-MAN™ CHAMPIONSHIP EDITION! Featuring eye-popping 3D graphics and funky visuals, the latest version of the classic game takes chomping and chasing through mazes to a whole new level! Make up to four ghost trains for maximum chompage! New modes include Score Attack and an Adventure Mode with fast fleeing fruit, big bad bosses, ridiculous remixed rules, and more!</desc>
+		<rating>3.85</rating>
+		<releasedate>20160913T000000</releasedate>
+		<developer>Bandai Namco Studios Inc</developer>
+		<publisher>Bandai Namco Entertainment</publisher>
+		<genre>Action </genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./PAC-MAN Championship Edition DX Plus.lnk</path>
+		<name>PAC-MAN Championship Edition DX Plus</name>
+		<image>./mixart/PAC-MAN Championship Edition DX Plus.png</image>
+		<marquee>./wheel/PAC-MAN Championship Edition DX Plus.png</marquee>
+		<video>./snap/PAC-MAN Championship Edition DX Plus.mp4</video>
+		<desc>It's time to gear up!  A Pac-Man experience that will definitely surprise you! </desc>
+		<rating>4.12</rating>
+		<releasedate>20130924T000000</releasedate>
+		<developer>Namco Bandai Games</developer>
+		<publisher>Namco Bandai Games</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./PAC-MAN256.lnk</path>
+		<name>PAC-MAN256</name>
+		<image>./mixart/PAC-MAN256.png</image>
+		<marquee>./wheel/PAC-MAN256.png</marquee>
+		<video>./snap/PAC-MAN256.mp4</video>
+		<desc>PAC-MAN 256 is the maze that never ends. But the Glitch is coming for you… Get Lasers too!</desc>
+		<rating>3.94</rating>
+		<releasedate />
+		<developer>BANDAI NAMCO Studios Vancouver</developer>
+		<publisher>Bandai Namco Entertainment</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Pinball FX3.lnk</path>
+		<name>Pinball FX3</name>
+		<image>./mixart/Pinball FX3.png</image>
+		<marquee>./wheel/Pinball FX3.png</marquee>
+		<video>./snap/Pinball FX3.mp4</video>
+		<desc>Williams™ Pinball classics are now available -- and Fish Tales™ is yours for FREE! Zen is proud to bring these amazing games to players around the world. Enjoy! Zen Studios will continue to support Pinball FX3 with frequent content releases and new features!</desc>
+		<rating>4.5</rating>
+		<releasedate>20170926T000000</releasedate>
+		<developer>Zen Studios</developer>
+		<publisher>Zen Studios</publisher>
+		<genre>Action, Life Simulation</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Project AETHER First Contact.lnk</path>
+		<name>Project AETHER First Contact</name>
+		<desc>As a threat from beyond looms over the solar system, take control of the AETHER prototype in this rhythmic and tactical space shooter - fusing classic arcade-style action with stunning 3D environments and an engaging sci-fi story.</desc>
+		<rating>0.80</rating>
+		<releasedate>20201201T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Arcade-Shooter</genre>
+		<players>1</players>
+		<image>./mixart/Project AETHER First Contact.png</image>
+		<marquee>./wheel/Project AETHER First Contact.png</marquee>
+		<video>./snap/Project AETHER First Contact.mp4</video>
+	</game>
+	<game>
+		<path>./Project Warlock.lnk</path>
+		<name>Project Warlock</name>
+		<image>./mixart/Project Warlock.png</image>
+		<marquee>./wheel/Project Warlock.png</marquee>
+		<video>./snap/Project Warlock.mp4</video>
+		<desc>One man and his guns. Become a mysterious Warlock who embarks onto a dangerous mission to eradicate all evil. Put your finger on the trigger and travel through time and space to wreak havoc like in the golden days of fast paced, adrenaline-pumping first person shooters, hooking you for hours of super fun carnage. Let’s rock and roll!  Develop your hero the way you like, by assigning upgrade points and perks to the favorite skills between each level. Develop and upgrade spells and weapons to create your unique character through the game, and use their powers to master the game in higher difficulty modes.</desc>
+		<rating>3.4</rating>
+		<releasedate>20181018T000000</releasedate>
+		<developer>Buckshot Software</developer>
+		<publisher>gaming company</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Punch Club.lnk</path>
+		<name>Punch Club</name>
+		<image>./mixart/Punch Club.png</image>
+		<marquee>./wheel/Punch Club.png</marquee>
+		<video>./snap/Punch Club.mp4</video>
+		<desc>Punch Club is a sporting management simulation in which the player manages an upcoming boxer in training and preparation for a series of boxing matches at a local club, while searching for clues of who killed their father. The game was developed as a humorous take on action films of the 1980s and 1990s. The player controls an unnamed boxer whose father, who helped to train him, was murdered. The boxer aims to continue his training and become the best boxer at a local league, while following clues to lead him to who killed his father. The player manages the boxer around the clock through various locations in a city, including his home, the boxing gym, stores, and his work place. Time progresses when the player is involved in any activity, including moving between these locations.</desc>
+		<rating>3.12</rating>
+		<releasedate>20160109T000000</releasedate>
+		<developer>Lazy Bear Games</developer>
+		<publisher>tinyBuild</publisher>
+		<genre>Fighting, Role-Playing, Strategy</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Rad Rodgers.lnk</path>
+		<name>Rad Rodgers</name>
+		<image>./mixart/Rad Rodgers.png</image>
+		<marquee>./wheel/Rad Rodgers.png</marquee>
+		<video>./snap/Rad Rodgers.mp4</video>
+		<desc>Rad is a rambunctious but spirited young boy who maybe plays too many video games. After dozing off at the tail end of a long night of gaming, Rad awakens to find his dusty old console has turned itself back on. Suddenly a vortex emerges and he's sucked into his TV, where he finds himself the star in his very own video game adventure. Dusty is Rad's good-hearted but foul-mouthed, now-sentient game console. His clock speed isn't what it used to be, but what he lacks for in megahertz he makes up for with experience and attitude! Rad and Dusty's adventure begins in the First World, taking them through seven dangerous stages of action-packed, humor-filled, hardcore platforming fun. This decaying jungle world has been infected by a fierce corruption, and it's up to the unlikely buddy-duo Rad and Dusty to save the jungle's inhabitants and restore the Elder Tree as guardian of the land. Weapons: Dusty arms Rad with a variety of radical bad-ass weaponry. The Bolt Blaster has unlimited ammo, is easy to use, and more than enough firepower to get the job done. The Phoenix Cannon shoots out a fiery bird whose wingspan lights enemies ablaze as it flies by. There are 5+ weapons in this first chapter, with more to come. Sounds and Music: Our composer Andrew Hulshult combined his years of musical experience (both performing and writing) with his passion for retro-style gaming to create an amazing and authentic soundtrack for the game complete with MIDI-inspired music... And synthesizers! The Pixelverse: While Rad and Dusty are a great team, only Dusty can enter the electrified Pixelverse -- a dangerous spacetime-breaking region that exists behind the game world. Dusty enters the Pixelverse when necessary to repair glitches in the running game world, allowing both Rad and Dusty to continue their journey. Classic Easter Eggs: The game features hard-to-find collectibles in sometimes even harder-to-find classic secret rooms. Use your precision platforming skills to collect 'em all.</desc>
+		<rating>4.6</rating>
+		<releasedate>20161201T000000</releasedate>
+		<developer>Interceptor Entertainment</developer>
+		<publisher>3D Realms</publisher>
+		<genre>Action, Adventure, Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Raiden IV - OverKill.lnk</path>
+		<name>Raiden IV - OverKill</name>
+		<image>./mixart/Raiden IV - OverKill.png</image>
+		<marquee>./wheel/Raiden IV - OverKill.png</marquee>
+		<video>./snap/Raiden IV - OverKill.mp4</video>
+		<desc>The series that changed the history of arcade shoot’em ups is back with the crazed action of Overkill mode! Master a variety of new weapons as swarms of enemy fighters try and put you down. Everything from fan favorites, such as the Spread Shot and Vulcan Laser, will be available, as well as new weapons and items! Instill fear in your enemies with devastating attacks and earn the acclaimed title of Master Ace! Game Modes OverKill Mode - a brand-new mode with new mission stages and a revamped scoring system! Additional Mode - Variation of Arcade Mode with 2 new stages Score Attack Mode - High Score Mode for all stages including those from Overkill Mode Arcade Mode - Arcade Mode that recreates the arcade experience with two difficulties: Light and Original World Rankings - Ranking mode that will place you among players from all over the world in Overkill Mode, Additional Mode, and Arcade Mode. Reply and Gallery - Watch Reply data and view items in the Gallery ??? - A secret mode playable once you clear the game Features Challenging New Bosses and Stages - With new stages and never before seen bosses, experience the fast, blistering game play action that never gets old. Items, Weapons, and More - Unlock and master a variety of weapons, including fan favorites such as the Spread Shot and Laser, and never before seen weapons and items! Best Graphics to Date - The series has transitioned from its 2D roots to 3D, creating lush environments, devastating explosions and countless enemies, without a drop in frame-rate.</desc>
+		<rating>3.48</rating>
+		<releasedate>20150903T000000</releasedate>
+		<developer>Moss Ltd.</developer>
+		<publisher>H2 Interactive Co., Ltd.</publisher>
+		<genre>Action, Shooter </genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Rocketron.lnk</path>
+		<name>Rocketron</name>
+		<image>./mixart/Rocketron.png</image>
+		<marquee>./wheel/Rocketron.png</marquee>
+		<video>./snap/Rocketron.mp4</video>
+		<desc>Fly through the sky! Rain down fire on the enemy forces from above! Enjoy solid combat and simple non-linear exploration in this high flying side-scrolling action shooter!</desc>
+		<rating>0.75</rating>
+		<releasedate>2020</releasedate>
+		<developer>Astro Port</developer>
+		<publisher>Henteko Doujin</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Shadow Warrior Classic Redux.lnk</path>
+		<name>Shadow Warrior Classic Redux</name>
+		<image>./mixart/Shadow Warrior Classic Redux.png</image>
+		<marquee>./wheel/Shadow Warrior Classic Redux.png</marquee>
+		<video>./snap/Shadow Warrior Classic Redux.mp4</video>
+		<desc>Shadow Warrior Classic Redux is a PC version of Shadow Warrior, released on GOG.com - Challenging Steam achievements for only the most skilled warriors. </desc>
+		<rating>3.27</rating>
+		<releasedate>20130708T000000</releasedate>
+		<developer>3D Realms, General Arcade, Level Infinity, Sunstorm Interactive, Wylde Productions</developer>
+		<publisher>Devolver Digital, GT Interactive</publisher>
+		<genre>Action, Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Shadowgate.lnk</path>
+		<name>Shadowgate</name>
+		<image>./mixart/Shadowgate.png</image>
+		<marquee>./wheel/Shadowgate.png</marquee>
+		<video>./snap/Shadowgate.mp4</video>
+		<desc>Shadowgate is one of the most well-known and beloved point-and-click adventure titles in gaming history. As one of the original titles in the popular MacVenture series that went on to be celebrated on the NES, GBC, and Nintendo 64, Shadowgate quickly endeared players with its fantastic atmospheric soundtrack, perilous locations to progress through, countless puzzles to solve, and more ways to gruesomely die than gamers previously thought possible. Thrust into the role of "The Seed of Prophecy," players travel deep into the living castle, in hopes of defeating the evil that dwells within – the dreaded Warlock Lord. Now, nearly 30 years after the original version haunted Mac and NES gamers, the original development team behind that timeless classic is back with a full re-imagining of the original Shadowgate. Much more than a port, the team at Zojoi has painstakingly redesigned the game from the ground up, adding in tons of new mind-bending puzzles, lots of new rooms with stunning hand-painted 2D graphical detail, and more objects to interact with and help you along your quest. Decide how YOU want to play this new, re-imagined Shadowgate! Want the modern adventure experience? Use the wheel-based icon command system. Want the retro experience? Employ the Classic command system and turn on the retro graphics, soundtrack, text box, and room transitions. Want a more cinematic experience? Switch to Immersive mode by auto-hiding the UI and using customizable hotkeys to explore the castle. Or mix and match the options to satisfy your play style. In Shadowgate, there are plenty of new features and fun throwbacks to the original version to satisfy veteran adventurers and newcomers alike! -- Key Features -- - Customized UI: Play the way you want! Use modern wheel-based icon commands, classic on-screen commands, or jump into Immersive mode to auto-hide the UI elements. Create key binds, lock commands and keys, and more. - The Dread Pumpkin Quest: A new mini-quest, find and free the Dread Pumpkin! - First Person Adventuring: Utilize your inventory, mapping system, and intuitive UI to complete your quest. - Dangerous Dungeons: Tons of beautifully illustrated rooms featuring both new and familiar locations, offering a new gameplay experiences. - Mind-bending Puzzles: Lots of new and updated puzzles that seamlessly expand on the original game. - Difficulty Levels: Four different difficulty levels (from the novice to expert) that actually change the gameplay experience and puzzle structure. For the ultimate challenge, try Ironman mode that disables saves and requires players to finish the game in one try. - Retro Mode: Play the game like it’s 1989! Toggle on pixelated graphics, listen to Hiroyuki Masuno’s original NES chip tunes, move between rooms with NES transitions, and enjoy the text in retro format. - Storytelling: Shadowgate features dramatic cut-scenes and all the same great storytelling you expect from the original creators. - Cinematic Score: A digitally-orchestrated, dynamic soundtrack that changes with gameplay by composer Rich Douglas. - Soundscapes: A complete atmospheric and puzzle-based sound design featuring hundreds of sound effects.</desc>
+		<rating>3.7</rating>
+		<releasedate>20140821T000000</releasedate>
+		<developer>Zojoi</developer>
+		<publisher>Reverb Triple XP</publisher>
+		<genre>Adventure, Horror, Puzzle, Role-Playing</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Shadowrun Returns.lnk</path>
+		<name>Shadowrun Returns</name>
+		<image>./mixart/Shadowrun Returns.png</image>
+		<marquee>./wheel/Shadowrun Returns.png</marquee>
+		<video>./snap/Shadowrun Returns.mp4</video>
+		<desc>Shadowrun Returns is a turn-based role-playing game with a skill based character progression system. You create your basic character and build the character based on your own needs during the game play, adding in the skills fit the most in your gamestyle. Combat is done with tactical, turn-based style, allowing you to take an advantage of your team skills as well as the surroundings of the battle. The game is played from an isometric view. The game world is created in a hand-painted style while the characters are in 3D. </desc>
+		<rating>3.88</rating>
+		<releasedate>20130725T000000</releasedate>
+		<developer>Harebrained Schemes</developer>
+		<publisher>Harebrained Schemes</publisher>
+		<genre>Role-Playing</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Shovel Knight - Treasure Trove.lnk</path>
+		<name>Shovel Knight - Treasure Trove</name>
+		<image>./mixart/Shovel Knight - Treasure Trove.png</image>
+		<marquee>./wheel/Shovel Knight - Treasure Trove.png</marquee>
+		<video>./snap/Shovel Knight - Treasure Trove.mp4</video>
+		<desc>Shovel Knight: Treasure Trove is the full and complete edition of Shovel Knight, a sweeping classic action adventure game series with awesome gameplay, memorable characters, and an 8-bit retro aesthetic! Become Shovel Knight, wielder of the Shovel Blade, as he runs, jumps, and battles in a quest for his lost beloved. Take down the nefarious knights of the Order of No Quarter and their menacing leader, The Enchantress. But that’s not everything! Shovel Knight: Treasure Trove will feature three additional campaigns that are games all unto themselves! Take control of Plague Knight, and Specter Knight on adventures of their own, with King Knight joining later as a free update! Together, they form a grand and sweeping saga! With a fully cooperative campaign, a full-featured challenge mode, body swap mode, and a 4 player battle mode (Coming soon!) you’ll be digging for a long time. With Shovel Knight: Treasure Trove, you get it all. Uphold the virtues of Shovelry, earn relics and riches, and discover the true meaning of shovel justice!</desc>
+		<rating>4.2</rating>
+		<releasedate>20170303T000000</releasedate>
+		<developer>Yacht Club Games</developer>
+		<publisher>Yacht Club Games</publisher>
+		<genre>Action, Platform </genre>
+		<players />
+	</game>
+	<game>
+		<path>./SiN Gold.lnk</path>
+		<name>SiN Gold</name>
+		<image>./mixart/SiN Gold.png</image>
+		<marquee>./wheel/SiN Gold.png</marquee>
+		<video>./snap/SiN Gold.mp4</video>
+		<desc>When the CEO of SinTEK Industries begins injecting the streets with a DNA-altering drug, it's time to reassess the laws of morality. When the same twisted bio-chemist plans to overtake the world with her unholy army of genetically-engineered mutants, it's time to rewrite the golden rule. You are Colonel John R. Blade, head of the most prominent private protection agency in Freeport. Now Elexis Sinclaire is waging her holy war against the security industry...and you along with it. You've made a religion out of fighting crime. Now you're going to make Elexis pay for her sins. Updated Features * Added "Wages of SiN" expansion * Added modernized Steam master server support * Added and restored editing SDK * Added support for additional 16:9 video resolutions * Restored/uncensored various original game assets General Improvements * Optimizations to math, container types, and search algorithms * Restored support for *.sin pack files, re-packed assets * Removed obsolete IPX networking support * Restored original sound and music engine * Changed video format to open-source/patent-free OGV/Theora Fixes * Fixed crash in Docks cinematic * Fixed incorrect behavior in Thug AI * Fixed undefined camera position and occasional crash in Wages of SiN ending cinematic * r_palettemode cvar for software mode now reads and writes correct configuration variable * Fixed memory corruption issue during multiplayer initialization * cl_maxfps default changed to 200 to avoid issues with game running too fast * Repaired issue with extremely loud sounds on menu screens when FPS is too high * Fixed possible soft lock when using menu hotkeys while inside an in-game computer console * Restored missing assets for Beecadrone enemy</desc>
+		<rating />
+		<releasedate>19981031T000000</releasedate>
+		<developer>2015, Inc., Nightdive Studios, Ritual Entertainment</developer>
+		<publisher>Activision, Nightdive Studios</publisher>
+		<genre>Action, Shooter</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Skybolt Zack.lnk</path>
+		<name>Skybolt Zack</name>
+		<desc>Skybolt Zack is a brand new fast-paced arcade gaming experience! With his Rocket Punches Zack leaps from enemy to enemy, destroying anything standing in his way!</desc>
+		<rating>0.80</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>Devs Must Die</developer>
+		<publisher>Green Man Gaming</publisher>
+		<genre>Platformer</genre>
+		<players>1</players>
+		<image>./mixart/Skybolt Zack.png</image>
+		<marquee>./wheel/Skybolt Zack.png</marquee>
+		<video>./snap/Skybolt Zack.mp4</video>
+	</game>
+	<game>
+		<path>./Slain!.lnk</path>
+		<name>Slain!</name>
+		<image>./mixart/Slain!.png</image>
+		<marquee>./wheel/Slain!.png</marquee>
+		<video>./snap/Slain!.mp4</video>
+		<desc>Slain: Back from Hell. A heavy metal inspired arcade combat with puzzle elements and gore galore. Stunning visuals and true old school gameplay accompanied by the most metal soundtrack you've ever heard.</desc>
+		<rating>0.90</rating>
+		<releasedate>2016</releasedate>
+		<developer>Steel Mantis</developer>
+		<publisher>Digerati</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Speedball 2 HD.lnk</path>
+		<name>Speedball 2 HD</name>
+		<image>./mixart/Speedball 2 HD.png</image>
+		<marquee>./wheel/Speedball 2 HD.png</marquee>
+		<video>./snap/Speedball 2 HD.mp4</video>
+		<desc>Speedball 2 HD is a modern reincarnation on the classic, futuristic cyberpunk sports game Speedball, originally developed by the Bitmap Brothers and first released for the Atari ST in 1990. A brutal mix of handball and ice hockey placed at break-neck pace. Now Tower Studios, Vivid Games and The Bitmap Brothers have created a glorious fusion of classic gameplay and modern technology to launch this game into the 21st century. Choose from 28 teams across 6 new Speedball Arenas, Speedball 2 HD includes all the intense gameplay of the original with new teams, more formations and in particular the new Fire, Ice and Cyber teams. </desc>
+		<rating>3.5</rating>
+		<releasedate>20131205T000000</releasedate>
+		<developer>Vivid Games</developer>
+		<publisher>Mastertronic</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Star Wars - Rogue Squadron 3D.lnk</path>
+		<name>Star Wars - Rogue Squadron 3D</name>
+		<image>./mixart/Star Wars - Rogue Squadron 3D.png</image>
+		<marquee>./wheel/Star Wars - Rogue Squadron 3D.png</marquee>
+		<video>./snap/Star Wars - Rogue Squadron 3D.mp4</video>
+		<desc>Star Wars: Rogue Squadron (known as Star Wars: Rogue Squadron 3D on the PC) is an arcade-style action game co-developed by Factor 5 and LucasArts. The first of three games in the Rogue Squadron series, it was published by LucasArts and Nintendo and released for Windows and the Nintendo 64 in December 1998. Rogue Squadron was one of the first games to take advantage of the Nintendo 64's Expansion Pak, which allows gameplay at a 640 × 480 display resolution, instead of that system's standard 320 × 240 resolution. Set in the fictional Star Wars galaxy and inspired by the Star Wars: X-wing Rogue Squadron comics, the game takes place primarily between events in the films Star Wars and The Empire Strikes Back. The player controls Luke Skywalker, commander of the elite X-wing pilots known as Rogue Squadron. As the game progresses, Skywalker and Rogue Squadron fight the Galactic Empire in sixteen missions across various planets. Rogue Squadron received generally positive reviews. Critics praised the game's technical achievements and flight controls, but its use of distance fog and the lack of a multiplayer mode drew criticism. The game's sales exceeded expectations; by August 1999, more than one million copies had sold worldwide. It spawned two sequels developed and released for the Nintendo GameCube—Star Wars Rogue Squadron II: Rogue Leader and Star Wars Rogue Squadron III: Rebel Strike—as well as Star Wars: Episode I: Battle for Naboo, a spiritual successor released for Windows and Nintendo 64.</desc>
+		<rating>3.58</rating>
+		<releasedate>19981207T000000</releasedate>
+		<developer>Factor 5, LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Flight Simulator</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Star Wars - TIE Fighter Collector's CD (1995).lnk</path>
+		<name>Star Wars - TIE Fighter Collector's CD (1995)</name>
+		<image>./mixart/Star Wars - TIE Fighter Collector's CD (1995).png</image>
+		<marquee>./wheel/Star Wars - TIE Fighter Collector's CD (1995).png</marquee>
+		<video>./snap/Star Wars - TIE Fighter Collector's CD (1995).mp4</video>
+		<desc>The dark side beckons you on CD-ROM... Through their treachery on Yavin, the Alliance of rebels and other criminals has threatened the very foundation of the Empire. As an imperial navy starfighter pilot, your will safeguard imperiled lives throughout the galaxy. This compilation includes the campaigns from the original game Star Wars: TIE Fighter, the three campaigns from the add-on Star Wars: TIE Fighter - Defender of the Empire and also three new, never before released campaigns in a second add-on called Enemies of the Empire. In total there are more than 100 missions to fly and survive. In addition to the new missions, there are also some technical improvements to the game: Improved screen resolution to SVGA (640*480) Added new cut scenes Full voice mission briefings and radio calls (the so called "Talkie" version) Improved the interactive mission briefing</desc>
+		<rating>4.54</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>LucasArts Entertainment Company LLC, Totally Games</developer>
+		<publisher>LucasArts Entertainment Company LLC</publisher>
+		<genre>Action, Flight Simulator</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Stranger Things 3 - The Game.lnk</path>
+		<name>Stranger Things 3 - The Game</name>
+		<image>./mixart/Stranger Things 3 - The Game.png</image>
+		<marquee>./wheel/Stranger Things 3 - The Game.png</marquee>
+		<video>./snap/Stranger Things 3 - The Game.mp4</video>
+		<desc>Stranger Things 3: The Game is the official companion game to Season 3 of the hit original series! Play through familiar events from the series while also uncovering never-before-seen quests, character interactions, and secrets! This adventure game blends a distinctively retro art style with modern gameplay mechanics to deliver nostalgic fun with a fresh new twist. Just like in the show, teamwork is at the heart of Stranger Things 3: The Game. Fans can team up in two player local co-op to explore the world of Hawkins, solve puzzles, and battle the emerging evils of The Upside Down as one of twelve beloved characters from the show.</desc>
+		<rating>3.7</rating>
+		<releasedate>20190704T000000</releasedate>
+		<developer>BonusXP</developer>
+		<publisher>BonusXP</publisher>
+		<genre>Action, Adventure</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Streets of Rage 4.lnk</path>
+		<name>Streets of Rage 4</name>
+		<image>./mixart/Streets of Rage 4.png</image>
+		<marquee>./wheel/Streets of Rage 4.png</marquee>
+		<video>./snap/Streets of Rage 4.mp4</video>
+		<desc>The all-time classic Streets of Rage, known as Bare Knuckle (ベア・ナックル Bea Nakkuru) in Japan, is a trilogy of beat ‘em up known for this timeless gameplay and electronic dance influenced music. Streets of Rage 4 builds upon the classic trilogy’s gameplay with new mechanics, beautiful hand drawn visuals and a God tier soundtrack. Or team up along to defeat the Boss Rush Mode! </desc>
+		<rating>4.41</rating>
+		<releasedate>20200430T000000</releasedate>
+		<developer>DotEmu, Guard Crush Games, Lizardcube</developer>
+		<publisher>DotEmu</publisher>
+		<genre>Action, Adventure, Beat 'em Up</genre>
+		<players>3</players>
+	</game>
+	<game>
+		<path>./Streets of Rogue.lnk</path>
+		<name>Streets of Rogue</name>
+		<image>./mixart/Streets of Rogue.png</image>
+		<marquee>./wheel/Streets of Rogue.png</marquee>
+		<video>./snap/Streets of Rogue.mp4</video>
+		<desc>Streets of Rogue is a rogue-lite about player choice, freedom, and anarchic fun. The game takes inspiration from fast-paced top-down rogue-lites like Binding of Isaac and Nuclear Throne, and adds free-form, experimentation-driven, emergent gameplay elements of RPGs like Deus Ex. In order to progress, the player will need to accomplish specific mission goals in any way they see fit through use of their special character traits, items, and the environment. </desc>
+		<rating>4.36</rating>
+		<releasedate>20170310T000000</releasedate>
+		<developer>Matt Dabrowski</developer>
+		<publisher>tinyBuild</publisher>
+		<genre>Action, Adventure, Role-Playing</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./System Shock - Enhanced Edition.lnk</path>
+		<name>System Shock - Enhanced Edition</name>
+		<image>./mixart/System Shock - Enhanced Edition.png</image>
+		<marquee>./wheel/System Shock - Enhanced Edition.png</marquee>
+		<video>./snap/System Shock - Enhanced Edition.mp4</video>
+		<desc>A first-person fight to the death in the depths of space. You're a renowned hacker, the most notorious cyberspace thief in the corporate world. Caught during a risky break-in, you become indentured to Diego, a greedy Trioptium exec who bankrolls a rare cyberjack implant operation. After six months in a healing coma, you awaken to the twisted aftermath of a terrible disaster. Where are the surgeons? Why is the station in such disrepair? Slowly, the chilling realization that something is very wrong creeps over you. Once a prime corporate research facility, Citadel now teems with mindless cyborgs, robots and terribly mutated beings, all programmed to serve SHODAN, a ruthless A.I. There's scarcely time to think before it unleashes the first terror... Twenty one years after its first release, System Shock is back! The Enhanced Edition adds a modern touch to this true classic gem, without taking anything from its unmistakable atmosphere. See for yourself that the game that has been called the benchmark for intelligent first-person gaming, has lost nothing of its ability to keep you on the edge of your seat. System Shock: Enhanced Edition features: Higher resolution support: up to 1024x768, and 854x480 widescreen mode. Mouselook support added. Remappable keys with three profiles to choose from: original controls, custom controls, and lefthanded controls. Some original game bugs fixed. Gameplay features: Rocket through cyberspace to steal information, hack security and grapple with watchdog defense programs enslaved to a maniacal computer. Survive battle after battle against armies of killer cyborgs and deadly robots as you collect hardware attachments, life-sustaining patches and deadly weapons to combat mindless mutants. Test your intelligence by solving puzzles, rewiring access panels and outwitting SHODAN in its own cyber-realm. Enjoy the vastly improved controls and graphics of the Enhanced Edition - or keep your experience as close to the original as possible with the Classic version.</desc>
+		<rating>3.92</rating>
+		<releasedate>20150922T000000</releasedate>
+		<developer>Looking Glass Studios, Nightdive Studios</developer>
+		<publisher>Nightdive Studios</publisher>
+		<genre>Action, Adventure, Role-Playing</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./The Fall.lnk</path>
+		<name>The Fall</name>
+		<image>./mixart/The Fall.png</image>
+		<marquee>./wheel/The Fall.png</marquee>
+		<video>./snap/The Fall.mp4</video>
+		<desc>The Fall is the first game in a trilogy where the protagonist is artificial intelligence called A.R.I.D. It is part of a high-tech combat suit worn by a character called Colonel Josephs and uses a female voice. It activates itself after crashing on an unknown planet and since the user of the suit does not respond, her routines immediately kick in, and she seeks medical attention to save the pilot. Since the AI has full access to the suit functions, she can take over control. The game is played in a 2D side-scrolling environment. The suit can be moved left or right and it can jump as well. The environment can be examined using a flash light where the beam can be guided in any direction. It highlights interactive parts of the world, which can then be interacted with. Interactions include conversations with multiple dialog options, interacting with computers and tools, examining the environment and picking up objects. Most of the game however is based around puzzle-solving. It is story-driven and often focuses on how ARID struggles with her internal instructions combined with the directive to save the pilot. In some situations this shows her inability for nuance or lies. A Caretaker who now controls the facility sees her as faulty and aims to refurbish her. A large part of the game for instance shows how ARID needs to pass tests in unique ways to show her proficiency as a household robot, to show her willingness to comply. There are also many other dangers next to the Caretaker, such as security robots, fish, slugs and poisonous fungi. Much of the story and the facility's background is revealed through notes and conversations with computer systems. </desc>
+		<rating>3.83</rating>
+		<releasedate>20140530T000000</releasedate>
+		<developer>Over The Moon</developer>
+		<publisher>Over The Moon</publisher>
+		<genre>Action, Adventure, Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./The Mummy Demastered.lnk</path>
+		<name>The Mummy Demastered</name>
+		<image>./mixart/The Mummy Demastered.png</image>
+		<marquee>./wheel/The Mummy Demastered.png</marquee>
+		<video>./snap/The Mummy Demastered.mp4</video>
+		<desc>A powerful ancient evil has arisen, and the war to save humanity has begun! The Mummy Demastered throws you into a 16-bit-inspired battle against the undead in a 2D, nonlinear, action-packed adventure. As an elite agent in the monster-hunting Prodigium organization, you must use a variety of weapons, upgrades, and mysterious artifacts to defend mankind against the supernatural hordes of Princess Ahmanet. Your Prodigium unit is already on the scene, but HQ lost contact with them hours ago. Only by exploring tombs, forests, abandoned tunnels, and the cursed streets of London will you discover the fate of your allies. But beware - Ahmanet commands legions of undead, insects, plague-ridden vermin, and worse! If you're not careful, you'll be the next soul in her army. </desc>
+		<rating>3.94</rating>
+		<releasedate>20171024T000000</releasedate>
+		<developer>WayForward</developer>
+		<publisher>WayForward</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./The Typing of the Dead.lnk</path>
+		<name>The Typing of the Dead</name>
+		<image>./mixart/The Typing of the Dead.png</image>
+		<marquee>./wheel/The Typing of the Dead.png</marquee>
+		<video>./snap/The Typing of the Dead.mp4</video>
+		<desc>Could you kill a zombie with your bare hands? The faster you type, the quicker you'll kill and killing zombies is not only fun but rewarding.  A blistering fury of exploding Zombie flesh awaits your every key stroke. </desc>
+		<rating>4.83</rating>
+		<releasedate>20131029T000000</releasedate>
+		<developer>Modern Dream</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Torchlight 2.lnk</path>
+		<name>Torchlight 2</name>
+		<image>./mixart/Torchlight 2.png</image>
+		<marquee>./wheel/Torchlight 2.png</marquee>
+		<video>./snap/Torchlight 2.mp4</video>
+		<desc>After the events of the first game, Alchemist, one of the three main classes, is corrupted by the Emberblight from the heart of Ordrak, the main source of corruption beneath the town of Torchlight. Now he is on a rampage for taking the power of guardians and breaking the balance of elements. New heroes arrive to rise up against his madness with the help of the destroyer and the vanquisher, other two playable characters from the first game. Many elements from the original hack-and-slash RPG Torchlight (fishing, pets, etc) make a return in the sequel, including the randomly generated dungeons. There are more classes, pets and weapon types and the locations to visit are more varied. There are now snowy areas, deserts, forests etc. Instead of the dungeon descending structure of the original game, the sequel has large above-ground environments with hub towns and each one has a couple of separate dungeons that consist of one floor or multiple ones. Unlike the first game multiplayer is now supported through cooperative sessions for up to six players, both locally and online. There are three acts and an epilogue. Other new elements are time of day cycles, an updated interface design, and various weather effects. The character appearance can be fully customized based on various attributes.</desc>
+		<rating>3.76</rating>
+		<releasedate>20120920T000000</releasedate>
+		<developer>Runic Games</developer>
+		<publisher>Runic Games</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./UnderMine.lnk</path>
+		<name>UnderMine</name>
+		<image>./mixart/UnderMine.png</image>
+		<marquee>./wheel/UnderMine.png</marquee>
+		<video>./snap/UnderMine.mp4</video>
+		<desc>An action-adventure roguelike with a bit of RPG tossed in. Adventure deep into the UnderMine and discover powerful relics, deadly enemies, hidden secrets, and a few friends to help along the way. UnderMine has a rich world to explore and discover with charming characters and a plot full of intrigue. Experience the plight of the poor Delvemore peasants. Told to brave extreme danger for a boss that doesn't quite care about them or their safety. A pretty funny situation when you think about it and something we can all relate to. </desc>
+		<rating>3.08</rating>
+		<releasedate>20190101T000000</releasedate>
+		<developer>Thorium</developer>
+		<publisher>Fandom, Thorium</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./VirtuaVerse.lnk</path>
+		<name>VirtuaVerse</name>
+		<image>./mixart/VirtuaVerse.png</image>
+		<marquee>./wheel/VirtuaVerse.png</marquee>
+		<video>./snap/VirtuaVerse.mp4</video>
+		<desc>Set in a future not-so-far-away, VirtuaVerse is a cyberpunk point-and-click adventure weaving tales of Technomancers, AVR graffiti writers, hacker gangs, tribes of cryptoshamans, epic cyberwars, digital archaeology, and virtual reality debauchery. Jack in. Spread the code. Look at VirtuaVerse. </desc>
+		<rating>3.75</rating>
+		<releasedate>20200512T000000</releasedate>
+		<developer>Theta Division</developer>
+		<publisher>Blood Music</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Warcraft - Orcs and Humans.lnk</path>
+		<name>Warcraft - Orcs and Humans</name>
+		<image>./mixart/Warcraft - Orcs and Humans.png</image>
+		<marquee>./wheel/Warcraft - Orcs and Humans.png</marquee>
+		<video>./snap/Warcraft - Orcs and Humans.mp4</video>
+		<desc>The Kingdom of Azeroth was relatively peaceful and ruled by King Llane. That was until a powerful mage named Medivh commanded forces that opened up a portal in the Swamp of Sorrow, leading to another world. This ushered in the Age of Chaos, as Orcs were summoned to this world and attempted to establish an empire. As the Orcish hordes swarmed from the portal, they met with the Humans of Azeroth and battles ensured. Peaceful co-existence is not an option. Only one race will attain dominance over the land. Warcraft: Orcs and Humans is the first real-time fantasy strategy game from Blizzard Entertainment. By playing either the Humans or the Orcs in this saga, two separate story lines evolve with 12 scenarios per side telling the tale of the battle for Azeroth. Players must mine gold and chop wood in order to construct buildings and create new units. From swords to sorcery, all the elements of classic fantasy are here to explore: rich forests, dark dungeons and bubbling swamps await the stalwart troops amassed to fight for dominance. Command many unique armies and creatures including Knights, Archers, Clerics, Warlocks, Daemons, Elementals, and Necromancers who are able to raise the dead. The multiplayer aspects of the game allow 2 players to challenge one another on over 20 custom maps and determine who is the supreme warlord. Head to head play is supported over modem, serial link, and IPX networks, and works cross-platform between the IBM-PC and Macintosh versions.</desc>
+		<rating>4.12</rating>
+		<releasedate>19940115T000000</releasedate>
+		<developer />
+		<publisher>Blizzard Entertainment</publisher>
+		<genre>Strategy</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Wild Guns Reloaded.lnk</path>
+		<name>Wild Guns Reloaded</name>
+		<image>./mixart/Wild Guns Reloaded.png</image>
+		<marquee>./wheel/Wild Guns Reloaded.png</marquee>
+		<video>./snap/Wild Guns Reloaded.mp4</video>
+		<desc>Wild Guns Reloaded welcomes back Clint and Annie, the dynamic shooting duo from the 1994 original game, as they prepare to blast their way through several levels of gangsters and big, bad biomechanical bosses while collecting loot and dodging gunshots and the occasional creeper with an old-fashioned knife. This time around, they’re joined by a pair of surprising new heroes </desc>
+		<rating>3.72</rating>
+		<releasedate>20170711T000000</releasedate>
+		<developer>NATSUME ATARI Inc.</developer>
+		<publisher>Natsume Inc.</publisher>
+		<genre>Adventure, Platform</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Zaccaria Pinball.lnk</path>
+		<name>Zaccaria Pinball</name>
+		<image>./mixart/Zaccaria Pinball.png</image>
+		<marquee>./wheel/Zaccaria Pinball.png</marquee>
+		<video>./snap/Zaccaria Pinball.mp4</video>
+		<desc>Zaccaria was founded by three brothers (Marino, Franco, and Natale) and was the 3rd largest manufacturer of pinball machines in the world (behind Bally and Williams). They had created and produced more than 35 different pinball machines between 1974 and 1987. Zaccaria Pinball is a commemoration of this great pinball manufacturer. In a nutshell: never-to-be-forgotten pinball experience! Why do we say that? Because #1: all 38 pinball tables are modeled with 100% accuracy from the original pinball machines of Zaccaria company Because #2: all sound effects, musics and vocals are recorded from the original pinball machines of Zaccaria company Because #3: all rules are scripted based on the rule sheets of the original pinball machines of Zaccaria company Because #4: a unique customization system gives you a free hand by many possibilities of change on graphical and physical parts of the game Because #5: various game modes ensure you to receive an amazing pinball experience independently of what pinball skills you have</desc>
+		<rating>4</rating>
+		<releasedate>20160616T000000</releasedate>
+		<developer>Magic Pixel KFT.</developer>
+		<publisher>Magic Pixel KFT.</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Pinball Arcade.lnk</path>
+		<name>Pinball Arcade</name>
+		<desc>Pinball Arcade by FarSight Studios features exact recreations of the all-time greatest pinball tables from Stern Pinball! The Pinball Arcade is the most realistic and comprehensive pinball game ever created. Please support us in our efforts to preserve these tables and join the indelible part of Americana that is pinball!</desc>
+		<image>./mixart/Pinball Arcade.png</image>
+		<video>./snap/Pinball Arcade.mp4</video>
+		<marquee>./wheel/Pinball Arcade.png</marquee>
+		<rating>4.48</rating>
+		<releasedate>20131104T000000</releasedate>
+		<developer>FarSight Studios</developer>
+		<publisher>FarSight Studios</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./PAC-MAN Battle Royal.lnk</path>
+		<name>PAC-MAN Battle Royal</name>
+		<desc>Release in the Arcade as 4 player madness! The 17th arcade game in Pac-Man's series (11th official). It is made as part of Pac-Man's 30th Anniversary and developed by Namco Bandai Games</desc>
+		<image>./mixart/PAC-MAN Battle Royal.png</image>
+		<video>./snap/PAC-MAN Battle Royal.mp4</video>
+		<marquee>./wheel/PAC-MAN Battle Royal.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20111201T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Arcade</genre>
+	</game>
+	<game>
+		<path>./Oniken.lnk</path>
+		<name>Oniken</name>
+		<desc>When a global war nearly decimated humankind, an evil military organization called Oniken takes advantage of the situation to dominate and oppress the few remaining survivors. Even though any resistance to this organization seemed hopeless, a small rebel movement organizes strikes against Oniken. One day, a ninja mercenary named Zaku offers his services to the resistance for unknown reasons. His moves are lethal and now he is the resistance's only hope.  Don't Worry, You Will Die A Lot Of Times.</desc>
+		<image>./mixart/Oniken.png</image>
+		<video>./snap/Oniken.mp4</video>
+		<marquee>./wheel/Oniken.png</marquee>
+		<rating>4.2</rating>
+		<releasedate>20120621T000000</releasedate>
+		<developer>JoyMasher</developer>
+		<publisher>JoyMasher</publisher>
+		<genre>Action, Platform</genre>
+	</game>
+	<game>
+		<path>./LIMBO.lnk</path>
+		<name>LIMBO</name>
+		<desc>Uncertain of his sister's fate, a boy enters LIMBO. Winner of more than 90 awards, including GameInformer's Best Downloadable, GameSpot's Best Puzzle Game, Kotaku's The Best Indie Game, GameReactor's Digital Game of the Year, Spike TV's Best Independent Game, X-Play's Best Downloadable Game and IGN's Best Horror Game.</desc>
+		<image>./mixart/LIMBO.png</image>
+		<video>./snap/LIMBO.mp4</video>
+		<marquee>./wheel/LIMBO.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20111201T000000</releasedate>
+		<developer>Playdead</developer>
+		<publisher>Playdead</publisher>
+		<genre>Platform, Puzzle</genre>
+	</game>
+	<game>
+		<path>./Dream Pinball 3D.lnk</path>
+		<name>Dream Pinball 3D</name>
+		<desc>A great pinball game should not only be amazing from the start, but should continue to be entertaining every time you play it. This was the thinking behind the development of the newest pinball sensation to hit the PC.</desc>
+		<image>./mixart/Dream Pinball 3D.png</image>
+		<video>./snap/Dream Pinball 3D.mp4</video>
+		<marquee>./wheel/Dream Pinball 3D.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20081201T000000</releasedate>
+		<developer>TopWare</developer>
+		<publisher>SouthPeak Games</publisher>
+		<genre>Pinball</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Balls of Steel.lnk</path>
+		<name>Balls of Steel</name>
+		<desc>You'll flip out over the coolest, fastest, most innovative quicksilver ball-basher in the known universe! Across five savage, fully-animated tables, from the ricochet riot of Firestorm to the intense overload of Duke Nukem, Balls of Steel delivers.</desc>
+		<image>./mixart/Balls of Steel.png</image>
+		<video>./snap/Balls of Steel.mp4</video>
+		<marquee>./wheel/Balls of Steel.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>Threaks</developer>
+		<publisher>Wild River</publisher>
+		<genre>Action Roguelike</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Back To The Future The Game.lnk</path>
+		<name>Back to the Future Episode 1: It's About Time</name>
+		<desc>Marty McFly and Doc Brown return in a completely new Back to the Future adventure. Six months after the events of the third film, the DeLorean Time Machine mysteriously returns to Hill Valley - driverless!</desc>
+		<image>./mixart/Back To The Future The Game.png</image>
+		<video>./snap/Back To The Future The Game.mp4</video>
+		<marquee>./wheel/Back To The Future The Game.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20101201T000000</releasedate>
+		<developer>Telltale Games</developer>
+		<publisher>Telltale Games</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Diablo II+LoD.lnk</path>
+		<name>Diablo II + Lord of Destruction</name>
+		<desc>Diablo II was wildly successful, Blizzard chose to make an expansion that will add a fifth Act, featuring six quests in the Barbarian Highlands. Two unique classes, the female Assassin and the male Druid, will be available featuring new skills.</desc>
+		<image>./mixart/Diablo II+LoD.png</image>
+		<video>./snap/Diablo II+LoD.mp4</video>
+		<marquee>./wheel/Diablo II+LoD.png</marquee>
+		<rating>0.99</rating>
+		<releasedate>20011201T000000</releasedate>
+		<developer>Blizzard Entertainment</developer>
+		<publisher>Blizzard Entertainment</publisher>
+		<genre>Role-Playing</genre>
+	</game>
+	<game>
+		<path>./Command and Conquer - Red Alert.lnk</path>
+		<name>Command and Conquer - Red Alert</name>
+		<desc>What if Hitler never existed? Einstein pondered the question and created a time-machine to eliminate Hitler as a young man, thus preventing World War II as history remembers it.</desc>
+		<image>./mixart/Command and Conquer - Red Alert.png</image>
+		<video>./snap/Command and Conquer - Red Alert.mp4</video>
+		<marquee>./wheel/Command and Conquer - Red Alert.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19961201T000000</releasedate>
+		<developer>Westwood Studios</developer>
+		<publisher>Virgin Interactive</publisher>
+		<genre>Strategy</genre>
+	</game>
+	<game>
+		<path>./Kung Fury - Street Rage.lnk</path>
+		<name>Kung Fury - Street Rage</name>
+		<desc>Get blown into another dimension as you experience the gutbusting fun of the KUNG FURY: STREET RAGE game. Beat the nazis to stop Kung Führer and uphold the law! BECOME THE ACTION! BECOME KUNG FURY!</desc>
+		<image>./mixart/Kung Fury - Street Rage.png</image>
+		<video>./snap/Kung Fury - Street Rage.mp4</video>
+		<marquee>./wheel/Kung Fury - Street Rage.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20151201T000000</releasedate>
+		<developer>Hello There AB</developer>
+		<publisher>Hello There AB</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Sky Force Reloaded.lnk</path>
+		<name>Sky Force Reloaded</name>
+		<desc>Sky Force Reloaded is the spirit of the classic arcade shoot ‘em ups, captured with modern visuals and design. New entry in the series will keep you entertained with all the things you’ve came to love in scrolling shooters. Meaty explosions, incinerating lasers, collosal bosses and diverse aircrafts to pilot. Sky Force Reloaded is not your average scrolling shooter. It will draw you in with its beautiful environments and intense effects.</desc>
+		<image>./mixart/Sky Force Reloaded.png</image>
+		<video>./snap/Sky Force Reloaded.mp4</video>
+		<marquee>./wheel/Sky Force Reloaded.png</marquee>
+		<rating>0.99</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Infinite Dreams</developer>
+		<publisher>Infinite Dreams</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Trackmania Turbo.lnk</path>
+		<name>Trackmania Turbo</name>
+		<desc>TrackMania: Turbo features gameplay akin to that of previous games in the series. The player can race on over 200 different tracks, across four different locations, namely Rollercoaster Lagoon, International Stadium, Canyon Grand Drift, and Valley Down and Dirty. Similar to previous games, the game moves at a very high pace with a high focus on stunts. The game's developer said that "They wanted Trackmania Turbo to be an arcade game" Various modes are set to appear in the game, including a campaign and a mode called Double Driver, which is a cooperative multiplayer mode, in which two players are controlling the same car.</desc>
+		<image>./mixart/Trackmania Turbo.png</image>
+		<video>./snap/Trackmania Turbo.mp4</video>
+		<marquee>./wheel/Trackmania Turbo.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20161201T000000</releasedate>
+		<developer>Nadeo</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./TRON RUNr Outlands Pack.lnk</path>
+		<name>TRON RUNr Outlands Pack</name>
+		<desc>Return to the world of TRON with TRON RUN/r, a new lightning fast, action-adventure runner with a twist! Blaze through dynamic circuits, facing-off against virulent adversaries while taking on all challengers. Pack your loadouts with dozens of combinations of cycles, suits and powerups. Hone your DISC and CYCLE skills on the 32 included levels, then challenge your friends to the grueling STREAM program that throws endless combinations of modes and levels at you until you crash - how long can you survive?</desc>
+		<image>./mixart/TRON RUNr Outlands Pack.png</image>
+		<video>./snap/TRON RUNr Outlands Pack.mp4</video>
+		<marquee>./wheel/TRON RUNr Outlands Pack.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20161201T000000</releasedate>
+		<developer>Sanzaru Games</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Action, Racing</genre>
+	</game>
+	<game>
+		<path>./Chasm.lnk</path>
+		<name>Chasm</name>
+		<desc>Welcome to Chasm, an action-adventure game in which you play a new recruit undertaking your first mission for the Guildean Kingdom. Thrilled to prove your worth as a knight, you track strange rumors that a mine vital to the Kingdom has been shut down. But what you discover in the mining town is worse than you imagined: The townspeople have disappeared, kidnapped by supernatural creatures emerging from the depths. Honor-bound to solve the mystery and restore peace to the Kingdom, you embark upon an epic adventure, with deadly battles against cunning monsters, exploration of ancient catacombs and castles, and powerful new equipment hidden at every turn. Though the overall story is the same for all players, your hero's journey will be unique: each of the rooms has been hand-designed, and behind the scenes Chasm stitches these rooms together into a one-of-a-kind world map that will be your own. Key Features - Explore six massive procedurally-assembled areas from hand-crafted rooms - Enjoy challenging retro gameplay and authentic pixel art (384x216 native res.)</desc>
+		<image>./mixart/Chasm.png</image>
+		<video>./snap/Chasm.mp4</video>
+		<marquee>./wheel/Chasm.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20181201T000000</releasedate>
+		<developer>Bit Kid, Inc.</developer>
+		<publisher>Bit Kid, Inc.</publisher>
+		<genre>Action, Adventure, Platform, Role-Playing</genre>
+	</game>
+</gameList>
