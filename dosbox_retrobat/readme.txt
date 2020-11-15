@@ -1,3 +1,9 @@
+***************************
+****** IMPORTANT **********
+***************************
+Please follow instructions in sequential order and do not skip steps if you don't know the consequences! 
+
+
 Reference
 =========
 https://www.reddit.com/r/OdroidGo/comments/ftk4ib/guide_how_to_run_dos_games_on_oga_batocera/
