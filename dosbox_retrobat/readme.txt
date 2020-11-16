@@ -3,6 +3,7 @@
 ***************************
 Please follow instructions in sequential order and do not skip steps if you don't know the consequences! 
 
+Relevant to DOSBox gameplay : you can abort DOSBOX using Ctrl-F9.
 
 Reference
 =========
@@ -20,7 +21,9 @@ NOTE2: Please execute only once as it add extension .pc to all folders, else you
 
 Intructions #2 Daggerfall specific issue
 ========================================
-1) Edit and replace in V:\RetroBat\roms\dos\The_Elder_Scrolls_II_Daggerfall.pc\dosbox.bat the line:
+1) Copy V:\_tools\vman-retrobat-master\dosbox_retrobat\The_Elder_Scrolls_II_Daggerfall.pc\dosbox.bat to V:\RetroBat\roms\dos\The_Elder_Scrolls_II_Daggerfall.pc\
+
+This replaces the line:
 mount D: /home/pi/RetroPie/roms/pc/The_Elder_Scrolls_II_Daggerfall/DF/DFCD -t cdrom -label Daggerfall
 with the line:
 mount D: V:\RetroBat\roms\dos\The_Elder_Scrolls_II_Daggerfall.pc\DF\DFCD -t cdrom -label Daggerfall
@@ -36,8 +39,10 @@ Dosbox setup
 Retrobat uses standalone DOSBox-SVN, generates command lines like: 
 V:\RetroBat\emulators\dosbox\dosbox.exe "V:\RetroBat\roms\dos\Alien_Carnage.pc\dosbox.bat" -conf "V:\RetroBat\emulators\dosbox\dosbox.conf" -fullscreen -noconsole -exit -c "set ROOT=V:\RetroBat\roms\dos\Alien_Carnage.pc"
 
-The generated command line option -conf "V:\RetroBat\emulators\dosbox\dosbox.conf" points to a non-existing file.
+In the default RetroBat setup the generated command line option -conf "V:\RetroBat\emulators\dosbox\dosbox.conf" points to a non-existing file.
 As fallback Dosbox will generate and use C:\Users\youruser\AppData\Local\DOSBox\dosbox-SVN.conf instead.
+
+Our folders.bat script creates (or replaces) "V:\RetroBat\emulators\dosbox\dosbox.conf" including a fix for spinning menu in Tomb Raider.
 
 Changes made
 ============
