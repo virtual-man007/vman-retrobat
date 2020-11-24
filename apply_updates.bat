@@ -5,6 +5,9 @@ echo Terminating running Retrobat processes...
 echo.
 TASKKILL /F /IM retrobat.exe /IM emulationstation.exe /IM retroarch.exe 2>nul
 DEL /F /Q %TEMP%\vman_update.tmp 2>nul
+pushd V:\_tools
+for /f "skip=3 eol=: delims=" %%F in ('dir /b /o-d vman-update-*.log') do @del "%%F" 2>nul
+popd
 echo Welcome to Virtualman Post-Fixes and Optimization Menu, By VMAN!
 echo This script will update and optimize common Retrobat files to any other associated files for VMAN's build.
 echo.
