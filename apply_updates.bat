@@ -25,7 +25,7 @@ rem copy /y .\RetroBat\system\templates\emulationstation\*.cfg V:\RetroBat\syste
 rem #2020-11-25 - pc-games addon remove hl1/hl1_hd from Half-Life HD folder to save 700MB
 rem rmdir /S /Q "V:\PC-Games\Half-Life HD\hl1"
 rem rmdir /S /Q "V:\PC-Games\Half-Life HD\hl1_hd"
-rem ((Get-Content -path C:\ReplaceDemo.txt -Raw) -replace 'brown','white') | Set-Content -Path C:\ReplaceDemo.txt
+rem powershell -command "((Get-Content -path V:\ReplaceDemo.txt -Raw) -replace 'brown','white') | Set-Content -Path V:\ReplaceDemo.txt"
 
 echo.
 echo Update Completed. Enjoy! :)
