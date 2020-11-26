@@ -23,8 +23,8 @@ rem #2020-11-21 - es_systems master cfg update for ports by @bilu
 rem cd V:\_tools\vman-retrobat-master\
 rem copy /y .\RetroBat\system\templates\emulationstation\*.cfg V:\RetroBat\system\templates\emulationstation\
 rem #2020-11-25 - pc-games addon remove hl1/hl1_hd from Half-Life HD folder to save 700MB
-rmdir /S /Q "V:\PC-Games\Half-Life HD\hl1"
-rmdir /S /Q "V:\PC-Games\Half-Life HD\hl1_hd"
+rem rmdir /S /Q "V:\PC-Games\Half-Life HD\hl1"
+rem rmdir /S /Q "V:\PC-Games\Half-Life HD\hl1_hd"
 
 echo.
 echo Update Completed. Enjoy! :)
