@@ -1195,4 +1195,31 @@
 		<publisher>Bit Kid, Inc.</publisher>
 		<genre>Action, Adventure, Platform, Role-Playing</genre>
 	</game>
+	<game>
+		<path>./Half-Life 2.lnk</path>
+		<name>Half-Life 2</name>
+		<desc>1998. HALF-LIFE sends a shock through the game industry with its combination of pounding action and continuous, immersive storytelling. Valve's debut title wins more than 50 game-of-the-year awards on its way to being named "Best PC Game Ever" by PC Gamer, and launches a franchise with more than eight million retail units sold worldwide.NOW. By taking the suspense, challenge and visceral charge of the original, and adding startling new realism and responsiveness, Half-Life 2 opens the door to a world where the player's presence affects everything around them, from the physical environment to the behaviors even the emotions of both friends and enemies.The player again picks up the crowbar of research scientist Gordon Freeman, who finds himself on an alien-infested Earth being picked to the bone, its resources depleted, its populace dwindling. Freeman is thrust into the unenviable role of rescuing the world from the wrong he unleashed back at Black Mesa. And a lot of people he cares about are counting on him.</desc>
+		<image>./mixart/Half-Life 2.png</image>
+		<video>./snap/Half-Life 2.mp4</video>
+		<marquee>./wheel/Half-Life 2.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20041411T010000</releasedate>
+		<developer>Valve</developer>
+		<publisher>Valve</publisher>
+		<genre>First Person-Shooter</genre>
+	</game>
+	<game>
+		<path>./Hotshot Racing.lnk</path>
+		<name>Hotshot Racing</name>
+		<desc>Hotshot Racing is a blisteringly fast arcade-style racing game fusing drift handling, razor-sharp retro visuals and an incredible sense of speed to create an exhilarating driving experience. Developed by racing game veterans SUMO Nottingham and Lucky Mountain Games, Hotshot Racing is an all-new driving experience which revives the classic arcade gameplay of the 90s and thrusts it into the modern era. 16 racing circuits provide the twists, turns and straights conducive to searingly quick racing.</desc>
+		<image>./mixart/Hotshot Racing.png</image>
+		<video>./snap/Hotshot Racing.mp4</video>
+		<marquee>./wheel/Hotshot Racing.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20201201T000000</releasedate>
+		<developer>Lucky Mountain Games</developer>
+		<publisher>Curve Digital</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+	</game>
 </gameList>
