@@ -6,8 +6,8 @@ ren pc dos
 cd dos
 del *.sh
 del *.OFF
-FOR /R %f IN (AUTOEXEC.BAT) DO REN %f dosbox.bat
-FOR /D %f IN (*) DO REN %f %f.pc
+FOR /R %%f IN (AUTOEXEC.BAT) DO REN %%f dosbox.bat
+FOR /D %%f IN (*) DO REN %%f %%f.pc
 ren Tools.pc Tools
 ren snap.pc snap
 ren wheel.pc wheel
