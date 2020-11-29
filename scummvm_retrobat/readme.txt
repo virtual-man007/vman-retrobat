@@ -1,6 +1,6 @@
 Instructions #1
 ===============
-1) Copy gamelist.xml and retrobat_files.bat to V:\roms\scummvm\ and execute the batch file.
+1) Execute the batch file retrobat_files.bat
 
 -----------------
 Retrobat behavior
@@ -10,7 +10,7 @@ Retrobat behavior
 
 Instructions #2
 ===============
-1) Copy futurewars_tracks.bat to "V:\roms\scummvm\Future Wars (CD DOS).svm\" and execute the batch file.
+1) Execute the batch file futurewars_tracks.bat
 
 -----------------
 Retrobat behavior

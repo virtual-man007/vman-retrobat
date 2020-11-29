@@ -1,3 +1,4 @@
+cd "V:\roms\scummvm\Future Wars (CD DOS).svm\"
 ren "Track 10.flac" "Track10.flac"
 ren "Track 11.flac" "Track11.flac"
 ren "Track 12.flac" "Track12.flac"

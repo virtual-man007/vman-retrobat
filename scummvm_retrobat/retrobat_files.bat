@@ -1,3 +1,5 @@
+copy gamelist.xml V:\roms\scummvm
+cd V:\roms\scummvm
 del /s *.scummvm
 del ".\gob3cd.svm\gob3cd.scummvm"
 del ".\hoyle1.svm\hoyle1.scummvm"
