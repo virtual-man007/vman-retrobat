@@ -2,7 +2,6 @@
 cls
 echo ** VMAN Retro-Bliss LevelUp! videosnaps fixer v1.0 by Bilu **
 echo.
-echo Pre-Req you will need to extract V:_tools\ffmpeg\ffmpeg.7z prior to using this script.
 echo.
 echo Press Ctlr-C to exit, any other key to continue.
 pause
