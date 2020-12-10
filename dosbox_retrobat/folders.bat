@@ -2,7 +2,7 @@ echo Run this only once, else you might need to manually rename all your folders
 pause
 v:
 cd v:\roms
-ren pc dos
+rem ren pc dos
 cd dos
 del *.sh
 del *.OFF
