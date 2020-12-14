@@ -174,20 +174,6 @@
 		<marquee>./wheel/Riven - The Sequel to Myst (Europe) (Disc 4).png</marquee>
 		<video>./snap/Riven - The Sequel to Myst (Europe) (Disc 4).mp4</video>
 	</game>
-	<game id="13148" source="ScreenScraper.fr">
-		<path>./Street Fighter Collection (USA).m3u</path>
-		<name>Street Fighter Collection</name>
-		<desc>Street Fighter Collection is a bundle comprising several different games of the Street Fighter series. It includes:  1. Super Street Fighter II: The New Challengers 2. Super Street Fighter II Turbo 3. Street Fighter Alpha 2 Gold (updated Street Fighter Alpha 2 with balancing fixes: Evil Ryu and Cammy added as playable characters, timing of some characters changed)</desc>
-		<rating>0.85</rating>
-		<releasedate>19971211T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Compilation-Fight</genre>
-		<players>1-2</players>
-		<image>./mixart/Street Fighter Collection (USA) (Disc 2).png</image>
-		<marquee>./wheel/Street Fighter Collection (USA) (Disc 2).png</marquee>
-		<video>./snap/Street Fighter Collection (USA) (Disc 2).mp4</video>
-	</game>
 	<game id="126427" source="ScreenScraper.fr">
 		<path>./Sakura Wars - Steam Radio Show (J)(Saturn).m3u</path>
 		<name>Sakura Wars - Steam Radio Show</name>
@@ -322,7 +308,7 @@
 	</game>
 	<game>
 		<path>./Arcade's Greatest Hits - Williams (USA).chd</path>
-		<name>Arcade's Greatest Hits</name>
+		<name>Arcade's Greatest Hits - The Williams Collection</name>
 		<desc>Williams Arcade Classics is a compilation that includes the following games:  Defender  Defender II  Joust  Robotron: 2084  Sinistar  The PC, PlayStation, and Dreamcast versions also contain Bubbles. The PC and Playstation versions contain FMV supplements, including interviews with the original programmers.</desc>
 		<image>./mixart/Arcade's Greatest Hits - Williams (USA).png</image>
 		<video>./snap/Arcade's Greatest Hits - Williams (USA).mp4</video>
@@ -5049,22 +5035,6 @@
 		<region>us</region>
 	</game>
 	<game>
-		<path>./Crime Wave (USA).chd</path>
-		<name>Crimewave</name>
-		<desc>Crimewave is a fast and frantic driving-based shoot-em-up. You will need first class driving and combat skills coupled with razor-sharp reflexes to enjoy features which include: Eight high-powered vehicles; Eight battle zones; A vast array of High destruction weaponry; Single player and split-screen action.</desc>
-		<image>./mixart/Crime Wave (USA).png</image>
-		<video>./snap/Crime Wave (USA).mp4</video>
-		<marquee>./wheel/Crime Wave (USA).png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19961108T000000</releasedate>
-		<developer>Eidos Interactive</developer>
-		<publisher>Virgin</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./3D Baseball (USA).chd</path>
 		<name>3D Baseball : The Majors</name>
 		<desc>3D Baseball is a 3-D polygon baseball game with over 700 actual Major League players and their previous years stats to choose from.  There are over 50 real-life batter stances that were motion-captured through the actual players themselves with five different dynamic camera angles to choose.  The standard modes apply such as Exhibition and Pennant along with a General Managers Mode where players can trade and even alter the stats of their players to create the ultimate team.  It feature realistic animation and the voice talents of Van Earl Wright with over 1,000 different commentary phrases.  Though it did feature the MLBPA (Major League Baseball Players Association) license, it did not however feature the actual MLB (Major League Baseball) team names and logos.</desc>
@@ -5078,5 +5048,36 @@
 		<genre>Sports</genre>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./Crime Wave (USA).chd</path>
+		<name>Crimewave</name>
+		<desc>Crimewave is a fast and frantic driving-based shoot-em-up. You will need first class driving and combat skills coupled with razor-sharp reflexes to enjoy features which include: Eight high-powered vehicles; Eight battle zones; A vast array of High destruction weaponry; Single player and split-screen action.</desc>
+		<image>./mixart/Crime Wave (USA).png</image>
+		<video>./snap/Crime Wave (USA).mp4</video>
+		<marquee>./wheel/Crime Wave (USA).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19961108T000000</releasedate>
+		<developer>Eidos Interactive</developer>
+		<publisher>Virgin</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Street Fighter Collection (USA).m3u</path>
+		<name>Street Fighter Collection</name>
+		<desc>Street Fighter Collection is a bundle comprising several different games of the Street Fighter series. It includes:  1. Super Street Fighter II: The New Challengers 2. Super Street Fighter II Turbo 3. Street Fighter Alpha 2 Gold (updated Street Fighter Alpha 2 with balancing fixes: Evil Ryu and Cammy added as playable characters, timing of some characters changed)</desc>
+		<image>./mixart/Street Fighter Collection (USA) (Disc 2).png</image>
+		<video>./snap/Street Fighter Collection (USA) (Disc 2).mp4</video>
+		<marquee>./wheel/Street Fighter Collection (USA) (Disc 2).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19971211T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Compilation-Fight</genre>
+		<players>2</players>
 	</game>
 </gameList>
