@@ -9,4 +9,5 @@ ren pcengine tg16
 ren pcenginecd tg16cd
 ren megadrive genesis
 ren megacd segacd
+ren videopac odyssey2
 pause
