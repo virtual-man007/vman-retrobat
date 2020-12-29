@@ -27,6 +27,14 @@ rem rmdir /S /Q "V:\PC-Games\Half-Life HD\hl1"
 rem rmdir /S /Q "V:\PC-Games\Half-Life HD\hl1_hd"
 rem powershell -command "((Get-Content -path V:\ReplaceDemo.txt -Raw) -replace 'brown','white') | Set-Content -Path V:\ReplaceDemo.txt"
 
+rem #2020-12-29 - Naomi : add .bin format to es_systems.cfg, by @bilu
+FOR %%f IN (V:\RetroBat\system\templates\emulationstation\es_systems.*) DO copy /y %%f %%f.VM
+powershell -Command "ForEach ($file in (Get-ChildItem -Path "V:\RetroBat\system\templates\emulationstation\es_systems.*" -depth 0 )) {$filecontent = Get-Content -path $file ; $filecontent[1089] = $filecontent[1089] -creplace '.ZIP','.ZIP .bin .BIN' ; Set-Content $file.PSpath -Value $filecontent }"
+
+rem #2020-12-29 - Jaguar : enable BIOS, required by some games, by @bilu
+FOR %%f IN (V:\RetroBat\emulators\retroarch\retroarch-core-options.cfg) DO copy /y %%f %%f.VM
+powershell -command "((Get-Content -path V:\RetroBat\emulators\retroarch\retroarch-core-options.cfg) -replace 'virtualjaguar_bios = \"disabled\"','virtualjaguar_bios = \"enabled\"') | Set-Content -Path V:\RetroBat\emulators\retroarch\retroarch-core-options.cfg"
+
 echo.
 echo Update Completed. Enjoy! :)
 echo.
