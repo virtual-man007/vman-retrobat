@@ -16,24 +16,12 @@ echo You can run from cli vman_rbl_updater.bat and it will close Retrobat/Emulat
 echo.
 echo IMPORTANT! - I suggest you backup all your config files manually, however script will create backup of any existing files with extension of *.VM
 echo.
+echo Update details located in V:\_tools\vman-retrobat-master\updates.txt.
+echo.
 echo Press any key to continue . . .
 pause >nul
 
-rem #2020-11-21 - es_systems master cfg update for ports by @bilu
-rem cd V:\_tools\vman-retrobat-master\
-rem copy /y .\RetroBat\system\templates\emulationstation\*.cfg V:\RetroBat\system\templates\emulationstation\
-rem #2020-11-25 - pc-games addon remove hl1/hl1_hd from Half-Life HD folder to save 700MB
-rem rmdir /S /Q "V:\PC-Games\Half-Life HD\hl1"
-rem rmdir /S /Q "V:\PC-Games\Half-Life HD\hl1_hd"
-rem powershell -command "((Get-Content -path V:\ReplaceDemo.txt -Raw) -replace 'brown','white') | Set-Content -Path V:\ReplaceDemo.txt"
-
-rem #2020-12-29 - Naomi : add .bin format to es_systems.cfg, by @bilu
-FOR %%f IN (V:\RetroBat\system\templates\emulationstation\es_systems.*) DO copy /y %%f %%f.VM
-powershell -Command "ForEach ($file in (Get-ChildItem -Path "V:\RetroBat\system\templates\emulationstation\es_systems.*" -depth 0 )) {$filecontent = Get-Content -path $file ; $filecontent[1089] = $filecontent[1089] -creplace '.ZIP','.ZIP .bin .BIN' ; Set-Content $file.PSpath -Value $filecontent }"
-
-rem #2020-12-29 - Jaguar : enable BIOS, required by some games, by @bilu
-FOR %%f IN (V:\RetroBat\emulators\retroarch\retroarch-core-options.cfg) DO copy /y %%f %%f.VM
-powershell -command "((Get-Content -path V:\RetroBat\emulators\retroarch\retroarch-core-options.cfg) -replace 'virtualjaguar_bios = \"disabled\"','virtualjaguar_bios = \"enabled\"') | Set-Content -Path V:\RetroBat\emulators\retroarch\retroarch-core-options.cfg"
+powershell -Command "(Get-Content 'V:\_tools\vman-retrobat-master\updates.txt') -notlike '#*' | ConvertFrom-Csv -Delimiter '|' | ForEach-Object {ForEach ($file in (Get-ChildItem -Path "$($_.Files)" -depth 0 -exclude *.VM)){Remove-Item -ErrorAction SilentlyContinue -Path $($file.fullname + '.VM');Copy-Item -Path $($file.fullname) -Destination $($file.fullname + '.VM');$filecontent = Get-Content -path $file ; if ($($_.LineNr)) {$filecontent[$($_.LineNr)] = $filecontent[$($_.LineNr)] -creplace $($_.SearchTxt),$($_.ReplaceTxt)} else {$filecontent = $filecontent -creplace $($_.SearchTxt),$($_.ReplaceTxt)} ; Set-Content $file.PSpath -Value $filecontent }}"
 
 echo.
 echo Update Completed. Enjoy! :)

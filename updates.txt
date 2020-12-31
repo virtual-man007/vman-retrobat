@@ -1,0 +1,3 @@
+FixNr|Date|Description|LineNr|Files|SearchTxt|ReplaceTxt
+1|2020-12-29|"Naomi : add .bin format to es_systems.cfg, by @bilu"|1089|V:\RetroBat\system\templates\emulationstation\es_systems.*|<extension>.dat .DAT .lst .LST .zip .ZIP</extension>|<extension>.dat .DAT .lst .LST .zip .ZIP .bin .BIN</extension>
+2|2020-12-29|"Jaguar : enable BIOS, required by some games, by @bilu"||V:\RetroBat\emulators\retroarch\retroarch-core-options.cfg|virtualjaguar_bios = "disabled"|virtualjaguar_bios = "enabled"
