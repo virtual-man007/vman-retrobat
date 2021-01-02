@@ -2018,36 +2018,6 @@ It had four game modes to choose from: Exhibition, Challenge, Playoff, and Seaso
 		<players>1-4</players>
 	</game>
 	<game>
-		<path>./Night Trap (USA) (Disc 1).cue</path>
-		<name>Night Trap (Disc 1)</name>
-		<desc>Five girls go to a party to a nice house on a lakeside. Five girls disappear without a trace... Now another five girls go there, in order to spend the vacation with the Martins, the owners of the house, in particular with the lovely Ms. Martin. This time, you should not let them die a gruesome death! Because "nice people" can sometimes turn out to be... yes, that's right - vampires. The whole house is full of traps, that are intended to catch the poor innocent girls, so that the vampires can suck their blood... ugh. Luckily, the brave adventurer is there in order to cease to be hunted and to become a hunter instead! Set the traps so that they will capture the villains themselves, using precise timing and good organization.
-
-Night Trap was the very first game that used the FMV (full-motion video) technology with live actors. Although it didn't contain nudity or particularly gory scenes, it was considered one of the first games to have a mature content.</desc>
-		<image>./mixart/Night Trap (USA) (Disc 1).png</image>
-		<video>./snap/Night Trap (USA) (Disc 1).mp4</video>
-		<marquee>./wheel/Night Trap (USA) (Disc 1).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19911231T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Sega</publisher>
-		<genre>Adventure</genre>
-	</game>
-	<game>
-		<path>./Night Trap (USA) (Disc 2).cue</path>
-		<name>Night Trap (Disc 2)</name>
-		<desc>Five girls go to a party to a nice house on a lakeside. Five girls disappear without a trace... Now another five girls go there, in order to spend the vacation with the Martins, the owners of the house, in particular with the lovely Ms. Martin. This time, you should not let them die a gruesome death! Because "nice people" can sometimes turn out to be... yes, that's right - vampires. The whole house is full of traps, that are intended to catch the poor innocent girls, so that the vampires can suck their blood... ugh. Luckily, the brave adventurer is there in order to cease to be hunted and to become a hunter instead! Set the traps so that they will capture the villains themselves, using precise timing and good organization.
-
-Night Trap was the very first game that used the FMV (full-motion video) technology with live actors. Although it didn't contain nudity or particularly gory scenes, it was considered one of the first games to have a mature content.</desc>
-		<image>./mixart/Night Trap (USA) (Disc 2).png</image>
-		<video>./snap/Night Trap (USA) (Disc 2).mp4</video>
-		<marquee>./wheel/Night Trap (USA) (Disc 2).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19911231T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Sega</publisher>
-		<genre>Adventure</genre>
-	</game>
-	<game>
 		<path>./Who Shot Johnny Rock (USA).chd</path>
 		<name>Who Shot Johnny Rock?</name>
 		<desc>It's the rollicking '30s and someone has killed popular singer Johnny Rock in this action-packed gangster whodunit. The player will need to navigate the back streets, gaming halls, funeral parlors and the dirty sections of the city to get at the clues held by a number of shady characters and solve this murder mystery. Bad guys with machine guns provide a high levels of challenge.</desc>
@@ -2138,26 +2108,6 @@ The player takes the role of the manga hero Cobra, who after walking into a bar,
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Terminator, The (USA).chd</path>
-		<name>The Terminator</name>
-		<desc>Similar to adaptations of The Terminator on other systems, the Sega CD game is a platformer where the player controls Kyle Reese, who travels back in time from the year 2029 to protect Sarah Connor from the unstoppable killing machine known as the Terminator.
-
-The game consists of 10 levels. Future locations include the post-apocalyptic wasteland of 2029 Los Angeles and the time displacement complex. In the present of 1984, Reese must traverse the streets and rooftops of L.A., as well as the Tech Noir club, the police station, and, for the finale, an automated factory. 
-
-Reese is armed with a gun with unlimited ammo as well as a limited number of grenades to dispatch the many enemies, including Terminators and HKs in the future and punks in the present. In addition to these, several bosses must also be fought. The boss battles include several encounters with the Terminator, who naturally cannot be completely destroyed until the finale, but must be driven back to keep him from harming Sarah.
-
-Between levels, the game shows small digitized clips from the film that advance the storyline. The game also features a fully CD-based soundtrack with tracks ranging from heavy rock to electronic tunes.</desc>
-		<image>./mixart/Terminator, The (USA).png</image>
-		<video>./snap/Terminator, The (USA).mp4</video>
-		<marquee>./wheel/Terminator, The (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19930000T000000</releasedate>
-		<developer>Probe Software</developer>
-		<publisher>Virgin</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Flink (USA).chd</path>
 		<name>Flink</name>
 		<desc>The Misadventures of Flink is a Jump'n Run set in the fantasy world of Imagica. The evil wizard Wicked Wainwright has captured the four elders and it is up to Flink, a wizard's apprentice, to set them free and defeat Wicked Wainwright.
@@ -2171,34 +2121,6 @@ Casting spells uses up magic energy that can be replenished by collecting magic 
 		<releasedate>19940101T000000</releasedate>
 		<developer>Sony</developer>
 		<publisher>Psygnosis</publisher>
-	</game>
-	<game id="58733" source="ScreenScraper.fr">
-		<path>./Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).cue</path>
-		<name>Dracula Unleashed (Disc 1)</name>
-		<desc>Dracula Unleashed is an interactive movie in the same vein as Sherlock Holmes: Consulting Detective. Basically, you can choose from several locations to go to, and at each location you are shown different events through live-action video clips. Clues in the videos will point you to where you should go next. You also have an "inventory" which you can use to affect the outcome of certain clips (for example, if you enter an asylum with the blackjack you'll be able to defend yourself against any escaped inmates, but if you don't bring the blackjack with you you'll be killed). Time is constantly moving and new events will pop up at different times of the day.  In Dracula Unleashed it is the year 1899, ten years after the destruction of count Dracula chronicled in Bram Stoker's novel. You take the role of Alexander Morris, the younger brother of Texan Quincey Morris who died defeating Dracula. Alexander has come to London to investigate the circumstances of his brother's death, but became sidetracked when he fell in love with and proposed to a local girl named Annisette.  Now, the dawn of a new millennium approaches and an evil force is stalking the streets of London, draining victims of their blood and transforming innocent women into bloodthirsty vampiresses. With the aide of your brother's old friends, the survivors of Dracula's evil, you must uncover the identity of this new vampire and prevent him from transforming Annisette into his queen of the night. Do not fail her, or she will personally rip your throat out.</desc>
-		<rating>0.7</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>ICOM Simulations</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).png</image>
-		<marquee>./wheel/Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).png</marquee>
-		<video>./snap/Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).mp4</video>
-	</game>
-	<game id="58733" source="ScreenScraper.fr">
-		<path>./Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 2 of 2).cue</path>
-		<name>Dracula Unleashed (Disc 2)</name>
-		<desc>Dracula Unleashed is an interactive movie in the same vein as Sherlock Holmes: Consulting Detective. Basically, you can choose from several locations to go to, and at each location you are shown different events through live-action video clips. Clues in the videos will point you to where you should go next. You also have an "inventory" which you can use to affect the outcome of certain clips (for example, if you enter an asylum with the blackjack you'll be able to defend yourself against any escaped inmates, but if you don't bring the blackjack with you you'll be killed). Time is constantly moving and new events will pop up at different times of the day.  In Dracula Unleashed it is the year 1899, ten years after the destruction of count Dracula chronicled in Bram Stoker's novel. You take the role of Alexander Morris, the younger brother of Texan Quincey Morris who died defeating Dracula. Alexander has come to London to investigate the circumstances of his brother's death, but became sidetracked when he fell in love with and proposed to a local girl named Annisette.  Now, the dawn of a new millennium approaches and an evil force is stalking the streets of London, draining victims of their blood and transforming innocent women into bloodthirsty vampiresses. With the aide of your brother's old friends, the survivors of Dracula's evil, you must uncover the identity of this new vampire and prevent him from transforming Annisette into his queen of the night. Do not fail her, or she will personally rip your throat out.</desc>
-		<rating>0.7</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>ICOM Simulations</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).png</image>
-		<marquee>./wheel/Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).png</marquee>
-		<video>./snap/Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).mp4</video>
 	</game>
 	<game id="12799" source="ScreenScraper.fr">
 		<path>./Anett Futatabi (1993)(Wolf Team)(JP) [T-32104].chd</path>
@@ -2696,174 +2618,6 @@ Casting spells uses up magic energy that can be replenished by collecting magic 
 		<marquee>./wheel/wirehead.png</marquee>
 		<video>./snap/wirehead.mp4</video>
 	</game>
-	<game id="12749" source="ScreenScraper.fr">
-		<path>./Ground Zero Texas (disc 1) (Sega CD) (U).cue</path>
-		<name>Ground Zero Texas (Disc 1)</name>
-		<desc>Space aliens are infiltrating the U.S. from a sleepy little town on the Texas/Mexico border, snatching bodies and paving the way for a greater invasion. Those they abduct return as Pod People-like drones, normal in appearance until they reveal themselves. The government's response is you - a technician driving custom-built gun cameras mounted around the town. Similar to Night Trap or Double Switch, you must monitor the town for alien activity, and respond to protect the lives of the citizens and your agents.  The game is played entirely through four camera feeds from locations around the town. They mostly show loops of banal activity, but indicators will alert you when important action is occurring at that location. Switching to that camera will allow you to watch crucial plot clips, or defend that camera from aliens in a single-screen shooting gallery. As cameras take more damage, the picture from that feed degrades until the camera itself is destroyed.  The goal is pretty much to juggle between cameras so as not to miss an important plot point, while defending them from attackers or saving citizens from being abducted. In a neat twist, citizens who you failed to save may appear later as disguised aliens themselves.  As the game progresses, the invasion increases and becomes more violent, but the basic concept of switching between cameras and engaging in video shooting galleries remains unchanged.</desc>
-		<rating>0.75</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>SCE Santa Monica Studio</developer>
-		<publisher>Sony Imagesoft</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Ground Zero Texas (disc 2) (Sega CD) (U).png</image>
-		<marquee>./wheel/Ground Zero Texas (disc 2) (Sega CD) (U).png</marquee>
-		<video>./snap/Ground Zero Texas (disc 1) (Sega CD) (U).mp4</video>
-	</game>
-	<game id="12749" source="ScreenScraper.fr">
-		<path>./Ground Zero Texas (disc 2) (Sega CD) (U).cue</path>
-		<name>Ground Zero Texas (Disc 2)</name>
-		<desc>Space aliens are infiltrating the U.S. from a sleepy little town on the Texas/Mexico border, snatching bodies and paving the way for a greater invasion. Those they abduct return as Pod People-like drones, normal in appearance until they reveal themselves. The government's response is you - a technician driving custom-built gun cameras mounted around the town. Similar to Night Trap or Double Switch, you must monitor the town for alien activity, and respond to protect the lives of the citizens and your agents.  The game is played entirely through four camera feeds from locations around the town. They mostly show loops of banal activity, but indicators will alert you when important action is occurring at that location. Switching to that camera will allow you to watch crucial plot clips, or defend that camera from aliens in a single-screen shooting gallery. As cameras take more damage, the picture from that feed degrades until the camera itself is destroyed.  The goal is pretty much to juggle between cameras so as not to miss an important plot point, while defending them from attackers or saving citizens from being abducted. In a neat twist, citizens who you failed to save may appear later as disguised aliens themselves.  As the game progresses, the invasion increases and becomes more violent, but the basic concept of switching between cameras and engaging in video shooting galleries remains unchanged.</desc>
-		<rating>0.75</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>SCE Santa Monica Studio</developer>
-		<publisher>Sony Imagesoft</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Ground Zero Texas (disc 2) (Sega CD) (U).png</image>
-		<marquee>./wheel/Ground Zero Texas (disc 2) (Sega CD) (U).png</marquee>
-		<video>./snap/Ground Zero Texas (disc 1) (Sega CD) (U).mp4</video>
-	</game>
-	<game id="12821" source="ScreenScraper.fr">
-		<path>./prize fighter disc 1.cue</path>
-		<name>Prize Fighter (Disc 1)</name>
-		<desc>Prize Fighter is a FMV boxing game which puts the player in the body  of "The Kid" against four opponents: Honeyboy Fernandez, Mega Joe Falco, Rex Hawkins, and the ultimate challenge, Nuke "The Duke" Johnson, divided over two CDs.  While the game requires a completely different approach than sprite or polygonal games, the tactics are still the same - jab, punch and deliver uppercuts when the opponent has his defenses down, and block and bob as he makes his moves. After a win the player can improve his left and right glove abilities and stamina by assigning "Power Points" to each area.  The only sprites visible during the bouts are the player gloves and the health indicators - the boxers and the rest of the ring are black and white FMV. Like with other FMV games, the player can enable  tips, which indicates to hit certain butttons when required.</desc>
-		<rating>0.7</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Sega</publisher>
-		<genre>Sports-Fight</genre>
-		<players>1</players>
-		<image>./mixart/prize fighter disc 2.png</image>
-		<marquee>./wheel/prize fighter disc 2.png</marquee>
-		<video>./snap/prize fighter disc 1.mp4</video>
-	</game>
-	<game id="12821" source="ScreenScraper.fr">
-		<path>./prize fighter disc 2.cue</path>
-		<name>Prize Fighter (Disc 2)</name>
-		<desc>Prize Fighter is a FMV boxing game which puts the player in the body  of "The Kid" against four opponents: Honeyboy Fernandez, Mega Joe Falco, Rex Hawkins, and the ultimate challenge, Nuke "The Duke" Johnson, divided over two CDs.  While the game requires a completely different approach than sprite or polygonal games, the tactics are still the same - jab, punch and deliver uppercuts when the opponent has his defenses down, and block and bob as he makes his moves. After a win the player can improve his left and right glove abilities and stamina by assigning "Power Points" to each area.  The only sprites visible during the bouts are the player gloves and the health indicators - the boxers and the rest of the ring are black and white FMV. Like with other FMV games, the player can enable  tips, which indicates to hit certain butttons when required.</desc>
-		<rating>0.7</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Sega</publisher>
-		<genre>Sports-Fight</genre>
-		<players>1</players>
-		<image>./mixart/prize fighter disc 2.png</image>
-		<marquee>./wheel/prize fighter disc 2.png</marquee>
-		<video>./snap/prize fighter disc 1.mp4</video>
-	</game>
-	<game id="12766" source="ScreenScraper.fr">
-		<path>./Fahrenheit (32X) (1995)(Sega)(US) [MK-4438] - (Disc 1 of 2).cue</path>
-		<name>Fahrenheit (Disc 1)</name>
-		<desc>Fahrenheit is an interactive movie that puts players into the flame-resistant suit of a firefighter. You are the new guy in the firehouse.  Last week, you saved three lives. But now, you're on a new squad, and have to prove yourself to them.  Like most interactive movies, Fahrenheit is played entirely while watching a digitized video. At certain critical points in the video, players must press certain directions on the control pad or action buttons in order to progress in the game. Fahrenheit takes this a step further by providing several buildings in which the player has the ability to move from room to room in in a non-linear fashion. As players move from room to room, they have to locate victims and neutralize fire hazards.</desc>
-		<rating>0.75</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Fahrenheit (32X) (1995)(Sega)(US) [MK-4438] - (Disc 1 of 2).png</image>
-		<marquee>./wheel/Fahrenheit (32X) (1995)(Sega)(US) [MK-4438] - (Disc 1 of 2).png</marquee>
-		<video>./snap/Fahrenheit (32X) (1995)(Sega)(US) [MK-4438] - (Disc 1 of 2).mp4</video>
-	</game>
-	<game id="12766" source="ScreenScraper.fr">
-		<path>./Fahrenheit (32X) (1995)(Sega)(US) [MK-4438] - (Disc 2 of 2).cue</path>
-		<name>Fahrenheit (Disc 2)</name>
-		<desc>Fahrenheit is an interactive movie that puts players into the flame-resistant suit of a firefighter. You are the new guy in the firehouse.  Last week, you saved three lives. But now, you're on a new squad, and have to prove yourself to them.  Like most interactive movies, Fahrenheit is played entirely while watching a digitized video. At certain critical points in the video, players must press certain directions on the control pad or action buttons in order to progress in the game. Fahrenheit takes this a step further by providing several buildings in which the player has the ability to move from room to room in in a non-linear fashion. As players move from room to room, they have to locate victims and neutralize fire hazards.</desc>
-		<rating>0.75</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Fahrenheit (32X) (1995)(Sega)(US) [MK-4438] - (Disc 1 of 2).png</image>
-		<marquee>./wheel/Fahrenheit (32X) (1995)(Sega)(US) [MK-4438] - (Disc 1 of 2).png</marquee>
-		<video>./snap/Fahrenheit (32X) (1995)(Sega)(US) [MK-4438] - (Disc 1 of 2).mp4</video>
-	</game>
-	<game id="97381" source="ScreenScraper.fr">
-		<path>./Slam City with Scottie Pippen (U) (32x) - Disc 1.cue</path>
-		<name>Slam City with Scottie Pippen (Disc 1)</name>
-		<desc>Slam City with Scottie Pippen is a Full-Motion-Video basketball game. It uses proprietary technology to allow switching from one scene to another without lag, which allows for smoother interactive video.  Gameplay is relatively simple, using little more than arrow keys, and is very different from any other basketball simulation. Basketball is merely the subject for the game's plot, involving the new-guy, Ace (the player), and a host of other characters, basketball players or just spectators, all with different personalities. It's basically play one-on-one on a warehouse court and climb the "ladders" until you earn enough respect to play against Scottie Pippen.  The game features a total of 13 characters, 5 of which the player has an option to play against, all of which are played by real actors.</desc>
-		<rating>0.2</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Digital Pictures</publisher>
-		<genre>Sports</genre>
-		<players>1</players>
-		<image>./mixart/Slam City with Scottie Pippen (U) (32x) - Disc 1.png</image>
-		<marquee>./wheel/Slam City with Scottie Pippen (U) (32x) - Disc 1.png</marquee>
-		<video>./snap/Slam City with Scottie Pippen (U) (32x) - Disc 1.mp4</video>
-	</game>
-	<game id="97381" source="ScreenScraper.fr">
-		<path>./Slam City with Scottie Pippen (U) (32x) - Disc 2.cue</path>
-		<name>Slam City with Scottie Pippen (Disc 2)</name>
-		<desc>Slam City with Scottie Pippen is a Full-Motion-Video basketball game. It uses proprietary technology to allow switching from one scene to another without lag, which allows for smoother interactive video.  Gameplay is relatively simple, using little more than arrow keys, and is very different from any other basketball simulation. Basketball is merely the subject for the game's plot, involving the new-guy, Ace (the player), and a host of other characters, basketball players or just spectators, all with different personalities. It's basically play one-on-one on a warehouse court and climb the "ladders" until you earn enough respect to play against Scottie Pippen.  The game features a total of 13 characters, 5 of which the player has an option to play against, all of which are played by real actors.</desc>
-		<rating>0.2</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Digital Pictures</publisher>
-		<genre>Sports</genre>
-		<players>1</players>
-		<image>./mixart/Slam City with Scottie Pippen (U) (32x) - Disc 1.png</image>
-		<marquee>./wheel/Slam City with Scottie Pippen (U) (32x) - Disc 1.png</marquee>
-		<video>./snap/Slam City with Scottie Pippen (U) (32x) - Disc 1.mp4</video>
-	</game>
-	<game id="97381" source="ScreenScraper.fr">
-		<path>./Slam City with Scottie Pippen (U) (32x) - Disc 3.cue</path>
-		<name>Slam City with Scottie Pippen (Disc 3)</name>
-		<desc>Slam City with Scottie Pippen is a Full-Motion-Video basketball game. It uses proprietary technology to allow switching from one scene to another without lag, which allows for smoother interactive video.  Gameplay is relatively simple, using little more than arrow keys, and is very different from any other basketball simulation. Basketball is merely the subject for the game's plot, involving the new-guy, Ace (the player), and a host of other characters, basketball players or just spectators, all with different personalities. It's basically play one-on-one on a warehouse court and climb the "ladders" until you earn enough respect to play against Scottie Pippen.  The game features a total of 13 characters, 5 of which the player has an option to play against, all of which are played by real actors.</desc>
-		<rating>0.2</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Digital Pictures</publisher>
-		<genre>Sports</genre>
-		<players>1</players>
-		<image>./mixart/Slam City with Scottie Pippen (U) (32x) - Disc 1.png</image>
-		<marquee>./wheel/Slam City with Scottie Pippen (U) (32x) - Disc 1.png</marquee>
-		<video>./snap/Slam City with Scottie Pippen (U) (32x) - Disc 1.mp4</video>
-	</game>
-	<game id="97381" source="ScreenScraper.fr">
-		<path>./Slam City with Scottie Pippen (U) (32x) - Disc 4.cue</path>
-		<name>Slam City with Scottie Pippen (Disc 4)</name>
-		<desc>Slam City with Scottie Pippen is a Full-Motion-Video basketball game. It uses proprietary technology to allow switching from one scene to another without lag, which allows for smoother interactive video.  Gameplay is relatively simple, using little more than arrow keys, and is very different from any other basketball simulation. Basketball is merely the subject for the game's plot, involving the new-guy, Ace (the player), and a host of other characters, basketball players or just spectators, all with different personalities. It's basically play one-on-one on a warehouse court and climb the "ladders" until you earn enough respect to play against Scottie Pippen.  The game features a total of 13 characters, 5 of which the player has an option to play against, all of which are played by real actors.</desc>
-		<rating>0.2</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Digital Pictures</publisher>
-		<genre>Sports</genre>
-		<players>1</players>
-		<image>./mixart/Slam City with Scottie Pippen (U) (32x) - Disc 1.png</image>
-		<marquee>./wheel/Slam City with Scottie Pippen (U) (32x) - Disc 1.png</marquee>
-		<video>./snap/Slam City with Scottie Pippen (U) (32x) - Disc 1.mp4</video>
-	</game>
-	<game id="200539" source="ScreenScraper.fr">
-		<path>./Supreme Warrior (32X) (disc 1) (U).cue</path>
-		<name>Supreme Warrior (Disc 1)</name>
-		<desc>Supreme Warrior is a full-motion video fighting game.  The game, or interactive movie, is set in China hundreds of years ago.  You are tasked with protecting half of a magical mask.  The wearer of the mask will be granted untold power.  Unfortunately, the villanous Wang Tu has the other half of the mask, and wants your half badly.  So, you must fight off Wang Tu's minions, and eventually Fang Tu himself.  The gameplay in Supreme Warrior consists of digitized video with interactive elements.  At many points during the video, you can unleash a punch, kick, or block.  If your timing is correct, you inflict damage on your opponent.  If you timing is off, your opponent hurts you.</desc>
-		<rating>0.8</rating>
-		<releasedate>19941101T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Digital Pictures</publisher>
-		<genre>Action-Fight-Adventure</genre>
-		<players>1</players>
-		<image>./mixart/Supreme Warrior (32X) (disc 2) (U).png</image>
-		<marquee>./wheel/Supreme Warrior (32X) (disc 2) (U).png</marquee>
-		<video>./snap/Supreme Warrior (32X) (disc 2) (U).mp4</video>
-	</game>
-	<game id="200539" source="ScreenScraper.fr">
-		<path>./Supreme Warrior (32X) (disc 2) (U).cue</path>
-		<name>Supreme Warrior (Disc 2)</name>
-		<desc>Supreme Warrior is a full-motion video fighting game.  The game, or interactive movie, is set in China hundreds of years ago.  You are tasked with protecting half of a magical mask.  The wearer of the mask will be granted untold power.  Unfortunately, the villanous Wang Tu has the other half of the mask, and wants your half badly.  So, you must fight off Wang Tu's minions, and eventually Fang Tu himself.  The gameplay in Supreme Warrior consists of digitized video with interactive elements.  At many points during the video, you can unleash a punch, kick, or block.  If your timing is correct, you inflict damage on your opponent.  If you timing is off, your opponent hurts you.</desc>
-		<rating>0.8</rating>
-		<releasedate>19941101T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Digital Pictures</publisher>
-		<genre>Action-Fight-Adventure</genre>
-		<players>1</players>
-		<image>./mixart/Supreme Warrior (32X) (disc 2) (U).png</image>
-		<marquee>./wheel/Supreme Warrior (32X) (disc 2) (U).png</marquee>
-		<video>./snap/Supreme Warrior (32X) (disc 2) (U).mp4</video>
-	</game>
 	<game id="97347" source="ScreenScraper.fr">
 		<path>./Citizen X (USA) (Unl).chd</path>
 		<name>Citizen X</name>
@@ -3005,6 +2759,264 @@ Casting spells uses up magic energy that can be replenished by collecting magic 
 		<video>./snap/Smurfs, The (Europe) (En,Fr,De,Es,It).mp4</video>
 	</game>
 	<game>
+		<path>./Flashback - The Quest for Identity (USA).chd</path>
+		<name>Flashback - The Quest for Identity (USA)</name>
+		<image>./mixart/Flashback - The Quest for Identity (USA).png</image>
+		<video>./snap/Flashback - The Quest for Identity (USA).mp4</video>
+		<marquee>./wheel/Flashback - The Quest for Identity (USA).png</marquee>
+		<rating>1</rating>
+		<releasedate>19700101T000000</releasedate>
+		<players />
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 2 of 2).cue</path>
+		<name>Dracula Unleashed (Disc 2)</name>
+		<desc>Dracula Unleashed is an interactive movie in the same vein as Sherlock Holmes: Consulting Detective. Basically, you can choose from several locations to go to, and at each location you are shown different events through live-action video clips. Clues in the videos will point you to where you should go next. You also have an "inventory" which you can use to affect the outcome of certain clips (for example, if you enter an asylum with the blackjack you'll be able to defend yourself against any escaped inmates, but if you don't bring the blackjack with you you'll be killed). Time is constantly moving and new events will pop up at different times of the day.  In Dracula Unleashed it is the year 1899, ten years after the destruction of count Dracula chronicled in Bram Stoker's novel. You take the role of Alexander Morris, the younger brother of Texan Quincey Morris who died defeating Dracula. Alexander has come to London to investigate the circumstances of his brother's death, but became sidetracked when he fell in love with and proposed to a local girl named Annisette.  Now, the dawn of a new millennium approaches and an evil force is stalking the streets of London, draining victims of their blood and transforming innocent women into bloodthirsty vampiresses. With the aide of your brother's old friends, the survivors of Dracula's evil, you must uncover the identity of this new vampire and prevent him from transforming Annisette into his queen of the night. Do not fail her, or she will personally rip your throat out.</desc>
+		<emulator>libretro</emulator>
+		<core>picodrive</core>
+		<image>./mixart/Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).png</image>
+		<video>./snap/Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).mp4</video>
+		<marquee>./wheel/Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>ICOM Simulations</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Fahrenheit (32X) (1995)(Sega)(US) [MK-4438] - (Disc 1 of 2).cue</path>
+		<name>Fahrenheit (Disc 1)</name>
+		<desc>Fahrenheit is an interactive movie that puts players into the flame-resistant suit of a firefighter. You are the new guy in the firehouse.  Last week, you saved three lives. But now, you're on a new squad, and have to prove yourself to them.  Like most interactive movies, Fahrenheit is played entirely while watching a digitized video. At certain critical points in the video, players must press certain directions on the control pad or action buttons in order to progress in the game. Fahrenheit takes this a step further by providing several buildings in which the player has the ability to move from room to room in in a non-linear fashion. As players move from room to room, they have to locate victims and neutralize fire hazards.</desc>
+		<emulator>libretro</emulator>
+		<core>picodrive</core>
+		<image>./mixart/Fahrenheit (32X) (1995)(Sega)(US) [MK-4438] - (Disc 1 of 2).png</image>
+		<video>./snap/Fahrenheit (32X) (1995)(Sega)(US) [MK-4438] - (Disc 1 of 2).mp4</video>
+		<marquee>./wheel/Fahrenheit (32X) (1995)(Sega)(US) [MK-4438] - (Disc 1 of 2).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Fahrenheit (32X) (1995)(Sega)(US) [MK-4438] - (Disc 2 of 2).cue</path>
+		<name>Fahrenheit (Disc 2)</name>
+		<desc>Fahrenheit is an interactive movie that puts players into the flame-resistant suit of a firefighter. You are the new guy in the firehouse.  Last week, you saved three lives. But now, you're on a new squad, and have to prove yourself to them.  Like most interactive movies, Fahrenheit is played entirely while watching a digitized video. At certain critical points in the video, players must press certain directions on the control pad or action buttons in order to progress in the game. Fahrenheit takes this a step further by providing several buildings in which the player has the ability to move from room to room in in a non-linear fashion. As players move from room to room, they have to locate victims and neutralize fire hazards.</desc>
+		<emulator>libretro</emulator>
+		<core>picodrive</core>
+		<image>./mixart/Fahrenheit (32X) (1995)(Sega)(US) [MK-4438] - (Disc 1 of 2).png</image>
+		<video>./snap/Fahrenheit (32X) (1995)(Sega)(US) [MK-4438] - (Disc 1 of 2).mp4</video>
+		<marquee>./wheel/Fahrenheit (32X) (1995)(Sega)(US) [MK-4438] - (Disc 1 of 2).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Ground Zero Texas (disc 1) (Sega CD) (U).cue</path>
+		<name>Ground Zero Texas (Disc 1)</name>
+		<desc>Space aliens are infiltrating the U.S. from a sleepy little town on the Texas/Mexico border, snatching bodies and paving the way for a greater invasion. Those they abduct return as Pod People-like drones, normal in appearance until they reveal themselves. The government's response is you - a technician driving custom-built gun cameras mounted around the town. Similar to Night Trap or Double Switch, you must monitor the town for alien activity, and respond to protect the lives of the citizens and your agents.  The game is played entirely through four camera feeds from locations around the town. They mostly show loops of banal activity, but indicators will alert you when important action is occurring at that location. Switching to that camera will allow you to watch crucial plot clips, or defend that camera from aliens in a single-screen shooting gallery. As cameras take more damage, the picture from that feed degrades until the camera itself is destroyed.  The goal is pretty much to juggle between cameras so as not to miss an important plot point, while defending them from attackers or saving citizens from being abducted. In a neat twist, citizens who you failed to save may appear later as disguised aliens themselves.  As the game progresses, the invasion increases and becomes more violent, but the basic concept of switching between cameras and engaging in video shooting galleries remains unchanged.</desc>
+		<emulator>libretro</emulator>
+		<core>picodrive</core>
+		<image>./mixart/Ground Zero Texas (disc 2) (Sega CD) (U).png</image>
+		<video>./snap/Ground Zero Texas (disc 1) (Sega CD) (U).mp4</video>
+		<marquee>./wheel/Ground Zero Texas (disc 2) (Sega CD) (U).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>SCE Santa Monica Studio</developer>
+		<publisher>Sony Imagesoft</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Ground Zero Texas (disc 2) (Sega CD) (U).cue</path>
+		<name>Ground Zero Texas (Disc 2)</name>
+		<desc>Space aliens are infiltrating the U.S. from a sleepy little town on the Texas/Mexico border, snatching bodies and paving the way for a greater invasion. Those they abduct return as Pod People-like drones, normal in appearance until they reveal themselves. The government's response is you - a technician driving custom-built gun cameras mounted around the town. Similar to Night Trap or Double Switch, you must monitor the town for alien activity, and respond to protect the lives of the citizens and your agents.  The game is played entirely through four camera feeds from locations around the town. They mostly show loops of banal activity, but indicators will alert you when important action is occurring at that location. Switching to that camera will allow you to watch crucial plot clips, or defend that camera from aliens in a single-screen shooting gallery. As cameras take more damage, the picture from that feed degrades until the camera itself is destroyed.  The goal is pretty much to juggle between cameras so as not to miss an important plot point, while defending them from attackers or saving citizens from being abducted. In a neat twist, citizens who you failed to save may appear later as disguised aliens themselves.  As the game progresses, the invasion increases and becomes more violent, but the basic concept of switching between cameras and engaging in video shooting galleries remains unchanged.</desc>
+		<emulator>libretro</emulator>
+		<core>picodrive</core>
+		<image>./mixart/Ground Zero Texas (disc 2) (Sega CD) (U).png</image>
+		<video>./snap/Ground Zero Texas (disc 1) (Sega CD) (U).mp4</video>
+		<marquee>./wheel/Ground Zero Texas (disc 2) (Sega CD) (U).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>SCE Santa Monica Studio</developer>
+		<publisher>Sony Imagesoft</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Night Trap (USA) (Disc 1).cue</path>
+		<name>Night Trap (Disc 1)</name>
+		<desc>Five girls go to a party to a nice house on a lakeside. Five girls disappear without a trace... Now another five girls go there, in order to spend the vacation with the Martins, the owners of the house, in particular with the lovely Ms. Martin. This time, you should not let them die a gruesome death! Because "nice people" can sometimes turn out to be... yes, that's right - vampires. The whole house is full of traps, that are intended to catch the poor innocent girls, so that the vampires can suck their blood... ugh. Luckily, the brave adventurer is there in order to cease to be hunted and to become a hunter instead! Set the traps so that they will capture the villains themselves, using precise timing and good organization.
+
+Night Trap was the very first game that used the FMV (full-motion video) technology with live actors. Although it didn't contain nudity or particularly gory scenes, it was considered one of the first games to have a mature content.</desc>
+		<emulator>libretro</emulator>
+		<core>picodrive</core>
+		<image>./mixart/Night Trap (USA) (Disc 1).png</image>
+		<video>./snap/Night Trap (USA) (Disc 1).mp4</video>
+		<marquee>./wheel/Night Trap (USA) (Disc 1).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19911231T000000</releasedate>
+		<developer>Digital Pictures</developer>
+		<publisher>Sega</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./Night Trap (USA) (Disc 2).cue</path>
+		<name>Night Trap (Disc 2)</name>
+		<desc>Five girls go to a party to a nice house on a lakeside. Five girls disappear without a trace... Now another five girls go there, in order to spend the vacation with the Martins, the owners of the house, in particular with the lovely Ms. Martin. This time, you should not let them die a gruesome death! Because "nice people" can sometimes turn out to be... yes, that's right - vampires. The whole house is full of traps, that are intended to catch the poor innocent girls, so that the vampires can suck their blood... ugh. Luckily, the brave adventurer is there in order to cease to be hunted and to become a hunter instead! Set the traps so that they will capture the villains themselves, using precise timing and good organization.
+
+Night Trap was the very first game that used the FMV (full-motion video) technology with live actors. Although it didn't contain nudity or particularly gory scenes, it was considered one of the first games to have a mature content.</desc>
+		<emulator>libretro</emulator>
+		<core>picodrive</core>
+		<image>./mixart/Night Trap (USA) (Disc 2).png</image>
+		<video>./snap/Night Trap (USA) (Disc 2).mp4</video>
+		<marquee>./wheel/Night Trap (USA) (Disc 2).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19911231T000000</releasedate>
+		<developer>Digital Pictures</developer>
+		<publisher>Sega</publisher>
+		<genre>Adventure</genre>
+	</game>
+	<game>
+		<path>./prize fighter disc 1.cue</path>
+		<name>Prize Fighter (Disc 1)</name>
+		<desc>Prize Fighter is a FMV boxing game which puts the player in the body  of "The Kid" against four opponents: Honeyboy Fernandez, Mega Joe Falco, Rex Hawkins, and the ultimate challenge, Nuke "The Duke" Johnson, divided over two CDs.  While the game requires a completely different approach than sprite or polygonal games, the tactics are still the same - jab, punch and deliver uppercuts when the opponent has his defenses down, and block and bob as he makes his moves. After a win the player can improve his left and right glove abilities and stamina by assigning "Power Points" to each area.  The only sprites visible during the bouts are the player gloves and the health indicators - the boxers and the rest of the ring are black and white FMV. Like with other FMV games, the player can enable  tips, which indicates to hit certain butttons when required.</desc>
+		<emulator>libretro</emulator>
+		<core>picodrive</core>
+		<image>./mixart/prize fighter disc 2.png</image>
+		<video>./snap/prize fighter disc 1.mp4</video>
+		<marquee>./wheel/prize fighter disc 2.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Digital Pictures</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports-Fight</genre>
+	</game>
+	<game>
+		<path>./prize fighter disc 2.cue</path>
+		<name>Prize Fighter (Disc 2)</name>
+		<desc>Prize Fighter is a FMV boxing game which puts the player in the body  of "The Kid" against four opponents: Honeyboy Fernandez, Mega Joe Falco, Rex Hawkins, and the ultimate challenge, Nuke "The Duke" Johnson, divided over two CDs.  While the game requires a completely different approach than sprite or polygonal games, the tactics are still the same - jab, punch and deliver uppercuts when the opponent has his defenses down, and block and bob as he makes his moves. After a win the player can improve his left and right glove abilities and stamina by assigning "Power Points" to each area.  The only sprites visible during the bouts are the player gloves and the health indicators - the boxers and the rest of the ring are black and white FMV. Like with other FMV games, the player can enable  tips, which indicates to hit certain butttons when required.</desc>
+		<emulator>libretro</emulator>
+		<core>picodrive</core>
+		<image>./mixart/prize fighter disc 2.png</image>
+		<video>./snap/prize fighter disc 1.mp4</video>
+		<marquee>./wheel/prize fighter disc 2.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Digital Pictures</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports-Fight</genre>
+	</game>
+	<game>
+		<path>./Slam City with Scottie Pippen (U) (32x) - Disc 1.cue</path>
+		<name>Slam City with Scottie Pippen (Disc 1)</name>
+		<desc>Slam City with Scottie Pippen is a Full-Motion-Video basketball game. It uses proprietary technology to allow switching from one scene to another without lag, which allows for smoother interactive video.  Gameplay is relatively simple, using little more than arrow keys, and is very different from any other basketball simulation. Basketball is merely the subject for the game's plot, involving the new-guy, Ace (the player), and a host of other characters, basketball players or just spectators, all with different personalities. It's basically play one-on-one on a warehouse court and climb the "ladders" until you earn enough respect to play against Scottie Pippen.  The game features a total of 13 characters, 5 of which the player has an option to play against, all of which are played by real actors.</desc>
+		<emulator>libretro</emulator>
+		<core>picodrive</core>
+		<image>./mixart/Slam City with Scottie Pippen (U) (32x) - Disc 1.png</image>
+		<video>./snap/Slam City with Scottie Pippen (U) (32x) - Disc 1.mp4</video>
+		<marquee>./wheel/Slam City with Scottie Pippen (U) (32x) - Disc 1.png</marquee>
+		<rating>0.2</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Digital Pictures</developer>
+		<publisher>Digital Pictures</publisher>
+		<genre>Sports</genre>
+	</game>
+	<game>
+		<path>./Slam City with Scottie Pippen (U) (32x) - Disc 2.cue</path>
+		<name>Slam City with Scottie Pippen (Disc 2)</name>
+		<desc>Slam City with Scottie Pippen is a Full-Motion-Video basketball game. It uses proprietary technology to allow switching from one scene to another without lag, which allows for smoother interactive video.  Gameplay is relatively simple, using little more than arrow keys, and is very different from any other basketball simulation. Basketball is merely the subject for the game's plot, involving the new-guy, Ace (the player), and a host of other characters, basketball players or just spectators, all with different personalities. It's basically play one-on-one on a warehouse court and climb the "ladders" until you earn enough respect to play against Scottie Pippen.  The game features a total of 13 characters, 5 of which the player has an option to play against, all of which are played by real actors.</desc>
+		<emulator>libretro</emulator>
+		<core>picodrive</core>
+		<image>./mixart/Slam City with Scottie Pippen (U) (32x) - Disc 1.png</image>
+		<video>./snap/Slam City with Scottie Pippen (U) (32x) - Disc 1.mp4</video>
+		<marquee>./wheel/Slam City with Scottie Pippen (U) (32x) - Disc 1.png</marquee>
+		<rating>0.2</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Digital Pictures</developer>
+		<publisher>Digital Pictures</publisher>
+		<genre>Sports</genre>
+	</game>
+	<game>
+		<path>./Slam City with Scottie Pippen (U) (32x) - Disc 3.cue</path>
+		<name>Slam City with Scottie Pippen (Disc 3)</name>
+		<desc>Slam City with Scottie Pippen is a Full-Motion-Video basketball game. It uses proprietary technology to allow switching from one scene to another without lag, which allows for smoother interactive video.  Gameplay is relatively simple, using little more than arrow keys, and is very different from any other basketball simulation. Basketball is merely the subject for the game's plot, involving the new-guy, Ace (the player), and a host of other characters, basketball players or just spectators, all with different personalities. It's basically play one-on-one on a warehouse court and climb the "ladders" until you earn enough respect to play against Scottie Pippen.  The game features a total of 13 characters, 5 of which the player has an option to play against, all of which are played by real actors.</desc>
+		<emulator>libretro</emulator>
+		<core>picodrive</core>
+		<image>./mixart/Slam City with Scottie Pippen (U) (32x) - Disc 1.png</image>
+		<video>./snap/Slam City with Scottie Pippen (U) (32x) - Disc 1.mp4</video>
+		<marquee>./wheel/Slam City with Scottie Pippen (U) (32x) - Disc 1.png</marquee>
+		<rating>0.2</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Digital Pictures</developer>
+		<publisher>Digital Pictures</publisher>
+		<genre>Sports</genre>
+	</game>
+	<game>
+		<path>./Slam City with Scottie Pippen (U) (32x) - Disc 4.cue</path>
+		<name>Slam City with Scottie Pippen (Disc 4)</name>
+		<desc>Slam City with Scottie Pippen is a Full-Motion-Video basketball game. It uses proprietary technology to allow switching from one scene to another without lag, which allows for smoother interactive video.  Gameplay is relatively simple, using little more than arrow keys, and is very different from any other basketball simulation. Basketball is merely the subject for the game's plot, involving the new-guy, Ace (the player), and a host of other characters, basketball players or just spectators, all with different personalities. It's basically play one-on-one on a warehouse court and climb the "ladders" until you earn enough respect to play against Scottie Pippen.  The game features a total of 13 characters, 5 of which the player has an option to play against, all of which are played by real actors.</desc>
+		<emulator>libretro</emulator>
+		<core>picodrive</core>
+		<image>./mixart/Slam City with Scottie Pippen (U) (32x) - Disc 1.png</image>
+		<video>./snap/Slam City with Scottie Pippen (U) (32x) - Disc 1.mp4</video>
+		<marquee>./wheel/Slam City with Scottie Pippen (U) (32x) - Disc 1.png</marquee>
+		<rating>0.2</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Digital Pictures</developer>
+		<publisher>Digital Pictures</publisher>
+		<genre>Sports</genre>
+	</game>
+	<game>
+		<path>./Supreme Warrior (32X) (disc 1) (U).cue</path>
+		<name>Supreme Warrior (Disc 1)</name>
+		<desc>Supreme Warrior is a full-motion video fighting game.  The game, or interactive movie, is set in China hundreds of years ago.  You are tasked with protecting half of a magical mask.  The wearer of the mask will be granted untold power.  Unfortunately, the villanous Wang Tu has the other half of the mask, and wants your half badly.  So, you must fight off Wang Tu's minions, and eventually Fang Tu himself.  The gameplay in Supreme Warrior consists of digitized video with interactive elements.  At many points during the video, you can unleash a punch, kick, or block.  If your timing is correct, you inflict damage on your opponent.  If you timing is off, your opponent hurts you.</desc>
+		<emulator>libretro</emulator>
+		<core>picodrive</core>
+		<image>./mixart/Supreme Warrior (32X) (disc 2) (U).png</image>
+		<video>./snap/Supreme Warrior (32X) (disc 2) (U).mp4</video>
+		<marquee>./wheel/Supreme Warrior (32X) (disc 2) (U).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19941101T000000</releasedate>
+		<developer>Digital Pictures</developer>
+		<publisher>Digital Pictures</publisher>
+		<genre>Action-Fight-Adventure</genre>
+	</game>
+	<game>
+		<path>./Supreme Warrior (32X) (disc 2) (U).cue</path>
+		<name>Supreme Warrior (Disc 2)</name>
+		<desc>Supreme Warrior is a full-motion video fighting game.  The game, or interactive movie, is set in China hundreds of years ago.  You are tasked with protecting half of a magical mask.  The wearer of the mask will be granted untold power.  Unfortunately, the villanous Wang Tu has the other half of the mask, and wants your half badly.  So, you must fight off Wang Tu's minions, and eventually Fang Tu himself.  The gameplay in Supreme Warrior consists of digitized video with interactive elements.  At many points during the video, you can unleash a punch, kick, or block.  If your timing is correct, you inflict damage on your opponent.  If you timing is off, your opponent hurts you.</desc>
+		<emulator>libretro</emulator>
+		<core>picodrive</core>
+		<image>./mixart/Supreme Warrior (32X) (disc 2) (U).png</image>
+		<video>./snap/Supreme Warrior (32X) (disc 2) (U).mp4</video>
+		<marquee>./wheel/Supreme Warrior (32X) (disc 2) (U).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19941101T000000</releasedate>
+		<developer>Digital Pictures</developer>
+		<publisher>Digital Pictures</publisher>
+		<genre>Action-Fight-Adventure</genre>
+	</game>
+	<game>
+		<path>./Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).cue</path>
+		<name>Dracula Unleashed (Disc 1)</name>
+		<desc>Dracula Unleashed is an interactive movie in the same vein as Sherlock Holmes: Consulting Detective. Basically, you can choose from several locations to go to, and at each location you are shown different events through live-action video clips. Clues in the videos will point you to where you should go next. You also have an "inventory" which you can use to affect the outcome of certain clips (for example, if you enter an asylum with the blackjack you'll be able to defend yourself against any escaped inmates, but if you don't bring the blackjack with you you'll be killed). Time is constantly moving and new events will pop up at different times of the day.  In Dracula Unleashed it is the year 1899, ten years after the destruction of count Dracula chronicled in Bram Stoker's novel. You take the role of Alexander Morris, the younger brother of Texan Quincey Morris who died defeating Dracula. Alexander has come to London to investigate the circumstances of his brother's death, but became sidetracked when he fell in love with and proposed to a local girl named Annisette.  Now, the dawn of a new millennium approaches and an evil force is stalking the streets of London, draining victims of their blood and transforming innocent women into bloodthirsty vampiresses. With the aide of your brother's old friends, the survivors of Dracula's evil, you must uncover the identity of this new vampire and prevent him from transforming Annisette into his queen of the night. Do not fail her, or she will personally rip your throat out.</desc>
+		<emulator>libretro</emulator>
+		<core>picodrive</core>
+		<image>./mixart/Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).png</image>
+		<video>./snap/Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).mp4</video>
+		<marquee>./wheel/Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>ICOM Simulations</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<playcount>1</playcount>
+		<lastplayed>20201231T142900</lastplayed>
+		<gametime>16</gametime>
+	</game>
+	<game>
 		<path>./Demolition Man (USA).chd</path>
 		<name>Demolition Man</name>
 		<desc>Demolition Man is a game based on the 1993 movie by the same name. As with the movie, the game takes place in a dystopian Los Angeles, in 1996. John Spartan is the country´s most fearsome cop and hunts his nemesis, Simon Phoenix. However in doing so, he kills several innocent civilians and both characters are sentenced to cryostasis rehabilitation where they will be brainwashed for 30 years. However the brainwashing does not go as planned and upon waking up, Phoenix goes on a new crime spree. However in 30 years the world has also changed and Los Angeles has become San Angeles, a utopian and violence-free society. As a remnant of a more violent past, police officer John Spartan is once again sent to capture Phoenix.
@@ -3021,16 +3033,32 @@ The Sega CD version of the game retains identical levels and gameplay, but adds 
 		<publisher>Acclaim Entertainment</publisher>
 		<genre>Action</genre>
 		<favorite>true</favorite>
+		<playcount>5</playcount>
+		<lastplayed>20201231T180547</lastplayed>
+		<gametime>87</gametime>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 	<game>
-		<path>./Flashback - The Quest for Identity (USA).chd</path>
-		<name>Flashback - The Quest for Identity (USA)</name>
-		<image>./mixart/Flashback - The Quest for Identity (USA).png</image>
-		<video>./snap/Flashback - The Quest for Identity (USA).mp4</video>
-		<marquee>./wheel/Flashback - The Quest for Identity (USA).png</marquee>
-		<rating>1</rating>
-		<releasedate>19700101T000000</releasedate>
-		<players></players>
+		<path>./Terminator, The (USA).chd</path>
+		<name>The Terminator</name>
+		<desc>Similar to adaptations of The Terminator on other systems, the Sega CD game is a platformer where the player controls Kyle Reese, who travels back in time from the year 2029 to protect Sarah Connor from the unstoppable killing machine known as the Terminator.
+
+The game consists of 10 levels. Future locations include the post-apocalyptic wasteland of 2029 Los Angeles and the time displacement complex. In the present of 1984, Reese must traverse the streets and rooftops of L.A., as well as the Tech Noir club, the police station, and, for the finale, an automated factory. 
+
+Reese is armed with a gun with unlimited ammo as well as a limited number of grenades to dispatch the many enemies, including Terminators and HKs in the future and punks in the present. In addition to these, several bosses must also be fought. The boss battles include several encounters with the Terminator, who naturally cannot be completely destroyed until the finale, but must be driven back to keep him from harming Sarah.
+
+Between levels, the game shows small digitized clips from the film that advance the storyline. The game also features a fully CD-based soundtrack with tracks ranging from heavy rock to electronic tunes.</desc>
+		<image>./mixart/Terminator, The (USA).png</image>
+		<video>./snap/Terminator, The (USA).mp4</video>
+		<marquee>./wheel/Terminator, The (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19930000T000000</releasedate>
+		<developer>Probe Software</developer>
+		<publisher>Virgin</publisher>
+		<genre>Action</genre>
 		<favorite>true</favorite>
+		<playcount>1</playcount>
+		<lastplayed>20201231T180556</lastplayed>
 	</game>
 </gameList>
