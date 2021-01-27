@@ -23,8 +23,8 @@ pause >nul
 powershell -Command "$ErrorActionPreference= 'silentlycontinue' ; (Get-Content 'V:\_tools\vman-retrobat-master\updates.txt') -notlike '#*' | ConvertFrom-Csv -Delimiter '|' | ForEach-Object {ForEach ($file in (Get-ChildItem -Path "$($_.Files)" -depth 0 -exclude *.VM)){Remove-Item -ErrorAction SilentlyContinue -Path $($file.fullname + '.VM');Copy-Item -Path $($file.fullname) -Destination $($file.fullname + '.VM');$filecontent = Get-Content -path $file ; if ($($_.LineNr)) {$filecontent[$($_.LineNr)] = $filecontent[$($_.LineNr)] -creplace $($_.SearchTxt),$($_.ReplaceTxt)} else {$filecontent = $filecontent -creplace $($_.SearchTxt),$($_.ReplaceTxt)} ; Set-Content $file.PSpath -Value $filecontent }}"
 
 rem 5. 2021-01-04 - Fix red smudges in Amiga and PS2 bezels - reported by bilu
-copy /Y V:\_tools\vman-retrobat-master\RetroBat\system\decorations\default_unglazed\amiga.png V:\RetroBat\decorations\default\systems\amiga.png
-copy /Y V:\_tools\vman-retrobat-master\RetroBat\system\decorations\default_unglazed\ps2.png V:\RetroBat\decorations\default\systems\ps2.png
+rem copy /Y V:\_tools\vman-retrobat-master\RetroBat\system\decorations\default_unglazed\amiga.png V:\RetroBat\decorations\default\systems\amiga.png
+rem copy /Y V:\_tools\vman-retrobat-master\RetroBat\system\decorations\default_unglazed\ps2.png V:\RetroBat\decorations\default\systems\ps2.png
 
 echo.
 echo Update Completed. Enjoy! :)
