@@ -955,27 +955,6 @@ There exists 64,000,000 score upper limit in the initial version and has been re
 		<video>./snap/moo.mp4</video>
 	</game>
 	<game>
-		<path>./eprom.zip</path>
-		<name>Escape from the Planet of the Robot Monsters</name>
-		<desc>Escape From The Planet of the Robot Monsters © 1989 Atari Games Corp.
-
-Escape From The Planet Of The Robot Monsters is a one or two-player game in which the players must rescue Dr. Sarah Bellum from Planet X, where her research facility has been taken over by the evil Reptilons. The game is played from an isometric perspective where players control their avatars using Hall effect joysticks. The Hall effect is the production of a voltage difference (the Hall voltage) across an electrical conductor, transverse to an electric current in the conductor and a magnetic field perpendicular to the current. It was discovered by Edwin Hall in 1879.
-
-The player must shoot their way through a series of simple maze-like levels, releasing the human hostages along the way. Levers must be found and thrown to activate the escalators which allow access to new areas. Gems can be collected to increase the power of the player's ray gun, and food lockers may be broken into for a health boost.
-
-At the end of each level the play switches to an isometric auto-scrolling sequence in which the player controls his character in a small spaceship, and must steer left or right to navigate through a maze of obstacles. If the player reaches the end of this sequence they will progress to the next level.</desc>
-		<image>./mixart/eprom.png</image>
-		<video>./snap/eprom.mp4</video>
-		<marquee>./wheel/eprom.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Action / Labyrinth-Shooter Large-Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./gametngk.zip</path>
 		<name>The Game Paradise - Master of Shooting!</name>
 		<desc>Game Tengoku - The Game Paradise is a vertically-scrolling shoot-em-up set in a video arcade. Players take on the role of one of five different characters/ships, with each offering different weapons.
@@ -998,34 +977,6 @@ Game Tengoku - The Game Paradise offers both 'Standard' and 'Time Attack' modes 
 		<developer>Jaleco</developer>
 		<publisher>Jaleco</publisher>
 		<genre>Shoot'em up / Vertical-Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./gnbarich.zip</path>
-		<name>Gunbarich</name>
-		<desc>Gunbarich (c) 2001 Psikyo.  - TECHNICAL -  Main CPU : SH-2 (@ 28.63635 Mhz) Sound Chips : YMF278B (@ 28.63635 Mhz)  Players : 2 Control : 8-way joystick Buttons : 3  - TRIVIA -  Released in June 2001.  Psikyo's Gunbarich is a spin-off of "Gunbird" featuri</desc>
-		<image>./mixart/gnbarich.png</image>
-		<video>./snap/gnbarich.mp4</video>
-		<marquee>./wheel/gnbarich.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20010101T000000</releasedate>
-		<developer>Psikyo</developer>
-		<publisher>Psikyo</publisher>
-		<genre>Action-Action / Breakout games</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./gunmast.zip</path>
-		<name>Gun Master</name>
-		<image>./mixart/gunmast.png</image>
-		<video>./snap/gunmast.mp4</video>
-		<marquee>./wheel/gunmast.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Metro</developer>
-		<publisher>Metro</publisher>
-		<genre>Fight-Fight /  Co-op</genre>
 		<players>2</players>
 		<favorite>true</favorite>
 	</game>
@@ -1378,37 +1329,6 @@ Smash TV is broken down into stages, each with a set number of arenas. Tough end
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./spacegun.zip</path>
-		<name>Space Gun</name>
-		<desc>As a member of a special Search And Rescue unit. you (and an optional friend) are told to investigate an S.O.S. distress signal that was sent from a space station. what you don't know is that a group of vicious aliens have taken the colonists hostage. luckily for you, you're armed with a plasma pulse gun and four sets of grenades that are quite special (aside from the common grenade that explodes, some will freeze, incinerate, and even slice and dice the aliens).</desc>
-		<image>./mixart/spacegun.png</image>
-		<video>./snap/spacegun.mp4</video>
-		<marquee>./wheel/spacegun.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Shooter-Lightgun Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./theglad.zip</path>
-		<name>Gladiator / Road of the Sword / Shen Jian, The</name>
-		<desc>The cursed Sacred Sword appeared once again, took lives of hundreds people. Two prominent families were killed, just because they possessed it. Behind these entire massacres more mysteries were secretly hidden, the rumors said perhaps even the government seemed to take part of it. Chu Xing Han, San Kuan Ging and Wu Ping decided to revenge. Chu is good friend and partner Greg Tien Ray also wanted to help them. Mysterious woman Huang Her decided to kill her own father for committing all these crimes. Wu-Lin Sword master's disciple Siong Chien Chien had an eye on the power of the sword and determined to seize the object.
-
-The conflict in Wu-Lin seemed to trigger at any moment, unconsciously all sword masters were falling into a sophisticated conspiracy designed by Yuen Dynasty Government and...</desc>
-		<image>./mixart/theglad.png</image>
-		<video>./snap/theglad.mp4</video>
-		<marquee>./wheel/theglad.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20030101T000000</releasedate>
-		<developer>IGS</developer>
-		<publisher>IGS</publisher>
-		<genre>Fight / 2.5D-Fight</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./vendetta2pu.zip</path>
 		<name>Vendetta</name>
 		<desc>The hero gang, called The Cobras, numbers five members: Blood (former prizefighter, with a passing resemblance to Mike Tyson), Hawk (former professional wrestler, with strong resemblance to Hulk Hogan), Boomer (a martial artist, possibly based on Jean-Claude Van Damme), Sledge (a military ex-convict with passing resemblance to Mr. T), and Kate, the damsel in distress, described as Hawk's protegee and wearing blue clothing similar to his.
@@ -1441,20 +1361,6 @@ Wizard Fire / Dark Seal II is another in a long line of derivative but playable 
 		<genre>Fight-Fight / 2.5D</genre>
 		<players>2</players>
 		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./88games.zip</path>
-		<name>'88 Games</name>
-		<desc>Konami '88 (also known as '88 Games or Hyper Sports Special) is the third in the Track &amp; Field game series by Konami, where you test your Olympic skills against other world-class athletes. As the name implies, it is loosely based on (and not licensed by) the 1988 Summer Olympics in Seoul, South Korea. Bronze or silver medals are not good enough - you have to go for the gold to get to the next event. However, you must at least qualify in each event in order to compete in the next event.</desc>
-		<image>./mixart/88games.png</image>
-		<video>./snap/88games.mp4</video>
-		<marquee>./wheel/88games.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Sports-Sports / Running trails</genre>
-		<players>2</players>
 	</game>
 	<game>
 		<path>./10yard.zip</path>
@@ -1577,20 +1483,6 @@ The main objective is to compete in as many skate parks as possible. There are n
 		<developer>Atari</developer>
 		<publisher>Atari</publisher>
 		<genre>Sports-Sports / Skateboard</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./cphd.zip</path>
-		<name>'H'Crouching Pony Hidden Dragon</name>
-		<desc>CPHD is a homebrew - A pedestrian shooter mixed with RPG features exclusive for the Neo-Geo. Collect money and experience to evolve your weapons and equipments. Confront hordes of ninjas, shaolins, geishas... into intense fight to earn your immortality.</desc>
-		<image>./mixart/cphd.png</image>
-		<video>./snap/cphd.mp4</video>
-		<marquee>./wheel/cphd.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20140714T000000</releasedate>
-		<developer>Le Cortex</developer>
-		<publisher>Neko Interactive</publisher>
-		<genre>Action</genre>
 		<players>2</players>
 	</game>
 	<game>
@@ -11309,20 +11201,6 @@ The graphics in Daimakaimura are predictably far superior to those of its 1985 p
 		<players>2</players>
 	</game>
 	<game>
-		<path>./godzilla.zip</path>
-		<name>Godzilla</name>
-		<desc>Godzilla (Gojira) is an arcade game developed by Banpresto and released to Japanese arcades in 1993. Have two modes, Story Mode and Versus Mode (mode where one can play against friends or alone).</desc>
-		<image>./mixart/godzilla.png</image>
-		<video>./snap/godzilla.mp4</video>
-		<marquee>./wheel/godzilla.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Banpresto</developer>
-		<publisher>Banpresto</publisher>
-		<genre>Action/Fighting</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./gogomile.zip</path>
 		<name>Go Go! Mile Smile</name>
 		<desc>'Here. You'll need this'. A modern remake of Stern Electronics' classic "Anteater", this cutesy game features boss fights, multiple entry points, an upbeat musical score and colorful graphics.</desc>
@@ -15257,22 +15135,6 @@ The Aizerun Geist provides tactical advantages during combat with the use of its
 		<publisher>Leland Corp.</publisher>
 		<genre>Sports-Sports / Football</genre>
 		<players>4</players>
-	</game>
-	<game>
-		<path>./cluckypo.zip</path>
-		<name>Lucky Poker (DECO Cassette)</name>
-		<desc>A poker game from Data East.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/cluckypo.png</image>
-		<video>./snap/cluckypo.mp4</video>
-		<marquee>./wheel/cluckypo.png</marquee>
-		<rating>0.4</rating>
-		<releasedate>19810101T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Data East</publisher>
-		<genre>Casino/Cards</genre>
-		<players>2</players>
 	</game>
 	<game>
 		<path>./crshrace.zip</path>
@@ -20620,25 +20482,6 @@ Uo Poko features thirty stages of play.</desc>
 		<publisher>Jaleco</publisher>
 		<genre>Puzzle-Game-Puzzle-Game / Fall</genre>
 		<players>2</players>
-	</game>
-	<game>
-		<path>./term2.zip</path>
-		<name>Terminator 2 - Judgment Day</name>
-		<desc>Help to John connor future leader of the human resistance against the machines and his valiant mother Sarah Connor to be avoid being killed by a prototype robot from Skynet the T-1000 sent from the future composed of a "mimetic poly-alloy" but soon a unexpected savior an reprogrammed T-800 Terminator, will come from the future to help and stop together the judgment day.
-
-Hasta La Vista, Baby!</desc>
-		<emulator>libretro</emulator>
-		<core>mame2010</core>
-		<image>./mixart/term2.png</image>
-		<video>./snap/term2.mp4</video>
-		<marquee>./wheel/term2.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Shooter-Lightgun Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./clapapa.zip</path>
@@ -29736,20 +29579,6 @@ Player characters can eat mice, frogs, birds and snails to restore their health.
 		<players>2</players>
 	</game>
 	<game>
-		<path>./umk3.zip</path>
-		<name>Ultimate Mortal Kombat 3</name>
-		<desc>An update of "Mortal Kombat 3", with new characters added to the original MK3 cast. There are lots of other additions and goodies in the game (see Updates section (REV. 1.0)).</desc>
-		<image>./mixart/umk3.png</image>
-		<video>./snap/umk3.mp4</video>
-		<marquee>./wheel/umk3.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Fight-Fight / Versus</genre>
-		<players>8</players>
-	</game>
-	<game>
 		<path>./unclepoo.zip</path>
 		<name>Uncle Poo</name>
 		<desc>A one or two player funny maze game. Help the hilarious old man named literally "uncle poo" to escape from maze and collecting all the treasure items, defeat the animal enemies using flatulence and advancing fast using roller skates to avoiding the inundation advance to go to the next level!</desc>
@@ -30579,19 +30408,6 @@ The player can move their skier left or right, and can press buttons to either s
 		<developer>ABM Games</developer>
 		<publisher>ABM Games</publisher>
 		<genre>Puzzle-Game-Puzzle-Game / Throw</genre>
-	</game>
-	<game>
-		<path>./wb3.zip</path>
-		<name>Wonder Boy III - Monster Lair</name>
-		<desc>Strange enemies are attacking your lands and have advanced weapons that they use to destroy everything, so you must take either the awesome Leo or the incredible Princess Purapril on a cool mission to fight these invaders to snatch their weapons and save your lands from total destruction. In the brilliant Wonder Boy III - Monster Lair you must fight the colourful and crazy creatures and defeat them all to save the land!</desc>
-		<image>./mixart/wb3.png</image>
-		<video>./snap/wb3.mp4</video>
-		<marquee>./wheel/wb3.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19880101T000000</releasedate>
-		<publisher>Sega</publisher>
-		<genre>Platform-Plateform / Shooter Scrolling</genre>
-		<players>2</players>
 	</game>
 	<game>
 		<path>./wbmlvc.zip</path>
@@ -31887,23 +31703,6 @@ The stages in Star Force are designated by letters of the Greek alphabet and eac
 		<region>us</region>
 	</game>
 	<game>
-		<path>./crkdown.zip</path>
-		<name>Crack Down</name>
-		<desc>A futuristic city has been over-taken by a powerful, bio-mechanical army; created by an evil scientist in a bid to take over the world. 2 elite agents must plant a series of time bombs to destroy their base and crush the rebellion.
-
-The 1- or 2-player shoot-em-up action is displayed via an innovative split screen that allows 2 players to work either individually or as a team. A timer countdown timers adds to the tension. Time bombs must be set by running over areas marked with an 'X'; while machine guns and cannons can be reloaded by finding the ammo caches that appear on each level. If ammo runs out, players must result to punching and kicking to defeat opponents.</desc>
-		<image>./mixart/crkdown.png</image>
-		<video>./snap/crkdown.mp4</video>
-		<marquee>./wheel/crkdown.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action / Labyrinth-Shooter Large-Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./scobra.zip</path>
 		<name>Super Cobra</name>
 		<desc>Super Cobra © 1981 Konami.
@@ -33081,6 +32880,27 @@ The game consists of 6 levels, each representing a scene from the movie. Defeate
 		<region>us</region>
 	</game>
 	<game>
+		<path>./blstroid.zip</path>
+		<name>Blasteroids</name>
+		<desc>Blasteroids is a 1 or 2-player update of Atari's seminal "Asteroids", where the object of the game is to clear all sectors of the asteroids and enemy ships. Once this task is completed, the player goes on to battle Mukor - the "boss" asteroid who rules all galaxies - and destroy him.
+
+The player's ship appears first in the center of four vortices, he or she must chose which vortex they wish to enter, which then transports them to a sector of their chosen star system.
+
+Unlike in "Asteroids", the player ship has a finite amount of fuel which must be replenished as often as possible. This is achieved by destroying specifically-colored asteroids which turn into collectible crystals. Not all sectors contain the crystal-bearing asteroids, however, and if the player runs out of fuel, a ship is lost. The game contains three different ship configurations and the player can switch between them at any time during a level. The three configurations are: Speeder (small and fast, but weak), Fighter (medium speed and strength) and Warrior (large and strong but very slow).</desc>
+		<image>./mixart/blstroid.png</image>
+		<video>./snap/blstroid.mp4</video>
+		<marquee>./wheel/blstroid.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
 		<path>./aztarac.zip</path>
 		<name>Aztarac</name>
 		<desc>The actual game has you piloting a little space tank. The tank and its turret are controlled independently, which allows you to move in one direction while shooting in another. Your mission is to guard various space outposts from hordes of incoming enemy ships. Each level will have several outposts all clustered together in the center. If an enemy ship touches an outpost, then the outpost is destroyed. You can activate a long range scanner by using your second button. This allows you to locate enemies before they get close, that way you can fly off and get them before they even have a shot at the outposts.</desc>
@@ -33094,9 +32914,94 @@ The game consists of 6 levels, each representing a scene from the movie. Defeate
 		<genre>Shooter</genre>
 		<players>2</players>
 		<favorite>true</favorite>
-		<playcount>2</playcount>
-		<lastplayed>20201231T133840</lastplayed>
-		<gametime>88</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./cluckypo.zip</path>
+		<name>Lucky Poker (DECO Cassette)</name>
+		<desc>A poker game from Data East.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/cluckypo.png</image>
+		<video>./snap/cluckypo.mp4</video>
+		<marquee>./wheel/cluckypo.png</marquee>
+		<rating>0.4</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Casino/Cards</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./godzilla.zip</path>
+		<name>Godzilla</name>
+		<desc>Godzilla (Gojira) is an arcade game developed by Banpresto and released to Japanese arcades in 1993. Have two modes, Story Mode and Versus Mode (mode where one can play against friends or alone).</desc>
+		<image>./mixart/godzilla.png</image>
+		<video>./snap/godzilla.mp4</video>
+		<marquee>./wheel/godzilla.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Banpresto</developer>
+		<publisher>Banpresto</publisher>
+		<genre>Action/Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./btoads.zip</path>
+		<name>Battletoads</name>
+		<desc>Battletoads is a (mostly) horizontally-scrolling beat-em-up in which up to three players take on the roles of Rash, Pimple, or Zitz and must punch and kick their way through six enemy-infested stages to save their alternate universe from the Dark Queen.
+
+The Toads each vary in fighting style: Rash is nimble, Pimple is burly and strong, and Zitz is a balance of the two. Each Toad also has its own signature exaggerated power and attack, in which their limbs turn into objects such as axes and drills.
+
+In a visually unique twist, the Toads can knock the game's enemies 'off-screen' so that they appear to fly towards the players, breaking the fourth wall. Enemies include aliens, mutant rodents and snowmen.
+
+The game's stages, in addition to having their own unique visual theme, often differ in gameplay style. Some levels are Double Dragon-style 2.5D brawlers, while others are strictly two-dimensional, platform-like stages. In one level, the Toads wear jet-packs and descend a tunnel and in the final level, the Toads shoot enemies from a vehicle.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/btoads.png</image>
+		<video>./snap/btoads.mp4</video>
+		<marquee>./wheel/btoads.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Fight-Fight / 2.5D</genre>
+		<players>3</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./cphd.zip</path>
+		<name>'H'Crouching Pony Hidden Dragon</name>
+		<desc>CPHD is a homebrew - A pedestrian shooter mixed with RPG features exclusive for the Neo-Geo. Collect money and experience to evolve your weapons and equipments. Confront hordes of ninjas, shaolins, geishas... into intense fight to earn your immortality.</desc>
+		<image>./mixart/cphd.png</image>
+		<video>./snap/cphd.mp4</video>
+		<marquee>./wheel/cphd.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20140714T000000</releasedate>
+		<developer>Le Cortex</developer>
+		<publisher>Neko Interactive</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./88games.zip</path>
+		<name>'88 Games</name>
+		<desc>Konami '88 (also known as '88 Games or Hyper Sports Special) is the third in the Track &amp; Field game series by Konami, where you test your Olympic skills against other world-class athletes. As the name implies, it is loosely based on (and not licensed by) the 1988 Summer Olympics in Seoul, South Korea. Bronze or silver medals are not good enough - you have to go for the gold to get to the next event. However, you must at least qualify in each event in order to compete in the next event.</desc>
+		<image>./mixart/88games.png</image>
+		<video>./snap/88games.mp4</video>
+		<marquee>./wheel/88games.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports-Sports / Running trails</genre>
+		<players>2</players>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
@@ -33121,61 +33026,148 @@ An abstract, oriental-looking face occasionally forms part of a level's platform
 		<publisher>Gaelco</publisher>
 		<genre>Platform-Plateform / Shooter Scrolling</genre>
 		<favorite>true</favorite>
-		<playcount>1</playcount>
-		<lastplayed>20201231T134113</lastplayed>
-		<gametime>28</gametime>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 	<game>
-		<path>./blstroid.zip</path>
-		<name>Blasteroids</name>
-		<desc>Blasteroids is a 1 or 2-player update of Atari's seminal "Asteroids", where the object of the game is to clear all sectors of the asteroids and enemy ships. Once this task is completed, the player goes on to battle Mukor - the "boss" asteroid who rules all galaxies - and destroy him.
+		<path>./crkdown.zip</path>
+		<name>Crack Down</name>
+		<desc>A futuristic city has been over-taken by a powerful, bio-mechanical army; created by an evil scientist in a bid to take over the world. 2 elite agents must plant a series of time bombs to destroy their base and crush the rebellion.
 
-The player's ship appears first in the center of four vortices, he or she must chose which vortex they wish to enter, which then transports them to a sector of their chosen star system.
-
-Unlike in "Asteroids", the player ship has a finite amount of fuel which must be replenished as often as possible. This is achieved by destroying specifically-colored asteroids which turn into collectible crystals. Not all sectors contain the crystal-bearing asteroids, however, and if the player runs out of fuel, a ship is lost. The game contains three different ship configurations and the player can switch between them at any time during a level. The three configurations are: Speeder (small and fast, but weak), Fighter (medium speed and strength) and Warrior (large and strong but very slow).</desc>
-		<image>./mixart/blstroid.png</image>
-		<video>./snap/blstroid.mp4</video>
-		<marquee>./wheel/blstroid.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Shooter</genre>
+The 1- or 2-player shoot-em-up action is displayed via an innovative split screen that allows 2 players to work either individually or as a team. A timer countdown timers adds to the tension. Time bombs must be set by running over areas marked with an 'X'; while machine guns and cannons can be reloaded by finding the ammo caches that appear on each level. If ammo runs out, players must result to punching and kicking to defeat opponents.</desc>
+		<image>./mixart/crkdown.png</image>
+		<video>./snap/crkdown.mp4</video>
+		<marquee>./wheel/crkdown.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action / Labyrinth-Shooter Large-Action</genre>
 		<players>2</players>
 		<favorite>true</favorite>
-		<playcount>1</playcount>
-		<lastplayed>20201231T134247</lastplayed>
-		<gametime>68</gametime>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
 	<game>
-		<path>./btoads.zip</path>
-		<name>Battletoads</name>
-		<desc>Battletoads is a (mostly) horizontally-scrolling beat-em-up in which up to three players take on the roles of Rash, Pimple, or Zitz and must punch and kick their way through six enemy-infested stages to save their alternate universe from the Dark Queen.
+		<path>./eprom.zip</path>
+		<name>Escape from the Planet of the Robot Monsters</name>
+		<desc>Escape From The Planet of the Robot Monsters © 1989 Atari Games Corp.
 
-The Toads each vary in fighting style: Rash is nimble, Pimple is burly and strong, and Zitz is a balance of the two. Each Toad also has its own signature exaggerated power and attack, in which their limbs turn into objects such as axes and drills.
+Escape From The Planet Of The Robot Monsters is a one or two-player game in which the players must rescue Dr. Sarah Bellum from Planet X, where her research facility has been taken over by the evil Reptilons. The game is played from an isometric perspective where players control their avatars using Hall effect joysticks. The Hall effect is the production of a voltage difference (the Hall voltage) across an electrical conductor, transverse to an electric current in the conductor and a magnetic field perpendicular to the current. It was discovered by Edwin Hall in 1879.
 
-In a visually unique twist, the Toads can knock the game's enemies 'off-screen' so that they appear to fly towards the players, breaking the fourth wall. Enemies include aliens, mutant rodents and snowmen.
+The player must shoot their way through a series of simple maze-like levels, releasing the human hostages along the way. Levers must be found and thrown to activate the escalators which allow access to new areas. Gems can be collected to increase the power of the player's ray gun, and food lockers may be broken into for a health boost.
 
-The game's stages, in addition to having their own unique visual theme, often differ in gameplay style. Some levels are Double Dragon-style 2.5D brawlers, while others are strictly two-dimensional, platform-like stages. In one level, the Toads wear jet-packs and descend a tunnel and in the final level, the Toads shoot enemies from a vehicle.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/btoads.png</image>
-		<video>./snap/btoads.mp4</video>
-		<marquee>./wheel/btoads.png</marquee>
+At the end of each level the play switches to an isometric auto-scrolling sequence in which the player controls his character in a small spaceship, and must steer left or right to navigate through a maze of obstacles. If the player reaches the end of this sequence they will progress to the next level.</desc>
+		<image>./mixart/eprom.png</image>
+		<video>./snap/eprom.mp4</video>
+		<marquee>./wheel/eprom.png</marquee>
 		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Rare</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Fight-Fight / 2.5D</genre>
-		<players>3</players>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action / Labyrinth-Shooter Large-Action</genre>
+		<players>2</players>
 		<favorite>true</favorite>
-		<playcount>2</playcount>
-		<lastplayed>20201231T133956</lastplayed>
-		<gametime>54</gametime>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./gnbarich.zip</path>
+		<name>Gunbarich</name>
+		<desc>Gunbarich (c) 2001 Psikyo.  - TECHNICAL -  Main CPU : SH-2 (@ 28.63635 Mhz) Sound Chips : YMF278B (@ 28.63635 Mhz)  Players : 2 Control : 8-way joystick Buttons : 3  - TRIVIA -  Released in June 2001.  Psikyo's Gunbarich is a spin-off of "Gunbird" featuri</desc>
+		<image>./mixart/gnbarich.png</image>
+		<video>./snap/gnbarich.mp4</video>
+		<marquee>./wheel/gnbarich.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Psikyo</publisher>
+		<genre>Action-Action / Breakout games</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./gunmast.zip</path>
+		<name>Gun Master</name>
+		<image>./mixart/gunmast.png</image>
+		<video>./snap/gunmast.mp4</video>
+		<marquee>./wheel/gunmast.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Metro</developer>
+		<publisher>Metro</publisher>
+		<genre>Fight-Fight /  Co-op</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./spacegun.zip</path>
+		<name>Space Gun</name>
+		<desc>As a member of a special Search And Rescue unit. you (and an optional friend) are told to investigate an S.O.S. distress signal that was sent from a space station. what you don't know is that a group of vicious aliens have taken the colonists hostage. luckily for you, you're armed with a plasma pulse gun and four sets of grenades that are quite special (aside from the common grenade that explodes, some will freeze, incinerate, and even slice and dice the aliens).</desc>
+		<image>./mixart/spacegun.png</image>
+		<video>./snap/spacegun.mp4</video>
+		<marquee>./wheel/spacegun.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shooter-Lightgun Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./term2.zip</path>
+		<name>Terminator 2 - Judgment Day</name>
+		<desc>Help to John connor future leader of the human resistance against the machines and his valiant mother Sarah Connor to be avoid being killed by a prototype robot from Skynet the T-1000 sent from the future composed of a "mimetic poly-alloy" but soon a unexpected savior an reprogrammed T-800 Terminator, will come from the future to help and stop together the judgment day.
+
+Hasta La Vista, Baby!</desc>
+		<emulator>libretro</emulator>
+		<core>mame2016</core>
+		<image>./mixart/term2.png</image>
+		<video>./snap/term2.mp4</video>
+		<marquee>./wheel/term2.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Shooter-Lightgun Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./theglad.zip</path>
+		<name>Gladiator / Road of the Sword / Shen Jian, The</name>
+		<desc>The cursed Sacred Sword appeared once again, took lives of hundreds people. Two prominent families were killed, just because they possessed it. Behind these entire massacres more mysteries were secretly hidden, the rumors said perhaps even the government seemed to take part of it. Chu Xing Han, San Kuan Ging and Wu Ping decided to revenge. Chu is good friend and partner Greg Tien Ray also wanted to help them. Mysterious woman Huang Her decided to kill her own father for committing all these crimes. Wu-Lin Sword master's disciple Siong Chien Chien had an eye on the power of the sword and determined to seize the object.
+
+The conflict in Wu-Lin seemed to trigger at any moment, unconsciously all sword masters were falling into a sophisticated conspiracy designed by Yuen Dynasty Government and...</desc>
+		<image>./mixart/theglad.png</image>
+		<video>./snap/theglad.mp4</video>
+		<marquee>./wheel/theglad.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fight / 2.5D-Fight</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./umk3.zip</path>
+		<name>Ultimate Mortal Kombat 3</name>
+		<desc>An update of "Mortal Kombat 3", with new characters added to the original MK3 cast. There are lots of other additions and goodies in the game (see Updates section (REV. 1.0)).</desc>
+		<image>./mixart/umk3.png</image>
+		<video>./snap/umk3.mp4</video>
+		<marquee>./wheel/umk3.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>8</players>
 	</game>
 	<game>
 		<path>./astdelux.zip</path>
@@ -33207,10 +33199,108 @@ As an emergency maneuver, a player can press the Shields button. An octagon will
 		<genre>Action</genre>
 		<players>2</players>
 		<favorite>true</favorite>
-		<playcount>3</playcount>
-		<lastplayed>20201231T180304</lastplayed>
-		<gametime>66</gametime>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./wb3.zip</path>
+		<name>Wonder Boy III - Monster Lair</name>
+		<desc>Strange enemies are attacking your lands and have advanced weapons that they use to destroy everything, so you must take either the awesome Leo or the incredible Princess Purapril on a cool mission to fight these invaders to snatch their weapons and save your lands from total destruction. In the brilliant Wonder Boy III - Monster Lair you must fight the colourful and crazy creatures and defeat them all to save the land!</desc>
+		<image>./mixart/wb3.png</image>
+		<video>./snap/wb3.mp4</video>
+		<marquee>./wheel/wb3.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19880101T000000</releasedate>
+		<publisher>Sega</publisher>
+		<genre>Platform-Plateform / Shooter Scrolling</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./swa.zip</path>
+		<name>Star Wars Arcade</name>
+		<desc>Star Wars Arcade is a superb 3-D shoot-em-up for one or two players, based on the legendary 1977 movie of the same name. In the two player game, one player takes on the role of the pilot, who controls both the speed and direction of the fighter ship, and who can only shoot at the centre of the screen. The second other player takes on the role of the 'gunner' and can target a much larger area on-screen.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2016</core>
+		<image>./mixart/swa.png</image>
+		<video>./snap/swa.mp4</video>
+		<marquee>./wheel/swa.png</marquee>
+		<rating>1</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / Plane, 1st person</genre>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>b06e1037d2e3f3f33b4b6a3dba3cb6de</md5>
+	</game>
+	<game>
+		<path>./vf.zip</path>
+		<name>Virtua Fighter</name>
+		<desc>In this 3-D fighting game, the game's battle system is simple, yet complex. There are 3 buttons: Punch, Kick and Guard. Movement is strictly confined to a horizontal plane.    Battles are won by draining the energy bar of your opponent or by pushing your opponent off the edges of the ring (known as a 'Ring-out').</desc>
+		<emulator>libretro</emulator>
+		<core>mame2016</core>
+		<image>./mixart/vf.png</image>
+		<video>./snap/vf.mp4</video>
+		<marquee>./wheel/vf.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./vformula.zip</path>
+		<name>Virtua Formula</name>
+		<desc>Virtua Formula (バーチャフォーミュラ) is an expanded version of the 1992 Sega Model 1 arcade game Virtua Racing, designed as a medium-scale attraction for theme parks and family entertainment centers..</desc>
+		<emulator>libretro</emulator>
+		<core>mame2016</core>
+		<image>./mixart/vformula.png</image>
+		<video>./snap/vformula.mp4</video>
+		<marquee>./images/vformula.png</marquee>
+		<rating>1</rating>
+		<releasedate>19921030T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 1st Pers. view</genre>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>cc40a2587dc79b0c45193cbfc256fc78</md5>
+	</game>
+	<game id="43982" source="ScreenScraper.fr">
+		<path>./vr.zip</path>
+		<name>Virtua Racing</name>
+		<desc>Virtua Racing or V.R. for short, is a Formula One racing arcade game, developed by Sega AM2 and released in 1992. Virtua Racing was initially a proof-of-concept application for exercising a new 3D-graphics platform under development, the "Model 1".</desc>
+		<emulator>libretro</emulator>
+		<core>mame2016</core>
+		<image>./mixart/vr.png</image>
+		<video>./snap/vr.mp4</video>
+		<marquee>./wheel/vr.png</marquee>
+		<rating>1.0</rating>
+		<releasedate>19920110T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving-Race 1st Pers. view</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./wingwaru.zip</path>
+		<name>Wing War</name>
+		<desc>Wing War is a flight/combat simulation. The object of the game is by where the players fight head-to-head in airplanes trying to shoot the other players out of the sky.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2016</core>
+		<image>./mixart/wingwaru.png</image>
+		<video>./snap/wingwaru.mp4</video>
+		<marquee>./wheel/wingwaru.png</marquee>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter-Shooter / Plane, 1st person</genre>
+		<favorite>true</favorite>
 	</game>
 </gameList>

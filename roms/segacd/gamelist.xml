@@ -3012,9 +3012,6 @@ Night Trap was the very first game that used the FMV (full-motion video) technol
 		<developer>ICOM Simulations</developer>
 		<publisher>Sega</publisher>
 		<genre>Action</genre>
-		<playcount>1</playcount>
-		<lastplayed>20201231T142900</lastplayed>
-		<gametime>16</gametime>
 	</game>
 	<game>
 		<path>./Demolition Man (USA).chd</path>
@@ -3033,9 +3030,6 @@ The Sega CD version of the game retains identical levels and gameplay, but adds 
 		<publisher>Acclaim Entertainment</publisher>
 		<genre>Action</genre>
 		<favorite>true</favorite>
-		<playcount>5</playcount>
-		<lastplayed>20201231T180547</lastplayed>
-		<gametime>87</gametime>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
@@ -3058,7 +3052,5 @@ Between levels, the game shows small digitized clips from the film that advance 
 		<publisher>Virgin</publisher>
 		<genre>Action</genre>
 		<favorite>true</favorite>
-		<playcount>1</playcount>
-		<lastplayed>20201231T180556</lastplayed>
 	</game>
 </gameList>
