@@ -12,7 +12,7 @@ set ENC=V:\_tools\ffmpeg\ffmpeg.exe
 set TMPFILE=V:\temp.mp4
 set LOGFILE=V:\videosnaps_log.txt
 del /q %LOGFILE%
-cd V:\roms
+cd V:\RetroBat\roms
 FOR /R %%I IN (snap\*.mp4) DO (
 ECHO %%I
 %ENC% -y -i "%%I" -c copy %TMPFILE% -loglevel error 2>> %LOGFILE%  
