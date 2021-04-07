@@ -3048,4 +3048,60 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<genre>Action, Platform-RPG</genre>
 		<players>1</players>
 	</game>
+	<game>
+		<path>./Death's Gambit.lnk</path>
+		<name>Death's Gambit</name>
+		<desc>Death's Gambit is a challenging 2D action platformer with deep RPG elements. As an agent of Death bound to his service, unravel the mystery of Siradon and discover the true price of immortality. The promise of immortality lies at the heart of Siradon. As Death's right hand, challenge the undying guardians of the realm and endure the eternal struggle to purge their souls. But what reward awaits a faithful servant of Death? Death's Gambit is a hardcore 2D action platformer with rich RPG elements. Master the precise combat, utilizing a wide variety of weapons and abilities to confront the horrors that lurk deep within Siradon. Explore a mysterious and unforgiving world to uncover the true price of immortality. Embrace the challenge of being an agent of Death. Expansive World - Travel across the beautifully rendered Obsidian Vale, Witch Woods, Sanguine City, and more. Meet quirky characters from all walks of life, and uncover their narrative threads and secrets.</desc>
+		<image>./mixart/Death's Gambit.jpg</image>
+		<video>./snap/Death's Gambit.mp4</video>
+		<marquee>./wheel/Death's Gambit.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20181201T000000</releasedate>
+		<developer>White Rabbit</developer>
+		<publisher>Adult Swim Games</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Super Pixel Racers.lnk</path>
+		<name>Super Pixel Racers</name>
+		<desc>Super Pixel Racers is a fast-paced arcade racer with top-down 2D pixel graphics and a nostalgic 16-bit soundtrack. The game lets you hop straight into the driver’s seat, but advanced features let players customize their racing experience even further. Your winnings let you purchase new cars of individual driving quality and upgrade schemes, from a pixelated F500 to your very own 16-bit Lancer Evolution. As the game progresses, find out which car suits the different disciplines and yourself best. Some features to look forward to are: Rally Cross: Classic race against up to 7 other drivers Rally: Reach checkpoints on a procedurally generated outdoor track Land Rush: Be in front of the pack when the time ends Takedown: Destroy the other cars Hunt: Chase the target down Drift Show: Score points by drifting Thirteen Unique Racetracks: From desert dunes to the city streets. A host of unique pixel environments set the stage for some truly super pixel racing.</desc>
+		<image>./mixart/Super Pixel Racers.jpg</image>
+		<video>./snap/Super Pixel Racers.mp4</video>
+		<marquee>./wheel/Super Pixel Racers.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20201201T000000</releasedate>
+		<developer>21c.Ducks</developer>
+		<publisher>H2 Interactive</publisher>
+		<genre>Racing</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./10 Second Ninja X.lnk</path>
+		<name>10 Second Ninja X</name>
+		<desc>Ninjas are cool, this is an established fact of the universe. Nazi Robots from space are not cool, they are the complete opposite of cool, and Robot Hitler is out to get you, the world's first ninja. You have 10 seconds to destroy all Nazi Robots in your vicinity. IT. IS. ON. Become the ultimate Ninja and take down Robot Hitler’s automated autocracy in this blisteringly fast platformer. Ready, Steady, Ninja!</desc>
+		<image>./mixart/10 Second Ninja X.jpg</image>
+		<video>./snap/10 Second Ninja X.mp4</video>
+		<marquee>./wheel/10 Second Ninja X.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20141201T000000</releasedate>
+		<developer>GameDesignDan</developer>
+		<publisher>Mastertronic</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Brutal Legend.lnk</path>
+		<name>Brutal Legend</name>
+		<desc>From the mind of Tim Schafer (Psychonauts, Grim Fandango) comes Brütal Legend, the ultimate heavy metal action game starring Jack Black (School of Rock, Tenacious D). You are heavy metal roadie Eddie Riggs, hurled back in time to the mythical Age of Metal when the world was formed and ruled by the power of Rock! Armed with a broadaxe, a guitar, and a big block V8 you set off on an epic quest to assemble an army of headbangers, hot rods, barbarians, demonic dominatrix, and the undead. With the wings of a demon and the power of a Rock God, you must lead humanity in an epic war against its barbaric overlords, and carve your name forever into the Brutal Legend.</desc>
+		<image>./mixart/Brutal Legend.jpg</image>
+		<video>./snap/Brutal Legend.mp4</video>
+		<marquee>./wheel/Brutal Legend.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20131201T000000</releasedate>
+		<developer>Double Fine Productions</developer>
+		<publisher>Double Fine Productions</publisher>
+		<genre>Action, Beat'em Up</genre>
+		<players>1</players>
+	</game>
 </gameList>
