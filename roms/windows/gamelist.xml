@@ -3188,6 +3188,7 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<publisher>Thunder Lotus</publisher>
 		<genre>Action, Adventure</genre>
 		<players>1-4</players>
+		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Shank 2.lnk</path>
@@ -3349,5 +3350,201 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<genre>Racing</genre>
 		<players>1-2</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Lara Croft GO.lnk</path>
+		<name>Lara Croft GO</name>
+		<desc>Lara Croft GO expands the turn-based puzzle gameplay and takes you on an adventure set in a long-forgotten world. Explore the ruins of an ancient civilization, discover hidden secrets and face deadly challenges as you uncover the myth of the Queen of Venom. A never-before-seen take on the iconic franchise featuring challenging gameplay, gorgeous visuals and a mesmerizing soundtrack, all at your fingertips.</desc>
+		<image>./mixart/Lara Croft GO.jpg</image>
+		<video>./snap/Lara Croft GO.mp4</video>
+		<marquee>./wheel/Lara Croft GO.png</marquee>
+		<rating>4</rating>
+		<releasedate>201612T000000</releasedate>
+		<developer>Square Enix Montréal</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Adventure, Puzzle</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Shank.lnk</path>
+		<name>Shank</name>
+		<desc>Shank is the cult-classic revival of the sidescrolling beat-em-up. Play as Shank in an over-the-top grindhouse game, packed to the rim with enemies, bosses, combos, and more by the award-winning team at Klei Entertainment.</desc>
+		<image>./mixart/Shank.jpg</image>
+		<video>./snap/Shank.mp4</video>
+		<marquee>./wheel/Shank.png</marquee>
+		<rating>4.04</rating>
+		<releasedate>201008T000000</releasedate>
+		<developer>Klei Entertainment</developer>
+		<publisher>EA</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Joe Danger.lnk</path>
+		<name>Joe Danger</name>
+		<desc>Can you put the world’s most determined stuntman back into the limelight? Combo, boost and pull ludicrous stunts as Joe attempts to race his way back into the record books in over 100 eye-popping levels. Leap school buses full of screaming kids and pools of ravenous sharks! Dodge spikes and mousetraps! Speed through coin dashes and beat Team Nasty in nip-and-tuck races!</desc>
+		<image>./mixart/Joe Danger.jpg</image>
+		<video>./snap/Joe Danger.mp4</video>
+		<marquee>./wheel/Joe Danger.png</marquee>
+		<rating>3.6</rating>
+		<releasedate>201007T000000</releasedate>
+		<developer>Hello Games</developer>
+		<publisher>Hello Games</publisher>
+		<genre>Platform, Racing</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Bubsy Paws on Fire.lnk</path>
+		<name>Bubsy Paws on Fire</name>
+		<desc>From the developers of the BIT.TRIP series comes Bubsy: Paws on Fire!, the latest and greatest in bobcat-based gaming. Bubsy is back in his greatest adventure yet! Featuring four playable characters with their own unique playstyles, new moves never before seen in a Bubsy title, and over 100 levels and variations, Paws on Fire is a game for Bubsy lovers everywhere!</desc>
+		<image>./mixart/Bubsy Paws on Fire.jpg</image>
+		<video>./snap/Bubsy Paws on Fire.mp4</video>
+		<marquee>./wheel/Bubsy Paws on Fire.png</marquee>
+		<rating>4</rating>
+		<releasedate>201905T000000</releasedate>
+		<developer>Choice Provisions</developer>
+		<publisher>UFO Interactive</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Intrusion 2.lnk</path>
+		<name>Intrusion 2</name>
+		<desc>Intrusion 2 is an action platformer set in a sci-fi environment on a reserve planet occupied by a hostile military corporation conducting forbidden weapon research. Intrusion 2 is inspired by classic 16bit era sidescrollers and focuses on classic fast-paced action combined with modern physics and animation.</desc>
+		<image>./mixart/Intrusion 2.jpg</image>
+		<video>./snap/Intrusion 2.mp4</video>
+		<marquee>./wheel/Intrusion 2.png</marquee>
+		<rating>3.88</rating>
+		<releasedate>201209T000000</releasedate>
+		<developer>VAP Games</developer>
+		<publisher>VAP Games</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./KungFu Strike - The Warriors Rise.lnk</path>
+		<name>KungFu Strike - The Warriors Rise</name>
+		<desc>Taking its inspiration from ancient Chinese tales of revenge and retribution, then adding a dash of over-the-top martial arts and old school arcade fun, Kung Fu Strike features 28 stages of fast-paced combo-based fighting. Blend powerful punches, high kicks and perfectly timed blocks to pull off devastating combos, all thanks to a fluid combat system that turns brawling into an art form.</desc>
+		<image>./mixart/KungFu Strike - The Warriors Rise.jpg</image>
+		<video>./snap/KungFu Strike - The Warriors Rise.mp4</video>
+		<marquee>./wheel/KungFu Strike - The Warriors Rise.png</marquee>
+		<rating>3.83</rating>
+		<releasedate>201207T000000</releasedate>
+		<developer>Qooc Software</developer>
+		<publisher>Digital Tribes</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Voodoo Vince Remastered.lnk</path>
+		<name>Voodoo Vince Remastered</name>
+		<desc>The classic character platformer is back after 13 years and newly remastered! Help Vince run, jump and fight his way through cemeteries, swamps and an evil carnival as he seeks to save his creator Madam Charmaine from the clutches of Kosmo The Inscrutable.</desc>
+		<image>./mixart/Voodoo Vince Remastered.jpg</image>
+		<video>./snap/Voodoo Vince Remastered.mp4</video>
+		<marquee>./wheel/Voodoo Vince Remastered.png</marquee>
+		<rating>3.75</rating>
+		<releasedate>201704T000000</releasedate>
+		<developer>Beep Games, Inc.</developer>
+		<publisher>Beep Games, Inc.</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Far Cry 3 Blood Dragon.lnk</path>
+		<name>Far Cry 3 Blood Dragon</name>
+		<desc>The year is 2007. It is the future. You are Sergeant Rex Colt: Mark IV Cyber Commando. The year is 2007 and Earth has been ravaged by a nuclear war which erupted in the 90s. The east vs. west conflict has raged for generations, and humanity continues to struggle to progress after a disastrous decade. New paths for peace must be found, and the US cyborg army may have found a solution: a powerful bioweapon on a distant island. Your mission is to gather information and figure out what the hell is going on.</desc>
+		<image>./mixart/Far Cry 3 Blood Dragon.jpg</image>
+		<video>./snap/Far Cry 3 Blood Dragon.mp4</video>
+		<marquee>./wheel/Far Cry 3 Blood Dragon.png</marquee>
+		<rating>3.95</rating>
+		<releasedate>201305T000000</releasedate>
+		<developer>Ubisoft Montreal</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Action, Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Fire Pro Wrestling World.lnk</path>
+		<name>Fire Pro Wrestling World</name>
+		<desc>The greatest grappling game returns to take on the world! Customize every aspect of the match, from your wrestler to the ring itself, in your fight for the championship belt.</desc>
+		<image>./mixart/Fire Pro Wrestling World.jpg</image>
+		<video>./snap/Fire Pro Wrestling World.mp4</video>
+		<marquee>./wheel/Fire Pro Wrestling World.png</marquee>
+		<rating>4.62</rating>
+		<releasedate>201712T000000</releasedate>
+		<developer>Spike ChunSoft</developer>
+		<publisher>ZEX Corporation</publisher>
+		<genre>Fighting, Sports</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./RUINER.lnk</path>
+		<name>RUINER</name>
+		<desc>RUINER is a top-down action shooter created in the spirit of cult cyberpunk anime and game classics. RUINER is quick and brutal but sophisticated gameplay, original world with mature storyline and unique visual style.</desc>
+		<image>./mixart/RUINER.jpg</image>
+		<video>./snap/RUINER.mp4</video>
+		<marquee>./wheel/RUINER.png</marquee>
+		<rating>3.89</rating>
+		<releasedate>201709T000000</releasedate>
+		<developer>Reikon Games</developer>
+		<publisher>Devolver Digital</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Toren.lnk</path>
+		<name>Toren</name>
+		<desc>Toren brings poetry to life in an epic journey of growth, discovery and overcoming great hurdles. In Toren players guide Moonchild from birth to coming-of-age as she embarks on a dangerous journey of revelation and transformation. A distinct and unique art style, dark fantasy storytelling, innovative puzzles and beautiful soundtrack combine to make Toren a memorable gaming experience.</desc>
+		<image>./mixart/Toren.jpg</image>
+		<video>./snap/Toren.mp4</video>
+		<marquee>./wheel/Toren.png</marquee>
+		<rating>3.5</rating>
+		<releasedate>201505T000000</releasedate>
+		<developer>Swordtales</developer>
+		<publisher>Versus Evil</publisher>
+		<genre>Adventure, Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./FlatOut 4 - Total Insanity.lnk</path>
+		<name>FlatOut 4 - Total Insanity</name>
+		<desc>FlatOut 4: Total Insanity is a return to the franchise's adrenaline-pumping arcade destruction roots. Featuring an exciting blend of white-knuckle speed and wild out-of-control racing tracks, FlatOut 4 promises an intense death-defying demolition derby game featuring muscle cars, race cars, trucks and even a rocket boosted ice cream van!</desc>
+		<image>./mixart/FlatOut 4 - Total Insanity.jpg</image>
+		<video>./snap/FlatOut 4 - Total Insanity.mp4</video>
+		<marquee>./wheel/FlatOut 4 - Total Insanity.png</marquee>
+		<rating>3.5</rating>
+		<releasedate>201703T000000</releasedate>
+		<developer>Kylotonn Games</developer>
+		<publisher>Big Ben Interactive, Strategy First</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Serious Sam HD - The First Encounter.lnk</path>
+		<name>Serious Sam HD - The First Encounter</name>
+		<desc>Serious Sam HD: The First Encounter is a visually upgraded and fully Steam supported remake version of the original high-adrenaline single-play and 16-player co-operative arcade-action FPS.</desc>
+		<image>./mixart/Serious Sam HD - The First Encounter.jpg</image>
+		<video>./snap/Serious Sam HD - The First Encounter.mp4</video>
+		<marquee>./wheel/Serious Sam HD - The First Encounter.png</marquee>
+		<rating>4</rating>
+		<releasedate>200911T000000</releasedate>
+		<developer>Croteam</developer>
+		<publisher>Majesco Entertainment</publisher>
+		<genre>Shooter</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./SoulCalibur 6.lnk</path>
+		<name>SoulCalibur 6</name>
+		<desc>SOULCALIBUR VI represents the latest entry in the premier weapons-based, head-to-head fighting series and continues the epic struggle of warriors searching for the legendary Soul Swords. Taking place in the 16th century, revisit the events of the original SOULCALIBUR to uncover hidden truths.</desc>
+		<image>./mixart/SoulCalibur 6.jpg</image>
+		<video>./snap/SoulCalibur 6.mp4</video>
+		<marquee>./wheel/SoulCalibur 6.png</marquee>
+		<rating>4.35</rating>
+		<releasedate>201810T000000</releasedate>
+		<developer>Bandai Namco Studios</developer>
+		<publisher>Bandai Namco Entertainment</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
 	</game>
 </gameList>
