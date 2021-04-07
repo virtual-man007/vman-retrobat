@@ -2936,4 +2936,116 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<players>1</players>
 		<favorite>true</favorite>
 	</game>
+	<game>
+		<path>./Xeno Crisis.lnk</path>
+		<name>Xeno Crisis</name>
+		<desc>Xeno Crisis is an arena shooter in which one or two players take control of battle-hardened marines embarking on a deadly mission to confront an alien menace and get home alive! Run and gun your way through thousands of adversaries as you explore the devastated research outpost, searching for survivors, and ultimately facing the origin of the outpost's demise. Outpost 88 is divided into seven distinct areas, each being randomly generated with each play, meaning that your strategy must evolve on the fly if you're to succeed in your mission. Collect dog-tags from vanquished enemies to upgrade your equipment between areas and look out for special weapons which will give you a momentary advantage. +A faithful port of the hit 16 bit game with added extras. +Incredible pixel art from the legendary pixel artist, Henk Nieborg. +Intense FM chiptune soundtrack by Savaged Regime, originally created for the YM2612! +Two difficulty levels and three modes of play. +An arsenal of 10 weapons to master. +Play solo or local co-op with a friend!</desc>
+		<image>./mixart/Xeno Crisis.jpg</image>
+		<video>./snap/Xeno Crisis.mp4</video>
+		<marquee>./wheel/Xeno Crisis.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>Bitmap Bureau</developer>
+		<publisher>Independent</publisher>
+		<genre>Shooter</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./RAD.lnk</path>
+		<name>RAD</name>
+		<desc>RAD is a 3D action rogue-like set in a post-post-apocalyptic world, where humanity has faced armageddon not once, but twice. Playing as a teenage protagonist, you must venture into the Fallow — an ever-changing, radioactive wasteland filled with unknown and unspeakable creatures. But humanity’s future comes at great personal cost, as the deeper you journey into unknown lands, the more you will expose yourself to gnarly toxins which will wreak havoc on your fragile human form. The fate of the world depends on you, your trusty bat, and whatever strange new abilities you gain as the world around you ravages your body — twisting and mutating you into something far less than human, but far more powerful. But forget all that — go grab that sweet bat and help save the world…or what’s remaining of it anyway!</desc>
+		<image>./mixart/RAD.jpg</image>
+		<video>./snap/RAD.mp4</video>
+		<marquee>./wheel/RAD.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>Double Fine Productions</developer>
+		<publisher>Bandai NAMCO</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Transistor.lnk</path>
+		<name>Transistor</name>
+		<desc>Transistor is a sci-fi themed action RPG from the creators of Bastion that invites players to wield an extraordinary weapon of unknown origin as they fight through a stunning futuristic city. The game seamlessly integrates thoughtful strategic planning into a fast-paced action experience, melding responsive gameplay and rich atmospheric storytelling. During the course of the adventure, players will piece together the Transistor's mysteries as they pursue its former owners. Red, a famous singer in a city called Cloudbank, is attacked by the Process, a robotic force commanded by a group called the Camerata. During the clash, she is transported all the way across Cloudbank and comes into possession of the mysterious Transistor- the greatsword-like weapon she was to be assassinated with. The Transistor is buried into the chest of an unnamed man, now slumped over and dead; though his consciousness and voice seems to have been absorbed into the Transistor itself, along with Red's voice. The Camerata continues to track Red and the Transistor down with the Process, wanting the weapon for some yet-unknown cause.</desc>
+		<image>./mixart/Transistor.jpg</image>
+		<video>./snap/Transistor.mp4</video>
+		<marquee>./wheel/Transistor.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20141201T000000</releasedate>
+		<developer>Supergiant Games</developer>
+		<publisher>Supergiant Games</publisher>
+		<genre>Action, RPG</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Halo - Spartan Assault.lnk</path>
+		<name>Halo - Spartan Assault</name>
+		<desc>"Halo: Spartan Assault" is a new top-down action shooter that brings a "Halo" video game to touch-based devices for the first time in franchise history. Developed by 343 Industries in conjunction with Vanguard Games, "Halo: Spartan Assault" provides an accessible, pick-up-and-play experience for fans and newcomers alike. Set between the events of "Halo 3" and "Halo 4," "Halo: Spartan Assault" is a new chapter of the award-winning "Halo" universe that explores the first missions of the Spartan Ops program and dives deeper into the backstory of Human-Covenant wars. Play through the eyes of either Commander Sarah Palmer or Spartan Davis stationed aboard the UNSC Infinity as they fight never-before-seen battles against Covenant forces. With rich storytelling, intuitive controls, and best-in-class action, audio and graphics, "Halo: Spartan Assault" brings the epic scale and action of the "Halo" universe to mobile devices through unrivaled action and intensity.</desc>
+		<image>./mixart/Halo - Spartan Assault.jpg</image>
+		<video>./snap/Halo - Spartan Assault.mp4</video>
+		<marquee>./wheel/Halo - Spartan Assault.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20131201T000000</releasedate>
+		<developer>343 Industries</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./INSIDE.lnk</path>
+		<name>INSIDE</name>
+		<desc>Inside (stylized as INSIDE) is a puzzle-platformer adventure video game developed and published by independent studio Playdead. In the game the player controls a young boy in a monochromatic landscape, solving environmental puzzles while avoiding death in a 3D sidescrolling fashion, thematically and visually similar to Playdead's earlier game Limbo. The game starts with a nameless, red-shirted boy sliding down a rocky incline in a forest. While running through the forest, he encounters forest guards wearing masks, who are either inspecting the forest or are intent on chasing and/or killing the boy. A truck can be seen driving off into the near industrial facility.</desc>
+		<image>./mixart/INSIDE.jpg</image>
+		<video>./snap/INSIDE.mp4</video>
+		<marquee>./wheel/INSIDE.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20161201T000000</releasedate>
+		<developer>Playdead</developer>
+		<publisher>Playdead</publisher>
+		<genre>Adventure, Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Zombie Driver HD.lnk</path>
+		<name>Zombie Driver HD</name>
+		<desc>Insane mix of cars, speed, explosions, blood and zombies! Fight through an epic narrative campaign or test yourself in the Slaughter and Blood Race modes. Engage huge bosses, save survivors, drive crazy vehicles such as a bulldozer, fire truck or even a tank and smash everything in your way. Take part in the Blood Race tournament - chase other cars and take them down without mercy on brutal racing tracks. Jump into the Slaughter mode and survive as long as possible on specially crafted arenas.</desc>
+		<image>./mixart/Zombie Driver HD.jpg</image>
+		<video>./snap/Zombie Driver HD.mp4</video>
+		<marquee>./wheel/Zombie Driver HD.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20121201T000000</releasedate>
+		<developer>Exor Studios</developer>
+		<publisher>Exor Studios</publisher>
+		<genre>Action, Racing</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Rise Of The Argonauts.lnk</path>
+		<name>Rise Of The Argonauts</name>
+		<desc>As the King of Iolcus, Jason had everything—a prosperous kingdom, the respect of his peers, and a beautiful fiancé. When she was killed on their wedding day, he vowed to do anything to restore her life.</desc>
+		<image>./mixart/Rise Of The Argonauts.jpg</image>
+		<video>./snap/Rise Of The Argonauts.mp4</video>
+		<marquee>./wheel/Rise Of The Argonauts.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20081201T000000</releasedate>
+		<developer>Liquid Entertainment</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Role-Playing</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Deadcells.lnk</path>
+		<name>Dead Cells</name>
+		<desc>Dead Cells is a rogue-lite, metroidvania inspired, action-platformer. You'll explore a sprawling, ever-changing castle... assuming you’re able to fight your way past its keepers in 2D souls-lite combat. No checkpoints. Kill, die, learn, repeat. Roguelite? Metroidvania? Roguevania! You grew up with the roguelikes, witnessed the rise of the roguelites and even the birth of the roguelite-lites? We'd now like to present for your consideration our RogueVania, the illegitimate child of a modern Roguelite (Rogue Legacy, Binding of Isaac, Enter the Gungeon, Spelunky, etc.) and an old-school MetroidVania (Castlevania: SotN and its ilk).</desc>
+		<image>./mixart/Deadcells.jpg</image>
+		<video>./snap/Deadcells.mp4</video>
+		<marquee>./wheel/Deadcells.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20181201T000000</releasedate>
+		<developer>Motion Twin</developer>
+		<publisher>Motion Twin</publisher>
+		<genre>Action, Platform-RPG</genre>
+		<players>1</players>
+	</game>
 </gameList>
