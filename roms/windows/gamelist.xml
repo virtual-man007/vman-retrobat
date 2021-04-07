@@ -3366,20 +3366,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Joe Danger.lnk</path>
-		<name>Joe Danger</name>
-		<desc>Can you put the world’s most determined stuntman back into the limelight? Combo, boost and pull ludicrous stunts as Joe attempts to race his way back into the record books in over 100 eye-popping levels. Leap school buses full of screaming kids and pools of ravenous sharks! Dodge spikes and mousetraps! Speed through coin dashes and beat Team Nasty in nip-and-tuck races!</desc>
-		<image>./mixart/Joe Danger.jpg</image>
-		<video>./snap/Joe Danger.mp4</video>
-		<marquee>./wheel/Joe Danger.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>201007T000000</releasedate>
-		<developer>Hello Games</developer>
-		<publisher>Hello Games</publisher>
-		<genre>Platform, Racing</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Bubsy Paws on Fire.lnk</path>
 		<name>Bubsy Paws on Fire</name>
 		<desc>From the developers of the BIT.TRIP series comes Bubsy: Paws on Fire!, the latest and greatest in bobcat-based gaming. Bubsy is back in his greatest adventure yet! Featuring four playable characters with their own unique playstyles, new moves never before seen in a Bubsy title, and over 100 levels and variations, Paws on Fire is a game for Bubsy lovers everywhere!</desc>
@@ -3549,6 +3535,21 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<publisher>Independent</publisher>
 		<genre>Shooter</genre>
 		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Joe Danger.lnk</path>
+		<name>Joe Danger</name>
+		<desc>Can you put the world’s most determined stuntman back into the limelight? Combo, boost and pull ludicrous stunts as Joe attempts to race his way back into the record books in over 100 eye-popping levels. Leap school buses full of screaming kids and pools of ravenous sharks! Dodge spikes and mousetraps! Speed through coin dashes and beat Team Nasty in nip-and-tuck races!</desc>
+		<image>./mixart/Joe Danger.jpg</image>
+		<video>./snap/Joe Danger.mp4</video>
+		<marquee>./wheel/Joe Danger.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>201007T000000</releasedate>
+		<developer>Hello Games</developer>
+		<publisher>Hello Games</publisher>
+		<genre>Platform, Racing</genre>
+		<players>1</players>
 		<favorite>true</favorite>
 	</game>
 </gameList>
