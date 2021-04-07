@@ -3104,4 +3104,117 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<genre>Action, Beat'em Up</genre>
 		<players>1</players>
 	</game>
+	<game>
+		<path>./Dust - An Elysian Tail.lnk</path>
+		<name>Dust - An Elysian Tail</name>
+		<desc>Immerse yourself in a gorgeous hand-painted world on a search for your true identity. As the mysterious warrior, Dust, your action-packed journey will take you from peaceful glades to snowy mountaintops and beyond. At your disposal is the mythical Blade of Ahrah, capable of turning its wielder into an unstoppable force of nature, and the blade's diminutive guardian, Fidget. Battle dozens of enemies at once with an easy-to-learn, difficult-to-master combat system, take on a variety of quests from friendly villagers, discover ancient secrets and powerful upgrades hidden throughout the massive, open world, and uncover the story of an ancient civilization on the brink of extinction as you fight to uncover your own past.</desc>
+		<image>./mixart/Dust - An Elysian Tail.jpg</image>
+		<video>./snap/Dust - An Elysian Tail.mp4</video>
+		<marquee>./wheel/Dust - An Elysian Tail.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20131201T000000</releasedate>
+		<developer>Humble Hearts</developer>
+		<publisher>Humble Hearts</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Bionic Commando Rearmed.lnk</path>
+		<name>Bionic Commando Rearmed</name>
+		<desc>Classic side-scrolling gameplay is reporting back for duty with Bionic Commando Rearmed, a remake of the classic NES game, out now on PC. 20 years after the 8-bit classic was released, Bionic Commando Rearmed recreates the world of the original with a complete "2.5D" visual revamp. Bionic Commando Rearmed preserves the original's mix of swinging and shooting in an intense 2D side-scroller, all to the tune of a brand-new soundtrack based on the classic 8-bit music from the NES masterpiece. But Rearmed is far more than just a remake - it features all-new modes such as the 2-player co-op play, smarter enemy AI, new bionic arm abilities, new weapons, bigger bosses and online rankings.</desc>
+		<image>./mixart/Bionic Commando Rearmed.jpg</image>
+		<video>./snap/Bionic Commando Rearmed.mp4</video>
+		<marquee>./wheel/Bionic Commando Rearmed.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20081201T000000</releasedate>
+		<developer>GRIN AB</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action, Platform</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./SteamWorld - Heist.lnk</path>
+		<name>SteamWorld - Heist</name>
+		<desc>From the makers of SteamWorld Dig: In SteamWorld Heist, you command a steam-driven pirate crew in a series of epic tactical shootouts. It’s turn-based strategy with a twist: You manually aim the guns of your robots, allowing for insane skill shots and bullet-bouncing action! As the captain you will board, loot and shoot your way through enemy spaceships. Overcome the challenges of the vast frontier by upgrading your recruits with unique abilities, weapons – and even stylish hats! KEY FEATURES - Strategy focused on skill rather than chance - Procedurally generated levels - 15-20 hours of playtime, followed by New Game+ - Kind to newcomers, deep and challenging for veterans.</desc>
+		<image>./mixart/SteamWorld - Heist.jpg</image>
+		<video>./snap/SteamWorld - Heist.mp4</video>
+		<marquee>./wheel/SteamWorld - Heist.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>201601T000000</releasedate>
+		<developer>Image Form</developer>
+		<publisher>Image Form</publisher>
+		<genre>Role-Playing, Strategy</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Bastion.lnk</path>
+		<name>Bastion</name>
+		<desc>Bastion is an isometric action/role playing game. It's the story of a city known as Caelondia after it has been destroyed by a disaster called "Calamity". The game follows a silent protagonist known as "The Kid" who tries to create a safe haven (Bastion) with the help of Rucks, who is also the narrator of the game. The kid has to defeat the game's many foes with a variety of melee and ranged weapons and also special skills. The Bastion, which acts as some sort of headquarters in the game, can be upgraded with useful buildings as the player progresses. As the Kid travels through the world, he will discover new weapons, upgrade materials, mementos and fragments. Mementos can be discussed with other characters residing in the Bastion and may reveal more about the world.</desc>
+		<image>./mixart/Bastion.jpg</image>
+		<video>./snap/Bastion.mp4</video>
+		<marquee>./wheel/Bastion.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>201101T000000</releasedate>
+		<developer>Supergiant Games</developer>
+		<publisher>Warner Bros.</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Valfaris Full Metal.lnk</path>
+		<name>Valfaris Full Metal</name>
+		<desc>A heavy metal infused 2D action-platformer and the next game from the team behind Unity Awards finalist, Slain: Back From Hell. Brutal combat. Deadly enemies. Stunning pixel art. Savage soundtrack. Get ready to rip the galaxy a new wormhole! After mysteriously vanishing from galactic charts, the fortress of Valfaris has suddenly reappeared in the orbit of a dying sun. Once a self-contained paradise, the grandiose citadel now plays host to an ever-growing darkness. Therion, a fearless and proud son of Valfaris, returns to his home to uncover the truth of its doomed fate and to challenge the arcane evil at its very heart.</desc>
+		<image>./mixart/Valfaris Full Metal.jpg</image>
+		<video>./snap/Valfaris Full Metal.mp4</video>
+		<marquee>./wheel/Valfaris Full Metal.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>201101T000000</releasedate>
+		<developer>Supergiant Games</developer>
+		<publisher>Warner Bros.</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Sundered Eldritch Edition.lnk</path>
+		<name>Sundered Eldritch Edition</name>
+		<desc>Sundered is a chaotic hand­-drawn metroidvania where you resist or embrace ancient eldritch powers. Confront hordes of terrifying enemies in an ever-changing world inspired by the works of H.P. Lovecraft. Sundered is a challenging and unique take on a classic genre from the creators of Jotun, now with local co-op! You play Eshe, a wanderer in a ruined world, trapped in ever-­changing caverns filled with hordes of terrifying enemies. Harness the power of corrupted relics to defeat gigantic bosses, at the cost of your humanity. Resist or embrace. Sundered: Eldritch Edition includes the Magnate of the Gong update, adding local co-op multiplayer support for up to 4 players, along with new areas and a chaotic battle against the new Magnate of the Gong boss!</desc>
+		<image>./mixart/Sundered Eldritch Edition.jpg</image>
+		<video>./snap/Sundered Eldritch Edition.mp4</video>
+		<marquee>./wheel/Sundered Eldritch Edition.png</marquee>
+		<rating>0.70</rating>
+		<releasedate>201701T000000</releasedate>
+		<developer>Thunder Lotus</developer>
+		<publisher>Thunder Lotus</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1-4</players>
+	</game>
+	<game>
+		<path>./Shank 2.lnk</path>
+		<name>Shank 2</name>
+		<desc>The fan-favorite 2D brawler is back as ex-mob hit man Shank returns to action in Shank 2. With those closest to him under attack, Shank is once again forced on the offensive. Now he must put his trusty arsenal of handguns, shotguns, automatic weapons, chainsaws, machetes, grenades, plus all-new weaponry and moves to use in order to protect those close to him. The original game set a new standard for its visual style and Shank 2 raises the bar. Shank 2 expands on the original game’s amazing combat system to redefine the 2D side-scrolling brawler.</desc>
+		<image>./mixart/Shank 2.jpg</image>
+		<video>./snap/Shank 2.mp4</video>
+		<marquee>./wheel/Shank 2.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>201201T000000</releasedate>
+		<developer>Klei Entertainment</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./TRON RUNr.lnk</path>
+		<name>TRON RUNr</name>
+		<desc>Return to the world of TRON with TRON RUN/r, a new lightning fast, action-adventure runner with a twist! Blaze through dynamic circuits, facing-off against virulent adversaries while taking on all challengers. Pack your loadouts with dozens of combinations of cycles, suits and powerups. Hone your DISC and CYCLE skills on the 32 included levels, then challenge your friends to the grueling STREAM program that throws endless combinations of modes and levels at you until you crash - how long can you survive? The one who outlasts all tops the leaderboard!</desc>
+		<image>./mixart/TRON RUNr.jpg</image>
+		<video>./snap/TRON RUNr.mp4</video>
+		<marquee>./wheel/TRON RUNr.png</marquee>
+		<rating>0.70</rating>
+		<releasedate>201601T000000</releasedate>
+		<developer>Sanzaru Games</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Action, Racing</genre>
+		<players>1</players>
+	</game>
 </gameList>
