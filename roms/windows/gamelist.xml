@@ -2937,20 +2937,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Xeno Crisis.lnk</path>
-		<name>Xeno Crisis</name>
-		<desc>Xeno Crisis is an arena shooter in which one or two players take control of battle-hardened marines embarking on a deadly mission to confront an alien menace and get home alive! Run and gun your way through thousands of adversaries as you explore the devastated research outpost, searching for survivors, and ultimately facing the origin of the outpost's demise. Outpost 88 is divided into seven distinct areas, each being randomly generated with each play, meaning that your strategy must evolve on the fly if you're to succeed in your mission. Collect dog-tags from vanquished enemies to upgrade your equipment between areas and look out for special weapons which will give you a momentary advantage. +A faithful port of the hit 16 bit game with added extras. +Incredible pixel art from the legendary pixel artist, Henk Nieborg. +Intense FM chiptune soundtrack by Savaged Regime, originally created for the YM2612! +Two difficulty levels and three modes of play. +An arsenal of 10 weapons to master. +Play solo or local co-op with a friend!</desc>
-		<image>./mixart/Xeno Crisis.jpg</image>
-		<video>./snap/Xeno Crisis.mp4</video>
-		<marquee>./wheel/Xeno Crisis.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20191201T000000</releasedate>
-		<developer>Bitmap Bureau</developer>
-		<publisher>Independent</publisher>
-		<genre>Shooter</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./RAD.lnk</path>
 		<name>RAD</name>
 		<desc>RAD is a 3D action rogue-like set in a post-post-apocalyptic world, where humanity has faced armageddon not once, but twice. Playing as a teenage protagonist, you must venture into the Fallow — an ever-changing, radioactive wasteland filled with unknown and unspeakable creatures. But humanity’s future comes at great personal cost, as the deeper you journey into unknown lands, the more you will expose yourself to gnarly toxins which will wreak havoc on your fragile human form. The fate of the world depends on you, your trusty bat, and whatever strange new abilities you gain as the world around you ravages your body — twisting and mutating you into something far less than human, but far more powerful. But forget all that — go grab that sweet bat and help save the world…or what’s remaining of it anyway!</desc>
@@ -3265,7 +3251,7 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 	<game>
 		<path>./Blaster Master Zero.lnk</path>
 		<name>Blaster Master Zero</name>
-		<desc>Mutant scum never learn! Blaster Master Zero is a 8-bit style top-down & sideview 2D action-adventure game that hearkens back to the golden age of the NES. This game was created using the original 1988 title "Blaster Master" from Sunsoft as a base, with the addition of new areas and bosses, new gameplay elements such as extra sub-weapons, improved gameplay, a more robust scenario, refined and expanded exploration mechanics, and more. ・On the sideview maps, take control of the battle tank SOPHIA III and explore your surroundings as you search for the entrance to the dungeon where the area's boss lurks. ・Once you find a dungeon entrance, exit SOPHIA III and make your way inside as the hero Jason and take on the mutants that dwell within in top-down mode. ・Defeat the mid-bosses and area bosses to acquire new items, sub-weapons, upgrades to SOPHIA III and Jason's equipment, and new abilities and maneuvers that allow SOPHIA III to access new areas.</desc>
+		<desc>Mutant scum never learn! Blaster Master Zero is a 8-bit style top-down &amp; sideview 2D action-adventure game that hearkens back to the golden age of the NES. This game was created using the original 1988 title "Blaster Master" from Sunsoft as a base, with the addition of new areas and bosses, new gameplay elements such as extra sub-weapons, improved gameplay, a more robust scenario, refined and expanded exploration mechanics, and more. ・On the sideview maps, take control of the battle tank SOPHIA III and explore your surroundings as you search for the entrance to the dungeon where the area's boss lurks. ・Once you find a dungeon entrance, exit SOPHIA III and make your way inside as the hero Jason and take on the mutants that dwell within in top-down mode. ・Defeat the mid-bosses and area bosses to acquire new items, sub-weapons, upgrades to SOPHIA III and Jason's equipment, and new abilities and maneuvers that allow SOPHIA III to access new areas.</desc>
 		<image>./mixart/Blaster Master Zero.jpg</image>
 		<video>./snap/Blaster Master Zero.mp4</video>
 		<marquee>./wheel/Blaster Master Zero.png</marquee>
@@ -3436,20 +3422,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Voodoo Vince Remastered.lnk</path>
-		<name>Voodoo Vince Remastered</name>
-		<desc>The classic character platformer is back after 13 years and newly remastered! Help Vince run, jump and fight his way through cemeteries, swamps and an evil carnival as he seeks to save his creator Madam Charmaine from the clutches of Kosmo The Inscrutable.</desc>
-		<image>./mixart/Voodoo Vince Remastered.jpg</image>
-		<video>./snap/Voodoo Vince Remastered.mp4</video>
-		<marquee>./wheel/Voodoo Vince Remastered.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>201704T000000</releasedate>
-		<developer>Beep Games, Inc.</developer>
-		<publisher>Beep Games, Inc.</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Far Cry 3 Blood Dragon.lnk</path>
 		<name>Far Cry 3 Blood Dragon</name>
 		<desc>The year is 2007. It is the future. You are Sergeant Rex Colt: Mark IV Cyber Commando. The year is 2007 and Earth has been ravaged by a nuclear war which erupted in the 90s. The east vs. west conflict has raged for generations, and humanity continues to struggle to progress after a disastrous decade. New paths for peace must be found, and the US cyborg army may have found a solution: a powerful bioweapon on a distant island. Your mission is to gather information and figure out what the hell is going on.</desc>
@@ -3546,6 +3518,36 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<developer>Bandai Namco Studios</developer>
 		<publisher>Bandai Namco Entertainment</publisher>
 		<genre>Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Voodoo Vince Remastered.lnk</path>
+		<name>Voodoo Vince Remastered</name>
+		<desc>The classic character platformer is back after 13 years and newly remastered! Help Vince run, jump and fight his way through cemeteries, swamps and an evil carnival as he seeks to save his creator Madam Charmaine from the clutches of Kosmo The Inscrutable.</desc>
+		<image>./mixart/Voodoo Vince Remastered.jpg</image>
+		<video>./snap/Voodoo Vince Remastered.mp4</video>
+		<marquee>./wheel/Voodoo Vince Remastered.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>201704T000000</releasedate>
+		<developer>Beep Games, Inc.</developer>
+		<publisher>Beep Games, Inc.</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Xeno Crisis.lnk</path>
+		<name>Xeno Crisis</name>
+		<desc>Xeno Crisis is an arena shooter in which one or two players take control of battle-hardened marines embarking on a deadly mission to confront an alien menace and get home alive! Run and gun your way through thousands of adversaries as you explore the devastated research outpost, searching for survivors, and ultimately facing the origin of the outpost's demise. Outpost 88 is divided into seven distinct areas, each being randomly generated with each play, meaning that your strategy must evolve on the fly if you're to succeed in your mission. Collect dog-tags from vanquished enemies to upgrade your equipment between areas and look out for special weapons which will give you a momentary advantage. +A faithful port of the hit 16 bit game with added extras. +Incredible pixel art from the legendary pixel artist, Henk Nieborg. +Intense FM chiptune soundtrack by Savaged Regime, originally created for the YM2612! +Two difficulty levels and three modes of play. +An arsenal of 10 weapons to master. +Play solo or local co-op with a friend!</desc>
+		<image>./mixart/Xeno Crisis.jpg</image>
+		<video>./snap/Xeno Crisis.mp4</video>
+		<marquee>./wheel/Xeno Crisis.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>Bitmap Bureau</developer>
+		<publisher>Independent</publisher>
+		<genre>Shooter</genre>
 		<players>2</players>
 		<favorite>true</favorite>
 	</game>
