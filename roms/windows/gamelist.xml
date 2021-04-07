@@ -3217,4 +3217,137 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<genre>Action, Racing</genre>
 		<players>1</players>
 	</game>
+	<game>
+		<path>./Axiom Verge.lnk</path>
+		<name>Axiom Verge</name>
+		<desc>Axiom Verge is a retro-styled 2D action game focused on unusual weaponry and exploration of an maze-like, infested world. You play as Trace, a relatively normal (if quirky) guy who suffers a near-fatal injury, after which he wakes up in a strange, unsettling new world that is both high-tech and incredibly ancient. Why is he here? Where are the world's inhabitants? And what is the mysterious force that seems intent on ending his life?</desc>
+		<image>./mixart/Axiom Verge.jpg</image>
+		<video>./snap/Axiom Verge.mp4</video>
+		<marquee>./wheel/Axiom Verge.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>201501T000000</releasedate>
+		<developer>Thomas Happ Games</developer>
+		<publisher>Thomas Happ Games</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Timespinner.lnk</path>
+		<name>Timespinner</name>
+		<desc>Travel back in time to change fate itself, in this beautifully crafted story-driven adventure, inspired by classic 90s action-platformers. Join timekeeper Lunais on her quest for revenge against the empire that killed her family, using time-bending powers to explore a vast, connected world. With her family murdered in front of her and the ancient Timespinner device destroyed, Lunais is suddenly transported into a unknown world, stranded with seemingly no hope of return. Using her power to control time, Lunais vows to take her revenge on the evil Lachiem Empire, but sometimes the course of history isn’t quite as black and white as it seems... Explore an intricate, connected world with beautifully drawn and detailed pixel art environments. Traverse between the barren present and luscious past of Lachiem, collecting elemental magic orbs and combining their power to destroy enemies with blades and spells.</desc>
+		<image>./mixart/Timespinner.jpg</image>
+		<video>./snap/Timespinner.mp4</video>
+		<marquee>./wheel/Timespinner.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>201801T000000</releasedate>
+		<developer>Lunar Ray Games</developer>
+		<publisher>Chucklefish</publisher>
+		<genre>Adventure, Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./River City Ransom - Underground.lnk</path>
+		<name>River City Ransom - Underground</name>
+		<desc>River City Ransom: Underground is a continuation of the quirky beat'em up series. The plot takes place 20 years after the original River City Ransom. Alex and Ryan, retired from their fighting days, are now running an auto repair shop, while the infamous Slick rots in jail. After a mysterious kidnapping jolts the town, the gang of high-schoolers known as "The Flock" is framed for the abduction, but Alex and Ryan figure this has Slick's handiwork all over it. It's up to the player to find out what truly is going on in River City and stop the culprit once and for all. The game is a beat 'em up with a lot of similarities to the original River City Ransom.</desc>
+		<image>./mixart/River City Ransom - Underground.jpg</image>
+		<video>./snap/River City Ransom - Underground.mp4</video>
+		<marquee>./wheel/River City Ransom - Underground.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>201701T000000</releasedate>
+		<developer>Conatus Creative</developer>
+		<publisher>Conatus Creative</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1-4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Blaster Master Zero.lnk</path>
+		<name>Blaster Master Zero</name>
+		<desc>Mutant scum never learn! Blaster Master Zero is a 8-bit style top-down & sideview 2D action-adventure game that hearkens back to the golden age of the NES. This game was created using the original 1988 title "Blaster Master" from Sunsoft as a base, with the addition of new areas and bosses, new gameplay elements such as extra sub-weapons, improved gameplay, a more robust scenario, refined and expanded exploration mechanics, and more. ・On the sideview maps, take control of the battle tank SOPHIA III and explore your surroundings as you search for the entrance to the dungeon where the area's boss lurks. ・Once you find a dungeon entrance, exit SOPHIA III and make your way inside as the hero Jason and take on the mutants that dwell within in top-down mode. ・Defeat the mid-bosses and area bosses to acquire new items, sub-weapons, upgrades to SOPHIA III and Jason's equipment, and new abilities and maneuvers that allow SOPHIA III to access new areas.</desc>
+		<image>./mixart/Blaster Master Zero.jpg</image>
+		<video>./snap/Blaster Master Zero.mp4</video>
+		<marquee>./wheel/Blaster Master Zero.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>201901T000000</releasedate>
+		<developer>Inti Creates</developer>
+		<publisher>Inti Creates</publisher>
+		<genre>Platform, Shooter</genre>
+		<players>1-2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Shakedown Hawaii.lnk</path>
+		<name>Shakedown Hawaii</name>
+		<desc>Shakedown: Hawaii is an open world action-adventure video game developed by Canadian studio Vblank Entertainment. Like its predecessor Retro City Rampage, it is a parody of multiple subjects, including retro games, 1980s pop culture, manipulative business practices, and Grand Theft Auto and similar games. Shakedown: Hawaii was released for Microsoft Windows, Nintendo Switch, PlayStation 4, and PlayStation Vita on May 7, 2019. Shakedown: Hawaii features an open world island with 16-bit style graphics, a top-down perspective, over 200 accessible buildings, and a destructible environment. In addition to a story mode following the three main characters, the player can break away from missions to free-roam the map and extort local businesses, use a variety of weapons to cause chaos, attempt arcade-like challenges and mini-games, purchase real-estate in a market that fluctuates in response, steal cars, or purchase clothing from stores. Combat is similar to Retro City Rampage, and involves using a wide variety of weapons to destroy enemies, vehicles, and property.</desc>
+		<image>./mixart/Shakedown Hawaii.jpg</image>
+		<video>./snap/Shakedown Hawaii.mp4</video>
+		<marquee>./wheel/Shakedown Hawaii.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>201901T000000</releasedate>
+		<developer>Vblank Entertainment</developer>
+		<publisher>Vblank Entertainment</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1-2</players>
+	</game>
+	<game>
+		<path>./Galak-Z.lnk</path>
+		<name>Galak-Z</name>
+		<desc>Brand New features!! The Void DLC offers endless gameplay, Online Leaderboards, and a Daily Challenge that allows players to compete worldwide for the top score. Prepare for the bar to be raised on deep-space 2D dog-fighting! GALAK-Z is a modern, A.I. and physics-driven open-world action game, viewed through the lens of the classic 16-bit space shooter. Powered by the next-generation Cyntient AI platform, GALAK-Z puts players in control of anime-inspired spacecraft inhabiting procedurally generated worlds. In GALAK-Z both stealth and skill are required to defeat truly intelligent enemies. You will be forced to outsmart enemies that think, react and cooperate like seasoned pilots! Master your ship’s sublimely-honed controls as you blast enemies, unleash missile salvos, and even toss your opponents, mech-style, to their explosive demise. Recently added, Arcade Mode lets you replay failed missions any number of times without losing all of your saved progress. Rogue Mode retains GALAK-Z’s original white-knuckle roguelike challenge that harkens back to the 16-bit era of gaming.</desc>
+		<image>./mixart/Galak-Z.jpg</image>
+		<video>./snap/Galak-Z.mp4</video>
+		<marquee>./wheel/Galak-Z.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>201501T000000</releasedate>
+		<developer>17-BIT</developer>
+		<publisher>17-BIT</publisher>
+		<genre>Action, Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Azure Striker Gunvolt.lnk</path>
+		<name>Azure Striker Gunvolt</name>
+		<desc>Azure Striker Gunvolt is a 2D action game featuring the talents of star creator Keiji Inafune as the Executive Producer and Action Supervisor. With the “septimal” power to create and manipulate lightning, Gunvolt faces off against the massive conglomerate known as the Sumeragi Group. Intense battles unfold against Sumeragi's ultra-powerful adepts (those who possess septimal powers) as Gunvolt fights to keep his nation free. SPEEDRUN MODE This new mode gives speedrunners around the world the chance to compete for the best time, with pre-determined settings put in place by the Gunvolt team to maximize efficiency for this challenging new mode. Future updates which will new add features and settings are already planned, so stayed tuned for information about that in the near future. LIGHTNING-BASED ACTION Use your trusty sidearm to tag enemies, then let loose a burst of electricity for massive damage.</desc>
+		<image>./mixart/Azure Striker Gunvolt.jpg</image>
+		<video>./snap/Azure Striker Gunvolt.mp4</video>
+		<marquee>./wheel/Azure Striker Gunvolt.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>201501T000000</releasedate>
+		<developer>Inti Creates</developer>
+		<publisher>Inti Creates</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Titan Quest Anniversary.lnk</path>
+		<name>Titan Quest Anniversary</name>
+		<desc>For its 10 year anniversary, Titan Quest will shine in new splendour. This Anniversary Edition combines both Titan Quest and Titan Quest Immortal Throne in one game, and has been given a massive overhaul for the ultimate ARPG experience. -- Anniversary Edition update -- - Restored and improved multiplayer functionality, including new features like a built-in voice chat and NAT resolving for best multiplayer connectivity - Support for more resolutions, larger camera distance and scaleable UI size - Improved performance and general stability - Support for modders through new modding options and a fully integrated Steam Workshop - Complete balance rework with improvements to all Masteries, damage types, unique items and sets - Countless bug fixes and other improvements, including ten years’ worth of community fixes - Increased challenges and rewards for larger parties and on higher difficulty levels - Dozens of new heroes and bosses to encounter.</desc>
+		<image>./mixart/Titan Quest Anniversary.jpg</image>
+		<video>./snap/Titan Quest Anniversary.mp4</video>
+		<marquee>./wheel/Titan Quest Anniversary.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>201601T000000</releasedate>
+		<developer>THQ Nordic</developer>
+		<publisher>THQ Nortic</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>1-6</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Mantis Burn Racing.lnk</path>
+		<name>Mantis Burn Racing</name>
+		<desc>The race is on in Mantis Burn Racing, where fast-paced bumper-to-bumper racing combines with intuitive, tactile gameplay and stunning visuals in one of the best-looking and most immersive top-down racers around. Drive incredible built-for-racing vehicles across highly detailed, visually stunning tracks, in high-risk, high-speed races where winning is everything. Prove your skills in an extensive career mode and take on friends with 4-player local split-screen racing and online modes for up to 8 players in ‘one-more-go’ style competitive racing. With a RPG-style upgrade system providing players with deep tactical choices and excellent replay-ability, this is racing at its rawest but most exciting!</desc>
+		<image>./mixart/Mantis Burn Racing.jpg</image>
+		<video>./snap/Mantis Burn Racing.mp4</video>
+		<marquee>./wheel/Mantis Burn Racing.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>201601T000000</releasedate>
+		<developer>VooFoo Studios</developer>
+		<publisher>VooFoo Studios</publisher>
+		<genre>Racing</genre>
+		<players>1-2</players>
+		<favorite>true</favorite>
+	</game>
 </gameList>
