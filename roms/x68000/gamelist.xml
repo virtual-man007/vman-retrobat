@@ -1289,5 +1289,7 @@ You can play as a single player or two people, taking turns (Player 2 starts the
 		<publisher>Dempa</publisher>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>jp</lang>
+		<region>jp</region>
 	</game>
 </gameList>

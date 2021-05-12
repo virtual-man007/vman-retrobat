@@ -25088,28 +25088,6 @@ The game also features a 2-player mode where each player takes turns fighting th
 		<video>./snap/Legend of Kage, The (USA).mp4</video>
 		<hidden>false</hidden>
 	</game>
-	<game id="1375" source="ScreenScraper.fr">
-		<path>./Legend of Prince Valiant, The (Europe).zip</path>
-		<name>The Legend of Prince Valiant</name>
-		<sortname>Legend of Prince Valiant</sortname>
-		<desc>The Legend of Prince Valiant is a side-scrolling action game in which the player takes on the role of Prince Valiant. The game is licensed from the television cartoon series of the same name which in turn is based on an older comic series.
-
-As Valiant the player must find Camelot and go on a quest for King Arthur to become a knight. 
-
-In most levels the player just has to move to the right side of the screen to reach the exit of each level. All the while enemies will spawn and attack Valiant. Aside from humans the game also offers its share of mythical creatures that have to be defeated including dragons. The player must also jump over pit traps and water or face death. The player can be hit multiple time and can regenerate health by finding power-ups. To combat the enemies the player can use Valiant's crossbow which shoots in a straight line.
-
-There are two special levels with different controls. In one such level the player can only move his targeting reticule in a first-person on rails shooting segment and in the other 6 cannons can be fired The player can select which cannon fires and how far it should shoot. The goal in these levels is to kill all enemies and avoid receiving damage.</desc>
-		<rating>0.55</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Ocean</developer>
-		<publisher>Ocean</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Legend of Prince Valiant, The (Europe).png</image>
-		<marquee>./wheel/Legend of Prince Valiant, The (Europe).png</marquee>
-		<video>./snap/Legend of Prince Valiant, The (Europe).mp4</video>
-		<hidden>false</hidden>
-	</game>
 	<game id="1487" source="ScreenScraper.fr">
 		<path>./Little Mermaid, The (USA).zip</path>
 		<name>The Little Mermaid</name>
@@ -27326,21 +27304,6 @@ At the end of each stage, you fight a different boss. However, in the end, you m
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Castlevania (USA).zip</path>
-		<name>Castlevania</name>
-		<desc>Every hundred years, the dark vampire known as Dracula resurrects and terrorizes the land. A vampire hunter named Simon Belmont bravely ventures into the Count's mansion in order to defeat him. Along the way he'll have to defeat skeletons, bats, fishmen, medusa heads and other evil creatures.
-
-Castlevania is a side-scrolling platform action game. The player taking the role of Simon Belmont is able to jump and crack his whip directly in front of him. Power-ups can be obtained by defeating enemies or by whipping candles that appear in the castle. One such power-up increases the power and length of Simon's whip.  Different weapons can be gathered which consume hearts when used, these hearts can also be collected from monsters and candles. Additionally, some walls will hide secrets such as the health-restorative turkey or the Double and Triple shot abilities for the weapons Simon has collected. At the end of each section of the castle is a boss, which must be defeated. Progression through the castle eventually leads to a confrontation with Count Dracula himself.</desc>
-		<image>./mixart/Castlevania (USA).png</image>
-		<video>./snap/Castlevania (USA).mp4</video>
-		<marquee>./wheel/Castlevania (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19870501T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./Ghostbusters II (USA).zip</path>
 		<name>Ghostbusters II</name>
 		<desc>Ghostbusters II is a single-player side-scrolling game. Generally, the player controls a ghostbuster as he explores levels based on the film. The character's goal is to make his way to the museum before time runs out. Two levels involve riding around in the heroes' famous car. In another level the player controls the Statue of Liberty, shooting fireballs. The ghostbuster character is armed with unlimited supplies of slime that can be shot out of a cannon and ghost traps.</desc>
@@ -27368,26 +27331,6 @@ You can also collect a variety of weapons to blast your opponents out of the way
 		<developer>Rareware</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Race, Driving</genre>
-	</game>
-	<game>
-		<path>./Nightmare on Elm Street, A (USA).zip</path>
-		<name>A Nightmare on Elm Street</name>
-		<desc>LJN's NES version of the classic horror series casts the player as a teen searching the houses on Elm Street for Freddy Krueger's bones. Once they are all collected, they must be thrown into the high school  furnace to destroy Freddy once and for all (a plot similar to 1987's A Nightmare on Elm Street 3: Dream Warriors).
-
-Nightmare has two worlds. In the red-tinted "real world," players fight snakes and spiders while navigating standard platform challenges. The players here have a "sleep meter" that depletes with every hit taken. If the player's sleep meter drops to empty, the game transitions into the blue-tinted "dream world," where enemies take on the appearance of skeletons and ghosts. An invisible timer also starts, counting down until Freddy appears and forces the player into a brief boss battle. The sleep meter becomes a standard life gauge in the dream world, and deducts a life from the player if drained.
-
-Players can find and collect three different icons in the dream world to become "Dream Warriors" with special powers and projectile attacks - both of which give a significant edge when fighting Freddy. Collecting all the bones in a level takes the player to a final level boss, usually taking the form of a monster with Freddy's face or trademark razor glove. Players move back and forth down Elm Street, and a new house opens up as the previous one is cleared.
-
-Nightmare is compatible with the NES Four Score accessory, allowing up to four players to play at once using the same screen.</desc>
-		<image>./mixart/Nightmare on Elm Street, A (USA).png</image>
-		<video>./snap/Nightmare on Elm Street, A (USA).mp4</video>
-		<marquee>./wheel/Nightmare on Elm Street, A (USA).png</marquee>
-		<rating>0.55</rating>
-		<releasedate>19901002T000000</releasedate>
-		<developer>Rare</developer>
-		<publisher>LJN</publisher>
-		<genre>Action</genre>
-		<players>1-4</players>
 	</game>
 	<game>
 		<path>./Boy and His Blob, A - Trouble on Blobolonia (USA).zip</path>
@@ -27956,34 +27899,6 @@ A notable item about this game is its use of squeaky, comical, digitized voices 
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Legend of Zelda, The (USA).zip</path>
-		<name>The Legend of Zelda</name>
-		<sortname>Legend of Zelda</sortname>
-		<desc>In one of the darkest times in the Kingdom of Hyrule, a young, pointy-eared boy named Link takes on an epic quest to restore the fragmented Triforce of Wisdom and save the Princess Zelda from the clutches of the evil, power-hungry Ganon.
-
-The Legend of Zelda for the NES marks the first action-adventure title of the popular Nintendo series. Players must make their way through the various forests, graveyards, plains, and deserts of the Overworld to find the secret entrances of the eight dungeons in an attempt to piece together the broken Triforce. Once all pieces are joined, Link will be able to gain entry to Death Mountain, home of Ganon, and prison of Princess Zelda.
-
-The game is drawn in a top-down perspective. Link begins his quest in the Overworld, which features forests, mountains and lakes and is divided into several screens. Link can explore the Overworld freely, though when he enters a screen, he will encounter several enemies. He can attack them with his sword. If link is at full health, he can toss his sword to attack enemies from afar, but when he is hurt, even slightly, he can only fight in melee range. 
-
-Link's health is represented by hearts; initially he can have a maximum of three hearts, but as he progresses in the game, he will find heart containers that increase his maximum health. The enemies are varied - some attack from up close, some shoot projectiles. When killed, they often leave behind an item - a heart to restore energy, rupees that function as money (and can be used to buy stuff in various shops in the Overworld), or bombs which can be picked up and set down to attack enemies or destroy some walls. When enemies are killed, they stay dead and will not re-appear once the screen is entered again. 
-
-There are other items to find in the game; some function as weapons, while others are used to solve puzzles. 
-
-To find the Triforce pieces, Link must explore dungeons. Once he finds an entrance to the dungeon and goes in, he must explore the rooms, fight enemies and collect keys until he finds the boss monster he must defeat. He will then be able to pick up a Triforce piece. Once he does so, however, all the monsters in the Overworld come back to life. 
-
-If Link dies on his quest, he can continue it; he will go back to his start position in the Overworld, but with the items he managed to collect so far. When Link finishes his quest, the pl;ayer can choose to play the "2nd quest", which is essentially a harder version of the game. 
-
-The Legend of Zelda is known for several factors that were revolutionary at the time: A full world that could be freely explored, power-ups that would permanently enhance your character's abilities, and a battery back-up save feature that allowed players to retain their progress instead of having to start over. The gameplay balanced out frequent action sequences with discovery, secrets, and exploration.</desc>
-		<image>./mixart/Legend of Zelda, The (USA).png</image>
-		<video>./snap/Legend of Zelda, The (USA).mp4</video>
-		<marquee>./wheel/Legend of Zelda, The (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19870701T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action-Role playing games</genre>
-	</game>
-	<game>
 		<path>./Blaster Master (USA).zip</path>
 		<name>Blaster Master</name>
 		<desc>The classic story of a boy and his frog who runs away, becomes radioactive and jumps into a hole. More importantly however, it's the story about a boy who finds a fully functional battletank, SOFIA the 3rd, and goes adventuring around the underground. His mission... to find new weapons and add-on parts to the battletank which will in turn allow him to explore more areas until eventually he finds that freedom-loving mutant frog. And while he's down there he might as well defeat the Evil Plutonium Boss who wishes to threaten the Earth.</desc>
@@ -28083,19 +27998,6 @@ Due to Mr. Dream being a simple head-swap and recolor of Mike Tyson, Mr. Dream f
 		<genre>Sports-Sports / Boxing</genre>
 	</game>
 	<game>
-		<path>./Rygar (USA).zip</path>
-		<name>Rygar</name>
-		<desc>A hero has arrived to defeat the forces of evil in the land of Argool, and you are this hero. Do you have what it takes? This game was one of the first adventures to hit the NES and the remarkable aspect on top of this was the multiple viewpoints the games offers. When you are in an action zone, the game is a side-scrolling action game; however, then you are travelling between zones, the game takes on an overhead view that can also lead to combat situations.</desc>
-		<image>./mixart/Rygar (USA).png</image>
-		<video>./snap/Rygar (USA).mp4</video>
-		<marquee>./wheel/Rygar (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19870701T000000</releasedate>
-		<developer>Tecmo</developer>
-		<publisher>Tecmo</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./Shatterhand (USA).zip</path>
 		<name>Shatterhand</name>
 		<desc>Shatterhand is an action game with eight-direction scrolling. You control Shatterhand in his quest to find and defeat General Grover, leader of the Metal Command. Through the game youÂ’ll encounter all kinds of mechanical and biomechanical creatures. ShatterhandÂ’s primary weapon is his cybernetic fists and therefore most enemies must be defeated by punching them.
@@ -28154,20 +28056,6 @@ The game has seven stages. The first and the last must be played first and last 
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Pac-Man Championship Edition NES Demake.zip</path>
-		<name>'H'Pac-Man Championship-Edition Demake</name>
-		<desc>Pac-Man CE demastered in 8-bit style! This was extracted from the steam version of Namco Museum Archives Volume 1. This was tested on some emulators and it managed to work perfectly.</desc>
-		<image>./mixart/Pac-Man Championship Edition NES Demake.png</image>
-		<video>./snap/Pac-Man Championship Edition NES Demake.mp4</video>
-		<marquee>./wheel/Pac-Man Championship Edition NES Demake.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20200621</releasedate>
-		<developer>Namcot</developer>
-		<publisher>BNEI</publisher>
-		<genre>Arcade/Hack</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./1943 - The Battle of Midway (USA).zip</path>
 		<name>1943: The Battle of Midway</name>
 		<desc>The sequel to 1942, which is still a vertically scrolling shooter, has the player once again fighting over the clouds during the second world war, this time in an intense battle just off the coast of Midway islands.
@@ -28184,6 +28072,100 @@ Updates to the gameplay include an energy bar, which can be run down by either b
 		<genre>Shoot'em Up</genre>
 	</game>
 	<game>
+		<path>./1942 (Japan, USA).zip</path>
+		<name>1942</name>
+		<desc>A conversion of the arcade game, 1942 is a vertically scrolling shooter for one or two players. The year is 1942, and you are a daring fighter pilot "Super Ace". You begin and end each of the numerous levels on an aircraft carrier and then fly your plane into battle against the enemy over both sea and land. After destroying certain plane formations you can collect several different power ups to increase your fire power and chances of survival.</desc>
+		<image>./mixart/1942 (Japan, USA).png</image>
+		<video>./snap/1942 (Japan, USA).mp4</video>
+		<marquee>./wheel/1942 (Japan, USA).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>19861101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em Up-Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Legend of Prince Valiant, The (Europe).zip</path>
+		<name>The Legend of Prince Valiant</name>
+		<desc>The Legend of Prince Valiant is a side-scrolling action game in which the player takes on the role of Prince Valiant. The game is licensed from the television cartoon series of the same name which in turn is based on an older comic series.
+
+As Valiant the player must find Camelot and go on a quest for King Arthur to become a knight. 
+
+In most levels the player just has to move to the right side of the screen to reach the exit of each level. All the while enemies will spawn and attack Valiant. Aside from humans the game also offers its share of mythical creatures that have to be defeated including dragons. The player must also jump over pit traps and water or face death. The player can be hit multiple time and can regenerate health by finding power-ups. To combat the enemies the player can use Valiant's crossbow which shoots in a straight line.
+
+There are two special levels with different controls. In one such level the player can only move his targeting reticule in a first-person on rails shooting segment and in the other 6 cannons can be fired The player can select which cannon fires and how far it should shoot. The goal in these levels is to kill all enemies and avoid receiving damage.</desc>
+		<image>./mixart/Legend of Prince Valiant, The (Europe).png</image>
+		<video>./snap/Legend of Prince Valiant, The (Europe).mp4</video>
+		<marquee>./wheel/Legend of Prince Valiant, The (Europe).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Nightmare on Elm Street, A (USA).zip</path>
+		<name>A Nightmare on Elm Street</name>
+		<desc>LJN's NES version of the classic horror series casts the player as a teen searching the houses on Elm Street for Freddy Krueger's bones. Once they are all collected, they must be thrown into the high school  furnace to destroy Freddy once and for all (a plot similar to 1987's A Nightmare on Elm Street 3: Dream Warriors).
+
+Nightmare has two worlds. In the red-tinted "real world," players fight snakes and spiders while navigating standard platform challenges. The players here have a "sleep meter" that depletes with every hit taken. If the player's sleep meter drops to empty, the game transitions into the blue-tinted "dream world," where enemies take on the appearance of skeletons and ghosts. An invisible timer also starts, counting down until Freddy appears and forces the player into a brief boss battle. The sleep meter becomes a standard life gauge in the dream world, and deducts a life from the player if drained.
+
+Players can find and collect three different icons in the dream world to become "Dream Warriors" with special powers and projectile attacks - both of which give a significant edge when fighting Freddy. Collecting all the bones in a level takes the player to a final level boss, usually taking the form of a monster with Freddy's face or trademark razor glove. Players move back and forth down Elm Street, and a new house opens up as the previous one is cleared.
+
+Nightmare is compatible with the NES Four Score accessory, allowing up to four players to play at once using the same screen.</desc>
+		<image>./mixart/Nightmare on Elm Street, A (USA).png</image>
+		<video>./snap/Nightmare on Elm Street, A (USA).mp4</video>
+		<marquee>./wheel/Nightmare on Elm Street, A (USA).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>19901002T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>LJN</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The (USA).zip</path>
+		<name>The Legend of Zelda</name>
+		<desc>In one of the darkest times in the Kingdom of Hyrule, a young, pointy-eared boy named Link takes on an epic quest to restore the fragmented Triforce of Wisdom and save the Princess Zelda from the clutches of the evil, power-hungry Ganon.
+
+The Legend of Zelda for the NES marks the first action-adventure title of the popular Nintendo series. Players must make their way through the various forests, graveyards, plains, and deserts of the Overworld to find the secret entrances of the eight dungeons in an attempt to piece together the broken Triforce. Once all pieces are joined, Link will be able to gain entry to Death Mountain, home of Ganon, and prison of Princess Zelda.
+
+The game is drawn in a top-down perspective. Link begins his quest in the Overworld, which features forests, mountains and lakes and is divided into several screens. Link can explore the Overworld freely, though when he enters a screen, he will encounter several enemies. He can attack them with his sword. If link is at full health, he can toss his sword to attack enemies from afar, but when he is hurt, even slightly, he can only fight in melee range. 
+
+Link's health is represented by hearts; initially he can have a maximum of three hearts, but as he progresses in the game, he will find heart containers that increase his maximum health. The enemies are varied - some attack from up close, some shoot projectiles. When killed, they often leave behind an item - a heart to restore energy, rupees that function as money (and can be used to buy stuff in various shops in the Overworld), or bombs which can be picked up and set down to attack enemies or destroy some walls. When enemies are killed, they stay dead and will not re-appear once the screen is entered again. 
+
+There are other items to find in the game; some function as weapons, while others are used to solve puzzles. 
+
+To find the Triforce pieces, Link must explore dungeons. Once he finds an entrance to the dungeon and goes in, he must explore the rooms, fight enemies and collect keys until he finds the boss monster he must defeat. He will then be able to pick up a Triforce piece. Once he does so, however, all the monsters in the Overworld come back to life. 
+
+If Link dies on his quest, he can continue it; he will go back to his start position in the Overworld, but with the items he managed to collect so far. When Link finishes his quest, the pl;ayer can choose to play the "2nd quest", which is essentially a harder version of the game. 
+
+The Legend of Zelda is known for several factors that were revolutionary at the time: A full world that could be freely explored, power-ups that would permanently enhance your character's abilities, and a battery back-up save feature that allowed players to retain their progress instead of having to start over. The gameplay balanced out frequent action sequences with discovery, secrets, and exploration.</desc>
+		<image>./mixart/Legend of Zelda, The (USA).png</image>
+		<video>./snap/Legend of Zelda, The (USA).mp4</video>
+		<marquee>./wheel/Legend of Zelda, The (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19870701T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Role playing games</genre>
+	</game>
+	<game>
+		<path>./Pac-Man Championship Edition NES Demake.zip</path>
+		<name>'H'Pac-Man Championship-Edition Demake</name>
+		<desc>Pac-Man CE demastered in 8-bit style! This was extracted from the steam version of Namco Museum Archives Volume 1. This was tested on some emulators and it managed to work perfectly.</desc>
+		<image>./mixart/Pac-Man Championship Edition NES Demake.png</image>
+		<video>./snap/Pac-Man Championship Edition NES Demake.mp4</video>
+		<marquee>./wheel/Pac-Man Championship Edition NES Demake.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20200621</releasedate>
+		<developer>Namcot</developer>
+		<publisher>BNEI</publisher>
+		<genre>Arcade/Hack</genre>
+		<players>2</players>
+	</game>
+	<game>
 		<path>./Gaplus for NES.zip</path>
 		<name>'H'Gaplus (NES Version)</name>
 		<desc>This archived file is a NES port of Gaplus seen in Namco Museum Archives Volume 2 (Namcot Collection in Japan), directly ripped from the international Steam release. This same game is also on Arcade system.</desc>
@@ -28198,17 +28180,309 @@ Updates to the gameplay include an energy bar, which can be run down by either b
 		<players>2</players>
 	</game>
 	<game>
-		<path>./1942 (Japan, USA).zip</path>
-		<name>1942</name>
-		<desc>A conversion of the arcade game, 1942 is a vertically scrolling shooter for one or two players. The year is 1942, and you are a daring fighter pilot "Super Ace". You begin and end each of the numerous levels on an aircraft carrier and then fly your plane into battle against the enemy over both sea and land. After destroying certain plane formations you can collect several different power ups to increase your fire power and chances of survival.</desc>
-		<image>./mixart/1942 (Japan, USA).png</image>
-		<video>./snap/1942 (Japan, USA).mp4</video>
-		<marquee>./wheel/1942 (Japan, USA).png</marquee>
-		<rating>0.55</rating>
-		<releasedate>19861101T000000</releasedate>
+		<path>./Rygar (USA).zip</path>
+		<name>Rygar</name>
+		<desc>A hero has arrived to defeat the forces of evil in the land of Argool, and you are this hero. Do you have what it takes? This game was one of the first adventures to hit the NES and the remarkable aspect on top of this was the multiple viewpoints the games offers. When you are in an action zone, the game is a side-scrolling action game; however, then you are travelling between zones, the game takes on an overhead view that can also lead to combat situations.</desc>
+		<image>./mixart/Rygar (USA).png</image>
+		<video>./snap/Rygar (USA).mp4</video>
+		<marquee>./wheel/Rygar (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19870701T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./#nes-hd/25th Anniversary Super Mario Bros. (Europe) (Promo, Virtual Console) HD.7z</path>
+		<name>Super Mario Bros. 25th Anniversary HD</name>
+		<desc>The Princess has been kidnapped by the evil Bowser, and it is up to Mario and brother Luigi to save the day.
+
+The first ever platform adventure for the Mario Brothers has the player exploring level after level, with Bowser to contend with as the end of level boss. Power-ups include the Super Mushroom, which increases Mario's size and power, the fire flower, allowing him to shoot fireballs at enemies, and the ever important starman for a short burst of invincibility.
+
+Each level includes a bonus section filled with coins plus a shortcut through the level, plenty of bad buys and obstacles to get past, and an end of level flag, in which the higher the player grabs it, the more points are awarded to them. Certain levels also include warp points, which takes the player to higher levels.</desc>
+		<image>./#nes-hd/mixart/25th Anniversary Super Mario Bros. (Europe) (Promo, Virtual Console).png</image>
+		<video>./#nes-hd/snap/25th Anniversary Super Mario Bros. (Europe) (Promo, Virtual Console).mp4</video>
+		<marquee>./#nes-hd/wheel/25th Anniversary Super Mario Bros. (Europe) (Promo, Virtual Console).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19850913T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./#nes-hd/BattleCity (Japan) HD.7z</path>
+		<name>BattleCity HD</name>
+		<desc>Battle City is a refined version of Namco's old arcade game Tank Battalion. Destroy different enemy tanks, while trying to keep them away from your base. When you have destroyed 20 enemy tanks you advance to the next level with different layout. In each level there's some obstacles which you can use to your advantage. Obstacles include red bricks which you can shoot out of your way, silver bricks which are highly armored, water and ice. You start the game with a basic tank, which you can power up to better one little by little.</desc>
+		<image>./#nes-hd/mixart/BattleCity (Japan).png</image>
+		<video>./#nes-hd/snap/BattleCity (Japan).mp4</video>
+		<marquee>./#nes-hd/wheel/BattleCity (Japan).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19850913T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./#nes-hd/Bomberman (USA) HD.7z</path>
+		<name>Bomberman HD</name>
+		<desc>Bomberman was a robot in a bomb making factory who longed for his freedom. Rumors circulated that escaping to the surface would allow the robot to become human. Getting out would be the trick. Each room is inhabited by monsters that must be neutralized and the exit itself hidden underneath bricks.
+
+The first of the Bomberman series. Bomberman is a single player game with a top down view and simplistic controls. In fact, in addition to movement, you only have a single ability: placing bombs. Each bomb explodes into a cross-shaped blast (4 directions) which can destroy either enemies or blocks. Power-ups may be found to increase the size of the blast, place additional bombs, increase the speed of the Bomberman or to walk through walls. Your goal on each level is to destroy all enemies and escape through the exit before the time limit is up.. Hitting the exit with a bomb blast releases more enemies which must also be destroyed.</desc>
+		<image>./mixart/Bomberman (USA).png</image>
+		<video>./#nes-hd/snap/Bomberman (USA) HD.mp4</video>
+		<marquee>./wheel/Bomberman (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19890102T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./#nes-hd/Donkey Kong Jr. (Japan) HD.7z</path>
+		<name>Donkey Kong Jr. HD</name>
+		<desc>Mario has kidnapped Junior's Papa!
+
+Donkey Kong Jr. was originally released in the arcades in 1982 as a sequel to Donkey Kong.  In this game, Mario plays the antagonist, finally having captured Donkey Kong, and has put the ape in a locked cage.  As Donkey Kong Jr., players will have to make their way through four different levels (Vines, Springboard, Chains and Mario's Hideout) in an attempt to find keys to free the little monkey's Father.
+
+Along the way, Mario will send out Snapjaws, swooping purple birds, and electric sparks in an attempt to stop Junior.  Junior can defend himself by dropping fruit found around the levels on the heads of his foes.  The more foes a piece of fruit hits in a falling sequence, the higher bonus points can be scored.
+
+Junior can also avoid enemies more easily by grabbing hold of two chains or vines at a time to climb away faster, or by jumping over his foes.  However, any long fall or falling into the water on certain levels will mean the loss of a life for Junior.
+
+In the final cut scene, Junior will free Donkey Kong and both will escape after giving Mario the boot.  Once all four levels are cleared, the game levels will start over at a higher difficulty.
+
+Like the original Donkey Kong, the earlier 1980's console versions do not have all of the levels and animations from the arcade.</desc>
+		<image>./mixart/Donkey Kong Jr. (World).png</image>
+		<video>./#nes-hd/snap/Donkey Kong Jr. (Japan).mp4</video>
+		<marquee>./wheel/Donkey Kong Jr. (World).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19830715T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./#nes-hd/Ice Climber (USA, Europe) HD.7z</path>
+		<name>Ice Climber HD</name>
+		<desc>In Ice Climber one or two players need to climb their way to the top of 32 different mountains. Each mountain is broken up into eight levels of platforms along with a bonus stage at the top. Attempting to stop you from making upward progress are different creatures ranging from polar bears to condors as well as treacherous landscapes with falling icicles, moving platforms, and icy floors. To help out, your only weapon is a mallet which can be used to knock out enemies as well as bust away bricks in the platforms to give you some room to jump up to the next level. When you finally reach the top, it's time to move on to the next, more difficult level.</desc>
+		<image>./mixart/Ice Climber (USA, Europe).png</image>
+		<video>./#nes-hd/snap/Ice Climber (USA, Europe).mp4</video>
+		<marquee>./wheel/Ice Climber (USA, Europe).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19851001T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./#nes-hd/Mega Man (USA) HD.7z</path>
+		<name>Mega Man HD</name>
+		<desc>In the future city of Monsteropolis, the use of robot labour has helped civilization grow more than ever before. At the forefront of this technology is Dr. Light and his assistant Dr. Wily, who are commissioned to build six robots to handle a variety of specific tasks. They are named Bombman, Gutsman, Iceman, Cutman, Elecman, and Fireman in reference to their individual prime functions. Dr. Wily, however, has bigger plans and chooses to take control of the robots and let loose destruction in a bid for world control. Dr. Light fights back with the best tool he has, an experimental human-like robot, Rock aka Mega Man, who had been tested to perform cleaning duties. Now properly armed, it's up to Mega Man to take on the maverick robots, fight his way into Dr. Wily's castle, and end this madness.
+
+Mega Man is a side-scrolling platformer. Mega Man has the ability to jump and fire his weapon. He must travel to the levels of the six robot masters and defeat them in combat. By doing so, Mega Man is able to acquire their power for his own. These powers can then be used interchangeably with his main weapon and target the weaknesses of specific enemy bosses. Additionally, some hidden areas of the levels can only be accessed by using certain captured robot weapons. A special  Magnet Beam ability can also be found which can be used to create steps. 
+
+Travelling throughout these levels, Mega Man is confronted by an army of lesser robot creations. Destroying these usually yields energy capsules (for refilling Mega Man's Energy), weapon capsules (for refilling Mega Man's special robot weapons), and extra lives shaped like Mega Man's head.</desc>
+		<image>./mixart/Mega Man (USA).png</image>
+		<video>./#nes-hd/snap/Mega Man (USA) HD.mp4</video>
+		<marquee>./wheel/Mega Man (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19871201T000000</releasedate>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
-		<genre>Shoot'em Up-Action</genre>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./#nes-hd/Ninja Gaiden (USA) HD.7z</path>
+		<name>Ninja Gaiden HD</name>
+		<desc>Ninja Gaiden begins with a cinematic animation in which 2 ninjas duel to the death; one goes down. It is revealed that the doomed ninja is the father of Ryu Hayabusa. When Ryu learns of this, he embarks on a quest to find out who killed his father and why. This quest takes him to America to find an archaeologist with whom Ryu's father was working. From there, Ryu becomes embroiled in an evil, supernatural conspiracy involving a villain named Jaquio who has plans to use an ancient castle and some relics to unleash a terrifying evil upon the world.
+
+Ninja Gaiden is a side scrolling game where Ryu the ninja can run, jump, and slash with his ninja sword. He can also attach to any vertical surface. Powerups are littered throughout the landscape that allow Ryu to toss fireballs and ninja stars, and perform other feats.
+
+Ryu will battle through urban city settings, forests, jungles, snow covered castles, underground railroads, and ancient castles. A major feature in Ninja Gaiden are the cinematic scenes -- sometimes fullscreen -- through which the storyline unfolds.</desc>
+		<image>./mixart/Ninja Gaiden (USA).png</image>
+		<video>./#nes-hd/snap/Ninja Gaiden (USA).mp4</video>
+		<marquee>./wheel/Ninja Gaiden (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19890302T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./#nes-hd/Ninja Gaiden II - The Dark Sword of Chaos (USA) HD.7z</path>
+		<name>Ninja Gaiden II: The Dark Sword of Chaos HD</name>
+		<desc>A year after the events of the original Ninja Gaiden, a new villain named Ashtar receives word of Jaquio's defeat. Ashtar uses this opportunity to hatch a new plan to plunge the world into darkness. The ninja, Ryu Hayabusa, hits the trail to destroy all.</desc>
+		<image>./mixart/Ninja Gaiden II - The Dark Sword of Chaos (USA).png</image>
+		<video>./#nes-hd/snap/Ninja Gaiden II - The Dark Sword of Chaos (USA).mp4</video>
+		<marquee>./wheel/Ninja Gaiden II - The Dark Sword of Chaos (USA).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19900501T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Beat'em Up-Action</genre>
+	</game>
+	<game>
+		<path>./#nes-hd/Nuts and Milk (Japan) HD.7z</path>
+		<name>Nuts and Milk HD</name>
+		<desc>In this Arcade game the gameplay is quite simple, the hero, named "Milk" must get all the fruits in the screen in order to free his girlfriend (don't ask me what's the relation) who is captured inside of a house. Your rival "'Nuts" will try to keep you away from your goal. To obtain the fruit, Milk will climb up ladders and jump onto different platforms. Points are earned by obtaining the fruit, jumping over Nuts and completing the level in the shortest amount of time (obtaining the Bonus score value).</desc>
+		<image>./#nes-hd/mixart/Nuts and Milk (Japan).png</image>
+		<video>./#nes-hd/snap/Nuts and Milk (Japan).mp4</video>
+		<marquee>./#nes-hd/wheel/Nuts and Milk (Japan).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19881001T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Compilation</genre>
 		<players>2</players>
+	</game>
+	<game>
+		<path>./#nes-hd/Pac-Man (USA) (Namco) HD.7z</path>
+		<name>Pac-Man Namco HD</name>
+		<desc>One of the most popular and influential games of the 1980's, Pac-Man stars a little, yellow dot-muncher who works his way around to clear a maze of the various dots and fruit which inhabit the board.
+
+Pac-Man's goal is continually challenged by four ghosts: The shy blue ghost Bashful (Inky), the trailing red ghost Shadow (Blinky), the fast pink ghost Speedy (Pinky), and the forgetful orange ghost Pokey (Clyde).  One touch from any of these ghosts means a loss of life for Pac-Man.
+
+Pac-Man can turn the tables on his pursuers by eating of the four Energizers located within the maze.  During this time, the ghosts turn blue, and Pac-Man can eat them for bonus points.  This only lasts for a limited amount of time, as the ghost's eyes float back to their center box, and regenerate to chase after Pac-Man again.
+
+Survive a few rounds of gameplay, and be treated to humorous intermissions between Pac-Man and the ghosts.</desc>
+		<image>./#nes-hd/mixart/Pac-Man (USA) (Namco).png</image>
+		<video>./#nes-hd/snap/Pac-Man (USA) (Namco).mp4</video>
+		<marquee>./#nes-hd/wheel/Pac-Man (USA) (Namco).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19931102T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./#nes-hd/TwinBee (Japan) HD.7z</path>
+		<name>TwinBee HD</name>
+		<desc>This is mostly the parody of Gradius (Nemesis on some systems), with some flavor from other shoot-em-ups, like Twinbee. The series is available on numerous platforms.
+
+The game is a right-to-left scrolling shoot-em-up. You can choose from 4 different flying creatures, with different weapons. You must finish 7 stages, each having a boss at the end. You may start at either one, but must complete every level to advance to the final stage.</desc>
+		<image>./#nes-hd/mixart/TwinBee (Japan).png</image>
+		<video>./#nes-hd/snap/TwinBee (Japan).mp4</video>
+		<marquee>./#nes-hd/wheel/TwinBee (Japan).png</marquee>
+		<rating>0.45</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./#nes-hd/Kung Fu (Japan, USA) HD.7z</path>
+		<name>Kung Fu HD</name>
+		<desc>You'll need lightning fast reactions to knock out the Knife Thrower, stop the Stick Fighter, and trip up the evil Tom Tom Brothers in this action-packed martial arts contest! Are you sure you're tough enough? Because it'll take all your strength and skill to master the moves in KUNG FU, beat your opponents, and rescue the fair Sylvia who's held captive on the top floor! The action is non-stop, and just when you think you've got your enemies licked there's always a Giant, a Snake, or a fire-breathing Dragon to contend with in KUNG FU!</desc>
+		<image>./mixart/Kung Fu (Japan, USA).png</image>
+		<video>./#nes-hd/snap/Kung Fu (Japan, USA).mp4</video>
+		<marquee>./wheel/Kung Fu (Japan, USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19851002T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./#nes-hd/Legend of Zelda, The (USA) HD.7z</path>
+		<name>The Legend of Zelda HD</name>
+		<desc>In one of the darkest times in the Kingdom of Hyrule, a young, pointy-eared boy named Link takes on an epic quest to restore the fragmented Triforce of Wisdom and save the Princess Zelda from the clutches of the evil, power-hungry Ganon.
+
+The Legend of Zelda for the NES marks the first action-adventure title of the popular Nintendo series. Players must make their way through the various forests, graveyards, plains, and deserts of the Overworld to find the secret entrances of the eight dungeons in an attempt to piece together the broken Triforce. Once all pieces are joined, Link will be able to gain entry to Death Mountain, home of Ganon, and prison of Princess Zelda.
+
+The game is drawn in a top-down perspective. Link begins his quest in the Overworld, which features forests, mountains and lakes and is divided into several screens. Link can explore the Overworld freely, though when he enters a screen, he will encounter several enemies. He can attack them with his sword. If link is at full health, he can toss his sword to attack enemies from afar, but when he is hurt, even slightly, he can only fight in melee range. 
+
+Link's health is represented by hearts; initially he can have a maximum of three hearts, but as he progresses in the game, he will find heart containers that increase his maximum health. The enemies are varied - some attack from up close, some shoot projectiles. When killed, they often leave behind an item - a heart to restore energy, rupees that function as money (and can be used to buy stuff in various shops in the Overworld), or bombs which can be picked up and set down to attack enemies or destroy some walls. When enemies are killed, they stay dead and will not re-appear once the screen is entered again. 
+
+There are other items to find in the game; some function as weapons, while others are used to solve puzzles. 
+
+To find the Triforce pieces, Link must explore dungeons. Once he finds an entrance to the dungeon and goes in, he must explore the rooms, fight enemies and collect keys until he finds the boss monster he must defeat. He will then be able to pick up a Triforce piece. Once he does so, however, all the monsters in the Overworld come back to life. 
+
+If Link dies on his quest, he can continue it; he will go back to his start position in the Overworld, but with the items he managed to collect so far. When Link finishes his quest, the pl;ayer can choose to play the "2nd quest", which is essentially a harder version of the game. 
+
+The Legend of Zelda is known for several factors that were revolutionary at the time: A full world that could be freely explored, power-ups that would permanently enhance your character's abilities, and a battery back-up save feature that allowed players to retain their progress instead of having to start over. The gameplay balanced out frequent action sequences with discovery, secrets, and exploration.</desc>
+		<image>./mixart/Legend of Zelda, The (USA).png</image>
+		<video>./#nes-hd/snap/Legend of Zelda, The (USA) HD.mp4</video>
+		<marquee>./wheel/Legend of Zelda, The (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19870701T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Role playing games</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./#nes-hd/Metroid (USA) HD.7z</path>
+		<name>Metroid HD</name>
+		<desc>In the future, the Galactic Federation and the pirates of planet Zebes are at war. Pirates have stolen an unknown life-form, recently discovered on the planet SR388. The life-form, designated "Metroid", is in a state of suspended animation and, according to analysis, was the cause of the complete destruction of SR388. If the Metroid ever got loose, the alien could destroy countless other systems. It is up to the space bounty hunter Samus Aran to land on Zebes and find her way through the perilous terrains of Brinstar and Norfair, destroy the Pirates, as well as their alien enforcers, Ridley and Kraid, and rid the planet of the alien life form before the pirates complete their plans of world destruction.
+
+Using the cybernetic enhancements of her Power Suit, Samus can use a range of weapons and defenses to destroy the enemy. She can also absorb enemies powers into her Power Suit to increase her defense and chance of survival. Using her weapons and special abilities, she must find her way to the central chamber of Tourian and destroy the Mother Brain, the mysterious leader behind the Space Pirates.</desc>
+		<image>./mixart/Metroid (USA).png</image>
+		<video>./#nes-hd/snap/Metroid (USA) HD.mp4</video>
+		<marquee>./wheel/Metroid (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19860801T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./#nes-hd/Super Mario Bros. (World) HD.7z</path>
+		<name>Super Mario Bros. HD</name>
+		<desc>The Princess has been kidnapped by the evil Bowser, and it is up to Mario and brother Luigi to save the day.
+
+The first ever platform adventure for the Mario Brothers has the player exploring level after level, with Bowser to contend with as the end of level boss. Power-ups include the Super Mushroom, which increases Mario's size and power, the fire flower, allowing him to shoot fireballs at enemies, and the ever important starman for a short burst of invincibility.
+
+Each level includes a bonus section filled with coins plus a shortcut through the level, plenty of bad buys and obstacles to get past, and an end of level flag, in which the higher the player grabs it, the more points are awarded to them. Certain levels also include warp points, which takes the player to higher levels.</desc>
+		<image>./mixart/Super Mario Bros. (World).png</image>
+		<video>./#nes-hd/snap/Super Mario Bros. (World) HD.mp4</video>
+		<marquee>./wheel/Super Mario Bros. (World).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19850913T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./#nes-hd/Castlevania (USA) (Rev A) HD.7z</path>
+		<name>Castlevania HD</name>
+		<desc>Every hundred years, the dark vampire known as Dracula resurrects and terrorizes the land. A vampire hunter named Simon Belmont bravely ventures into the Count's mansion in order to defeat him. Along the way he'll have to defeat skeletons, bats, fishmen, medusa heads and other evil creatures.
+
+Castlevania is a side-scrolling platform action game. The player taking the role of Simon Belmont is able to jump and crack his whip directly in front of him. Power-ups can be obtained by defeating enemies or by whipping candles that appear in the castle. One such power-up increases the power and length of Simon's whip.  Different weapons can be gathered which consume hearts when used, these hearts can also be collected from monsters and candles. Additionally, some walls will hide secrets such as the health-restorative turkey or the Double and Triple shot abilities for the weapons Simon has collected. At the end of each section of the castle is a boss, which must be defeated. Progression through the castle eventually leads to a confrontation with Count Dracula himself.</desc>
+		<image>./mixart/Castlevania (USA).png</image>
+		<video>./#nes-hd/snap/Castlevania (USA) (Rev A) HD.mp4</video>
+		<marquee>./wheel/Castlevania (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19870501T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./#nes-hd/Donkey Kong (JU) [p1] HD.7z</path>
+		<name>Donkey Kong HD</name>
+		<desc>Donkey Kong Classics features the original Donkey Kong. In Donkey Kong, you need to guide Mario safely up the scaffolding to rescue his girlfriend, Pauline. In Donkey Kong Jr., the roles are reversed; you control Jr. who needs to rescue his father, who has been captured by Mario.</desc>
+		<image>./#nes-hd/mixart/Donkey Kong (JU) [p1].png</image>
+		<video>./#nes-hd/snap/Donkey Kong (JU) [p1].mp4</video>
+		<marquee>./#nes-hd/wheel/Donkey Kong (JU) [p1].png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19881001T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Compilation</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

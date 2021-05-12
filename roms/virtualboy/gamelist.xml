@@ -302,18 +302,6 @@ Waterworld brings your Virtual Boy screaming to life with incredibly smooth and 
 		<publisher>Nintendo</publisher>
 	</game>
 	<game>
-		<path>./3D Tetris.zip</path>
-		<name>3D Tetris</name>
-		<desc>3D Tetris is a 3D Tetris game on Virtual Boy with 3 modes. The first contains five layers of Tetris blocks. Each time you complete a layer the blocks fall, disappear and you'll be rewarded with points. In the second, you place the blocks around the center of a well, the aim being to make them disappear. In the third mode, a form will be posted before the start of the match. You will have to reproduce that form perfectly.</desc>
-		<image>./mixart/3D Tetris.png</image>
-		<video>./snap/3D Tetris.mp4</video>
-		<marquee>./wheel/3D Tetris.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19960322T000000</releasedate>
-		<developer>T&amp;E Soft</developer>
-		<publisher>Nintendo</publisher>
-	</game>
-	<game>
 		<path>./Insane Mouse Mansion.zip</path>
 		<name>Insmouse No Yakata</name>
 		<desc>Innsmouth no Yakata is a video game shooter released in 1995 on Virtual Boy. The goal is to find the exit of a maze of corridors with solid doors monsters in a given period of time. To defense against monsters, our hero is armed with a gun.</desc>
@@ -338,6 +326,18 @@ Waterworld brings your Virtual Boy screaming to life with incredibly smooth and 
 		<publisher>Bandai</publisher>
 	</game>
 	<game>
+		<path>./3D Tetris.zip</path>
+		<name>3D Tetris</name>
+		<desc>3D Tetris is a 3D Tetris game on Virtual Boy with 3 modes. The first contains five layers of Tetris blocks. Each time you complete a layer the blocks fall, disappear and you'll be rewarded with points. In the second, you place the blocks around the center of a well, the aim being to make them disappear. In the third mode, a form will be posted before the start of the match. You will have to reproduce that form perfectly.</desc>
+		<image>./mixart/3D Tetris.png</image>
+		<video>./snap/3D Tetris.mp4</video>
+		<marquee>./wheel/3D Tetris.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19960322T000000</releasedate>
+		<developer>T&amp;E Soft</developer>
+		<publisher>Nintendo</publisher>
+	</game>
+	<game>
 		<path>./Virtual Boy Wario Land.zip</path>
 		<name>Virtual Boy Wario Land</name>
 		<desc>Yikes!!! Get ready for a devious treasure hunt with the infamous scheming Wario. Capture the shining gold and vast treasures locked deep inside a hidden cave. But, beware of poison ponds, perilous prisons, endless walls and creepy woods! Make a quick change into Sea Dragon Wario, Eagle Wario or Bull Wario and utilize their mighty strengths. Blow away enemy cave defenders with body attacks and power actions. Succeed in this greedy plot to seize the riches of this underground world and find this key to freedom!</desc>
@@ -349,5 +349,6 @@ Waterworld brings your Virtual Boy screaming to life with incredibly smooth and 
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

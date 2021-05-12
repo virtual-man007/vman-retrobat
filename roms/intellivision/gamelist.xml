@@ -14,18 +14,6 @@
 		<players>1</players>
 	</game>
 	<game id="" source="">
-		<path>./Advanced Dungeons and Dragons - Treasure of Tarmin (World).7z</path>
-		<name>Advanced Dungeons and Dragons - Treasure of Tarmin</name>
-		<desc />
-		<image>./mixart/Advanced Dungeons and Dragons - Treasure of Tarmin (World).png</image>
-		<marquee>./wheel/Advanced Dungeons and Dragons - Treasure of Tarmin (World).png</marquee>
-		<video>./snap/Advanced Dungeons and Dragons - Treasure of Tarmin (World).mp4</video>
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-	</game>
-	<game id="" source="">
 		<path>./Armor Battle (World).7z</path>
 		<name>Armor Battle</name>
 		<desc>All-out tank combat! You and your opponent are rival tank commanders. Each of you controls two machines, directs fire, lays mines. The terrain you fight over will change again and again, demanding new tactics! Simulated battle sounds! Computer selects at random from over 240 battlefield maps!
@@ -39,19 +27,6 @@ OBJECT OF THE GAME is to knock out both enemy tanks, avoid invisible mines and h
 		<releasedate>19791203T000000</releasedate>
 		<genre>Action</genre>
 		<players>2</players>
-	</game>
-	<game id="" source="">
-		<path>./Atlantis (World).7z</path>
-		<name>Atlantis</name>
-		<desc>The lost city of Atlantis is under attack! Wave after wave of Gorgon vessels are approaching, each armed with weapons capable of destroying a part of the city. You are in charge of the command posts at the edges of the city and need to defend it from the invaders. The various gorgon craft will keep flying by on the screen in varying numbers and in different flight patterns. At first they fly high in the sky but then progressively lower. If an enemy makes it low enough before you destroy it, it will use it's weapons and destroy one of the buildings in Atlantis. As you progress in the game, the enemy craft will keep increasing in speed. The game ends when all remaining buildings in the city have been destroyed.</desc>
-		<publisher>Imagic</publisher>
-		<developer>Imagic</developer>
-		<image>./mixart/Atlantis (World).png</image>
-		<marquee>./wheel/Atlantis (World).png</marquee>
-		<video>./snap/Atlantis (World).mp4</video>
-		<releasedate>19820101T000000</releasedate>
-		<genre>Shooter</genre>
-		<players>1</players>
 	</game>
 	<game id="" source="">
 		<path>./Auto Racing (World).7z</path>
@@ -1587,20 +1562,6 @@ Stage two is a space shoot out against hordes of enemy aircraft - those you fail
 		<genre />
 	</game>
 	<game>
-		<path>./Astrosmash (World).7z</path>
-		<name>Astrosmash</name>
-		<desc>In Astrosmash you control a laser canon at the bottom of the screen; your goal is to earn as many points as possible by destroying the various incoming meteors, bombs, and other objects. Points are earned for destroying objects, while points are lost for letting them get past you. Meteors are the most common item you need to defend yourself against. They come in various sizes and colors, and some even split into two smaller meteors when shot.
-
-Mixed in with the meteors are white spinning bombs. While letting a meteor get past you will only lower your score, you have to shoot the spinners. If one gets past, you will lose a life. On the more difficult levels, ufo's and guided missiles will also appear occasionally and attempt to destroy your canon.</desc>
-		<image>./mixart/Astrosmash (World).png</image>
-		<video>./snap/Astrosmash (World).mp4</video>
-		<marquee>./wheel/Astrosmash (World).png</marquee>
-		<releasedate>19811015T000000</releasedate>
-		<developer>Mattel Electronics</developer>
-		<publisher>Mattel Electronics</publisher>
-		<genre>Shooter</genre>
-	</game>
-	<game>
 		<path>./Mission X (World).7z</path>
 		<name>Mission X</name>
 		<image>./mixart/Mission X (World).png</image>
@@ -1826,6 +1787,32 @@ Sound: Russ Haft</desc>
 		<genre />
 	</game>
 	<game>
+		<path>./Astrosmash (World).7z</path>
+		<name>Astrosmash</name>
+		<desc>In Astrosmash you control a laser canon at the bottom of the screen; your goal is to earn as many points as possible by destroying the various incoming meteors, bombs, and other objects. Points are earned for destroying objects, while points are lost for letting them get past you. Meteors are the most common item you need to defend yourself against. They come in various sizes and colors, and some even split into two smaller meteors when shot.
+
+Mixed in with the meteors are white spinning bombs. While letting a meteor get past you will only lower your score, you have to shoot the spinners. If one gets past, you will lose a life. On the more difficult levels, ufo's and guided missiles will also appear occasionally and attempt to destroy your canon.</desc>
+		<image>./mixart/Astrosmash (World).png</image>
+		<video>./snap/Astrosmash (World).mp4</video>
+		<marquee>./wheel/Astrosmash (World).png</marquee>
+		<releasedate>19811015T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./Atlantis (World).7z</path>
+		<name>Atlantis</name>
+		<desc>The lost city of Atlantis is under attack! Wave after wave of Gorgon vessels are approaching, each armed with weapons capable of destroying a part of the city. You are in charge of the command posts at the edges of the city and need to defend it from the invaders. The various gorgon craft will keep flying by on the screen in varying numbers and in different flight patterns. At first they fly high in the sky but then progressively lower. If an enemy makes it low enough before you destroy it, it will use it's weapons and destroy one of the buildings in Atlantis. As you progress in the game, the enemy craft will keep increasing in speed. The game ends when all remaining buildings in the city have been destroyed.</desc>
+		<image>./mixart/Atlantis (World).png</image>
+		<video>./snap/Atlantis (World).mp4</video>
+		<marquee>./wheel/Atlantis (World).png</marquee>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Imagic</developer>
+		<publisher>Imagic</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
 		<path>./4-TRIS (World).7z</path>
 		<name>4-TRIS</name>
 		<desc>Tetraminoes are pieces created from 4 blocks joined together into 7 different patterns. By rotating them, you can position the pieces as they are falling so they fill open spaces. When an entire horizontal line fills with the pieces, the line clears and you are on your way to higher levels!
@@ -1837,6 +1824,14 @@ Blocks will fall from the top of the screen towards the bottom. Arrange the piec
 		<developer>Joseph Zbiciak</developer>
 		<publisher>independent</publisher>
 		<genre>Puzzle</genre>
+	</game>
+	<game>
+		<path>./Advanced Dungeons and Dragons - Treasure of Tarmin (World).7z</path>
+		<name>Advanced Dungeons and Dragons - Treasure of Tarmin</name>
+		<image>./mixart/Advanced Dungeons and Dragons - Treasure of Tarmin (World).png</image>
+		<video>./snap/Advanced Dungeons and Dragons - Treasure of Tarmin (World).mp4</video>
+		<marquee>./wheel/Advanced Dungeons and Dragons - Treasure of Tarmin (World).png</marquee>
+		<releasedate />
 	</game>
 	<game>
 		<path>./Star Strike (World).7z</path>
@@ -1851,5 +1846,7 @@ Blocks will fall from the top of the screen towards the bottom. Arrange the piec
 		<publisher>Mattel Electronics</publisher>
 		<genre>Action</genre>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>wr</region>
 	</game>
 </gameList>

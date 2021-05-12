@@ -15,88 +15,6 @@
 		<players>2</players>
 	</game>
 	<game>
-		<path>./lair2.daphne</path>
-		<name>Dragon's Lair II: Time Warp</name>
-		<desc>Dragon's Lair II: Time Warp is a 1991 laserdisc video game by the Leland Corporation. It is regarded as the first "true" sequel to Dragon's Lair. It takes place years after the original Dragon's Lair.</desc>
-		<image>./mixart/lair2.png</image>
-		<video>./snap/lair2.mp4</video>
-		<marquee>./wheel/lair2.png</marquee>
-		<rating />
-		<releasedate>19910616T000000</releasedate>
-		<developer>LeLand Corporation</developer>
-		<publisher>Digital Leisure</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./esh.daphne</path>
-		<name>Esh's Aurunmilla</name>
-		<image>./mixart/esh.png</image>
-		<video>./snap/esh.mp4</video>
-		<marquee>./wheel/esh.png</marquee>
-		<rating />
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-		<players />
-	</game>
-	<game>
-		<path>./interstellar.daphne</path>
-		<name>Interstellar Laser Fantasy</name>
-		<desc>Interstellar Laser Fantasy was a laserdisc game manufactured by Funai in 1983.  The laserdisc background images were created by Japan-based company, Gakken.  In Interstellar, you fly the starship, "Ferald Runner".  Your mission is to fly to distant worlds battling alien spaceships and destroying alien bases.  Armed with lasers and bombs, you travel across alien deserts, through space caverns, and into bizarre wire framed cities to find and destroy the Delta UFO.</desc>
-		<image>./mixart/interstellar.png</image>
-		<video>./snap/interstellar.mp4</video>
-		<marquee>./wheel/interstellar.png</marquee>
-		<rating />
-		<releasedate>19830101T0000001201T000000</releasedate>
-		<developer>FUNAI</developer>
-		<publisher>FUNAI</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./sdq.daphne</path>
-		<name>Super Don Quix-ote</name>
-		<desc>Super Don Quix-ote is a laserdisc video game released by Universal in 1984. In it, the player controls the knight Don as he attempts to rescue a princess from an evil witch.</desc>
-		<image>./mixart/sdq.png</image>
-		<video>./snap/sdq.mp4</video>
-		<marquee>./wheel/sdq.png</marquee>
-		<rating />
-		<releasedate>19840101T000000</releasedate>
-		<developer>Universal</developer>
-		<publisher />
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./galaxy.daphne</path>
-		<name>Galaxy Ranger</name>
-		<desc>Galaxy Ranger was a laserdisc game created by Sega and manufactured by Bally / Midway in 1984.  It was released as a dedicated cabinet or a conversion kit for Astron Belt cabinets.  In Galaxy Ranger, you fly through the universe battling alien ships to make your way to fight the main Alien Battle Cruiser.  Along the way, you fly across alien deserts, through tunnels, over alien cities, and get involved in a few "astro-dogfights" with enemy space fighters.</desc>
-		<image>./mixart/galaxy.png</image>
-		<video>./snap/galaxy.mp4</video>
-		<marquee>./wheel/galaxy.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Bally Midway</publisher>
-		<genre>Shooter</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./ace.daphne</path>
-		<name>Space Ace</name>
-		<desc>Space Ace is a laserdisc video game produced by Don Bluth Studios, Cinematronics and Advanced Microcomputer Systems.</desc>
-		<image>./mixart/ace.png</image>
-		<video>./snap/ace.mp4</video>
-		<marquee>./wheel/ace.png</marquee>
-		<rating />
-		<releasedate>19840429T000000</releasedate>
-		<developer>AMS</developer>
-		<publisher>Cinematronics</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./lair.daphne</path>
 		<name>Dragon's Lair</name>
 		<desc>Dragon's Lair is a video game franchise that began with the laserdisc video game Dragon's Lair originally released for the arcades in 1983.</desc>
@@ -109,6 +27,19 @@
 		<publisher>Cinematronics</publisher>
 		<genre>Action</genre>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./tq.daphne</path>
+		<name>Thayer's Quest</name>
+		<desc>Thayer Alconred, last of the bloodline of the Elder Kings, searches five kingdoms in search of five relics which combine to form the Hand of Quoid. Thayer's adversary, Sorsabal The Twisted assisted by his henchman, The Black Magician, seeks to use the Hand's power to take control of the land.</desc>
+		<image>./mixart/tq.png</image>
+		<video>./snap/tq.mp4</video>
+		<marquee>./wheel/tq.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>RDI Video Systems</developer>
+		<publisher>RDI Video Systems</publisher>
+		<genre>Platform-Plateform / Run Jump</genre>
 	</game>
 	<game>
 		<path>./cliff.daphne</path>
@@ -123,6 +54,93 @@
 		<publisher>Stern</publisher>
 		<genre>Action</genre>
 		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./sdq.daphne</path>
+		<name>Super Don Quix-ote</name>
+		<desc>Super Don Quix-ote is a laserdisc video game released by Universal in 1984. In it, the player controls the knight Don as he attempts to rescue a princess from an evil witch.</desc>
+		<image>./mixart/sdq.png</image>
+		<video>./snap/sdq.mp4</video>
+		<marquee>./wheel/sdq.png</marquee>
+		<rating />
+		<releasedate>19840101T000000</releasedate>
+		<developer>Universal</developer>
+		<genre>Action</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./gpworld.daphne</path>
+		<name>GP World</name>
+		<desc>GP World was produced by Sega in 1984. In this laserdisc racing game, you have the choice between one of the three circuits proposed to compete with computer-controlled racing cars.  It is a rather average game in the realization where it is difficult to feel the feeling of speed despite the projection of the real circuits filmed as scenery.  But it is moving away from the traditional laserdisc spirit, interactive cartoons and shoot'em up, which changes a bit.</desc>
+		<image>./mixart/gpworld.png</image>
+		<video>./snap/gpworld.mp4</video>
+		<marquee>./wheel/gpworld.png</marquee>
+		<rating>0.4</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving-Race 1st Pers. view</genre>
+		<lang>en</lang>
+		<path>./gpworld.daphne</path>
+	</game>
+	<game>
+		<path>./interstellar.daphne</path>
+		<name>Interstellar Laser Fantasy</name>
+		<desc>Interstellar Laser Fantasy was a laserdisc game manufactured by Funai in 1983.  The laserdisc background images were created by Japan-based company, Gakken.  In Interstellar, you fly the starship, "Ferald Runner".  Your mission is to fly to distant worlds battling alien spaceships and destroying alien bases.  Armed with lasers and bombs, you travel across alien deserts, through space caverns, and into bizarre wire framed cities to find and destroy the Delta UFO.</desc>
+		<image>./mixart/interstellar.png</image>
+		<video>./snap/interstellar.mp4</video>
+		<marquee>./wheel/interstellar.png</marquee>
+		<rating />
+		<releasedate>19830101T0000001201T000000</releasedate>
+		<developer>FUNAI</developer>
+		<publisher>FUNAI</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<path>./interstellar.daphne</path>
+	</game>
+	<game>
+		<path>./mach3.daphne</path>
+		<name>M.a.c.h. 3</name>
+		<desc>In M.A.C.H. 3, you pilot either a Fighter plane or a Bomber plane and must fly around hitting targets on the ground or in the air while avoiding enemy fire. M.A.C.H. 3 used video footage from the laser disc and overlaid computer graphics for your ship and the enemy ships.</desc>
+		<image>./mixart/mach3.png</image>
+		<video>./snap/mach3.mp4</video>
+		<marquee>./wheel/mach3.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Mylstar</developer>
+		<publisher>Mylstar</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<path>./mach3.daphne</path>
+	</game>
+	<game>
+		<path>./esh.daphne</path>
+		<name>Esh's Aurunmilla</name>
+		<image>./mixart/esh.png</image>
+		<video>./snap/esh.mp4</video>
+		<marquee>./wheel/esh.png</marquee>
+		<rating />
+		<releasedate />
+		<lang>en</lang>
+		<path>./esh.daphne</path>
+	</game>
+	<game>
+		<path>./lair2.daphne</path>
+		<name>Dragon's Lair II: Time Warp</name>
+		<desc>Dragon's Lair II: Time Warp is a 1991 laserdisc video game by the Leland Corporation. It is regarded as the first "true" sequel to Dragon's Lair. It takes place years after the original Dragon's Lair.</desc>
+		<image>./mixart/lair2.png</image>
+		<video>./snap/lair2.mp4</video>
+		<marquee>./wheel/lair2.png</marquee>
+		<rating />
+		<releasedate>19910616T000000</releasedate>
+		<developer>LeLand Corporation</developer>
+		<publisher>Digital Leisure</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
 	</game>
 	<game>
 		<path>./cobraab.daphne</path>
@@ -132,10 +150,36 @@
 		<marquee>./wheel/cobraab.png</marquee>
 		<rating />
 		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-		<players />
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./uvt.daphne</path>
+		<name>Us Vs Them</name>
+		<desc>They are among us, who? Invaders, aliens or aliens, in short, little green guys! Obviously to make a game they must be bad and want to take possession of our beautiful planet, otherwise it's not funny. As you have guessed, freedom lies on your shoulders and depends on your accuracy in shooting and acrobatics. nnUs vs. Them is an aerial shoot game with a rather classic and unpretentious realization where your ship is more or less inlaid in a background animated by videos. To make the interludes more dynamic, scenes with real actors punctuate the story in a spirit close to the TV series of the 80s. The game will appeal to lovers of science fiction, shoot and low budget TV series. Others will more readily turn to titles like M.A.C.H. 3.</desc>
+		<image>./mixart/uvt.png</image>
+		<video>./snap/uvt.mp4</video>
+		<marquee>./wheel/uvt.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Mylstar</developer>
+		<publisher>Mylstar</publisher>
+		<genre>Shoot'em Up</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./ace.daphne</path>
+		<name>Space Ace</name>
+		<desc>Space Ace is a laserdisc video game produced by Don Bluth Studios, Cinematronics and Advanced Microcomputer Systems.</desc>
+		<image>./mixart/ace.png</image>
+		<video>./snap/ace.mp4</video>
+		<marquee>./wheel/ace.png</marquee>
+		<rating />
+		<releasedate>19840429T000000</releasedate>
+		<developer>AMS</developer>
+		<publisher>Cinematronics</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 	<game>
 		<path>./lair.daphne</path>
@@ -146,66 +190,25 @@
 		<marquee>./wheel/lair.png</marquee>
 		<rating />
 		<releasedate>19830623T000000</releasedate>
-		<developer />
 		<publisher>Cinematronics</publisher>
 		<genre>Action</genre>
 		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 	<game>
-		<path>./gpworld.daphne</path>
-		<name>GP World</name>
-		<desc>GP World was produced by Sega in 1984. In this laserdisc racing game, you have the choice between one of the three circuits proposed to compete with computer-controlled racing cars.  It is a rather average game in the realization where it is difficult to feel the feeling of speed despite the projection of the real circuits filmed as scenery.  But it is moving away from the traditional laserdisc spirit, interactive cartoons and shoot'em up, which changes a bit.</desc>
-		<rating>0.4</rating>
+		<path>./galaxy.daphne</path>
+		<name>Galaxy Ranger</name>
+		<desc>Galaxy Ranger was a laserdisc game created by Sega and manufactured by Bally / Midway in 1984.  It was released as a dedicated cabinet or a conversion kit for Astron Belt cabinets.  In Galaxy Ranger, you fly through the universe battling alien ships to make your way to fight the main Alien Battle Cruiser.  Along the way, you fly across alien deserts, through tunnels, over alien cities, and get involved in a few "astro-dogfights" with enemy space fighters.</desc>
+		<image>./mixart/galaxy.png</image>
+		<video>./snap/galaxy.mp4</video>
+		<marquee>./wheel/galaxy.png</marquee>
+		<rating>0.6</rating>
 		<releasedate>19840101T000000</releasedate>
 		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving-Race 1st Pers. view</genre>
-		<players>1</players>
-		<image>./mixart/gpworld.png</image>
-		<marquee>./wheel/gpworld.png</marquee>
-		<video>./snap/gpworld.mp4</video>
-	</game>
-	<game>
-		<path>./mach3.daphne</path>
-		<name>M.a.c.h. 3</name>
-		<desc>In M.A.C.H. 3, you pilot either a Fighter plane or a Bomber plane and must fly around hitting targets on the ground or in the air while avoiding enemy fire. M.A.C.H. 3 used video footage from the laser disc and overlaid computer graphics for your ship and the enemy ships.</desc>
-		<rating>0.9</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Mylstar</developer>
-		<publisher>Mylstar</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-		<image>./mixart/mach3.png</image>
-		<marquee>./wheel/mach3.png</marquee>
-		<video>./snap/mach3.mp4</video>
-	</game>
-	<game>
-		<path>./tq.daphne</path>
-		<name>Thayer's Quest</name>
-		<desc>Thayer Alconred, last of the bloodline of the Elder Kings, searches five kingdoms in search of five relics which combine to form the Hand of Quoid. Thayer's adversary, Sorsabal The Twisted assisted by his henchman, The Black Magician, seeks to use the Hand's power to take control of the land.</desc>
-		<rating>0.7</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>RDI Video Systems</developer>
-		<publisher>RDI Video Systems</publisher>
-		<genre>Platform-Plateform / Run Jump</genre>
-		<players>1</players>
-		<image>./mixart/tq.png</image>
-		<marquee>./wheel/tq.png</marquee>
-		<video>./snap/tq.mp4</video>
-	</game>
-	<game>
-		<path>./uvt.daphne</path>
-		<name>Us Vs Them</name>
-		<desc>They are among us, who? Invaders, aliens or aliens, in short, little green guys! Obviously to make a game they must be bad and want to take possession of our beautiful planet, otherwise it's not funny. As you have guessed, freedom lies on your shoulders and depends on your accuracy in shooting and acrobatics. nnUs vs. Them is an aerial shoot game with a rather classic and unpretentious realization where your ship is more or less inlaid in a background animated by videos. To make the interludes more dynamic, scenes with real actors punctuate the story in a spirit close to the TV series of the 80s. The game will appeal to lovers of science fiction, shoot and low budget TV series. Others will more readily turn to titles like M.A.C.H. 3.</desc>
-		<rating>0.7</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Mylstar</developer>
-		<publisher>Mylstar</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-		<image>./mixart/uvt.png</image>
-		<marquee>./wheel/uvt.png</marquee>
-		<video>./snap/uvt.mp4</video>
+		<publisher>Bally Midway</publisher>
+		<genre>Shooter</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 	<game>
 		<path>./astron.daphne</path>
@@ -220,5 +223,37 @@
 		<publisher>Bally Midway</publisher>
 		<genre>Action</genre>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./badlands.daphne</path>
+		<name>Badlands</name>
+		<desc>Badlands early laserdisc video, the game is themed as an old West shooter, the function of the button is almost always the fire the main character's gun to fend off against attackers. If the player shoots too soon, he will be hanged for murder. Failing to fire in time, however, will result in being killed by the attack.</desc>
+		<image>./mixart/badlands.png</image>
+		<video>./snap/badlands.mp4</video>
+		<marquee>./wheel/badlands.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19840515T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./roadblaster.daphne</path>
+		<name>Road Blaster</name>
+		<desc>Road Blaster was a laser disc game created by Data East in 1985. Your mission is to seek out a gang of bikers who attacked and killed your wife.  You are behind the wheel of a supped-up sports car, weaving in and out of traffic and other obstacles while in pursuit of the bikers.</desc>
+		<image>./mixart/rb.png</image>
+		<video>./snap/rb.mp4</video>
+		<marquee>./wheel/rb.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19850515T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

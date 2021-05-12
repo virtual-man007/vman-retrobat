@@ -1265,9 +1265,11 @@ The graphics were faux-3D, as the planes were 2D sprites (natural, considering t
 		<video>./snap/Alien vs Predator (USA) (Proto).mp4</video>
 		<marquee>./wheel/Alien vs Predator (USA) (Proto).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Rebellion Developments</developer>
 		<publisher>Atari</publisher>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 	<game>
 		<path>./Power Factor (USA, Europe).zip</path>
@@ -1294,5 +1296,7 @@ The player starts with three lives, and there are no continues.  There are, howe
 		<publisher>Atari</publisher>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>eu</region>
 	</game>
 </gameList>

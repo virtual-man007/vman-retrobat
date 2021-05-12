@@ -6,34 +6,6 @@
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game id="46249" source="ScreenScraper.fr">
-		<path>./Armored Unit (Japan).zip</path>
-		<name>Armored Unit</name>
-		<desc>Armored Unit is an entertaining strategy game (once the Japanese menu's are conquered) that suffers to having enemies either too easy or far too hard.</desc>
-		<rating>0</rating>
-		<releasedate>19991118T000000</releasedate>
-		<developer>Sammy Studios</developer>
-		<publisher>Sammy Studios</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-		<image>./mixart/Armored Unit (Japan).png</image>
-		<marquee>./wheel/Armored Unit (Japan).png</marquee>
-		<video>./snap/Armored Unit (Japan).mp4</video>
-	</game>
-	<game id="38474" source="ScreenScraper.fr">
-		<path>./Bakusou Dekotora Densetsu for WonderSwan (Japan).zip</path>
-		<name>Bakusou Dekotora Densetsu</name>
-		<desc>You are a young man who lives in Japan and likes driving trucks. There is a competition of truck drivers who deliver goods all across the country. Willing to impress your girlfriend Yukie, you decide to participate in the races and to win the title of the best trucker in Japan.  Dekotora is short for "decorated truck", and this racing game consists not only of driving your truck through the highway, trying to be faster than your rivals, but also of buying various stuff for your truck and decorating it. Depending on your results in the races, you can buy truck parts and customize it the way you wish. </desc>
-		<rating>0</rating>
-		<releasedate>19991222T000000</releasedate>
-		<developer>KID Corp.</developer>
-		<publisher>Human</publisher>
-		<genre>Simulation</genre>
-		<players>1-2</players>
-		<image>./mixart/Bakusou Dekotora Densetsu for WonderSwan (Japan).png</image>
-		<marquee>./wheel/Bakusou Dekotora Densetsu for WonderSwan (Japan).png</marquee>
-		<video>./snap/Bakusou Dekotora Densetsu for WonderSwan (Japan).mp4</video>
-	</game>
 	<game id="38475" source="ScreenScraper.fr">
 		<path>./Beatmania for WonderSwan (Japan).zip</path>
 		<name>Beatmania</name>
@@ -1516,6 +1488,53 @@
 		<players>1-2</players>
 	</game>
 	<game>
+		<path>./Buffers Evolution (Japan).zip</path>
+		<name>Buffers Evolution</name>
+		<desc>In a post-apocalyptic future a gambling syndicate seeks to make a quick buck in the gritty remains of earth. By fusing the best of animal and mechanical traits they create three bestial androids from a bird, a lion, and a rhinoceros. Bets are taken and then the robots are loosed into hostile mazes of scrap metal on old earth. Maybe they'll even make it back alive...  The goal of BUFFERS EVOLUTION is to run through a course while collecting ten parts in the best time possible. The courses are large and vary between jungle scenes, deserts, old factories, and general mechanical wastes. These areas are cased in by electricity to stop the contests from escaping and thereby ruining the entertainment of the masses. This will keep you in the bounds of the course. With the press of a button your character will momentarily turn into a 'buffer', a sharp pisiform metallic object, while being a buffer you can destroy enemies by slamming into them, this will often bounce you in a given direction, which is useful for reaching high ledges.   Although you do not need to get all the parts to clear an area special items can be accrued by collection parts, while on the course proper these parts will heal any damage you may have taken. Perhaps if you collect all the part in all nine areas you'll have the means to escape you captors?   Gameplay is reminiscent of Sonic the Hedghog  although in those games you race against a countdown while here you are merely trying to get good times.</desc>
+		<image>./mixart/Buffers Evolution (Japan).png</image>
+		<video>./snap/Buffers Evolution (Japan).mp4</video>
+		<marquee>./wheel/Buffers Evolution (Japan).png</marquee>
+		<rating>0</rating>
+		<releasedate>19991209T000000</releasedate>
+		<developer>Bandai</developer>
+		<publisher>Bandai</publisher>
+		<genre>Race, Driving</genre>
+	</game>
+	<game id="46249" source="ScreenScraper.fr">
+		<path>./Armored Unit (Japan).zip</path>
+		<name>Armored Unit</name>
+		<desc>Armored Unit is an entertaining strategy game (once the Japanese menu's are conquered) that suffers to having enemies either too easy or far too hard.</desc>
+		<image>./mixart/Armored Unit (Japan).png</image>
+		<video>./snap/Armored Unit (Japan).mp4</video>
+		<marquee>./wheel/Armored Unit (Japan).png</marquee>
+		<rating>0</rating>
+		<releasedate>19991118T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<path>./Armored Unit (Japan).zip</path>
+	</game>
+	<game id="38474" source="ScreenScraper.fr">
+		<path>./Bakusou Dekotora Densetsu for WonderSwan (Japan).zip</path>
+		<name>Bakusou Dekotora Densetsu</name>
+		<desc>You are a young man who lives in Japan and likes driving trucks. There is a competition of truck drivers who deliver goods all across the country. Willing to impress your girlfriend Yukie, you decide to participate in the races and to win the title of the best trucker in Japan.  Dekotora is short for "decorated truck", and this racing game consists not only of driving your truck through the highway, trying to be faster than your rivals, but also of buying various stuff for your truck and decorating it. Depending on your results in the races, you can buy truck parts and customize it the way you wish.</desc>
+		<image>./mixart/Bakusou Dekotora Densetsu for WonderSwan (Japan).png</image>
+		<video>./snap/Bakusou Dekotora Densetsu for WonderSwan (Japan).mp4</video>
+		<marquee>./wheel/Bakusou Dekotora Densetsu for WonderSwan (Japan).png</marquee>
+		<rating>0</rating>
+		<releasedate>19991222T000000</releasedate>
+		<developer>KID Corp.</developer>
+		<publisher>Human</publisher>
+		<genre>Simulation</genre>
+		<players>2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<path>./Bakusou Dekotora Densetsu for WonderSwan (Japan).zip</path>
+	</game>
+	<game>
 		<path>./Anchorz Field (Japan).zip</path>
 		<name>Anchor Field 2</name>
 		<desc>Anchorz Field is a Strategy game, developed and published by Sammy Studios, which was released in Japan in 1999.</desc>
@@ -1528,18 +1547,7 @@
 		<publisher>Sammy Studios</publisher>
 		<genre>Strategy</genre>
 		<players>2</players>
-	</game>
-	<game>
-		<path>./Buffers Evolution (Japan).zip</path>
-		<name>Buffers Evolution</name>
-		<desc>In a post-apocalyptic future a gambling syndicate seeks to make a quick buck in the gritty remains of earth. By fusing the best of animal and mechanical traits they create three bestial androids from a bird, a lion, and a rhinoceros. Bets are taken and then the robots are loosed into hostile mazes of scrap metal on old earth. Maybe they'll even make it back alive...  The goal of BUFFERS EVOLUTION is to run through a course while collecting ten parts in the best time possible. The courses are large and vary between jungle scenes, deserts, old factories, and general mechanical wastes. These areas are cased in by electricity to stop the contests from escaping and thereby ruining the entertainment of the masses. This will keep you in the bounds of the course. With the press of a button your character will momentarily turn into a 'buffer', a sharp pisiform metallic object, while being a buffer you can destroy enemies by slamming into them, this will often bounce you in a given direction, which is useful for reaching high ledges.   Although you do not need to get all the parts to clear an area special items can be accrued by collection parts, while on the course proper these parts will heal any damage you may have taken. Perhaps if you collect all the part in all nine areas you'll have the means to escape you captors?   Gameplay is reminiscent of Sonic the Hedghog  although in those games you race against a countdown while here you are merely trying to get good times.</desc>
-		<image>./mixart/Buffers Evolution (Japan).png</image>
-		<video>./snap/Buffers Evolution (Japan).mp4</video>
-		<marquee>./wheel/Buffers Evolution (Japan).png</marquee>
-		<rating>0</rating>
-		<releasedate>19991209T000000</releasedate>
-		<developer>Bandai</developer>
-		<publisher>Bandai</publisher>
-		<genre>Race, Driving</genre>
+		<lang>jp</lang>
+		<region>jp</region>
 	</game>
 </gameList>

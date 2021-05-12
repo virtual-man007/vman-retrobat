@@ -6,21 +6,6 @@
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game id="37995" source="ScreenScraper.fr">
-		<path>./Ace of Aces (USA).7z</path>
-		<name>Ace of Aces</name>
-		<desc>Ace of Aces is a 1st person, 2D flight simulation. You're onboard a British RAF Mosquito, maverick fighter bomber.
-Your mission ... stop enemy trains, intercept the terrible german V-1 buzz bombs, sink the german U-boats and down the Nazi bombers. Are you ready for this challenge?</desc>
-		<rating>0.4</rating>
-		<releasedate>19880601T000000</releasedate>
-		<developer>Artech Studios</developer>
-		<publisher>Accolade</publisher>
-		<genre>Action-Simulation</genre>
-		<players>1</players>
-		<image>./mixart/Ace of Aces (USA).png</image>
-		<marquee>./wheel/Ace of Aces (USA).png</marquee>
-		<video>./snap/Ace of Aces (USA).mp4</video>
-	</game>
 	<game id="37996" source="ScreenScraper.fr">
 		<path>./Alien Brigade (USA).7z</path>
 		<name>Alien Brigade</name>
@@ -1003,6 +988,22 @@ Xevious is a vertically scrolling shooter based on the 1982 coin-op of the same 
 		<players>1-2</players>
 	</game>
 	<game>
+		<path>./Ace of Aces (USA).7z</path>
+		<name>Ace of Aces</name>
+		<desc>Ace of Aces is a 1st person, 2D flight simulation. You're onboard a British RAF Mosquito, maverick fighter bomber.
+Your mission ... stop enemy trains, intercept the terrible german V-1 buzz bombs, sink the german U-boats and down the Nazi bombers. Are you ready for this challenge?</desc>
+		<image>./mixart/Ace of Aces (USA).png</image>
+		<video>./snap/Ace of Aces (USA).mp4</video>
+		<marquee>./wheel/Ace of Aces (USA).png</marquee>
+		<rating>0.4</rating>
+		<releasedate>19880601T000000</releasedate>
+		<developer>Artech Studios</developer>
+		<publisher>Accolade</publisher>
+		<genre>Action-Simulation</genre>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
 		<path>./Dark Chambers (USA).7z</path>
 		<name>Dark Chambers</name>
 		<desc>Dark Chambers is an arcade action game similar to Gauntlet. You are an explorer in an underground maze; your goal is to survive the 26 different levels and collect as many of the hidden treasures as you can. Hidden somewhere in each of the levels is an exit which will take you on to the next level. Trying to stop you from completing your quest are a wide variety of creatures, including zombies, wraiths, skeletons, wizards, and the grim reaper. Each of the creatures in the game has a different strength; when you shoot a creature, it will transform into the next weaker creature. Eventually a creature will become the weakest one (a zombie) at which point it can be destroyed. In addition to the creatures and treasures, other items that can be found in the maze are keys (to open doors), potions (to restore health), poison (drains health), guns (increases your firing rate), traps, shields, and bombs. The game is played from an overhead point of view, and is for one player or two players simultaneously.</desc>
@@ -1016,5 +1017,7 @@ Xevious is a vertically scrolling shooter based on the 1982 coin-op of the same 
 		<genre>Action</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

@@ -302,34 +302,6 @@ Join young Adam and Delphineus the dolphin as they brave the terrors of toxic wa
 		<genre>Adventure / Point and Click-Adventure</genre>
 	</game>
 	<game>
-		<path>./bladerunner-win.svm/Blade Runner.scummvm</path>
-		<name>Blade Runner</name>
-		<desc>Set in 2019 Los Angeles, the game tells the story of Ray McCoy, an elite detective charged with hunting down a group of dangerous replicants (bioengineered androids designed to look and act like humans). Although several of the film's characters appear in the game, with some of the original actors returning to voice them, the film's protagonist, Rick Deckard, does not appear in a speaking role. Instead, he is referred to on multiple occasions, is seen several times, and his activities as depicted in the film are mentioned. Other parallels with the film include the reproduction of several prominent locations, as well as scenes and dialogue closely modelled on the original. The game also features extracts from the film's soundtrack.</desc>
-		<image>./mixart/bladerunner-win.png</image>
-		<video>./snap/bladerunner-win.mp4</video>
-		<marquee>./wheel/bladerunner-win.png</marquee>
-		<rating>1</rating>
-		<releasedate>19971031T000000</releasedate>
-		<developer>Westwood Studios</developer>
-		<publisher>Virgin</publisher>
-		<genre>Point and Click-Adventure</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Dreamweb (CD DOS).svm/Dreamweb.scummvm</path>
-		<name>Dreamweb</name>
-		<desc>Ryan, a bartender from a dystopian future can't sleep peacefully for months. His nights are sequences of nightmares and strange dreams, days with frequent black-outs with strange visions, until one night a figure in monk attire appears to him, and tells h</desc>
-		<image>./mixart/dreamweb.png</image>
-		<video>./snap/dreamweb.mp4</video>
-		<marquee>./wheel/dreamweb.png</marquee>
-		<rating>1</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Creative Reality</developer>
-		<publisher>Empire Interactive Entertainment</publisher>
-		<genre>Point and Click-Adventure</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./bc.svm/The Black Cauldron.scummvm</path>
 		<name>The Black Cauldron</name>
 		<desc>The Black Cauldron, a 3D animated adventure game. Loaded with great features such as: Over 1,000 cells of animation, including 30 animated characters that walk, talk, run, climb and even swim; 70 3D screens more detailed than any seen before, in up to 16 colors; Six built-in arcade sequences and mazes, including a moat teeming with hungry alligators, a slippery castle wall with guards tossing boulders down, and teetery rocks that form a path across a treacherous swamp; Over 30 different items to obtain and use, including a "truthful" harp, a handful of fairy dust, and a magic sword; Eight different musical tunes, in different areas of the game, all from the musical score of The Black Cauldron movie; Multiple solutions and variable scoring.</desc>
@@ -461,40 +433,6 @@ Lost Secret of the Rainforest is based on scientifically accurate information. I
 		<developer>Sierra</developer>
 		<publisher>Sierra</publisher>
 		<genre>Adventure / Point and Click-Adventure</genre>
-	</game>
-	<game>
-		<path>./Full Throttle (CD DOS).svm/Full Throttle.scummvm</path>
-		<name>Full Throttle</name>
-		<desc>One minute you're on the road, riding. Not a care in the world. Then some guy in a suit comes along, says he's got a deal for you and your gang. But when you come to, you've got a lump on your head, the law on your back, and a feeling in your gut that the road you're on is about to get a lot rougher...</desc>
-		<image>./mixart/ft.png</image>
-		<video>./snap/ft.mp4</video>
-		<marquee>./wheel/ft.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19950430T000000</releasedate>
-		<developer>LucasArts</developer>
-		<publisher>LucasArts</publisher>
-		<genre>Point and Click-Adventure</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Gabriel Knight Sins Of The Fathers (CD DOS).svm/Gabriel Knight - Sins Of The Fathers.scummvm</path>
-		<name>Gabriel Knight - Sins Of The Fathers</name>
-		<desc>Gabriel Knight is a wise-cracking bookstore owner and would-be author. He is the last in a long line of Shadow Hunters, those fated to fight supernatural forces of evil. Tormented by terrifying nightmares, he must spend every waking moment scouring the side streets and back alleys of New Orleans for the key to his dark past. One day, a blood-chilling murder shocks the inhabitants of the city. The police detective assigned to investigate the crime is Gabriels friend. In the beginning Gabriel collects evidence in hope of using the material for his new novel; but soon he finds himself personally involved in the investigation, and plunges deeper into the world of secret societies and murderous cults.
-
-Gabriel Knight: Sins of the Fathers is a third-person puzzle-solving adventure game. Created by Jane Jensen, the game differs from Sierras Quest games (e.g. Space Quest) by having a realistic setting and focusing (despite its supernatural elements and humor) on mature themes and detective work. In this way it is more similar to the companys earlier Laura Bow games. 
-
-The games icon-based interface is the same as in Sierras previous titles, with verb commands that allow interaction with the game world and its inhabitants. Though the game still has plenty of inventory-based puzzles characteristic for classic adventure, its gameplay is heavily inclined towards dialogue. Typically, Gabriel will have to interrogate other characters, choosing conversation topics and thus gradually finding clues and advancing towards the mysterys solution.
-
-The games locations are done in hand-painted style. The CD version of the game adds full voice-overs to the dialogues, as well as narrators voice to text descriptions.</desc>
-		<image>./mixart/gk1.png</image>
-		<video>./snap/gk1.mp4</video>
-		<marquee>./wheel/gk1.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Sierra On-Line</developer>
-		<publisher>Sierra On-Line</publisher>
-		<genre>Point and Click-Adventure</genre>
-		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./gob1cd-us.svm/Gobliins.scummvm</path>
@@ -1684,5 +1622,71 @@ And suddenly, you are in the house. You move from room to haunted room, step by 
 		<developer>Entertainment Software Partners</developer>
 		<publisher>Interplay Productions</publisher>
 		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Dreamweb (CD DOS).svm/Dreamweb.scummvm</path>
+		<name>Dreamweb</name>
+		<desc>Ryan, a bartender from a dystopian future can't sleep peacefully for months. His nights are sequences of nightmares and strange dreams, days with frequent black-outs with strange visions, until one night a figure in monk attire appears to him, and tells h</desc>
+		<image>./mixart/dreamweb.png</image>
+		<video>./snap/dreamweb.mp4</video>
+		<marquee>./wheel/dreamweb.png</marquee>
+		<rating>1</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Creative Reality</developer>
+		<publisher>Empire Interactive Entertainment</publisher>
+		<genre>Point and Click-Adventure</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Full Throttle (CD DOS).svm/Full Throttle.scummvm</path>
+		<name>Full Throttle</name>
+		<desc>One minute you're on the road, riding. Not a care in the world. Then some guy in a suit comes along, says he's got a deal for you and your gang. But when you come to, you've got a lump on your head, the law on your back, and a feeling in your gut that the road you're on is about to get a lot rougher...</desc>
+		<image>./mixart/ft.png</image>
+		<video>./snap/ft.mp4</video>
+		<marquee>./wheel/ft.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950430T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Point and Click-Adventure</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Gabriel Knight Sins Of The Fathers (CD DOS).svm/Gabriel Knight - Sins Of The Fathers.scummvm</path>
+		<name>Gabriel Knight - Sins Of The Fathers</name>
+		<desc>Gabriel Knight is a wise-cracking bookstore owner and would-be author. He is the last in a long line of Shadow Hunters, those fated to fight supernatural forces of evil. Tormented by terrifying nightmares, he must spend every waking moment scouring the side streets and back alleys of New Orleans for the key to his dark past. One day, a blood-chilling murder shocks the inhabitants of the city. The police detective assigned to investigate the crime is Gabriels friend. In the beginning Gabriel collects evidence in hope of using the material for his new novel; but soon he finds himself personally involved in the investigation, and plunges deeper into the world of secret societies and murderous cults.
+
+Gabriel Knight: Sins of the Fathers is a third-person puzzle-solving adventure game. Created by Jane Jensen, the game differs from Sierras Quest games (e.g. Space Quest) by having a realistic setting and focusing (despite its supernatural elements and humor) on mature themes and detective work. In this way it is more similar to the companys earlier Laura Bow games. 
+
+The games icon-based interface is the same as in Sierras previous titles, with verb commands that allow interaction with the game world and its inhabitants. Though the game still has plenty of inventory-based puzzles characteristic for classic adventure, its gameplay is heavily inclined towards dialogue. Typically, Gabriel will have to interrogate other characters, choosing conversation topics and thus gradually finding clues and advancing towards the mysterys solution.
+
+The games locations are done in hand-painted style. The CD version of the game adds full voice-overs to the dialogues, as well as narrators voice to text descriptions.</desc>
+		<image>./mixart/gk1.png</image>
+		<video>./snap/gk1.mp4</video>
+		<marquee>./wheel/gk1.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Point and Click-Adventure</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./bladerunner-win.svm/Blade Runner.scummvm</path>
+		<name>Blade Runner</name>
+		<desc>Set in 2019 Los Angeles, the game tells the story of Ray McCoy, an elite detective charged with hunting down a group of dangerous replicants (bioengineered androids designed to look and act like humans). Although several of the film's characters appear in the game, with some of the original actors returning to voice them, the film's protagonist, Rick Deckard, does not appear in a speaking role. Instead, he is referred to on multiple occasions, is seen several times, and his activities as depicted in the film are mentioned. Other parallels with the film include the reproduction of several prominent locations, as well as scenes and dialogue closely modelled on the original. The game also features extracts from the film's soundtrack.</desc>
+		<image>./mixart/bladerunner-win.png</image>
+		<video>./snap/bladerunner-win.mp4</video>
+		<marquee>./wheel/bladerunner-win.png</marquee>
+		<rating>1</rating>
+		<releasedate>19971031T000000</releasedate>
+		<developer>Westwood Studios</developer>
+		<publisher>Virgin</publisher>
+		<genre>Point and Click-Adventure</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

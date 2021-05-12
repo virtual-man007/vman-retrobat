@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Mario Kart Arcade GP 2.lnk</path>
+		<name>Mario Kart Arcade Gp 2</name>
+		<desc>Mario Kart Arcade GP 2 is the second game in the Arcade series and the eighth overall. It is a follow-up to Mario Kart Arcade GP, and the game before Mario Kart Arcade GP DX. The game has custom karts for characters, similar to Mario Kart: Double Dash!! and Mario Kart DS. It contains virtually all the content of the original, but greatly expands it with the addition of several new courses, items and racers. Like the predecessor, Pac-Man characters appear as playable in this game. The game also introduces Mametchi as a playable character. In-game, it appears to be broadcast live and has color-commentary of the player by a narrator, whose language depends on the region of the game.</desc>
+		<image>./mixart/Mario Kart Arcade GP 2.png</image>
+		<video>./snap/Mario Kart Arcade GP 2.mp4</video>
+		<marquee>./wheel/Mario Kart Arcade GP 2.png</marquee>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./F-Zero AX.lnk</path>
+		<name>F-Zero AX</name>
+		<desc>F-Zero AX a great futuristic racing game and the sequel of the famous racer of Super Famicon. It runs on the Triforce board made by Sega, Namco and Nintendo. The cabinet features a slot where players can put their GameCube memory card to keep their player information from the arcade and F-Zero GX, the console version of the game. If you have a GameCube memory card with an F-Zero GX save on it, you'll be able to use vehicles from your garage in the arcade game. Custom touches such as decals and color schemes will also transfer over to the arcade game.</desc>
+		<image>./mixart/F-Zero AX.png</image>
+		<video>./snap/F-Zero AX.mp4</video>
+		<marquee>./wheel/F-Zero AX.png</marquee>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Amusement Vision</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Mario Kart Arcade GP.lnk</path>
+		<name>Mario Kart Arcade GP</name>
+		<desc>Mario Kart Arcade GP (Japanese: マリオカート アーケードグランプリ, Hepburn: Mario Kāto Ākēdo Guran Puri) is an arcade-only iteration of Nintendo's Mario Kart series, developed by Namco. Designed for the Triforce arcade board (also used for F-Zero AX), players can race as one of eleven characters on twenty-four tracks. On certain machines, for an additional fee, a player's data can be saved on a magnetic card which can be inserted into the machine again later to retain unlocked items and records. Nintendo's limited role of development was mainly isolated to ensuring that it was a worthy title for the established franchise.</desc>
+		<image>./mixart/Mario Kart Arcade GP.png</image>
+		<video>./snap/Mario Kart Arcade GP.mp4</video>
+		<marquee>./wheel/Mario Kart Arcade GP.png</marquee>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+</gameList>

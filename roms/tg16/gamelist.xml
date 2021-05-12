@@ -1634,6 +1634,19 @@ There are six zones in the game and has Gogan exploring forests, caves, mountain
 		<genre>Action</genre>
 	</game>
 	<game>
+		<path>./SideArms - Hyper Dyne (USA).zip</path>
+		<name>Side Arms Hyper Dyne</name>
+		<desc>Originating in the arcades, Side Arms is a horizontally scrolling shoot em up in which you control Lieutenant Henry (a second player can control Sergeant Sanders in some versions), armed with crude weaponry and protective jump-suits. They must save the earth from the mercenary invaders of Bozon. You must first reach Bozons territories, then wipe out its forces hidden in caverns and lurking in underground seas, before destroying the main invasion ship. Lots of extra weapons can be picked up, often with similar tokens to those in 1943 and some other Capcom titles. Most weapons can be shot either to the left or the right, giving you more range to launch attacks.</desc>
+		<image>./mixart/SideArms - Hyper Dyne (USA).png</image>
+		<video>./snap/SideArms - Hyper Dyne (USA).mp4</video>
+		<marquee>./wheel/SideArms - Hyper Dyne (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19890000T000000</releasedate>
+		<developer>Radiance Software</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em Up</genre>
+	</game>
+	<game>
 		<path>./1941 - Counter Attack.zip</path>
 		<name>1941 - Counter Attack</name>
 		<desc>The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). The game uses a vitality system instead of life system in which if the player is hit, it loses one point of vitality and the player is destroyed if hit with 0 vitality then the player is given the option to continue. Lightning attacks can be used by pressing the B button which sacrifices a portion of life energy. One is only able to perform three loops per level and a bonus is awarded at the end of the level for unused loops. Player 1 uses a P-38 Lightning and Player 2 uses a new plane: Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front, in the north Atlantic Ocean.
@@ -1650,19 +1663,6 @@ The game consists of six levels: North Atlantic Ocean Sky, European Sea Port, V3
 		<players>2</players>
 	</game>
 	<game>
-		<path>./SideArms - Hyper Dyne (USA).zip</path>
-		<name>Side Arms Hyper Dyne</name>
-		<desc>Originating in the arcades, Side Arms is a horizontally scrolling shoot em up in which you control Lieutenant Henry (a second player can control Sergeant Sanders in some versions), armed with crude weaponry and protective jump-suits. They must save the earth from the mercenary invaders of Bozon. You must first reach Bozons territories, then wipe out its forces hidden in caverns and lurking in underground seas, before destroying the main invasion ship. Lots of extra weapons can be picked up, often with similar tokens to those in 1943 and some other Capcom titles. Most weapons can be shot either to the left or the right, giving you more range to launch attacks.</desc>
-		<image>./mixart/SideArms - Hyper Dyne (USA).png</image>
-		<video>./snap/SideArms - Hyper Dyne (USA).mp4</video>
-		<marquee>./wheel/SideArms - Hyper Dyne (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19890000T000000</releasedate>
-		<developer>Radiance Software</developer>
-		<publisher>Capcom</publisher>
-		<genre>Shoot'em Up</genre>
-	</game>
-	<game>
 		<path>./Devil's Crush - Naxat Pinball (USA).zip</path>
 		<name>Devil's Crush</name>
 		<desc>Imagine an adventure game in the format of pinball, and you get Dragon's Fury. Your hero is a small silver ball, and your battlefield is a three-tiered pinball machine. Using your ball, you can defeat monsters, rack up points, and enter bonus stages. If you play with enough skill, you can trigger all sorts of point-accumulating bonuses. If you get one billion points, you get to fight the final boss and view the ending to the game.</desc>
@@ -1676,5 +1676,7 @@ The game consists of six levels: North Atlantic Ocean Sky, European Sea Port, V3
 		<genre>Various</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

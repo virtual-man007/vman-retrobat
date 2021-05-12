@@ -2969,22 +2969,6 @@ The second puzzle mode is used to reroute power from one system to another. To d
 		<marquee>./wheel/Star Trek - The Next Generation - The Advanced Holodeck Tutorial (USA).png</marquee>
 		<video>./snap/Star Trek - The Next Generation - The Advanced Holodeck Tutorial (USA).mp4</video>
 	</game>
-	<game id="12875" source="ScreenScraper.fr">
-		<path>./Star Wars (USA).7z</path>
-		<name>Star Wars</name>
-		<desc>This game is based closely on Star Wars Episode IV: A New Hope.  It combines a number of gameplay styles, but primarily it is a side scrolling run-and-jump platformer.
-
-The game begins on Tatooine, where you, as Luke Skywalker, must travel around and meet up with R2D2, C3PO, Obi-Wan, and so on. Eventually, you travel through Mos Eisley and the Death Star as well.  While most of the game has you controlling Luke, Han or Leia directly, some of the various game styles include a first-person Millennium Falcon asteroid belt sequence, and an overhead view Death Star trench run.</desc>
-		<rating>0.7</rating>
-		<releasedate>19931001T000000</releasedate>
-		<developer>U.S. Gold</developer>
-		<publisher>Tiertex Design Studios</publisher>
-		<genre>Platform-Action</genre>
-		<players>1</players>
-		<image>./mixart/Star Wars (USA).png</image>
-		<marquee>./wheel/Star Wars (USA).png</marquee>
-		<video>./snap/Star Wars (USA).mp4</video>
-	</game>
 	<game id="46304" source="ScreenScraper.fr">
 		<path>./Stargate (World).7z</path>
 		<name>Stargate</name>
@@ -4201,24 +4185,6 @@ Mike can move and shoot in all 8 directions, but can only stop and shoot up, dow
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./X-Men (USA).7z</path>
-		<name>X-Men</name>
-		<desc>X-Men is a sidescrolling beat'em up/platform game, much like its homonymous Mega Drive/ Genesis counterpart. Several X-Men characters are playable throughout the game. The player can choose from two characters from the start, Cyclops and Wolverine, and three Levels are accessible. In the course of the game, the player can unlock five other X-Men, namely Storm, Iceman, Rogue, Nightcrawler and Psylocke.
-
-The story is that most of the X-Men have been kidnapped by Magneto, which is the reason why only Cyclops and Wolverine are available from the start. Apparently, unlocking the characters equals rescuing him. On the way, there several foes from the X-Men universe to beat, and at the end, Magneto once again needs a reprehension.
-
-The basic mechanics of the game are punching, (double-)jumping and jump-kicking. Furthermore, pressing Start activates/ deactivates the characters mutant ability, for example Wolverine's claws or Cyclops' laser beams. Using it however drains a limited amount of energy, which can be refreshed by finding "X"-symbols.</desc>
-		<image>./mixart/X-Men (USA).png</image>
-		<video>./snap/X-Men (USA).mp4</video>
-		<marquee>./wheel/X-Men (USA).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform-Action</genre>
-		<players>1-4</players>
-	</game>
-	<game>
 		<path>./RoboCop 3 (USA, Europe).7z</path>
 		<name>RoboCop 3</name>
 		<desc>RoboCop 3 is a side-scrolling platform shooter. You get missions (such as rescuing your colleagues who are being kept hostages), which are divided into several smaller levels. The levels usually consist of several platforms, and are heavily populated by enemies who shoot at you. You can gather special repair kits, which will be used to restore your health after you've completed a level. "RoboCop 3" is more of a shooter than its predecessors, having more and tougher enemies.</desc>
@@ -4249,36 +4215,6 @@ Jim overhears the Queen's plans for the suit and decides to meet this Princess..
 		<genre>Platform-Action</genre>
 	</game>
 	<game>
-		<path>./5 in 1 Funpak (USA).7z</path>
-		<name>5 in 1 Funpak</name>
-		<desc>5 in One Fun Pak is a collection of well-known games for the Sega Game Gear. Included are versions of Chess, Checkers, Backgammon, Reversi and Yacht (using Yahtzee's rules), and the player can choose whether to play against the computer or another human. Each game (except Yacht) has difficulty settings.
-
-The game was released exclusively in North America in 1994.</desc>
-		<image>./mixart/5 in 1 Funpak (USA).png</image>
-		<video>./snap/5 in 1 Funpak (USA).mp4</video>
-		<marquee>./wheel/5 in 1 Funpak (USA).png</marquee>
-		<rating>0.55</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Beam Software</developer>
-		<publisher>Interplay</publisher>
-		<genre>Compilation-Board game</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Aerial Assault (World).7z</path>
-		<name>Aerial Assault</name>
-		<desc>In Aerial Assault, you play the Freedom Fighter who must destroy five targets, including the Vinsk, CB-53 Bomber, "El", and two cliff fortresses. During each of the five missions, you will encounter enemy jets, choppers, submarines, jeeps, parachute bombs, and several other enemies in which you must destroy. Shooting either the spinning fighters or the small flying helicopters will earn you a power-up that allows you to upgrade or downgrade your firepower. There are three difficult settings: "Easy", "Normal", and "Hard". You will not be able to complete the game if you select the "Easy" setting.</desc>
-		<image>./mixart/Aerial Assault (World).png</image>
-		<video>./snap/Aerial Assault (World).mp4</video>
-		<marquee>./wheel/Aerial Assault (World).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Sims</developer>
-		<publisher>Sega</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Aladdin (USA, Europe).7z</path>
 		<name>Aladdin</name>
 		<desc>Sega's 8-bit systems received a unique adaptation of Disney's 1992 animated film Aladdin.
@@ -4306,5 +4242,75 @@ Like other versions, it is a side-scrolling action game. The player controls Ala
 		<developer>Probe Software Ltd.</developer>
 		<publisher>Arena Entertainment</publisher>
 		<genre>Platform</genre>
+	</game>
+	<game>
+		<path>./5 in 1 Funpak (USA).7z</path>
+		<name>5 in 1 Funpak</name>
+		<desc>5 in One Fun Pak is a collection of well-known games for the Sega Game Gear. Included are versions of Chess, Checkers, Backgammon, Reversi and Yacht (using Yahtzee's rules), and the player can choose whether to play against the computer or another human. Each game (except Yacht) has difficulty settings.
+
+The game was released exclusively in North America in 1994.</desc>
+		<image>./mixart/5 in 1 Funpak (USA).png</image>
+		<video>./snap/5 in 1 Funpak (USA).mp4</video>
+		<marquee>./wheel/5 in 1 Funpak (USA).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Beam Software</developer>
+		<publisher>Interplay</publisher>
+		<genre>Compilation-Board game</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Star Wars (USA).7z</path>
+		<name>Star Wars</name>
+		<desc>This game is based closely on Star Wars Episode IV: A New Hope.  It combines a number of gameplay styles, but primarily it is a side scrolling run-and-jump platformer.
+
+The game begins on Tatooine, where you, as Luke Skywalker, must travel around and meet up with R2D2, C3PO, Obi-Wan, and so on. Eventually, you travel through Mos Eisley and the Death Star as well.  While most of the game has you controlling Luke, Han or Leia directly, some of the various game styles include a first-person Millennium Falcon asteroid belt sequence, and an overhead view Death Star trench run.</desc>
+		<image>./mixart/Star Wars (USA).png</image>
+		<video>./snap/Star Wars (USA).mp4</video>
+		<marquee>./wheel/Star Wars (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19931001T000000</releasedate>
+		<developer>U.S. Gold</developer>
+		<publisher>Tiertex Design Studios</publisher>
+		<genre>Platform-Action</genre>
+	</game>
+	<game>
+		<path>./Aerial Assault (World).7z</path>
+		<name>Aerial Assault</name>
+		<desc>In Aerial Assault, you play the Freedom Fighter who must destroy five targets, including the Vinsk, CB-53 Bomber, "El", and two cliff fortresses. During each of the five missions, you will encounter enemy jets, choppers, submarines, jeeps, parachute bombs, and several other enemies in which you must destroy. Shooting either the spinning fighters or the small flying helicopters will earn you a power-up that allows you to upgrade or downgrade your firepower. There are three difficult settings: "Easy", "Normal", and "Hard". You will not be able to complete the game if you select the "Easy" setting.</desc>
+		<image>./mixart/Aerial Assault (World).png</image>
+		<video>./snap/Aerial Assault (World).mp4</video>
+		<marquee>./wheel/Aerial Assault (World).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sims</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./X-Men (USA).7z</path>
+		<name>X-Men</name>
+		<desc>X-Men is a sidescrolling beat'em up/platform game, much like its homonymous Mega Drive/ Genesis counterpart. Several X-Men characters are playable throughout the game. The player can choose from two characters from the start, Cyclops and Wolverine, and three Levels are accessible. In the course of the game, the player can unlock five other X-Men, namely Storm, Iceman, Rogue, Nightcrawler and Psylocke.
+
+The story is that most of the X-Men have been kidnapped by Magneto, which is the reason why only Cyclops and Wolverine are available from the start. Apparently, unlocking the characters equals rescuing him. On the way, there several foes from the X-Men universe to beat, and at the end, Magneto once again needs a reprehension.
+
+The basic mechanics of the game are punching, (double-)jumping and jump-kicking. Furthermore, pressing Start activates/ deactivates the characters mutant ability, for example Wolverine's claws or Cyclops' laser beams. Using it however drains a limited amount of energy, which can be refreshed by finding "X"-symbols.</desc>
+		<image>./mixart/X-Men (USA).png</image>
+		<video>./snap/X-Men (USA).mp4</video>
+		<marquee>./wheel/X-Men (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform-Action</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

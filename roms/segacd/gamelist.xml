@@ -2999,6 +2999,26 @@ Night Trap was the very first game that used the FMV (full-motion video) technol
 		<genre>Action-Fight-Adventure</genre>
 	</game>
 	<game>
+		<path>./Terminator, The (USA).chd</path>
+		<name>The Terminator</name>
+		<desc>Similar to adaptations of The Terminator on other systems, the Sega CD game is a platformer where the player controls Kyle Reese, who travels back in time from the year 2029 to protect Sarah Connor from the unstoppable killing machine known as the Terminator.
+
+The game consists of 10 levels. Future locations include the post-apocalyptic wasteland of 2029 Los Angeles and the time displacement complex. In the present of 1984, Reese must traverse the streets and rooftops of L.A., as well as the Tech Noir club, the police station, and, for the finale, an automated factory. 
+
+Reese is armed with a gun with unlimited ammo as well as a limited number of grenades to dispatch the many enemies, including Terminators and HKs in the future and punks in the present. In addition to these, several bosses must also be fought. The boss battles include several encounters with the Terminator, who naturally cannot be completely destroyed until the finale, but must be driven back to keep him from harming Sarah.
+
+Between levels, the game shows small digitized clips from the film that advance the storyline. The game also features a fully CD-based soundtrack with tracks ranging from heavy rock to electronic tunes.</desc>
+		<image>./mixart/Terminator, The (USA).png</image>
+		<video>./snap/Terminator, The (USA).mp4</video>
+		<marquee>./wheel/Terminator, The (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19930000T000000</releasedate>
+		<developer>Probe Software</developer>
+		<publisher>Virgin</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
 		<path>./Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).cue</path>
 		<name>Dracula Unleashed (Disc 1)</name>
 		<desc>Dracula Unleashed is an interactive movie in the same vein as Sherlock Holmes: Consulting Detective. Basically, you can choose from several locations to go to, and at each location you are shown different events through live-action video clips. Clues in the videos will point you to where you should go next. You also have an "inventory" which you can use to affect the outcome of certain clips (for example, if you enter an asylum with the blackjack you'll be able to defend yourself against any escaped inmates, but if you don't bring the blackjack with you you'll be killed). Time is constantly moving and new events will pop up at different times of the day.  In Dracula Unleashed it is the year 1899, ten years after the destruction of count Dracula chronicled in Bram Stoker's novel. You take the role of Alexander Morris, the younger brother of Texan Quincey Morris who died defeating Dracula. Alexander has come to London to investigate the circumstances of his brother's death, but became sidetracked when he fell in love with and proposed to a local girl named Annisette.  Now, the dawn of a new millennium approaches and an evil force is stalking the streets of London, draining victims of their blood and transforming innocent women into bloodthirsty vampiresses. With the aide of your brother's old friends, the survivors of Dracula's evil, you must uncover the identity of this new vampire and prevent him from transforming Annisette into his queen of the night. Do not fail her, or she will personally rip your throat out.</desc>
@@ -3032,25 +3052,5 @@ The Sega CD version of the game retains identical levels and gameplay, but adds 
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
-	</game>
-	<game>
-		<path>./Terminator, The (USA).chd</path>
-		<name>The Terminator</name>
-		<desc>Similar to adaptations of The Terminator on other systems, the Sega CD game is a platformer where the player controls Kyle Reese, who travels back in time from the year 2029 to protect Sarah Connor from the unstoppable killing machine known as the Terminator.
-
-The game consists of 10 levels. Future locations include the post-apocalyptic wasteland of 2029 Los Angeles and the time displacement complex. In the present of 1984, Reese must traverse the streets and rooftops of L.A., as well as the Tech Noir club, the police station, and, for the finale, an automated factory. 
-
-Reese is armed with a gun with unlimited ammo as well as a limited number of grenades to dispatch the many enemies, including Terminators and HKs in the future and punks in the present. In addition to these, several bosses must also be fought. The boss battles include several encounters with the Terminator, who naturally cannot be completely destroyed until the finale, but must be driven back to keep him from harming Sarah.
-
-Between levels, the game shows small digitized clips from the film that advance the storyline. The game also features a fully CD-based soundtrack with tracks ranging from heavy rock to electronic tunes.</desc>
-		<image>./mixart/Terminator, The (USA).png</image>
-		<video>./snap/Terminator, The (USA).mp4</video>
-		<marquee>./wheel/Terminator, The (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19930000T000000</releasedate>
-		<developer>Probe Software</developer>
-		<publisher>Virgin</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
 	</game>
 </gameList>

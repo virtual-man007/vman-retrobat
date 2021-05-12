@@ -554,5 +554,7 @@
 		<publisher>SNK</publisher>
 		<genre>Sports-Sports / Baseball</genre>
 		<players>2</players>
+		<lang>en,jp</lang>
+		<region>jp</region>
 	</game>
 </gameList>

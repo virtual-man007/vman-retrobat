@@ -6,91 +6,6 @@
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game id="3869" source="ScreenScraper.fr">
-		<path>./007 - NightFire (USA, Europe) (En,Fr,De).7z</path>
-		<name>007 : Nightfire</name>
-		<desc>The ultimate secret agent is back in his most dangerous adventure yet in James Bond 007: NightFire. Explore new heights and depths like never before -- infiltrate towering skyscrapers, take on treacherous underwater missions, and tackle original missions including assignments in outer space. All this plus glamorous (and sometimes deadly) Bond women, new state-of-the-art gadgets and weapons, and an advanced in-game camera system will leave you shaken and stirred.</desc>
-		<rating>0.6</rating>
-		<releasedate>20030402T000000</releasedate>
-		<developer>JV Games</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Sports-Shooter / 1st person</genre>
-		<players>1-2</players>
-		<image>./mixart/007 - NightFire (USA, Europe) (En,Fr,De).png</image>
-		<marquee>./wheel/007 - NightFire (USA, Europe) (En,Fr,De).png</marquee>
-		<video>./snap/007 - NightFire (USA, Europe) (En,Fr,De).mp4</video>
-	</game>
-	<game id="4065" source="ScreenScraper.fr">
-		<path>./2006 FIFA World Cup - Germany 2006 (USA, Europe) (En,Fr,De,Es,It).7z</path>
-		<name>2006 FIFA World Cup</name>
-		<desc>FIFA Soccer 2006 lets you become a soccer player or manage a team to its destiny! Get out on the Pitch as you play a complete, authentic, and intelligent soccer experience. Pull the team together when the game gets rough, and make sure your team chemistry keeps teams in the game.</desc>
-		<rating>0.55</rating>
-		<releasedate>20060427T000000</releasedate>
-		<developer>EA Sports</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Sports</genre>
-		<players>1-2</players>
-		<image>./mixart/2006 FIFA World Cup - Germany 2006 (USA, Europe) (En,Fr,De,Es,It).png</image>
-		<marquee>./wheel/2006 FIFA World Cup - Germany 2006 (USA, Europe) (En,Fr,De,Es,It).png</marquee>
-		<video>./snap/2006 FIFA World Cup - Germany 2006 (USA, Europe) (En,Fr,De,Es,It).mp4</video>
-	</game>
-	<game id="4634" source="ScreenScraper.fr">
-		<path>./2K Sports - Major League Baseball 2K7 (USA).7z</path>
-		<name>2K Sports : Major League Baseball 2K7</name>
-		<desc>It's a whole new ballgame. Major League Baseball 2K7 redefines the pure baseball video game experience with true, Next-Gen details, all-new throwing mechanics and a revolutionary presentation system.</desc>
-		<rating>0</rating>
-		<releasedate>20070226T000000</releasedate>
-		<developer>Skyworks</developer>
-		<publisher>2K Games</publisher>
-		<genre>Sports</genre>
-		<image>./mixart/2K Sports - Major League Baseball 2K7 (USA).png</image>
-		<marquee>./wheel/2K Sports - Major League Baseball 2K7 (USA).png</marquee>
-		<video>./snap/2K Sports - Major League Baseball 2K7 (USA).mp4</video>
-	</game>
-	<game id="84632" source="ScreenScraper.fr">
-		<path>./Sound of Thunder, A (USA) (En,Fr,De,Es,It).7z</path>
-		<name>A Sound of Thunder</name>
-		<desc>Based on the Franchise Pictures movie of the same name, A Sound of Thunder takes you to a future where time travel is possible. Things quickly go wrong when someone alters the past, creating a sequence of time ripples that mutate the present-day world. Now you must solve the mystery and sort out a mess that just might mean the end of human existence. You'll solve puzzles, manipulate items, interact with other characters, and eliminate mutant creatures and plants. In addition to a single-player mode, the game features both cooperative and competitive multiplayer modes.</desc>
-		<rating>0.65</rating>
-		<releasedate>20050201T000000</releasedate>
-		<developer>Mobius Entertainment</developer>
-		<publisher>Bam Entertainment</publisher>
-		<genre>Action / Adventure</genre>
-		<players>1</players>
-		<image>./mixart/Sound of Thunder, A (USA) (En,Fr,De,Es,It).png</image>
-		<marquee>./wheel/Sound of Thunder, A (USA) (En,Fr,De,Es,It).png</marquee>
-		<video>./snap/Sound of Thunder, A (USA) (En,Fr,De,Es,It).mp4</video>
-	</game>
-	<game id="4221" source="ScreenScraper.fr">
-		<path>./Ace Combat Advance (USA, Europe).7z</path>
-		<name>Ace Combat Advance</name>
-		<desc>The Air Strike Force (A.S.F.) is the most advanced aircraft squadron on the planet. Not held by any nation, they are owned by General Resources Ltd. who begins to assign the A.S.F. to duties designed to destroy competition and put them at an economic advantage. Alarmed by this dominance, the nations of the world ally themselves to form the United Air Defense (U.A.D.) whose goal is to fight the war on the A.S.F. and destroy their weapons capability.
-
-Ace Combat Advance is a top-down shooter. The player begins by picking an aircraft and secondary weapon type to use on each mission. Upon entering the level, the player is able to rotate left, right and perform a dive maneuver, while at the same time thrust and breaking can be applied. For weapons the player is able to fire a cannon directly in front of the plane or fire the secondary weapon, the specifics of which vary. A briefing showing each of the  12 mission''s objectives and defined targets.</desc>
-		<rating>0.6</rating>
-		<releasedate>20060623T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Namco</publisher>
-		<genre>Shooter-Action</genre>
-		<players>1</players>
-		<image>./mixart/Ace Combat Advance (USA, Europe).png</image>
-		<marquee>./wheel/Ace Combat Advance (USA, Europe).png</marquee>
-		<video>./snap/Ace Combat Advance (USA, Europe).mp4</video>
-	</game>
-	<game id="65417" source="ScreenScraper.fr">
-		<path>./Ace Lightning (Europe).7z</path>
-		<name>Ace Lightning</name>
-		<desc>This GBA version of Ace Lightning is based on the BBC TV show of the same name which is a mixture of CGI and live action. It first plays from an overhead view of an Amusement Park where you can enter open doors which lead to 12 different themed worlds. Each world is a 2D side-scrolling platformer, where you face different enemies and end-level bosses all in your quest to find the Gold Amulet.  Once you finish a certain number of the levels,  you'll be rewarded with one of two mini-games. One is a target range where you have to shoot a number of enemies within a certain time. The other is a strength test where Ace must swing to hit a bell at the top of a pole.</desc>
-		<rating>0.4</rating>
-		<releasedate>20021025T000000</releasedate>
-		<developer>Tiertex Design Studios</developer>
-		<publisher>BBC Multimedia</publisher>
-		<genre>Shooter-Action</genre>
-		<players>1</players>
-		<image>./mixart/Ace Lightning (Europe).png</image>
-		<marquee>./wheel/Ace Lightning (Europe).png</marquee>
-		<video>./snap/Ace Lightning (Europe).mp4</video>
-	</game>
 	<game id="72006" source="ScreenScraper.fr">
 		<path>./Activision Anthology (USA).7z</path>
 		<name>Activision Anthology</name>
@@ -13592,20 +13507,6 @@ Unlock new environments as you progress and upgrade your skates with the money y
 		<marquee>./wheel/X-Bladez - Inline Skater (USA).png</marquee>
 		<video>./snap/X-Bladez - Inline Skater (USA).mp4</video>
 	</game>
-	<game id="84969" source="ScreenScraper.fr">
-		<path>./X-Men - The Official Game (USA).7z</path>
-		<name>X-Men - The Official Game</name>
-		<desc>Master the power of the X-Men! Become Wolverine, Nightcrawler, Iceman or Colossus and unleash their skills as you battle through events leading up to the feature film 'X-Men: The Last Stand'.</desc>
-		<rating>0.35</rating>
-		<releasedate>20060519T000000</releasedate>
-		<developer>Activision</developer>
-		<publisher>Activision</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/X-Men - The Official Game (USA).png</image>
-		<marquee>./wheel/X-Men - The Official Game (USA).png</marquee>
-		<video>./snap/X-Men - The Official Game (USA).mp4</video>
-	</game>
 	<game id="4269" source="ScreenScraper.fr">
 		<path>./X-Men - Reign of Apocalypse (USA, Europe).7z</path>
 		<name>X-Men : Reign of Apocalypse</name>
@@ -14583,6 +14484,149 @@ Each table has a variety of scoring opportunities, including ramps, spinners, an
 		<genre>Various</genre>
 		<players>1-2</players>
 	</game>
+	<game id="84969" source="ScreenScraper.fr">
+		<path>./X-Men - The Official Game (USA).7z</path>
+		<name>X-Men - The Official Game</name>
+		<desc>Master the power of the X-Men! Become Wolverine, Nightcrawler, Iceman or Colossus and unleash their skills as you battle through events leading up to the feature film 'X-Men: The Last Stand'.</desc>
+		<image>./mixart/X-Men - The Official Game (USA).png</image>
+		<video>./snap/X-Men - The Official Game (USA).mp4</video>
+		<marquee>./wheel/X-Men - The Official Game (USA).png</marquee>
+		<rating>0.35</rating>
+		<releasedate>20060519T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./007 - Everything or Nothing (USA, Europe) (En,Fr,De).7z</path>
+		<name>007 : Everything or Nothing</name>
+		<desc>Think like Bond, act like Bond, and experience an entirely new Bond adventure. James Bond, the world's greatest secret agent, returns in Everything or Nothing with new guns and gadgets, combat skills, and clever tricks--and it's up to you to put them to good use. Travel through four exciting continents including the Valley of the Kings in Egypt and the French Quarter in New Orleans. The game also features two-player co-op missions and four-player multiplayer arena modes.</desc>
+		<image>./mixart/007 - Everything or Nothing (USA, Europe) (En,Fr,De).png</image>
+		<video>./snap/007 - Everything or Nothing (USA, Europe) (En,Fr,De).mp4</video>
+		<marquee>./wheel/007 - Everything or Nothing (USA, Europe) (En,Fr,De).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20031205T000000</releasedate>
+		<developer>Griptonite Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Shooter / 3rd person</genre>
+		<players>2</players>
+		<lang>de,en,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="3869" source="ScreenScraper.fr">
+		<path>./007 - NightFire (USA, Europe) (En,Fr,De).7z</path>
+		<name>007 : Nightfire</name>
+		<desc>The ultimate secret agent is back in his most dangerous adventure yet in James Bond 007: NightFire. Explore new heights and depths like never before -- infiltrate towering skyscrapers, take on treacherous underwater missions, and tackle original missions including assignments in outer space. All this plus glamorous (and sometimes deadly) Bond women, new state-of-the-art gadgets and weapons, and an advanced in-game camera system will leave you shaken and stirred.</desc>
+		<image>./mixart/007 - NightFire (USA, Europe) (En,Fr,De).png</image>
+		<video>./snap/007 - NightFire (USA, Europe) (En,Fr,De).mp4</video>
+		<marquee>./wheel/007 - NightFire (USA, Europe) (En,Fr,De).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20030402T000000</releasedate>
+		<developer>JV Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports-Shooter / 1st person</genre>
+		<players>2</players>
+		<lang>de,en,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="4065" source="ScreenScraper.fr">
+		<path>./2006 FIFA World Cup - Germany 2006 (USA, Europe) (En,Fr,De,Es,It).7z</path>
+		<name>2006 FIFA World Cup</name>
+		<desc>FIFA Soccer 2006 lets you become a soccer player or manage a team to its destiny! Get out on the Pitch as you play a complete, authentic, and intelligent soccer experience. Pull the team together when the game gets rough, and make sure your team chemistry keeps teams in the game.</desc>
+		<image>./mixart/2006 FIFA World Cup - Germany 2006 (USA, Europe) (En,Fr,De,Es,It).png</image>
+		<video>./snap/2006 FIFA World Cup - Germany 2006 (USA, Europe) (En,Fr,De,Es,It).mp4</video>
+		<marquee>./wheel/2006 FIFA World Cup - Germany 2006 (USA, Europe) (En,Fr,De,Es,It).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>20060427T000000</releasedate>
+		<developer>EA Sports</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+	</game>
+	<game id="4634" source="ScreenScraper.fr">
+		<path>./2K Sports - Major League Baseball 2K7 (USA).7z</path>
+		<name>2K Sports : Major League Baseball 2K7</name>
+		<desc>It's a whole new ballgame. Major League Baseball 2K7 redefines the pure baseball video game experience with true, Next-Gen details, all-new throwing mechanics and a revolutionary presentation system.</desc>
+		<image>./mixart/2K Sports - Major League Baseball 2K7 (USA).png</image>
+		<video>./snap/2K Sports - Major League Baseball 2K7 (USA).mp4</video>
+		<marquee>./wheel/2K Sports - Major League Baseball 2K7 (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20070226T000000</releasedate>
+		<developer>Skyworks</developer>
+		<publisher>2K Games</publisher>
+		<genre>Sports</genre>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="4221" source="ScreenScraper.fr">
+		<path>./Ace Combat Advance (USA, Europe).7z</path>
+		<name>Ace Combat Advance</name>
+		<desc>The Air Strike Force (A.S.F.) is the most advanced aircraft squadron on the planet. Not held by any nation, they are owned by General Resources Ltd. who begins to assign the A.S.F. to duties designed to destroy competition and put them at an economic advantage. Alarmed by this dominance, the nations of the world ally themselves to form the United Air Defense (U.A.D.) whose goal is to fight the war on the A.S.F. and destroy their weapons capability.
+
+Ace Combat Advance is a top-down shooter. The player begins by picking an aircraft and secondary weapon type to use on each mission. Upon entering the level, the player is able to rotate left, right and perform a dive maneuver, while at the same time thrust and breaking can be applied. For weapons the player is able to fire a cannon directly in front of the plane or fire the secondary weapon, the specifics of which vary. A briefing showing each of the  12 mission''s objectives and defined targets.</desc>
+		<image>./mixart/Ace Combat Advance (USA, Europe).png</image>
+		<video>./snap/Ace Combat Advance (USA, Europe).mp4</video>
+		<marquee>./wheel/Ace Combat Advance (USA, Europe).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20060623T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Namco</publisher>
+		<genre>Shooter-Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game id="65417" source="ScreenScraper.fr">
+		<path>./Ace Lightning (Europe).7z</path>
+		<name>Ace Lightning</name>
+		<desc>This GBA version of Ace Lightning is based on the BBC TV show of the same name which is a mixture of CGI and live action. It first plays from an overhead view of an Amusement Park where you can enter open doors which lead to 12 different themed worlds. Each world is a 2D side-scrolling platformer, where you face different enemies and end-level bosses all in your quest to find the Gold Amulet.  Once you finish a certain number of the levels,  you'll be rewarded with one of two mini-games. One is a target range where you have to shoot a number of enemies within a certain time. The other is a strength test where Ace must swing to hit a bell at the top of a pole.</desc>
+		<image>./mixart/Ace Lightning (Europe).png</image>
+		<video>./snap/Ace Lightning (Europe).mp4</video>
+		<marquee>./wheel/Ace Lightning (Europe).png</marquee>
+		<rating>0.4</rating>
+		<releasedate>20021025T000000</releasedate>
+		<developer>Tiertex Design Studios</developer>
+		<publisher>BBC Multimedia</publisher>
+		<genre>Shooter-Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - The Minish Cap (USA).7z</path>
+		<name>The Legend of Zelda : The Minish Cap</name>
+		<desc>Link returns in an all-new Game Boy Advance adventure. When the sorcerer Vaati turns Princess Zelda to stone, the king of Hyrule sends Link on a quest that takes him to all-new locations. Using the power of a mystical hat called the Minish Cap, Link must travel through a fantastic world rife with new items, puzzles, and bosses. As Link, you can shrink down to either battle large enemies from within or find secret items. You can also unlock items and solve puzzles by fusing together magic relics.</desc>
+		<image>./mixart/Legend of Zelda, The - The Minish Cap (USA).png</image>
+		<video>./snap/Legend of Zelda, The - The Minish Cap (USA).mp4</video>
+		<marquee>./wheel/Legend of Zelda, The - The Minish Cap (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20050110T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Adventure</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="84632" source="ScreenScraper.fr">
+		<path>./Sound of Thunder, A (USA) (En,Fr,De,Es,It).7z</path>
+		<name>A Sound of Thunder</name>
+		<desc>Based on the Franchise Pictures movie of the same name, A Sound of Thunder takes you to a future where time travel is possible. Things quickly go wrong when someone alters the past, creating a sequence of time ripples that mutate the present-day world. Now you must solve the mystery and sort out a mess that just might mean the end of human existence. You'll solve puzzles, manipulate items, interact with other characters, and eliminate mutant creatures and plants. In addition to a single-player mode, the game features both cooperative and competitive multiplayer modes.</desc>
+		<image>./mixart/Sound of Thunder, A (USA) (En,Fr,De,Es,It).png</image>
+		<video>./snap/Sound of Thunder, A (USA) (En,Fr,De,Es,It).mp4</video>
+		<marquee>./wheel/Sound of Thunder, A (USA) (En,Fr,De,Es,It).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20050201T000000</releasedate>
+		<developer>Mobius Entertainment</developer>
+		<publisher>Bam Entertainment</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+	</game>
 	<game>
 		<path>./Tron 2.0 - Killer App (USA).7z</path>
 		<name>Tron 2.0 : Killer App</name>
@@ -14597,6 +14641,8 @@ Each table has a variety of scoring opportunities, including ramps, spinners, an
 		<genre>Puzzle-Game</genre>
 		<players>4</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 	<game>
 		<path>./River City Ransom EX (USA).7z</path>
@@ -14614,38 +14660,12 @@ Riki's heart is burning with fury, and he flies out of the gates and seeks out h
 		<video>./snap/River City Ransom EX (USA).mp4</video>
 		<marquee>./wheel/River City Ransom EX (USA).png</marquee>
 		<rating>0</rating>
-		<releasedate />
+		<releasedate></releasedate>
 		<developer>Million</developer>
 		<publisher>Atlus</publisher>
 		<genre>Action</genre>
 		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./007 - Everything or Nothing (USA, Europe) (En,Fr,De).7z</path>
-		<name>007 : Everything or Nothing</name>
-		<desc>Think like Bond, act like Bond, and experience an entirely new Bond adventure. James Bond, the world's greatest secret agent, returns in Everything or Nothing with new guns and gadgets, combat skills, and clever tricks--and it's up to you to put them to good use. Travel through four exciting continents including the Valley of the Kings in Egypt and the French Quarter in New Orleans. The game also features two-player co-op missions and four-player multiplayer arena modes.</desc>
-		<image>./mixart/007 - Everything or Nothing (USA, Europe) (En,Fr,De).png</image>
-		<video>./snap/007 - Everything or Nothing (USA, Europe) (En,Fr,De).mp4</video>
-		<marquee>./wheel/007 - Everything or Nothing (USA, Europe) (En,Fr,De).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20031205T000000</releasedate>
-		<developer>Griptonite Games</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Shooter / 3rd person</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Legend of Zelda, The - The Minish Cap (USA).7z</path>
-		<name>The Legend of Zelda : The Minish Cap</name>
-		<desc>Link returns in an all-new Game Boy Advance adventure. When the sorcerer Vaati turns Princess Zelda to stone, the king of Hyrule sends Link on a quest that takes him to all-new locations. Using the power of a mystical hat called the Minish Cap, Link must travel through a fantastic world rife with new items, puzzles, and bosses. As Link, you can shrink down to either battle large enemies from within or find secret items. You can also unlock items and solve puzzles by fusing together magic relics.</desc>
-		<image>./mixart/Legend of Zelda, The - The Minish Cap (USA).png</image>
-		<video>./snap/Legend of Zelda, The - The Minish Cap (USA).mp4</video>
-		<marquee>./wheel/Legend of Zelda, The - The Minish Cap (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20050110T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action-Adventure</genre>
-		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

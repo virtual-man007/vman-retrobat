@@ -2632,22 +2632,6 @@ Nothing beats the competitive feel of racing. Feel the thrill as you race past y
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Cuphead.lnk</path>
-		<name>Cuphead</name>
-		<desc>Cuphead is a run and gun platform indie video game developed and published by StudioMDHR Entertainment. As the titular character Cuphead, the player fights a series of bosses in order to repay a debt to the devil.</desc>
-		<image>./mixart/Cuphead.png</image>
-		<video>./snap/Cuphead.mp4</video>
-		<marquee>./wheel/Cuphead.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20171201T000000</releasedate>
-		<developer>StudioMDHR Entertainment</developer>
-		<publisher>StudioMDHR Entertainment</publisher>
-		<genre>Adventure, Platform</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Curse of the Dead Gods.lnk</path>
 		<name>Curse of the Dead Gods</name>
 		<desc>You seek untold riches, eternal life, divine powers - it leads to this accursed temple, a seemingly-infinite labyrinth of bottomless pits, deadly traps, and monsters. Your greed will lead you to death, but that is not an escape. Rise to fight again. Delve deeper again. Defy the malignant deities that linger in this place. Battle through hordes of enemies in dark, cavernous passages filled with traps and secrets of all sorts - fire-spewing statues, explosives, hidden spikes, and worse. Collect mystical Relics and an arsenal of weapons to make yourself unstoppable. Corruption builds in you with every step - encourage or ignore it, but each powerful curse can be a double-edged sword. - A skill-based roguelike exploring a cruel, dark temple made of endless rooms and corridors - Swords, spears, bows, guns - wield these and many more - Unique curses influence each attempt, putting a twist on every action - Dozens of enemies, with powerful champions and deadly bosses to face off against.</desc>
@@ -2862,21 +2846,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<players>1-4</players>
 	</game>
 	<game>
-		<path>./Gabriel Knight - Sins of the Fathers 20th Anniversary Edition.lnk</path>
-		<name>Gabriel Knight - Sins of the Fathers 20th Anniversary Edition</name>
-		<desc>This 20th Anniversary Edition is a remake of Gabriel Knight: Sins of the Fathers. It features new HD graphics, new puzzles, new voice acting, a remastered soundtrack by the original composer, and even some new locations. The game stays true to the original in terms of the story, and while it is still a 3rd-person point-and-click adventure game, it uses 3D graphics and character models instead of 2D graphics with sprites. Unlike the original, the game includes a hint book which lets you gradually (tip by tip until the actual solution) view tips on how to solve puzzles. There is a certain waiting time between checking the next available hint. Also, the hint book is integrated as Gabriel's diary where he keeps track of the story and his ideas which may provide clues to solving some puzzles or figuring what to do next. And finally, the book also contains extras which are tied to your current location.</desc>
-		<image>./mixart/Gabriel Knight - Sins of the Fathers 20th Anniversary Edition.jpg</image>
-		<video>./snap/Gabriel Knight - Sins of the Fathers 20th Anniversary Edition.mp4</video>
-		<marquee>./wheel/Gabriel Knight - Sins of the Fathers 20th Anniversary Edition.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20140430T000000</releasedate>
-		<developer>Phoenix Online Studios</developer>
-		<publisher>Phoenix Online Studios</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Journey.lnk</path>
 		<name>Journey</name>
 		<desc>Explore the ancient, mysterious world of Journey as you soar above ruins and glide across sands to discover its secrets. Play alone or in the company of a fellow traveler and explore its vast world together. Featuring stunning visuals and a Grammy-nominated musical score, Journey delivers a breathtaking experience like no other.</desc>
@@ -2889,36 +2858,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<publisher>Annapurna Interactive</publisher>
 		<genre>Adventure</genre>
 		<players>1</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Pinball Arcade.lnk</path>
-		<name>Pinball Arcade</name>
-		<desc>Pinball Arcade by FarSight Studios features exact recreations of the all-time greatest pinball tables from Stern Pinball! The Pinball Arcade is the most realistic and comprehensive pinball game ever created. Please support us in our efforts to preserve these tables and join the indelible part of Americana that is pinball!</desc>
-		<image>./mixart/Pinball Arcade.png</image>
-		<video>./snap/Pinball Arcade.mp4</video>
-		<marquee>./wheel/Pinball Arcade.png</marquee>
-		<rating>4.48</rating>
-		<releasedate>20131104T000000</releasedate>
-		<developer>FarSight Studios</developer>
-		<publisher>FarSight Studios</publisher>
-		<genre>Action</genre>
-		<players>1-4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./RetroMania Wrestling.lnk</path>
-		<name>RetroMania Wrestling</name>
-		<desc>RetroMania Wrestling is the official sequel to the classic arcade game Wrestlefest that was released in 1991 by Technos of Japan. RetroMania Wrestling will be a “pick up and play” arcade wrestling game with beautiful 2D sprites, incredible backgrounds and fast-paced arcade style game play. • 16 Unique, distinct playable wrestlers at launch (adding more post launch via DLC) • Over 15 Arenas • 3 distinct Game Modes; Story Mode, 10 Pounds of Gold, and Retro Rumble • 2-8 player local multiplayer • Several match types, including One-on-One matches, Tag Team matches, 6-Man Tag, 8-Man Tag, Cages matches with 3 different cage styles and Battle Royal.​• Ring entrances with entrance music • Strategic gameplay that is easy to pick up and play • Beautiful 2D pixel art animated sprites with over 700 frames of animation and animated backgrounds • Crowd chants that react to the action on screen • Commentary by Ian Riccaboni and Colt Cabana​.</desc>
-		<image>./mixart/RetroMania Wrestling.jpg</image>
-		<video>./snap/RetroMania Wrestling.mp4</video>
-		<marquee>./wheel/RetroMania Wrestling.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20211201T000000</releasedate>
-		<developer>Retrosoft Studios</developer>
-		<publisher>Retrosoft Studios</publisher>
-		<genre>Fighting, Sports</genre>
-		<players>8</players>
 		<favorite>true</favorite>
 	</game>
 	<game>
@@ -3147,21 +3086,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Valfaris Full Metal.lnk</path>
-		<name>Valfaris Full Metal</name>
-		<desc>A heavy metal infused 2D action-platformer and the next game from the team behind Unity Awards finalist, Slain: Back From Hell. Brutal combat. Deadly enemies. Stunning pixel art. Savage soundtrack. Get ready to rip the galaxy a new wormhole! After mysteriously vanishing from galactic charts, the fortress of Valfaris has suddenly reappeared in the orbit of a dying sun. Once a self-contained paradise, the grandiose citadel now plays host to an ever-growing darkness. Therion, a fearless and proud son of Valfaris, returns to his home to uncover the truth of its doomed fate and to challenge the arcane evil at its very heart.</desc>
-		<image>./mixart/Valfaris Full Metal.jpg</image>
-		<video>./snap/Valfaris Full Metal.mp4</video>
-		<marquee>./wheel/Valfaris Full Metal.png</marquee>
-		<rating>0.80</rating>
-		<releasedate>201101T000000</releasedate>
-		<developer>Supergiant Games</developer>
-		<publisher>Warner Bros.</publisher>
-		<genre>Action, Role-Playing</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Sundered Eldritch Edition.lnk</path>
 		<name>Sundered Eldritch Edition</name>
 		<desc>Sundered is a chaotic hand­-drawn metroidvania where you resist or embrace ancient eldritch powers. Confront hordes of terrifying enemies in an ever-changing world inspired by the works of H.P. Lovecraft. Sundered is a challenging and unique take on a classic genre from the creators of Jotun, now with local co-op! You play Eshe, a wanderer in a ruined world, trapped in ever-­changing caverns filled with hordes of terrifying enemies. Harness the power of corrupted relics to defeat gigantic bosses, at the cost of your humanity. Resist or embrace. Sundered: Eldritch Edition includes the Magnate of the Gong update, adding local co-op multiplayer support for up to 4 players, along with new areas and a chaotic battle against the new Magnate of the Gong boss!</desc>
@@ -3203,21 +3127,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<publisher>Disney Interactive</publisher>
 		<genre>Action, Racing</genre>
 		<players>1</players>
-	</game>
-	<game>
-		<path>./Axiom Verge.lnk</path>
-		<name>Axiom Verge</name>
-		<desc>Axiom Verge is a retro-styled 2D action game focused on unusual weaponry and exploration of an maze-like, infested world. You play as Trace, a relatively normal (if quirky) guy who suffers a near-fatal injury, after which he wakes up in a strange, unsettling new world that is both high-tech and incredibly ancient. Why is he here? Where are the world's inhabitants? And what is the mysterious force that seems intent on ending his life?</desc>
-		<image>./mixart/Axiom Verge.jpg</image>
-		<video>./snap/Axiom Verge.mp4</video>
-		<marquee>./wheel/Axiom Verge.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>201501T000000</releasedate>
-		<developer>Thomas Happ Games</developer>
-		<publisher>Thomas Happ Games</publisher>
-		<genre>Action, Adventure</genre>
-		<players>1</players>
-		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Timespinner.lnk</path>
@@ -3538,6 +3447,67 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<favorite>true</favorite>
 	</game>
 	<game>
+		<path>./Pinball Arcade.lnk</path>
+		<name>Pinball Arcade</name>
+		<desc>Pinball Arcade by FarSight Studios features exact recreations of the all-time greatest pinball tables from Stern Pinball! The Pinball Arcade is the most realistic and comprehensive pinball game ever created. Please support us in our efforts to preserve these tables and join the indelible part of Americana that is pinball!</desc>
+		<image>./mixart/Pinball Arcade.png</image>
+		<video>./snap/Pinball Arcade.mp4</video>
+		<marquee>./wheel/Pinball Arcade.png</marquee>
+		<rating>4.48</rating>
+		<releasedate>20131104T000000</releasedate>
+		<developer>FarSight Studios</developer>
+		<publisher>FarSight Studios</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./RetroMania Wrestling.lnk</path>
+		<name>RetroMania Wrestling</name>
+		<desc>RetroMania Wrestling is the official sequel to the classic arcade game Wrestlefest that was released in 1991 by Technos of Japan. RetroMania Wrestling will be a “pick up and play” arcade wrestling game with beautiful 2D sprites, incredible backgrounds and fast-paced arcade style game play. • 16 Unique, distinct playable wrestlers at launch (adding more post launch via DLC) • Over 15 Arenas • 3 distinct Game Modes; Story Mode, 10 Pounds of Gold, and Retro Rumble • 2-8 player local multiplayer • Several match types, including One-on-One matches, Tag Team matches, 6-Man Tag, 8-Man Tag, Cages matches with 3 different cage styles and Battle Royal.​• Ring entrances with entrance music • Strategic gameplay that is easy to pick up and play • Beautiful 2D pixel art animated sprites with over 700 frames of animation and animated backgrounds • Crowd chants that react to the action on screen • Commentary by Ian Riccaboni and Colt Cabana​.</desc>
+		<image>./mixart/RetroMania Wrestling.jpg</image>
+		<video>./snap/RetroMania Wrestling.mp4</video>
+		<marquee>./wheel/RetroMania Wrestling.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20211201T000000</releasedate>
+		<developer>Retrosoft Studios</developer>
+		<publisher>Retrosoft Studios</publisher>
+		<genre>Fighting, Sports</genre>
+		<players>8</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Valfaris Full Metal.lnk</path>
+		<name>Valfaris Full Metal</name>
+		<desc>A heavy metal infused 2D action-platformer and the next game from the team behind Unity Awards finalist, Slain: Back From Hell. Brutal combat. Deadly enemies. Stunning pixel art. Savage soundtrack. Get ready to rip the galaxy a new wormhole! After mysteriously vanishing from galactic charts, the fortress of Valfaris has suddenly reappeared in the orbit of a dying sun. Once a self-contained paradise, the grandiose citadel now plays host to an ever-growing darkness. Therion, a fearless and proud son of Valfaris, returns to his home to uncover the truth of its doomed fate and to challenge the arcane evil at its very heart.</desc>
+		<image>./mixart/Valfaris Full Metal.jpg</image>
+		<video>./snap/Valfaris Full Metal.mp4</video>
+		<marquee>./wheel/Valfaris Full Metal.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>201101T000000</releasedate>
+		<developer>Supergiant Games</developer>
+		<publisher>Warner Bros.</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Cuphead.lnk</path>
+		<name>Cuphead</name>
+		<desc>Cuphead is a run and gun platform indie video game developed and published by StudioMDHR Entertainment. As the titular character Cuphead, the player fights a series of bosses in order to repay a debt to the devil.</desc>
+		<image>./mixart/Cuphead.png</image>
+		<video>./snap/Cuphead.mp4</video>
+		<marquee>./wheel/Cuphead.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>StudioMDHR Entertainment</developer>
+		<publisher>StudioMDHR Entertainment</publisher>
+		<genre>Adventure, Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Joe Danger.lnk</path>
 		<name>Joe Danger</name>
 		<desc>Can you put the world’s most determined stuntman back into the limelight? Combo, boost and pull ludicrous stunts as Joe attempts to race his way back into the record books in over 100 eye-popping levels. Leap school buses full of screaming kids and pools of ravenous sharks! Dodge spikes and mousetraps! Speed through coin dashes and beat Team Nasty in nip-and-tuck races!</desc>
@@ -3551,5 +3521,51 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<genre>Platform, Racing</genre>
 		<players>1</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Gabriel Knight - Sins of the Fathers 20th Anniversary Edition.lnk</path>
+		<name>Gabriel Knight - Sins of the Fathers 20th Anniversary Edition</name>
+		<desc>This 20th Anniversary Edition is a remake of Gabriel Knight: Sins of the Fathers. It features new HD graphics, new puzzles, new voice acting, a remastered soundtrack by the original composer, and even some new locations. The game stays true to the original in terms of the story, and while it is still a 3rd-person point-and-click adventure game, it uses 3D graphics and character models instead of 2D graphics with sprites. Unlike the original, the game includes a hint book which lets you gradually (tip by tip until the actual solution) view tips on how to solve puzzles. There is a certain waiting time between checking the next available hint. Also, the hint book is integrated as Gabriel's diary where he keeps track of the story and his ideas which may provide clues to solving some puzzles or figuring what to do next. And finally, the book also contains extras which are tied to your current location.</desc>
+		<image>./mixart/Gabriel Knight - Sins of the Fathers 20th Anniversary Edition.jpg</image>
+		<video>./snap/Gabriel Knight - Sins of the Fathers 20th Anniversary Edition.mp4</video>
+		<marquee>./wheel/Gabriel Knight - Sins of the Fathers 20th Anniversary Edition.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20140430T000000</releasedate>
+		<developer>Phoenix Online Studios</developer>
+		<publisher>Phoenix Online Studios</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game id="25557" source="ScreenScraper.fr">
+		<path>./Pure.lnk</path>
+		<name>Pure</name>
+		<desc>Developed by Black Rock Studio, Disney Interactive Studios' award-winning development studio in Brighton, England, Pure takes off-road racing to a new level. Featuring vertigo-inducing massive aerial jumps and spectacular airborne tricks in photo-realistic real-world locations all over the globe, Pure delivers heart-pounding experiences unique to the genre.</desc>
+		<image>./mixart/Pure.jpg</image>
+		<video>./snap/Pure.mp4</video>
+		<marquee>./wheel/Pure.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20080902T000000</releasedate>
+		<developer>Black Rock Studio</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Race, Driving</genre>
+		<favorite>true</favorite>
+		<genreid>1537</genreid>
+	</game>
+	<game>
+		<path>./Axiom Verge.lnk</path>
+		<name>Axiom Verge</name>
+		<desc>Axiom Verge is a retro-styled 2D action game focused on unusual weaponry and exploration of an maze-like, infested world. You play as Trace, a relatively normal (if quirky) guy who suffers a near-fatal injury, after which he wakes up in a strange, unsettling new world that is both high-tech and incredibly ancient. Why is he here? Where are the world's inhabitants? And what is the mysterious force that seems intent on ending his life?</desc>
+		<image>./mixart/Axiom Verge.jpg</image>
+		<video>./snap/Axiom Verge.mp4</video>
+		<marquee>./wheel/Axiom Verge.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>201501T000000</releasedate>
+		<developer>Thomas Happ Games</developer>
+		<publisher>Thomas Happ Games</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

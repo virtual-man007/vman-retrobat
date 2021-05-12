@@ -409,19 +409,6 @@
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Alone in the Dark (Europe) (En,Fr).chd</path>
-		<name>Alone In The Dark</name>
-		<desc>Jeremy Hartwood has committed suicide in his Louisiana mansion, Derceto. You take the role of either Edward Carnby, a private investigator, or Emily Hartwood, Jeremy's niece, and investigate the suspicious death. The three-floor mansion is reputed to be haunted by its eccentric past owner. Very quickly, you realise that it is. Warped rats, zombies and giant worms are among the foes who are after you, and you must somehow escape.   Alone in the Dark is an action-adventure survival horror game. The action is displayed from a number of fixed viewpoints. The backgrounds are 2D painted images, while the player character, all items and monsters are rendered as 3D models.   To escape the mansion, you'll have to solve a number of puzzles. They usually involve finding an item and using it in a proper place. Apart from items necessary for the puzzles, you can also find books and documents that can be read, healing items which can be consumed to restore hit points, and weapons.   Weapons come in handy, since Derceto is full of various monsters. Some monsters can be killed with weapons, but others are either impossible to kill or require a bit of thinking to take down. Note also that you have limited amounts of ammunition, so you have to use firearms carefully.</desc>
-		<image>./mixart/Alone in the Dark (Europe) (En,Fr).png</image>
-		<video>./snap/Alone in the Dark (Europe) (En,Fr).mp4</video>
-		<marquee>./wheel/Alone in the Dark (Europe) (En,Fr).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Interplay</developer>
-		<publisher>I*Motion</publisher>
-		<genre>Action-Adventure</genre>
-	</game>
-	<game>
 		<path>./Killing Time (Europe).chd</path>
 		<name>Killing Time</name>
 		<desc>In the early 1930's, Tess Conway, obsessed with ancient Egypt, and her guests vanished without trace... right in the middle of a wild party on the Conway island estate. Sixty years after this events it's your mission to investigate the strange events that took place in those days.  Though Killing Time is graphically a typical Doom clone, there are some differences: the game has one huge level instead of many smaller ones which allows you to return to old places at any time, i.e. to pick up health packs or ammunition. Also the spirits of Tess and her guests appear occasionally and bring the story of that evening to light helping you to find keys, to unlock doorways, to locate secret passages and to solve puzzles.  Killing Time was originally developed for the 3DO, and was later converted to the PC.</desc>
@@ -499,20 +486,6 @@
 		<publisher>Silent Software</publisher>
 		<genre>Simulation</genre>
 		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Sewer Shark (Europe).chd</path>
-		<name>Seewer Shark</name>
-		<desc>Sewer Shark is an FMV-based shooter, and one of the first games released for the Sega CD. You move a crosshair around the screen and shoot targets. Occasionally, you can also choose to change directions at fixed points.    Of course the real attraction in a game like this is the story. In the future, maybe in the year 2000, people will be forced to move underground and live in tunnels. Unfortunately, these tunnels are infested with mutated rat / alligator creatures known as "ratigators." You are pilot of a Sewer Shark, a craft designed to navigate the Sewers and rid them of ratigators. It's a dangerous job, but if you clear out enough vermin you can win a one-way trip to Solar City and sunny beaches.</desc>
-		<image>./mixart/Sewer Shark (Europe).png</image>
-		<video>./snap/Sewer Shark (Europe).mp4</video>
-		<marquee>./wheel/Sewer Shark (Europe).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Sony Electronic Publishing</developer>
-		<publisher>Digital Pictures</publisher>
-		<genre>Lightgun Shooter</genre>
-		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Soccer Kid (USA).chd</path>
@@ -882,20 +855,6 @@
 		<genre>Action-Adventure</genre>
 	</game>
 	<game>
-		<path>./Battle Pinball (Japan).chd</path>
-		<name>Battle Pinball</name>
-		<desc>Battle Pinball is a Japanese-only release where players play competitive pinball against the computer or another player. Players pick between one of four characters, each with their own dedicated pinball table. The game then moves to a split-screen view, where both players play their respective table and try to get a higher score than their opponent.    Other options include a 1-player "story" mode where the player selects a character and battles the other three. Winning here gives a character-specific CG victory movie. Players can also play against multiple opponents in a tournament mode (complete with brackets), though a maximum of two players will be playing at once. As with Real Pinball, the view angle is fixed and cannot be changed.</desc>
-		<image>./mixart/Battle Pinball (Japan).png</image>
-		<video>./snap/Battle Pinball (Japan).mp4</video>
-		<marquee>./wheel/Battle Pinball (Japan).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19941125T000000</releasedate>
-		<developer>Japan DataWorks</developer>
-		<publisher>Matsushita</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Chiki Chiki Machine Mou Race 2 - In Space (Japan).chd</path>
 		<name>Chiki Chiki Machine Mou Race 2 - In Space</name>
 		<desc>A clear story driven Japanese Point and Click/Racing simulation based on the classic Wacky Races cartoon. This game was devoloped and Published by Future Pirates in 1995</desc>
@@ -1188,20 +1147,6 @@
 		<releasedate />
 	</game>
 	<game>
-		<path>./Virtual Horror - Norowareta Yakata ~ Escape from Monster Manor - A Terrifying Hunt for the Undead (Japan).chd</path>
-		<name>Virtual Horror: Norowarate Yakata</name>
-		<desc>The undead have been unleashed upon the world. Only a holy talisman can destroy them, but it has been broken into pieces and hidden in Monster Manor. Now you must venture into the cursed mansion and find the pieces so that humanity may be saved.    The game is a first-person-shooter where you have to destroy enemies like ghosts, skeletons and zombies using your only gun. Items scattered around the house include health packs, gun energy, treasure and keys that are used to open doors that block your way to the next talisman piece. The game has twelve levels.</desc>
-		<image>./mixart/Virtual Horror - Norowareta Yakata ~ Escape from Monster Manor - A Terrifying Hunt for the Undead (Japan).png</image>
-		<video>./snap/Virtual Horror - Norowareta Yakata ~ Escape from Monster Manor - A Terrifying Hunt for the Undead (Japan).mp4</video>
-		<marquee>./wheel/Virtual Horror - Norowareta Yakata ~ Escape from Monster Manor - A Terrifying Hunt for the Undead (Japan).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Panasonic</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Virtuoso (Japan).chd</path>
 		<name>Virtuoso</name>
 		<desc>Music and Virtual Reality are your only escapes in a world gone mad. Transform into a rock superstar on a 3D virtual quest where the Angry Red Planet, Mars, awaits your invasion. Or enter an eerie Haunted House with a few spectres of its own. Submerge yourself in our underwater biosphere, but beware, the reefs ahead hold many dangers. Music Video Clips and a hard rock soundtrack set the stage in this head-banging cyberfantasy adventure!</desc>
@@ -1234,33 +1179,6 @@
 		<image>./mixart/Yamamura Misa Suspense - Kyoto Kurama Sansou Satsujin Jiken (Japan) (Disc 1).png</image>
 		<rating>0</rating>
 		<releasedate />
-	</game>
-	<game>
-		<path>./BladeForce (Europe).chd</path>
-		<name>Blade Force</name>
-		<desc>In the year 2110, in the city of Meggagrid, once known as Los Angeles, you meet Dr. Grubert, a very prominent inventor who has been crippled by an explosion perpetrated by a crime family known as The Pitt Family.  He gives a suit known as the Helipak Flight Suit to fight back and take down the criminals in the city and apprehend The Pitt Family and bring peace back to the city.  With an arsenal of nine different weapons and twenty power-ups, the player flies around seven levels of the city with six degrees of freedom.</desc>
-		<image>./mixart/BladeForce (Europe).png</image>
-		<video>./snap/BladeForce (Europe).mp4</video>
-		<marquee>./wheel/BladeForce (Europe).png</marquee>
-		<rating>0.55</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Panasonic</developer>
-		<publisher>Panasonic</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Corpse Killer (USA).chd</path>
-		<name>Corpse Killer</name>
-		<desc>Corpse Killer is a full-motion video shoot-'em up. You play as an elite special forces soldier, who parachutes onto a remote tropical island. It seems the evil genius Dr. Hellman has found a way to raise the dead, and created an island of zombies. It's up to you to shoot your way through the undead hordes and stop Dr. Hellman.    The game is played from a first-person perspective. Various zombies pop up in front of a video background, and you shoot them down by moving a cursor on screen or by using a light gun. The Saturn version has a few different features including extra power-ups as well as added footage of enemies.</desc>
-		<image>./mixart/Corpse Killer (USA).png</image>
-		<video>./snap/Corpse Killer (USA).mp4</video>
-		<marquee>./wheel/Corpse Killer (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Digital Pictures</publisher>
-		<genre>Lightgun Shooter-Action</genre>
-		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Road &amp; Track Presents - The Need for Speed (Europe).chd</path>
@@ -1419,21 +1337,6 @@
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Mega Race (Japan).chd</path>
-		<name>Megarace</name>
-		<desc>Virtual Television has given us a chance to do the things that we can't make real in everyday life: Race through 14 great tracks in 5 different environments in a totally virtual place where you can kill each other quite easily with sidekicks or guns. In every track you will see some symbols that can make your car speed up, slow up or even blow up, like your mega-host Lance Boyle says, "Who knows; who cares!" Everything you see in MegaRace is virtual and no one really dies there. So have fun!</desc>
-		<image>./mixart/Mega Race (Japan).png</image>
-		<video>./snap/Mega Race (Japan).mp4</video>
-		<marquee>./wheel/Mega Race (Japan).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19940930T000000</releasedate>
-		<developer>Cryo Interactive</developer>
-		<publisher>Cryo Interactive</publisher>
-		<genre>Race, Driving</genre>
-		<players>1-2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Policenauts (Japan) (Disc 1).chd</path>
 		<name>Policenauts</name>
 		<desc>In 2010, mankind has built its first space colony, Beyond Coast. After three years have passed, the founders of the colony feel it needs to be protected, and choose five best policemen of Earth to do that: Gatse Becker from Scotland Yard, the Japanese Sadaoki Tokugawa, Salvatore Toscanini from New York, and two policemen from Los Angeles: Jonathan Ingram, the hero of the game, and his best friend Ed Brown.   One day, during a routine patrol on Beyond Coast, something happens to Jonathan's space suit. He is sucked into space and is presumed dead. But twenty-five years later, he is miraculously discovered in his life pod... alive. He still looks like a young man, but in reality he is 55 years old.  Trying to forget his past, Jonathan opens an investigation agency on Earth. His ex-wife (who has re-married during those twenty-five years) visits him and asks him to find her missing husband. When she leaves the office, her car explodes, and she dies. Determined to fulfill her final request, Jonathan prepares to re-visit Beyond Coast...  This unofficial semi-prequel to  Snatcher is a comic book/anime adventure with some shooting sequences. You click on objects and people you interact with, or move a dot around the screen to aim at your enemies during the shooting parts.</desc>
@@ -1500,20 +1403,6 @@
 		<publisher>Electronic Arts</publisher>
 	</game>
 	<game>
-		<path>./Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu).chd</path>
-		<name>Supreme Warrior : Ying Heung</name>
-		<desc>Supreme Warrior is a full-motion video fighting game.  The game, or interactive movie, is set in China hundreds of years ago.  You are tasked with protecting half of a magical mask.  The wearer of the mask will be granted untold power.  Unfortunately, the villanous Wang Tu has the other half of the mask, and wants your half badly.  So, you must fight off Wang Tu's minions, and eventually Fang Tu himself.  The gameplay in Supreme Warrior consists of digitized video with interactive elements.  At many points during the video, you can unleash a punch, kick, or block.  If your timing is correct, you inflict damage on your opponent.  If you timing is off, your opponent hurts you.</desc>
-		<image>./mixart/Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu).png</image>
-		<video>./snap/Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu).mp4</video>
-		<marquee>./wheel/Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Digital Pictures</publisher>
-		<genre>Adventure-Fight-Action</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Waialae Country Club (USA).chd</path>
 		<name>True Golf Classics : Waialae Country Club</name>
 		<desc>Grab your clubs and head for the first tee. This golf sim recreates the world famous Hawaiian Waialae Golf Course, noted for lots of bunkers and very fast greens. You can choose your golfer, assign him a caddy, pick your set of clubs and adjust the power, putting, technical, recovery and wind game stats to suit your personal preference. The game offers a practice training mode, a tournament mode and the ability to challenge your friends in a stroke match. Oddly, this game was not sanctioned by the PGA and assumes that the golfer is always male.</desc>
@@ -1525,20 +1414,6 @@
 		<developer>Panasonic</developer>
 		<publisher>T&amp;E Soft</publisher>
 		<genre>Sports</genre>
-	</game>
-	<game>
-		<path>./Wolfenstein 3D (USA).chd</path>
-		<name>Wolfenstein 3d</name>
-		<desc>Inspired by the top-down infiltration game Castle Wolfenstein, this episodic first-person shooter (FPS) puts the player in the boots of  B.J. Blazkowicz, an allied spy. There are six episodes (the first distributed complete as shareware), the second, and the third available after registration and the three final missions (which happen before the events of the first episode) available in the "Nocturnal Missions" pack. However, they do not need to be played in sequence to be enjoyed!  In the first episode (Escape from Wolfenstein), B.J. was captured, but overpowered a guard with the help of a concealed knife and managed to get out of his cell. Throughout the next nine levels the player guides B.J. searching for an escape from Wolfenstein, guarded by Hans Grosse. After returning to Allied territory, B.J. is given the instructions to Operation: Eisenfaust, where he has to stop Dr. Schabbs and his army of mutant prototypes before they are released into the battlefields. The final mission (Die, Führer, Die!) has a simple goal: infiltrate the bunker under the Reichstag, and terminate Hitler (in a robotic suit) himself. The Nocturnal Missions are focused on the Nazi plans for chemical warfare, and start with Dark Secret, where B.J. hunts for lead researcher Dr. Otto Giftmacher. It's followed by Trail of the Madman, where the goal is capturing the war plans guarded by Gretel Grosse, and the final episode Confrontation, where B.J. meets General Fettgesicht, the planner for the chemical assault.  Each episode has nine levels (eight regular and a final boss level), plus a secret level activated by an hidden switch somewhere in the eight first levels. Regular levels often feature a maze-like appearance or large areas with many enemies (the number of them on each area depends on the difficulty level), where the player must reach the exit elevator. To do so, he must kill the enemies (while it's possible to move behind the guards' backs and even there's a slight bonus in attacking them from behind, most enemies have to be dealt with by fire power), and depending on the level, activate "push walls" and/or get silver and golden keys to open certain doors.  Many objects can be found in a level, from medikits, chicken meals, and even dog food (to restore health), ammo and treasures, which solely exist for points. There are four weapons (knife, pistol, machine gun and Gatling), all of them using the same bullets except the knife. The knife and the pistol are given at the start of the level, while the machine gun is either found (usually in secret areas) or picked up from SS troopers and the Gatling is always dropped somewhere in the level. There are five kinds of enemies (excluding bosses) - Dogs (fast, but more a nuisance than life-threatening), Army Soldiers (dressed in regular brown outfit, not very powerful but usually found in large groups), Officers (dressed in white, armed with a very accurate pistol and tough to kill), SS Troopers (blue attire, armed with a machine gun and tough to kill), and Mutants (the rarest and toughest of regular enemies, pale-skinned troopers with green clothes and a machine gun stuck in their chest).  Unlike modern FPS games, the player has a number of lives and once the player loses the last life, the game ends. To win extra lives, the player has to either find the 1-up item in the level or get 20,000 points (by killing enemies and capturing treasures or completing a level below the 'par' time while killing all enemies, finding all secrets by pushing walls, and collecting all treasure points).</desc>
-		<image>./mixart/Wolfenstein 3D (USA).png</image>
-		<video>./snap/Wolfenstein 3D (USA).mp4</video>
-		<marquee>./wheel/Wolfenstein 3D (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19951019T000000</releasedate>
-		<developer>Interplay</developer>
-		<publisher>id Software</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Pyramid Intruder (Japan).chd</path>
@@ -1568,17 +1443,33 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./AutoBahn Tokio (Japan).chd</path>
-		<name>Autobahn Tokio</name>
-		<desc>Autobahn Tokio is a racing game released only in Japan for the 3DO. Players can select from four unnamed cars with different characteristics, loosely based on real car models. Three tracks are available - a city at night, a coastal highway, and a forest track. Players race against one CPU opponent, while trying to hit checkpoints in the quickest time possible. Both automatic and manual transmissions are available for each car. Cars cannot be tuned, and there is no two-player option. Despite being released only in Japan, all menus and game text is in English.</desc>
-		<image>./mixart/AutoBahn Tokio (Japan).png</image>
-		<video>./snap/AutoBahn Tokio (Japan).mp4</video>
-		<marquee>./wheel/AutoBahn Tokio (Japan).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19951222T000000</releasedate>
-		<developer>Sanai</developer>
-		<publisher>Matsushita</publisher>
-		<genre>Race, Driving</genre>
+		<path>./Dragon's Lair (USA).chd</path>
+		<name>Dragon's Lair</name>
+		<desc>Dragon's Lair features the hero, Dirk the Daring, attempting to rescue Princess Daphne from the evil dragon Singe, who has locked Princess Daphne in the foul wizard Mordroc's castle. The screen shows animated cutscenes, and the player executes an action by selecting a direction or pressing the sword button with correct timing, requiring the player to memorize each scenario in order to clear each quick time event. The comedy aspects of the game stemmed not only from the bizarre looking creatures and humorous death scenes, but also the fact that while Dirk was a skilled knight, he was somewhat clumsy in his efforts, as well as being a reluctant hero, prone to shrieking and reacting in horror to the various dangers he encounters.</desc>
+		<image>./mixart/Dragon's Lair (USA).png</image>
+		<video>./snap/Dragon's Lair (USA).mp4</video>
+		<marquee>./wheel/Dragon's Lair (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>ReadySoft</developer>
+		<publisher>ReadySoft</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Corpse Killer (USA).chd</path>
+		<name>Corpse Killer</name>
+		<desc>Corpse Killer is a full-motion video shoot-'em up. You play as an elite special forces soldier, who parachutes onto a remote tropical island. It seems the evil genius Dr. Hellman has found a way to raise the dead, and created an island of zombies. It's up to you to shoot your way through the undead hordes and stop Dr. Hellman.    The game is played from a first-person perspective. Various zombies pop up in front of a video background, and you shoot them down by moving a cursor on screen or by using a light gun. The Saturn version has a few different features including extra power-ups as well as added footage of enemies.</desc>
+		<image>./mixart/Corpse Killer (USA).png</image>
+		<video>./snap/Corpse Killer (USA).mp4</video>
+		<marquee>./wheel/Corpse Killer (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Digital Pictures</developer>
+		<publisher>Digital Pictures</publisher>
+		<genre>Lightgun Shooter-Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 	<game>
 		<path>./Daedalus Encounter, The (USA, Europe) (Disc 1).chd</path>
@@ -1593,19 +1484,73 @@
 		<publisher>Matsushita</publisher>
 		<genre>Adventure</genre>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>eu</region>
 	</game>
 	<game>
-		<path>./Dragon's Lair (USA).chd</path>
-		<name>Dragon's Lair</name>
-		<desc>Dragon's Lair features the hero, Dirk the Daring, attempting to rescue Princess Daphne from the evil dragon Singe, who has locked Princess Daphne in the foul wizard Mordroc's castle. The screen shows animated cutscenes, and the player executes an action by selecting a direction or pressing the sword button with correct timing, requiring the player to memorize each scenario in order to clear each quick time event. The comedy aspects of the game stemmed not only from the bizarre looking creatures and humorous death scenes, but also the fact that while Dirk was a skilled knight, he was somewhat clumsy in his efforts, as well as being a reluctant hero, prone to shrieking and reacting in horror to the various dangers he encounters.</desc>
-		<image>./mixart/Dragon's Lair (USA).png</image>
-		<video>./snap/Dragon's Lair (USA).mp4</video>
-		<marquee>./wheel/Dragon's Lair (USA).png</marquee>
-		<rating>0.6</rating>
+		<path>./Alone in the Dark (Europe) (En,Fr).chd</path>
+		<name>Alone In The Dark</name>
+		<desc>Jeremy Hartwood has committed suicide in his Louisiana mansion, Derceto. You take the role of either Edward Carnby, a private investigator, or Emily Hartwood, Jeremy's niece, and investigate the suspicious death. The three-floor mansion is reputed to be haunted by its eccentric past owner. Very quickly, you realise that it is. Warped rats, zombies and giant worms are among the foes who are after you, and you must somehow escape.   Alone in the Dark is an action-adventure survival horror game. The action is displayed from a number of fixed viewpoints. The backgrounds are 2D painted images, while the player character, all items and monsters are rendered as 3D models.   To escape the mansion, you'll have to solve a number of puzzles. They usually involve finding an item and using it in a proper place. Apart from items necessary for the puzzles, you can also find books and documents that can be read, healing items which can be consumed to restore hit points, and weapons.   Weapons come in handy, since Derceto is full of various monsters. Some monsters can be killed with weapons, but others are either impossible to kill or require a bit of thinking to take down. Note also that you have limited amounts of ammunition, so you have to use firearms carefully.</desc>
+		<image>./mixart/Alone in the Dark (Europe) (En,Fr).png</image>
+		<video>./snap/Alone in the Dark (Europe) (En,Fr).mp4</video>
+		<marquee>./wheel/Alone in the Dark (Europe) (En,Fr).png</marquee>
+		<rating>0.7</rating>
 		<releasedate>19940101T000000</releasedate>
-		<developer>ReadySoft</developer>
-		<publisher>ReadySoft</publisher>
+		<developer>Interplay</developer>
+		<publisher>I*Motion</publisher>
+		<genre>Action-Adventure</genre>
+		<lang>en,fr</lang>
+		<region>eu</region>
+		<path>./Alone in the Dark (Europe) (En,Fr).chd</path>
+	</game>
+	<game>
+		<path>./AutoBahn Tokio (Japan).chd</path>
+		<name>Autobahn Tokio</name>
+		<desc>Autobahn Tokio is a racing game released only in Japan for the 3DO. Players can select from four unnamed cars with different characteristics, loosely based on real car models. Three tracks are available - a city at night, a coastal highway, and a forest track. Players race against one CPU opponent, while trying to hit checkpoints in the quickest time possible. Both automatic and manual transmissions are available for each car. Cars cannot be tuned, and there is no two-player option. Despite being released only in Japan, all menus and game text is in English.</desc>
+		<image>./mixart/AutoBahn Tokio (Japan).png</image>
+		<video>./snap/AutoBahn Tokio (Japan).mp4</video>
+		<marquee>./wheel/AutoBahn Tokio (Japan).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19951222T000000</releasedate>
+		<developer>Sanai</developer>
+		<publisher>Matsushita</publisher>
+		<genre>Race, Driving</genre>
+		<lang>jp</lang>
+		<region>jp</region>
+		<path>./AutoBahn Tokio (Japan).chd</path>
+	</game>
+	<game>
+		<path>./Battle Pinball (Japan).chd</path>
+		<name>Battle Pinball</name>
+		<desc>Battle Pinball is a Japanese-only release where players play competitive pinball against the computer or another player. Players pick between one of four characters, each with their own dedicated pinball table. The game then moves to a split-screen view, where both players play their respective table and try to get a higher score than their opponent.    Other options include a 1-player "story" mode where the player selects a character and battles the other three. Winning here gives a character-specific CG victory movie. Players can also play against multiple opponents in a tournament mode (complete with brackets), though a maximum of two players will be playing at once. As with Real Pinball, the view angle is fixed and cannot be changed.</desc>
+		<image>./mixart/Battle Pinball (Japan).png</image>
+		<video>./snap/Battle Pinball (Japan).mp4</video>
+		<marquee>./wheel/Battle Pinball (Japan).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19941125T000000</releasedate>
+		<developer>Japan DataWorks</developer>
+		<publisher>Matsushita</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<path>./Battle Pinball (Japan).chd</path>
+	</game>
+	<game>
+		<path>./BladeForce (Europe).chd</path>
+		<name>Blade Force</name>
+		<desc>In the year 2110, in the city of Meggagrid, once known as Los Angeles, you meet Dr. Grubert, a very prominent inventor who has been crippled by an explosion perpetrated by a crime family known as The Pitt Family.  He gives a suit known as the Helipak Flight Suit to fight back and take down the criminals in the city and apprehend The Pitt Family and bring peace back to the city.  With an arsenal of nine different weapons and twenty power-ups, the player flies around seven levels of the city with six degrees of freedom.</desc>
+		<image>./mixart/BladeForce (Europe).png</image>
+		<video>./snap/BladeForce (Europe).mp4</video>
+		<marquee>./wheel/BladeForce (Europe).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Panasonic</developer>
+		<publisher>Panasonic</publisher>
 		<genre>Action</genre>
+		<lang>en</lang>
+		<region>eu</region>
+		<path>./BladeForce (Europe).chd</path>
 	</game>
 	<game>
 		<path>./Lost Files of Sherlock Holmes, The (USA).chd</path>
@@ -1620,6 +1565,26 @@
 		<publisher>Electronic Arts</publisher>
 		<genre>Adventure</genre>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<path>./Lost Files of Sherlock Holmes, The (USA).chd</path>
+	</game>
+	<game>
+		<path>./Sewer Shark (Europe).chd</path>
+		<name>Seewer Shark</name>
+		<desc>Sewer Shark is an FMV-based shooter, and one of the first games released for the Sega CD. You move a crosshair around the screen and shoot targets. Occasionally, you can also choose to change directions at fixed points.    Of course the real attraction in a game like this is the story. In the future, maybe in the year 2000, people will be forced to move underground and live in tunnels. Unfortunately, these tunnels are infested with mutated rat / alligator creatures known as "ratigators." You are pilot of a Sewer Shark, a craft designed to navigate the Sewers and rid them of ratigators. It's a dangerous job, but if you clear out enough vermin you can win a one-way trip to Solar City and sunny beaches.</desc>
+		<image>./mixart/Sewer Shark (Europe).png</image>
+		<video>./snap/Sewer Shark (Europe).mp4</video>
+		<marquee>./wheel/Sewer Shark (Europe).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Sony Electronic Publishing</developer>
+		<publisher>Digital Pictures</publisher>
+		<genre>Lightgun Shooter</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>eu</region>
+		<path>./Sewer Shark (Europe).chd</path>
 	</game>
 	<game>
 		<path>./Super Wing Commander (Europe).chd</path>
@@ -1634,6 +1599,77 @@
 		<publisher>Electronic Arts</publisher>
 		<genre>Simulation</genre>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>eu</region>
+		<path>./Super Wing Commander (Europe).chd</path>
+	</game>
+	<game>
+		<path>./Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu).chd</path>
+		<name>Supreme Warrior : Ying Heung</name>
+		<desc>Supreme Warrior is a full-motion video fighting game.  The game, or interactive movie, is set in China hundreds of years ago.  You are tasked with protecting half of a magical mask.  The wearer of the mask will be granted untold power.  Unfortunately, the villanous Wang Tu has the other half of the mask, and wants your half badly.  So, you must fight off Wang Tu's minions, and eventually Fang Tu himself.  The gameplay in Supreme Warrior consists of digitized video with interactive elements.  At many points during the video, you can unleash a punch, kick, or block.  If your timing is correct, you inflict damage on your opponent.  If you timing is off, your opponent hurts you.</desc>
+		<image>./mixart/Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu).png</image>
+		<video>./snap/Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu).mp4</video>
+		<marquee>./wheel/Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Digital Pictures</developer>
+		<publisher>Digital Pictures</publisher>
+		<genre>Adventure-Fight-Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<path>./Supreme Warrior (USA) (Disc 2) (Wind &amp; Fang Tu).chd</path>
+	</game>
+	<game>
+		<path>./Virtual Horror - Norowareta Yakata ~ Escape from Monster Manor - A Terrifying Hunt for the Undead (Japan).chd</path>
+		<name>Virtual Horror: Norowarate Yakata</name>
+		<desc>The undead have been unleashed upon the world. Only a holy talisman can destroy them, but it has been broken into pieces and hidden in Monster Manor. Now you must venture into the cursed mansion and find the pieces so that humanity may be saved.    The game is a first-person-shooter where you have to destroy enemies like ghosts, skeletons and zombies using your only gun. Items scattered around the house include health packs, gun energy, treasure and keys that are used to open doors that block your way to the next talisman piece. The game has twelve levels.</desc>
+		<image>./mixart/Virtual Horror - Norowareta Yakata ~ Escape from Monster Manor - A Terrifying Hunt for the Undead (Japan).png</image>
+		<video>./snap/Virtual Horror - Norowareta Yakata ~ Escape from Monster Manor - A Terrifying Hunt for the Undead (Japan).mp4</video>
+		<marquee>./wheel/Virtual Horror - Norowareta Yakata ~ Escape from Monster Manor - A Terrifying Hunt for the Undead (Japan).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Panasonic</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>jp</lang>
+		<region>jp</region>
+		<path>./Virtual Horror - Norowareta Yakata ~ Escape from Monster Manor - A Terrifying Hunt for the Undead (Japan).chd</path>
+	</game>
+	<game>
+		<path>./Wolfenstein 3D (USA).chd</path>
+		<name>Wolfenstein 3d</name>
+		<desc>Inspired by the top-down infiltration game Castle Wolfenstein, this episodic first-person shooter (FPS) puts the player in the boots of  B.J. Blazkowicz, an allied spy. There are six episodes (the first distributed complete as shareware), the second, and the third available after registration and the three final missions (which happen before the events of the first episode) available in the "Nocturnal Missions" pack. However, they do not need to be played in sequence to be enjoyed!  In the first episode (Escape from Wolfenstein), B.J. was captured, but overpowered a guard with the help of a concealed knife and managed to get out of his cell. Throughout the next nine levels the player guides B.J. searching for an escape from Wolfenstein, guarded by Hans Grosse. After returning to Allied territory, B.J. is given the instructions to Operation: Eisenfaust, where he has to stop Dr. Schabbs and his army of mutant prototypes before they are released into the battlefields. The final mission (Die, Führer, Die!) has a simple goal: infiltrate the bunker under the Reichstag, and terminate Hitler (in a robotic suit) himself. The Nocturnal Missions are focused on the Nazi plans for chemical warfare, and start with Dark Secret, where B.J. hunts for lead researcher Dr. Otto Giftmacher. It's followed by Trail of the Madman, where the goal is capturing the war plans guarded by Gretel Grosse, and the final episode Confrontation, where B.J. meets General Fettgesicht, the planner for the chemical assault.  Each episode has nine levels (eight regular and a final boss level), plus a secret level activated by an hidden switch somewhere in the eight first levels. Regular levels often feature a maze-like appearance or large areas with many enemies (the number of them on each area depends on the difficulty level), where the player must reach the exit elevator. To do so, he must kill the enemies (while it's possible to move behind the guards' backs and even there's a slight bonus in attacking them from behind, most enemies have to be dealt with by fire power), and depending on the level, activate "push walls" and/or get silver and golden keys to open certain doors.  Many objects can be found in a level, from medikits, chicken meals, and even dog food (to restore health), ammo and treasures, which solely exist for points. There are four weapons (knife, pistol, machine gun and Gatling), all of them using the same bullets except the knife. The knife and the pistol are given at the start of the level, while the machine gun is either found (usually in secret areas) or picked up from SS troopers and the Gatling is always dropped somewhere in the level. There are five kinds of enemies (excluding bosses) - Dogs (fast, but more a nuisance than life-threatening), Army Soldiers (dressed in regular brown outfit, not very powerful but usually found in large groups), Officers (dressed in white, armed with a very accurate pistol and tough to kill), SS Troopers (blue attire, armed with a machine gun and tough to kill), and Mutants (the rarest and toughest of regular enemies, pale-skinned troopers with green clothes and a machine gun stuck in their chest).  Unlike modern FPS games, the player has a number of lives and once the player loses the last life, the game ends. To win extra lives, the player has to either find the 1-up item in the level or get 20,000 points (by killing enemies and capturing treasures or completing a level below the 'par' time while killing all enemies, finding all secrets by pushing walls, and collecting all treasure points).</desc>
+		<image>./mixart/Wolfenstein 3D (USA).png</image>
+		<video>./snap/Wolfenstein 3D (USA).mp4</video>
+		<marquee>./wheel/Wolfenstein 3D (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19951019T000000</releasedate>
+		<developer>Interplay</developer>
+		<publisher>id Software</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<path>./Wolfenstein 3D (USA).chd</path>
+	</game>
+	<game>
+		<path>./Mega Race (Japan).chd</path>
+		<name>Megarace</name>
+		<desc>Virtual Television has given us a chance to do the things that we can't make real in everyday life: Race through 14 great tracks in 5 different environments in a totally virtual place where you can kill each other quite easily with sidekicks or guns. In every track you will see some symbols that can make your car speed up, slow up or even blow up, like your mega-host Lance Boyle says, "Who knows; who cares!" Everything you see in MegaRace is virtual and no one really dies there. So have fun!</desc>
+		<image>./mixart/Mega Race (Japan).png</image>
+		<video>./snap/Mega Race (Japan).mp4</video>
+		<marquee>./wheel/Mega Race (Japan).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19940930T000000</releasedate>
+		<developer>Cryo Interactive</developer>
+		<publisher>Cryo Interactive</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>jp</lang>
+		<region>jp</region>
 	</game>
 	<game>
 		<path>./BattleSport (Europe).chd</path>
@@ -1648,5 +1684,7 @@
 		<publisher>Panasonic</publisher>
 		<genre>Sports</genre>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>eu</region>
 	</game>
 </gameList>

@@ -3722,71 +3722,6 @@ The Nintendo DS version of the game features unique enemies, game-play and chara
 		<publisher>Warner Interactive</publisher>
 	</game>
 	<game>
-		<path>./Retro Game Challenge (USA).zip</path>
-		<name>Retro Game Challenge</name>
-		<desc>Arino wants to be the greatest gamer in the world, but he's continually defeated by his friends at every new game that comes out. His obsession has spawned a digital version himself within his own Nintendo DS. This digital version of himself has come to be known as "Game Master Arino", who haunts gamers around the world with retro game challenges. You have been chosen by Game Master Arino, and are now trapped in the 1980s until you can defeat his game challenges.
-
-Retro Game Challenge, based on the Japanese TV show Game Center CX, has you playing faithfully-recreated clones of popular NES-era games, attempting to complete challenges and freeing yourself from Game Master Arino. You are accompanied by Arino himself as a young lad, who will cheer you on as you're playing each game. You can also read the latest gaming mags for tips, cheats, and previews of upcoming titles.
-
-There are eight games total, each modeled after 8-bit classics such as Galaga (Cosmic Gate), Dragon Warrior (Gaudia Quest), and Ninja Jajamaru-kun (Robot Ninja Haggle Man). Each game has multiple challenges from Arino to complete, such as clearing a certain stage or earning a set number of points, and can also be played in a free play mode once all challenges have been cleared.</desc>
-		<image>./mixart/Retro Game Challenge (USA).png</image>
-		<video>./snap/Retro Game Challenge (USA).mp4</video>
-		<marquee>./wheel/Retro Game Challenge (USA).png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20090210T000000</releasedate>
-		<developer>Indies Zero</developer>
-		<publisher>Xseed Games</publisher>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Tetris DS (USA).zip</path>
-		<name>Tetris DS</name>
-		<desc>At its base, Tetris DS is the same Tetris gameplay that's been around for years: rotate and arrange Tetriminos to create full lines and make them disappear.  However, it also has a style very different from earlier Tetris games, new play modes, and online play.
-
-Graphically and aurally, Tetris DS is based on classic NES games.  A portion of the graphics are sprites directly ripped from Mario Bros., Super Mario Bros., Super Mario Bros. 3, Donkey Kong, Balloon Fight, Metroid, Yoshi's Cookie, and The Legend of Zelda.  Remixes of music from these games are also used.
-
-Standard mode includes the standard endless play option, the standard "get 25 lines to win" option, and the standard versus mode where clearing multiple lines at once adds lines to the bottom of your opponents' well.
-
-Push mode is a versus game with a twist.  The player's moves and pieces are shown on the top screen, while the opponent's are on the bottom screen, both with gravity moving towards the center.  Instead of multiple line clears adding extra lines to the bottom of your opponent's well, though, the center is pushed towards their end, giving them a smaller play area.  Push back and forth until one side loses.
-
-Touch mode presents you with a tall uneven stack of large Tetriminos.  The goal is to nudge or rotate them by dragging or tapping on the touch screen to create full lines and eventually clear the stack.
-
-Puzzle mode offers 200 Tetris scenarios and presents you with a number of pieces.  You choose the order and rotation of the pieces to try and empty the well.
-
-Mission mode gives you specific goals like "Use a square block to clear a line" or "Clear 3 lines with an L piece".  Finish the mission and you'll be given another.  Don't finish the mission and several rows of random blocks will be added to the bottom of the well before being given another mission.
-
-Catch mode has the Tetriminos falling without direct player control.  Instead, the player controls a moving core of blocks which can rotate as a whole, as well as latch on to the falling Tetriminos.  The goal is to create a square of at least 4x4, causing an explosion which keeps the size of your core small.  Lose by allowing your core to get too large, or by losing enough energy; which occurs when you allow a Tetrimino to scroll past the bottom of the screen, your rotating core smacks into and destroys a Tetrimino, or you hit a falling enemy.
-
-Multiplayer Standard, Mission, and Push modes can be played locally using one copy of Tetris DS.  Mission allows for up to 10 players competing for a high score.  Standard allows for up to 10 players, and has an option for Mario Kart-like items to aid you or harm your enemies.  Push mode remains a one-on-one experience.  With Nintendo Wi-Fi Connection, you can play a two-player Standard game without items, a four-player Standard game with items, or a two-player Push mode game.</desc>
-		<image>./mixart/Tetris DS (USA).png</image>
-		<video>./snap/Tetris DS (USA).mp4</video>
-		<marquee>./wheel/Tetris DS (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20060320T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<players>2-10</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Legend of Zelda, The - Phantom Hourglass (USA) (En,Fr,Es).zip</path>
-		<name>The Legend Of Zelda - Phantom Hourglass</name>
-		<desc>Continue the Wind Waker adventure in Link's first DS game.
-
-The epic story of The Legend of Zelda: The Wind Waker continues as Link finds himself lost and alone in unknown seas in a new adventure. Featuring intuitive touch-screen controls and innovative puzzles, The Legend of Zelda: Phantom Hourglass offers new challenges for fans of the series and an easy-to-grasp introduction for gamers new to The Legend of Zelda. But time grows short, and only the Phantom Hourglass can buy Link the minutes he'll need to survive.
-
-Many months have passed since the events of The Legend of Zelda: The Wind Waker, and Link, Tetra and Tetra's band of pirates have set sail in search of new lands. They come across a patch of ocean covered in a dense fog, in which they discover an abandoned ship. Tetra falls into danger when she explores the ship alone, and Link falls into the ocean when he attempts to rescue her. When he washes up unconscious on the shores of a mysterious island, he is awakened by the sound of a fairy's voice. With the aid of this fairy, he sets off to find Tetra and his way back to the seas he once knew.</desc>
-		<image>./mixart/Legend of Zelda, The - Phantom Hourglass (USA) (En,Fr,Es).png</image>
-		<video>./snap/Legend of Zelda, The - Phantom Hourglass (USA) (En,Fr,Es).mp4</video>
-		<marquee>./wheel/Legend of Zelda, The - Phantom Hourglass (USA) (En,Fr,Es).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20071001T000000</releasedate>
-		<developer>Nintendo EAD</developer>
-		<publisher>Nintendo</publisher>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./TrackMania DS (USA) (En,Fr,Es) [b].zip</path>
 		<name>TrackMania DS</name>
 		<desc>The TrackMania series is now going portable with this Nintendo DS release.
@@ -3835,6 +3770,84 @@ The beat-em-up sections are fairly straightforward.  You walk to the end of each
 		<publisher>Game Factory</publisher>
 	</game>
 	<game>
+		<path>./TRON - Evolution (USA) (En,Fr,Es) (NDSi Enhanced) [b].zip</path>
+		<name>Tron Evolution</name>
+		<desc>Tron Evolution sur DS vous plonge dans l'univers du film. Résolvez des énigmes et débloquez des mécanismes qui entravent votre progression tout en vous battant contre les programmes corrompus. Enfourchez ensuite votre Lumicycle lors de séquences de courses.</desc>
+		<image>./mixart/TRON - Evolution (USA) (En,Fr,Es) (NDSi Enhanced) [b].png</image>
+		<video>./snap/TRON - Evolution (USA) (En,Fr,Es) (NDSi Enhanced) [b].mp4</video>
+		<marquee>./wheel/TRON - Evolution (USA) (En,Fr,Es) (NDSi Enhanced) [b].png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20110203T000000</releasedate>
+		<developer>Disney</developer>
+		<publisher>n-Space</publisher>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Phantom Hourglass (USA) (En,Fr,Es).zip</path>
+		<name>The Legend Of Zelda - Phantom Hourglass</name>
+		<desc>Continue the Wind Waker adventure in Link's first DS game.
+
+The epic story of The Legend of Zelda: The Wind Waker continues as Link finds himself lost and alone in unknown seas in a new adventure. Featuring intuitive touch-screen controls and innovative puzzles, The Legend of Zelda: Phantom Hourglass offers new challenges for fans of the series and an easy-to-grasp introduction for gamers new to The Legend of Zelda. But time grows short, and only the Phantom Hourglass can buy Link the minutes he'll need to survive.
+
+Many months have passed since the events of The Legend of Zelda: The Wind Waker, and Link, Tetra and Tetra's band of pirates have set sail in search of new lands. They come across a patch of ocean covered in a dense fog, in which they discover an abandoned ship. Tetra falls into danger when she explores the ship alone, and Link falls into the ocean when he attempts to rescue her. When he washes up unconscious on the shores of a mysterious island, he is awakened by the sound of a fairy's voice. With the aid of this fairy, he sets off to find Tetra and his way back to the seas he once knew.</desc>
+		<image>./mixart/Legend of Zelda, The - Phantom Hourglass (USA) (En,Fr,Es).png</image>
+		<video>./snap/Legend of Zelda, The - Phantom Hourglass (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/Legend of Zelda, The - Phantom Hourglass (USA) (En,Fr,Es).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20071001T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Retro Game Challenge (USA).zip</path>
+		<name>Retro Game Challenge</name>
+		<desc>Arino wants to be the greatest gamer in the world, but he's continually defeated by his friends at every new game that comes out. His obsession has spawned a digital version himself within his own Nintendo DS. This digital version of himself has come to be known as "Game Master Arino", who haunts gamers around the world with retro game challenges. You have been chosen by Game Master Arino, and are now trapped in the 1980s until you can defeat his game challenges.
+
+Retro Game Challenge, based on the Japanese TV show Game Center CX, has you playing faithfully-recreated clones of popular NES-era games, attempting to complete challenges and freeing yourself from Game Master Arino. You are accompanied by Arino himself as a young lad, who will cheer you on as you're playing each game. You can also read the latest gaming mags for tips, cheats, and previews of upcoming titles.
+
+There are eight games total, each modeled after 8-bit classics such as Galaga (Cosmic Gate), Dragon Warrior (Gaudia Quest), and Ninja Jajamaru-kun (Robot Ninja Haggle Man). Each game has multiple challenges from Arino to complete, such as clearing a certain stage or earning a set number of points, and can also be played in a free play mode once all challenges have been cleared.</desc>
+		<image>./mixart/Retro Game Challenge (USA).png</image>
+		<video>./snap/Retro Game Challenge (USA).mp4</video>
+		<marquee>./wheel/Retro Game Challenge (USA).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20090210T000000</releasedate>
+		<developer>Indies Zero</developer>
+		<publisher>Xseed Games</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Tetris DS (USA).zip</path>
+		<name>Tetris DS</name>
+		<desc>At its base, Tetris DS is the same Tetris gameplay that's been around for years: rotate and arrange Tetriminos to create full lines and make them disappear.  However, it also has a style very different from earlier Tetris games, new play modes, and online play.
+
+Graphically and aurally, Tetris DS is based on classic NES games.  A portion of the graphics are sprites directly ripped from Mario Bros., Super Mario Bros., Super Mario Bros. 3, Donkey Kong, Balloon Fight, Metroid, Yoshi's Cookie, and The Legend of Zelda.  Remixes of music from these games are also used.
+
+Standard mode includes the standard endless play option, the standard "get 25 lines to win" option, and the standard versus mode where clearing multiple lines at once adds lines to the bottom of your opponents' well.
+
+Push mode is a versus game with a twist.  The player's moves and pieces are shown on the top screen, while the opponent's are on the bottom screen, both with gravity moving towards the center.  Instead of multiple line clears adding extra lines to the bottom of your opponent's well, though, the center is pushed towards their end, giving them a smaller play area.  Push back and forth until one side loses.
+
+Touch mode presents you with a tall uneven stack of large Tetriminos.  The goal is to nudge or rotate them by dragging or tapping on the touch screen to create full lines and eventually clear the stack.
+
+Puzzle mode offers 200 Tetris scenarios and presents you with a number of pieces.  You choose the order and rotation of the pieces to try and empty the well.
+
+Mission mode gives you specific goals like "Use a square block to clear a line" or "Clear 3 lines with an L piece".  Finish the mission and you'll be given another.  Don't finish the mission and several rows of random blocks will be added to the bottom of the well before being given another mission.
+
+Catch mode has the Tetriminos falling without direct player control.  Instead, the player controls a moving core of blocks which can rotate as a whole, as well as latch on to the falling Tetriminos.  The goal is to create a square of at least 4x4, causing an explosion which keeps the size of your core small.  Lose by allowing your core to get too large, or by losing enough energy; which occurs when you allow a Tetrimino to scroll past the bottom of the screen, your rotating core smacks into and destroys a Tetrimino, or you hit a falling enemy.
+
+Multiplayer Standard, Mission, and Push modes can be played locally using one copy of Tetris DS.  Mission allows for up to 10 players competing for a high score.  Standard allows for up to 10 players, and has an option for Mario Kart-like items to aid you or harm your enemies.  Push mode remains a one-on-one experience.  With Nintendo Wi-Fi Connection, you can play a two-player Standard game without items, a four-player Standard game with items, or a two-player Push mode game.</desc>
+		<image>./mixart/Tetris DS (USA).png</image>
+		<video>./snap/Tetris DS (USA).mp4</video>
+		<marquee>./wheel/Tetris DS (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20060320T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<players>2-10</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
 		<path>./Legend of Zelda, The - Spirit Tracks (USA) (En,Fr,Es).zip</path>
 		<name>The Legend of Zelda: Spirit Tracks </name>
 		<desc>Ride into adventure with Link and Princess Zelda.
@@ -3863,19 +3876,7 @@ The Legend of Zelda: Spirit Tracks sets hero Link on a daring new adventure. The
 		<publisher>Nintendo</publisher>
 		<players>2-4</players>
 		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./TRON - Evolution (USA) (En,Fr,Es) (NDSi Enhanced) [b].zip</path>
-		<name>Tron Evolution</name>
-		<desc>Tron Evolution sur DS vous plonge dans l'univers du film. Résolvez des énigmes et débloquez des mécanismes qui entravent votre progression tout en vous battant contre les programmes corrompus. Enfourchez ensuite votre Lumicycle lors de séquences de courses.</desc>
-		<image>./mixart/TRON - Evolution (USA) (En,Fr,Es) (NDSi Enhanced) [b].png</image>
-		<video>./snap/TRON - Evolution (USA) (En,Fr,Es) (NDSi Enhanced) [b].mp4</video>
-		<marquee>./wheel/TRON - Evolution (USA) (En,Fr,Es) (NDSi Enhanced) [b].png</marquee>
-		<rating>0.65</rating>
-		<releasedate>20110203T000000</releasedate>
-		<developer>Disney</developer>
-		<publisher>n-Space</publisher>
-		<players>4</players>
+		<path>./Legend of Zelda, The - Spirit Tracks (USA) (En,Fr,Es).zip</path>
 	</game>
 	<game>
 		<path>./Mario Kart DS (USA) (En,Fr,De,Es,It).zip</path>
@@ -3890,5 +3891,7 @@ The Legend of Zelda: Spirit Tracks sets hero Link on a daring new adventure. The
 		<publisher>Nintendo</publisher>
 		<players>2-8</players>
 		<favorite>true</favorite>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
 	</game>
 </gameList>

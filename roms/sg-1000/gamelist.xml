@@ -1033,5 +1033,7 @@ Curiously this SG-1000 version uses the katakana script for writing Chack'n Pop 
 		<releasedate>19830630T000000</releasedate>
 		<developer>Tsukuda Original</developer>
 		<publisher>Tsukuda Original</publisher>
+		<lang>jp</lang>
+		<region>jp</region>
 	</game>
 </gameList>

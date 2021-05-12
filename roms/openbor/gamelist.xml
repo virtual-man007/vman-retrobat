@@ -357,20 +357,6 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Art of Fighting - Beats Of Rage Remix III.pak</path>
-		<name>Art of Fighting Beats Of Rage Remix III</name>
-		<desc>A 2D fighting forces with all great characeters from Art of Fighting and Beats of Rage</desc>
-		<image>./mixart/Art of Fighting - Beats Of Rage Remix III.png</image>
-		<video>./snap/Art of Fighting - Beats Of Rage Remix III.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>20160101T000000</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Batman - Gotham Knight.pak</path>
 		<name>Batman Gotham Knight</name>
 		<desc>A 2D fighting forces with all great characeters from Batman Gothan Knight</desc>
@@ -565,20 +551,6 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./HE-MAN.pak</path>
-		<name>HE-MAN</name>
-		<desc>He-Man and the Masters of the Universe is a beat 'em up developed with the OpenBOR engine that allows you to control He-Man, Man-at-Arms, Orko, and the rest of the gang to fight against the terrible forces of evil led by Skeletor.</desc>
-		<image>./mixart/HE-MAN.png</image>
-		<video>./snap/HE-MAN.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>20160101T000000</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>1-4</players>
-	</game>
-	<game>
 		<path>./Sega Brawlers Mega Mix.pak</path>
 		<name>Sega Brawlers Mega Mix</name>
 		<desc>A 2D fighting forces with all great characeters from Sega</desc>
@@ -635,20 +607,6 @@
 		<players>1-4</players>
 	</game>
 	<game>
-		<path>./A Tale of Vengeance.pak</path>
-		<name>A Tale of Vengeance</name>
-		<desc>A 2D fighting forces with all great characeters from A Tale of Vengeance</desc>
-		<image>./mixart/A Tale of Vengeance.png</image>
-		<video>./snap/A Tale of Vengeance.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>20160101T000000</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Crime Buster.pak</path>
 		<name>Crime Buster</name>
 		<desc>A 2D fighting forces with all great characeters from Crime Buster</desc>
@@ -657,20 +615,6 @@
 		<marquee>./wheel/OpenBOR.png</marquee>
 		<rating>4.8</rating>
 		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Battletoads.pak</path>
-		<name>Battletoads</name>
-		<desc>A 2D fighting forces with all great characeters from Battletoads</desc>
-		<image>./mixart/Battletoads.png</image>
-		<video>./snap/Battletoads.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>20160101T000000</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>
 		<genre>2D-Fighting</genre>
@@ -731,66 +675,6 @@
 		<publisher>OpenBOR</publisher>
 		<genre>2D-Fighting</genre>
 		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Ninja.pak</path>
-		<name>Ninja</name>
-		<desc>A 2D fighting forces with all great characeters from Ninja 80's era!</desc>
-		<image>./mixart/Ninja.png</image>
-		<video>./snap/Ninja.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>1-2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Streets of Rage 4 HD.pak</path>
-		<name>Streets of Rage 4</name>
-		<desc>A 2D fighting forces with all great characeters from Streets of Rage in HD</desc>
-		<image>./mixart/Streets of Rage 4 HD.png</image>
-		<video>./snap/Streets of Rage 4 HD.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>20160101T000000</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>1-4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./The City of Kaos.pak</path>
-		<name>The City of Kaos</name>
-		<desc>A 2D fighting forces with all great characeters from SNK.</desc>
-		<image>./mixart/The City of Kaos.png</image>
-		<video>./snap/The City of Kaos.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>1-2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Teenage Mutant Ninja Turtles - Shell Shocked.pak</path>
-		<name>TMNT - Shell Shocked</name>
-		<desc>A 2D fighting forces with all great characeters from TMNT</desc>
-		<image>./mixart/Teenage Mutant Ninja Turtles - Shell Shocked.png</image>
-		<video>./snap/Teenage Mutant Ninja Turtles - Shell Shocked.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.9</rating>
-		<releasedate>20160101T000000</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>1-4</players>
-		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Kill Bill.pak</path>
@@ -2083,17 +1967,6 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Airgallet Fighters Wing.pak</path>
-		<name>Airgallet Fighters Wing</name>
-		<desc>New enemy declarated   wold war III , japan has been invaded , rest of the world has also been invaded,   two pilots the team airgallet  is not enough ,to combat the threat the  general   the navy battleship morita kaisaku, orders, finding new pilots to save the world, the elect are shin kazama and mike simon team u.n scuadron, mao mao and malcom team aerofighters, together to defeat the invaders ,to restore world peace.</desc>
-		<image>./mixart/Airgallet Fighters Wing.png</image>
-		<video>./snap/Airgallet Fighters Wing.mp4</video>
-		<marquee>./wheel/Airgallet Fighters Wing.png</marquee>
-		<rating>4.6</rating>
-		<releasedate>19700101T010000</releasedate>
-		<developer>kyo83</developer>
-	</game>
-	<game>
 		<path>./Aliens Clash.pak</path>
 		<name>Aliens Clash</name>
 		<desc>2 Alien races have clashed for years, the winner will be decided by the champion of each race  Play as the champion of a race. Travel and shoot your way through different worlds and levels. Win your race and defeat the other champion!</desc>
@@ -2117,15 +1990,6 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Bad Ass Babes Episode one.pak</path>
-		<name>Bad Ass Babes</name>
-		<image>./mixart/Bad Ass Babes Episode one.png</image>
-		<video>./snap/Bad Ass Babes Episode one.mp4</video>
-		<marquee>./wheel/Bad Ass Babes Episode one.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T010000</releasedate>
-	</game>
-	<game>
 		<path>./Balance of Power.PAK</path>
 		<name>Balance Of Power</name>
 		<image>./mixart/Balance of Power.png</image>
@@ -2140,15 +2004,6 @@
 		<image>./mixart/Bare Knuckle 3 Yesterday Once More v9.png</image>
 		<video>./snap/Bare Knuckle 3 Yesterday Once More v9.mp4</video>
 		<marquee>./wheel/Bare Knuckle 3 Yesterday Once More v9.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T010000</releasedate>
-	</game>
-	<game>
-		<path>./Bare Knuckle VI.pak</path>
-		<name>Bare Knuckle 6</name>
-		<image>./mixart/Bare Knuckle VI.png</image>
-		<video>./snap/Bare Knuckle VI.mp4</video>
-		<marquee>./wheel/Bare Knuckle VI.png</marquee>
 		<rating>0.8</rating>
 		<releasedate>19700101T010000</releasedate>
 	</game>
@@ -2174,35 +2029,6 @@
 		<releasedate>19700101T010000</releasedate>
 		<genre>Beat'em Up</genre>
 		<players>1-4</players>
-	</game>
-	<game>
-		<path>./BattleManiacs BareKnuckle.pak</path>
-		<name>Battle Maniacs Bare Knuckle</name>
-		<image>./mixart/BattleManiacs BareKnuckle.png</image>
-		<video>./snap/BattleManiacs BareKnuckle.mp4</video>
-		<marquee>./wheel/BattleManiacs BareKnuckle.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T010000</releasedate>
-	</game>
-	<game>
-		<path>./Battletoads &amp; Double Dragon IV - The Return of the Dark Forces.pak</path>
-		<name>Battletoads And Double Dragon Iv - The Return Of The Dark Forces</name>
-		<desc>Faraway, at the very end of this galaxy there is another world race of the galaxy “Canis Major” corporation ruled by Queen of Dark. Defeated Queen of Dark is full of rage and makes up new evil plans of revenge and conquest. She destroyed all fighting units in Oxnard, where battle toads live. She did this with the help of magic and her faithful warriors. The city was at Queen's feet after that. Battletoads and Double Dragon mean the last hope. You must make your way to the Queen of Dark and destroy her with the help of set of fighting skills of each fighter.  You are going to experience a hurricane beat'em up with classic characters, improved graphics and nice sound effects. There are also extra game modes available: boss battle and air motorbike races.</desc>
-		<image>./mixart/Battletoads &amp; Double Dragon IV - The Return of the Dark Forces.png</image>
-		<video>./snap/Battletoads &amp; Double Dragon IV - The Return of the Dark Forces.mp4</video>
-		<marquee>./wheel/Battletoads &amp; Double Dragon IV - The Return of the Dark Forces.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T010000</releasedate>
-		<genre>Plateform / Fighter Scrolling-Fight / 2D-Platform-Fight</genre>
-	</game>
-	<game>
-		<path>./Battletoads Double Dragon - The Revenge.PAK</path>
-		<name>Battletoads Double Dragon - The Revenge</name>
-		<image>./mixart/Battletoads Double Dragon - The Revenge.png</image>
-		<video>./snap/Battletoads Double Dragon - The Revenge.mp4</video>
-		<marquee>./wheel/Battletoads Double Dragon - The Revenge.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T010000</releasedate>
 	</game>
 	<game>
 		<path>./Battletoads Double Dragon - The T.Bird Mission.PAK</path>
@@ -3336,61 +3162,6 @@
 		<releasedate>19700101T010000</releasedate>
 		<developer>HandsnFeetFace</developer>
 	</game>
-	<game>
-		<path>./Ghouls'n Ghosts.pak</path>
-		<name>Ghouls N Ghosts</name>
-		<image>./mixart/Ghouls'n Ghosts.png</image>
-		<video>./snap/Ghouls'n Ghosts.mp4</video>
-		<marquee>./wheel/Ghouls'n Ghosts.png</marquee>
-		<rating>1</rating>
-		<releasedate>19700101T010000</releasedate>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Masters of the Universe.pak</path>
-		<name>Masters Of The Universe</name>
-		<image>./mixart/Masters of the Universe.png</image>
-		<video>./snap/Masters of the Universe.mp4</video>
-		<marquee>./wheel/Masters of the Universe.png</marquee>
-		<rating>4</rating>
-		<releasedate />
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./HD_Monster_Girl_Dimensions.pak</path>
-		<name>Monster Girl Dimensions</name>
-		<desc>A 2D fighting forces with all great characeters from Bad School Japan Anime</desc>
-		<image>./mixart/HD_Monster_Girl_Dimensions.png</image>
-		<video>./snap/HD_Monster_Girl_Dimensions.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>1-2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./silent hill.PAK</path>
-		<name>Silent Hill 2</name>
-		<image>./mixart/Silent Hill 2 [8 Chars][v.3.0 Build 4086].png</image>
-		<video>./snap/Silent Hill 2 [8 Chars][v.3.0 Build 4086].mp4</video>
-		<marquee>./wheel/Silent Hill 2 [8 Chars][v.3.0 Build 4086].png</marquee>
-		<rating>4</rating>
-		<releasedate />
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Teenage Mutant Ninja Turtles.pak</path>
-		<name>Teenage Mutant Ninja Turtles</name>
-		<image>./mixart/Teenage Mutant Ninja Turtles.png</image>
-		<video>./snap/Teenage Mutant Ninja Turtles.mp4</video>
-		<marquee>./wheel/Teenage Mutant Ninja Turtles.png</marquee>
-		<rating>4</rating>
-		<releasedate />
-		<favorite>true</favorite>
-	</game>
 	<game id="192052" source="ScreenScraper.fr">
 		<path>./Beast &amp; Blanka in the Violent World [v.3.0 Build 4153].pak</path>
 		<name>Beast And Blanka In The Violent World</name>
@@ -3593,36 +3364,6 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Super Karate Kid.pak</path>
-		<name>Super Karate Kid</name>
-		<desc>A 2D fighting forces with all great characeters from Karate Kid movie series</desc>
-		<image>./mixart/Super Karate Kid.png</image>
-		<video>./snap/Super Karate Kid.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>1-2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Sreet Fighter Rage - World Olympic Tour.pak</path>
-		<name>Sreet Fighter Rage: World Olympic Tour</name>
-		<desc>A 2D fighting forces with all great characeters Street Fighter seires</desc>
-		<image>./mixart/Sreet Fighter Rage - World Olympic Tour.png</image>
-		<video>./snap/Sreet Fighter Rage - World Olympic Tour.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>1-2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Turtles Ninjas and Battletoads.pak</path>
 		<name>Tmnt And Battletoads</name>
 		<image>./mixart/Turtles Ninjas and Battletoads.png</image>
@@ -3692,16 +3433,6 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Mass Effect - Dark Corners of the Galaxy [Ver. Demo][v.3.0 Build 4086].pak</path>
-		<name>Mass Effect - Dark Corners Of The Galaxy</name>
-		<image>./mixart/Mass Effect - Dark Corners of the Galaxy [Ver. Demo][v.3.0 Build 4086].png</image>
-		<video>./snap/Mass Effect - Dark Corners of the Galaxy [Ver. Demo][v.3.0 Build 4086].mp4</video>
-		<marquee>./wheel/Mass Effect - Dark Corners of the Galaxy [Ver. Demo][v.3.0 Build 4086].png</marquee>
-		<rating>4</rating>
-		<releasedate />
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Rescue_Command_II.pak</path>
 		<name>Rescue Command II - Against the Amazon Girls</name>
 		<desc>A 2D fighting forces with all great characeters from the Amazon girls anime</desc>
@@ -3714,21 +3445,6 @@
 		<publisher>OpenBOR</publisher>
 		<genre>2D-Fighting</genre>
 		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Retro Gamer Adventure [Ver. 1.0.3][v.3.0 Build 405X].pak</path>
-		<name>Retro Gamer Adventure</name>
-		<desc>A 2D fighting forces with all great characeters Retro Glory Day's</desc>
-		<image>./mixart/Retro Gamer Adventure [Ver. 1.0.3][v.3.0 Build 405X].png</image>
-		<video>./snap/Retro Gamer Adventure [Ver. 1.0.3][v.3.0 Build 405X].mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>1-2</players>
-		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Alien vs Predator Aftermath.PAK</path>
@@ -3763,6 +3479,197 @@
 		<video>./snap/Legend of the Double Dragon v1.5 Cinematic Edition.mp4</video>
 	</game>
 	<game>
+		<path>./Ghouls'n Ghosts.pak</path>
+		<name>Ghouls N Ghosts</name>
+		<image>./mixart/Ghouls'n Ghosts.png</image>
+		<video>./snap/Ghouls'n Ghosts.mp4</video>
+		<marquee>./wheel/Ghouls'n Ghosts.png</marquee>
+		<rating>1</rating>
+		<releasedate>19700101T010000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./HD_Monster_Girl_Dimensions.pak</path>
+		<name>Monster Girl Dimensions</name>
+		<desc>A 2D fighting forces with all great characeters from Bad School Japan Anime</desc>
+		<image>./mixart/HD_Monster_Girl_Dimensions.png</image>
+		<video>./snap/HD_Monster_Girl_Dimensions.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Mass Effect - Dark Corners of the Galaxy [Ver. Demo][v.3.0 Build 4086].pak</path>
+		<name>Mass Effect - Dark Corners Of The Galaxy</name>
+		<image>./mixart/Mass Effect - Dark Corners of the Galaxy [Ver. Demo][v.3.0 Build 4086].png</image>
+		<video>./snap/Mass Effect - Dark Corners of the Galaxy [Ver. Demo][v.3.0 Build 4086].mp4</video>
+		<marquee>./wheel/Mass Effect - Dark Corners of the Galaxy [Ver. Demo][v.3.0 Build 4086].png</marquee>
+		<rating>4</rating>
+		<releasedate />
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Masters of the Universe.pak</path>
+		<name>Masters Of The Universe</name>
+		<image>./mixart/Masters of the Universe.png</image>
+		<video>./snap/Masters of the Universe.mp4</video>
+		<marquee>./wheel/Masters of the Universe.png</marquee>
+		<rating>4</rating>
+		<releasedate />
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Ninja.pak</path>
+		<name>Ninja</name>
+		<desc>A 2D fighting forces with all great characeters from Ninja 80's era!</desc>
+		<image>./mixart/Ninja.png</image>
+		<video>./snap/Ninja.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Airgallet Fighters Wing.pak</path>
+		<name>Airgallet Fighters Wing</name>
+		<desc>New enemy declarated   wold war III , japan has been invaded , rest of the world has also been invaded,   two pilots the team airgallet  is not enough ,to combat the threat the  general   the navy battleship morita kaisaku, orders, finding new pilots to save the world, the elect are shin kazama and mike simon team u.n scuadron, mao mao and malcom team aerofighters, together to defeat the invaders ,to restore world peace.</desc>
+		<image>./mixart/Airgallet Fighters Wing.png</image>
+		<video>./snap/Airgallet Fighters Wing.mp4</video>
+		<marquee>./wheel/Airgallet Fighters Wing.png</marquee>
+		<rating>4.6</rating>
+		<releasedate>19700101T010000</releasedate>
+		<developer>kyo83</developer>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Art of Fighting - Beats Of Rage Remix III.pak</path>
+		<name>Art of Fighting Beats Of Rage Remix III</name>
+		<desc>A 2D fighting forces with all great characeters from Art of Fighting and Beats of Rage</desc>
+		<image>./mixart/Art of Fighting - Beats Of Rage Remix III.png</image>
+		<video>./snap/Art of Fighting - Beats Of Rage Remix III.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4.8</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Bad Ass Babes Episode one.pak</path>
+		<name>Bad Ass Babes</name>
+		<image>./mixart/Bad Ass Babes Episode one.png</image>
+		<video>./snap/Bad Ass Babes Episode one.mp4</video>
+		<marquee>./wheel/Bad Ass Babes Episode one.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Bare Knuckle VI.pak</path>
+		<name>Bare Knuckle 6</name>
+		<image>./mixart/Bare Knuckle VI.png</image>
+		<video>./snap/Bare Knuckle VI.mp4</video>
+		<marquee>./wheel/Bare Knuckle VI.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./BattleManiacs BareKnuckle.pak</path>
+		<name>Battle Maniacs Bare Knuckle</name>
+		<image>./mixart/BattleManiacs BareKnuckle.png</image>
+		<video>./snap/BattleManiacs BareKnuckle.mp4</video>
+		<marquee>./wheel/BattleManiacs BareKnuckle.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Battletoads &amp; Double Dragon IV - The Return of the Dark Forces.pak</path>
+		<name>Battletoads And Double Dragon Iv - The Return Of The Dark Forces</name>
+		<desc>Faraway, at the very end of this galaxy there is another world race of the galaxy “Canis Major” corporation ruled by Queen of Dark. Defeated Queen of Dark is full of rage and makes up new evil plans of revenge and conquest. She destroyed all fighting units in Oxnard, where battle toads live. She did this with the help of magic and her faithful warriors. The city was at Queen's feet after that. Battletoads and Double Dragon mean the last hope. You must make your way to the Queen of Dark and destroy her with the help of set of fighting skills of each fighter.  You are going to experience a hurricane beat'em up with classic characters, improved graphics and nice sound effects. There are also extra game modes available: boss battle and air motorbike races.</desc>
+		<image>./mixart/Battletoads &amp; Double Dragon IV - The Return of the Dark Forces.png</image>
+		<video>./snap/Battletoads &amp; Double Dragon IV - The Return of the Dark Forces.mp4</video>
+		<marquee>./wheel/Battletoads &amp; Double Dragon IV - The Return of the Dark Forces.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
+		<genre>Plateform / Fighter Scrolling-Fight / 2D-Platform-Fight</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Battletoads Double Dragon - The Revenge.PAK</path>
+		<name>Battletoads Double Dragon - The Revenge</name>
+		<image>./mixart/Battletoads Double Dragon - The Revenge.png</image>
+		<video>./snap/Battletoads Double Dragon - The Revenge.mp4</video>
+		<marquee>./wheel/Battletoads Double Dragon - The Revenge.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Battletoads.pak</path>
+		<name>Battletoads</name>
+		<desc>A 2D fighting forces with all great characeters from Battletoads</desc>
+		<image>./mixart/Battletoads.png</image>
+		<video>./snap/Battletoads.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4.8</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Sreet Fighter Rage - World Olympic Tour.pak</path>
+		<name>Sreet Fighter Rage: World Olympic Tour</name>
+		<desc>A 2D fighting forces with all great characeters Street Fighter seires</desc>
+		<image>./mixart/Sreet Fighter Rage - World Olympic Tour.png</image>
+		<video>./snap/Sreet Fighter Rage - World Olympic Tour.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./The City of Kaos.pak</path>
+		<name>The City of Kaos</name>
+		<desc>A 2D fighting forces with all great characeters from SNK.</desc>
+		<image>./mixart/The City of Kaos.png</image>
+		<video>./snap/The City of Kaos.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Bruce Lee - Revenge of the Dragon.pak</path>
 		<name>Bruce Lee Revenge of the Dragon</name>
 		<desc>Based on Bruce Lee's movies. It uses modded Street Fighter Alpha characters and many others. It also uses music taken from Bruce Lee movies.</desc>
@@ -3776,6 +3683,76 @@
 		<genre>2D-Fighting</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./A Tale of Vengeance.pak</path>
+		<name>A Tale of Vengeance</name>
+		<desc>A 2D fighting forces with all great characeters from A Tale of Vengeance</desc>
+		<image>./mixart/A Tale of Vengeance.png</image>
+		<video>./snap/A Tale of Vengeance.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4.8</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./silent hill.PAK</path>
+		<name>Silent Hill 2</name>
+		<image>./mixart/Silent Hill 2 [8 Chars][v.3.0 Build 4086].png</image>
+		<video>./snap/Silent Hill 2 [8 Chars][v.3.0 Build 4086].mp4</video>
+		<marquee>./wheel/Silent Hill 2 [8 Chars][v.3.0 Build 4086].png</marquee>
+		<rating>4</rating>
+		<releasedate />
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Streets of Rage 4 HD.pak</path>
+		<name>Streets of Rage 4</name>
+		<desc>A 2D fighting forces with all great characeters from Streets of Rage in HD</desc>
+		<image>./mixart/Streets of Rage 4 HD.png</image>
+		<video>./snap/Streets of Rage 4 HD.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4.8</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Teenage Mutant Ninja Turtles - Shell Shocked.pak</path>
+		<name>TMNT - Shell Shocked</name>
+		<desc>A 2D fighting forces with all great characeters from TMNT</desc>
+		<image>./mixart/Teenage Mutant Ninja Turtles - Shell Shocked.png</image>
+		<video>./snap/Teenage Mutant Ninja Turtles - Shell Shocked.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4.9</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Teenage Mutant Ninja Turtles.pak</path>
+		<name>Teenage Mutant Ninja Turtles</name>
+		<image>./mixart/Teenage Mutant Ninja Turtles.png</image>
+		<video>./snap/Teenage Mutant Ninja Turtles.mp4</video>
+		<marquee>./wheel/Teenage Mutant Ninja Turtles.png</marquee>
+		<rating>4</rating>
+		<releasedate />
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 	<game>
 		<path>./TMNT Rescue-Palooza! v0.9.3.pak</path>
@@ -3784,6 +3761,55 @@
 		<video>./snap/TMNT Rescue-Palooza! v0.9.3.mp4</video>
 		<marquee>./wheel/TMNT Rescue-Palooza! v0.9.3.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Retro Gamer Adventure.pak</path>
+		<name>Retro Gamer Adventure 2.0</name>
+		<desc>A 2D fighting forces with all great characeters Retro Glory Day's</desc>
+		<image>./mixart/Retro Gamer Adventure [Ver. 1.0.3][v.3.0 Build 405X].png</image>
+		<video>./snap/Retro Gamer Adventure [Ver. 1.0.3][v.3.0 Build 405X].mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./HE-MAN.pak</path>
+		<name>HE-MAN</name>
+		<desc>He-Man and the Masters of the Universe is a beat 'em up developed with the OpenBOR engine that allows you to control He-Man, Man-at-Arms, Orko, and the rest of the gang to fight against the terrible forces of evil led by Skeletor.</desc>
+		<image>./mixart/HE-MAN.png</image>
+		<video>./snap/HE-MAN.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4.8</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Super Karate Kid.pak</path>
+		<name>Super Karate Kid</name>
+		<desc>A 2D fighting forces with all great characeters from Karate Kid movie series</desc>
+		<image>./mixart/Super Karate Kid.png</image>
+		<video>./snap/Super Karate Kid.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

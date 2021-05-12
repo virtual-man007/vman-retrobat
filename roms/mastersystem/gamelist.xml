@@ -4562,20 +4562,6 @@ With all the locations, you're under a time limit, and as usual, if the time exp
 		<players>1-10</players>
 	</game>
 	<game>
-		<path>./Ace of Aces (Europe).7z</path>
-		<name>Ace of Aces</name>
-		<desc>Ace of Aces is a 1st person, 2D flight simulation. You're onboard a British RAF Mosquito, maverick fighter bomber.
-Your mission ... stop enemy trains, intercept the terrible german V-1 buzz bombs, sink the german U-boats and down the Nazi bombers. Are you ready for this challenge?</desc>
-		<image>./mixart/Ace of Aces (Europe).png</image>
-		<video>./snap/Ace of Aces (Europe).mp4</video>
-		<marquee>./wheel/Ace of Aces (Europe).png</marquee>
-		<rating>0.15</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Artech Studios</developer>
-		<publisher>Artech Studios</publisher>
-		<genre>Shoot'em Up-Simulation</genre>
-	</game>
-	<game>
 		<path>./Double Hawk (Europe).7z</path>
 		<name>Double Hawk</name>
 		<desc>In the early 1990s, violence was spreading across the globe, and the disturbances centered exclusively around a group of international terrorists whose purpose is to terrorize and massacre the innocent. The United Nations ordered two seasoned veterans, John Jackson and  Jack Thomas, to destroy the syndicate.
@@ -4725,6 +4711,20 @@ Once you're confident enough to take on other teams, be sure to check out the to
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
 		<genre>Role playing games</genre>
+	</game>
+	<game>
+		<path>./Ace of Aces (Europe).7z</path>
+		<name>Ace of Aces</name>
+		<desc>Ace of Aces is a 1st person, 2D flight simulation. You're onboard a British RAF Mosquito, maverick fighter bomber.
+Your mission ... stop enemy trains, intercept the terrible german V-1 buzz bombs, sink the german U-boats and down the Nazi bombers. Are you ready for this challenge?</desc>
+		<image>./mixart/Ace of Aces (Europe).png</image>
+		<video>./snap/Ace of Aces (Europe).mp4</video>
+		<marquee>./wheel/Ace of Aces (Europe).png</marquee>
+		<rating>0.15</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Artech Studios</developer>
+		<publisher>Artech Studios</publisher>
+		<genre>Shoot'em Up-Simulation</genre>
 	</game>
 	<game>
 		<path>./Enduro Racer (USA, Europe).7z</path>

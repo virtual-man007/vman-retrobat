@@ -149,20 +149,6 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./rumblef2.zip</path>
-		<name>The Rumble Fish 2</name>
-		<desc>he Rumble Fish 2 uses all of the elements from the first game and adds some new ones.    The Offense and Defense gauges have been divided into three sections each, allowing for more usage of Offensive and Defensive Arts, as well as techniques tied to each gauge. An addition to the system is the Boost Dive, which puts each character into a powered-up state according to their style.    Most characters have had modifications to their movelists in some way, such as new moves, new commands for old moves, and so forth.</desc>
-		<image>./mixart/rumblef2.png</image>
-		<video>./snap/rumblef2.mp4</video>
-		<marquee>./wheel/rumblef2.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20040101T000000</releasedate>
-		<developer>Sammy Studios</developer>
-		<publisher>Sammy Studios</publisher>
-		<genre>Fight-Fight / Versus</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./kofnw.lst</path>
 		<name>The King of Fighters NeoWave</name>
 		<desc>The King of Fighters: Neowave is a 2D 3-on-3 fighting game in the King of Fighters series, featuring three gameplay styles and new hardware.</desc>
@@ -173,21 +159,6 @@
 		<releasedate>20050101T000000</releasedate>
 		<genre>Fight / Versus-Fight</genre>
 		<players>1-2</players>
-	</game>
-	<game>
-		<path>./fotns.zip</path>
-		<name>Fist Of The North Star</name>
-		<desc>This was an arcade game released in 2000 by Konami (also known as Punch Mania: Hokuto no Ken)</desc>
-		<image>./mixart/fotns.png</image>
-		<video>./snap/fotns.mp4</video>
-		<marquee>./wheel/fotns.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20050101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Fight-Fight / Versus</genre>
-		<players>1-2</players>
-		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./ngbc.zip</path>
@@ -248,35 +219,8 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./kofxi.zip</path>
-		<name>The King of Fighters XI</name>
-		<desc>The eleventh game in the KOF series following The King of Fighters 2003. According to Sega: 'For over 10 years, the King of Fighters series has been the choice of game players around the world. The 11th team of fighters continues this tradition. KOF11 is suited for one to two players, with continuous buy-in. Choose from 33 fighters, including 4 new characters. A fifth control button was added to enhance your skills by delivering a devastating blow to your opponent, if hit at the right time. A New Skill Gauge performs a variety of tag-off moves and new attacks. A player can also custom construct a Three-Fighter Tag-Team by selecting three choice combatants.'</desc>
-		<image>./mixart/kofxi.png</image>
-		<video>./snap/kofxi.mp4</video>
-		<marquee>./wheel/kofxi.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20050101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Fight / Versus-Fight</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./mslug6a.zip</path>
 		<name>mslug6a</name>
-	</game>
-	<game>
-		<path>./dolphin.zip</path>
-		<name>Dolphin Blue</name>
-		<desc>Sammy's Atomiswave arcade shoot-em-up in the vein of Metal Slug, where players ride dolphins and destroy fleets of enemy ships and submarines.  Unfortunately, this arcade shoot-em-up was never ported to any home console.</desc>
-		<image>./mixart/dolphin.png</image>
-		<video>./snap/dolphin.mp4</video>
-		<marquee>./wheel/dolphin.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20030101T000000</releasedate>
-		<genre>Shoot'em Up-Platform-Plateform / Shooter Scrolling</genre>
-		<players>1-2</players>
-		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./xtrmhnt2.zip</path>
@@ -304,20 +248,6 @@
 		<genre>Race 1st Pers. view-Race, Driving</genre>
 	</game>
 	<game>
-		<path>./anmlbskt.zip</path>
-		<name>Animal Basket (24 Jan 2005)</name>
-		<desc>"Tamaire" is a game traditionally played by japanese elementary school children at sport festivals. It takes about 200 stuffed balls, 2 baskets and 2 poles to hold the baskets. Any number of children can participate. This is the videogame version of this japanese game !</desc>
-		<image>./mixart/anmlbskt.png</image>
-		<video>./snap/anmlbskt.mp4</video>
-		<marquee>./wheel/anmlbskt.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20050101T000000</releasedate>
-		<developer>MOSS</developer>
-		<publisher>Sammy</publisher>
-		<genre>Sports-Sports / Basketball</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./blokpong.zip</path>
 		<name>Block Pong-pong</name>
 		<desc>Game derived from ping-pong where rackets are replaced by cards with cute animals.</desc>
@@ -326,6 +256,32 @@
 		<marquee>./wheel/blokpong.png</marquee>
 		<rating>0</rating>
 		<releasedate>20040101T000000</releasedate>
+	</game>
+	<game>
+		<path>./kofnw.zip</path>
+		<name>The King of Fighters NeoWave</name>
+		<desc>The King of Fighters: Neowave is a 2D 3-on-3 fighting game in the King of Fighters series, featuring three gameplay styles and new hardware.</desc>
+		<image>./mixart/kofnw.png</image>
+		<video>./snap/kofnw.mp4</video>
+		<marquee>./wheel/kofnw.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20050101T000000</releasedate>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./rumblef2.zip</path>
+		<name>The Rumble Fish 2</name>
+		<desc>he Rumble Fish 2 uses all of the elements from the first game and adds some new ones.    The Offense and Defense gauges have been divided into three sections each, allowing for more usage of Offensive and Defensive Arts, as well as techniques tied to each gauge. An addition to the system is the Boost Dive, which puts each character into a powered-up state according to their style.    Most characters have had modifications to their movelists in some way, such as new moves, new commands for old moves, and so forth.</desc>
+		<image>./mixart/rumblef2.png</image>
+		<video>./snap/rumblef2.mp4</video>
+		<marquee>./wheel/rumblef2.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>2</players>
 	</game>
 	<game>
 		<path>./sushibar.zip</path>
@@ -349,43 +305,35 @@
 		<genre>Race, Driving</genre>
 	</game>
 	<game>
-		<path>./kofnw.zip</path>
-		<name>The King of Fighters NeoWave</name>
-		<desc>The King of Fighters: Neowave is a 2D 3-on-3 fighting game in the King of Fighters series, featuring three gameplay styles and new hardware.</desc>
-		<image>./mixart/kofnw.png</image>
-		<video>./snap/kofnw.mp4</video>
-		<marquee>./wheel/kofnw.png</marquee>
-		<rating>0.8</rating>
+		<path>./anmlbskt.zip</path>
+		<name>Animal Basket (24 Jan 2005)</name>
+		<desc>"Tamaire" is a game traditionally played by japanese elementary school children at sport festivals. It takes about 200 stuffed balls, 2 baskets and 2 poles to hold the baskets. Any number of children can participate. This is the videogame version of this japanese game !</desc>
+		<image>./mixart/anmlbskt.png</image>
+		<video>./snap/anmlbskt.mp4</video>
+		<marquee>./wheel/anmlbskt.png</marquee>
+		<rating>0.7</rating>
 		<releasedate>20050101T000000</releasedate>
-		<genre>Fight / Versus-Fight</genre>
+		<developer>MOSS</developer>
+		<publisher>Sammy</publisher>
+		<genre>Sports-Sports / Basketball</genre>
 		<players>2</players>
+		<lang>en</lang>
 	</game>
 	<game>
-		<path>./atvtrack.zip</path>
-		<name>Atv Track (set 1)</name>
-		<desc>A four-wheel motorcycle racing simulator with four different circuits and two selectable modes : Practice and Competition.</desc>
-		<image>./mixart/atvtrack.png</image>
-		<video>./snap/atvtrack.mp4</video>
-		<marquee>./wheel/atvtrack.png</marquee>
-		<rating>0</rating>
-		<releasedate>20020101T000000</releasedate>
-		<publisher>Gaelco</publisher>
-		<genre>Race, Driving-Motorcycle Race, 3rd Pers.</genre>
-	</game>
-	<game>
-		<path>./demofist.zip</path>
-		<name>Demolish Fist</name>
-		<desc>Demolish Fist is a side scrolling beat 'em up where the player controls one of four characters, Enzo, Leoneer, Vanessa or Undead as you battle your way through various stages. There are many items, which are available to use as a weapons against your enemies. Each player has their own assortment of moves and specials that they can unleash at will. Also all four of these characters have the ability to use the awesome 'Vertigo' technique! Demolish Fist is a well put together fighting game that has many things to offer the beat 'em up world.</desc>
-		<image>./mixart/demofist.png</image>
-		<video>./snap/demofist.mp4</video>
-		<marquee>./wheel/demofist.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20030101T000000</releasedate>
-		<developer>Sammy Studios</developer>
-		<publisher>Sammy Studios</publisher>
-		<genre>Beat'em Up-Fight-Fight / Versus</genre>
+		<path>./fotns.zip</path>
+		<name>Fist Of The North Star</name>
+		<desc>This was an arcade game released in 2000 by Konami (also known as Punch Mania: Hokuto no Ken)</desc>
+		<image>./mixart/fotns.png</image>
+		<video>./snap/fotns.mp4</video>
+		<marquee>./wheel/fotns.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight-Fight / Versus</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 	<game>
 		<path>./mslug6.zip</path>
@@ -401,5 +349,62 @@
 		<genre>Platform</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./dolphin.zip</path>
+		<name>Dolphin Blue</name>
+		<desc>Sammy's Atomiswave arcade shoot-em-up in the vein of Metal Slug, where players ride dolphins and destroy fleets of enemy ships and submarines.  Unfortunately, this arcade shoot-em-up was never ported to any home console.</desc>
+		<image>./mixart/dolphin.png</image>
+		<video>./snap/dolphin.mp4</video>
+		<marquee>./wheel/dolphin.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20030101T000000</releasedate>
+		<genre>Shoot'em Up-Platform-Plateform / Shooter Scrolling</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./atvtrack.zip</path>
+		<name>Atv Track (set 1)</name>
+		<desc>A four-wheel motorcycle racing simulator with four different circuits and two selectable modes : Practice and Competition.</desc>
+		<image>./mixart/atvtrack.png</image>
+		<video>./snap/atvtrack.mp4</video>
+		<marquee>./wheel/atvtrack.png</marquee>
+		<rating>0</rating>
+		<releasedate>20020101T000000</releasedate>
+		<publisher>Gaelco</publisher>
+		<genre>Race, Driving-Motorcycle Race, 3rd Pers.</genre>
+	</game>
+	<game>
+		<path>./kofxi.zip</path>
+		<name>The King of Fighters XI</name>
+		<desc>The eleventh game in the KOF series following The King of Fighters 2003. According to Sega: 'For over 10 years, the King of Fighters series has been the choice of game players around the world. The 11th team of fighters continues this tradition. KOF11 is suited for one to two players, with continuous buy-in. Choose from 33 fighters, including 4 new characters. A fifth control button was added to enhance your skills by delivering a devastating blow to your opponent, if hit at the right time. A New Skill Gauge performs a variety of tag-off moves and new attacks. A player can also custom construct a Three-Fighter Tag-Team by selecting three choice combatants.'</desc>
+		<image>./mixart/kofxi.png</image>
+		<video>./snap/kofxi.mp4</video>
+		<marquee>./wheel/kofxi.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./demofist.zip</path>
+		<name>Demolish Fist</name>
+		<desc>Demolish Fist is a side scrolling beat 'em up where the player controls one of four characters, Enzo, Leoneer, Vanessa or Undead as you battle your way through various stages. There are many items, which are available to use as a weapons against your enemies. Each player has their own assortment of moves and specials that they can unleash at will. Also all four of these characters have the ability to use the awesome 'Vertigo' technique! Demolish Fist is a well put together fighting game that has many things to offer the beat 'em up world.</desc>
+		<image>./mixart/demofist.png</image>
+		<video>./snap/demofist.mp4</video>
+		<marquee>./wheel/demofist.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Beat'em Up-Fight-Fight / Versus</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

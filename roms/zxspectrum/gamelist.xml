@@ -6,22 +6,6 @@
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game id="44503" source="ScreenScraper.fr">
-		<path>./Deathchase (Europe).tzx</path>
-		<name>3D Deathchase</name>
-		<desc>3D Deathchase sees you riding a motorcycle through 14 stages, with the aim of shooting out a succession of riders. Each stage starts with 2 bikes to shoot out, although planes and tanks also appear on the horizon, to be shot for bonus points. You start with 3 bikes and an infinite supply of bullets, with one bike lost every time you crash.
-
-The levels are tree-lined, and at top speed it can be terrifying as you try to muscle through the gaps so as not to lose distance on the target bike. Every second level is played out at night, which changes the colour scheme.
-</desc>
-		<rating>0.75</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Mervyn J. Estcourt, R.B.</developer>
-		<publisher>Micromega</publisher>
-		<players>1</players>
-		<hash>CCA317B6</hash>
-		<image>./mixart/Deathchase (Europe).png</image>
-		<video>./snap/Deathchase (Europe).mp4</video>
-	</game>
 	<game id="44583" source="ScreenScraper.fr">
 		<path>./Ant Attack (Europe).tzx</path>
 		<name>Ant Attack</name>
@@ -201,23 +185,6 @@ When Bobby finds one of his brothers, Bobby has to roll him to the exit. There a
 		<image>./mixart/Bobby Bearing (Europe).png</image>
 		<marquee>./wheel/Bobby Bearing (Europe).png</marquee>
 		<video>./snap/Bobby Bearing (Europe).mp4</video>
-	</game>
-	<game id="44702" source="ScreenScraper.fr">
-		<path>./Bomb Jack II (Europe).tzx</path>
-		<name>Bomb Jack II</name>
-		<desc>Having saved the world in the first game, Bomb Jack is out to collect as much gold as possible, which is lying on a number of ledges. These vary between open and shut - the open ones offer more points, and an extra life is on offer for collecting 10 in a row, so if possible the route should take in the open ones in order.
-
-Gameplay differs from the original, in that Bombjack's movement is no longer free and self-propelled. Instead, he moves flick-style between ledges, so long as one is directly within one of the 4 compass directions. Baddies can be pushed off ledges, but this uses up some of Jack's limited energy.
-</desc>
-		<rating>0.5</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Elite Systems</developer>
-		<publisher>Elite Systems</publisher>
-		<players>1</players>
-		<hash>F6F26B15</hash>
-		<image>./mixart/Bomb Jack II (Europe).png</image>
-		<marquee>./wheel/Bomb Jack II (Europe).png</marquee>
-		<video>./snap/Bomb Jack II (Europe).mp4</video>
 	</game>
 	<game id="44701" source="ScreenScraper.fr">
 		<path>./Bomb Jack (Europe).tzx</path>
@@ -2761,25 +2728,6 @@ There are also warp-gates, but you don't find them, they find you. You see, warp
 		<marquee>./wheel/Wonder Boy (1987)(Activision).png</marquee>
 		<video>./snap/Wonder Boy (1987)(Activision).mp4</video>
 	</game>
-	<game id="46206" source="ScreenScraper.fr">
-		<path>./Wriggler (Europe).tzx</path>
-		<name>Wriggler</name>
-		<desc>One of the few games to set you as a maggot, in Wriggler you must negotiate the four stages of the Maggot Marathon. This involves trekking through a garden, a shrubbery, an underground lair, and finally a mansion. 
-
-Viewed form above the game is maze-based, with lots of Atic Atac style sections where you can see other parts of the level on the same screen, but can't access them because the design of the maze puts something in the way. Graphics are quite large and chunky - this is perhaps the closest anyone came to borrowing Rapscallion's unusual visual design.
-
-You have an energy bar which decreases constantly, and contact with the ants, spiders and the rest of the sickly creatures reduces this further. Fortunately you can obtain apples, cherries, cups of tea (I suspect a generation of sadistic 10-year-olds started trying to ply worms with caffeine as a result of this) and other foodstuffs to recharge this. These can be eaten immediately or stored for later use, however you can only hold one object at a time. Many other items are needed to get past situations during the game, so be careful what you keep to avoid too much backtracking through the 256 screens.
-</desc>
-		<rating>0</rating>
-		<releasedate>19850101T000000</releasedate>
-		<developer>Devonshire House</developer>
-		<publisher>Romantic Robot UK</publisher>
-		<players>1</players>
-		<hash>6C65A021</hash>
-		<image>./mixart/Wriggler (Europe).png</image>
-		<marquee>./wheel/Wriggler (Europe).png</marquee>
-		<video>./snap/Wriggler (Europe).mp4</video>
-	</game>
 	<game>
 		<path>./Alien (1984)(Argus Press Software).tzx</path>
 		<name>Alien</name>
@@ -3067,11 +3015,62 @@ The gameplay is platform and ladders based, set both inside and outside. The lay
 		<publisher>Gremlin Graphics Software</publisher>
 	</game>
 	<game>
+		<path>./Wriggler (Europe).tzx</path>
+		<name>Wriggler</name>
+		<desc>One of the few games to set you as a maggot, in Wriggler you must negotiate the four stages of the Maggot Marathon. This involves trekking through a garden, a shrubbery, an underground lair, and finally a mansion. 
+
+Viewed form above the game is maze-based, with lots of Atic Atac style sections where you can see other parts of the level on the same screen, but can't access them because the design of the maze puts something in the way. Graphics are quite large and chunky - this is perhaps the closest anyone came to borrowing Rapscallion's unusual visual design.
+
+You have an energy bar which decreases constantly, and contact with the ants, spiders and the rest of the sickly creatures reduces this further. Fortunately you can obtain apples, cherries, cups of tea (I suspect a generation of sadistic 10-year-olds started trying to ply worms with caffeine as a result of this) and other foodstuffs to recharge this. These can be eaten immediately or stored for later use, however you can only hold one object at a time. Many other items are needed to get past situations during the game, so be careful what you keep to avoid too much backtracking through the 256 screens.
+</desc>
+		<image>./mixart/Wriggler (Europe).png</image>
+		<video>./snap/Wriggler (Europe).mp4</video>
+		<marquee>./wheel/Wriggler (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Devonshire House</developer>
+		<publisher>Romantic Robot UK</publisher>
+	</game>
+	<game id="44702" source="ScreenScraper.fr">
+		<path>./Bomb Jack II (Europe).tzx</path>
+		<name>Bomb Jack II</name>
+		<desc>Having saved the world in the first game, Bomb Jack is out to collect as much gold as possible, which is lying on a number of ledges. These vary between open and shut - the open ones offer more points, and an extra life is on offer for collecting 10 in a row, so if possible the route should take in the open ones in order.
+
+Gameplay differs from the original, in that Bombjack's movement is no longer free and self-propelled. Instead, he moves flick-style between ledges, so long as one is directly within one of the 4 compass directions. Baddies can be pushed off ledges, but this uses up some of Jack's limited energy.</desc>
+		<image>./mixart/Bomb Jack II (Europe).png</image>
+		<video>./snap/Bomb Jack II (Europe).mp4</video>
+		<marquee>./wheel/Bomb Jack II (Europe).png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Elite Systems</developer>
+		<publisher>Elite Systems</publisher>
+		<players>1</players>
+		<crc32>F6F26B15</crc32>
+		<path>./Bomb Jack II (Europe).tzx</path>
+	</game>
+	<game>
+		<path>./Deathchase (Europe).tzx</path>
+		<name>3D Deathchase</name>
+		<desc>3D Deathchase sees you riding a motorcycle through 14 stages, with the aim of shooting out a succession of riders. Each stage starts with 2 bikes to shoot out, although planes and tanks also appear on the horizon, to be shot for bonus points. You start with 3 bikes and an infinite supply of bullets, with one bike lost every time you crash.
+
+The levels are tree-lined, and at top speed it can be terrifying as you try to muscle through the gaps so as not to lose distance on the target bike. Every second level is played out at night, which changes the colour scheme.</desc>
+		<image>./mixart/Deathchase (Europe).png</image>
+		<video>./snap/Deathchase (Europe).mp4</video>
+		<rating>0.75</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Mervyn J. Estcourt, R.B.</developer>
+		<publisher>Micromega</publisher>
+		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game>
 		<path>./3D Starfighter (Europe).tzx</path>
 		<name>3D Starfighter</name>
 		<desc>3D Starfighter is a 3D shoot-'em-up where you must using a set of cross hairs shoot the rapidly approaching enemy craft, before they career into you and drain your shields. Use your lasers sparingly, for they also drain your energy.
 
 The player is in the role a special agent whose mission is to deliver the Complete Hostile Alien Obliteration System (CHAOS) weapon to the population of a distant planet overrun by hostile aliens. Clear each space zone of hostiles before you encounter the ultimate goal to destroy the enemy Battlestar.</desc>
+		<emulator>libretro</emulator>
+		<core>fuse</core>
 		<image>./mixart/3D Starfighter (Europe).png</image>
 		<video>./snap/3D Starfighter (Europe).mp4</video>
 		<marquee>./wheel/3D Starfighter (Europe).png</marquee>

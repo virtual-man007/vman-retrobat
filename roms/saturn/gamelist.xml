@@ -3658,22 +3658,6 @@
 		<region>us</region>
 	</game>
 	<game>
-		<path>./Sega Rally Championship (USA).chd</path>
-		<name>Sega Rally Championship</name>
-		<desc>Sega Rally was a major success in the arcades, bringing rally-style racing to the masses before the Colin McRae games. Four detailed tracks have been created, with a succession of stomach-churning bends and jumps, and you can choose from 3 different cars. As well as the main championship, there is a time-trial mode featuring a ghost car to beat, so you always know how your run compares with your best-ever. Two machines can be linked for multi-player action. The handling of the cars is unrealistic, to put the focus on action and instant playability.</desc>
-		<image>./mixart/Sega Rally Championship (USA).png</image>
-		<video>./snap/Sega Rally Championship (USA).mp4</video>
-		<marquee>./wheel/Sega Rally Championship (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19951228T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./Sega Touring Car Championship (USA).chd</path>
 		<name>Sega Touring Car Championship</name>
 		<desc>After Virtua Racing, Daytona USA and Sega Rally, yet another classic SEGA arcade racer (this time, from the Model 2C CRX architecture) is converted for home users. After open-wheel, stock and rally cars, Sega took on the popular European Touring Car races (factory models modified for racing), featuring four real models (Alfa Romeo 155V6TI, Toyota Supra GT, AMG Mercedes C-Class and Opel Calibra V6) as well as some hidden cars. Some models feature four-wheel drive (easier to control on sharper turns) while other only have rear-wheel drive (forcing the player to calculate turns properly so the car doesn't skid). Because of this, gameplay is notoriously tighter and less forgiving than in any of the previous titles by Sega.   Like with other Sega arcade ports, this home versions features both an "Arcade" and a "PC"/"Saturn" mode (the biggest difference being the time constraints and inability to use tweaked cars in arcade) with the usual Championship (three races in a row) and Time Attack modes, and a 2P split-screen race is also available. There are three tracks, plus one more as the final race (as usual with contemporary Sega arcade racers), and two viewpoints (behind and front bumper) are at the disposal of the player. As usual, there are additional modes, tracks and cars to be unlocked for those proficient in the game.  Another feature was the "Global Ranking" mode, where players of either version could e-mail Sega of Japan a password containing his times, and compare them to the World's finest players, as well as in special one-day only "Global Net Events".</desc>
@@ -5050,6 +5034,20 @@
 		<region>us</region>
 	</game>
 	<game>
+		<path>./Street Fighter Collection (USA).m3u</path>
+		<name>Street Fighter Collection</name>
+		<desc>Street Fighter Collection is a bundle comprising several different games of the Street Fighter series. It includes:  1. Super Street Fighter II: The New Challengers 2. Super Street Fighter II Turbo 3. Street Fighter Alpha 2 Gold (updated Street Fighter Alpha 2 with balancing fixes: Evil Ryu and Cammy added as playable characters, timing of some characters changed)</desc>
+		<image>./mixart/Street Fighter Collection (USA) (Disc 2).png</image>
+		<video>./snap/Street Fighter Collection (USA) (Disc 2).mp4</video>
+		<marquee>./wheel/Street Fighter Collection (USA) (Disc 2).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19971211T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Compilation-Fight</genre>
+		<players>2</players>
+	</game>
+	<game>
 		<path>./Crime Wave (USA).chd</path>
 		<name>Crimewave</name>
 		<desc>Crimewave is a fast and frantic driving-based shoot-em-up. You will need first class driving and combat skills coupled with razor-sharp reflexes to enjoy features which include: Eight high-powered vehicles; Eight battle zones; A vast array of High destruction weaponry; Single player and split-screen action.</desc>
@@ -5067,17 +5065,20 @@
 		<region>us</region>
 	</game>
 	<game>
-		<path>./Street Fighter Collection (USA).m3u</path>
-		<name>Street Fighter Collection</name>
-		<desc>Street Fighter Collection is a bundle comprising several different games of the Street Fighter series. It includes:  1. Super Street Fighter II: The New Challengers 2. Super Street Fighter II Turbo 3. Street Fighter Alpha 2 Gold (updated Street Fighter Alpha 2 with balancing fixes: Evil Ryu and Cammy added as playable characters, timing of some characters changed)</desc>
-		<image>./mixart/Street Fighter Collection (USA) (Disc 2).png</image>
-		<video>./snap/Street Fighter Collection (USA) (Disc 2).mp4</video>
-		<marquee>./wheel/Street Fighter Collection (USA) (Disc 2).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19971211T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Compilation-Fight</genre>
+		<path>./Sega Rally Championship (USA).chd</path>
+		<name>Sega Rally Championship</name>
+		<desc>Sega Rally was a major success in the arcades, bringing rally-style racing to the masses before the Colin McRae games. Four detailed tracks have been created, with a succession of stomach-churning bends and jumps, and you can choose from 3 different cars. As well as the main championship, there is a time-trial mode featuring a ghost car to beat, so you always know how your run compares with your best-ever. Two machines can be linked for multi-player action. The handling of the cars is unrealistic, to put the focus on action and instant playability.</desc>
+		<image>./mixart/Sega Rally Championship (USA).png</image>
+		<video>./snap/Sega Rally Championship (USA).mp4</video>
+		<marquee>./wheel/Sega Rally Championship (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19951228T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
 		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

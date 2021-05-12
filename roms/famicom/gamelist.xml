@@ -6401,7 +6401,8 @@ In gamble mode, 1 to 6 players start out with 500 credits to place bets on 5 hor
 		<marquee>./wheel/Choujin Sentai - Jetman (Japan) (Translated En).png</marquee>
 		<rating>0.6</rating>
 		<releasedate>20010101T000000</releasedate>
-		<players></players>
 		<favorite>true</favorite>
+		<lang>jp,en</lang>
+		<region>jp</region>
 	</game>
 </gameList>

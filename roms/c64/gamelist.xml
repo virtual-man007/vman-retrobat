@@ -7712,17 +7712,6 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Impossible Mission.d64</path>
-		<name>Impossible Mission</name>
-		<desc>You play a secret agent on a quest to stop the evil Professor Elvin Atombender, who is believed to be tampering with national security computers. You must penetrate Atombender's stronghold, avoid his deadly robot creations, and acquire various pieces of a password to use in the main control room.  The robots, rooms, and puzzle pieces will be switched around when starting over which provides replay value.</desc>
-		<image>./mixart/Impossible Mission.png</image>
-		<video>./snap/Impossible Mission.mp4</video>
-		<marquee>./wheel/Impossible Mission.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19830101T000000</releasedate>
-		<genre>Platform-Action</genre>
-	</game>
-	<game>
 		<path>./Future Knight.d64</path>
 		<name>Future Knight</name>
 		<desc>You control Future Knight and your space craft has crashed on a remote and hostile planet and the aliens took your love interest hostage.  First you have to find a way out of your huge and maze-like space craft.  The aliens have already invaded your space craft and are now wandering through your craft looking for new technology. Use your laser gun to blow them to Kingdom Come. Eventually if you find your way out of the ship you set foot on the planet's surface. Fight and defeat the huge robot aliens and rescue your love interest.</desc>
@@ -8152,5 +8141,18 @@ The game is viewed like a flight simulator. You look out of your cockpit through
 		<rating>0</rating>
 		<releasedate>19850101T000000</releasedate>
 		<publisher>Domark</publisher>
+	</game>
+	<game>
+		<path>./Impossible Mission.d64</path>
+		<name>Impossible Mission</name>
+		<desc>You play a secret agent on a quest to stop the evil Professor Elvin Atombender, who is believed to be tampering with national security computers. You must penetrate Atombender's stronghold, avoid his deadly robot creations, and acquire various pieces of a password to use in the main control room.  The robots, rooms, and puzzle pieces will be switched around when starting over which provides replay value.</desc>
+		<image>./mixart/Impossible Mission.png</image>
+		<video>./snap/Impossible Mission.mp4</video>
+		<marquee>./wheel/Impossible Mission.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Platform-Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

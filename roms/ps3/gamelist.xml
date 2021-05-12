@@ -1,0 +1,1224 @@
+<?xml version="1.0"?>
+<gameList>
+	<provider>
+		<System>Sony Playstation 3</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game id="25469" source="ScreenScraper.fr">
+		<path>./Army of Two - The 40th Day (USA) (En,Fr,De,Es,It).m3u</path>
+		<name>Army of Two - The 40th Day</name>
+		<desc>Army of Two: The 40th Day on PS3 is a cooperative action game where two team members must act in concert and establish a tactic to overcome any resistance. It is in the city of Shanghai that takes place this episode, shortly after a series of mysterious disasters.</desc>
+		<rating>0.75</rating>
+		<releasedate>20100114T000000</releasedate>
+		<developer>EA Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<image>./mixart/Army of Two - The 40th Day (USA) (En,Fr,De,Es,It).png</image>
+		<marquee>./wheel/Army of Two - The 40th Day (USA) (En,Fr,De,Es,It).png</marquee>
+		<video>./snap/Army of Two - The 40th Day (USA) (En,Fr,De,Es,It).mp4</video>
+	</game>
+	<game id="25688" source="ScreenScraper.fr">
+		<path>./Haze (USA) (En,Fr,Es).m3u</path>
+		<name>Haze</name>
+		<desc>Twenty-five years in the future. Governments have outsourced military operations to private multinational corporations. As Jake Carpenter, a newly enlisted soldier in the Mantel army, you are seeking fulfillment and thrills by fighting for a good cause. Thanks to their high-tech arsenal of vehicles, deadly weaponry, and performance enhancing bio-medical support, the Mantel Corporation's ruthlessly efficient soldiers are the most feared by terrorists, dictators, and the corporation's political enemies. Your conflict begins in a war-torn country in South America, where you have been sent to fight a vicious rebel faction, The Promise Hand. At first glance, all is well, but things quickly begin to look a little strange... State of the art multiplayer modes Fire up your console or PC for online battles on one of two carefully balanced sides. Choose from a variety of online modes including furious co-op action with your friends!</desc>
+		<rating>0.6</rating>
+		<releasedate>20080522T000000</releasedate>
+		<developer>Radical Software</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Action</genre>
+		<players>2-4</players>
+		<image>./mixart/Haze (USA) (En,Fr,Es).png</image>
+		<marquee>./wheel/Haze (USA) (En,Fr,Es).png</marquee>
+		<video>./snap/Haze (USA) (En,Fr,Es).mp4</video>
+		<genreid>256</genreid>
+	</game>
+	<game id="26001" source="ScreenScraper.fr">
+		<path>./Katamari Forever (EUR).m3u</path>
+		<name>Katamari Forever</name>
+		<desc>Katamari Forever contains 34 stages, with all but three of the stages being taken from previous titles in the series. Half of the stages take place within the mind of the King of All Cosmos, who gets knocked on the head and suffers from amnesia. The levels are black-and-white in appearance, and the objective is to roll up junk to bring color back to the stages, restoring the King's memory. The other half of the stages take place in the present, where RoboKing, a robotic version of the King of All Cosmos created by the Prince and his cousins, goes on a rampage and destroys all the stars in the sky, which, unlike the King, he feels extremely remorseful for.</desc>
+		<rating>0.9</rating>
+		<releasedate>20090922T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>2</players>
+		<image>./mixart/Katamari Forever (USA) (En,Fr,Es).png</image>
+		<marquee>./wheel/Katamari Forever (USA) (En,Fr,Es).png</marquee>
+		<video>./snap/Katamari Forever (USA) (En,Fr,Es).mp4</video>
+		<genreid>2816</genreid>
+	</game>
+	<game id="200585" source="ScreenScraper.fr">
+		<path>./Mortal Kombat vs. DC Universe (USA) (En,Fr,De,Es,It).m3u</path>
+		<name>Mortal Kombat vs. DC Universe</name>
+		<desc>For the first time ever Scorpion, Sub-Zero and the Mortal Kombat warriors battle with Batman, Superman and other popular DC Universe Super Heroes. Choose your side and challenge your opponents with a new fighting system including Freefall Kombat and Klose Kombat along with dynamic multi-tiered environments. Plus, pick your favorite character from MK or DCU and pursue a fighting adventure in the new single player mode with an intertwined storyline and two unique perspectives.</desc>
+		<rating>0.76</rating>
+		<releasedate>20081116T000000</releasedate>
+		<developer>Midway Games</developer>
+		<publisher>Midway Games</publisher>
+		<genre>Fight</genre>
+		<image>./mixart/Mortal Kombat vs. DC Universe (USA) (En,Fr,De,Es,It).png</image>
+		<marquee>./wheel/Mortal Kombat vs. DC Universe (USA) (En,Fr,De,Es,It).png</marquee>
+		<video>./snap/Mortal Kombat vs. DC Universe (USA) (En,Fr,De,Es,It).mp4</video>
+		<genreid>262</genreid>
+	</game>
+	<game id="25792" source="ScreenScraper.fr">
+		<path>./NeverDead (USA) (En,Fr,De,Es,It).m3u</path>
+		<name>Neverdead</name>
+		<desc>NEVERDEAD begins in the waking hours of peace and calm, when the world is under threat of being consumed by a demonic plague. Centuries have passed since the world succumbed to an unforeseen shadow of evil, and a hero was made an immortal by demons. These demons have risen once again in the present day causing unrelenting mayhem reinforced by destructible environments within the game. Now using his immortalic regenerative powers re-assembling his own body to evade death, the hero carries out the only salvation the world will know, for he is Never Dead.</desc>
+		<rating>0.65</rating>
+		<releasedate>20120202T000000</releasedate>
+		<developer>Rebellion</developer>
+		<publisher>Konami</publisher>
+		<genre>Beat'em Up</genre>
+		<image>./mixart/NeverDead (USA) (En,Fr,De,Es,It).png</image>
+		<marquee>./wheel/NeverDead (USA) (En,Fr,De,Es,It).png</marquee>
+		<video>./snap/NeverDead (USA) (En,Fr,De,Es,It).mp4</video>
+		<genreid>263</genreid>
+	</game>
+	<game id="25545" source="ScreenScraper.fr">
+		<path>./Ninja Gaiden Sigma (USA) (En,Ja).m3u</path>
+		<name>Ninja Gaiden Sigma</name>
+		<desc>Ninja Gaiden Sigma is an upgraded, more complete version of "Ninja Gaiden Black." As a new element in this version, Rachel, the heroine, is playable. The main character Ryu Hayabusa also features new actions, new weapons, and new combinations. Of course, the level of visual detail is enhanced from previous iterations. 
+</desc>
+		<rating>0.85</rating>
+		<releasedate>20070703T000000</releasedate>
+		<developer>Team Ninja</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<image>./mixart/Ninja Gaiden Sigma (USA) (En,Ja).png</image>
+		<marquee>./wheel/Ninja Gaiden Sigma (USA) (En,Ja).png</marquee>
+		<video>./snap/Ninja Gaiden Sigma (USA) (En,Ja).mp4</video>
+		<genreid>263</genreid>
+	</game>
+	<game id="201345" source="ScreenScraper.fr">
+		<path>./Silent Hill - HD Collection (USA) (En,Fr,Es).m3u</path>
+		<name>Silent Hill - HD Collection</name>
+		<desc>Silent Hill HD Collection bundles Silent Hill 2 and 3 together enhanced with HD upgrades.</desc>
+		<rating>0.7</rating>
+		<releasedate />
+		<image>./mixart/Silent Hill - HD Collection (USA) (En,Fr,Es).png</image>
+		<marquee>./wheel/Silent Hill - HD Collection (USA) (En,Fr,Es).png</marquee>
+		<video>./snap/Silent Hill - HD Collection (USA) (En,Fr,Es).mp4</video>
+	</game>
+	<game id="25079" source="ScreenScraper.fr">
+		<path>./Silent Hill - Downpour (USA) (En,Fr,De,Es,It,Pt).m3u</path>
+		<name>Silent Hill : Downpour</name>
+		<desc>Staying true to the franchise's original roots, this eighth installment of the Silent Hill franchise returns with an all new thought-provoking horror storyline. Players will once again find themselves face to face with their deepest sins and fears in the strange world of Silent Hill. 
+ 
+The survival horror experience begins after a prison transport vehicle careens off the road, leaving lone inmate Murphy Pendleton stranded in Silent Hill. Gamers will encounter mind-bending puzzles, as well as horrific creatures and other world terrors using everyday objects from wooden chairs to glass bottles to fend off their enemies. The natural response, fight or flight is left to the player as they unravel a dark, thought-provoking storyline which will appeal to fans of the early, classic Silent Hill series, as well as anyone who enjoys a deep, psychological horror experience. In addition to the main storyline, players will also be presented with variable side quests along the way that can change depending on their play style, revealing unknown evils within the town.</desc>
+		<rating>0.8</rating>
+		<releasedate>20120313T000000</releasedate>
+		<developer>Vatra</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./mixart/Silent Hill - Downpour (USA) (En,Fr,De,Es,It,Pt).png</image>
+		<marquee>./wheel/Silent Hill - Downpour (USA) (En,Fr,De,Es,It,Pt).png</marquee>
+		<video>./snap/Silent Hill - Downpour (USA) (En,Fr,De,Es,It,Pt).mp4</video>
+		<genreid>256</genreid>
+	</game>
+	<game id="25050" source="ScreenScraper.fr">
+		<path>./Tekken 6 (USA) (En,Ja,Fr,De,Es,It,Ko,Ru).m3u</path>
+		<name>Tekken 6</name>
+		<desc>Spanning over a 14 year legacy, Tekken is among the most popular and well-known gaming brands in the world with the entire franchise selling more than 32 million units to date. Displayed in HD detail, a new era begins in the sixth King of the Iron Fist Tournament complete with intense gameplay modes as well as new features and environments. TEKKEN 6 sees the return of many familiar faces as well as new characters to create the largest line-up the series has ever seen. With a growing roster of fighters, each equipped with their own deadly techniques, moves and attack combinations, TEKKEN 6 will be the best King of Iron Fist Tournament yet. Adding to the already rich gaming experience, a deeper character customization feature will only further enhance the incredible fighting intensity as players go mano-y-mano. Players can also take the battle online for classic match-ups and to compete for world domination.</desc>
+		<rating>0.8</rating>
+		<releasedate>20091027T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<image>./mixart/Tekken 6 (USA) (En,Ja,Fr,De,Es,It,Ko,Ru).png</image>
+		<marquee>./wheel/Tekken 6 (USA) (En,Ja,Fr,De,Es,It,Ko,Ru).png</marquee>
+		<video>./snap/Tekken 6 (USA) (En,Ja,Fr,De,Es,It,Ko,Ru).mp4</video>
+		<genreid>262</genreid>
+	</game>
+	<game id="24721" source="ScreenScraper.fr">
+		<path>./Tekken Tag Tournament 2 (USA) (En,Ja,Fr,De,Es,It,Ko,Ru).m3u</path>
+		<name>Tekken Tag Tournament 2</name>
+		<desc>The Tekken Tag Tournament returns with fighters from across the Tekken spectrum taking each other on two by two for the second time.</desc>
+		<rating>0.85</rating>
+		<releasedate>20120914T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Fight</genre>
+		<image>./mixart/Tekken Tag Tournament 2 (USA) (En,Ja,Fr,De,Es,It,Ko,Ru).png</image>
+		<marquee>./wheel/Tekken Tag Tournament 2 (USA) (En,Ja,Fr,De,Es,It,Ko,Ru).png</marquee>
+		<video>./snap/Tekken Tag Tournament 2 (USA) (En,Ja,Fr,De,Es,It,Ko,Ru).mp4</video>
+		<genreid>262</genreid>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Battle Fantasia.m3u</path>
+		<name>Battle Fantasia</name>
+		<desc>Apart from the fast paced combat and responsive controls it's the unique graphics engine used that sets it apart from the rest. Battle Fantasia is played in two-dimensions but uses three-dimensional polygonal character models cleverly illustrated and lit to emulate 2D style sprites. The result is called ‘2.5D’ and delivers a fast and fluid fighting game that promises to satisfy novice players and hardcore fans alike. With a roster of unique characters each with their own fighting style and special moves, Battle Fantasia promises to set the standard for PlayStation3 beat ‘em ups.</desc>
+		<rating>0.67</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<image>./mixart/Battle Fantasia.png</image>
+		<marquee>./wheel/Battle Fantasia (Europe).png</marquee>
+		<video>./snap/Battle Fantasia (Europe).mp4</video>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Bleach - Soul Resurreccion (USA).m3u</path>
+		<name>Bleach - Soul Resurreccion</name>
+		<desc>Bleach: Soul Resurreccion gives players the sensation of single-handedly destroying an army of monsters and evil spirits with fast swordfighting action</desc>
+		<rating>0.58</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<image>./mixart/Bleach - Soul Resurreccion (USA).png</image>
+		<marquee>./wheel/Bleach - Soul Resurreccion (USA).png</marquee>
+		<video>./snap/Bleach - Soul Resurreccion (USA).mp4</video>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Burnout Crash!.m3u</path>
+		<name>Burnout Crash!</name>
+		<desc>This is an action game in which players earn points for creating traffic pileups. From a top-down perspective, players initiate crashes by driving 'cartoony' vehicles (e.g., cars, trucks, vans, buses) into busy intersections; multiple crashes trigger score multipliers and rack up large 'bills' of property damage. Each level is accompanied by crashing sounds, small explosions, and vocal encouragement (e.g., 'Cool,' 'Maximum Carnage!'). In some levels, players are instructed to crash into police cars (e.g., 'Crash them before they bust you!'); in other sequences, oversized airplanes, tornados, lobster monsters, and UFOs slide across the screen, destroying any vehicles in their path.</desc>
+		<rating>0.69</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<image>./mixart/Burnout Crash!.png</image>
+		<marquee>./wheel/Burnout Crash.png</marquee>
+		<video>./snap/Burnout Crash.mp4</video>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Calling All Cars!.m3u</path>
+		<name>Calling All Cars!</name>
+		<desc>Directed by David Jaffe, Calling All Cars is a high-octane, fast action game of cops n' robbers. Take on the role of a bounty hunter careening around a stylish cartoon world on the hunt for criminals on the loose. Calling All Cars features four highly detailed 3D levels, multiple weapons and 10 vehicles to choose from. Gamers attempt to apprehend criminals and toss them back in the slammer before other bounty hunters can steal them and collect the reward money. Experience a combination of demolition derby gameplay, crazy weapon pickups, humor and a healthy throwback to classic arcade games. Dive in for crazy multiplayer action with friends both online and split screen (up to 4-player split screen running at 60fps).</desc>
+		<rating>0.74</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<image>./mixart/Calling All Cars!.png</image>
+		<marquee>./wheel/Calling All Cars.png</marquee>
+		<video>./snap/Calling All Cars.mp4</video>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./rain.m3u</path>
+		<name>rain</name>
+		<desc>The game is centred around a novel mechanic whereby the player's character and all enemies are only visible if they are standing in the rain.</desc>
+		<rating>0.7</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<image>./mixart/Rain.png</image>
+		<marquee>./wheel/Rain.png</marquee>
+		<video>./snap/Rain.mp4</video>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Resogun.m3u</path>
+		<name>Resogun</name>
+		<desc>RESOGUN is an intense fast-paced shoot em' up developed exclusively for the PS4 system. Unleash a diverse array of devastating weapons including lasers, missiles, overdrive, and nova-bombs to blast hordes of enemies and rescue the last survivors from distant galactic colonies that are under ruthless attack from an evil alien invasion force.</desc>
+		<rating>0.75</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<image>./mixart/Resogun.png</image>
+		<marquee>./wheel/Resogun.png</marquee>
+		<video>./snap/Resogun.mp4</video>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Supersonic Acrobatic Rocket-Powered Battle-Cars.m3u</path>
+		<name>Supersonic Acrobatic Rocket-Powered Battle-Cars</name>
+		<desc>Get ready for non-stop action as you take control of a rocket-powered super car! It is a sport like no other, where supersonic cars jump, flip, and rocket boost their way to victory.</desc>
+		<rating>0.67</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<image>./mixart/Supersonic Acrobatic Rocket-Powered Battle-Cars.png</image>
+		<marquee>./wheel/Supersonic Acrobatic Rocket-Powered Battle-Cars.png</marquee>
+		<video>./snap/Supersonic Acrobatic Rocket Powered Battle Cars.mp4</video>
+	</game>
+	<game id="25471" source="ScreenScraper.fr">
+		<path>./Disgaea 3 - Absence of Justice (USA).m3u</path>
+		<name>Disgaea 3 : Absence of Justice</name>
+		<desc>Disgaea 3 is a sequel to Disgaea, a hardcore, turn-based, strategy RPG popular on the PlayStation2 and PlayStation Portable. In Disgaea, character units have a limit to their movement and attack ranges, based on level and weapons equipped. There are other special game factors that let you take advantage of the 3D battle map, many of which are unique to Disgaea. One of the many new feature to Disgaea 3 is the addition of a Geo Block, which creates a 3 dimensional battle instead of the traditional 2D. Geo Block is a cube-shaped terrain-altering object. Players can use it to access and attack enemies where normally they cannot reach. Geo Panel is a group of stat-altering elemental properties that are placed upon certain parts of the battlefield. When there are one or more colored panels on the battle grid, it means an element can affect that area. The effect can boost or reduce your unit's stats. Item World is a special randomly-generated battle stage within each and every item you find. By defeating these special battle stages, you are able to strengthen your items.</desc>
+		<rating>0.85</rating>
+		<releasedate>20090219T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Nippon Ichi Software</publisher>
+		<genre>Strategy-Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Disgaea 3 - Absence of Justice (USA).png</image>
+		<marquee>./wheel/Disgaea 3 - Absence of Justice (USA).png</marquee>
+		<video>./snap/Disgaea 3 - Absence of Justice (USA).mp4</video>
+		<genreid>1280</genreid>
+	</game>
+	<game id="25032" source="ScreenScraper.fr">
+		<path>./Disgaea 4 - A Promise Unforgotten (USA).m3u</path>
+		<name>Disgaea 4 : A Promise Unforgotten</name>
+		<desc>Disgaea 4 is a sequel to Disgaea, a hardcore, turn-based, strategy RPG popular on the PlayStation 3 and PlayStation 2. In Disgaea, character units have a limit to their movement and attack ranges, based on level and weapons equipped. There are other special game factors that let you take advantage of the 3D
+battle map, many of which are unique to Disgaea. As the 4th installment in the series Disgaea 4 adopts an all new graphic engine with a much more emphasis on a anime style graphics and also adopts many new game system for an exciting battle adventure.</desc>
+		<rating>0.9</rating>
+		<releasedate>20110902T000000</releasedate>
+		<developer>Nippon Ichi Software</developer>
+		<publisher>Nippon Ichi Software</publisher>
+		<genre>Strategy-Role playing games</genre>
+		<image>./mixart/Disgaea 4 - A Promise Unforgotten (USA).png</image>
+		<marquee>./wheel/Disgaea 4 - A Promise Unforgotten (USA).png</marquee>
+		<video>./snap/Disgaea 4 - A Promise Unforgotten (USA).mp4</video>
+		<genreid>1280</genreid>
+	</game>
+	<game id="25442" source="ScreenScraper.fr">
+		<path>./Disgaea D2 - A Brighter Darkness (USA).m3u</path>
+		<name>Disgaea D2 : A Brighter Darkness</name>
+		<desc>The Netherworld - a place where might makes right and today's friends are tomorrow's enemies. After a long journey with many ups and downs, Laharl finally finds himself as a full-fledged Overlord. However, the other denizens of the Netherworld do not see him as such, so he sets out on a journey with his loyal(!?) vassals to receive the respect he deserves. Along the way, Laharlwill meet a girl who claims to be his sister, demons with bigger than usual chips on their shoulders, and find out that even his own body holds a few surprises for him...</desc>
+		<rating>0.85</rating>
+		<releasedate>20131007T000000</releasedate>
+		<developer>Nippon Ichi Software</developer>
+		<publisher>Nippon Ichi Software</publisher>
+		<genre>Strategy-Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Disgaea D2 - A Brighter Darkness (USA).png</image>
+		<marquee>./wheel/Disgaea D2 - A Brighter Darkness (USA).png</marquee>
+		<video>./snap/Disgaea D2 - A Brighter Darkness (USA).mp4</video>
+		<genreid>1280</genreid>
+	</game>
+	<game id="24967" source="ScreenScraper.fr">
+		<path>./Dragon's Crown (USA).m3u</path>
+		<name>Dragon's Crown</name>
+		<desc>Set in a medieval world of swords and sorcery, the game sees up to four players travelling through dangerous dungeons and labyrinths in search of fortune and adventure. Cooperative options include both local multiplayer and four player drop in sessions over Sony's PlayStation Network service with data-sharing of save games and cross play between the Vita and PlayStation 3</desc>
+		<rating>0.85</rating>
+		<releasedate>20130725T000000</releasedate>
+		<developer>Vanillaware</developer>
+		<publisher>Atlus</publisher>
+		<genre>Role playing games-Beat'em Up</genre>
+		<players>4</players>
+		<image>./mixart/Dragon's Crown (USA).png</image>
+		<marquee>./wheel/Dragon's Crown (USA).png</marquee>
+		<video>./snap/Dragon's Crown (USA).mp4</video>
+		<genreid>263</genreid>
+	</game>
+	<game id="26619" source="ScreenScraper.fr">
+		<path>./Echochrome.m3u</path>
+		<name>Echochrome</name>
+		<desc>Featuring an elegant black and white art design inspired by the works of M.C. Escher, echochrome is a puzzle game unlike any other. With gameplay based on optical illusions, players must utilize five simple laws of perspective to join walkways, hide dangers, and create new paths to reach the "echos," or shadow guides. Once you've mastered the five laws, use them to create your own mind-bending levels to play and share with friends using the custom level editor. Master perspective puzzles based on optical illusions across 56 challenging levels that are exclusive to the PS3 version.</desc>
+		<rating>0.6</rating>
+		<releasedate>20080604T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Sony</publisher>
+		<genre>Puzzle-Game</genre>
+		<image>./mixart/Echochrome.png</image>
+		<marquee>./wheel/Echochrome.png</marquee>
+		<video>./snap/Echochrome.mp4</video>
+		<genreid>2816</genreid>
+	</game>
+	<game id="24919" source="ScreenScraper.fr">
+		<path>./JoJo's Bizarre Adventure - All Star Battle (USA) (En,Fr,De,Es,It).m3u</path>
+		<name>JoJo's Bizarre Adventure : All Star Battle</name>
+		<desc>JoJo's Bizarre Adventure: All-Star Battle gives players the feeling that they are participating in vivid and colorful battles straight from the pages of the manga.</desc>
+		<rating>0.85</rating>
+		<releasedate>20140425T000000</releasedate>
+		<developer>CyberConnect2 Co., Ltd.</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<image>./mixart/JoJo's Bizarre Adventure - All Star Battle (USA) (En,Fr,De,Es,It).png</image>
+		<marquee>./wheel/JoJo's Bizarre Adventure - All Star Battle (USA) (En,Fr,De,Es,It).png</marquee>
+		<video>./snap/JoJo's Bizarre Adventure - All Star Battle (USA) (En,Fr,De,Es,It).mp4</video>
+		<genreid>262</genreid>
+	</game>
+	<game id="24868" source="ScreenScraper.fr">
+		<path>./J-Stars Victory Vs+ (USA) (En,Fr,Es).m3u</path>
+		<name>J-stars Victory Vs+</name>
+		<desc>Who is the strongest team amongst the legendary Jump characters? Find out in J-STARS Victory VS+, featuring over 50 characters from 32 different manga series from WEEKLY SHONEN JUMP. Progress through the JUMP World featuring environments recalling NARUTO, DRAGON BALL Z, ONE PIECE and other memorable locations and moments. Enjoy a grand adventure as your favorite heroes and fight in local and online 2-on-2 versus battles or test your skills in Arcade Mode. Strategically use combination attacks and unleash ultimate attacks using the Voltage Gauge system to best your opponent. It's the ultimate dream for every anime fan!</desc>
+		<rating>0.65</rating>
+		<releasedate>20140319T000000</releasedate>
+		<developer>Spike Chunsoft</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Fight</genre>
+		<image>./mixart/J-Stars Victory Vs+ (USA) (En,Fr,Es).png</image>
+		<marquee>./wheel/J-Stars Victory Vs+ (USA) (En,Fr,Es).png</marquee>
+		<video>./snap/J-Stars Victory Vs+ (USA) (En,Fr,Es).mp4</video>
+		<genreid>262</genreid>
+	</game>
+	<game id="25288" source="ScreenScraper.fr">
+		<path>./Lollipop Chainsaw (USA) (En,Fr,De,Es,It,Ru).m3u</path>
+		<name>Lollipop Chainsaw</name>
+		<desc>Lollipop Chainsaw is a comedy horror action hack and slash video game developed by Grasshopper Manufacture for the PlayStation 3 and Xbox 360 video game consoles. It features Juliet Starling (voiced by Tara Strong), a cheerleader zombie hunter fighting zombies in a fictional California high school.[4] A collaboration between game designer Suda51 and filmmaker James Gunn, the game was published by Kadokawa Games and Warner Bros. Interactive Entertainment and was released on June 12, 2012 in North America, June 14, 2012 in Japan and June 15, 2012 in Europe.</desc>
+		<rating>0.75</rating>
+		<releasedate>20120615T000000</releasedate>
+		<developer>Warner Bros. Interactive</developer>
+		<publisher>Grasshopper Manufacture Inc</publisher>
+		<image>./mixart/Lollipop Chainsaw (USA) (En,Fr,De,Es,It,Ru).png</image>
+		<marquee>./wheel/Lollipop Chainsaw (USA).png</marquee>
+		<video>./snap/Lollipop Chainsaw (USA).mp4</video>
+	</game>
+	<game id="25512" source="ScreenScraper.fr">
+		<path>./Majin and the Forsaken Kingdom (USA) (En,Fr,Es).m3u</path>
+		<name>Majin And The Forsaken Kingdom</name>
+		<desc>In Majin and the Forsaken Kingdom, a once thriving society is suddenly engulfed by a dark force that nearly eradicates all of its inhabitants. Many tried to reclaim their fallen homeland but were annihilated by strange warriors who rose from the darkness. A hundred years later, a cunning young outsider is drawn to this forsaken kingdom where he encounters and befriends Majin, a mysterious monster-like being with incredible strength. Now in an effort to restore the empire, the two set out to uncover Majin's forgotten past and the secrets that lie within the ancient land.</desc>
+		<rating>0.8</rating>
+		<releasedate>20100101T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Game Republic</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./mixart/Majin and the Forsaken Kingdom (USA) (En,Fr,Es).png</image>
+		<marquee>./wheel/Majin and the Forsaken Kingdom (USA) (En,Fr,Es).png</marquee>
+		<video>./snap/Majin and the Forsaken Kingdom (USA) (En,Fr,Es).mp4</video>
+		<genreid>512</genreid>
+	</game>
+	<game id="25153" source="ScreenScraper.fr">
+		<path>./Nier (USA) (En,Fr,De).m3u</path>
+		<name>Nier</name>
+		<desc>Nothing is as it seems in Square Enix's latest action adventure game, set in a crumbling world plagued by disease and dark, unrecognizable creatures. Players assume the role of the unyielding protagonist, NIER, resolute in his quest to discover a cure for his daughter, who is infected with the Black Scrawl virus. With powerful allies and a mysterious book, NIER encounters things that will confound even the mightiest of warriors.</desc>
+		<rating>0.85</rating>
+		<releasedate>20100427T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Cavia</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Nier (USA) (En,Fr,De).png</image>
+		<marquee>./wheel/Nier (USA) (En,Fr,De).png</marquee>
+		<video>./snap/Nier (USA) (En,Fr,De).mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="200853" source="ScreenScraper.fr">
+		<path>./Hot Shots Golf - Out of Bounds (USA).m3u</path>
+		<name>Hot Shots Golf - Out of Bounds</name>
+		<desc>(Also known as "Everybody's Golf 5", "Hot Shots Golf 5", and "Everybody's Golf: World Tour") The fun, addicting and ever-popular Hot Shots Golf franchise, tees it up on the PLAYSTATION 3 system. High Definition) detail of course graphics accompanied with new, more accurate golf physics, brings a revolutionary new level of immersion to the already established signature style of pick-up and play gameplay. With vibrant new courses, zany new characters and a wealth of new online features, Hot Shots Golf: Out of Bounds strives to enter the next generation strokes ahead of the competition.</desc>
+		<rating>0.81</rating>
+		<releasedate />
+		<image>./mixart/Hot Shots Golf - Out of Bounds (USA).png</image>
+		<marquee>./wheel/Hot Shots Golf - Out of Bounds (USA).png</marquee>
+		<video>./snap/Hot Shots Golf - Out of Bounds (USA).mp4</video>
+	</game>
+	<game id="201129" source="ScreenScraper.fr">
+		<path>./Persona 4 Arena Ultimax (USA).m3u</path>
+		<name>Persona 4 Arena Ultimax</name>
+		<desc>In P4AU, the characters from Persona 4 and Persona 3 once again find themselves teaming up to face off in the P-1 Climax, a series of battles which must be won before the world ends. The original cast of characters from Persona 3 and 4 are back to discover the mastermind behind the whole tournament, while a few new faces join the fight, including Junpei Iori, Yukari Takeba, Rise Kujikawa, and more. But standing in their way is the dual katana-wielding Sho Minazuki, a huge threat to everyone involved in the P-1 Climax. Worse yet, there's a Sho lookalike who can wield a Persona...</desc>
+		<rating>0.84</rating>
+		<releasedate>20140930T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Atlus</publisher>
+		<genre>Fight</genre>
+		<image>./mixart/Persona 4 Arena Ultimax (USA).png</image>
+		<marquee>./wheel/Persona 4 Arena Ultimax (USA).png</marquee>
+		<video>./snap/Persona 4 Arena Ultimax (USA).mp4</video>
+		<genreid>262</genreid>
+	</game>
+	<game id="25505" source="ScreenScraper.fr">
+		<path>./Shadows of the Damned (USA) (En,Fr,De,Es,It).m3u</path>
+		<name>Shadows Of The Damned</name>
+		<desc>Take the role of a demon hunter and travel to the depths of hell to save your one true love
+Violent, gruesome, fast-paced battles in a psychologically disturbing survival-horror setting
+Created in collaboration between Suda51 (No More Heroes) and Shinji Mikami (Resident Evil)
+Psychologically Twisted, Visceral Combat - Rip apart the forces of the damned using an array of upgradable weapons and survive the ultimate head trip
+Heart-Wrenching Storyline - A love lost and the journey through hell to get her back are the backdrop for this warped tale</desc>
+		<rating>0.75</rating>
+		<releasedate>20110621T000000</releasedate>
+		<developer>Grasshopper Manufacture Inc</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./mixart/Shadows of the Damned (USA) (En,Fr,De,Es,It).png</image>
+		<marquee>./wheel/Shadows of the Damned (USA) (En,Fr,De,Es,It).png</marquee>
+		<video>./snap/Shadows of the Damned (USA).mp4</video>
+		<genreid>256</genreid>
+	</game>
+	<game id="201027" source="ScreenScraper.fr">
+		<path>./Aquapazza - Aquaplus Dream Match (USA).m3u</path>
+		<name>AquaPazza - AquaPlus Dream Match</name>
+		<desc>What is AquaPazza? Legend speaks of an amazing magical power that would grant its controllers desires, but what happens when such an influential power is misused? Choose from 13 main characters and 13 support characters to fight in a world corrupted by powerful magic in this uniquely illustrated, wildly entertaining, all-out fighting game. Use flashy combos, partner attacks, and high emotion to restore balance to the world!
+Gather a team of two, thrust into battle, and go crazy with your attacks! From bookshelves to lancesuse all weapons at your disposal! AquaPazza utilizes mechanics that allow players to easily link together attacks and break through even the toughest of defenses. Fighting isnt all about being physically strong! Players who keep their character's morale high during battle will be granted an advantage, allowing attacks to deal more damage and defense to become higher than ever!</desc>
+		<rating>0.75</rating>
+		<releasedate />
+		<developer>Atlus</developer>
+		<image>./mixart/Aquapazza - Aquaplus Dream Match (USA).png</image>
+		<marquee>./wheel/Aquapazza - Aquaplus Dream Match (USA).png</marquee>
+		<video>./snap/Aquapazza - Aquaplus Dream Match (USA).mp4</video>
+	</game>
+	<game id="25309" source="ScreenScraper.fr">
+		<path>./Asura's Wrath.m3u</path>
+		<name>Asura's Wrath</name>
+		<desc>Once a revered deity, Asura was betrayed by his fellow gods and stripped of all his powers. Consumed by anger at the injustice he has suffered and swearing vengeance, Asura discovers he can use this fury to his advantage and turn it against his enemies. By channelling his inner rage, Asura is now able to unleash devastating attacks and wreak havoc as he battles against the deities who have wronged him and their earthly forces. Inspired by episodic dramas, Asura's Wrath will be split into distinct sections with gameplay and narrative unfolding as one and building to a final climatic conclusion.</desc>
+		<rating>0.8</rating>
+		<releasedate>20120221T000000</releasedate>
+		<developer>CyberConnect2 Co., Ltd.</developer>
+		<publisher>Capcom</publisher>
+		<genre>Various-Shoot'em Up-Beat'em Up</genre>
+		<players>1</players>
+		<image>./mixart/Asura's Wrath.png</image>
+		<marquee>./wheel/Asura's Wrath.png</marquee>
+		<video>./snap/Asura's Wrath.mp4</video>
+		<genreid>260</genreid>
+	</game>
+	<game id="26550" source="ScreenScraper.fr">
+		<path>./Bionic Commando Rearmed 2.m3u</path>
+		<name>Bionic Commando Rearmed 2</name>
+		<desc>Capcom presents the next evolution in retro side-scrolling action with Bionic Commando Rearmed 2. Equipped with his famous bionic arm, Nathan 'Rad' Spencer swings back into action in order to stop General Sabio from launching a deadly missile strike. Swing, leap, and shoot your way through lush new environments as you encounter countless enemies and huge bosses throughout the island of Papagaya.</desc>
+		<rating>0.65</rating>
+		<releasedate>20110202T000000</releasedate>
+		<developer>Fatshark</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<image>./mixart/Bionic Commando Rearmed 2.png</image>
+		<marquee>./wheel/Bionic Commando Rearmed 2.png</marquee>
+		<video>./snap/Bionic Commando Rearmed 2.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="26444" source="ScreenScraper.fr">
+		<path>./Black Knight Sword.m3u</path>
+		<name>Black Knight Sword</name>
+		<desc>A fresh take on the classic fairy tale, Black Knight Sword is a twisted platforming adventure from the mind of Suda51. Take on the role of The Black Knight and wade through a twisted and dark world to kill the Dark Princess. With an unprecedented style and addictive gameplay that hearkens back to the classic 16-bit platformers of old, Black Knight Sword is a truly unforgettable experience.</desc>
+		<rating>0.7</rating>
+		<releasedate>20121211T000000</releasedate>
+		<developer>Grasshopper Manufacture Inc</developer>
+		<publisher>Digital Reality</publisher>
+		<genre>Platform</genre>
+		<image>./mixart/Black Knight Sword.png</image>
+		<marquee>./wheel/Black Knight Sword.png</marquee>
+		<video>./snap/Black Knight Sword.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="26549" source="ScreenScraper.fr">
+		<path>./Crash commando.m3u</path>
+		<name>Crash Commando</name>
+		<desc>Crash Commando is a fast-paced, side-scrolling humorous multiplayer action game with over-the-top, slap-stick action that features exaggerated gore and effects. Combining the thrill of frenzied multiplayer combat with the straightforward nature of a classic side-scrolling platform title, Crash Commando is a combination of modern, sophisticated technology and traditional arcade gameplay. The player controls a commando soldier and navigates through the maps on foot and with a high-powered jet pack. Each map consists of two gameplay layers the player can seamlessly move between via portals in the environment. Enemies will attack from the sides, as well as from above and below. With a host of both multiplayer and single player modes included, players can enjoy Crash Commando either on or offline.</desc>
+		<rating>0.75</rating>
+		<releasedate>20081218T000000</releasedate>
+		<developer>EPOS Studios</developer>
+		<publisher>Sony</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2-12</players>
+		<image>./mixart/Crash commando.png</image>
+		<marquee>./wheel/Crash commando.png</marquee>
+		<video>./snap/Crash commando.mp4</video>
+		<genreid>260</genreid>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Frogger Hyper Arcade Edition.m3u</path>
+		<name>Frogger Hyper Arcade Edition</name>
+		<desc>Frogger's coin-op thrills are back and better than ever in Frogger: Hyper Arcade Edition! The arcade excitement of Frogger returns in time for its 30th anniversary celebrations with updates that are sure to delight fans old and new. Players can jump into the action with classic and brand-new game modes like Tile Capture, Battle Royale, Freak Out and more that expand the challenge of Frogger's style of run-and-dodge gameplay. Players can even customize their game experience through a variety of different skins, from the modern neon style of HYPER ARCADE to the 8-bit sprites from Frogger, Castlevania and even CONTRA! Competitive types can also throw down against friends or the CPU in up to 4 player matches to find out who's really the top frog!</desc>
+		<rating>0.62</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<image>./mixart/Frogger Hyper Arcade Edition.png</image>
+		<marquee>./wheel/Frogger Hyper Arcade Edition.png</marquee>
+		<video>./snap/Frogger Hyper Arcade Edition.mp4</video>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Hard Corps Uprising.m3u</path>
+		<name>Hard Corps Uprising</name>
+		<desc>Thrilling retro run-and-gun action is back with a vengeance in Hard Corps: Uprising, a new 2D side scroller developed by ARC System Works that pays homage to classic Konami action series. Play as the soldier Bahamut as he begins to write his legend. Battle in the grueling trenches of Arcade mode or the all-new RISING mode, where a life bar and point system allow you to purchase items and upgrades to build your soldier up and achieve ultimate victory. Need help? Partner with a friend to lay down some serious carnage.</desc>
+		<rating>0.76</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<image>./mixart/Hard Corps Uprising.png</image>
+		<marquee>./wheel/Hard Corps Uprising.png</marquee>
+		<video>./snap/Hard Corps Uprising.mp4</video>
+	</game>
+	<game id="26930" source="ScreenScraper.fr">
+		<path>./Hyperballoid HD.m3u</path>
+		<name>Hyperballoid Hd</name>
+		<desc>Hyperballoid HD is a modern brick breaker on Playstation 3. The three types of bricks react realistically to bullet impacts. Two campaigns, each consisting of 50 levels, offer a respectable lifespan. The environments are varied, colorful and very dynamic thanks to the multiple animated elements.</desc>
+		<rating>0.4</rating>
+		<releasedate>20091210T000000</releasedate>
+		<developer>Alawar Entertainment</developer>
+		<publisher>Alawar Entertainment</publisher>
+		<genre>Action</genre>
+		<image>./mixart/Hyperballoid HD.png</image>
+		<marquee>./wheel/Hyperballoid HD.png</marquee>
+		<video>./snap/Hyperballoid HD.mp4</video>
+		<genreid>256</genreid>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Legasista.m3u</path>
+		<name>Legasista</name>
+		<desc>In a world in which science has become a relic, people have learned to fear the ancient form of knowledge as magic spells and curses. Now a young man named Alto ventures to the mysterious Ivy Tower, which houses ancient relics of the lost art of science.</desc>
+		<rating>0.68</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<image>./mixart/Legasista.png</image>
+		<marquee>./wheel/Legasista.png</marquee>
+		<video>./snap/Legasista.mp4</video>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Might &amp; Magic Clash Of Heroes.m3u</path>
+		<name>Might &amp; Magic Clash Of Heroes</name>
+		<desc>Might and Magic Clash of Heroes takes place 40 years before the Heroes V saga. Scattered across five different regions of Ashan, 5 special heroes must travel their own dangerous paths to grow in strength, unravel a demonic plot, and ultimately save the world from Chaos.</desc>
+		<rating>0.84</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<image>./mixart/Might &amp; Magic Clash Of Heroes.png</image>
+		<marquee>./wheel/Might &amp; Magic Clash Of Heroes.png</marquee>
+		<video>./snap/Might &amp; Magic Clash Of Heroes.mp4</video>
+	</game>
+	<game id="26213" source="ScreenScraper.fr">
+		<path>./Moon Diver.m3u</path>
+		<name>Moon Diver</name>
+		<desc>At the dawn of the 22nd century, an evil power brought inanimate objects to life, and they turned on humanity. Bridges, cars, cups-the whole of humanity's creations turned on their makers. But hidden amongst humanity's survivors, an elite unit of specially trained ninja known as Moondivers has been lying in wait for orders to reclaim the planet. Today, those orders arrived.</desc>
+		<rating>0.7</rating>
+		<releasedate>20110329T000000</releasedate>
+		<developer>Feelplus</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Platform</genre>
+		<image>./mixart/Moon Diver.png</image>
+		<marquee>./wheel/Moon Diver.png</marquee>
+		<video>./snap/Moon Diver.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="25012" source="ScreenScraper.fr">
+		<path>./Naruto Shippuden - Ultimate Ninja Storm Generations (USA) (En,Fr,Es).m3u</path>
+		<name>Naruto Shippuden : Ultimate Ninja Storm Generation</name>
+		<desc>Developed by CyberConnect2, NARUTO SHIPPUDEN: Ultimate Ninja STORM Generations (not yet rated) is the latest rendition in the smash hit ‘NARUTO SHIPPUDEN: Ultimate Ninja Storm’ series of games. The title will power the series into the future by revolutionizing online play and ramping up the number of playable and support characters far beyond any NARUTO game in the wildly popular franchise. Players will compete in a variety of online battle modes with their favorite NARUTO characters, including Naruto and Sasuke. NARUTO fans have been waiting to see more of Zabuza and Haku since the launch of the original Manga, and now they will have their chance! These are just a few of the many new ninja in the game.</desc>
+		<rating>0.8</rating>
+		<releasedate>20120223T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>CyberConnect2 Co., Ltd.</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<image>./mixart/Naruto Shippuden - Ultimate Ninja Storm Generations (USA) (En,Fr,Es).png</image>
+		<marquee>./wheel/Naruto Shippuden - Ultimate Ninja Storm Generations (USA) (En,Fr,Es).png</marquee>
+		<video>./snap/Naruto Shippuden - Ultimate Ninja Storm Generations (USA).mp4</video>
+		<genreid>262</genreid>
+	</game>
+	<game id="26894" source="ScreenScraper.fr">
+		<path>./NBA Unrivaled.m3u</path>
+		<name>NBA Unrivaled</name>
+		<desc>Paying homage to the old school look and feel of the arcade classics, NBA Unrivaled brings back all of the intensity and pulse pounding action - AMPLIFIED! Hit the hardwood with the 2009-2010 NBA season's team and player rosters with current stats, logos and jerseys. Ball your way up to the top of the league with unthinkable slams and outrageous plays to get the crowd pumped for momentum on your side! Momentum mania! As you play for points, you will also play to fill up your Momentum Gauge. Once the Momentum gauge is maxed out, the team goes into Momentum Mania, which boosts offensive and defensive abilities, allowing for flashier, bigger plays. Non-stop action: Experience electrifying effects, outrageous dunks, and fast paced action where no other basketball game has gone before. Authentic rosters: Boasting all 30 NBA teams and the top players from the latest 2009-2010 Rosters, choose your team to compete in full five-on-five team arcade-style gameplay. Multiple modes: Grab a friend to play in online or offline multiplayer mode -- player vs. player, or two players vs. CPU.</desc>
+		<rating>0.24</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>ACRONYM</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Sports</genre>
+		<image>./mixart/NBA Unrivaled.png</image>
+		<marquee>./wheel/NBA Unrivaled.png</marquee>
+		<video>./snap/NBA Unrivaled.mp4</video>
+		<genreid>1536</genreid>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Söldner-X 2 Final Prototype.m3u</path>
+		<name>Söldner-X 2 Final Prototype</name>
+		<desc>Twenty years after the Virus Wars, you return to Gota IV as part of the newly formed Söldner-X defense force. Your mission: to free the galaxy from the D'aarg, a technologically superior race that is threatening mankind. Staged across seven unique action-loaded levels, Söldner-X 2: Final Prototype delivers a must-have, shoot' em up experience, blending classic gameplay with the astonishing audio-visual capabilities of the PlayStation 3 system.</desc>
+		<rating>0.77</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<image>./mixart/Söldner-X 2 Final Prototype.png</image>
+		<marquee>./wheel/Söldner-X 2 Final Prototype.png</marquee>
+		<video>./snap/Söldner-X 2 Final Prototype.mp4</video>
+	</game>
+	<game id="26609" source="ScreenScraper.fr">
+		<path>./Sonic The Fighters.m3u</path>
+		<name>Sonic The Fighters</name>
+		<desc>Join Sonic and friends in battle in this classic arcade game from AM2. Originally on consoles as part of the Sonic Gems collection, Sonic the Fighters is back with an all-new online mode, including both online versus and tournament play. In single player mode, choose from 10 playable characters and fight through 8 stages to stop Dr. Robotnik and Metal Sonic from unleashing the Death Egg II!</desc>
+		<rating>0.75</rating>
+		<releasedate>20121127T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<image>./mixart/Sonic The Fighters.png</image>
+		<marquee>./wheel/Sonic The Fighters.png</marquee>
+		<video>./snap/Sonic The Fighters.mp4</video>
+		<genreid>262</genreid>
+	</game>
+	<game id="26844" source="ScreenScraper.fr">
+		<path>./Super Puzzle Fighter II Turbo HD Remix.m3u</path>
+		<name>Super Puzzle Fighter II Turbo HD Remix</name>
+		<desc>Super Puzzle Fighter II Turbo HD Remix downloads Capcom's popular puzzle game into the new generation. The new version of the game features newly created 1080p HD graphics, several new game modes, improved game balance, new stage backgrounds courtesy of Udon Entertainment and online play.</desc>
+		<rating>0.85</rating>
+		<releasedate>20070830T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Puzzle-Game</genre>
+		<image>./mixart/Super Puzzle Fighter II Turbo HD Remix.png</image>
+		<marquee>./wheel/Super Puzzle Fighter II Turbo HD Remix.png</marquee>
+		<video>./snap/Super Puzzle Fighter II Turbo HD Remix.mp4</video>
+		<genreid>2816</genreid>
+	</game>
+	<game id="26151" source="ScreenScraper.fr">
+		<path>./Tetris.m3u</path>
+		<name>Tetris</name>
+		<desc>The first Tetris game for the PlayStation 3 will feature a variety of online and offline multiplayer modes in cooperative and competitive flavors.</desc>
+		<rating>0.85</rating>
+		<releasedate>20101222T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Puzzle-Game</genre>
+		<image>./mixart/Tetris.png</image>
+		<marquee>./wheel/Tetris.png</marquee>
+		<video>./snap/Tetris.mp4</video>
+		<genreid>2816</genreid>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./TMNT Turtles In Time Re-Shelled.m3u</path>
+		<name>TMNT Turtles In Time Re-Shelled</name>
+		<desc>The arcade classic has been revamped with all new 3-D graphics, but with the same classic beat-'em-up gameplay. Take on the Foot and bosses alone or in a team of four. Cowabunga, dudes! New graphics, classic gameplay: The game has upgraded 3-D graphics, but still features the same side-scrolling beat-'em-up gameplay we all love. Multiplayer: Play the four-player co-op and survival modes available online and locally.</desc>
+		<rating>0.55</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<image>./mixart/TMNT Turtles In Time Re-Shelled.png</image>
+		<marquee>./wheel/TMNT Turtles In Time Re-Shelled.png</marquee>
+		<video>./snap/TMNT Turtles In Time Re-Shelled.mp4</video>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Ugly Americans Apocalypsegeddon.m3u</path>
+		<name>Ugly Americans Apocalypsegeddon</name>
+		<desc>With four-player top-down co-op gameplay that hearkens back to such classics as Gauntlet and Robotron, “Ugly Americans: Apocalypsegeddon” features four playable characters, each with their own unique abilities, weapons and strengths. Players must comb the streets of New York City and pacify raving demons, delinquent man birds and zombies by lactating fire or hurling wacky objects like flying demon skulls, fish, baseballs and wrenches. Investigate case files from the Department of Integration and battle devastating and distinctive bosses at the end of each mission, each bringing you one step closer to finding out who is trying to bring about the end of days!</desc>
+		<rating>0.44</rating>
+		<releasedate />
+		<developer />
+		<publisher />
+		<genre />
+		<players />
+		<image>./mixart/Ugly Americans Apocalypsegeddon.png</image>
+		<marquee>./wheel/Ugly Americans Apocalypsegeddon.png</marquee>
+		<video>./snap/Ugly Americans Apocalypsegeddon.mp4</video>
+	</game>
+	<game id="25654" source="ScreenScraper.fr">
+		<path>./Super Street Fighter II Turbo HD Remix.m3u</path>
+		<name>Super Street Fighter II Turbo HD Remix</name>
+		<desc>Super Street Fighter II Turbo HD Remix is a two dimensional fighting game released for PlayStation 3 and Xbox 360. It is a remake of Super Street Fighter II Turbo and includes both the original game, and a remixed version with completely redrawn high definition graphics and rebalanced gameplay. The game features the same characters as Super Street Fighter II Turbo and has two modes: classic and remix. In addition it includes online multiplayer, a training mode, a remixed and classic soundtrack, a Quarter Match mode where players can spectate and join games, voice chat support, an 8-player tournament mode, rankings, leaderboards and statistics.</desc>
+		<image>./mixart/Super Street Fighter II Turbo HD Remix.png</image>
+		<marquee>./wheel/Super Street Fighter II Turbo HD Remix.png</marquee>
+		<video>./snap/Super Street Fighter II Turbo HD Remix.mp4</video>
+		<rating>0.65</rating>
+		<releasedate>20081126T000000</releasedate>
+		<developer>Backbone Entertainment</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<genreid>262</genreid>
+	</game>
+	<game id="25507" source="ScreenScraper.fr">
+		<path>./3D Dot Game Heroes.m3u</path>
+		<name>3d Dot Game Heroes</name>
+		<desc>The gameplay strongly resembles that of 8-bit action-adventure games from the 1980s, particularly that of The Legend of Zelda. 
+ 
+Players move characters from screen to screen exploring dungeons, battling enemies, collecting items and solving puzzles reminiscent of the past.  
+ 
+When the player's health bar is full, the player's sword will grow to tremendous sizes whenever swung.  
+ 
+Swords in game can be customized and leveled up to increase its length, width, as well as magical power, other special items that can also be used include boomerangs, lanterns, candles, and bows.</desc>
+		<image>./mixart/3D Dot Game Heroes.png</image>
+		<video>./snap/3D Dot Game Heroes.mp4</video>
+		<marquee>./wheel/3D Dot Game Heroes.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20091105T000000</releasedate>
+		<developer>Southpeak Interactive</developer>
+		<publisher>Silicon Studio</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<genreid>768</genreid>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Bomberman Ultra.m3u</path>
+		<name>Bomberman Ultra</name>
+		<desc>Bomberman Ultra includes all the classic gameplay elements that have made the series famous over the past few decades. Power-ups are as fun as ever and prove useful in order to dominate your opponents. And of course, the fast and frantic multiplayer action always keeps things heated! Along with the above features, Bomberman Ultra is packed with all of the options you'd expect for non-stop fun. Allowing for full customization of your character, Bomberman Ultra allows you to pick and choose from countless accessories, body styles, and other fashions to make a wholly unique Bomberman character! Feel like going as a pirate dressed in a tutu? Go for it. Up for a more space man look with a ninja suit on? By all means. The full Bomberman costume wardrobe is immediately unlockable at the very start of the game giving you more than 150,000 unique combinations. Fans find outrageous level designs across 14 stages that challenge gamers from all backgrounds. Keep a sharp eye as most stages have one or more unique gimmicks to add a little challenge to the map! From hazardous trap doors to deadly tornadoes, your character will usually have a lot more to worry about than your rivals trying to bomb you. Of course the real fun in Bomberman is the multiplayer! Bring your custom look to the battle arena with full 8 player online multiplayer over PSN and 4 player local multiplayer. A bevy of options are also available to you when setting up your frenzied matches to tailor them the way you’d like. From active gimmicks on the map to other gameplay options, every battle is yours to make your own.</desc>
+		<image>./mixart/Bomberman Ultra.png</image>
+		<video>./snap/Bomberman Ultra.mp4</video>
+		<marquee>./wheel/Bomberman Ultra.png</marquee>
+		<rating>0.81</rating>
+		<releasedate />
+	</game>
+	<game id="25301" source="ScreenScraper.fr">
+		<path>./Resistance - Fall of Man (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Ko).m3u</path>
+		<name>Resistance : Fall of Man</name>
+		<desc>In Resistance: Fall of Man, the U.S. and Britain band together in a last-ditch effort to save Europe and Asia from a horrific scourge. In mere decades, the Chimera - a species of unknown origin propagating a virus that converts other life forms into more Chimera - has overrun Russia and all of Europe. Humanity’s hope for survival is slim, and the tide of the battle rests on the shoulders of U.S. Army Ranger, Sgt. Nathan Hale. Resistance: Fall of Man draws players into a deep, frightening story that rewrites the 20th century and pits the United States and Britain against a horrific species of unknown origin. In addition to an epic single player campaign, the game features co-op, split screen multiplayer and highly customizable online gameplay. Greater processing power on PlayStation 3 and Blu-ray technology enables more immersive visual and sound effects in Resistance: Fall of Man, heightening the chaos of large-scale warfare. Insomniac Games has combined its passion for creating exotic weapons and vehicles with a proprietary physics system to create a unique human and alien arsenal.</desc>
+		<image>./mixart/Resistance - Fall of Man (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Ko).png</image>
+		<video>./snap/Resistance - Fall of Man (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Ko).mp4</video>
+		<marquee>./wheel/Resistance - Fall of Man (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Ko).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20070323T000000</releasedate>
+		<developer>Insomniac Games</developer>
+		<publisher>Sony</publisher>
+		<genre>Action</genre>
+		<players>40</players>
+		<genreid>256</genreid>
+	</game>
+	<game id="25834" source="ScreenScraper.fr">
+		<path>./Dead to Rights - Retribution (EUR).m3u</path>
+		<name>Dead to Rights : Retribution</name>
+		<desc>Thrusting players into a mature neo-noir crime drama as a vice cop Jack Slate and his canine companion Shadow, the game introduces new gameplay elements that unify the third person shooting and brawling genres for a brutal and relentless new action-driven experience. Returning to Grant City, a boom town gone bust that is falling to the worst excesses of crime, greed and corruption; Dead to Rights: Retribution follows vice cop Jack Slate as he fights to expose shadowy figures that stops at nothing to exert their deadly influence over the crumbling metropolis. Dead to Rights: Retribution forms an original story portraying key events that shape and define Jack Slate's character including how he and Shadow first come together as partners against those who would bring the once great city to its knees. Introducing an innovative new hybrid combat system,</desc>
+		<image>./mixart/Dead to Rights - Retribution (USA) (En,Fr,Es,It).png</image>
+		<video>./snap/Dead to Rights - Retribution (USA) (En,Fr,Es,It).mp4</video>
+		<marquee>./wheel/Dead to Rights - Retribution (USA) (En,Fr,Es,It).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20100423T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Volatile</publisher>
+		<players>1</players>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./EA Sports MMA (EUR).m3u</path>
+		<name>EA Sports MMA</name>
+		<desc>EA SPORTS MMA promises to feature the most authentic, intense and broad mixed martial arts experience to date - complete with a vast array of top fighters and fighting styles from around the world.</desc>
+		<image>./mixart/EA Sports MMA (USA) (En,Ja,Fr,De,Es).png</image>
+		<video>./snap/EA Sports MMA (USA).mp4</video>
+		<marquee>./wheel/EA Sports MMA (USA) (En,Ja,Fr,De,Es).png</marquee>
+		<rating>0.77</rating>
+		<releasedate />
+	</game>
+	<game id="25462" source="ScreenScraper.fr">
+		<path>./Folklore (EUR).m3u</path>
+		<name>Folklore</name>
+		<desc>Folklore is a unique, dark fantasy adventure inspired by western fairy tales. Set in the mysterious town of Doolin, two strangers, Keats and Ellen, are drawn together to uncover a mysterious legend in a remote village that exists on the border between dreams and reality. They soon learn that the town serves as a gateway to fantastic realms, full of creatures, spirits and monsters. In order to solve the mystery of the town, and their past, the pair must journey through these worlds to uncover its secrets.</desc>
+		<image>./mixart/Folklore (USA) (En,Fr,De,Es,It).png</image>
+		<video>./snap/Folklore (USA) (En,Fr,De,Es,It).mp4</video>
+		<marquee>./wheel/Folklore (USA) (En,Fr,De,Es,It).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20071009T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Game Republic</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<genreid>512</genreid>
+	</game>
+	<game id="25979" source="ScreenScraper.fr">
+		<path>./Fracture (EUR).m3u</path>
+		<name>Fracture</name>
+		<desc>Amidst a backdrop of worldwide ecological and seismological chaos in the mid-2100s, the United States has been split in two by the "Great Flood". As a result of the polar ice cap melting, the Mississippi River has destroyed the central portion of the United States, causing an ill-equipped Federal Government to fail and literally cutting the country in half. These two halves are left to fend for themselves in the aftermath.</desc>
+		<image>./mixart/Fracture (USA) (En,Ja,Fr,De,Es,It,Ko).png</image>
+		<video>./snap/Fracture (USA) (En,Ja,Fr,De,Es,It,Ko).mp4</video>
+		<marquee>./wheel/Fracture (USA) (En,Ja,Fr,De,Es,It,Ko).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20081007T000000</releasedate>
+		<developer>Day 1 Studio</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2-12</players>
+		<genreid>261</genreid>
+	</game>
+	<game id="26295" source="ScreenScraper.fr">
+		<path>./Full Auto 2 - Battlelines (EUR).m3u</path>
+		<name>Full Auto 2 : Battlelines</name>
+		<desc>Full Auto 2: Battlelines puts high-speed vehicles outfitted with weapons and armor into fully realized and fully destructible urban street environments. Fierce combat-racing will ensue as you strategically use destruction to win races as well as leave massive devastation in your wake. Players can destroy the environment to dynamically change track conditions to block competitors, open new paths, or crush opponents with falling debris caused by well-timed missiles. Full Auto 2: Battlelines also introduces a new Arena Mode featuring team play and six different levels, each specifically designed for a unique type of multiplayer car combat. In the new multi-path single player campaign, players battle to take control of Staunton City by conquering the six different districts and taking control of opponent cars and weapons. The game's six different carnage-filled multiplayer modes, which incorporate team play and objectives ranging from classic deathmatches to unique base assaults and gladiator-style gameplay, deliver a diverse range of competitive options. The sequel implements the fan-favorite Unwreck feature, which allows players to turn back time and take another shot at a treacherous turn, avoid a deadly obstacle, or simply avoid enemy fire.</desc>
+		<image>./mixart/Full Auto 2 - Battlelines (USA).png</image>
+		<video>./snap/Full Auto 2 - Battlelines (USA).mp4</video>
+		<marquee>./wheel/Full Auto 2 - Battlelines (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20070323T000000</releasedate>
+		<developer>Pseudo Interactive Inc.</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<genreid>1537</genreid>
+	</game>
+	<game id="200849" source="ScreenScraper.fr">
+		<path>./Persona 4 Arena (EUR).m3u</path>
+		<name>Persona 4 Arena</name>
+		<desc>Persona 4 Arena uses hand-drawn, high definition 2D anime-style fighters and colorful, over-the-top special effects to bring to life a roster of fighters from Persona 3 and Persona 4.</desc>
+		<image>./mixart/Persona 4 Arena (USA) (En,Ja).png</image>
+		<video>./snap/Persona 4 - Arena (USA).mp4</video>
+		<marquee>./wheel/Persona 4 - Arena (USA).png</marquee>
+		<releasedate>20120807T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Zen United</publisher>
+		<genre>Fight</genre>
+		<genreid>262</genreid>
+	</game>
+	<game id="24895" source="ScreenScraper.fr">
+		<path>./Resident Evil - Revelations (EUR).m3u</path>
+		<name>Resident Evil : Revelations</name>
+		<desc>Resident Evil: Revelations returns to the survival horror gameplay of earlier series installments, with returning elements such as a limited supply of ammunition, and more emphasis on exploration and puzzle solving. The game's camera keeps an over-the-shoulder view from behind the playable character. The player may move the protagonist while aiming a weapon, and has the option to switch between a first-person and third-person perspective. A new device, the Genesis, detects items hidden throughout the game's environments.</desc>
+		<image>./mixart/Resident Evil - Revelations (USA, Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru).png</image>
+		<video>./snap/Resident Evil - Revelations (USA, Asia).mp4</video>
+		<marquee>./wheel/Resident Evil - Revelations (USA, Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Pl,Ru).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20130524T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<genreid>256</genreid>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Saw II - Flesh &amp; Blood (EUR).m3u</path>
+		<name>Saw II - Flesh &amp; Blood</name>
+		<desc>Step into the dark and tormented world of Saw 2 and experience the gruesome traps that Jigsaw has created to test your will to survive. With new traps, puzzles, and combat system players will need to think fast and act quick to pass the rigors of the tests Jigsaw has engineered. Set between the Saw and Saw II movies, the game follows Detective Tapp's estranged son Michael, who become Jigsaw's next subject while he is investigating father's recent death.</desc>
+		<image>./mixart/Saw II - Flesh &amp; Blood (USA) (En,Fr,Es).png</image>
+		<video>./snap/Saw II - Flesh &amp; Blood (USA).mp4</video>
+		<marquee>./wheel/Saw II - Flesh &amp; Blood (USA) (En,Fr,Es).png</marquee>
+		<rating>0.45</rating>
+		<releasedate />
+	</game>
+	<game id="200581" source="ScreenScraper.fr">
+		<path>./Ski-Doo Snowmobile Challenge (EUR).m3u</path>
+		<name>Ski-Doo Snowmobile Challenge</name>
+		<desc>Take to the snow with the most comprehensive and exciting Snowmobile game ever made. Compete in adrenaline filled snow cross races, extreme hill climbs, and gravity defying stunt challenges as you try to win it all. Featuring 20 fully authentic Ski-doo snowmobiles presented in HD for the first time along with accessories and clothing from the full Ski-Doo range. In addition to the fully featured single player mode, Ski-Doo Snowmobile Challenge also provides a complete online experience with voice support, leaderboards and online tournaments.</desc>
+		<image>./mixart/Ski-Doo Snowmobile Challenge (USA) (En,Fr).png</image>
+		<video>./snap/Ski-Doo Snowmobile Challenge (USA).mp4</video>
+		<marquee>./wheel/Ski-Doo Snowmobile Challenge (USA) (En,Fr).png</marquee>
+		<rating>0.64</rating>
+		<releasedate />
+	</game>
+	<game id="25646" source="ScreenScraper.fr">
+		<path>./Army of Two (EUR).m3u</path>
+		<name>Army Of Two</name>
+		<desc>It will take an Army of Two to stop the corruption of rogue private military corporations. Fight alongside your teammate to become the deadliest two-man military outfit a government can buy. The breakthrough gameplay in ARMY OF TWO, with a live or adaptive AI partner, enables you to take advantage of two-man strategies like customizable weapons, vehicles, and tactical shooting.</desc>
+		<image>./mixart/Army of Two (USA).png</image>
+		<video>./snap/Army of Two (USA).mp4</video>
+		<marquee>./wheel/Army of Two (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>EA Games</developer>
+		<publisher>Electronic Arts</publisher>
+	</game>
+	<game id="201171" source="ScreenScraper.fr">
+		<path>./Grand Slam Tennis 2 (EUR).m3u</path>
+		<name>Grand Slam Tennis 2</name>
+		<desc>EA Sports' tennis sim makes its high-definition debut with a roster of 25 players and all four Grand Slam Championships next year.</desc>
+		<image>./mixart/Grand Slam Tennis 2 (USA) (En,Fr).png</image>
+		<video>./snap/Grand Slam Tennis 2.mp4</video>
+		<marquee>./wheel/Grand Slam Tennis 2.png</marquee>
+		<releasedate />
+	</game>
+	<game id="24997" source="ScreenScraper.fr">
+		<path>./Skate 3 (USA) (En,Fr,Es).m3u</path>
+		<name>Skate 3</name>
+		<desc>Skate 3 breaks new ground by taking all of the camaraderie and competitive excitement of real-life skateboarding and brings it to the hands of gamers. Whether online or offline, players can now team up to build the ultimate skate crew in the definitive skateboarding co-op experience. In skate 3, players take part in team-based challenges, compete against rival crews and leave their mark on the all-new skater's paradise, Port Carverton.Skate 3 features an all-new co-op mode where teammates can complete challenges together while advancing each other's careers. From rewarding epic bails and fails with a beefed up Hall of Meat mode to honing your craft with the all-new skate.School, players of all skill levels have multiple ways to "kill it" in the game. The franchise also continues to raise the bar for user created content with the skate.Create feature suite, an innovative toolset that empowers gamers to truly express their skate style by creating their own graphics, videos, and skate parks.</desc>
+		<image>./mixart/Skate 3 (USA) (En,Fr,Es).png</image>
+		<video>./snap/Skate 3 (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/Skate 3 (USA) (En,Fr,Es).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20100511T000000</releasedate>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<genreid>1536</genreid>
+	</game>
+	<game id="25721" source="ScreenScraper.fr">
+		<path>./Skate. (EUR).m3u</path>
+		<name>Skate</name>
+		<desc>It's the closest thing to skateboarding without actually putting your feet on a board. With innovative controls that take advantage of the dual analog sticks, the power of the next gen hardware, and the ability to sculpt tricks to define your style, skate delivers authentic boarding like no other videogame. Individual style mixed with physics-driven animations promise that no two tricks will ever be the same, and there's plenty of room to pull off those trick. San Vanelona challenges you to explore, find, and own the best spots. You can even capture footage to create and show off your style with friends across the world. Roll with the Pros?skate features professional legends and upcoming pros including Danny Way, Mark Gonzales, Rob Dyrdek, Mike Carroll, P.J. Ladd, Chris Cole, Jason Dill, Pat Duffy, Jerry Hsu, Paul Rodriguez, Dennis Busenitz, Alex Chalmers, Chris Haslam, Colin McKay, John Rattray, Ryan Gallant, Ryan Smith and Terry Kennedy. Online Gameplay skate features extensive online gameplay including multiple online multiplayer modes.</desc>
+		<image>./mixart/Skate. (USA).png</image>
+		<video>./snap/Skate (USA).mp4</video>
+		<marquee>./wheel/Skate. (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20070924T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<genreid>1536</genreid>
+	</game>
+	<game id="25147" source="ScreenScraper.fr">
+		<path>./Dante's Inferno (USA) (En,Fr,Es).m3u</path>
+		<name>Dante's Inferno</name>
+		<desc>Dante's Inferno will take gamers to the western world's most definitive view of the afterlife as created in the 13th Century by the Italian poet Dante Alighieri in part one of his epic classic, "The Divine Comedy." Dante's Inferno tells an adapted story that focuses on delivering a blockbuster third-person action game experience while bringing Alighieri's depiction of Hell to the medium.Players assume the role of Dante, who descends into Hell after returning home to find his beloved Beatrice murdered, with Lucifer seducing her soul into the underworld. Dante sets out on a rescue mission to save Beatrice, but he soon realises he is also in Hell to face his own demons and ultimately to redeem himself. Players will take Dante through nine unique circles of Hell as mapped out and described by Alighieri: limbo, lust, gluttony, greed, anger, heresy, violence, fraud and treachery.</desc>
+		<image>./mixart/Dante's Inferno (USA) (En,Fr,Es).png</image>
+		<video>./snap/Dante's Inferno (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/Dante's Inferno (USA) (En,Fr,Es).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20100204T000000</releasedate>
+		<developer>Visceral Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<genreid>263</genreid>
+	</game>
+	<game id="25892" source="ScreenScraper.fr">
+		<path>./Golden Axe - Beast Rider (USA) (En,Fr,Es,It).m3u</path>
+		<name>Golden Axe : Beast Rider</name>
+		<desc>Golden Axe: Beast Rider delivers action-RPG thrills as a small band of Riders embark on an epic adventure to recruit allies, expose the enemy and prevent the annihilation of their breed. Delivering an intense and unique combat experience, players charge into battle on the backs of ferocious beasts or take their chances with the enemy while on foot. Fighting skill, wits and even magic are all called into action as players immerse themselves in the struggle to defeat an evil intent on enslaving the remains of civilization.</desc>
+		<image>./mixart/Golden Axe - Beast Rider (USA) (En,Fr,Es,It).png</image>
+		<video>./snap/Golden Axe - Beast Rider (USA) (En,Fr,Es,It).mp4</video>
+		<marquee>./wheel/Golden Axe - Beast Rider (USA) (En,Fr,Es,It).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20081017T000000</releasedate>
+		<developer>Secret Level</developer>
+		<publisher>SEGA</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<genreid>263</genreid>
+	</game>
+	<game id="25577" source="ScreenScraper.fr">
+		<path>./Afro Samurai (USA) (En,Fr).m3u</path>
+		<name>Afro Samurai</name>
+		<desc>It is said that the one who becomes "Number One" will rule the world, wielding powers akin to a god. Someone becomes Number One by killing the previous Number One and taking his ceremonial headband. However, only the "Number Two" is allowed to challenge the Number One. Because of this, few people ever reach the Number One because the Number Two headband is constantly changing owners. Afro's father was the old Number One, until he was brutally killed by a gunman named Justice, an event witnessed by Afro as a child. Now an adult, Afro Samurai is the current Number Two and a master swordsman; he travels the road seeking revenge on Justice. Lengthy flashbacks interspersed throughout the story detail how Afro rose from frightened boy fleeing the death of his father, to master swordsman, and eventually to become the current "Number Two", while the story in the present deals with the adult Afro making his way to the mountain top keep of the "Number One" to duel Justice, while at the same time the mysterious cult known as the Empty Seven Clan sends various agents to kill Afro and take his Number Two headband.</desc>
+		<image>./mixart/Afro Samurai (USA) (En,Fr).png</image>
+		<video>./snap/Afro Samurai (USA) (En,Fr).mp4</video>
+		<marquee>./wheel/Afro Samurai (USA) (En,Fr).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20090127T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<genreid>263</genreid>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Ico &amp; Shadow of the Colossus Collection, The (EUR).m3u</path>
+		<name>The Ico &amp; Shadow of the Colossus Collection</name>
+		<desc>This collection provides HD and 3D updates for PS2 classics Ico and Shadow of the Colossus.</desc>
+		<image>./mixart/Ico &amp; Shadow of the Colossus Collection, The (USA, Brazil) (En,Fr,Es).png</image>
+		<video>./snap/Ico &amp; Shadow of the Colossus Collection, The (USA, Brazil) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/Ico &amp; Shadow of the Colossus Collection, The (USA, Brazil) (En,Fr,Es).png</marquee>
+		<rating>0.92</rating>
+		<releasedate />
+	</game>
+	<game id="25566" source="ScreenScraper.fr">
+		<path>./Virtua Fighter 5 (EUR).m3u</path>
+		<name>Virtua Fighter 5</name>
+		<desc>Virtua Fighter 5 features an all-star cast of 17 fighters, including characters from the previous iterations along with two new characters named El Blaze and Eileen. El Blaze is a Mexican fighting champion who defeats opponents with his quick Lucha Libre fighting style. Eileen, originally from China, uses a Monkey Kung-Fu fighting style that she learned from her grandfather, a former Kung-Fu master. Players are able to customize their characters by selecting from four uniquely patterned costumes and a wide range of attachable items that can be placed onto each fighter’s various body parts. Virtua Fighter 5 delivers fast-paced, adrenaline-pumping action as players head into battle, taking on a host of popular characters. Players not only achieve victory by defeating highly-skilled opponents, but also by competing for prizes which earn them in-game money allowing them to buy many items at in-game shop. These items allow players to customize their ultimate warrior and become the top Virtua Fighter. In addition, the game introduces "Offensive Move", a new maneuver that allows players to easily approach opponents from the side, adding a more strategic element to the battle. The game supports 720p HD resolution.</desc>
+		<image>./mixart/Virtua Fighter 5 (USA) (En,Ja,Fr,De,Es,It).png</image>
+		<video>./snap/Virtua Fighter 5 (USA) (En,Ja,Fr,De,Es,It).mp4</video>
+		<marquee>./wheel/Virtua Fighter 5 (USA) (En,Ja,Fr,De,Es,It).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20070220T000000</releasedate>
+		<developer>AM2</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+	</game>
+	<game id="25319" source="ScreenScraper.fr">
+		<path>./Dead Nation.m3u</path>
+		<name>Dead Nation</name>
+		<desc>Sometime in the not-too-distant future, a deadly virus is once again sweeping the globe, infecting everyone in its path and killing off almost all the human race. But that’s just the start. To the horror of the survivors, the dead have begun rising from the grave, hell-bent on feeding on the living and wiping out mankind for good. But, just as it seems all is lost, a small pocket of survivors emerges, determined to take back the world from the undead. You are one of these survivors. Armed to the teeth and totally outnumbered, you’re the last hope of discovering a cure for the virus and saving humanity. Just remember to lock, load, and aim for the brain!</desc>
+		<rating>0.8</rating>
+		<releasedate>20101201T000000</releasedate>
+		<developer>Housemarque</developer>
+		<publisher>Sony</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<image>./mixart/Dead Nation.png</image>
+		<marquee>./wheel/Dead Nation.png</marquee>
+		<video>./snap/Dead Nation.mp4</video>
+		<genreid>260</genreid>
+	</game>
+	<game id="25115" source="ScreenScraper.fr">
+		<path>./Drakengard 3.m3u</path>
+		<name>Drakengard 3</name>
+		<desc>A prequel to the original Drakengard, Drakengard 3 transports players to a medieval world where six sisters wield special magical abilities as the "Intoners. "These sisters have brought peace to the earth with their power to manipulate magic through song. Harmony is disrupted, however, when the eldest sister, Zero, attempts to murder her younger sisters with the help of her dragon companion, Mikhail. As the story progresses, players find themselves in a battle to unravel the mystery of Zero and learn her true intentions. The world is ruled by Intoners, sisters whose songs unleash vast powers. One day, the eldest sister Zero appears with her dragon Mikhail in tow, in order to kill her 5 sisters. Why did Zero appear before her sisters? Why does she travel with a dragonkin? What exactly is an Intoner? Darkness is upon the horizon.</desc>
+		<rating>0.65</rating>
+		<releasedate>20131219T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Access Games</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Drakengard 3.png</image>
+		<marquee>./wheel/Drakengard 3.png</marquee>
+		<video>./snap/Drakengard 3.mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="25354" source="ScreenScraper.fr">
+		<path>./Godzilla.m3u</path>
+		<name>Godzilla</name>
+		<desc>Godzilla say no more!</desc>
+		<rating>0.45</rating>
+		<releasedate>20150714T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<image>./mixart/Godzilla.png</image>
+		<marquee>./wheel/Godzilla.png</marquee>
+		<video>./snap/Godzilla.mp4</video>
+	</game>
+	<game id="25872" source="ScreenScraper.fr">
+		<path>./Motorstorm RC.m3u</path>
+		<name>Motorstorm Rc</name>
+		<desc>High-speed radio-controlled car racing hits the MotorStorm circuit in MotorStorm RC! With visually stunning renditions of all four MotorStorm worlds (and eight of their vehicle classes,) this RC racing game comes loaded with endless competition that you can share with friends and rivals worldwide -- whether that's on PS3 or PS Vita, or both!</desc>
+		<rating>0.75</rating>
+		<releasedate>20120222T000000</releasedate>
+		<developer>Evolution Studios</developer>
+		<publisher>Sony</publisher>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+		<image>./mixart/Motorstorm RC.png</image>
+		<marquee>./mixart/Motorstorm RC.png</marquee>
+		<video>./snap/Motorstorm RC.mp4</video>
+		<genreid>1537</genreid>
+	</game>
+	<game id="24916" source="ScreenScraper.fr">
+		<path>./Saint Seiya - Brave Soldiers.m3u</path>
+		<name>Saint Seiya : Brave Soldiers</name>
+		<desc>Brave Soldiers is a fighting game featuring over 50 characters from the Saint Seiya manga. The super gauge in the game is referred to as the Cosmo Gauge (小宇宙ゲージ Kosumo Gēji?), which characters use to perform their finishing attacks, Burst Dash (バーストダッシュ Bāsuto Dasshu?), Burst Attack (バースト攻撃 Bāsuto Kōgeki?), Seven Senses Awakening (セブンセンシズ覚醒 Sebun Senshizu Kakusei?), and their special Big Bang Attacks (ビッグバンアタック Bigu Ban Atakku?). A character's strength can be increased through the use of an Orb (オーブ Ōbu?). The Saint Chronicle (セイントクロニクル Seinto Kuronikuru?) game mode has the player progress through battles based on the three main arcs of the original manga: the Sanctuary arc, the Poseidon arc, and the Hades arc. Also in the game is the Galaxian Wars (ギャラクシアンウォーズ Gyarakushian Wōzu?) mode, a tournament mode.</desc>
+		<rating>0.7</rating>
+		<releasedate>20131017T000000</releasedate>
+		<developer>Dimps</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Fight</genre>
+		<players>1-2</players>
+		<image>./mixart/Saint Seiya - Brave Soldiers.png</image>
+		<marquee>./wheel/Saint Seiya - Brave Soldiers.png</marquee>
+		<video>./snap/Saint Seiya - Brave Soldiers.mp4</video>
+		<genreid>262</genreid>
+	</game>
+	<game id="25371" source="ScreenScraper.fr">
+		<path>./Tokyo Jungle.m3u</path>
+		<name>Tokyo Jungle</name>
+		<desc>In TOKYO JUNGLE, everything is the enemy, and only the strongest will survive! With over 50 playable animals to choose from, unleash your inner beast to hunt your way to the top of Tokyo's post-apocalyptic food chain. Whether in Story or Survival Mode, you never know where your next meal will come from or the dangers you'll face, so be prepared for anything and everything. Forage through this desolate but dangerous city to complete story-based challenges using a variety of survival skills, from all-out attack to stealth. Beware - you are not the only animal out there hunting for survival!</desc>
+		<rating>0.8</rating>
+		<releasedate>20120607T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Sony Electronic Publishing</publisher>
+		<genre>Role playing games</genre>
+		<image>./mixart/Tokyo Jungle.png</image>
+		<marquee>./wheel/Tokyo Jungle.png</marquee>
+		<video>./snap/Tokyo Jungle.mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="25036" source="ScreenScraper.fr">
+		<path>./PlayStation All-Stars Battle Royale.m3u</path>
+		<name>Playstation All-stars Battle Royale</name>
+		<desc>PlayStation All-Stars Battle Royale is a free-for-all brawler showcasing the best and brightest of PlayStation's characters and worlds! From Kratos to Sly Cooper, Sweet Tooth to Parappa the Rapper, Sony characters from all over the gaming spectrum are brought together in a fighting adventure that's both easy to play, and hard to master. Take the battle online for competitive multiplayer action, or go head to head with a group of friends on the couch and prove once and for all who's really the best!</desc>
+		<rating>0.75</rating>
+		<releasedate>20121120T000000</releasedate>
+		<developer>SuperBot Entertainment</developer>
+		<publisher>Sony</publisher>
+		<genre>Fight</genre>
+		<players>2-4</players>
+		<image>./mixart/PlayStation All-Stars Battle Royale.png</image>
+		<marquee>./wheel/PlayStation All-Stars Battle Royale.png</marquee>
+		<video>./snap/PlayStation All-Stars Battle Royale.mp4</video>
+		<genreid>262</genreid>
+	</game>
+	<game id="26358" source="ScreenScraper.fr">
+		<path>./Rush'n Attack - Ex-Patriot.m3u</path>
+		<name>Rush'n Attack : Ex-Patriot</name>
+		<desc>Rush'n Attack: Ex-Patriot is inspired by many of the action gameplay elements from the original Rush'n Attack. The game is played from a 2.5D perspective, with players being able to move horizontally and vertically. The game has several new features over its predecessor such as non-linear levels, stealth-based combat, attack combos and usable equipment such as gas masks and night vision goggles.</desc>
+		<rating>0.55</rating>
+		<releasedate>20110329T000000</releasedate>
+		<developer>Vatra</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./mixart/Rush'n Attack - Ex-Patriot.png</image>
+		<marquee>./wheel/Rush'n Attack - Ex-Patriot.png</marquee>
+		<video>./snap/Rush'n Attack - Ex-Patriot.mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="25557" source="ScreenScraper.fr">
+		<path>./Pure.m3u</path>
+		<name>Pure</name>
+		<desc>Developed by Black Rock Studio, Disney Interactive Studios' award-winning development studio in Brighton, England, Pure takes off-road racing to a new level. Featuring vertigo-inducing massive aerial jumps and spectacular airborne tricks in photo-realistic real-world locations all over the globe, Pure delivers heart-pounding experiences unique to the genre.</desc>
+		<rating>0.8</rating>
+		<releasedate>20080902T000000</releasedate>
+		<developer>Black Rock Studio</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Race, Driving</genre>
+		<image>./mixart/Pure.png</image>
+		<marquee>./wheel/Pure.png</marquee>
+		<video>./snap/Pure.mp4</video>
+		<genreid>1537</genreid>
+	</game>
+	<game id="26779" source="ScreenScraper.fr">
+		<path>./Galaga Legions DX.m3u</path>
+		<name>Galaga Legions Dx</name>
+		<desc>Galaga Legions DX is an PS3 variant of the Galaga Legions shooter. Although true to the origins of the series, this new version offers you to disintegrate legions of insectoid enemies using a small spaceship and two satellites which, your choice, increase your firepower or allow you to shoot in several different directions. Technical, demanding and very fast, this DX version is clearly geared towards scoring.</desc>
+		<image>./mixart/Galaga Legions DX.png</image>
+		<video>./snap/Galaga Legions DX.mp4</video>
+		<marquee>./wheel/Galaga Legions DX.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20110802T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<genreid>260</genreid>
+	</game>
+	<game id="26901" source="ScreenScraper.fr">
+		<path>./Raystorm HD.m3u</path>
+		<name>Raystorm Hd</name>
+		<desc>The core of Raystorm HD is exactly the same as the original Raystorm, with the same R-Gray fighters to pilot, the same vertically scrolling levels to fly, and the same sci-fi storyline where you defend Earth from a bunch of cheesed-off former colonists looking to blow the place up circa 2219.</desc>
+		<image>./mixart/Raystorm HD.png</image>
+		<video>./snap/Raystorm HD.mp4</video>
+		<marquee>./wheel/Raystorm HD.png</marquee>
+		<rating>0.25</rating>
+		<releasedate>20100506T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shoot'em Up</genre>
+		<genreid>260</genreid>
+	</game>
+	<game id="25404" source="ScreenScraper.fr">
+		<path>./ModNation Racers (USA) (En,Fr,Es).m3u</path>
+		<name>Modnation Racers</name>
+		<desc>Exclusive to the PlayStation 3 and PSP systems, ModNation Racers empowers the player to customize their entire kart racing experience. Enjoy karting fun, where you can shoot, boost &amp; drift your way to the finish line. Create your unique racing experience with the same tools used by the development team. Express yourself by creating your own Mod character, quirky kart and imaginative track, and share your unique racing experience with the rest of the world.</desc>
+		<image>./mixart/ModNation Racers (USA) (En,Fr,Es).png</image>
+		<video>./snap/ModNation Racers (USA).mp4</video>
+		<marquee>./wheel/ModNation Racers (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20100525T000000</releasedate>
+		<developer>United Front Games</developer>
+		<publisher>Sony</publisher>
+		<genre>Race, Driving</genre>
+		<genreid>1537</genreid>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./1942 Joint Strike.m3u</path>
+		<name>1942 Joint Strike</name>
+		<desc>1942: Joint Strike takes inspiration and influence from the 194X series of World War II-themed vertical shooters. The art, sound, and gameplay of the new game takes cues from the original 194X games, but stands out as its own unique entry. Gameplay resembles the classic 2D style that gamers expect, but the game utilizes a full 3D engine. Set in a World War II-themed locale, stages, vehicles, and weapons have the look and feel of WWII with some stylistic differences. The world in which 1942 takes place is not our own and the events that transpire are not historically accurate, nor are they intended to be. This is an alternate world where history and technology developed along their own paths. As a result, players jump into the cockpits of WWII-era aircraft to take on huge waves of incoming enemy fire, dodging explosions and missiles while challenging huge bosses at the end of each stage. New co-op "Joint Strike attacks" combine the powers of two aircrafts into a devastating barrage.</desc>
+		<image>./mixart/1942 Joint Strike.png</image>
+		<video>./snap/1942 Joint Strike.mp4</video>
+		<marquee>./wheel/1942 Joint Strike.png</marquee>
+		<rating>0.69</rating>
+		<releasedate />
+	</game>
+	<game id="26516" source="ScreenScraper.fr">
+		<path>./3 On 3 NHL Arcade.m3u</path>
+		<name>3 On 3 NHL Arcade</name>
+		<desc>on 3 NHL Arcade is a fast-paced, loose replication of ice hockey allowing players to pick three out of 40 of the NHL's top players, and pit them against a team of three opponents. 
+ 
+Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or all-around, with obvious advantages and disadvantages for each. Conventional hockey rules are not enforced, and players are encouraged to physically block and check their opponents often. Big hits result in arcade-style powerups, like giant goalies, speed skating, and freeze-tag.</desc>
+		<image>./mixart/3 On 3 NHL Arcade.png</image>
+		<video>./snap/3 On 3 NHL Arcade.mp4</video>
+		<marquee>./wheel/3 On 3 NHL Arcade.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20090202T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<genreid>1536</genreid>
+	</game>
+	<game id="26419" source="ScreenScraper.fr">
+		<path>./OutRun Online Arcade.m3u</path>
+		<name>OutRun Online Arcade</name>
+		<desc>Experience the mayhem and action as you race and rediscover 15 challenging courses. Test your time, speed and handling ability as you bring your next-gen skills online with this coin-op classic. Feel the kick as you put your foot to the floor in one of 10 high-performance Ferrari cars racing your way across the U.S. From the steep streets of San Francisco to the beautiful beaches of California, it's mile after mile of unrelenting acceleration, thrills and action.</desc>
+		<image>./mixart/OutRun Online Arcade.png</image>
+		<video>./snap/OutRun Online Arcade.mp4</video>
+		<marquee>./wheel/OutRun Online Arcade.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20090416T000000</releasedate>
+		<developer>Sumo Digital</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<genreid>1537</genreid>
+	</game>
+	<game id="25169" source="ScreenScraper.fr">
+		<path>./Soulcalibur IV (USA) (En,Ja,Fr,De,Es,It).m3u</path>
+		<name>SoulCalibur IV</name>
+		<desc>The world s premier weapon based fighting game franchise returns to deliver a true next generation fighting experience. Set to finally reveal the origins of the Soul Calibur saga, Soul Calibur IV features both new and familiar faces from across the galaxy, seeking the rival swords for vengeance, honor and salvation. In a monumental alliance, legendary Star Wars icons, Darth Vader and Yoda invade the Soul Calibur universe! Soul Calibur IV continues the series tradition of reinventing, enhancing and breaking new boundaries. Now the world s favorite fighting game redefines the entire genre for the next generation of both new, and fiercely loyal Soul Calibur fans.</desc>
+		<image>./mixart/Soulcalibur IV (USA) (En,Ja,Fr,De,Es,It).png</image>
+		<video>./snap/Soulcalibur IV (USA) (En,Ja,Fr,De,Es,It).mp4</video>
+		<marquee>./wheel/Soulcalibur IV (USA) (En,Ja,Fr,De,Es,It).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20080729T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Fight</genre>
+		<genreid>262</genreid>
+	</game>
+</gameList>

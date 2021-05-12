@@ -1,48 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game id="" source="">
-		<path>./Alphabet Zoo (USA).zip</path>
-		<name>Alphabet Zoo</name>
-		<desc>Alphabet Zoo is a series of ten-minute programmes for young children, produced by Granada Television and was broadcast on ITV for two series in 1983 and 1984. It was presented by singer Ralph McTell and actress Nerys Hughes. Each episode is dedicated to a letter of the alphabet.
-
-The second series was directed by Lorne Magory (Press Gang, Life Force, Emmerdale etc.)
-
-Nearly a decade after Alphabet Zoo came to an end, the format was revived by ITV Carlton on the similarly named series Alphabet Castle which ran from September 1993 to December 1995.</desc>
-		<publisher>Spinnaker</publisher>
-		<image>./mixart/Alphabet Zoo (USA).png</image>
-		<marquee>./wheel/Alphabet Zoo (USA).png</marquee>
-		<video>./snap/Alphabet Zoo (USA).mp4</video>
-		<releasedate>19830101T000000</releasedate>
-		<genre />
-	</game>
-	<game id="" source="">
-		<path>./Antarctic Adventure (USA, Europe).zip</path>
-		<name>Antarctic Adventure</name>
-		<desc>All dressed up and no place to go? Not so with Frostbite Freddie! He's on a goodwill mission, visiting as many bases as he can before time runs out! Catch fish and collect flags for bonus points! And be on the lookout for curious seals and holes in the ice! Speed counts! Is time on your side?</desc>
-		<publisher>Coleco</publisher>
-		<developer>Konami</developer>
-		<image>./mixart/Antarctic Adventure (USA, Europe).png</image>
-		<marquee>./wheel/Antarctic Adventure (USA, Europe).png</marquee>
-		<video>./snap/Antarctic Adventure (USA, Europe).mp4</video>
-		<releasedate>19840803T000000</releasedate>
-		<genre>Action</genre>
-		<players>1</players>
-	</game>
-	<game id="" source="">
-		<path>./Aquattack (USA).zip</path>
-		<name>Aquattack</name>
-		<desc>Aquattack is an action game with four levels which partly have varying gameplay mechanics. In level one and two, the player mans a motor boat which needs to travel a certain distance from left to right. Of course there is a lot of enemy opposition which needs to be avoided. Some enemies can be shot while others are out of reach. Fuel is limited and needs to replenished by collecting refreshments dropped by allied planes. Level three is similar; the player uses a hang glider now. There are different enemies to fight and no fuel to collect. In level four, there is a guarded energy field to cross in order to bring four bombs to the other side. However, only one bomb can be transported at once and there is a time limit.
-
-After beating all four levels, they loop with more difficult enemies and faster playing speed. The player can take nine hits and the overall goal is to earn as many points as possible before the unavoidable final death occurs.</desc>
-		<publisher>Interphase</publisher>
-		<developer>Interphase</developer>
-		<image>./mixart/Aquattack (USA).png</image>
-		<marquee>./wheel/Aquattack (USA).png</marquee>
-		<video>./snap/Aquattack (USA).mp4</video>
-		<releasedate />
-		<genre />
-	</game>
-	<game id="" source="">
 		<path>./BC's Quest for Tires (USA, Europe).zip</path>
 		<name>BC's Quest for Tires</name>
 		<desc />
@@ -1478,17 +1436,6 @@ Tutankham is one of six games chosen to appear in the LIFE magazine photo-sessio
 		<genre />
 	</game>
 	<game>
-		<path>./2010 - The Graphic Action Game (USA, Europe).zip</path>
-		<name>2010 - The Graphic Action Game</name>
-		<image>./mixart/2010 - The Graphic Action Game (USA, Europe).png</image>
-		<video>./snap/2010 - The Graphic Action Game (USA, Europe).mp4</video>
-		<marquee>./wheel/2010 - The Graphic Action Game (USA, Europe).png</marquee>
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-	</game>
-	<game>
 		<path>./Chuck Norris - Super Kicks (USA).zip</path>
 		<name>Chuck Norris - Super Kicks</name>
 		<image>./mixart/Chuck Norris - Super Kicks (USA).png</image>
@@ -1543,17 +1490,6 @@ Tutankham is one of six games chosen to appear in the LIFE magazine photo-sessio
 		<releasedate />
 		<developer>Activision</developer>
 		<publisher>Activision</publisher>
-		<genre />
-	</game>
-	<game>
-		<path>./Alcazar - The Forgotten Fortress (USA).zip</path>
-		<name>Alcazar - The Forgotten Fortress</name>
-		<image>./mixart/Alcazar - The Forgotten Fortress (USA).png</image>
-		<video>./snap/Alcazar - The Forgotten Fortress (USA).mp4</video>
-		<marquee>./wheel/Alcazar - The Forgotten Fortress (USA).png</marquee>
-		<releasedate />
-		<developer />
-		<publisher />
 		<genre />
 	</game>
 	<game>
@@ -1726,6 +1662,45 @@ Style one is Welcome to Korea which features both styles of game switching back 
 		<genre />
 	</game>
 	<game>
+		<path>./2010 - The Graphic Action Game (USA, Europe).zip</path>
+		<name>2010 - The Graphic Action Game</name>
+		<image>./mixart/2010 - The Graphic Action Game (USA, Europe).png</image>
+		<video>./snap/2010 - The Graphic Action Game (USA, Europe).mp4</video>
+		<marquee>./wheel/2010 - The Graphic Action Game (USA, Europe).png</marquee>
+		<releasedate />
+		<lang>en</lang>
+		<region>eu</region>
+		<path>./2010 - The Graphic Action Game (USA, Europe).zip</path>
+	</game>
+	<game>
+		<path>./Alcazar - The Forgotten Fortress (USA).zip</path>
+		<name>Alcazar - The Forgotten Fortress</name>
+		<image>./mixart/Alcazar - The Forgotten Fortress (USA).png</image>
+		<video>./snap/Alcazar - The Forgotten Fortress (USA).mp4</video>
+		<marquee>./wheel/Alcazar - The Forgotten Fortress (USA).png</marquee>
+		<releasedate />
+		<lang>en</lang>
+		<region>us</region>
+		<path>./Alcazar - The Forgotten Fortress (USA).zip</path>
+	</game>
+	<game>
+		<path>./Alphabet Zoo (USA).zip</path>
+		<name>Alphabet Zoo</name>
+		<desc>Alphabet Zoo is a series of ten-minute programmes for young children, produced by Granada Television and was broadcast on ITV for two series in 1983 and 1984. It was presented by singer Ralph McTell and actress Nerys Hughes. Each episode is dedicated to a letter of the alphabet.
+
+The second series was directed by Lorne Magory (Press Gang, Life Force, Emmerdale etc.)
+
+Nearly a decade after Alphabet Zoo came to an end, the format was revived by ITV Carlton on the similarly named series Alphabet Castle which ran from September 1993 to December 1995.</desc>
+		<image>./mixart/Alphabet Zoo (USA).png</image>
+		<video>./snap/Alphabet Zoo (USA).mp4</video>
+		<marquee>./wheel/Alphabet Zoo (USA).png</marquee>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Spinnaker</publisher>
+		<lang>en</lang>
+		<region>us</region>
+		<path>./Alphabet Zoo (USA).zip</path>
+	</game>
+	<game>
 		<path>./Amazing Bumpman (USA).zip</path>
 		<name>Amazing Bumpman</name>
 		<desc>Amazing Bumpman is an Action game, developed by VSS and published by Telegames, Inc., which was released in 1984.</desc>
@@ -1737,16 +1712,41 @@ Style one is Welcome to Korea which features both styles of game switching back 
 		<publisher>Telegames</publisher>
 		<genre>Action</genre>
 		<players>No</players>
+		<lang>en</lang>
+		<region>us</region>
+		<path>./Amazing Bumpman (USA).zip</path>
 	</game>
 	<game>
-		<path>./Buck Rogers - Planet Of Zoom (USA, Europe).zip</path>
-		<name>Buck Rogers - Planet Of Zoom</name>
-		<image>./mixart/Buck Rogers - Planet Of Zoom (USA, Europe).png</image>
-		<video>./snap/Buck Rogers - Planet Of Zoom (USA, Europe).mp4</video>
-		<marquee>./wheel/Buck Rogers - Planet Of Zoom (USA, Europe).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19700101T000000</releasedate>
-		<favorite>true</favorite>
+		<path>./Antarctic Adventure (USA, Europe).zip</path>
+		<name>Antarctic Adventure</name>
+		<desc>All dressed up and no place to go? Not so with Frostbite Freddie! He's on a goodwill mission, visiting as many bases as he can before time runs out! Catch fish and collect flags for bonus points! And be on the lookout for curious seals and holes in the ice! Speed counts! Is time on your side?</desc>
+		<image>./mixart/Antarctic Adventure (USA, Europe).png</image>
+		<video>./snap/Antarctic Adventure (USA, Europe).mp4</video>
+		<marquee>./wheel/Antarctic Adventure (USA, Europe).png</marquee>
+		<releasedate>19840803T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Coleco</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<path>./Antarctic Adventure (USA, Europe).zip</path>
+	</game>
+	<game>
+		<path>./Aquattack (USA).zip</path>
+		<name>Aquattack</name>
+		<desc>Aquattack is an action game with four levels which partly have varying gameplay mechanics. In level one and two, the player mans a motor boat which needs to travel a certain distance from left to right. Of course there is a lot of enemy opposition which needs to be avoided. Some enemies can be shot while others are out of reach. Fuel is limited and needs to replenished by collecting refreshments dropped by allied planes. Level three is similar; the player uses a hang glider now. There are different enemies to fight and no fuel to collect. In level four, there is a guarded energy field to cross in order to bring four bombs to the other side. However, only one bomb can be transported at once and there is a time limit.
+
+After beating all four levels, they loop with more difficult enemies and faster playing speed. The player can take nine hits and the overall goal is to earn as many points as possible before the unavoidable final death occurs.</desc>
+		<image>./mixart/Aquattack (USA).png</image>
+		<video>./snap/Aquattack (USA).mp4</video>
+		<marquee>./wheel/Aquattack (USA).png</marquee>
+		<releasedate />
+		<developer>Interphase</developer>
+		<publisher>Interphase</publisher>
+		<lang>en</lang>
+		<region>us</region>
+		<path>./Aquattack (USA).zip</path>
 	</game>
 	<game>
 		<path>./Jumpman Junior (USA).zip</path>
@@ -1763,5 +1763,17 @@ Your strategy is important, analyze each screen before you begin, but don't take
 		<publisher>Epyx</publisher>
 		<genre>Action</genre>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Buck Rogers - Planet Of Zoom (USA, Europe).zip</path>
+		<name>Buck Rogers - Planet Of Zoom</name>
+		<image>./mixart/Buck Rogers - Planet Of Zoom (USA, Europe).png</image>
+		<video>./snap/Buck Rogers - Planet Of Zoom (USA, Europe).mp4</video>
+		<marquee>./wheel/Buck Rogers - Planet Of Zoom (USA, Europe).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19700101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>eu</region>
 	</game>
 </gameList>

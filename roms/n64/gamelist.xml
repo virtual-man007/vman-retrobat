@@ -484,20 +484,6 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./AeroGauge (USA).n64</path>
-		<name>'H'AeroGauge</name>
-		<desc>Blaze through the skies as you take control of your very own Aeromachines in this new futuristic racing game, AeroGauge. With courses that have sharp turns, and even sharper obstacles, it is going to take a keen eye and ultimate control to maneuver through courses featuring canyons, tunnels, oceans, and mountains. Imagine speeds reaching over 1000 mph as you whiz by the field in route to victory in these graphically advanced landscapes. Never has a game incorporated such remarkable control, detailed graphics, and mind-tingling speeds as... AeroGauge!</desc>
-		<image>./mixart/AeroGauge (USA).png</image>
-		<video>./snap/AeroGauge (USA).mp4</video>
-		<marquee>./wheel/AeroGauge (USA).png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19980430T000000</releasedate>
-		<developer>Locomotive Games</developer>
-		<publisher>ASCII Entertainment</publisher>
-		<genre>Race, Driving</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Aidyn Chronicles - The First Mage (USA).n64</path>
 		<name>Aidyn Chronicles : The First Mage</name>
 		<desc>Young Alaron is on a quest to discover the truth about himself, his name, and his heritage. Traveling to far and distant lands, pursued by forces he cannot understand, danger lurks around every corner. Alaron and his companions will seek to fulfill his destiny as the greatest mage ever known!</desc>
@@ -911,19 +897,6 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Paper Mario (USA).n64</path>
-		<name>'H'Paper Mario</name>
-		<desc>Mario pals around in an all-new action adventure! Mario's back in his first adventure since Super Mario 64, and this time, Bowser's bent on preventing a storybook ending. When Princess Peach is kidnapped, Mario plots to rescue the seven Star Spirits and rid the Mushroom Kingdom of Koopa's cruel cohorts. As he travels from the tropical jungles of Lavalava Island to the frosty heights of Shiver Mountain, he'll meet up with seven all-new companions... and he'll need help from each one or there'll be no happily ever after.</desc>
-		<image>./mixart/Paper Mario (USA).png</image>
-		<video>./snap/Paper Mario (USA).mp4</video>
-		<marquee>./wheel/Paper Mario (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20010205T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Intelligent Systems</publisher>
-		<genre>Role playing games</genre>
-	</game>
-	<game>
 		<path>./Worms Armageddon (USA) (En,Fr,Es).n64</path>
 		<name>Worms Armageddon</name>
 		<desc>The final sequel (at least using the present engine) to the strategy game Worms, Worms Armageddon expands on Worms 2 by improving quite a few facets of gameplay and including play over the Internet through Team 17's WORMNET.   For those who've never played Worms, it's at heart similar to the old game Artillery, which you control an artillery piece. In essence, you give it a shot angle and shot power, and try to hit your enemy, despite wind effects and the enemy firing back at you. Worms puts you in command of a team of Worms, but not only can you move around the landscape, you can use many types of weapons to try to dispatch the enemy, from bazookas to mini-guns to exploding sheep.   Everything is presented in a humorous cartoonish style, from the landscapes to the worms themselves and their cries of triumph or despair, depending on how you do.  Armageddon uses an enhanced version of the Worms 2 engine, and while an improvement over Worms 2, it's not a huge change.</desc>
@@ -1045,20 +1018,6 @@
 		<developer>Nintendo</developer>
 		<publisher>Westwood Studios</publisher>
 		<genre>Strategy</genre>
-	</game>
-	<game>
-		<path>./Conker's Bad Fur Day (USA).n64</path>
-		<name>Conker's Bad Fur Day</name>
-		<desc>Unlike every other Nintendo game ever made, Conker sees his first outing on the N64 with a mature audience in mind. But don't let the violence get in your way of playing this title, which is much like other Rare platformers including Banjo-Kazooie, with a twist.  In this case, Conker has had one hell of a night, and when he wakes up not only does he have a huge hangover, but something just doesn't feel right. So it's up to Conker and his many skills to clean things up.   Conker goes through plenty of wild and wacky levels, most of which are based on classic movies including The Matrix, Jaws, Aliens, The Terminator and even Eyes Wide Shut. A multiplayer mode is also included, allowing 4 players to battle it out in many different styles of multiplayer gameplay.</desc>
-		<image>./mixart/Conker's Bad Fur Day (USA).png</image>
-		<video>./snap/Conker's Bad Fur Day (USA).mp4</video>
-		<marquee>./wheel/Conker's Bad Fur Day (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20010305T000000</releasedate>
-		<developer>Rareware</developer>
-		<publisher>Rare, Ltd.</publisher>
-		<genre>Action</genre>
-		<players>1-4</players>
 	</game>
 	<game>
 		<path>./Cruis'n USA (USA) (Rev B).n64</path>
@@ -1541,20 +1500,6 @@
 		<developer>Westwood Studios</developer>
 		<publisher>Electronic Arts</publisher>
 		<genre>Casino / Slot machine-Casino</genre>
-		<players>1-4</players>
-	</game>
-	<game>
-		<path>./007 - GoldenEye (USA).n64</path>
-		<name>GoldenEye 007</name>
-		<desc>The name is Bond. James Bond. The famous hero of Ian Fleming's novels returns in this first-person shooter, which is based on the movie of the same name. Agent 007 and his friend Alec Trevalyan (a.k.a. Agent 006) were sent to Soviet Union on a secret mission. But everything goes wrong, James Bond barely escapes, and his friend is presumed dead.  Ten years later, a mysterious organization named "Janus" appeared. Commanding a new satellite called "GoldenEye", the organizations attempts to steal money electronically from banks, deleting all evidence of transfer. It's up to our Agent 007 to venture to Soviet Union once again, and to put an end to Janus' ambitions.  In this 3D action game, you control James Bond from a first-person perspective, using a variety of weapons (from knuckles to grenade launcher) to eliminate your foes. However, many parts require you to be careful, to stay unnoticed or to snipe guards from distance, since they will react to your presence and alarm their comrades. The game is divided into missions, and in some of them you'll have to perform other tasks besides killing your enemies: disarm bombs, take pictures of important evidence, or avoid killing scientists. The game features a multiplayer mode with a variety of options, and three difficulty levels.</desc>
-		<image>./mixart/007 - GoldenEye (USA).png</image>
-		<video>./snap/007 - GoldenEye (USA).mp4</video>
-		<marquee>./wheel/007 - GoldenEye (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19970825T000000</releasedate>
-		<developer>Rareware</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action-Shooter-Shooter / 1st person</genre>
 		<players>1-4</players>
 	</game>
 	<game>
@@ -3870,20 +3815,6 @@
 		<players>1-4</players>
 	</game>
 	<game>
-		<path>./1080 Snowboarding (Japan, USA) (En,Ja).n64</path>
-		<name>1080 TenEighty Snowboarding</name>
-		<desc>1080° Snowboarding is a snowboard racing game. The player will find 6 downhill slopes and a half-pipe as courses, several characters to choose from, and be able to perform more than 25 tricks. After choosing a character and a board among the available eight, the player can compete in a variety of events:    Match Race: Race head-to-head against a computer controlled opponent.  Time Attack: Try to beat the best time down a slope.  Trick Attack: Try to get the best trick score on a slope.  Contest: Race for the best time down a slalom route.  2P Vs.: Race against a friend.  Practice: Practice tricks in a half-pipe or jump slope.  </desc>
-		<image>./mixart/1080 Snowboarding (Japan, USA) (En,Ja).png</image>
-		<video>./snap/1080 Snowboarding (Japan, USA) (En,Ja).mp4</video>
-		<marquee>./wheel/1080 Snowboarding (Japan, USA) (En,Ja).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19980401T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Sports-Sports / Skiing</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It).n64</path>
 		<name>Donald Duck : Goin' Qu@ckers*!</name>
 		<image>./mixart/Donald Duck - Goin' Quackers (USA) (En,Fr,De,Es,It).png</image>
@@ -3921,20 +3852,6 @@
 		<developer>Edge Of Reality</developer>
 		<publisher>Rockstar North</publisher>
 		<genre>Race, Driving</genre>
-		<players>1-4</players>
-	</game>
-	<game>
-		<path>./Mario Kart 64 (USA).n64</path>
-		<name>'H'Mario Kart 64</name>
-		<desc>Mario Kart 64 races eight familiar faces, including Mario, Bowser and Yoshi, on four progressively tougher four-track circuits. Wide curves and gentle banks mark the Mushroom Cup tracks. Your commute gets notably tougher on the Flower Cup, though. The player will have to dodge semis rumbling on Toad's Turnpike and bounding boulders on fogbound Choco Mountain! Star Cup tracks range from the icy surfaces of Sherbet Land to the lava lakes of Bowser's Castle. The true test of karting competence, though, comes on the four tracks in Special Cup. Zip through the dark caves and green hillsides of Donkey Kong's Jungle Parkway, cling to the sheer cliffs of Yoshi Valley and hustle over haunted Banshee Boardwalk before tackling the longest track in the game: neon-lit Rainbow Road.   The game offers two camera angles and three engine sizes: 50cc, 100cc and 150cc. You can gain even more speed by mastering the power slide technique or grabbing Super Star power-ups. Each kart has distinctive handling, acceleration and top speed capabilities. Light karts like Princess's smoothly steer through tight corners, but run the constant risk of getting flattened by heavy karts, like Donkey Kong's. Shells that you fire at rival racers, Bananas that make them skid out and Lightning Bolts that make them small and very slow are just a few of the game's unique power-ups.</desc>
-		<image>./mixart/Mario Kart 64 (USA).png</image>
-		<video>./snap/Mario Kart 64 (USA).mp4</video>
-		<marquee>./wheel/Mario Kart 64 (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19970210T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving-Sports</genre>
 		<players>1-4</players>
 	</game>
 	<game>
@@ -4022,21 +3939,6 @@
 		<players>1-4</players>
 	</game>
 	<game>
-		<path>./Asteroids Hyper 64 (USA).n64</path>
-		<name>Asteroids Hyper 64</name>
-		<desc>An updated version of the classic arcade blast 'em up features full 3D environments, all new weapons and defense systems and a 2 player split-screen mode. The gameplay, however, is exactly the same. Pilot a spacecraft and destroy the on-coming asteroids, each of different sizes. Alien ships and black holes are also out there, along with ship upgrades that update your ships weapons and defense systems.</desc>
-		<image>./mixart/Asteroids Hyper 64 (USA).png</image>
-		<video>./snap/Asteroids Hyper 64 (USA).mp4</video>
-		<marquee>./wheel/Asteroids Hyper 64 (USA).png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19991214T000000</releasedate>
-		<developer>Crave Entertainment</developer>
-		<publisher>Crave Entertainment</publisher>
-		<genre>Shoot'em Up-Action</genre>
-		<players>1-2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Robotron 64 (USA).n64</path>
 		<name>Robotron 64</name>
 		<desc>The retro shooter returns with the same addictive gameplay of the original arcade game, but now with the added power of the Nintendo 64.  The aim of the game is simple. Shoot all the enemies on each grid while saving the humans from certain death. Power-ups and items can be picked up to increase your shooting and speed ability, and the further you go in the game, the more enemies attack and the more difficult it gets to save the humans.  Options include the ability to plug in a second N64 controller for added control of the character on the game screen (i.e. two analog sticks). The brand new 3D engine, while sporting similar styled graphics that hark back to the 80's classic, also boasts fuller textures and greater mobility for the character.</desc>
@@ -4048,21 +3950,6 @@
 		<developer>Midway</developer>
 		<publisher>GT Interactive</publisher>
 		<genre>Shoot'em Up-Action-Shooter</genre>
-		<players>1-4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Star Fox 64 (USA) (Rev A).n64</path>
-		<name>Star Fox 64</name>
-		<desc>The Lylat system has been invaded! Join Fox McCloud and his Star Fox team as they fight to save the galaxy from the clutches of the evil Andross. Travel to many different 3-D worlds. Battle the enemy in the air and on the ground and listen in as Fox McCloud interacts with a cast of characters.</desc>
-		<image>./mixart/Star Fox 64 (USA) (Rev A).png</image>
-		<video>./snap/Star Fox 64 (USA) (Rev A).mp4</video>
-		<marquee>./wheel/Star Fox 64 (USA) (Rev A).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19970630T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Shoot'em Up-Action</genre>
 		<players>1-4</players>
 		<favorite>true</favorite>
 	</game>
@@ -4109,17 +3996,17 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Super Mario 64 (USA).n64</path>
-		<name>'H'Super Mario 64</name>
-		<desc>Mario is super in a whole new way! Combining the finest 3-D graphics ever developed for a video game and an explosive sound track, Super Mario 64 becomes a new standard for video games. It's packed with bruising battles, daunting obstacle courses and underwater adventures. Retrieve the Power Stars from their hidden locations and confront your arch nemesis - Bowser, King of the Koopas!</desc>
-		<image>./mixart/Super Mario 64 (USA).png</image>
-		<video>./snap/Super Mario 64 (USA).mp4</video>
-		<marquee>./wheel/Super Mario 64 (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19960929T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action-Platform</genre>
+		<path>./Chopper Attack (USA).n64</path>
+		<name>Chopper Attack</name>
+		<desc>In Chopper Attack, you take a chopper and.. well.. attack! You get to choose between eight different attack choppers, each having its own strengths and weaknesses.   After the briefing from your XO, you are set to destroy something - tanks, other helicopters, planes, radars, buildings etc. While the mission only requires you to do something specific, destroying everything gives you bonuses and money, which you can then use to buy more heavy-duty missiles between the missions.  If you look at the screenshots, you might think that Chopper Attack is a helicopter simulation. It's not. Your elevation is fixed. There are no physics. You have boss fights with GIANT choppers. The game is pure 3D action, plain and simple.</desc>
+		<image>./mixart/Chopper Attack (USA).png</image>
+		<video>./snap/Chopper Attack (USA).mp4</video>
+		<marquee>./wheel/Chopper Attack (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19980617T000000</releasedate>
+		<developer>SETA Corporation</developer>
+		<publisher>Midway</publisher>
+		<genre>Race, Driving-Action-Shooter-Shooter / 3rd person</genre>
 	</game>
 	<game>
 		<path>./007 - The World Is Not Enough (USA).n64</path>
@@ -4133,20 +4020,122 @@
 		<developer>Eurocom Developments Ltd</developer>
 		<publisher>Electronic Arts</publisher>
 		<genre>Shooter / 1st person-Shooter-Action</genre>
-		<players>1-4</players>
+		<players>4</players>
 	</game>
 	<game>
-		<path>./Chopper Attack (USA).n64</path>
-		<name>Chopper Attack</name>
-		<desc>In Chopper Attack, you take a chopper and.. well.. attack! You get to choose between eight different attack choppers, each having its own strengths and weaknesses.   After the briefing from your XO, you are set to destroy something - tanks, other helicopters, planes, radars, buildings etc. While the mission only requires you to do something specific, destroying everything gives you bonuses and money, which you can then use to buy more heavy-duty missiles between the missions.  If you look at the screenshots, you might think that Chopper Attack is a helicopter simulation. It's not. Your elevation is fixed. There are no physics. You have boss fights with GIANT choppers. The game is pure 3D action, plain and simple.</desc>
-		<image>./mixart/Chopper Attack (USA).png</image>
-		<video>./snap/Chopper Attack (USA).mp4</video>
-		<marquee>./wheel/Chopper Attack (USA).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19980617T000000</releasedate>
-		<developer>SETA Corporation</developer>
-		<publisher>Midway</publisher>
-		<genre>Race, Driving-Action-Shooter-Shooter / 3rd person</genre>
+		<path>./1080 Snowboarding (Japan, USA) (En,Ja).n64</path>
+		<name>1080 TenEighty Snowboarding</name>
+		<desc>1080° Snowboarding is a snowboard racing game. The player will find 6 downhill slopes and a half-pipe as courses, several characters to choose from, and be able to perform more than 25 tricks. After choosing a character and a board among the available eight, the player can compete in a variety of events:    Match Race: Race head-to-head against a computer controlled opponent.  Time Attack: Try to beat the best time down a slope.  Trick Attack: Try to get the best trick score on a slope.  Contest: Race for the best time down a slalom route.  2P Vs.: Race against a friend.  Practice: Practice tricks in a half-pipe or jump slope.</desc>
+		<image>./mixart/1080 Snowboarding (Japan, USA) (En,Ja).png</image>
+		<video>./snap/1080 Snowboarding (Japan, USA) (En,Ja).mp4</video>
+		<marquee>./wheel/1080 Snowboarding (Japan, USA) (En,Ja).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19980401T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports-Sports / Skiing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./AeroGauge (USA).n64</path>
+		<name>'H'AeroGauge</name>
+		<desc>Blaze through the skies as you take control of your very own Aeromachines in this new futuristic racing game, AeroGauge. With courses that have sharp turns, and even sharper obstacles, it is going to take a keen eye and ultimate control to maneuver through courses featuring canyons, tunnels, oceans, and mountains. Imagine speeds reaching over 1000 mph as you whiz by the field in route to victory in these graphically advanced landscapes. Never has a game incorporated such remarkable control, detailed graphics, and mind-tingling speeds as... AeroGauge!</desc>
+		<image>./mixart/AeroGauge (USA).png</image>
+		<video>./snap/AeroGauge (USA).mp4</video>
+		<marquee>./wheel/AeroGauge (USA).png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19980430T000000</releasedate>
+		<developer>Locomotive Games</developer>
+		<publisher>ASCII Entertainment</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Mario Kart 64 (USA).n64</path>
+		<name>'H'Mario Kart 64</name>
+		<desc>Mario Kart 64 races eight familiar faces, including Mario, Bowser and Yoshi, on four progressively tougher four-track circuits. Wide curves and gentle banks mark the Mushroom Cup tracks. Your commute gets notably tougher on the Flower Cup, though. The player will have to dodge semis rumbling on Toad's Turnpike and bounding boulders on fogbound Choco Mountain! Star Cup tracks range from the icy surfaces of Sherbet Land to the lava lakes of Bowser's Castle. The true test of karting competence, though, comes on the four tracks in Special Cup. Zip through the dark caves and green hillsides of Donkey Kong's Jungle Parkway, cling to the sheer cliffs of Yoshi Valley and hustle over haunted Banshee Boardwalk before tackling the longest track in the game: neon-lit Rainbow Road.   The game offers two camera angles and three engine sizes: 50cc, 100cc and 150cc. You can gain even more speed by mastering the power slide technique or grabbing Super Star power-ups. Each kart has distinctive handling, acceleration and top speed capabilities. Light karts like Princess's smoothly steer through tight corners, but run the constant risk of getting flattened by heavy karts, like Donkey Kong's. Shells that you fire at rival racers, Bananas that make them skid out and Lightning Bolts that make them small and very slow are just a few of the game's unique power-ups.</desc>
+		<image>./mixart/Mario Kart 64 (USA).png</image>
+		<video>./snap/Mario Kart 64 (USA).mp4</video>
+		<marquee>./wheel/Mario Kart 64 (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19970210T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving-Sports</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Paper Mario (USA).n64</path>
+		<name>'H'Paper Mario</name>
+		<desc>Mario pals around in an all-new action adventure! Mario's back in his first adventure since Super Mario 64, and this time, Bowser's bent on preventing a storybook ending. When Princess Peach is kidnapped, Mario plots to rescue the seven Star Spirits and rid the Mushroom Kingdom of Koopa's cruel cohorts. As he travels from the tropical jungles of Lavalava Island to the frosty heights of Shiver Mountain, he'll meet up with seven all-new companions... and he'll need help from each one or there'll be no happily ever after.</desc>
+		<image>./mixart/Paper Mario (USA).png</image>
+		<video>./snap/Paper Mario (USA).mp4</video>
+		<marquee>./wheel/Paper Mario (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20010205T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Intelligent Systems</publisher>
+		<genre>Role playing games</genre>
+	</game>
+	<game>
+		<path>./Star Fox 64 (USA) (Rev A).n64</path>
+		<name>Star Fox 64</name>
+		<desc>The Lylat system has been invaded! Join Fox McCloud and his Star Fox team as they fight to save the galaxy from the clutches of the evil Andross. Travel to many different 3-D worlds. Battle the enemy in the air and on the ground and listen in as Fox McCloud interacts with a cast of characters.</desc>
+		<image>./mixart/Star Fox 64 (USA) (Rev A).png</image>
+		<video>./snap/Star Fox 64 (USA) (Rev A).mp4</video>
+		<marquee>./wheel/Star Fox 64 (USA) (Rev A).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19970630T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shoot'em Up-Action</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Star Wars - Rogue Squadron (USA) (Rev A).n64</path>
+		<name>Star Wars : Rogue Squadron</name>
+		<desc>Fly against the evil Empire! As Luke Skywalker, co-founder of the Rebel Alliance's elite Rogue Squadron, you must combat the evil Galactic Empire! Engage in intense, fast-paced planetary air-to-ground and air-to-air missions - dogfights, search and destroy, reconnaissance, bombing runs, rescue assignments and more! Pilot X-wings, Y-wings, A-wings, V-wings and Snowspeeders with powerful weapons in over 15 missions battling TIE fighters, TIE bombers, Imperial shuttles, AT-AT walkers, AT-STs and other challenging foes.</desc>
+		<emulator>libretro</emulator>
+		<core>mupen64plus_next</core>
+		<image>./mixart/Star Wars - Rogue Squadron (USA) (Rev A).png</image>
+		<video>./snap/Star Wars - Rogue Squadron (USA) (Rev A).mp4</video>
+		<marquee>./wheel/Star Wars - Rogue Squadron (USA) (Rev A).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19981207T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Action-Shooter</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Super Mario 64 (USA).n64</path>
+		<name>'H'Super Mario 64</name>
+		<desc>Mario is super in a whole new way! Combining the finest 3-D graphics ever developed for a video game and an explosive sound track, Super Mario 64 becomes a new standard for video games. It's packed with bruising battles, daunting obstacle courses and underwater adventures. Retrieve the Power Stars from their hidden locations and confront your arch nemesis - Bowser, King of the Koopas!</desc>
+		<image>./mixart/Super Mario 64 (USA).png</image>
+		<video>./snap/Super Mario 64 (USA).mp4</video>
+		<marquee>./wheel/Super Mario 64 (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19960929T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Platform</genre>
+	</game>
+	<game>
+		<path>./Asteroids Hyper 64 (USA).n64</path>
+		<name>Asteroids Hyper 64</name>
+		<desc>An updated version of the classic arcade blast 'em up features full 3D environments, all new weapons and defense systems and a 2 player split-screen mode. The gameplay, however, is exactly the same. Pilot a spacecraft and destroy the on-coming asteroids, each of different sizes. Alien ships and black holes are also out there, along with ship upgrades that update your ships weapons and defense systems.</desc>
+		<image>./mixart/Asteroids Hyper 64 (USA).png</image>
+		<video>./snap/Asteroids Hyper 64 (USA).mp4</video>
+		<marquee>./wheel/Asteroids Hyper 64 (USA).png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19991214T000000</releasedate>
+		<developer>Crave Entertainment</developer>
+		<publisher>Crave Entertainment</publisher>
+		<genre>Shoot'em Up-Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 	<game>
 		<path>./Cruis'n Exotica (USA).n64</path>
@@ -4164,17 +4153,18 @@
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Star Wars - Rogue Squadron (USA) (Rev A).n64</path>
-		<name>Star Wars : Rogue Squadron</name>
-		<desc>Fly against the evil Empire! As Luke Skywalker, co-founder of the Rebel Alliance's elite Rogue Squadron, you must combat the evil Galactic Empire! Engage in intense, fast-paced planetary air-to-ground and air-to-air missions - dogfights, search and destroy, reconnaissance, bombing runs, rescue assignments and more! Pilot X-wings, Y-wings, A-wings, V-wings and Snowspeeders with powerful weapons in over 15 missions battling TIE fighters, TIE bombers, Imperial shuttles, AT-AT walkers, AT-STs and other challenging foes.</desc>
-		<image>./mixart/Star Wars - Rogue Squadron (USA) (Rev A).png</image>
-		<video>./snap/Star Wars - Rogue Squadron (USA) (Rev A).mp4</video>
-		<marquee>./wheel/Star Wars - Rogue Squadron (USA) (Rev A).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19981207T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>LucasArts</publisher>
-		<genre>Action-Shooter</genre>
+		<path>./007 - GoldenEye (USA).n64</path>
+		<name>GoldenEye 007</name>
+		<desc>The name is Bond. James Bond. The famous hero of Ian Fleming's novels returns in this first-person shooter, which is based on the movie of the same name. Agent 007 and his friend Alec Trevalyan (a.k.a. Agent 006) were sent to Soviet Union on a secret mission. But everything goes wrong, James Bond barely escapes, and his friend is presumed dead.  Ten years later, a mysterious organization named "Janus" appeared. Commanding a new satellite called "GoldenEye", the organizations attempts to steal money electronically from banks, deleting all evidence of transfer. It's up to our Agent 007 to venture to Soviet Union once again, and to put an end to Janus' ambitions.  In this 3D action game, you control James Bond from a first-person perspective, using a variety of weapons (from knuckles to grenade launcher) to eliminate your foes. However, many parts require you to be careful, to stay unnoticed or to snipe guards from distance, since they will react to your presence and alarm their comrades. The game is divided into missions, and in some of them you'll have to perform other tasks besides killing your enemies: disarm bombs, take pictures of important evidence, or avoid killing scientists. The game features a multiplayer mode with a variety of options, and three difficulty levels.</desc>
+		<image>./mixart/007 - GoldenEye (USA).png</image>
+		<video>./snap/007 - GoldenEye (USA).mp4</video>
+		<marquee>./wheel/007 - GoldenEye (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19970825T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Shooter-Shooter / 1st person</genre>
+		<players>4</players>
 		<favorite>true</favorite>
 	</game>
 	<game>
@@ -4190,6 +4180,21 @@
 		<publisher>Nintendo</publisher>
 		<genre>Sports-Action</genre>
 		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Conker's Bad Fur Day (USA).n64</path>
+		<name>Conker's Bad Fur Day</name>
+		<desc>Unlike every other Nintendo game ever made, Conker sees his first outing on the N64 with a mature audience in mind. But don't let the violence get in your way of playing this title, which is much like other Rare platformers including Banjo-Kazooie, with a twist.  In this case, Conker has had one hell of a night, and when he wakes up not only does he have a huge hangover, but something just doesn't feel right. So it's up to Conker and his many skills to clean things up.   Conker goes through plenty of wild and wacky levels, most of which are based on classic movies including The Matrix, Jaws, Aliens, The Terminator and even Eyes Wide Shut. A multiplayer mode is also included, allowing 4 players to battle it out in many different styles of multiplayer gameplay.</desc>
+		<image>./mixart/Conker's Bad Fur Day (USA).png</image>
+		<video>./snap/Conker's Bad Fur Day (USA).mp4</video>
+		<marquee>./wheel/Conker's Bad Fur Day (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20010305T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Rare, Ltd.</publisher>
+		<genre>Action</genre>
+		<players>4</players>
 		<favorite>true</favorite>
 	</game>
 </gameList>

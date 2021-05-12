@@ -1727,33 +1727,6 @@ Nintendo originally released the game as the launch title for the Family Compute
 		<video>./snap/Zelda no Densetsu - The Hyrule Fantasy (Japan).mp4</video>
 	</game>
 	<game>
-		<path>./Akumajou Dracula II - Noroi no Fuuin (Japan).zip</path>
-		<name>Akumajou Dracula II: Noroi no Fuuin</name>
-		<desc>The game's setting takes place seven years after the original Castlevania. The prologue begins when Simon visits his family's resting ground. His back is critically injured from his last encounter with Dracula in the previous game. He suddenly feels someone's presence, and turns to see a young woman standing within the mist. She tells him that a curse was placed upon him by Dracula during their last battle, and that he does not have long to live. The woman continues to say that the curse can be undone if he resurrects Dracula himself. She further explains that Dracula's body was split into five different parts after his defeat seven years ago, and Simon must recover these and bring them to the ruins of Dracula's castle. There, he must seal Dracula and defeat him. Before disappearing, the unknown woman says she cannot guarantee that this will destroy Dracula permanently.
-
-Dracula II - Noroi no Fuuin (Lit. "Dracula II: The Seal of the Curse") is an action-adventure game produced by Konami. It was originally released for the Family Computer Disk System in Japan in 1987, and for the NES in North America in 1988. It is the second Castlevania title released for the NES, following the original Castlevania. Set in 1698, seven years after the events of the first installment, the player once again assumes the role of vampire hunter Simon Belmont, who is on a journey to undo a curse placed on him by Dracula at the end of their previous encounter. Small differences exist between the Japanese version and the American version. Specifically the Japanese version takes advantage of the expanded FM processing capabilities of the FDS hardware to produce better sound, but it contains load scenes when entering or exiting any town or mansion. The FDS version also has three save slots instead of the NES password system.</desc>
-		<image>./mixart/Akumajou Dracula II - Noroi no Fuuin (Japan).png</image>
-		<video>./snap/Akumajou Dracula II - Noroi no Fuuin (Japan).mp4</video>
-		<marquee>./wheel/Akumajou Dracula II - Noroi no Fuuin (Japan).png</marquee>
-		<rating>0</rating>
-		<releasedate>19870827T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-	</game>
-	<game>
-		<path>./All Night Nippon Super Mario Bros. (Japan).zip</path>
-		<name>All Night Nippon Super Mario Brothers</name>
-		<desc>All Night Nippon - Super Mario Bros. was a promotional item given out as a contest prize by the Japanese radio show "All Night Nippon" to celebrate its twentieth year on the air. It combines levels from both Super Mario Bros 1 &amp; 2 and also changes graphics of items and their placements as well as graphics of enemies and mushroom retainers to members of the show.</desc>
-		<image>./mixart/All Night Nippon Super Mario Bros. (Japan).png</image>
-		<video>./snap/All Night Nippon Super Mario Bros. (Japan).mp4</video>
-		<marquee>./wheel/All Night Nippon Super Mario Bros. (Japan).png</marquee>
-		<rating>0</rating>
-		<releasedate>19861022T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Fuji Television Network</publisher>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Yumekoujou - Doki Doki Panic (Japan) (Translated En).zip</path>
 		<name>Yume Koujou Doki Doki Panic</name>
 		<desc>Yume Koujou Doki Doki Panic  (translated as "Dream Factory: Heart-Pounding Panic") is a Japan-only video game developed by Nintendo in cooperation with Fuji Television for the Family Computer Disk System to promote its event called Yume Koujou '87 (translates to Dream Factory '87).
@@ -2013,6 +1986,33 @@ In this solo game, you play a game of tennis with the beautiful model Kobayashi 
 		<publisher>Hacker International</publisher>
 	</game>
 	<game>
+		<path>./Akumajou Dracula II - Noroi no Fuuin (Japan).zip</path>
+		<name>Akumajou Dracula II: Noroi no Fuuin</name>
+		<desc>The game's setting takes place seven years after the original Castlevania. The prologue begins when Simon visits his family's resting ground. His back is critically injured from his last encounter with Dracula in the previous game. He suddenly feels someone's presence, and turns to see a young woman standing within the mist. She tells him that a curse was placed upon him by Dracula during their last battle, and that he does not have long to live. The woman continues to say that the curse can be undone if he resurrects Dracula himself. She further explains that Dracula's body was split into five different parts after his defeat seven years ago, and Simon must recover these and bring them to the ruins of Dracula's castle. There, he must seal Dracula and defeat him. Before disappearing, the unknown woman says she cannot guarantee that this will destroy Dracula permanently.
+
+Dracula II - Noroi no Fuuin (Lit. "Dracula II: The Seal of the Curse") is an action-adventure game produced by Konami. It was originally released for the Family Computer Disk System in Japan in 1987, and for the NES in North America in 1988. It is the second Castlevania title released for the NES, following the original Castlevania. Set in 1698, seven years after the events of the first installment, the player once again assumes the role of vampire hunter Simon Belmont, who is on a journey to undo a curse placed on him by Dracula at the end of their previous encounter. Small differences exist between the Japanese version and the American version. Specifically the Japanese version takes advantage of the expanded FM processing capabilities of the FDS hardware to produce better sound, but it contains load scenes when entering or exiting any town or mansion. The FDS version also has three save slots instead of the NES password system.</desc>
+		<image>./mixart/Akumajou Dracula II - Noroi no Fuuin (Japan).png</image>
+		<video>./snap/Akumajou Dracula II - Noroi no Fuuin (Japan).mp4</video>
+		<marquee>./wheel/Akumajou Dracula II - Noroi no Fuuin (Japan).png</marquee>
+		<rating>0</rating>
+		<releasedate>19870827T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+	</game>
+	<game>
+		<path>./All Night Nippon Super Mario Bros. (Japan).zip</path>
+		<name>All Night Nippon Super Mario Brothers</name>
+		<desc>All Night Nippon - Super Mario Bros. was a promotional item given out as a contest prize by the Japanese radio show "All Night Nippon" to celebrate its twentieth year on the air. It combines levels from both Super Mario Bros 1 &amp; 2 and also changes graphics of items and their placements as well as graphics of enemies and mushroom retainers to members of the show.</desc>
+		<image>./mixart/All Night Nippon Super Mario Bros. (Japan).png</image>
+		<video>./snap/All Night Nippon Super Mario Bros. (Japan).mp4</video>
+		<marquee>./wheel/All Night Nippon Super Mario Bros. (Japan).png</marquee>
+		<rating>0</rating>
+		<releasedate>19861022T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Fuji Television Network</publisher>
+		<players>2</players>
+	</game>
+	<game>
 		<path>./Ai Senshi Nicol (Japan).zip</path>
 		<name>Ai Senshi Nicol</name>
 		<desc>Help the brave inventor Nicol rescue his kidnapped girlfriend Stella from a Demon Bull King from the planet Dairass in this overhead action game. Control Nicol through 7 continents as he recovers 3 pieces on each level to his dimensional transporter invention that the Demon King stole and encased in diamonds. You'll blast away at various minions and avoid treacherous terrain while exploring multiple floors of each continent searching out the diamonds to be re-united with Stella and defeat the evil Demon King!</desc>
@@ -2023,5 +2023,8 @@ In this solo game, you play a game of tennis with the beautiful model Kobayashi 
 		<releasedate>19870424T000000</releasedate>
 		<developer>Konami</developer>
 		<publisher>Konami</publisher>
+		<favorite>true</favorite>
+		<lang>jp</lang>
+		<region>jp</region>
 	</game>
 </gameList>

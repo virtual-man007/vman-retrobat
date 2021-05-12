@@ -391,22 +391,6 @@ The games included are:
 		<marquee>./wheel/Arcade's Greatest Hits - The Atari Collection 1 (USA).png</marquee>
 		<video>./snap/Arcade's Greatest Hits - The Atari Collection 1 (USA).mp4</video>
 	</game>
-	<game id="2566" source="ScreenScraper.fr">
-		<path>./Arcana (USA).7z</path>
-		<name>Arcana</name>
-		<desc>In this game you play as a young boy named Rooks.  He's the only one that can save the world from the evil Galneon.  With the power of the cards he begins his adventure.
-
-All of the people you fight with and against are displayed on cards.  They can have an elemental attribute or not.  Rooks is able to summon an elemental to aid him.  He can only summon one type at a time, and he must find them before being able to summon them.</desc>
-		<rating>0.65</rating>
-		<releasedate>19920501T000000</releasedate>
-		<developer>Hal America Inc.</developer>
-		<publisher>HAL Laboratory</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-		<image>./mixart/Arcana (USA).png</image>
-		<marquee>./wheel/Arcana (USA).png</marquee>
-		<video>./snap/Arcana (USA).mp4</video>
-	</game>
 	<game id="2523" source="ScreenScraper.fr">
 		<path>./Archer Maclean's Super Dropzone (Europe).7z</path>
 		<name>Archer MacLean's Super Dropzone</name>
@@ -12524,21 +12508,6 @@ Ys III breaks away from the "bumping into enemies" battle system of the first tw
 		<marquee>./wheel/Zero the Kamikaze Squirrel (USA).png</marquee>
 		<video>./snap/Zero the Kamikaze Squirrel (USA).mp4</video>
 	</game>
-	<game id="19248" source="ScreenScraper.fr">
-		<path>./Zombies Ate My Neighbors (USA).7z</path>
-		<name>Zombies Ate My Neighbors</name>
-		<desc>In the game you are a male or female protagonist (Zeke or Julia), fighting the vampires, mummies, zombies, etc. on over 50 levels (not including secrets) and saving all of the people you find. There are defined number of neighbors you save on every level. When they are free then "Exit" door opens and you jump on next level.The levels differ from mall and grocery store to beaches and football fields. Using different weapons such as bazooka or water gun you have to kill the bosses such as huge babies, dragons or ants at the end of levels. You can play the game with two players cooperatively.
-</desc>
-		<rating>0.7</rating>
-		<releasedate>19930901T000000</releasedate>
-		<developer>LucasArts</developer>
-		<publisher>Konami - LucasArts</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-		<image>./mixart/Zombies Ate My Neighbors (USA).png</image>
-		<marquee>./wheel/Zombies Ate My Neighbors (USA).png</marquee>
-		<video>./snap/Zombies Ate My Neighbors (USA).mp4</video>
-	</game>
 	<game id="44316" source="ScreenScraper.fr">
 		<path>./Zool - Ninja of the Nth Dimension (USA).7z</path>
 		<name>Zool : Ninja of the 'Nth' Dimension</name>
@@ -13294,13 +13263,6 @@ This is a traditional platform game based on the movie 3 Ninjas Kick Back. Each 
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Metroid Super Zero Mission.7z</path>
-		<name>'H'Metroid Super Zero Mission</name>
-		<image>./mixart/Metroid Super Zero Mission.jpg</image>
-		<video>./snap/Metroid Super Zero Mission.mp4</video>
-		<marquee>./wheel/Metroid Super Zero Mission.png</marquee>
-	</game>
-	<game>
 		<path>./Super Metroid (Japan, USA).7z</path>
 		<name>Super Metroid</name>
 		<desc>Super Metroid is a follow-up to Metroid II, and once again features bounty hunter Samus Aran. She heads to planet Zebes in order to hunt down the leaders of the Space Pirates, who kidnapped an unique Metroid larva. 
@@ -13387,22 +13349,6 @@ All three games tell the story of ninja Ryu Hayabusa through alternating cinemat
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Shadowrun (USA).7z</path>
-		<name>Shadowrun</name>
-		<desc>The SNES version of Shadowrun appeared earlier than the Genesis one, and it is an entirely different game, with different story and gameplay, although it is also based on a pen-and-paper RPG of the same name. Your hero, Jake, is attacked by assassins, and appears to be dead. However, a mysterious dog approaches his lifeless body, transforms into a woman, and casts a spell on him... After that Jake wakes up in the morgue. He doesn't know what happened to him, he doesn't even remember his own name. Wandering through the futuristic city, where monorails, computers, and street gangs armed with automatic weapons co-exist with orcs, dwarves, and vampires, you begin to discover the mystery and to learn about the dangers awaiting you around every corner.
-
-Shadowrun for SNES is a skill-based RPG that uses real time combat. You can hire "deckers", i.e., temporary party members, but the main focus of the gameplay is on Jake and his abilities and skills. There are no random battles, but many screens with respawning enemies, where you can earn experience points and upgrade your skills. The experience points are called "karma" in this game. You need to gain karma in order to advance in one of the several skills available to you. You'll also be able to buy skills from people. The skills include firearms, computers, negotiation, leadership, and many others. You can also use the gained karma points to upgrade basic stats like hit points or charisma.</desc>
-		<image>./mixart/Shadowrun (USA).png</image>
-		<video>./snap/Shadowrun (USA).mp4</video>
-		<marquee>./wheel/Shadowrun (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19931101T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Beam Software</publisher>
-		<genre>Role playing games</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Soldiers of Fortune (USA).7z</path>
 		<name>Soldiers of Fortune</name>
 		<desc>Sixteen levels (in four groups of four) await you in this long-developed Bitmap Brothers title. The basic gameplay is similar to Gauntlet, but in an open air setting, with bridges across rivers and such in the maps. The visuals are in the 'metallic and blue' style the Bitmaps appeared to favor.
@@ -13432,44 +13378,6 @@ There were 6 characters available in the game, each with different strengths and
 		<publisher>Nintendo</publisher>
 		<genre>Strategy-Shooter / 3rd person</genre>
 		<players>1-2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Super Mario All-Stars + Super Mario World (USA).7z</path>
-		<name>Super Mario All-Stars + Super Mario World</name>
-		<desc>Put quite simply, this is the amalgamation of the previously released Super Mario All-Stars compilation with Super Mario World added. While games already in  the All-Stars bundle have major graphical and audio improvements, the only change made to Super Mario World is a slight tweak of Luigi's graphic sprites, making him slightly thinner and taller (rather than being the same height and stature of Mario) which does not affect gameplay.
-
-Altogether the following games are included:
-
-1. Super Mario Bros.
-2. Super Mario Bros.: The Lost Levels
-3. Super Mario Bros. 2
-4. Super Mario Bros. 3
-5. Super Mario World
-
-Super Mario All-Stars + Super Mario World could only be found in "Mario Set" bundled edition of the Super Nintendo console.</desc>
-		<image>./mixart/Super Mario All-Stars + Super Mario World (USA).png</image>
-		<video>./snap/Super Mario All-Stars + Super Mario World (USA).mp4</video>
-		<marquee>./wheel/Super Mario All-Stars + Super Mario World (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19941201T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform-Compilation-Action</genre>
-		<players>1-2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./New Super Mario Land.7z</path>
-		<name>'H'New Super Mario Land</name>
-		<desc>New Super Mario Land is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
-		<image>./mixart/New Super Mario Land.png</image>
-		<video>./snap/New Super Mario Land.mp4</video>
-		<marquee>./wheel/New Super Mario Land.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>2019</releasedate>
-		<developer>Homebrew</developer>
-		<publisher>Non-commercial</publisher>
 		<favorite>true</favorite>
 	</game>
 	<game>
@@ -13708,6 +13616,70 @@ The DS version has a wireless one-one-one multiplayer mode and includes the Puzz
 		<publisher>Non-commercial</publisher>
 	</game>
 	<game>
+		<path>./Metroid Super Zero Mission.7z</path>
+		<name>'H'Metroid Super Zero Mission</name>
+		<image>./mixart/Metroid Super Zero Mission.jpg</image>
+		<video>./snap/Metroid Super Zero Mission.mp4</video>
+		<marquee>./wheel/Metroid Super Zero Mission.png</marquee>
+	</game>
+	<game>
+		<path>./Super Mario All-Stars + Super Mario World (USA).7z</path>
+		<name>Super Mario All-Stars + Super Mario World</name>
+		<desc>Put quite simply, this is the amalgamation of the previously released Super Mario All-Stars compilation with Super Mario World added. While games already in  the All-Stars bundle have major graphical and audio improvements, the only change made to Super Mario World is a slight tweak of Luigi's graphic sprites, making him slightly thinner and taller (rather than being the same height and stature of Mario) which does not affect gameplay.
+
+Altogether the following games are included:
+
+1. Super Mario Bros.
+2. Super Mario Bros.: The Lost Levels
+3. Super Mario Bros. 2
+4. Super Mario Bros. 3
+5. Super Mario World
+
+Super Mario All-Stars + Super Mario World could only be found in "Mario Set" bundled edition of the Super Nintendo console.</desc>
+		<image>./mixart/Super Mario All-Stars + Super Mario World (USA).png</image>
+		<video>./snap/Super Mario All-Stars + Super Mario World (USA).mp4</video>
+		<marquee>./wheel/Super Mario All-Stars + Super Mario World (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19941201T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform-Compilation-Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Shadowrun (USA).7z</path>
+		<name>Shadowrun</name>
+		<desc>The SNES version of Shadowrun appeared earlier than the Genesis one, and it is an entirely different game, with different story and gameplay, although it is also based on a pen-and-paper RPG of the same name. Your hero, Jake, is attacked by assassins, and appears to be dead. However, a mysterious dog approaches his lifeless body, transforms into a woman, and casts a spell on him... After that Jake wakes up in the morgue. He doesn't know what happened to him, he doesn't even remember his own name. Wandering through the futuristic city, where monorails, computers, and street gangs armed with automatic weapons co-exist with orcs, dwarves, and vampires, you begin to discover the mystery and to learn about the dangers awaiting you around every corner.
+
+Shadowrun for SNES is a skill-based RPG that uses real time combat. You can hire "deckers", i.e., temporary party members, but the main focus of the gameplay is on Jake and his abilities and skills. There are no random battles, but many screens with respawning enemies, where you can earn experience points and upgrade your skills. The experience points are called "karma" in this game. You need to gain karma in order to advance in one of the several skills available to you. You'll also be able to buy skills from people. The skills include firearms, computers, negotiation, leadership, and many others. You can also use the gained karma points to upgrade basic stats like hit points or charisma.</desc>
+		<image>./mixart/Shadowrun (USA).png</image>
+		<video>./snap/Shadowrun (USA).mp4</video>
+		<marquee>./wheel/Shadowrun (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19931101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Beam Software</publisher>
+		<genre>Role playing games</genre>
+		<favorite>true</favorite>
+	</game>
+	<game id="2566" source="ScreenScraper.fr">
+		<path>./Arcana (USA).7z</path>
+		<name>Arcana</name>
+		<desc>In this game you play as a young boy named Rooks.  He's the only one that can save the world from the evil Galneon.  With the power of the cards he begins his adventure.
+
+All of the people you fight with and against are displayed on cards.  They can have an elemental attribute or not.  Rooks is able to summon an elemental to aid him.  He can only summon one type at a time, and he must find them before being able to summon them.</desc>
+		<image>./mixart/Arcana (USA).png</image>
+		<video>./snap/Arcana (USA).mp4</video>
+		<marquee>./wheel/Arcana (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19920501T000000</releasedate>
+		<developer>Hal America Inc.</developer>
+		<publisher>HAL Laboratory</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+	</game>
+	<game>
 		<path>./Hyper Street Kart.7z</path>
 		<name>'H'Hyper Street Kart</name>
 		<desc>Hack of Super Mario Kart. All the 8 drivers sprites have been replaced with fighters from Street Fighter II. New and modified Tracks.</desc>
@@ -13715,7 +13687,35 @@ The DS version has a wireless one-one-one multiplayer mode and includes the Puzz
 		<video>./snap/Hyper Street Kart.mp4</video>
 		<marquee>./wheel/Hyper Street Kart.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="19248" source="ScreenScraper.fr">
+		<path>./Zombies Ate My Neighbors (USA).7z</path>
+		<name>Zombies Ate My Neighbors</name>
+		<desc>In the game you are a male or female protagonist (Zeke or Julia), fighting the vampires, mummies, zombies, etc. on over 50 levels (not including secrets) and saving all of the people you find. There are defined number of neighbors you save on every level. When they are free then "Exit" door opens and you jump on next level.The levels differ from mall and grocery store to beaches and football fields. Using different weapons such as bazooka or water gun you have to kill the bosses such as huge babies, dragons or ants at the end of levels. You can play the game with two players cooperatively.</desc>
+		<image>./mixart/Zombies Ate My Neighbors (USA).png</image>
+		<video>./snap/Zombies Ate My Neighbors (USA).mp4</video>
+		<marquee>./wheel/Zombies Ate My Neighbors (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19930901T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>Konami - LucasArts</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./New Super Mario Land.7z</path>
+		<name>'H'New Super Mario Land</name>
+		<desc>New Super Mario Land is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
+		<image>./mixart/New Super Mario Land.png</image>
+		<video>./snap/New Super Mario Land.mp4</video>
+		<marquee>./wheel/New Super Mario Land.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2019</releasedate>
+		<developer>Homebrew</developer>
+		<publisher>Non-commercial</publisher>
 		<favorite>true</favorite>
 	</game>
 </gameList>

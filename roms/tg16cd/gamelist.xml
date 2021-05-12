@@ -94,23 +94,6 @@ Unlike the first Shadowgate, this is a platform game - not an action game, but a
 		<marquee>./wheel/Beyond Shadowgate.png</marquee>
 		<video>./snap/Beyond Shadowgate.mp4</video>
 	</game>
-	<game id="107054" source="ScreenScraper.fr">
-		<path>./Black Hole Assault.chd</path>
-		<name>Black Hole Assault</name>
-		<desc>According to Blackhole Assault, the 22nd century sees earth technology advance to the point where exploration of the immediate solar system is not only possible, but necessary due to resource constraints. Humans are attempting to harvest the resources of the entire solar system but have met with trouble from alien invaders. It is up to a small force of humans who recognize and understand the threat to confront the aliens head on.
-
-The weapon of choice in this game is the Cybernetic Anthropomorphized Machine, or C.A.M. The C.A.M. is a large robot that fights 1-on-1 against alien robots. All of the gameplay in Blackhole Assault revolves around single-round, 1-on-1 robot fighting action. There are 10 backdrops against which to beat up robots, including various planets and moons around the solar system.
-
-The game has 4 different modes. The main story mode is Operation BHA. The exhibition mode allows players to customize matches down to the robots each player will use and the backdrop to play on. The exhibition mode can be configured to allow one or even both fighters to be controlled by the computer. Further, the game has tournament and league modes.</desc>
-		<rating>0</rating>
-		<releasedate>19930723T000000</releasedate>
-		<developer>Micronet Co. Ltd.</developer>
-		<publisher>Micronet Co. Ltd.</publisher>
-		<hash>00000000</hash>
-		<image>./mixart/Black Hole Assault.png</image>
-		<marquee>./wheel/Black Hole Assault.png</marquee>
-		<video>./snap/Black Hole Assault.mp4</video>
-	</game>
 	<game id="106878" source="ScreenScraper.fr">
 		<path>./Blood Gear (Japan).chd</path>
 		<name>Blood Gear</name>
@@ -2147,16 +2130,6 @@ Riki's heart is burning with fury, and he flies out of the gates and seeks out h
 		<releasedate />
 	</game>
 	<game>
-		<path>./4 in 1 Super CD.chd</path>
-		<name>4 In 1 Super Cd</name>
-		<desc>This compilation disc was packed in with the TurboDuo in North America, giving buyers easy access to Bonk's Adventure, Bonk's Revenge, Bomberman, and Gate of Thunder.Despite appearing to contain only three games, Bomberman can be accessed by pressing Up, Right, Down, Left, II at the game select menu.</desc>
-		<image>./mixart/4 in 1 Super CD.png</image>
-		<video>./snap/4 in 1 Super CD.mp4</video>
-		<marquee>./wheel/4 in 1 Super CD.png</marquee>
-		<rating>0</rating>
-		<releasedate>19921010T000000</releasedate>
-	</game>
-	<game>
 		<path>./F1 Circus Special - Pole to Win.chd</path>
 		<name>F1 Circus Special - Pole To Win</name>
 		<desc>F1 Circus Special is a Formula 1 racing game. Players can choose between a world championship mode, which follows the path of one driver through the game's available courses in a linear fashion; a test drive mode, which allows players to choose any course as well as change rules and conditions (e.g. the amount of damage inflicted); and a time attack mode for competing against each other.</desc>
@@ -2405,6 +2378,32 @@ Last Alert is a shoot-em up played from a top-down perspective.  You move Guy ar
 		<publisher>NEC Technologies, Inc.</publisher>
 	</game>
 	<game>
+		<path>./4 in 1 Super CD.chd</path>
+		<name>4 In 1 Super Cd</name>
+		<desc>This compilation disc was packed in with the TurboDuo in North America, giving buyers easy access to Bonk's Adventure, Bonk's Revenge, Bomberman, and Gate of Thunder.Despite appearing to contain only three games, Bomberman can be accessed by pressing Up, Right, Down, Left, II at the game select menu.</desc>
+		<image>./mixart/4 in 1 Super CD.png</image>
+		<video>./snap/4 in 1 Super CD.mp4</video>
+		<marquee>./wheel/4 in 1 Super CD.png</marquee>
+		<rating>0</rating>
+		<releasedate>19921010T000000</releasedate>
+	</game>
+	<game>
+		<path>./Black Hole Assault.chd</path>
+		<name>Black Hole Assault</name>
+		<desc>According to Blackhole Assault, the 22nd century sees earth technology advance to the point where exploration of the immediate solar system is not only possible, but necessary due to resource constraints. Humans are attempting to harvest the resources of the entire solar system but have met with trouble from alien invaders. It is up to a small force of humans who recognize and understand the threat to confront the aliens head on.
+
+The weapon of choice in this game is the Cybernetic Anthropomorphized Machine, or C.A.M. The C.A.M. is a large robot that fights 1-on-1 against alien robots. All of the gameplay in Blackhole Assault revolves around single-round, 1-on-1 robot fighting action. There are 10 backdrops against which to beat up robots, including various planets and moons around the solar system.
+
+The game has 4 different modes. The main story mode is Operation BHA. The exhibition mode allows players to customize matches down to the robots each player will use and the backdrop to play on. The exhibition mode can be configured to allow one or even both fighters to be controlled by the computer. Further, the game has tournament and league modes.</desc>
+		<image>./mixart/Black Hole Assault.png</image>
+		<video>./snap/Black Hole Assault.mp4</video>
+		<marquee>./wheel/Black Hole Assault.png</marquee>
+		<rating>0</rating>
+		<releasedate>19930723T000000</releasedate>
+		<developer>Micronet Co. Ltd.</developer>
+		<publisher>Micronet Co. Ltd.</publisher>
+	</game>
+	<game>
 		<path>./Prince of Persia.chd</path>
 		<name>Prince Of Persia</name>
 		<desc>While the Sultan of Persia is fighting a war in a foreign country, his Grand Vizier Jaffar orchestrates a coup d'état. His way to the throne lies through the Sultan's lovely daughter. Jaffar kidnaps her and threatens to kill her if she refuses to marry him. Meanwhile, the man the Princess loves is thrown into the dungeon. He has only one hour to escape from his prison, defeat the guards on his way, and stop Jaffar before the terrible marriage takes place.
@@ -2421,5 +2420,6 @@ The Game Boy Color and SNES versions of the game feature additional levels and n
 		<releasedate>19700101T000000</releasedate>
 		<publisher>Riverhill Soft Inc.</publisher>
 		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

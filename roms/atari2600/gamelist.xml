@@ -56,21 +56,6 @@ The games were:
 		<video>./snap/32 in 1 Game Cartridge (Europe).mp4</video>
 		<hidden>false</hidden>
 	</game>
-	<game id="14001" source="ScreenScraper.fr">
-		<path>./3-D Tic-Tac-Toe (USA).zip</path>
-		<name>3-D Tic-Tac-Toe</name>
-		<desc>The game is similar to the traditional game of tic-tac-toe, but is played on four 4x4 grids stacked vertically; it is basically a computerized version of the board game Qubic using traditional tic-tac-toe notation and layout. To win, a player must place four of their symbols on four squares that line up vertically, horizontally, or diagonally, on a single grid, or spaced evenly over all four grids. This creates a total of 76 possible ways to win, in comparison to eight possible ways to win on a standard 3Ã3 board. The game has nine variations: it can be played by two players against each other, or one player can play against a built-in AI on one of eight different difficulty settings. The game uses the standard joystick controller.</desc>
-		<rating>0.5</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Sears, Roebuck and Co.</developer>
-		<publisher>Atari</publisher>
-		<genre>Simulation</genre>
-		<players>1-2</players>
-		<image>./mixart/3-D Tic-Tac-Toe (USA).png</image>
-		<marquee>./wheel/3-D Tic-Tac-Toe (USA).png</marquee>
-		<video>./snap/3-D Tic-Tac-Toe (USA).mp4</video>
-		<hidden>false</hidden>
-	</game>
 	<game id="51264" source="ScreenScraper.fr">
 		<path>./Mysterious Thief, A (USA) (Proto).zip</path>
 		<name>A Mysterious Thief</name>
@@ -11064,33 +11049,6 @@ Dragon=750 points</desc>
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./2005 Minigame Multicart (USA) (Unl).zip</path>
-		<name>2005 MiniGame MultiCart</name>
-		<desc>This cartridge contains six of the 1 kilobyte entries and one 4 kilobyte entry from the 2005 Minigame Competition with an onscreen menu for selecting the games. The games are:
-
-1. Hunchy: inspired by the Century Electronics game Hunchback, the player takes the role of Quasimodo and must rescue Esmeralda from the cathedral of Notre Dame. Quasimoto can jump across the roof, avoiding guards and assorted missiles.
-
-2. Jetman: inspired by the 8-bit computer game Jetpac, the player must fuel a rocket but avoid getting shot from an unseen attacker.
-
-3. Nightrider: the player is running from a hostile government. They are pursuing you with a helicopter. Just keep running and watch out for the terrain. The farther and longer along the Nightrider goes, the more freedom is worth.
-
-4. Zirconium: an alien race, not carbon-based but zirconium-based, have invaded the galaxy. They have set space mines to protect their mothership. The player takes the role of Captain Joe Diamond, and must fight his way through these mines and destroy the mothership. Careful about hitting mines, as the ship can only take so many blows. Grab any power packs you can.
-
-5. Rocket Command: magma beings are invading from the inside of a volcano. As the rocket commander, the player must destroy these beings' ships before they launch into the sky.
-
-6. M-4: a port of a 1977 Midway arcade game of the same name. The player has unlimited lives and 90 seconds to destroy all that is seen for points. Points are awarded for hitting the wall, the opponent tank, a car and an airplane. If the player or the opponent are hit, the wall is rebuilt and both are returned to thier starting points, but the clock never pauses.
-
-7. Marble Jumper: this is a puzzle game where the object is to clear the board of all but 1 marble, with the last one being in the middle. There are 33 squares and 16 marbles. The player clears marbles by jumping them vertically or horizontally, like in checkers. Diagonal jumps are not allowed.</desc>
-		<image>./mixart/2005 Minigame Multicart (USA) (Unl).png</image>
-		<video>./snap/2005 Minigame Multicart (USA) (Unl).mp4</video>
-		<marquee>./wheel/2005 Minigame Multicart (USA) (Unl).png</marquee>
-		<rating>0.9</rating>
-		<releasedate />
-		<developer>AtariAge</developer>
-		<publisher>AtariAge</publisher>
-		<genre>Various-Strategy</genre>
-	</game>
-	<game>
 		<path>./Warlords (USA).zip</path>
 		<name>Warlords</name>
 		<desc>In Warlords, you need to defend yourself from three human and/or computer players. Each of the four players are in one of the corners of the screen guarded by a castle. You control a small shield which can be moved around the edge of the castle. To survive you need to use the shield to block a ball which bounces around the screen. If the ball hits your castle, it will take out some of the bricks. If a hole forms in the castle wall and the ball makes it though and hits your warlord, then you are out of the game. The last player left alive wins the battle, and the first player to win five battles wins the game! Several game options are included which allow you to either catch or ricochet the ball when the shield touches it, and control the speed of the game.</desc>
@@ -11166,38 +11124,6 @@ This game was inspired by the TRS-80 CoCo game The Phantom Slayer. In this title
 		<genre>Adventure</genre>
 	</game>
 	<game>
-		<path>./Barnstorming (USA).zip</path>
-		<name>Barnstorming</name>
-		<desc>In Barnstorming, you are the pilot of a biplane. Your point of view is from the side as the screen scrolls by horizontally. Your goal is to fly through a set number of barns in the shortest amount of time possible. Several obstacles will appear in your way, including flocks of geese, windmills, and weather vanes. Crashing into any of these will cause you to lose speed which will increase your overall time. There are several difficulty levels included which will require that you fly through anywhere from 10 to 25 barns.</desc>
-		<image>./mixart/Barnstorming (USA).png</image>
-		<video>./snap/Barnstorming (USA).mp4</video>
-		<marquee>./wheel/Barnstorming (USA).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Activision</developer>
-		<publisher>Activision</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./E.T. - The Extra-Terrestrial (USA).zip</path>
-		<name>E.T. : The Extra-Terrestrial</name>
-		<desc>E.T. The Extra-Terrestrial is a licensed adventure game, based on the movie. The adventure takes place on several screens with pits scattered about. The object of the game is to find pieces of E.T.'s phone. Once all pieces are found, E.T. calls home and the spaceship arrives to pick him up. E.T. can collect Reese's Pieces scattered around in order to regain energy which is constantly depleted with time. 
-
-The phone pieces are in some of the pits, and E.T. must jump in to get them; sometimes there's also a dead flower in the pit which provides extra points if brought back to life. Once E.T. has done his business in the pit, to get out he must levitate his way out, though he must watch out not to fall into the pit again after leaving. 
-
-Evil scientists and agents wander around the area, trying to capture E.T. and steal the parts he's carrying.</desc>
-		<image>./mixart/E.T. - The Extra-Terrestrial (USA).png</image>
-		<video>./snap/E.T. - The Extra-Terrestrial (USA).mp4</video>
-		<marquee>./wheel/E.T. - The Extra-Terrestrial (USA).png</marquee>
-		<rating>0.2</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Action-Adventure-Action</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Saboteur (USA) (Proto).zip</path>
 		<name>Saboteur</name>
 		<desc>You are Hotot, a cybernetic life form from a serene planet in a distant galaxy. Unfortunately, even in a galaxy far far away not everything is as peaceful as it first seems, for Hotot has discovered an alien missile base hidden on his planet. Manned by strange blue aliens, these evil intruders are using your planet as a launching site for their deadly warhead which is posed to destroy the galaxy's power source. With the help of the birdlike Gorfons, you must destroy the warhead, and prevent the destruction of the galaxy! Good luck Hotot. You are the Saboteur.
@@ -11268,19 +11194,85 @@ These include:
 		<genre>Sports</genre>
 	</game>
 	<game>
-		<path>./Demon Attack (USA).zip</path>
-		<name>Demon Attack</name>
-		<desc>Demon Attack is an arcade action game with gameplay similar to Space Invaders. You control a laser canon at the bottom of the screen, and need to destroy wave after wave of brightly colored demons. The demons bounce around the screen in bizarre patterns, and try to destroy your canon with bombs or lasers. When you shoot a demon, it will be replaced with another or will split into two smaller demons depending on which wave you are playing. When the required number of demons for the current round is finally destroyed, you can move on to the next, more difficult round.</desc>
-		<image>./mixart/Demon Attack (USA).png</image>
-		<video>./snap/Demon Attack (USA).mp4</video>
-		<marquee>./wheel/Demon Attack (USA).png</marquee>
-		<rating>0.75</rating>
+		<path>./2005 Minigame Multicart (USA) (Unl).zip</path>
+		<name>2005 MiniGame MultiCart</name>
+		<desc>This cartridge contains six of the 1 kilobyte entries and one 4 kilobyte entry from the 2005 Minigame Competition with an onscreen menu for selecting the games. The games are:
+
+1. Hunchy: inspired by the Century Electronics game Hunchback, the player takes the role of Quasimodo and must rescue Esmeralda from the cathedral of Notre Dame. Quasimoto can jump across the roof, avoiding guards and assorted missiles.
+
+2. Jetman: inspired by the 8-bit computer game Jetpac, the player must fuel a rocket but avoid getting shot from an unseen attacker.
+
+3. Nightrider: the player is running from a hostile government. They are pursuing you with a helicopter. Just keep running and watch out for the terrain. The farther and longer along the Nightrider goes, the more freedom is worth.
+
+4. Zirconium: an alien race, not carbon-based but zirconium-based, have invaded the galaxy. They have set space mines to protect their mothership. The player takes the role of Captain Joe Diamond, and must fight his way through these mines and destroy the mothership. Careful about hitting mines, as the ship can only take so many blows. Grab any power packs you can.
+
+5. Rocket Command: magma beings are invading from the inside of a volcano. As the rocket commander, the player must destroy these beings' ships before they launch into the sky.
+
+6. M-4: a port of a 1977 Midway arcade game of the same name. The player has unlimited lives and 90 seconds to destroy all that is seen for points. Points are awarded for hitting the wall, the opponent tank, a car and an airplane. If the player or the opponent are hit, the wall is rebuilt and both are returned to thier starting points, but the clock never pauses.
+
+7. Marble Jumper: this is a puzzle game where the object is to clear the board of all but 1 marble, with the last one being in the middle. There are 33 squares and 16 marbles. The player clears marbles by jumping them vertically or horizontally, like in checkers. Diagonal jumps are not allowed.</desc>
+		<image>./mixart/2005 Minigame Multicart (USA) (Unl).png</image>
+		<video>./snap/2005 Minigame Multicart (USA) (Unl).mp4</video>
+		<marquee>./wheel/2005 Minigame Multicart (USA) (Unl).png</marquee>
+		<rating>0.9</rating>
+		<releasedate />
+		<developer>AtariAge</developer>
+		<publisher>AtariAge</publisher>
+		<genre>Various-Strategy</genre>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./3-D Tic-Tac-Toe (USA).zip</path>
+		<name>3-D Tic-Tac-Toe</name>
+		<desc>The game is similar to the traditional game of tic-tac-toe, but is played on four 4x4 grids stacked vertically; it is basically a computerized version of the board game Qubic using traditional tic-tac-toe notation and layout. To win, a player must place four of their symbols on four squares that line up vertically, horizontally, or diagonally, on a single grid, or spaced evenly over all four grids. This creates a total of 76 possible ways to win, in comparison to eight possible ways to win on a standard 3Ã3 board. The game has nine variations: it can be played by two players against each other, or one player can play against a built-in AI on one of eight different difficulty settings. The game uses the standard joystick controller.</desc>
+		<image>./mixart/3-D Tic-Tac-Toe (USA).png</image>
+		<video>./snap/3-D Tic-Tac-Toe (USA).mp4</video>
+		<marquee>./wheel/3-D Tic-Tac-Toe (USA).png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Sears, Roebuck and Co.</developer>
+		<publisher>Atari</publisher>
+		<genre>Simulation</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Barnstorming (USA).zip</path>
+		<name>Barnstorming</name>
+		<desc>In Barnstorming, you are the pilot of a biplane. Your point of view is from the side as the screen scrolls by horizontally. Your goal is to fly through a set number of barns in the shortest amount of time possible. Several obstacles will appear in your way, including flocks of geese, windmills, and weather vanes. Crashing into any of these will cause you to lose speed which will increase your overall time. There are several difficulty levels included which will require that you fly through anywhere from 10 to 25 barns.</desc>
+		<image>./mixart/Barnstorming (USA).png</image>
+		<video>./snap/Barnstorming (USA).mp4</video>
+		<marquee>./wheel/Barnstorming (USA).png</marquee>
+		<rating>0.65</rating>
 		<releasedate>19820101T000000</releasedate>
-		<developer>Imagic</developer>
-		<publisher>Imagic</publisher>
-		<genre>Shooter-Action</genre>
-		<players>1-2</players>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./E.T. - The Extra-Terrestrial (USA).zip</path>
+		<name>E.T. : The Extra-Terrestrial</name>
+		<desc>E.T. The Extra-Terrestrial is a licensed adventure game, based on the movie. The adventure takes place on several screens with pits scattered about. The object of the game is to find pieces of E.T.'s phone. Once all pieces are found, E.T. calls home and the spaceship arrives to pick him up. E.T. can collect Reese's Pieces scattered around in order to regain energy which is constantly depleted with time. 
+
+The phone pieces are in some of the pits, and E.T. must jump in to get them; sometimes there's also a dead flower in the pit which provides extra points if brought back to life. Once E.T. has done his business in the pit, to get out he must levitate his way out, though he must watch out not to fall into the pit again after leaving. 
+
+Evil scientists and agents wander around the area, trying to capture E.T. and steal the parts he's carrying.</desc>
+		<image>./mixart/E.T. - The Extra-Terrestrial (USA).png</image>
+		<video>./snap/E.T. - The Extra-Terrestrial (USA).mp4</video>
+		<marquee>./wheel/E.T. - The Extra-Terrestrial (USA).png</marquee>
+		<rating>0.2</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action-Adventure-Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 	<game>
 		<path>./Fast Food (USA).zip</path>
@@ -11313,6 +11305,25 @@ The food calorie count, from lowest to highest, is:
 		<genre>Action</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Demon Attack (USA).zip</path>
+		<name>Demon Attack</name>
+		<desc>Demon Attack is an arcade action game with gameplay similar to Space Invaders. You control a laser canon at the bottom of the screen, and need to destroy wave after wave of brightly colored demons. The demons bounce around the screen in bizarre patterns, and try to destroy your canon with bombs or lasers. When you shoot a demon, it will be replaced with another or will split into two smaller demons depending on which wave you are playing. When the required number of demons for the current round is finally destroyed, you can move on to the next, more difficult round.</desc>
+		<image>./mixart/Demon Attack (USA).png</image>
+		<video>./snap/Demon Attack (USA).mp4</video>
+		<marquee>./wheel/Demon Attack (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Imagic</developer>
+		<publisher>Imagic</publisher>
+		<genre>Shooter-Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 	<game>
 		<path>./Adventure (USA).zip</path>
@@ -11335,5 +11346,7 @@ Adventure was the first action-adventure game on a video console, the first to c
 		<publisher>Atari</publisher>
 		<genre>Adventure</genre>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

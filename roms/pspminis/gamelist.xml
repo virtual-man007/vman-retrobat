@@ -43,18 +43,6 @@
 		<video>./snap/3D Twist &amp; Match.mp4</video>
 		<genreid>2816</genreid>
 	</game>
-	<game id="29275" source="ScreenScraper.fr">
-		<path>./4x4 Jam.cso</path>
-		<name>4×4 Jam</name>
-		<desc>Find yourself behind the wheels of off-road vehicles in 4x4 JAM. Jump over your opponent or roll down a steep hill. No rules, no boundaries, racing is sheer fun.</desc>
-		<releasedate>20100623T000000</releasedate>
-		<developer>Invictus Games</developer>
-		<genre>Race, Driving-Race, Driving / Race-Various</genre>
-		<image>./mixart/4x4 Jam.png</image>
-		<marquee>./wheel/4x4 Jam.png</marquee>
-		<video>./snap/4x4 Jam.mp4</video>
-		<genreid>1537</genreid>
-	</game>
 	<game id="29290" source="ScreenScraper.fr">
 		<path>./5-in-1 Solitaire.cso</path>
 		<name>5 In 1 Solitaire</name>
@@ -156,21 +144,6 @@ Players can enjoy the following four different game modes:
 		<video>./snap/Age of Hammer Wars.mp4</video>
 		<genreid>260</genreid>
 	</game>
-	<game id="28676" source="ScreenScraper.fr">
-		<path>./Age of Zombies.cso</path>
-		<name>Age Of Zombies</name>
-		<desc>In the Age of Zombies, our hero Barry Steakfries employs the use of time portals to stop the evil zombie scheme of Professor Brains. Using a huge pile of weapons and explosives, Steakfries is the real deal for blood-splattering needs. Played as a top-down shooter and offering style and flair through humor, intense action and zombie blasting carnage, Age of Zombies puts Steakfries up against the zombie masses and says, "good luck!"</desc>
-		<rating>0.8</rating>
-		<releasedate>20100225T000000</releasedate>
-		<developer>Halfbrick</developer>
-		<publisher>Halfbrick</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-		<image>./mixart/Age of Zombies.png</image>
-		<marquee>./wheel/Age of Zombies.png</marquee>
-		<video>./snap/Age of Zombies.mp4</video>
-		<genreid>260</genreid>
-	</game>
 	<game id="28747" source="ScreenScraper.fr">
 		<path>./Alien Havoc.cso</path>
 		<name>Alien Havoc</name>
@@ -239,21 +212,6 @@ Using your defense ship 'Syd,' you must destroy the invading forces and ground t
 		<marquee>./wheel/Ancient Game Treasures Mill.png</marquee>
 		<video>./snap/Ancient Game Treasures Mill.mp4</video>
 		<genreid>2048</genreid>
-	</game>
-	<game id="28005" source="ScreenScraper.fr">
-		<path>./Angry Birds.cso</path>
-		<name>Angry Birds</name>
-		<desc>The survival of the Angry Birds is at stake. Dish out revenge on the green pigs who stole the Birds' eggs. Use the unique destructive powers of the Angry Birds to lay waste to the pigs' fortified castles. Angry Birds features hours of gameplay, challenging physics-based castle demolition, and lots of replay value. Each of the 63 levels requires logic, skill, and brute force to crush the enemy.</desc>
-		<rating>0.85</rating>
-		<releasedate>20110112T000000</releasedate>
-		<developer>Rovio Mobile</developer>
-		<publisher>Chillingo</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Angry Birds.png</image>
-		<marquee>./wheel/Angry Birds.png</marquee>
-		<video>./snap/Angry Birds.mp4</video>
-		<genreid>256</genreid>
 	</game>
 	<game id="28996" source="ScreenScraper.fr">
 		<path>./Apache Overkill.cso</path>
@@ -2729,23 +2687,6 @@ The launch pad is all set. Are you ready to get into Orbit?</desc>
 		<video>./snap/Pachisi.mp4</video>
 		<genreid>2048</genreid>
 	</game>
-	<game id="28759" source="ScreenScraper.fr">
-		<path>./Pac-Man Championship Edition.cso</path>
-		<name>Pac-man Championship Edition</name>
-		<desc>Pac-Man Championship Edition is similar in basic gameplay to the original 1980 Pac-Man: players have to eat dots, while avoiding the four ghosts that roam around the maze. Championship Edition, however, also brings many gameplay differences. 
- 
-The game was designed by the creator of the classic original 1980 arcade game Pac-Man, and it was Iwatani's final game before his retirement.</desc>
-		<rating>0.9</rating>
-		<releasedate>20090101T000000</releasedate>
-		<developer>Bandai Namco</developer>
-		<publisher>Bandai Namco</publisher>
-		<genre>Action-Action / Labyrinth-Various</genre>
-		<players>1</players>
-		<image>./mixart/Pac-Man Championship Edition.png</image>
-		<marquee>./wheel/Pac-Man Championship Edition.png</marquee>
-		<video>./snap/Pac-Man Championship Edition.mp4</video>
-		<genreid>258</genreid>
-	</game>
 	<game id="29429" source="ScreenScraper.fr">
 		<path>./Pallurikio.cso</path>
 		<name>Pallurikio</name>
@@ -3633,16 +3574,6 @@ Some of the objects have to be collected in one screen to be used in another pla
 		<video>./snap/Next Space, The.mp4</video>
 		<genreid>260</genreid>
 	</game>
-	<game id="28814" source="ScreenScraper.fr">
-		<path>./Terminator, The.cso</path>
-		<name>The Terminator</name>
-		<desc>The Terminator est un mini-jeu d'action futuriste disponible sur Playstation Portable. Le titre prend place en l'an 2029 où les machines tentent de détruire la planète. Incarnez Kyle Reese et partez à la recherche de John Connor pour sauver l'humanité de la colère de Skynet.</desc>
-		<releasedate>20100211T000000</releasedate>
-		<genre>Various</genre>
-		<image>./mixart/Terminator, The.png</image>
-		<marquee>./wheel/Terminator, The.png</marquee>
-		<video>./snap/Terminator, The.mp4</video>
-	</game>
 	<game id="29443" source="ScreenScraper.fr">
 		<path>./Treasures of Montezuma, The.cso</path>
 		<name>The Treasures of Montezuma</name>
@@ -4140,5 +4071,71 @@ Join Rana, Captain Bluebell and Mr Yoho as they deal outsky-pirate justice! Make
 		<developer>Mediatonic</developer>
 		<publisher>Mediatonic</publisher>
 		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./4x4 Jam.cso</path>
+		<name>4×4 Jam</name>
+		<desc>Find yourself behind the wheels of off-road vehicles in 4x4 JAM. Jump over your opponent or roll down a steep hill. No rules, no boundaries, racing is sheer fun.</desc>
+		<image>./mixart/4x4 Jam.png</image>
+		<video>./snap/4x4 Jam.mp4</video>
+		<marquee>./wheel/4x4 Jam.png</marquee>
+		<releasedate>20100623T000000</releasedate>
+		<developer>Invictus Games</developer>
+		<genre>Race, Driving-Race, Driving / Race-Various</genre>
+	</game>
+	<game>
+		<path>./Age of Zombies.cso</path>
+		<name>Age Of Zombies</name>
+		<desc>In the Age of Zombies, our hero Barry Steakfries employs the use of time portals to stop the evil zombie scheme of Professor Brains. Using a huge pile of weapons and explosives, Steakfries is the real deal for blood-splattering needs. Played as a top-down shooter and offering style and flair through humor, intense action and zombie blasting carnage, Age of Zombies puts Steakfries up against the zombie masses and says, "good luck!"</desc>
+		<image>./mixart/Age of Zombies.png</image>
+		<video>./snap/Age of Zombies.mp4</video>
+		<marquee>./wheel/Age of Zombies.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20100225T000000</releasedate>
+		<developer>Halfbrick</developer>
+		<publisher>Halfbrick</publisher>
+		<genre>Shoot'em Up</genre>
+	</game>
+	<game>
+		<path>./Terminator, The.cso</path>
+		<name>The Terminator</name>
+		<desc>The Terminator est un mini-jeu d'action futuriste disponible sur Playstation Portable. Le titre prend place en l'an 2029 où les machines tentent de détruire la planète. Incarnez Kyle Reese et partez à la recherche de John Connor pour sauver l'humanité de la colère de Skynet.</desc>
+		<image>./mixart/Terminator, The.png</image>
+		<video>./snap/Terminator, The.mp4</video>
+		<marquee>./wheel/Terminator, The.png</marquee>
+		<releasedate>20100211T000000</releasedate>
+		<genre>Various</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Angry Birds.cso</path>
+		<name>Angry Birds</name>
+		<desc>The survival of the Angry Birds is at stake. Dish out revenge on the green pigs who stole the Birds' eggs. Use the unique destructive powers of the Angry Birds to lay waste to the pigs' fortified castles. Angry Birds features hours of gameplay, challenging physics-based castle demolition, and lots of replay value. Each of the 63 levels requires logic, skill, and brute force to crush the enemy.</desc>
+		<image>./mixart/Angry Birds.png</image>
+		<video>./snap/Angry Birds.mp4</video>
+		<marquee>./wheel/Angry Birds.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20110112T000000</releasedate>
+		<developer>Rovio Mobile</developer>
+		<publisher>Chillingo</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Pac-Man Championship Edition.cso</path>
+		<name>Pac-man Championship Edition</name>
+		<desc>Pac-Man Championship Edition is similar in basic gameplay to the original 1980 Pac-Man: players have to eat dots, while avoiding the four ghosts that roam around the maze. Championship Edition, however, also brings many gameplay differences. 
+ 
+The game was designed by the creator of the classic original 1980 arcade game Pac-Man, and it was Iwatani's final game before his retirement.</desc>
+		<image>./mixart/Pac-Man Championship Edition.png</image>
+		<video>./snap/Pac-Man Championship Edition.mp4</video>
+		<marquee>./wheel/Pac-Man Championship Edition.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Action-Action / Labyrinth-Various</genre>
+		<favorite>true</favorite>
 	</game>
 </gameList>

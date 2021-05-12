@@ -100,25 +100,6 @@ In the single-player campaign mode, the player assumes control of the various fa
 		<video>./snap/Bomberman Blast.mp4</video>
 		<genreid>256</genreid>
 	</game>
-	<game id="9039" source="ScreenScraper.fr">
-		<path>./A Boy and his Blob [NTSC-U].cc.rvz</path>
-		<name>Boy And His Blob, A</name>
-		<desc>The far-off kingdom of Blobolonia is threatened by an evil emperor.  An alien blob escapes from Blobolonia, searching for help, and he crash lands on planet Earth.  There he finds a young boy.  Help the pair save Blobolonia from the Emperor's tyrannical reign!
-
-A Boy and his Blob is based on David Crane's Nintendo game of the same name.  As the nameless Boy, you have control over an alien blob who can transform into different objects when you feed him different flavored jellybeans.  The transformations are usually based on puns (for example, punch is a hole, apple is a jack and licorice is a ladder) or similar sounding names (such as tangerine trampoline and pear parachute).  Using the different tools that Blob can transform into, it's up to the player to reach the exit door at the end of each level.
-
-Each level also has three hidden treasure chests in it.  If all three are found, a bonus level is unlocked.  The bonus levels are Challenge Levels, which are more difficult, and often based around using a specific skill or jellybean flavor.  Completing these levels unlocks special rewards such as concept art, videos and new game modes.</desc>
-		<rating>0.9</rating>
-		<releasedate>20091013T000000</releasedate>
-		<developer>Wayforward Technologies</developer>
-		<publisher>Majesco</publisher>
-		<genre>Action-Platform-Puzzle-Game</genre>
-		<players>1</players>
-		<image>./mixart/A Boy and his Blob [NTSC-U].cc.png</image>
-		<marquee>./wheel/A Boy and his Blob [NTSC-U].cc.png</marquee>
-		<video>./snap/A Boy and his Blob [NTSC-U].cc.mp4</video>
-		<genreid>257</genreid>
-	</game>
 	<game id="9810" source="ScreenScraper.fr">
 		<path>./Castle of Shikigami III [NTSC-U].cc.rvz</path>
 		<name>Castle of Shikigami III</name>
@@ -135,23 +116,6 @@ There are five different stages to play in, each of them divided into two chapte
 		<marquee>./wheel/Castle of Shikigami III [NTSC-U].cc.png</marquee>
 		<video>./snap/Castle of Shikigami III [NTSC-U].cc.mp4</video>
 		<genreid>260</genreid>
-	</game>
-	<game id="9144" source="ScreenScraper.fr">
-		<path>./Castlevania ReBirth.wad</path>
-		<name>Castlevania : The Adventure Rebirth</name>
-		<desc>The classic Castlevania game is reborn for the Wii with all-new upgrades. 
- 
-Another 100 years has passed since the death of Count Dracula, but the revival of his curse has emerged once again within the realms of Transylvania. Play the role of the ultimate gothic hero from the long lineage of vampire hunters, the Belmont clan, and rid the universe of Dracula s legion of darkness and doom. Based on the classic 1989 original Castlevania: The Adventure, the WiiWare version will allow players of a new generation and older fans to experience one of the most popular games within the storied Castlevania timeline from a new perspective.</desc>
-		<rating>0.7</rating>
-		<releasedate>20091228T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<image>./mixart/Castlevania ReBirth.png</image>
-		<marquee>./wheel/Castlevania ReBirth.png</marquee>
-		<video>./snap/Castlevania ReBirth.mp4</video>
-		<genreid>257</genreid>
 	</game>
 	<game id="8891" source="ScreenScraper.fr">
 		<path>./Castlevania Judgment [NTSC-U].cc.rvz</path>
@@ -230,21 +194,6 @@ Chief Salamander and his Neo-Salamander Force travel back to 1973 AD to invade E
 		<marquee>./wheel/Dokapon Kingdom (USA).cc.png</marquee>
 		<video>./snap/Dokapon Kingdom (USA).cc.mp4</video>
 		<genreid>2304</genreid>
-	</game>
-	<game id="8712" source="ScreenScraper.fr">
-		<path>./Donkey Kong Country Returns (USA) (En,Fr,Es) (Rev 1).cc.rvz</path>
-		<name>Donkey Kong Country Returns</name>
-		<desc>Under the influence of a group of evil Tikis, the animals of Donkey Kong Island have raided Donkey Kong's banana hoard and stolen his stash of bananas - and being an ape of large appetites he understandably wants them back. Good thing that you are along for the ride. With Donkey Kong Country Returns, Retro Studios brings Donkey Kong back to a banana and platforming hungry public in a new side-scrolling adventure with familiar characters and new levels that reignite the passion players had for the Super NES original and all things Donkey Kong.</desc>
-		<rating>0.9</rating>
-		<releasedate>20101203T000000</releasedate>
-		<developer>Retro Studios</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action-Platform</genre>
-		<players>2</players>
-		<image>./mixart/Donkey Kong Country Returns (USA) (En,Fr,Es) (Rev 1).cc.png</image>
-		<marquee>./wheel/Donkey Kong Country Returns (USA) (En,Fr,Es) (Rev 1).cc.png</marquee>
-		<video>./snap/Donkey Kong Country Returns (USA) (En,Fr,Es) (Rev 1).cc.mp4</video>
-		<genreid>257</genreid>
 	</game>
 	<game id="9664" source="ScreenScraper.fr">
 		<path>./Dr Mario Online Rx.wad</path>
@@ -689,21 +638,6 @@ Also on the Nintendo Wii this year is support for Wii motion plus allowing for 1
 		<video>./snap/Pulseman.mp4</video>
 		<genreid>257</genreid>
 	</game>
-	<game id="8792" source="ScreenScraper.fr">
-		<path>./Punch-Out!! (USA) (En,Fr,Es).cc.rvz</path>
-		<name>Punch-Out!!</name>
-		<desc>One of the biggest names in boxing returns after a 15-year hiatus. In Punch-Out!! you play as young up-and-coming fighter Little Mac who, with the help of his ringside trainer Doc Lewis, is working his way through the ranks of a wide variety of boxing caricatures, each with their own patterns of attacks. Grab a Wii Remote controller in one hand and a Nunchuk controller in the other and step back into the ring with a modern update of the classic Punch-Out!!Little Mac Is BackEveryone?s favorite underdog from the 1980s joins the best of the original Punch-Out!! cast in a modern re-imagining of the series. Players will find familiar names like Glass Joe, King Hippo and trainer Doc Louis. These boxers come to life again in cell-shaded 3-D, complete with hilarious fighting animations and back stories that capture all the fun and flair of the original Punch-Out!! games.The Wii's Motion SensitivityThe motion-sensitive controls of the Wii console mean that when players throw punches, Little Mac throws punches as well. Additionally, you can control hooks and jabs by combining motion control with control-stick movement. The motion-sensing Wii Remote and Nunchuk controllers turn real-life swings into on-screen punches, so anyone can play. The game can also be played with classic NES-style controls by turning the Wii Remote sideways.CharactersPunch-Out!! features a total of 13 opponents for Little Mac to step into the ring with. 12 of which are returning from previous games in the Punch-Out!! series. Each has their own back story and patterns of attacks to learn and learns to counter. Just a few of the characters you can expect to see are:Little MacSmall but extremely game, Little Mac is a young, up-and-coming fighter, who with the help of his trainer, ex-champion Doc Lewis, has set his sights on working his way through the ranks.Glass JoeA fearful French fighter due to his extremely weak chin, Glass Joe will crumple to the mat quickly with just a few well-placed shots, making him an easy mark and a good warm-up for the fighters to follow.King HippoKing Hippo is both huge and an immensely powerful fighter, but can be weakened with the right combinations to the head and body, giving you time to go for the knockout if you can survive his onslaught.Von KaiserAn old-timey fighter whose rumored childhood difficulties have left him eager to dish out punishment in the ring, Von Kaiser is a dangerous opponent, but one who will turn tail if you can find his weakness.Special AttacksPlayers can obtain special 'Star Punches,' which allow Little Mac to take more health from his rival in a single punch. Players can now use multiple stars in a single punch for an extra-powerful attack.Controller OptionsPunch-Out!! features multiple controller options. For players looking to take advantage of the Wii's motion control capabilities, Punch-Out!! uses the Wii Remote and Nunchuck controllers to simulate throwing punches. Use the Nunchuck to throw a left punch and the Wii Remote to throw a right punch. Fans of the NES version and core gamers will be excited to see Nintendo has also included the option to play Punch-Out!! using the classic layout from the original NES controller. Use the 1 and 2 buttons along with the cross pad to throw hooks and jabs or to dodge.</desc>
-		<rating>0.9</rating>
-		<releasedate>20090518T000000</releasedate>
-		<developer>Next Level Games</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Sports-Fight</genre>
-		<players>2</players>
-		<image>./mixart/Punch-Out!! (USA) (En,Fr,Es).cc.png</image>
-		<marquee>./wheel/Punch-Out!! (USA) (En,Fr,Es).cc.png</marquee>
-		<video>./snap/Punch-Out!! (USA) (En,Fr,Es).cc.mp4</video>
-		<genreid>262</genreid>
-	</game>
 	<game id="9411" source="ScreenScraper.fr">
 		<path>./Rampage - Total Destruction (USA).cc.rvz</path>
 		<name>Rampage: Total Destruction</name>
@@ -1071,9 +1005,35 @@ LostWinds: Winter of the Melodias follows on from the award-winning WiiWare laun
 		<developer>Frontier Developments</developer>
 		<publisher>Frontier Developments</publisher>
 		<genre>Platform-Puzzle-Game</genre>
-		<playcount>2</playcount>
-		<lastplayed>20201101T141629</lastplayed>
-		<gametime>129</gametime>
+	</game>
+	<game>
+		<path>./Donkey Kong Country Returns (USA) (En,Fr,Es) (Rev 1).cc.rvz</path>
+		<name>Donkey Kong Country Returns</name>
+		<desc>Under the influence of a group of evil Tikis, the animals of Donkey Kong Island have raided Donkey Kong's banana hoard and stolen his stash of bananas - and being an ape of large appetites he understandably wants them back. Good thing that you are along for the ride. With Donkey Kong Country Returns, Retro Studios brings Donkey Kong back to a banana and platforming hungry public in a new side-scrolling adventure with familiar characters and new levels that reignite the passion players had for the Super NES original and all things Donkey Kong.</desc>
+		<image>./mixart/Donkey Kong Country Returns (USA) (En,Fr,Es) (Rev 1).cc.png</image>
+		<video>./snap/Donkey Kong Country Returns (USA) (En,Fr,Es) (Rev 1).cc.mp4</video>
+		<marquee>./wheel/Donkey Kong Country Returns (USA) (En,Fr,Es) (Rev 1).cc.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20101203T000000</releasedate>
+		<developer>Retro Studios</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Platform</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Castlevania ReBirth.wad</path>
+		<name>Castlevania : The Adventure Rebirth</name>
+		<desc>The classic Castlevania game is reborn for the Wii with all-new upgrades. 
+ 
+Another 100 years has passed since the death of Count Dracula, but the revival of his curse has emerged once again within the realms of Transylvania. Play the role of the ultimate gothic hero from the long lineage of vampire hunters, the Belmont clan, and rid the universe of Dracula s legion of darkness and doom. Based on the classic 1989 original Castlevania: The Adventure, the WiiWare version will allow players of a new generation and older fans to experience one of the most popular games within the storied Castlevania timeline from a new perspective.</desc>
+		<image>./mixart/Castlevania ReBirth.png</image>
+		<video>./snap/Castlevania ReBirth.mp4</video>
+		<marquee>./wheel/Castlevania ReBirth.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20091228T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
 	</game>
 	<game>
 		<path>./LostWinds.wad</path>
@@ -1087,8 +1047,69 @@ LostWinds: Winter of the Melodias follows on from the award-winning WiiWare laun
 		<developer>Frontier Developments</developer>
 		<publisher>Frontier Developments</publisher>
 		<genre>Action-Platform-Puzzle-Game</genre>
-		<playcount>2</playcount>
-		<lastplayed>20201101T141917</lastplayed>
-		<gametime>178</gametime>
+	</game>
+	<game id="9288" source="ScreenScraper.fr">
+		<path>./Opoona (USA).cc.rvz</path>
+		<name>Opoona</name>
+		<desc>While on an interplanetary family vacation, the young boy Opoona crash lands on Planet Landroll after his spaceship is involved in a mysterious accident. Separated from his family, Opoona is forced to live alone. On the planet, Opoona must find a job, search for his siblings, and defend himself and the people of Landroll against creatures known as the Dark Rogues. Luckily for Opoona, he is the descendant of a long line of warriors known as the Cosmo Guards. Thus, Opoona?s adventure begins as he struggles to establish a new life and reunite his family.The game?s action-oriented battle system lets players use powerful ?Energy Bonbons? against their enemies. Using just the Nunchuk, players can manipulate an Energy Bonbon?s trajectory in a number of different ways. All of Opoona?s commands are also controlled by the Nunchuk, to allow a complete ?single-hand control? of the game.Opoona is not just about battling; it is a ?Lifestyle RPG.? As Opoona, players must adapt to a new environment, meet new people, and contribute to society through work, all while becoming aware of the precious world and people around him. As the game progresses, Opoona will develop relationships and uncover a broader range of activities including new jobs and clues to new adventures.</desc>
+		<rating>0.75</rating>
+		<releasedate>20080912T000000</releasedate>
+		<developer>Artepiazza</developer>
+		<publisher>Koei</publisher>
+		<genre>Role playing games-Adventure</genre>
+		<players>1</players>
+		<image>./mixart/Opoona (USA).cc.png</image>
+		<marquee>./wheel/Opoona (USA).cc.png</marquee>
+		<video>./snap/Opoona (USA).cc.mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="8935" source="ScreenScraper.fr">
+		<path>./Teenage Mutant Ninja Turtles - Smash-Up (USA) (En,Fr,De,Es,It).cc.rvz</path>
+		<name>Teenage Mutant Ninja Turtles : Smash-Up</name>
+		<desc>The game is a 4-player 2.5D fighting game, similar to the Super Smash Bros. series. During battle, players attempt to KO opponents by depleting their life bar, knocking them off the stage or into traps.</desc>
+		<rating>0.6</rating>
+		<releasedate>20090902T000000</releasedate>
+		<developer>Game Arts</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Fight</genre>
+		<image>./mixart/Teenage Mutant Ninja Turtles - Smash-Up (USA) (En,Fr,De,Es,It).cc.png</image>
+		<marquee>./wheel/Teenage Mutant Ninja Turtles - Smash-Up (USA) (En,Fr,De,Es,It).cc.png</marquee>
+		<video>./snap/Teenage Mutant Ninja Turtles - Smash-Up (USA) (En,Fr,De,Es,It).cc.mp4</video>
+		<genreid>262</genreid>
+	</game>
+	<game>
+		<path>./A Boy and his Blob [NTSC-U].cc.rvz</path>
+		<name>Boy And His Blob, A</name>
+		<desc>The far-off kingdom of Blobolonia is threatened by an evil emperor.  An alien blob escapes from Blobolonia, searching for help, and he crash lands on planet Earth.  There he finds a young boy.  Help the pair save Blobolonia from the Emperor's tyrannical reign!
+
+A Boy and his Blob is based on David Crane's Nintendo game of the same name.  As the nameless Boy, you have control over an alien blob who can transform into different objects when you feed him different flavored jellybeans.  The transformations are usually based on puns (for example, punch is a hole, apple is a jack and licorice is a ladder) or similar sounding names (such as tangerine trampoline and pear parachute).  Using the different tools that Blob can transform into, it's up to the player to reach the exit door at the end of each level.
+
+Each level also has three hidden treasure chests in it.  If all three are found, a bonus level is unlocked.  The bonus levels are Challenge Levels, which are more difficult, and often based around using a specific skill or jellybean flavor.  Completing these levels unlocks special rewards such as concept art, videos and new game modes.</desc>
+		<image>./mixart/A Boy and his Blob [NTSC-U].cc.png</image>
+		<video>./snap/A Boy and his Blob [NTSC-U].cc.mp4</video>
+		<marquee>./wheel/A Boy and his Blob [NTSC-U].cc.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20091013T000000</releasedate>
+		<developer>Wayforward Technologies</developer>
+		<publisher>Majesco</publisher>
+		<genre>Action-Platform-Puzzle-Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Punch-Out!! (USA) (En,Fr,Es).cc.rvz</path>
+		<name>Punch-Out!!</name>
+		<desc>One of the biggest names in boxing returns after a 15-year hiatus. In Punch-Out!! you play as young up-and-coming fighter Little Mac who, with the help of his ringside trainer Doc Lewis, is working his way through the ranks of a wide variety of boxing caricatures, each with their own patterns of attacks. Grab a Wii Remote controller in one hand and a Nunchuk controller in the other and step back into the ring with a modern update of the classic Punch-Out!!Little Mac Is BackEveryone?s favorite underdog from the 1980s joins the best of the original Punch-Out!! cast in a modern re-imagining of the series. Players will find familiar names like Glass Joe, King Hippo and trainer Doc Louis. These boxers come to life again in cell-shaded 3-D, complete with hilarious fighting animations and back stories that capture all the fun and flair of the original Punch-Out!! games.The Wii's Motion SensitivityThe motion-sensitive controls of the Wii console mean that when players throw punches, Little Mac throws punches as well. Additionally, you can control hooks and jabs by combining motion control with control-stick movement. The motion-sensing Wii Remote and Nunchuk controllers turn real-life swings into on-screen punches, so anyone can play. The game can also be played with classic NES-style controls by turning the Wii Remote sideways.CharactersPunch-Out!! features a total of 13 opponents for Little Mac to step into the ring with. 12 of which are returning from previous games in the Punch-Out!! series. Each has their own back story and patterns of attacks to learn and learns to counter. Just a few of the characters you can expect to see are:Little MacSmall but extremely game, Little Mac is a young, up-and-coming fighter, who with the help of his trainer, ex-champion Doc Lewis, has set his sights on working his way through the ranks.Glass JoeA fearful French fighter due to his extremely weak chin, Glass Joe will crumple to the mat quickly with just a few well-placed shots, making him an easy mark and a good warm-up for the fighters to follow.King HippoKing Hippo is both huge and an immensely powerful fighter, but can be weakened with the right combinations to the head and body, giving you time to go for the knockout if you can survive his onslaught.Von KaiserAn old-timey fighter whose rumored childhood difficulties have left him eager to dish out punishment in the ring, Von Kaiser is a dangerous opponent, but one who will turn tail if you can find his weakness.Special AttacksPlayers can obtain special 'Star Punches,' which allow Little Mac to take more health from his rival in a single punch. Players can now use multiple stars in a single punch for an extra-powerful attack.Controller OptionsPunch-Out!! features multiple controller options. For players looking to take advantage of the Wii's motion control capabilities, Punch-Out!! uses the Wii Remote and Nunchuck controllers to simulate throwing punches. Use the Nunchuck to throw a left punch and the Wii Remote to throw a right punch. Fans of the NES version and core gamers will be excited to see Nintendo has also included the option to play Punch-Out!! using the classic layout from the original NES controller. Use the 1 and 2 buttons along with the cross pad to throw hooks and jabs or to dodge.</desc>
+		<image>./mixart/Punch-Out!! (USA) (En,Fr,Es).cc.png</image>
+		<video>./snap/Punch-Out!! (USA) (En,Fr,Es).cc.mp4</video>
+		<marquee>./wheel/Punch-Out!! (USA) (En,Fr,Es).cc.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20090518T000000</releasedate>
+		<developer>Next Level Games</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports-Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
 	</game>
 </gameList>

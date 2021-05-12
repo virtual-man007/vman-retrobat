@@ -1035,20 +1035,6 @@
 		<genre>Platform</genre>
 	</game>
 	<game>
-		<path>./Little Big Planet (USA).cso</path>
-		<name>LittleBigPlanet</name>
-		<desc>LittleBigPlanet's critically acclaimed - PLAY, CREATE, SHARE - experience, makes its way to the PSP system with a completely new Sackboy adventure. PLAY through 35+ levels and collect prize bubbles, costumes, and - CREATE - materials. CREATE your own levels and challenges with the easy to use POP-IT tool. Once complete, SHARE your creations in ad-hoc mode or post them to the community pool in infrastructure mode.</desc>
-		<image>./mixart/Little Big Planet (USA).png</image>
-		<video>./snap/Little Big Planet (USA).mp4</video>
-		<marquee>./wheel/Little Big Planet (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20091117T000000</releasedate>
-		<developer>SCE Studio Cambridge</developer>
-		<publisher>Sony Computer Entertainment America, Inc.</publisher>
-		<genre>Platform-Various-Action</genre>
-		<players>1-4</players>
-	</game>
-	<game>
 		<path>./Moto GP.cso</path>
 		<name>Moto GP</name>
 		<desc>MotoGP is a motorcycle racing game based on the 2005 MotoGP season. It features all the riders from that 2005 season, but only eight of the seventeen circuits. There are two main modes of play, arcade and season. Arcade allows the player to select any rider and track to race on. Season mode allows the player to take part in a complete season with one 'real-life' rider, or alternatively to compete over multiple seasons with a fictional rider, with the ability to move teams at the end of the season depending on the performance during the season. Different levels of difficulty relating to the realism of the bikes handling and performance are offered to cater for both novice and more experienced players. All the usual setup options are available to tune the bikes for each track.</desc>
@@ -1593,49 +1579,6 @@
 		<genre>Platform-Action</genre>
 	</game>
 	<game>
-		<path>./Kingdom Hearts - Birth by Sleep (EU).cso</path>
-		<name>Kingdom Hearts : Birth by Sleep</name>
-		<desc>The Final Mix gives you more challenges and the chance to hear the English voices. The game is based on the upgraded US version, with more boss battles, game modes and even more mini-games. Think you've already become the ultimate Key Blade Master? Think again.    The game contains secret episodes that you can unlock, and in the single player mode, you'll meet the mysterious man, see what secrets he'll reveal about the powerful Kingdom Hearts. Controls and the D-Link are updated, so its easier to use and you can collect stickers on your journey.    There are 9 more missions for you to clear and new challenging bosses in the multi-mode. These bosses aren't just the lord of the world, they could be the world themselves. Now you can battle the whale that swallowed Pinocchio's ship.    Kingdom Hearts is being born again, pick up your key blade and set off on your journey once again.</desc>
-		<image>./mixart/Kingdom Hearts - Birth by Sleep (EU).png</image>
-		<video>./snap/Kingdom Hearts - Birth by Sleep (EU).mp4</video>
-		<marquee>./wheel/Kingdom Hearts - Birth by Sleep (EU).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20100109T000000</releasedate>
-		<developer>Square Enix</developer>
-		<publisher>Square Enix</publisher>
-		<genre>Role playing games</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Mega Man Maverick Hunter X.cso</path>
-		<name>Mega Man : Maverick Hunter X</name>
-		<desc>Set a century after the events in the original Mega Man series, Mega Man Maverick Hunter X is a remake of the original SNES game Mega Man X, and details the story of Dr. Light's greatest creation: X, a robot with free will. Dr. Cain's discovery of X led to the creation of reploids, robots modeled after the design of X. When the maverick virus infects a group of reploids, they band together in a revolt against humanity. The call goes to the maverick hunters, X and Zero, to fight the Mavericks.  The game is a side-scrolling action game where the player controls X as he hunts the maverick reploids. Notable features include the ability to find enhancements to augment X's abilities, and the ability to absorb the powers of the maverick reploids X defeats. The original moves, such as dashes, wall jumps and charge shorts are still present.  The original flat backgrounds have been replaced by polygonal models, and the remake features enhanced explosions and generally more detail. Additionally, animated cutscenes and voice acting have been added. All weapon and armour upgrades have been relocated to new hidden areas, and there is a new mode: Vile, in which you can play the entire game as maverick Vile, with abilities Mega Man does not have. As a bonus, there is a demo of Mega Man Powered Up on the UMD - a remake of the very first Mega Man game.</desc>
-		<image>./mixart/Mega Man Maverick Hunter X.png</image>
-		<video>./snap/Mega Man Maverick Hunter X.mp4</video>
-		<marquee>./wheel/Mega Man Maverick Hunter X.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20060131T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Platform-Action</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./ModNation Racers (EU).cso</path>
-		<name>ModNation Racers</name>
-		<desc>ModNation Racers is a thoroughly fresh take on classic kart racing that empowers the player to personalize their entire game. Players can express themselves by creating their own Mod character, styling their own racing kart and even building -- in just minutes -- an imaginative racing track. Then race other players online or trade your creations with your friends to expand the ModNation across the globe!</desc>
-		<image>./mixart/ModNation Racers (EU).png</image>
-		<video>./snap/ModNation Racers (EU).mp4</video>
-		<marquee>./wheel/ModNation Racers (EU).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20100525T000000</releasedate>
-		<developer>SCE Studios San Diego</developer>
-		<publisher>Sony</publisher>
-		<genre>Race, Driving</genre>
-		<players>4+</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Monster Hunter Portable 3rd HD (Japan).cso</path>
 		<name>Monster Hunter Portable 3rd HD (Japan)</name>
 		<desc>Monster Hunter Portable 3rd is a game in the Monster Hunter franchise for the PlayStation Portable system that was released in Japan on December 1, 2010. The game was released, as a part of the PlayStation Portable Remaster series, on PlayStation 3.The game introduces new regions, monsters, and a revised Felyne combat system. Monster Hunter Portable 3rd is not an update to Monster Hunter Freedom Unite or Monster Hunter Tri. Monster Hunter Portable 3rd is instead separate to the rest of the series, and most of the game has been entirely remade. However, it is also a successor to Monster Hunter Freedom Unite as the third game in the Portable series.</desc>
@@ -1647,19 +1590,6 @@
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<genre>RPG</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Outrun 2006 (USA).cso</path>
-		<name>Outrun 2006 (USA)</name>
-		<image>./mixart/Outrun 2006 (USA).png</image>
-		<video>./snap/Outrun 2006 (USA).mp4</video>
-		<marquee>./wheel/Outrun 2006 (USA).png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20100203T000000</releasedate>
-		<developer>Sumo Digital</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving</genre>
 		<favorite>true</favorite>
 	</game>
 	<game>
@@ -1761,21 +1691,6 @@
 		<developer>Ready At Dawn Studios</developer>
 		<publisher>Sony</publisher>
 		<genre>Beat'em Up</genre>
-	</game>
-	<game>
-		<path>./Mortal Kombat Unchained.cso</path>
-		<name>Mortal Kombat : Unchained</name>
-		<desc>It will konsume you!    An ancient evil has returned from beyond death and threatens the very existence of the realms. Will the Champion of the Elder Gods have the power to defeat this threat borne of deception?    -Features six additional fighters including Kitana, Jax, Frost, Blaze, Goro and Shao Kahn,  -Battle your way to the top in the all-new Endurance Mode.  -Multiple fatalities, hara karis and interactive multi-tiered backrounds including brutal death traps.  -Explore the huge free-roaming adventure in Konquest Mode.  -Engage in Chess and Puzzle Kombat...MK style.  -Fight head-to-head against a friend with Wi-Fi wireless support.</desc>
-		<image>./mixart/Mortal Kombat Unchained.png</image>
-		<video>./snap/Mortal Kombat Unchained.mp4</video>
-		<marquee>./wheel/Mortal Kombat Unchained.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20061115T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Fight</genre>
-		<players>1-2</players>
-		<favorite>true</favorite>
 	</game>
 	<game id="28055" source="ScreenScraper.fr">
 		<path>./Ace Combat X Skies Of Deception.cso</path>
@@ -3641,20 +3556,6 @@ Needed for Pinball Hero's to play all tables.</desc>
 		<publisher>High Voltage</publisher>
 		<genre>Fight</genre>
 		<players>1-4</players>
-	</game>
-	<game>
-		<path>./Crisis_Core_Final_Fantasy_VII_USA_READNFO_PSP-Googlecus.cso</path>
-		<name>Crisis Core : Final Fantasy VII</name>
-		<desc>The story takes place seven years before the story of Final Fantasy VII ... The world is so influenced by the Shinra Company that holds all energy resources Mako and exerts unprecedented military authority. His army is composed of, among other outstanding fighters with exceptional capabilities together under the tutelage of SOLDIER. The first classes, the elite SOLDIER are icons of Shinra that crowds respect and admire.    The plot really begins when Zack young SOLDIER second class with his mentor Angeal and Sephiroth famous first class deployed to Wutai to end the war in this region already bruised and, at the same time, investigate mysterious disappearances of many members of SOLDIER who were under the command of Genesis first class. But no one doubts that even this mission will mark a turning point in the tragic fate of Zack ...</desc>
-		<image>./mixart/Crisis_Core_Final_Fantasy_VII_USA_READNFO_PSP-Googlecus.png</image>
-		<video>./snap/Crisis_Core_Final_Fantasy_VII_USA_READNFO_PSP-Googlecus.mp4</video>
-		<marquee>./wheel/Crisis_Core_Final_Fantasy_VII_USA_READNFO_PSP-Googlecus.png</marquee>
-		<rating>1</rating>
-		<releasedate>20080325T000000</releasedate>
-		<developer>Square Enix</developer>
-		<publisher>Square Enix</publisher>
-		<genre>Role playing games</genre>
-		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Dissidia_012_Duodecim_Final_Fantasy_EUR_PROPER_PSP-PLAYASiA.cso</path>
@@ -10894,6 +10795,64 @@ The 2007 release of the game has a few improvements over the original version, m
 		<favorite>true</favorite>
 	</game>
 	<game>
+		<path>./Crisis_Core_Final_Fantasy_VII_USA_READNFO_PSP-Googlecus.cso</path>
+		<name>Crisis Core : Final Fantasy VII</name>
+		<desc>The story takes place seven years before the story of Final Fantasy VII ... The world is so influenced by the Shinra Company that holds all energy resources Mako and exerts unprecedented military authority. His army is composed of, among other outstanding fighters with exceptional capabilities together under the tutelage of SOLDIER. The first classes, the elite SOLDIER are icons of Shinra that crowds respect and admire.    The plot really begins when Zack young SOLDIER second class with his mentor Angeal and Sephiroth famous first class deployed to Wutai to end the war in this region already bruised and, at the same time, investigate mysterious disappearances of many members of SOLDIER who were under the command of Genesis first class. But no one doubts that even this mission will mark a turning point in the tragic fate of Zack ...</desc>
+		<image>./mixart/Crisis_Core_Final_Fantasy_VII_USA_READNFO_PSP-Googlecus.png</image>
+		<video>./snap/Crisis_Core_Final_Fantasy_VII_USA_READNFO_PSP-Googlecus.mp4</video>
+		<marquee>./wheel/Crisis_Core_Final_Fantasy_VII_USA_READNFO_PSP-Googlecus.png</marquee>
+		<rating>1</rating>
+		<releasedate>20080325T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role playing games</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Kingdom Hearts - Birth by Sleep (EU).cso</path>
+		<name>Kingdom Hearts : Birth by Sleep</name>
+		<desc>The Final Mix gives you more challenges and the chance to hear the English voices. The game is based on the upgraded US version, with more boss battles, game modes and even more mini-games. Think you've already become the ultimate Key Blade Master? Think again.    The game contains secret episodes that you can unlock, and in the single player mode, you'll meet the mysterious man, see what secrets he'll reveal about the powerful Kingdom Hearts. Controls and the D-Link are updated, so its easier to use and you can collect stickers on your journey.    There are 9 more missions for you to clear and new challenging bosses in the multi-mode. These bosses aren't just the lord of the world, they could be the world themselves. Now you can battle the whale that swallowed Pinocchio's ship.    Kingdom Hearts is being born again, pick up your key blade and set off on your journey once again.</desc>
+		<image>./mixart/Kingdom Hearts - Birth by Sleep (EU).png</image>
+		<video>./snap/Kingdom Hearts - Birth by Sleep (EU).mp4</video>
+		<marquee>./wheel/Kingdom Hearts - Birth by Sleep (EU).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20100109T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role playing games</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./ModNation Racers (EU).cso</path>
+		<name>ModNation Racers</name>
+		<desc>ModNation Racers is a thoroughly fresh take on classic kart racing that empowers the player to personalize their entire game. Players can express themselves by creating their own Mod character, styling their own racing kart and even building -- in just minutes -- an imaginative racing track. Then race other players online or trade your creations with your friends to expand the ModNation across the globe!</desc>
+		<image>./mixart/ModNation Racers (EU).png</image>
+		<video>./snap/ModNation Racers (EU).mp4</video>
+		<marquee>./wheel/ModNation Racers (EU).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20100525T000000</releasedate>
+		<developer>SCE Studios San Diego</developer>
+		<publisher>Sony</publisher>
+		<genre>Race, Driving</genre>
+		<players>4+</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Mortal Kombat Unchained.cso</path>
+		<name>Mortal Kombat : Unchained</name>
+		<desc>It will konsume you!    An ancient evil has returned from beyond death and threatens the very existence of the realms. Will the Champion of the Elder Gods have the power to defeat this threat borne of deception?    -Features six additional fighters including Kitana, Jax, Frost, Blaze, Goro and Shao Kahn,  -Battle your way to the top in the all-new Endurance Mode.  -Multiple fatalities, hara karis and interactive multi-tiered backrounds including brutal death traps.  -Explore the huge free-roaming adventure in Konquest Mode.  -Engage in Chess and Puzzle Kombat...MK style.  -Fight head-to-head against a friend with Wi-Fi wireless support.</desc>
+		<image>./mixart/Mortal Kombat Unchained.png</image>
+		<video>./snap/Mortal Kombat Unchained.mp4</video>
+		<marquee>./wheel/Mortal Kombat Unchained.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20061115T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
 		<path>./300.cso</path>
 		<name>300 : March to Glory</name>
 		<desc>In the action packed 300: March to Glory, players take on the role of King Leonidas, who leads the brave 300 Spartans against Xerxes and his massive Persian army. The player, as Leonidas, uses his sword, spear and shield and the power of the soldiers in a battle to determine the very fate of western civilization. 300: March to Glory is a visceral experience focused on action and combat, allowing the player to fight both solo and in a phalanx alongside his fellow Spartans</desc>
@@ -10905,6 +10864,49 @@ The 2007 release of the game has a few improvements over the original version, m
 		<developer>Collision Studios</developer>
 		<publisher>Warner Brothers</publisher>
 		<genre>Beat'em Up</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Mega Man Maverick Hunter X.cso</path>
+		<name>Mega Man : Maverick Hunter X</name>
+		<desc>Set a century after the events in the original Mega Man series, Mega Man Maverick Hunter X is a remake of the original SNES game Mega Man X, and details the story of Dr. Light's greatest creation: X, a robot with free will. Dr. Cain's discovery of X led to the creation of reploids, robots modeled after the design of X. When the maverick virus infects a group of reploids, they band together in a revolt against humanity. The call goes to the maverick hunters, X and Zero, to fight the Mavericks.  The game is a side-scrolling action game where the player controls X as he hunts the maverick reploids. Notable features include the ability to find enhancements to augment X's abilities, and the ability to absorb the powers of the maverick reploids X defeats. The original moves, such as dashes, wall jumps and charge shorts are still present.  The original flat backgrounds have been replaced by polygonal models, and the remake features enhanced explosions and generally more detail. Additionally, animated cutscenes and voice acting have been added. All weapon and armour upgrades have been relocated to new hidden areas, and there is a new mode: Vile, in which you can play the entire game as maverick Vile, with abilities Mega Man does not have. As a bonus, there is a demo of Mega Man Powered Up on the UMD - a remake of the very first Mega Man game.</desc>
+		<image>./mixart/Mega Man Maverick Hunter X.png</image>
+		<video>./snap/Mega Man Maverick Hunter X.mp4</video>
+		<marquee>./wheel/Mega Man Maverick Hunter X.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20060131T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform-Action</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Outrun 2006 (USA).cso</path>
+		<name>Outrun 2006 (USA)</name>
+		<image>./mixart/Outrun 2006 (USA).png</image>
+		<video>./snap/Outrun 2006 (USA).mp4</video>
+		<marquee>./wheel/Outrun 2006 (USA).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20100203T000000</releasedate>
+		<developer>Sumo Digital</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Little Big Planet (USA).cso</path>
+		<name>LittleBigPlanet</name>
+		<desc>LittleBigPlanet's critically acclaimed - PLAY, CREATE, SHARE - experience, makes its way to the PSP system with a completely new Sackboy adventure. PLAY through 35+ levels and collect prize bubbles, costumes, and - CREATE - materials. CREATE your own levels and challenges with the easy to use POP-IT tool. Once complete, SHARE your creations in ad-hoc mode or post them to the community pool in infrastructure mode.</desc>
+		<image>./mixart/Little Big Planet (USA).png</image>
+		<video>./snap/Little Big Planet (USA).mp4</video>
+		<marquee>./wheel/Little Big Planet (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20091117T000000</releasedate>
+		<developer>SCE Studio Cambridge</developer>
+		<publisher>Sony Computer Entertainment America, Inc.</publisher>
+		<genre>Platform-Various-Action</genre>
+		<players>4</players>
 		<favorite>true</favorite>
 	</game>
 </gameList>

@@ -1240,17 +1240,17 @@
 		<video>./snap/XI Little.mp4</video>
 	</game>
 	<game>
-		<path>./Alchemist Marie &amp; Elie - Futari no Atelier.zip</path>
-		<name>Alchemist Marie &amp; Elie: Futari no Atelier</name>
-		<desc>In the city of Salburg, there has always been a long tradition of alchemy - a magical science that dealt with combining various materials and turning metals into gold. You play as two young girls, Marlone and Elvira, who have to study at the Academy of alchemy, make powerful items, and prove to their masters they are worthy to be real alchemists.  The game is a combination of role-playing and simulation. You have to read books and talk to people in order to learn more about items, and then to buy these items or to to find them somewhere. You must combine powerful items in order to impress your teachers. You also develop your characters in a standard RPG fashion. You can equip weapons and armor on them, and fight random enemies in wilderness areas. You gain levels and become stronger the more enemies you fight. The battles are automatic, and you can only assign a general strategy to your characters.</desc>
-		<image>./mixart/Alchemist Marie &amp; Elie - Futari no Atelier.png</image>
-		<video>./snap/Alchemist Marie &amp; Elie - Futari no Atelier.mp4</video>
-		<marquee>./wheel/Alchemist Marie &amp; Elie - Futari no Atelier.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20011025T000000</releasedate>
-		<developer>Gust Co., Ltd.</developer>
-		<publisher>Gust Co., Ltd.</publisher>
-		<genre>Role playing games</genre>
+		<path>./Digimon Tamers - Battle Spirit.zip</path>
+		<name>Digimon Tamers - Battle Spirit</name>
+		<desc>Digimon Battle Spirit is a fighting game originally published by Bandai and developed by Dimps for the Japanese-only WonderSwan Color handheld system under the name Digimon Tamers: Battle Spirit. It was later ported to Nintendo's Game Boy Advance for international releases in North America and Europe two years later.    The game features characters and Digimon that were included in the first three seasons of the animated series of the same name in a somewhat simplistic fighting scenario, and also has slightly arranged samples of the show's soundtrack.</desc>
+		<image>./mixart/Digimon Tamers - Battle Spirit.png</image>
+		<video>./snap/Digimon Tamers - Battle Spirit.mp4</video>
+		<marquee>./wheel/Digimon Tamers - Battle Spirit.png</marquee>
+		<rating>0</rating>
+		<releasedate>20011006T000000</releasedate>
+		<developer>Dimps</developer>
+		<publisher>Bandai</publisher>
+		<genre>Fight</genre>
 		<players>2</players>
 	</game>
 	<game>
@@ -1265,19 +1265,21 @@
 		<developer>Bandai</developer>
 		<publisher>Bandai</publisher>
 		<genre>Adventure</genre>
+		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Digimon Tamers - Battle Spirit.zip</path>
-		<name>Digimon Tamers - Battle Spirit</name>
-		<desc>Digimon Battle Spirit is a fighting game originally published by Bandai and developed by Dimps for the Japanese-only WonderSwan Color handheld system under the name Digimon Tamers: Battle Spirit. It was later ported to Nintendo's Game Boy Advance for international releases in North America and Europe two years later.    The game features characters and Digimon that were included in the first three seasons of the animated series of the same name in a somewhat simplistic fighting scenario, and also has slightly arranged samples of the show's soundtrack.</desc>
-		<image>./mixart/Digimon Tamers - Battle Spirit.png</image>
-		<video>./snap/Digimon Tamers - Battle Spirit.mp4</video>
-		<marquee>./wheel/Digimon Tamers - Battle Spirit.png</marquee>
-		<rating>0</rating>
-		<releasedate>20011006T000000</releasedate>
-		<developer>Dimps</developer>
-		<publisher>Bandai</publisher>
-		<genre>Fight</genre>
+		<path>./Alchemist Marie &amp; Elie - Futari no Atelier.zip</path>
+		<name>Alchemist Marie &amp; Elie: Futari no Atelier</name>
+		<desc>In the city of Salburg, there has always been a long tradition of alchemy - a magical science that dealt with combining various materials and turning metals into gold. You play as two young girls, Marlone and Elvira, who have to study at the Academy of alchemy, make powerful items, and prove to their masters they are worthy to be real alchemists.  The game is a combination of role-playing and simulation. You have to read books and talk to people in order to learn more about items, and then to buy these items or to to find them somewhere. You must combine powerful items in order to impress your teachers. You also develop your characters in a standard RPG fashion. You can equip weapons and armor on them, and fight random enemies in wilderness areas. You gain levels and become stronger the more enemies you fight. The battles are automatic, and you can only assign a general strategy to your characters.</desc>
+		<image>./mixart/Alchemist Marie &amp; Elie - Futari no Atelier.png</image>
+		<video>./snap/Alchemist Marie &amp; Elie - Futari no Atelier.mp4</video>
+		<marquee>./wheel/Alchemist Marie &amp; Elie - Futari no Atelier.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20011025T000000</releasedate>
+		<developer>Gust Co., Ltd.</developer>
+		<publisher>Gust Co., Ltd.</publisher>
+		<genre>Role playing games</genre>
 		<players>2</players>
+		<lang>en</lang>
 	</game>
 </gameList>

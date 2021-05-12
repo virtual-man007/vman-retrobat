@@ -1158,36 +1158,6 @@ The game allows you to face your ultimate adversary at different points of time,
 		<publisher>Square Soft</publisher>
 	</game>
 	<game>
-		<path>./Prince_of_Persia_(USA)_(MSU1).sfc</path>
-		<name>Prince of Persia</name>
-		<desc>The Grand Vizier Jaffar has thrown you into a dark dungeon and plans to marry the girl of your dreams in an hour. You're not going to let that happen are you? Try to escape from the dungeon, take out Jaffar's guards, find your way through the Sultan's palace and defeat Jaffar himself. Now go, you've got 60 minutes!
-
-Prince of Persia is a 2D platformer with run and jump gameplay. Your hero must avoid deadly traps, solve some simple puzzles and engage in sword fights with the guards. The player has an infinite amount of lives, but has to restart at the beginning of a level each time he dies, and must complete the game within an hour. An especially noteworthy aspect of the game is the very fluent animation of your character.
-
-The Game Boy Color and SNES versions of the game feature additional levels and new enemies. The Genesis version has a new intro and an altered set of graphics but the level layout remains almost identical to that of the original.</desc>
-		<image>./mixart/Prince_of_Persia_(USA)_(MSU1).png</image>
-		<video>./snap/Prince_of_Persia_(USA)_(MSU1).mp4</video>
-		<marquee>./wheel/Prince_of_Persia_(USA)_(MSU1).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19921101T000000</releasedate>
-		<developer>Brøderbund Software, Inc.</developer>
-		<publisher>Konami</publisher>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)_(MSU1).sfc</path>
-		<name>The Legend of Zelda - A Link to the Past</name>
-		<desc>Venture back to Hyrule and an age of magic and heroes. The predecessors of Link and Zelda face monsters on the march when a menacing magician takes over the kingdom. Only you can prevent his evil plot from shattering the land of Hyrule. In your quest, you'll venture into twisting mazes, dungeons, palaces and shadowy forests. Test your mettle with mighty swords and magical weapons. Or heft a boulder and hurl it at your enemies. If the going gets tough, dive into a river - you can swim to escape! Learn the powerful spells, locate magical artifacts and solve the mysteries of the evil magician and the hidden realm of Hyrule.</desc>
-		<image>./mixart/Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)_(MSU1).png</image>
-		<video>./snap/Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)_(MSU1).mp4</video>
-		<marquee>./wheel/Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)_(MSU1).png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19920413T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Legend_of_Zelda,_The_-_Parallel_Worlds_(USA)_(MSU1).sfc</path>
 		<name>The Legend of Zelda - Parallel Worlds</name>
 		<desc>The Legend of Zelda: Parallel Worlds is a fan overhaul of The Legend of Zelda: A Link to the Past using new graphics, new music, a new overworld and underworld, and a new storyline.
@@ -1226,25 +1196,6 @@ The night of the operation begins the story...</desc>
 		<releasedate>19940601T000000</releasedate>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
-	</game>
-	<game>
-		<path>./Super_Metroid_(Japan,_USA)_(MSU1).sfc</path>
-		<name>Super Metroid</name>
-		<desc>Super Metroid is a follow-up to Metroid II, and once again features bounty hunter Samus Aran. She heads to planet Zebes in order to hunt down the leaders of the Space Pirates, who kidnapped an unique Metroid larva. 
-
-Super Metroid is a platform game, which, like the previous Metroid games, is not divided into separate levels; the planet Zebes is an open world which Samus traverses back and forth. This world is divided into rooms separated with doors which must be shot to be opened. Shooting is also used to open up secret passages, some of which contain nifty bonuses, but finding most of them is required to proceed in the game. 
-
-There are many items to find on the way, and each new item usually makes heretofore inaccessible areas available to Samus. The items include both weaponry (such as missiles, super missiles, or upgrades to Samus's standard laser gun), energy tanks that increase Samus' max health, and other gadgets (like a grappling hook that allows Samus to stick to the ceiling). 
-
-There are various enemies - alien fauna - lurking around planet Zebes. The enemies all respawn after re-entering a room, though Samus' increasing capabilities mean that they become easier to defeat as the player makes progress. After killing them, the enemies typically leave behind some health or ammo.</desc>
-		<image>./mixart/Super_Metroid_(Japan,_USA)_(MSU1).png</image>
-		<video>./snap/Super_Metroid_(Japan,_USA)_(MSU1).mp4</video>
-		<marquee>./wheel/Super_Metroid_(Japan,_USA)_(MSU1).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19940418T000000</releasedate>
-		<developer>Intelligent Systems Co., Ltd.|Nintendo R&amp;D1</developer>
-		<publisher>Nintendo</publisher>
-		<favorite>true</favorite>
 	</game>
 	<game id="172255" source="ScreenScraper.fr">
 		<path>./Battletoads_in_Battlemaniacs_(USA)_(MSU1).sfc</path>
@@ -1807,6 +1758,62 @@ As you eliminate evil from different parts of the land, you allow villagers to r
 		<developer>Quintet</developer>
 		<publisher>Enix</publisher>
 		<genre>Simulation</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)_(MSU1).sfc</path>
+		<name>The Legend of Zelda - A Link to the Past</name>
+		<desc>Venture back to Hyrule and an age of magic and heroes. The predecessors of Link and Zelda face monsters on the march when a menacing magician takes over the kingdom. Only you can prevent his evil plot from shattering the land of Hyrule. In your quest, you'll venture into twisting mazes, dungeons, palaces and shadowy forests. Test your mettle with mighty swords and magical weapons. Or heft a boulder and hurl it at your enemies. If the going gets tough, dive into a river - you can swim to escape! Learn the powerful spells, locate magical artifacts and solve the mysteries of the evil magician and the hidden realm of Hyrule.</desc>
+		<image>./mixart/Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)_(MSU1).png</image>
+		<video>./snap/Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)_(MSU1).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19920413T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Prince_of_Persia_(USA)_(MSU1).sfc</path>
+		<name>Prince of Persia</name>
+		<desc>The Grand Vizier Jaffar has thrown you into a dark dungeon and plans to marry the girl of your dreams in an hour. You're not going to let that happen are you? Try to escape from the dungeon, take out Jaffar's guards, find your way through the Sultan's palace and defeat Jaffar himself. Now go, you've got 60 minutes!
+
+Prince of Persia is a 2D platformer with run and jump gameplay. Your hero must avoid deadly traps, solve some simple puzzles and engage in sword fights with the guards. The player has an infinite amount of lives, but has to restart at the beginning of a level each time he dies, and must complete the game within an hour. An especially noteworthy aspect of the game is the very fluent animation of your character.
+
+The Game Boy Color and SNES versions of the game feature additional levels and new enemies. The Genesis version has a new intro and an altered set of graphics but the level layout remains almost identical to that of the original.</desc>
+		<image>./mixart/Prince_of_Persia_(USA)_(MSU1).png</image>
+		<video>./snap/Prince_of_Persia_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Prince_of_Persia_(USA)_(MSU1).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19921101T000000</releasedate>
+		<developer>Brøderbund Software, Inc.</developer>
+		<publisher>Konami</publisher>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Super_Metroid_(Japan,_USA)_(MSU1).sfc</path>
+		<name>Super Metroid</name>
+		<desc>Super Metroid is a follow-up to Metroid II, and once again features bounty hunter Samus Aran. She heads to planet Zebes in order to hunt down the leaders of the Space Pirates, who kidnapped an unique Metroid larva. 
+
+Super Metroid is a platform game, which, like the previous Metroid games, is not divided into separate levels; the planet Zebes is an open world which Samus traverses back and forth. This world is divided into rooms separated with doors which must be shot to be opened. Shooting is also used to open up secret passages, some of which contain nifty bonuses, but finding most of them is required to proceed in the game. 
+
+There are many items to find on the way, and each new item usually makes heretofore inaccessible areas available to Samus. The items include both weaponry (such as missiles, super missiles, or upgrades to Samus's standard laser gun), energy tanks that increase Samus' max health, and other gadgets (like a grappling hook that allows Samus to stick to the ceiling). 
+
+There are various enemies - alien fauna - lurking around planet Zebes. The enemies all respawn after re-entering a room, though Samus' increasing capabilities mean that they become easier to defeat as the player makes progress. After killing them, the enemies typically leave behind some health or ammo.</desc>
+		<image>./mixart/Super_Metroid_(Japan,_USA)_(MSU1).png</image>
+		<video>./snap/Super_Metroid_(Japan,_USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Super_Metroid_(Japan,_USA)_(MSU1).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19940418T000000</releasedate>
+		<developer>Intelligent Systems Co., Ltd.|Nintendo R&amp;D1</developer>
+		<publisher>Nintendo</publisher>
+		<favorite>true</favorite>
+		<lang>jp,en</lang>
+		<region>us</region>
 	</game>
 	<game>
 		<path>./ActRaiser_2_(USA)_(MSU1).sfc</path>
@@ -1820,19 +1827,6 @@ As you eliminate evil from different parts of the land, you allow villagers to r
 		<developer>Quintet Co., Ltd.</developer>
 		<publisher>Enix</publisher>
 		<genre>Platform-Action</genre>
-	</game>
-	<game>
-		<path>./Castlevania_-_Dracula_X_(USA)_(MSU1).sfc</path>
-		<name>Castlevania - Dracula X</name>
-		<desc>Castlevania: Dracula X for Super Nintendo is a single-player port game that is set in the country of Transylvania during the middle ages. You play as Richter, a character that must face Count Dracula in order to save his lover and her younger sister. You must use special abilities and special tactics to fight off Dracula and his henchman. The game features non-linear play, and has different levels that take place in Dracula's castle. The backgrounds feature unique graphics, putting you in the mood for this horror-based game. You get to battle different enemies until you come across the true villain of the game, Count Dracula.</desc>
-		<image>./mixart/Castlevania_-_Dracula_X_(USA)_(MSU1).png</image>
-		<video>./snap/Castlevania_-_Dracula_X_(USA)_(MSU1).mp4</video>
-		<marquee>./wheel/Castlevania_-_Dracula_X_(USA)_(MSU1).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19951031T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Contra_III_-_The_Alien_Wars_(USA)_(MSU1).sfc</path>
@@ -1851,5 +1845,22 @@ The Alien Wars begin!!!</desc>
 		<publisher>Konami</publisher>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Castlevania_-_Dracula_X_(USA)_(MSU1).sfc</path>
+		<name>Castlevania - Dracula X</name>
+		<desc>Castlevania: Dracula X for Super Nintendo is a single-player port game that is set in the country of Transylvania during the middle ages. You play as Richter, a character that must face Count Dracula in order to save his lover and her younger sister. You must use special abilities and special tactics to fight off Dracula and his henchman. The game features non-linear play, and has different levels that take place in Dracula's castle. The backgrounds feature unique graphics, putting you in the mood for this horror-based game. You get to battle different enemies until you come across the true villain of the game, Count Dracula.</desc>
+		<image>./mixart/Castlevania_-_Dracula_X_(USA)_(MSU1).png</image>
+		<video>./snap/Castlevania_-_Dracula_X_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Castlevania_-_Dracula_X_(USA)_(MSU1).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19951031T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

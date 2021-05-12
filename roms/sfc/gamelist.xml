@@ -6,58 +6,6 @@
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game id="18990" source="ScreenScraper.fr">
-		<path>./Acrobat Mission (Japan).zip</path>
-		<name>Acrobat Mission</name>
-		<desc>Years ago humanity abandoned the over-polluted Earth to make a new home on Mars. Now, without warning, a mechanical moon has appeared in the skies over Mars, and is raining down destruction on the colonies. A plan is hastily put into action to destroy the moon and its armada of space-craft. Due to the impossible task of surviving a direct assault, the mission is code-named Acrobat Mission.
-
-Your spaceship in Acrobat Mission is capable of firing a single straight ahead shot. By picking up a Wide upgrade, more shots are added that fly off at an angle, and the shot can be charged up to unleash a continuous short range cone of energy. Picking up a Hurricane upgrade will cause bullets to circle you defensively before shooting forward, and charging will store a full round of bullets up to be fired straight ahead all at once. Up to two bombs can be held at once, and if an enemy bullet hits a bomb it will detonate, saving your ship from damage. If your ship is hit, however, then you will have a few seconds to ram it into whatever shot you and take them down with you. Unlike most scrolling shooter games contact with an enemy ship will not kill you, but they can still push you into the path of bullets.
-
-Play takes place over five levels, first of your launch on Mars, then the approach to the moon, and finally infiltrating the base to destroy its core. Each level ends with a unique boss except stage 4, which ends with 3 bosses.</desc>
-		<rating>0.65</rating>
-		<releasedate>19920911T000000</releasedate>
-		<developer>UPL Co., Ltd</developer>
-		<publisher>Teichiku Co., LTD.</publisher>
-		<players>1-2</players>
-		<hash>11F109B0</hash>
-		<image>./mixart/Acrobat Mission (Japan).png</image>
-		<marquee>./wheel/Acrobat Mission (Japan).png</marquee>
-		<video>./snap/Acrobat Mission (Japan).mp4</video>
-	</game>
-	<game id="38567" source="ScreenScraper.fr">
-		<path>./Action Pachio (Japan).zip</path>
-		<name>Action Pachio</name>
-		<desc>Action Pachio is a game featuring the Pachio-kun character in a straightforward side-scrolling platform game, rather than the usual pachinko. The game is somewhat reminiscent of Sonic the Hedgehog, as Pachio will often roll through areas at speed.
-
-Pachio-kun made several more appearances on the Super Famicom, but most of them are in his core pachinko-playing series.</desc>
-		<rating>0.65</rating>
-		<releasedate>19930409T000000</releasedate>
-		<developer>C-Lab</developer>
-		<publisher>Coconuts Japan</publisher>
-		<players>1</players>
-		<hash>5BCD7D66</hash>
-		<image>./mixart/Action Pachio (Japan).png</image>
-		<marquee>./wheel/Action Pachio (Japan).png</marquee>
-		<video>./snap/Action Pachio (Japan).mp4</video>
-	</game>
-	<game id="2212" source="ScreenScraper.fr">
-		<path>./ActRaiser (Japan) (Translated En).zip</path>
-		<name>Actraiser</name>
-		<desc>ActRaiser was one of the early SNES games, drawing upon the success of side-scrolling platform action titles and the building model of Sim City. You play "The Master" (essentially God), and must save the world from evil. 
-
-First you purge the land by sending your spirit into a warrior with a big sword and magic powers. This side scrolling portion puts you in many different locales, from swamps and forests, to pyramids and snowy mountaintops. 
-
-As you eliminate evil from different parts of the land, you allow villagers to return and build their towns. You then control an angel who helps guide the villagers in their town building, and can send down miracles to aid them in their needs.</desc>
-		<rating>0.8</rating>
-		<releasedate>19901216T000000</releasedate>
-		<developer>Quintet</developer>
-		<publisher>Enix</publisher>
-		<players>1</players>
-		<hash>6AD0CBB7</hash>
-		<image>./mixart/ActRaiser (Japan) (Translated En).png</image>
-		<marquee>./wheel/ActRaiser (Japan) (Translated En).png</marquee>
-		<video>./snap/ActRaiser (Japan) (Translated En).mp4</video>
-	</game>
 	<game id="38580" source="ScreenScraper.fr">
 		<path>./American Battle Dome (Japan).zip</path>
 		<name>American Battle Dome</name>
@@ -7723,23 +7671,6 @@ Majyuuou is a side-scrolling platformer for the Super Nintendo, taking influence
 		<players>1-4</players>
 	</game>
 	<game>
-		<path>./Alcahest (Japan) (Translated En).zip</path>
-		<name>Alcahest</name>
-		<desc>Past and future are connected in a way mortals do not understand...  A star was glowing up in the sky, and the demon god Alcahest appeared, bringing chaos and destruction to the world. A single swordsman stood in defiance. The four powers that protect the world, the Guardians, gave him their power, and with it the swordsman slew the demon and restored peace in the world. 
-
-Thousand years have passed. And a new battle is already on the way. A cruel emperor leads his troops towards conquest. The kingdom of Panakeia is defending itself with the aid of its knights. Once again, the ominous star shines in the sky, indicating the demon's revival. With the help of Alcahest's power, the evil emperor wants to conquer the world. But the new generation also brings the new hero - the brave swordsman Alen. Aided by the Guardians, Alen must stop the Empire's evil plans and to destroy Alcahest once again.
-
-This is an action game with RPG elements. You wander around slaying enemies in real time combat, gathering treasure on the way, and occasionally participating in boss battles. When you gather enough experience from fighting, you gain extra hit points. You can also upgrade your weapons. On the way you'll meet some characters who will join your party for short time, and you'll be able to use their special attacks and magic.</desc>
-		<image>./mixart/Alcahest (Japan) (Translated En).png</image>
-		<video>./snap/Alcahest (Japan) (Translated En).mp4</video>
-		<marquee>./wheel/Alcahest (Japan) (Translated En).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19971217T000000</releasedate>
-		<developer>HAL Laboratory</developer>
-		<publisher>Square Enix</publisher>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Appleseed - Prometheus no Shintaku (Japan).zip</path>
 		<name>Appleseed : Prometheus no Shintaku</name>
 		<desc>World War III is over, and nomad soldier Duenan Knute and her cyborg partner Briareos struggle to survive in the abandoned cities and demilitarized zones of the post-war wasteland, the "Badside." Matters appear on the upswing, however, when they are found and brought to Olympus, an urban utopia and centerpiece for the reconstruction of civilization. Duenan and Bri join the Olympus' police, a force that seems hardly necessary in such a paradise. But, like in most pretty pictures, perfection is an illusion, and Olympus' peaceful facade hides a dark secret, a violent struggle between human and cyborg that could once again plunge the world into war... and genocide.</desc>
@@ -8031,6 +7962,59 @@ The game features multiple modes including: Sparring, for practice; Story, for a
 		<publisher>Hudson</publisher>
 	</game>
 	<game>
+		<path>./Action Pachio (Japan).zip</path>
+		<name>Action Pachio</name>
+		<desc>Action Pachio is a game featuring the Pachio-kun character in a straightforward side-scrolling platform game, rather than the usual pachinko. The game is somewhat reminiscent of Sonic the Hedgehog, as Pachio will often roll through areas at speed.
+
+Pachio-kun made several more appearances on the Super Famicom, but most of them are in his core pachinko-playing series.</desc>
+		<image>./mixart/Action Pachio (Japan).png</image>
+		<video>./snap/Action Pachio (Japan).mp4</video>
+		<marquee>./wheel/Action Pachio (Japan).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19930409T000000</releasedate>
+		<developer>C-Lab</developer>
+		<publisher>Coconuts Japan</publisher>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game>
+		<path>./ActRaiser (Japan) (Translated En).zip</path>
+		<name>Actraiser</name>
+		<desc>ActRaiser was one of the early SNES games, drawing upon the success of side-scrolling platform action titles and the building model of Sim City. You play "The Master" (essentially God), and must save the world from evil. 
+
+First you purge the land by sending your spirit into a warrior with a big sword and magic powers. This side scrolling portion puts you in many different locales, from swamps and forests, to pyramids and snowy mountaintops. 
+
+As you eliminate evil from different parts of the land, you allow villagers to return and build their towns. You then control an angel who helps guide the villagers in their town building, and can send down miracles to aid them in their needs.</desc>
+		<image>./mixart/ActRaiser (Japan) (Translated En).png</image>
+		<video>./snap/ActRaiser (Japan) (Translated En).mp4</video>
+		<marquee>./wheel/ActRaiser (Japan) (Translated En).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19901216T000000</releasedate>
+		<developer>Quintet</developer>
+		<publisher>Enix</publisher>
+		<lang>jp,en</lang>
+		<region>jp</region>
+	</game>
+	<game>
+		<path>./Alcahest (Japan) (Translated En).zip</path>
+		<name>Alcahest</name>
+		<desc>Past and future are connected in a way mortals do not understand...  A star was glowing up in the sky, and the demon god Alcahest appeared, bringing chaos and destruction to the world. A single swordsman stood in defiance. The four powers that protect the world, the Guardians, gave him their power, and with it the swordsman slew the demon and restored peace in the world. 
+
+Thousand years have passed. And a new battle is already on the way. A cruel emperor leads his troops towards conquest. The kingdom of Panakeia is defending itself with the aid of its knights. Once again, the ominous star shines in the sky, indicating the demon's revival. With the help of Alcahest's power, the evil emperor wants to conquer the world. But the new generation also brings the new hero - the brave swordsman Alen. Aided by the Guardians, Alen must stop the Empire's evil plans and to destroy Alcahest once again.
+
+This is an action game with RPG elements. You wander around slaying enemies in real time combat, gathering treasure on the way, and occasionally participating in boss battles. When you gather enough experience from fighting, you gain extra hit points. You can also upgrade your weapons. On the way you'll meet some characters who will join your party for short time, and you'll be able to use their special attacks and magic.</desc>
+		<image>./mixart/Alcahest (Japan) (Translated En).png</image>
+		<video>./snap/Alcahest (Japan) (Translated En).mp4</video>
+		<marquee>./wheel/Alcahest (Japan) (Translated En).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19971217T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Square Enix</publisher>
+		<players>2</players>
+		<lang>jp,en</lang>
+		<region>jp</region>
+	</game>
+	<game>
 		<path>./Accele Brid (Japan) (Translated En).zip</path>
 		<name>Accele Brid</name>
 		<desc>This is a very basic, linear "shoot'em'up" game in which the robot of your choice, rigged with a variety of different weapons goes through a pipe and blasts at everything that comes in the way. The robot can fire weapons from both arms as well as jump, kick and punch. Power-ups and bonuses can be picked up along the way to upgrade weapons or armour.</desc>
@@ -8042,5 +8026,27 @@ The game features multiple modes including: Sparring, for practice; Story, for a
 		<developer>Tomy</developer>
 		<publisher>Tomy</publisher>
 		<players>2</players>
+		<lang>jp,en</lang>
+		<region>jp</region>
+	</game>
+	<game>
+		<path>./Acrobat Mission (Japan).zip</path>
+		<name>Acrobat Mission</name>
+		<desc>Years ago humanity abandoned the over-polluted Earth to make a new home on Mars. Now, without warning, a mechanical moon has appeared in the skies over Mars, and is raining down destruction on the colonies. A plan is hastily put into action to destroy the moon and its armada of space-craft. Due to the impossible task of surviving a direct assault, the mission is code-named Acrobat Mission.
+
+Your spaceship in Acrobat Mission is capable of firing a single straight ahead shot. By picking up a Wide upgrade, more shots are added that fly off at an angle, and the shot can be charged up to unleash a continuous short range cone of energy. Picking up a Hurricane upgrade will cause bullets to circle you defensively before shooting forward, and charging will store a full round of bullets up to be fired straight ahead all at once. Up to two bombs can be held at once, and if an enemy bullet hits a bomb it will detonate, saving your ship from damage. If your ship is hit, however, then you will have a few seconds to ram it into whatever shot you and take them down with you. Unlike most scrolling shooter games contact with an enemy ship will not kill you, but they can still push you into the path of bullets.
+
+Play takes place over five levels, first of your launch on Mars, then the approach to the moon, and finally infiltrating the base to destroy its core. Each level ends with a unique boss except stage 4, which ends with 3 bosses.</desc>
+		<image>./mixart/Acrobat Mission (Japan).png</image>
+		<video>./snap/Acrobat Mission (Japan).mp4</video>
+		<marquee>./wheel/Acrobat Mission (Japan).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19920911T000000</releasedate>
+		<developer>UPL Co., Ltd</developer>
+		<publisher>Teichiku Co., LTD.</publisher>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>jp</lang>
+		<region>jp</region>
 	</game>
 </gameList>

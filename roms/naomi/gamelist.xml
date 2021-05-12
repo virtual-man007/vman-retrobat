@@ -20,20 +20,6 @@
 		<genre>Simulation</genre>
 	</game>
 	<game>
-		<path>./ausfache.zip</path>
-		<name>Akatsuki Blitzkampf Ausf Achse (Japan)</name>
-		<desc>Akatsuki Blitzkampf Ausf Achse is based upon the original Akatsuki Blitzkampf Japanese PC d?jin 2D fighting game from SUBTLE STYLE which was originally released on the 30th April 2007.  The original PC game got a lot of attention in Japan for its high-resolution sprites and older style gameplay similar to that of the older Samurai Showdown in the way that you can parry.  This Naomi arcade release features improved graphics as well as an extra character going under the name of Perfect.</desc>
-		<image>./mixart/ausfache.png</image>
-		<video>./snap/ausfache.mp4</video>
-		<marquee>./wheel/ausfache.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20080220T000000</releasedate>
-		<developer>Subtle Style</developer>
-		<publisher>PIC</publisher>
-		<genre>Fight-Fight / Versus</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./asndynmt.zip</path>
 		<name>Asian Dynamite</name>
 		<desc>Asian Dynamite is a Sega NAOMI arcade beat-'em-up game. It is known as Dynamite Deka EX in Japan, and is a direct sequel to Dynamite Deka, meaning in its localised form, Asian Dynamite is a direct sequel to Die Hard Arcade, with the references to the movie franchise removed.nnnnThe game has not been ported to home platforms, nor has it even seen a US release. It is extremely similar to Dynamite Cop in design, simply sporting an updated Asian aesthetic and replacing Jean Ivy and Eddie Brown with Caroline Powell and Jennifer Genuine, respectively. Caroline is the president's daughter from the first game grown up.</desc>
@@ -1558,20 +1544,6 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./zombrvn.zip</path>
-		<name>Zombie Revenge (rev A)</name>
-		<desc>Zombie Revenge is a 2-player side-scrolling fighting game where players battle many zombies and machines throughout 7 different levels, including an alley, factory and inside a mansion.    Pick-up weapons such as machine guns, shotguns, and drills to help fight the zombies including a variety of guns, flamethrowers, axes, and a drill.</desc>
-		<image>./mixart/zombrvn.png</image>
-		<video>./snap/zombrvn.mp4</video>
-		<marquee>./wheel/zombrvn.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./cfield.bin</path>
 		<name>Chaos Field (Japan, GDL-0025)</name>
 		<desc>Do you love battling the boss ships that appear at the end of each level of your favorite shmup? How about a game where you battle nothing BUT bosses? Your wish is granted with Chaos Field!!    The game draws on elements from other shooters to create its own unique hybrid style of play. You'll have a lock-on feature to take enemies and certain bullets out, as well as a "Radiant Silvergun"-style short-range energy field that will absorb certain bullets.    The action plays out in top-down fashion in the time-honored traditions of the shooting genre. Enemies and bullets will swarm like bees to honey, and it will be up to you to destroy everything, while avoiding getting blown up.</desc>
@@ -1737,6 +1709,34 @@
 		<players>1-2</players>
 	</game>
 	<game>
+		<path>./zombrvn.zip</path>
+		<name>Zombie Revenge (rev A)</name>
+		<desc>Zombie Revenge is a 2-player side-scrolling fighting game where players battle many zombies and machines throughout 7 different levels, including an alley, factory and inside a mansion.    Pick-up weapons such as machine guns, shotguns, and drills to help fight the zombies including a variety of guns, flamethrowers, axes, and a drill.</desc>
+		<image>./mixart/zombrvn.png</image>
+		<video>./snap/zombrvn.mp4</video>
+		<marquee>./wheel/zombrvn.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./ausfache.zip</path>
+		<name>Akatsuki Blitzkampf Ausf Achse (Japan)</name>
+		<desc>Akatsuki Blitzkampf Ausf Achse is based upon the original Akatsuki Blitzkampf Japanese PC d?jin 2D fighting game from SUBTLE STYLE which was originally released on the 30th April 2007.  The original PC game got a lot of attention in Japan for its high-resolution sprites and older style gameplay similar to that of the older Samurai Showdown in the way that you can parry.  This Naomi arcade release features improved graphics as well as an extra character going under the name of Perfect.</desc>
+		<image>./mixart/ausfache.png</image>
+		<video>./snap/ausfache.mp4</video>
+		<marquee>./wheel/ausfache.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20080220T000000</releasedate>
+		<developer>Subtle Style</developer>
+		<publisher>PIC</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>2</players>
+	</game>
+	<game>
 		<path>./doa2m.zip</path>
 		<name>Dead or Alive 2</name>
 		<desc>Dead or Alive 2 is a brilliant 3-D fighting game from Tecmo. The gameplay is similar to its predecessor, but now has new additions such as multi-tiered arenas and tag-team matches.</desc>
@@ -1750,5 +1750,6 @@
 		<genre>Fight-Fight / Versus</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

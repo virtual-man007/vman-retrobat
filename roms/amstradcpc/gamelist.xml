@@ -6,33 +6,6 @@
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game id="65339" source="ScreenScraper.fr">
-		<path>./Academy - Tau Ceti 2 (UK) (1987).dsk</path>
-		<name>Academy</name>
-		<rating>0.8</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>CRL Group</developer>
-		<publisher>CRL Group</publisher>
-		<players>1</players>
-		<hash>C2948A21</hash>
-		<image>./mixart/Academy - Tau Ceti 2 (UK) (1987).png</image>
-		<video>./snap/Academy - Tau Ceti 2 (UK) (1987).mp4</video>
-		<marquee>./wheel/Academy - Tau Ceti 2 (UK) (1987).png</marquee>
-	</game>
-	<game id="65583" source="ScreenScraper.fr">
-		<path>./Advanced Tactical Fighter (UK) (1986).dsk</path>
-		<name>Advanced Tactical Fighter</name>
-		<desc>ATF: Advanced Tactical Fighter is an action-oriented flight game. The game is set during a war of two unnamed war parties over an unnamed island. The player mans an Lockheed ATF fighter bomber to win the battle.
-
-The goal of every round is to destroy a number of strategic targets. The positions are shown on the jet's on board computer and the player can tackle them in any order. The game is action-oriented in nature, but the player still needs to take care of a few parameters, like a constant speed to avoid crashing or limited fuel and ammo. When resources or health are low (and the jet is near a friendly base), the player can start an automatic landing sequence to refill and repair. On the way to the targets it is either possible to take on enemy jets in direct combat or to fly low to avoid detection. The camera is fixed behind the jet's back.</desc>
-		<rating>0</rating>
-		<releasedate>19880101T000000</releasedate>
-		<publisher>Digital Integration</publisher>
-		<hash>A03312B8</hash>
-		<image>./mixart/Advanced Tactical Fighter (UK) (1986).png</image>
-		<video>./snap/Advanced Tactical Fighter (UK) (1986).mp4</video>
-		<marquee>./wheel/Advanced Tactical Fighter (UK) (1986).png</marquee>
-	</game>
 	<game id="72410" source="ScreenScraper.fr">
 		<path>./Wild Bunch, The (UK) (1985).dsk</path>
 		<name>Wild Bunch</name>
@@ -1749,6 +1722,30 @@ The druid can also come across a pentagram on the ground which will restore his 
 		<publisher>Domark Software</publisher>
 	</game>
 	<game>
+		<path>./Advanced Tactical Fighter (UK) (1986).dsk</path>
+		<name>Advanced Tactical Fighter</name>
+		<desc>ATF: Advanced Tactical Fighter is an action-oriented flight game. The game is set during a war of two unnamed war parties over an unnamed island. The player mans an Lockheed ATF fighter bomber to win the battle.
+
+The goal of every round is to destroy a number of strategic targets. The positions are shown on the jet's on board computer and the player can tackle them in any order. The game is action-oriented in nature, but the player still needs to take care of a few parameters, like a constant speed to avoid crashing or limited fuel and ammo. When resources or health are low (and the jet is near a friendly base), the player can start an automatic landing sequence to refill and repair. On the way to the targets it is either possible to take on enemy jets in direct combat or to fly low to avoid detection. The camera is fixed behind the jet's back.</desc>
+		<image>./mixart/Advanced Tactical Fighter (UK) (1986).png</image>
+		<video>./snap/Advanced Tactical Fighter (UK) (1986).mp4</video>
+		<marquee>./wheel/Advanced Tactical Fighter (UK) (1986).png</marquee>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<publisher>Digital Integration</publisher>
+	</game>
+	<game>
+		<path>./Academy - Tau Ceti 2 (UK) (1987).dsk</path>
+		<name>Academy</name>
+		<image>./mixart/Academy - Tau Ceti 2 (UK) (1987).png</image>
+		<video>./snap/Academy - Tau Ceti 2 (UK) (1987).mp4</video>
+		<marquee>./wheel/Academy - Tau Ceti 2 (UK) (1987).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>CRL Group</developer>
+		<publisher>CRL Group</publisher>
+	</game>
+	<game>
 		<path>./180 Darts (UK) (1986).dsk</path>
 		<name>180 Darts</name>
 		<desc>180 allows you to play a game of darts by yourself or against either the computer or another player. Before you play there are a number of games that can be selected and they are a one player game, two player game, Round the Board or Snooker. The one player game has you trying to get from the score 501 to zero, and you must try to get to zero within 20 darts and also finish with a double or Bullseye. If you manage to finish within 20 darts then you qualify for a league against seven other players and you must try to play one of seven games of darts in the lowest number of darts thrown. If you finish top of the league you then play four rounds of the World Championship which is a knock-out format. 
@@ -1764,5 +1761,7 @@ The dart boards are seen from a 1st person perspective shown on the whole screen
 		<developer>Binary Design</developer>
 		<publisher>Mastertronic Added Dimension</publisher>
 		<players>2</players>
+		<lang>en</lang>
+		<region>eu</region>
 	</game>
 </gameList>

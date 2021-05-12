@@ -1562,20 +1562,6 @@
 		<marquee>./wheel/TimeSplitters 2 (USA).png</marquee>
 		<video>./snap/TimeSplitters 2 (USA).mp4</video>
 	</game>
-	<game id="4825" source="ScreenScraper.fr">
-		<path>./TimeSplitters - Future Perfect (USA).rvz</path>
-		<name>TimeSplitters: Future Perfect</name>
-		<desc>In TimeSplitters: Future Perfect, humanity is on the brink of destruction by the evil TimeSplitters. With the help of some familiar faces, Cortez--the tough hero from previous installments--must chase a mystery foe across different time periods to trace the origins of the TimeSplitters. As Cortez, you'll have access to weapons, gadgets, characters, and environments that are unique to each time period. You can also correct the mistakes made in the past or team up with past and future versions of yourself in battles.</desc>
-		<rating>0.95</rating>
-		<releasedate>20050325T000000</releasedate>
-		<developer>Radical Software</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Action</genre>
-		<players>2-4</players>
-		<image>./mixart/TimeSplitters - Future Perfect (USA).png</image>
-		<marquee>./wheel/TimeSplitters - Future Perfect (USA).png</marquee>
-		<video>./snap/TimeSplitters - Future Perfect (USA).mp4</video>
-	</game>
 	<game id="4933" source="ScreenScraper.fr">
 		<path>./Tony Hawk's Pro Skater 3 (USA).rvz</path>
 		<name>Tony Hawk's Pro Skater 3</name>
@@ -2424,20 +2410,6 @@
 		<marquee>./wheel/Billy Hatcher and the Giant Egg (USA).png</marquee>
 		<video>./snap/Billy Hatcher and the Giant Egg (USA).mp4</video>
 	</game>
-	<game id="5091" source="ScreenScraper.fr">
-		<path>./Black &amp; Bruised (USA).rvz</path>
-		<name>Black &amp; Bruised</name>
-		<desc>Black &amp; Bruised is a cartoonish take on boxing with 18 different boxers, each with their own personality and fighting style.  There are five different modes including multi-player, exhibition and a story mode told with CG with each boxer's life story is played out in story mode.  Each boxer has a different special attack and power-ups can be picked up to use in matches.  There are 30 different facial expressions for each boxer reacting to punches and misses giving them a life-like appearance.</desc>
-		<rating>0.6</rating>
-		<releasedate>20030128T000000</releasedate>
-		<developer>Digital Fiction</developer>
-		<publisher>Majesco</publisher>
-		<genre>Sports-Fight</genre>
-		<players>2</players>
-		<image>./mixart/Black &amp; Bruised (USA).png</image>
-		<marquee>./wheel/Black &amp; Bruised (USA).png</marquee>
-		<video>./snap/Black &amp; Bruised (USA).mp4</video>
-	</game>
 	<game id="5307" source="ScreenScraper.fr">
 		<path>./Blowout (USA).rvz</path>
 		<name>Blowout</name>
@@ -2617,20 +2589,6 @@
 		<image>./mixart/Dinotopia - The Sunstone Odyssey (USA).png</image>
 		<marquee>./wheel/Dinotopia - The Sunstone Odyssey (USA).png</marquee>
 		<video>./snap/Dinotopia - The Sunstone Odyssey (USA).mp4</video>
-	</game>
-	<game id="5145" source="ScreenScraper.fr">
-		<path>./Disney's Extreme Skate Adventure (USA).rvz</path>
-		<name>Disney Extreme Skate Adventure</name>
-		<desc>Disney characters step out of the movies and onto skateboards in Disney's Extreme Skate Adventure. You can play as your favorite Disney and Pixar characters, such as Buzz Lightyear and Woody from Toy Story 2, Simba and Rafiki from The Lion King, and Young Tarzan and Terk from Tarzan. Now you can skate, pull off tricks, and solve puzzles in all the exciting places you've seen in the movies, including Pride Rock, the Jungle Treehouse, and Pizza Planet.</desc>
-		<rating>0.75</rating>
-		<releasedate>20030902T000000</releasedate>
-		<developer>Toys For Bob</developer>
-		<publisher>Activision</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<image>./mixart/Disney's Extreme Skate Adventure (USA).png</image>
-		<marquee>./wheel/Disney's Extreme Skate Adventure (USA).png</marquee>
-		<video>./snap/Disney's Extreme Skate Adventure (USA).mp4</video>
 	</game>
 	<game id="5229" source="ScreenScraper.fr">
 		<path>./Disney Sports - Basketball (USA).rvz</path>
@@ -2853,20 +2811,6 @@
 		<image>./mixart/FIFA Street 2 (USA).png</image>
 		<marquee>./wheel/FIFA Street 2 (USA).png</marquee>
 		<video>./snap/FIFA Street 2 (USA).mp4</video>
-	</game>
-	<game id="5077" source="ScreenScraper.fr">
-		<path>./Fight Night Round 2 (USA).rvz</path>
-		<name>Fight Night : Round 2</name>
-		<desc>Packing in more fearsome punches, players can now dominate the ring with the all-new EA SPORTS Haymaker allowing gamers to knock down their opponents with one devastating blow by adding extra power to each punch. Every hit counts in the game with powerful punches inflicting dynamic injuries on opponents, and thus reducing a fighter's ability to defend himself. Players will also manage the boxers inside and out of the ring. Utilizing the new EA SPORTS Cutman, gamers can minimize damage on their fighters by helping them heal critical wounds between rounds.</desc>
-		<rating>0.85</rating>
-		<releasedate>20050317T000000</releasedate>
-		<developer>EA Sports</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Sports-Fight</genre>
-		<players>2</players>
-		<image>./mixart/Fight Night Round 2 (USA).png</image>
-		<marquee>./wheel/Fight Night Round 2 (USA).png</marquee>
-		<video>./snap/Fight Night Round 2 (USA).mp4</video>
 	</game>
 	<game id="5011" source="ScreenScraper.fr">
 		<path>./Disney-Pixar Finding Nemo (USA).rvz</path>
@@ -3133,20 +3077,6 @@
 		<image>./mixart/Hot Wheels - World Race (USA).png</image>
 		<marquee>./wheel/Hot Wheels - World Race (USA).png</marquee>
 		<video>./snap/Hot Wheels - World Race (USA).mp4</video>
-	</game>
-	<game id="4982" source="ScreenScraper.fr">
-		<path>./Hulk (USA).rvz</path>
-		<name>Hulk</name>
-		<desc>The Hulk takes place one year after the events in the film, with troubled scientist Bruce Banner and his enraged alter ego, The Hulk, forced into action once again. A new villain, known as The Leader, plans to use The Hulk's gamma energy to unleash a relentless army of gamma creatures on the world, and only you can stop him. Employ the powers of stealth and logic as Bruce Banner, or command the incredible strength and fury of The Hulk. Take down your foes in fully destructible environments. The Hulk's 25 attacks can hurt your foes and can also destroy your environment.</desc>
-		<rating>0.55</rating>
-		<releasedate>20030613T000000</releasedate>
-		<developer>Radical Entertainment</developer>
-		<publisher>Universal </publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Hulk (USA).png</image>
-		<marquee>./wheel/Hulk (USA).png</marquee>
-		<video>./snap/Hulk (USA).mp4</video>
 	</game>
 	<game id="5014" source="ScreenScraper.fr">
 		<path>./Hunter - The Reckoning (USA).rvz</path>
@@ -4149,19 +4079,6 @@
 		<marquee>./wheel/Space Raiders (USA).png</marquee>
 		<video>./snap/Space Raiders (USA).mp4</video>
 	</game>
-	<game id="4905" source="ScreenScraper.fr">
-		<path>./Spartan - Total Warrior (USA).rvz</path>
-		<name>Spartan Total Warrior</name>
-		<desc>This action epic lets players fight within massive cinematic battles as a fighter known only as The Spartan. Spartan: Total Warrior runs on proprietary software technology that makes it possible to present more than 170 detailed warriors simultaneously engaged in pitched combat.</desc>
-		<rating>0.8</rating>
-		<releasedate>20051007T000000</releasedate>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Spartan - Total Warrior (USA).png</image>
-		<marquee>./wheel/Spartan - Total Warrior (USA).png</marquee>
-		<video>./snap/Spartan - Total Warrior (USA).mp4</video>
-	</game>
 	<game id="5098" source="ScreenScraper.fr">
 		<path>./Spawn - Armageddon (USA).rvz</path>
 		<name>Spawn: Armageddon</name>
@@ -4829,20 +4746,6 @@
 		<video>./snap/X-Men - The Official Game (USA).mp4</video>
 	</game>
 	<game>
-		<path>./007 - Nightfire (USA).rvz</path>
-		<name>007: NightFire</name>
-		<desc>The ultimate secret agent is back in his most dangerous adventure yet in James Bond 007: NightFire. Explore new heights and depths like never before--infiltrate towering skyscrapers, take on treacherous underwater missions, and maneuver your sleek Aston Martin V12 Vanquish through the streets of Tokyo. New state-of-the-art upgradeable gadgets and weapons and original missions--including zero-gravity assignments--will leave you shaken and stirred.</desc>
-		<image>./mixart/007 - Nightfire (USA).png</image>
-		<video>./snap/007 - Nightfire (USA).mp4</video>
-		<marquee>./wheel/007 - Nightfire (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20021119T000000</releasedate>
-		<developer>Eurocom Entertainment Software</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Action</genre>
-		<players>2-4</players>
-	</game>
-	<game>
 		<path>./I-Ninja (USA).rvz</path>
 		<name>I-ninja</name>
 		<desc>A robot army led by Master O-Dor has destroyed the ninja clan. As the last of your kind you must take on the robot army and defeat Master O-Dor. You play a cartoon ninja with a big head in a level based 3D platform game. Each level is packed with new skills to master, challenges to beat, and grades to earn.</desc>
@@ -4923,20 +4826,6 @@
 		<publisher>Namco</publisher>
 		<genre>Action-Fight</genre>
 		<players>1-2</players>
-	</game>
-	<game>
-		<path>./F-Zero GX (Europe).rvz</path>
-		<name>F-Zero GX</name>
-		<desc>The classic Nintendo franchise that has inspired countless futuristic racing games returns with F-Zero GX on the Nintendo GameCube. Long-time rival Sega collaborated with Nintendo to redefine the futuristic racing genre with intense competition, blazing speeds, and brilliant track designs. F-Zero GX offers 20 different tracks and over 30 unique pilots, as well as a custom craft editor where players can create their own vehicle. Multiple game modes including Grand Prix, Time Attack, Versus mode, and the all new challenging story mode offer a multitude of alternatives to traditional racing. Players can laso save their game data on a memory card and use it to race custom vehicles in the arcade version of F-Zero GX.</desc>
-		<image>./mixart/F-Zero GX (Europe).png</image>
-		<video>./snap/F-Zero GX (Europe).mp4</video>
-		<marquee>./wheel/F-Zero GX (Europe).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20031031T000000</releasedate>
-		<developer>Amusement Vision</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<players>2-4</players>
 	</game>
 	<game>
 		<path>./Luigi's Mansion (USA).rvz</path>
@@ -5035,20 +4924,6 @@
 		<players>2-4</players>
 	</game>
 	<game>
-		<path>./007 - Everything or Nothing (USA).rvz</path>
-		<name>007: Everything or Nothing</name>
-		<desc>Think like Bond, act like Bond, and experience an entirely new Bond adventure. James Bond, the world's greatest secret agent, returns in Everything or Nothing with new guns and gadgets, combat skills, and clever tricks--and it's up to you to put them to good use. Travel through four exciting continents including the Valley of the Kings in Egypt and the French Quarter in New Orleans. The game also features two-player co-op missions and four-player multiplayer arena modes.</desc>
-		<image>./mixart/007 - Everything or Nothing (USA).png</image>
-		<video>./snap/007 - Everything or Nothing (USA).mp4</video>
-		<marquee>./wheel/007 - Everything or Nothing (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20040217T000000</releasedate>
-		<developer>Electronic Arts</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./ATV - Quad Power Racing 2 (USA).rvz</path>
 		<name>ATV Quad Power Racing 2</name>
 		<desc>ATV: Quad Power Racing 2 is all about big tricks, big boots to the face and big finishes. It's arcade ATV racing. ATV Quad Power Racing 2 combines 10 of the top pro riders in the world and 40+ real-life sponsors with fast, edge of your seat, arcade gameplay.Game features include 10 of the top professional riders from all over the world including Dana Creech, Kory Ellis, Tim Farr and others plus 10 stylized characters; 15 massive tracks in 5 different globe-spanning environments plus two freestyle arenas; kick attacks that teach your competitors not to even think about passing you; over-the-top control system and physics model give you the power pull huge air and ridiculous power slides; 20+ freestyle tricks; and real-life sponsors.</desc>
@@ -5075,19 +4950,6 @@
 		<publisher>Nintendo</publisher>
 		<genre>Sports / Skiing-Sports</genre>
 		<players>2-4</players>
-	</game>
-	<game>
-		<path>./Beyond Good &amp; Evil (USA) (En,Es).rvz</path>
-		<name>Beyond Good &amp; Evil</name>
-		<desc>In the future, on the planet Hillys, the population suffers from constant attacks from the alien DomZ. The situation is gradually getting worse, as the rate of DomZ kidnapings increase. The Alpha Section forces, who are in charge of protecting citizens, seem to be completely ineffective, not even fighting the DomZ. In the midst of this situation, the secretive organization IRIS alleges that the Alpha Section is involved in a massive government conspiracy, and seeks to expose the truth through journalism.  You control the young reporter/photographer Jade, with her companions Pey'j and Double H. After experiencing first-hand a DomZ attack, she is contacted by IRIS, who recruit her as an action reporter. Jade is now tasked with infiltrating the Alpha Section, exposing the government conspiracy, and ultimately finding the truth for herself.  Beyond Good &amp; Evil is an action-adventure game with diverse game play. Most of the game is based on stealth and puzzles, but there are sequences of racing, shooting, combat, and platform action. There are several mini-games and even an online ranking system (used by entering codes online after they are assigned in-game when the game is saved). As the game progresses, a large story unfolds, even dealing with some social issues on the way.</desc>
-		<image>./mixart/Beyond Good &amp; Evil (USA) (En,Es).png</image>
-		<video>./snap/Beyond Good &amp; Evil (USA) (En,Es).mp4</video>
-		<marquee>./wheel/Beyond Good &amp; Evil (USA) (En,Es).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20040226T000000</releasedate>
-		<developer>Ubisoft</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Race, Driving-Adventure</genre>
 	</game>
 	<game>
 		<path>./Chaos Field (USA).rvz</path>
@@ -5117,48 +4979,6 @@
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Mario Kart - Double Dash!! (USA).rvz</path>
-		<name>Mario Kart: Double Dash!!</name>
-		<desc>The king of kart racers has returned with Nintendo's Mario Kart: Double Dash on the Nintendo GameCube. Mario, along with Luigi, Peach, Baby Mario, Baby Luigi, Wario and more, are back for more multiplayer, single player and versus action. The new Mario Kart features updated graphics with detailed character models, and colorful interactive racing environments. For the first time, two characters ride in a single kart as one drive while the other uses items, opening up the possibility for two-player co-op racing. Along with the classic four-player competition, Mario Kart: Double Dash offers a new eight-player mode, where players can link multiple systems for a new level of multiplayer kart racing.</desc>
-		<image>./mixart/Mario Kart - Double Dash!! (USA).png</image>
-		<video>./snap/Mario Kart - Double Dash!! (USA).mp4</video>
-		<marquee>./wheel/Mario Kart - Double Dash!! (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20031117T000000</releasedate>
-		<developer>Nintendo EAD</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<players>4</players>
-	</game>
-	<game>
-		<path>./Auto Modellista (USA).rvz</path>
-		<name>Auto Modellista</name>
-		<desc>Faithful port of Capcom's cel-shaded PlayStation 2 racer, sans online support. The game features nine tracks in all, eight normal and one hidden, and 69 real-world, licensed vehicles -- presented anime-style thanks to the toon-shading technique. Players can choose from arcade mode, a standard enter and race scenario, garage life, which is the career mode of the game, and VJ and Theater, an arena enabling players to watch, edit and direct race replays of their choice. Cars can be fully customized down to the tires, brakes, suspension, turbine kits, mufflers, transmissions and more with hundreds of parts to choose from. Supports two-player split-screen racing.</desc>
-		<image>./mixart/Auto Modellista (USA).png</image>
-		<video>./snap/Auto Modellista (USA).mp4</video>
-		<marquee>./wheel/Auto Modellista (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20030930T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Bloody Roar - Primal Fury (USA).rvz</path>
-		<name>Bloody Roar : Primal Fury</name>
-		<desc>Primal Fury, called Bloody Roar Extreme in Japan, is a traditional 3D polygonal fighter that boasts a brawling style similar to that of Fighting Vipers. The twist is that each of the game's 16 characters can transform from human to beast shape and take on new fighting abilities. Bloody Roar: Primal Fury comes as an updated port to the PlayStation 2 released Bloody Roar 3, and is differentiated by enhanced, more detailed graphics, more rounded character models and a better framerate, among other additions. Developed by Eighting, the game is rated "T" for Teen by the ESRB.</desc>
-		<image>./mixart/Bloody Roar - Primal Fury (USA).png</image>
-		<video>./snap/Bloody Roar - Primal Fury (USA).mp4</video>
-		<marquee>./wheel/Bloody Roar - Primal Fury (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20020319T000000</releasedate>
-		<developer>Hudson</developer>
-		<publisher>Activision</publisher>
-		<genre>Fight</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Legend of Zelda, The - The Wind Waker (USA).rvz</path>
 		<name>The Legend of Zelda: The Wind Waker</name>
 		<desc>Nintendo's thematic action-adventure sequel to Ocarina of Time takes the series back to its more cartoonish roots. Utilizing a completely new look with cel-shaded graphics, the game casts players in the role of a familiar young boy, who sets out to save his kidnapped sister. Gameplay is vintage Zelda, only that the game's overworld is covered by water. Players have to control the direction of the wind to sail across the ocean and find dungeons, towns, and plenty of secrets. A special Game Boy Advance link-up option lets another player join the quest and give hints and assistance via the handheld.</desc>
@@ -5170,19 +4990,6 @@
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Adventure-Action-Role playing games</genre>
-	</game>
-	<game>
-		<path>./Star Wars - Rogue Squadron II - Rogue Leader (USA).rvz</path>
-		<name>Star Wars : Rogue Squadron II : Rogue Leader</name>
-		<desc>In Star Wars Rogue Squadron II you get the chance to jump into the cockpit of an X-wing and join Luke Skywalker and the Star Wars galaxy's most daring pilots as they return to face off against the Empire. As in the original hit game for N64, you'll relive favorite Star Wars battles including the perilous Death Star trench run, a daring space attack on a Star Destroyer and the legendary battle on the ice planet Hoth. Rogue Leader features stunning, movie like visuals and immerses players in an intense action-arcade experience. Aerial conflict takes place in a variety of craft such as the legendary X-wing, A-wing, and B-wing. For the first time, the game also features on-foot ground combat in missions directly based on or inspired by the original movie trilogy.</desc>
-		<image>./mixart/Star Wars - Rogue Squadron II - Rogue Leader (USA).png</image>
-		<video>./snap/Star Wars - Rogue Squadron II - Rogue Leader (USA).mp4</video>
-		<marquee>./wheel/Star Wars - Rogue Squadron II - Rogue Leader (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20011118T000000</releasedate>
-		<developer>LucasArts</developer>
-		<publisher>Factor 5</publisher>
-		<genre>Simulation</genre>
 	</game>
 	<game>
 		<path>./Baldur's Gate - Dark Alliance (USA).rvz</path>
@@ -5197,5 +5004,209 @@
 		<publisher>Interplay</publisher>
 		<genre>Role playing games</genre>
 		<players>2</players>
+	</game>
+	<game>
+		<path>./007 - Everything or Nothing (USA).rvz</path>
+		<name>007: Everything or Nothing</name>
+		<desc>Think like Bond, act like Bond, and experience an entirely new Bond adventure. James Bond, the world's greatest secret agent, returns in Everything or Nothing with new guns and gadgets, combat skills, and clever tricks--and it's up to you to put them to good use. Travel through four exciting continents including the Valley of the Kings in Egypt and the French Quarter in New Orleans. The game also features two-player co-op missions and four-player multiplayer arena modes.</desc>
+		<image>./mixart/007 - Everything or Nothing (USA).png</image>
+		<video>./snap/007 - Everything or Nothing (USA).mp4</video>
+		<marquee>./wheel/007 - Everything or Nothing (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20040217T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Star Wars - Rogue Squadron II - Rogue Leader (USA).rvz</path>
+		<name>Star Wars : Rogue Squadron II : Rogue Leader</name>
+		<desc>In Star Wars Rogue Squadron II you get the chance to jump into the cockpit of an X-wing and join Luke Skywalker and the Star Wars galaxy's most daring pilots as they return to face off against the Empire. As in the original hit game for N64, you'll relive favorite Star Wars battles including the perilous Death Star trench run, a daring space attack on a Star Destroyer and the legendary battle on the ice planet Hoth. Rogue Leader features stunning, movie like visuals and immerses players in an intense action-arcade experience. Aerial conflict takes place in a variety of craft such as the legendary X-wing, A-wing, and B-wing. For the first time, the game also features on-foot ground combat in missions directly based on or inspired by the original movie trilogy.</desc>
+		<image>./mixart/Star Wars - Rogue Squadron II - Rogue Leader (USA).png</image>
+		<video>./snap/Star Wars - Rogue Squadron II - Rogue Leader (USA).mp4</video>
+		<marquee>./wheel/Star Wars - Rogue Squadron II - Rogue Leader (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20011118T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>Factor 5</publisher>
+		<genre>Simulation</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Mario Kart - Double Dash!! (USA).rvz</path>
+		<name>Mario Kart: Double Dash!!</name>
+		<desc>The king of kart racers has returned with Nintendo's Mario Kart: Double Dash on the Nintendo GameCube. Mario, along with Luigi, Peach, Baby Mario, Baby Luigi, Wario and more, are back for more multiplayer, single player and versus action. The new Mario Kart features updated graphics with detailed character models, and colorful interactive racing environments. For the first time, two characters ride in a single kart as one drive while the other uses items, opening up the possibility for two-player co-op racing. Along with the classic four-player competition, Mario Kart: Double Dash offers a new eight-player mode, where players can link multiple systems for a new level of multiplayer kart racing.</desc>
+		<image>./mixart/Mario Kart - Double Dash!! (USA).png</image>
+		<video>./snap/Mario Kart - Double Dash!! (USA).mp4</video>
+		<marquee>./wheel/Mario Kart - Double Dash!! (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20031117T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Disney's Extreme Skate Adventure (USA).rvz</path>
+		<name>Disney Extreme Skate Adventure</name>
+		<desc>Disney characters step out of the movies and onto skateboards in Disney's Extreme Skate Adventure. You can play as your favorite Disney and Pixar characters, such as Buzz Lightyear and Woody from Toy Story 2, Simba and Rafiki from The Lion King, and Young Tarzan and Terk from Tarzan. Now you can skate, pull off tricks, and solve puzzles in all the exciting places you've seen in the movies, including Pride Rock, the Jungle Treehouse, and Pizza Planet.</desc>
+		<image>./mixart/Disney's Extreme Skate Adventure (USA).png</image>
+		<video>./snap/Disney's Extreme Skate Adventure (USA).mp4</video>
+		<marquee>./wheel/Disney's Extreme Skate Adventure (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20030902T000000</releasedate>
+		<developer>Toys For Bob</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Fight Night Round 2 (USA).rvz</path>
+		<name>Fight Night : Round 2</name>
+		<desc>Packing in more fearsome punches, players can now dominate the ring with the all-new EA SPORTS Haymaker allowing gamers to knock down their opponents with one devastating blow by adding extra power to each punch. Every hit counts in the game with powerful punches inflicting dynamic injuries on opponents, and thus reducing a fighter's ability to defend himself. Players will also manage the boxers inside and out of the ring. Utilizing the new EA SPORTS Cutman, gamers can minimize damage on their fighters by helping them heal critical wounds between rounds.</desc>
+		<image>./mixart/Fight Night Round 2 (USA).png</image>
+		<video>./snap/Fight Night Round 2 (USA).mp4</video>
+		<marquee>./wheel/Fight Night Round 2 (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20050317T000000</releasedate>
+		<developer>EA Sports</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports-Fight</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./007 - Nightfire (USA).rvz</path>
+		<name>007: NightFire</name>
+		<desc>The ultimate secret agent is back in his most dangerous adventure yet in James Bond 007: NightFire. Explore new heights and depths like never before--infiltrate towering skyscrapers, take on treacherous underwater missions, and maneuver your sleek Aston Martin V12 Vanquish through the streets of Tokyo. New state-of-the-art upgradeable gadgets and weapons and original missions--including zero-gravity assignments--will leave you shaken and stirred.</desc>
+		<image>./mixart/007 - Nightfire (USA).png</image>
+		<video>./snap/007 - Nightfire (USA).mp4</video>
+		<marquee>./wheel/007 - Nightfire (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20021119T000000</releasedate>
+		<developer>Eurocom Entertainment Software</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action</genre>
+		<players>2-4</players>
+	</game>
+	<game>
+		<path>./F-Zero GX (Europe).rvz</path>
+		<name>F-Zero GX</name>
+		<desc>The classic Nintendo franchise that has inspired countless futuristic racing games returns with F-Zero GX on the Nintendo GameCube. Long-time rival Sega collaborated with Nintendo to redefine the futuristic racing genre with intense competition, blazing speeds, and brilliant track designs. F-Zero GX offers 20 different tracks and over 30 unique pilots, as well as a custom craft editor where players can create their own vehicle. Multiple game modes including Grand Prix, Time Attack, Versus mode, and the all new challenging story mode offer a multitude of alternatives to traditional racing. Players can laso save their game data on a memory card and use it to race custom vehicles in the arcade version of F-Zero GX.</desc>
+		<image>./mixart/F-Zero GX (Europe).png</image>
+		<video>./snap/F-Zero GX (Europe).mp4</video>
+		<marquee>./wheel/F-Zero GX (Europe).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20031031T000000</releasedate>
+		<developer>Amusement Vision</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>2-4</players>
+	</game>
+	<game>
+		<path>./Spartan - Total Warrior (USA).rvz</path>
+		<name>Spartan Total Warrior</name>
+		<desc>This action epic lets players fight within massive cinematic battles as a fighter known only as The Spartan. Spartan: Total Warrior runs on proprietary software technology that makes it possible to present more than 170 detailed warriors simultaneously engaged in pitched combat.</desc>
+		<image>./mixart/Spartan - Total Warrior (USA).png</image>
+		<video>./snap/Spartan - Total Warrior (USA).mp4</video>
+		<marquee>./wheel/Spartan - Total Warrior (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20051007T000000</releasedate>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./TimeSplitters - Future Perfect (USA).rvz</path>
+		<name>TimeSplitters: Future Perfect</name>
+		<desc>In TimeSplitters: Future Perfect, humanity is on the brink of destruction by the evil TimeSplitters. With the help of some familiar faces, Cortez--the tough hero from previous installments--must chase a mystery foe across different time periods to trace the origins of the TimeSplitters. As Cortez, you'll have access to weapons, gadgets, characters, and environments that are unique to each time period. You can also correct the mistakes made in the past or team up with past and future versions of yourself in battles.</desc>
+		<image>./mixart/TimeSplitters - Future Perfect (USA).png</image>
+		<video>./snap/TimeSplitters - Future Perfect (USA).mp4</video>
+		<marquee>./wheel/TimeSplitters - Future Perfect (USA).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20050325T000000</releasedate>
+		<developer>Radical Software</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Action</genre>
+		<players>2-4</players>
+	</game>
+	<game>
+		<path>./Hulk (USA).rvz</path>
+		<name>Hulk</name>
+		<desc>The Hulk takes place one year after the events in the film, with troubled scientist Bruce Banner and his enraged alter ego, The Hulk, forced into action once again. A new villain, known as The Leader, plans to use The Hulk's gamma energy to unleash a relentless army of gamma creatures on the world, and only you can stop him. Employ the powers of stealth and logic as Bruce Banner, or command the incredible strength and fury of The Hulk. Take down your foes in fully destructible environments. The Hulk's 25 attacks can hurt your foes and can also destroy your environment.</desc>
+		<image>./mixart/Hulk (USA).png</image>
+		<video>./snap/Hulk (USA).mp4</video>
+		<marquee>./wheel/Hulk (USA).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>20030613T000000</releasedate>
+		<developer>Radical Entertainment</developer>
+		<publisher>Universal</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Beyond Good &amp; Evil (USA) (En,Es).rvz</path>
+		<name>Beyond Good &amp; Evil</name>
+		<desc>In the future, on the planet Hillys, the population suffers from constant attacks from the alien DomZ. The situation is gradually getting worse, as the rate of DomZ kidnapings increase. The Alpha Section forces, who are in charge of protecting citizens, seem to be completely ineffective, not even fighting the DomZ. In the midst of this situation, the secretive organization IRIS alleges that the Alpha Section is involved in a massive government conspiracy, and seeks to expose the truth through journalism.  You control the young reporter/photographer Jade, with her companions Pey'j and Double H. After experiencing first-hand a DomZ attack, she is contacted by IRIS, who recruit her as an action reporter. Jade is now tasked with infiltrating the Alpha Section, exposing the government conspiracy, and ultimately finding the truth for herself.  Beyond Good &amp; Evil is an action-adventure game with diverse game play. Most of the game is based on stealth and puzzles, but there are sequences of racing, shooting, combat, and platform action. There are several mini-games and even an online ranking system (used by entering codes online after they are assigned in-game when the game is saved). As the game progresses, a large story unfolds, even dealing with some social issues on the way.</desc>
+		<image>./mixart/Beyond Good &amp; Evil (USA) (En,Es).png</image>
+		<video>./snap/Beyond Good &amp; Evil (USA) (En,Es).mp4</video>
+		<marquee>./wheel/Beyond Good &amp; Evil (USA) (En,Es).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20040226T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Race, Driving-Adventure</genre>
+	</game>
+	<game id="5091" source="ScreenScraper.fr">
+		<path>./Black &amp; Bruised (USA).rvz</path>
+		<name>Black &amp; Bruised</name>
+		<desc>Black &amp; Bruised is a cartoonish take on boxing with 18 different boxers, each with their own personality and fighting style.  There are five different modes including multi-player, exhibition and a story mode told with CG with each boxer's life story is played out in story mode.  Each boxer has a different special attack and power-ups can be picked up to use in matches.  There are 30 different facial expressions for each boxer reacting to punches and misses giving them a life-like appearance.</desc>
+		<image>./mixart/Black &amp; Bruised (USA).png</image>
+		<video>./snap/Black &amp; Bruised (USA).mp4</video>
+		<marquee>./wheel/Black &amp; Bruised (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20030128T000000</releasedate>
+		<developer>Digital Fiction</developer>
+		<publisher>Majesco</publisher>
+		<genre>Sports-Fight</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Auto Modellista (USA).rvz</path>
+		<name>Auto Modellista</name>
+		<desc>Faithful port of Capcom's cel-shaded PlayStation 2 racer, sans online support. The game features nine tracks in all, eight normal and one hidden, and 69 real-world, licensed vehicles -- presented anime-style thanks to the toon-shading technique. Players can choose from arcade mode, a standard enter and race scenario, garage life, which is the career mode of the game, and VJ and Theater, an arena enabling players to watch, edit and direct race replays of their choice. Cars can be fully customized down to the tires, brakes, suspension, turbine kits, mufflers, transmissions and more with hundreds of parts to choose from. Supports two-player split-screen racing.</desc>
+		<image>./mixart/Auto Modellista (USA).png</image>
+		<video>./snap/Auto Modellista (USA).mp4</video>
+		<marquee>./wheel/Auto Modellista (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20030930T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Bloody Roar - Primal Fury (USA).rvz</path>
+		<name>Bloody Roar : Primal Fury</name>
+		<desc>Primal Fury, called Bloody Roar Extreme in Japan, is a traditional 3D polygonal fighter that boasts a brawling style similar to that of Fighting Vipers. The twist is that each of the game's 16 characters can transform from human to beast shape and take on new fighting abilities. Bloody Roar: Primal Fury comes as an updated port to the PlayStation 2 released Bloody Roar 3, and is differentiated by enhanced, more detailed graphics, more rounded character models and a better framerate, among other additions. Developed by Eighting, the game is rated "T" for Teen by the ESRB.</desc>
+		<image>./mixart/Bloody Roar - Primal Fury (USA).png</image>
+		<video>./snap/Bloody Roar - Primal Fury (USA).mp4</video>
+		<marquee>./wheel/Bloody Roar - Primal Fury (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20020319T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Activision</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

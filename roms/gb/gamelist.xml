@@ -183,22 +183,6 @@ You can release, sign up and trade players from all around the league, creating 
 		<marquee>./wheel/Amazing Penguin (USA, Europe).png</marquee>
 		<video>./snap/Amazing Penguin (USA, Europe).mp4</video>
 	</game>
-	<game id="3494" source="ScreenScraper.fr">
-		<path>./A-mazing Tater (USA).7z</path>
-		<name>A-mazing Tater</name>
-		<desc>This puzzle-game is the successor to Kwirk. The player has to guide a small potato to the exit of each level, which is made difficult by a number of obstacles. Crates have to be pushed out of the way or into holes to make them traversable. Difficulty is increased by the fact that there are crates and holes of several different shapes and sizes and many levels contain different types of spinning doors.
-
-The game features four different modes of play: Beginners Mode in which the basics are explained and the player receives hints on how to solve each level; Practice Mode that lets the player choose the size of the levels which are then randomly picked; Puzzle Mode in which the player has to complete 40 levels and receives a score depending on the time it took him to complete a level; and finally Action Mode, which is basically a story mode containing two stories. The game also features a password system and four different difficulty levels.</desc>
-		<rating>0.85</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Atlus Co., Ltd.</developer>
-		<publisher>Atlus Software Inc.</publisher>
-		<genre>Puzzle-Game-Strategy</genre>
-		<players>1</players>
-		<image>./mixart/A-mazing Tater (USA).png</image>
-		<marquee>./wheel/A-mazing Tater (USA).png</marquee>
-		<video>./snap/A-mazing Tater (USA).mp4</video>
-	</game>
 	<game id="59733" source="ScreenScraper.fr">
 		<path>./Animaniacs (USA).7z</path>
 		<name>Animaniacs</name>
@@ -8602,30 +8586,6 @@ Additionally, the Yellow, Black, Pink Rangers are extremely fast and can jump in
 		<genre>Beat'em Up</genre>
 	</game>
 	<game>
-		<path>./Adventures of Lolo (Europe).7z</path>
-		<name>Adventures of Lolo</name>
-		<desc>The lovely princess Lala was kidnapped by the Evil Demons of the Empire. You are Lolo, a round ball-like creature (just like the princess herself), and your mission is to sneak into the empire castle and to liberate the princess.
-
-Adventures of Lolo is a puzzle game, and each level is a castle room. The goal in each room is to collect all the hearts, then collect the chest to make the exit appear. Lolo can move blocks and turn enemies into eggs to move of freeze them. There are a few different types of enemies:
-Enemies that are stationary and can block your way (or the path of an enemy)
-Enemies that are stationary until you collect all the hearts, then run they run after you until you collect the treasure
-Enemies that will shoot you instantly if you are above/below/left/right of them, unless there is something between you
-Enemies that will shoot you and run back and forth
-Enemies that run after you and sleep wherever they touch you, and you can't move them
-Enemies that run after you when they see you and try to block you in.
-As Lolo collects hearts, he can gain power ups, such as the ability to shoot an enemy and move it, and the ability to break a block. Utilizing a power-up effectively is the key to completing many puzzles.
-
-Levels are single screens, and as they become more complex, you are encouraged to experiment as many levels can be solved in more than one way. There are 50 rooms in total.</desc>
-		<image>./mixart/Adventures of Lolo (Europe).png</image>
-		<video>./snap/Adventures of Lolo (Europe).mp4</video>
-		<marquee>./wheel/Adventures of Lolo (Europe).png</marquee>
-		<rating>0</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>HAL Laboratory, Inc.</developer>
-		<publisher>HAL America Inc.</publisher>
-		<genre>Puzzle-Game-Strategy-Action</genre>
-	</game>
-	<game>
 		<path>./Aerostar (USA, Europe).7z</path>
 		<name>Aerostar</name>
 		<desc>Aerostar is a top-down, vertically-scrolling shooter. The player controls an aircraft, but instead of going all across the screen, it can only stay on or fly over a preset road. However, it can ascend at the cost of disabling your weapons before descending back onto either another road or the one it was on before. Like most top-down shooters, there are power-up pods which provide an array of missiles, lasers, and guardian pods. In the end of each level there are extremely tough bosses. No storyline is provided.</desc>
@@ -8947,21 +8907,6 @@ Up to four players can play by split-screen. If there are no human opponents, th
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Adventure Island (USA, Europe).7z</path>
-		<name>Adventure Island</name>
-		<desc>In the South Pacific, Master Higgins lives peacefully wearing only a grass skirt and a cap. That is until the Evil Witch Doctor decides to capture Tina and hold her as his own. It's up to Master Higgins to gather throwing axes, fireballs and skateboards in order to aid his noble quest.
-
-The game is a side scroller, Master Higgins moves across the screen from left to right and finds his power-ups in giant eggs. This includes a skateboard which results in a great speed enhancement - until Master Higgins gets hit and loses his power. If he is not on a skateboard a hit means instant death. Another game mechanic is starvation which gets indicated through a meter which steadily decreases. If it hits zero the hero dies and the only way to fill it up is by collecting food on the way. Bosses await him at the end of levels, all the way to the Evil Witch Doctor himself.</desc>
-		<image>./mixart/Adventure Island (USA, Europe).png</image>
-		<video>./snap/Adventure Island (USA, Europe).mp4</video>
-		<marquee>./wheel/Adventure Island (USA, Europe).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19920202T000000</releasedate>
-		<developer>Hudson Soft Company, Ltd.</developer>
-		<publisher>Hudson Soft Company, Ltd.</publisher>
-		<genre>Action-Platform</genre>
-	</game>
-	<game>
 		<path>./Balloon Kid (USA, Europe).7z</path>
 		<name>Balloon Kid</name>
 		<desc>Balloon Kid is a unique side-scrolling platform game. You control a little girl who's brother has floated away on a big bunch of balloons. It's up to you to chase after him through 8 treacherous levels.  Instead of the usual jumping from platform to platform, you have a pair of balloons that allow you to float through the level. You must control your height carefully by tapping the 'A' button. Meanwhile, the screen is always scrolling to the left, and you have to keep up.
@@ -9035,6 +8980,60 @@ This 1990 release is a side-scrolling action game. Spider-Man can use his web ma
 		<genre>Action</genre>
 	</game>
 	<game>
+		<path>./A-mazing Tater (USA).7z</path>
+		<name>A-mazing Tater</name>
+		<desc>This puzzle-game is the successor to Kwirk. The player has to guide a small potato to the exit of each level, which is made difficult by a number of obstacles. Crates have to be pushed out of the way or into holes to make them traversable. Difficulty is increased by the fact that there are crates and holes of several different shapes and sizes and many levels contain different types of spinning doors.
+
+The game features four different modes of play: Beginners Mode in which the basics are explained and the player receives hints on how to solve each level; Practice Mode that lets the player choose the size of the levels which are then randomly picked; Puzzle Mode in which the player has to complete 40 levels and receives a score depending on the time it took him to complete a level; and finally Action Mode, which is basically a story mode containing two stories. The game also features a password system and four different difficulty levels.</desc>
+		<image>./mixart/A-mazing Tater (USA).png</image>
+		<video>./snap/A-mazing Tater (USA).mp4</video>
+		<marquee>./wheel/A-mazing Tater (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Atlus Co., Ltd.</developer>
+		<publisher>Atlus Software Inc.</publisher>
+		<genre>Puzzle-Game-Strategy</genre>
+	</game>
+	<game>
+		<path>./Adventures of Lolo (Europe).7z</path>
+		<name>Adventures of Lolo</name>
+		<desc>The lovely princess Lala was kidnapped by the Evil Demons of the Empire. You are Lolo, a round ball-like creature (just like the princess herself), and your mission is to sneak into the empire castle and to liberate the princess.
+
+Adventures of Lolo is a puzzle game, and each level is a castle room. The goal in each room is to collect all the hearts, then collect the chest to make the exit appear. Lolo can move blocks and turn enemies into eggs to move of freeze them. There are a few different types of enemies:
+Enemies that are stationary and can block your way (or the path of an enemy)
+Enemies that are stationary until you collect all the hearts, then run they run after you until you collect the treasure
+Enemies that will shoot you instantly if you are above/below/left/right of them, unless there is something between you
+Enemies that will shoot you and run back and forth
+Enemies that run after you and sleep wherever they touch you, and you can't move them
+Enemies that run after you when they see you and try to block you in.
+As Lolo collects hearts, he can gain power ups, such as the ability to shoot an enemy and move it, and the ability to break a block. Utilizing a power-up effectively is the key to completing many puzzles.
+
+Levels are single screens, and as they become more complex, you are encouraged to experiment as many levels can be solved in more than one way. There are 50 rooms in total.</desc>
+		<image>./mixart/Adventures of Lolo (Europe).png</image>
+		<video>./snap/Adventures of Lolo (Europe).mp4</video>
+		<marquee>./wheel/Adventures of Lolo (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>HAL Laboratory, Inc.</developer>
+		<publisher>HAL America Inc.</publisher>
+		<genre>Puzzle-Game-Strategy-Action</genre>
+	</game>
+	<game>
+		<path>./Adventure Island (USA, Europe).7z</path>
+		<name>Adventure Island</name>
+		<desc>In the South Pacific, Master Higgins lives peacefully wearing only a grass skirt and a cap. That is until the Evil Witch Doctor decides to capture Tina and hold her as his own. It's up to Master Higgins to gather throwing axes, fireballs and skateboards in order to aid his noble quest.
+
+The game is a side scroller, Master Higgins moves across the screen from left to right and finds his power-ups in giant eggs. This includes a skateboard which results in a great speed enhancement - until Master Higgins gets hit and loses his power. If he is not on a skateboard a hit means instant death. Another game mechanic is starvation which gets indicated through a meter which steadily decreases. If it hits zero the hero dies and the only way to fill it up is by collecting food on the way. Bosses await him at the end of levels, all the way to the Evil Witch Doctor himself.</desc>
+		<image>./mixart/Adventure Island (USA, Europe).png</image>
+		<video>./snap/Adventure Island (USA, Europe).mp4</video>
+		<marquee>./wheel/Adventure Island (USA, Europe).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19920202T000000</releasedate>
+		<developer>Hudson Soft Company, Ltd.</developer>
+		<publisher>Hudson Soft Company, Ltd.</publisher>
+		<genre>Action-Platform</genre>
+	</game>
+	<game>
 		<path>./David Crane's The Rescue of Princess Blobette (USA).7z</path>
 		<name>A Boy and his Blob : Rescue of Princess Blobette</name>
 		<desc>Blob is Back!
@@ -9052,5 +9051,7 @@ The Rescue of Princess Blobette tells the story of a young, male protagonist and
 		<developer>Absolute Entertainment</developer>
 		<publisher>Imagineering Inc</publisher>
 		<genre>Puzzle-Game-Platform</genre>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

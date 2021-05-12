@@ -713,23 +713,6 @@ The newest feature of this game (other than the much better graphics) is the onl
 		<region>us</region>
 	</game>
 	<game>
-		<path>./Contra - Shattered Soldier (USA).gz</path>
-		<name>Contra : Shattered Soldier</name>
-		<desc>Making its debut in the arcades in 1987 and, more pervasively, on the NES in 1988, the long-running Contra series continues with Contra: Shattered Soldier for the PlayStation 2. The game maintains its old-school, 2D platforming roots, but is enhanced with 3D polygonal models and unlockable endings and levels based on player performance (such as percentage of enemies killed).</desc>
-		<image>./mixart/Contra - Shattered Soldier (USA).png</image>
-		<video>./snap/Contra - Shattered Soldier (USA).mp4</video>
-		<marquee>./wheel/Contra - Shattered Soldier (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20030214T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Shoot'em Up-Shoot'em up / Horizontal</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./God of War II (USA).gz</path>
 		<name>God of War II</name>
 		<desc>Kratos, thanks to your help, is no longer a lowly mortal but a legendary god. The former warrior of Sparta has not been the same after usurping Ares, however. His mind is filled with persistent thoughts of blood, brutal suffering, and violent conflict, as the rest of the gods on Mount Olympus embroil themselves in petty politics and duplicitous deeds. Kratos wishes to end his torment, and he makes a solemn oath to end his reign as the God of War in unprecedented fashion: by permanently altering his fate. God of War II has you twirling Kratos' twin blades for more adventurous action in Ancient Greece, as the grim hero encounters an assortment of new mythological creatures and environmental dangers on his path to redemption.</desc>
@@ -785,21 +768,6 @@ The newest feature of this game (other than the much better graphics) is the onl
 		<developer>Treasure</developer>
 		<publisher>Konami</publisher>
 		<genre>Action-Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./MotorStorm - Arctic Edge (USA).gz</path>
-		<name>MotorStorm : Arctic Edge</name>
-		<desc>Motorstorm: Arctic Edge is an arcade racer pitting you against 8 other racers, human or AI in a competition to win in The Festival. The backdrop for the game is Alaska where you have to race on icy tracks in mountainous regions. Beside the other racers you have to take into account avalanches, broken ice bridges and a lot of other dangers on the route to victory.    The game is very fast-paced and it sees you racing around in cars, snowmobiles and trucks. You can select different wheels, exhausts, spoilers and more for your vehicles.</desc>
-		<image>./mixart/MotorStorm - Arctic Edge (USA).png</image>
-		<video>./snap/MotorStorm - Arctic Edge (USA).mp4</video>
-		<marquee>./wheel/MotorStorm - Arctic Edge (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20091014T000000</releasedate>
-		<developer>Bigbig Studios</developer>
-		<publisher>Sony</publisher>
-		<genre>Race, Driving</genre>
 		<players>2</players>
 		<favorite>true</favorite>
 	</game>
@@ -2367,6 +2335,38 @@ Story written by comics authors Garth Ennis and Jimmy Palmiotti.</desc>
 		<releasedate>20050311T000000</releasedate>
 		<developer>THQ</developer>
 		<publisher>Volition</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Contra - Shattered Soldier (USA).gz</path>
+		<name>Contra : Shattered Soldier</name>
+		<desc>Making its debut in the arcades in 1987 and, more pervasively, on the NES in 1988, the long-running Contra series continues with Contra: Shattered Soldier for the PlayStation 2. The game maintains its old-school, 2D platforming roots, but is enhanced with 3D polygonal models and unlockable endings and levels based on player performance (such as percentage of enemies killed).</desc>
+		<image>./mixart/Contra - Shattered Soldier (USA).png</image>
+		<video>./snap/Contra - Shattered Soldier (USA).mp4</video>
+		<marquee>./wheel/Contra - Shattered Soldier (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20030214T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em Up-Shoot'em up / Horizontal</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./MotorStorm - Arctic Edge (USA).gz</path>
+		<name>MotorStorm : Arctic Edge</name>
+		<desc>Motorstorm: Arctic Edge is an arcade racer pitting you against 8 other racers, human or AI in a competition to win in The Festival. The backdrop for the game is Alaska where you have to race on icy tracks in mountainous regions. Beside the other racers you have to take into account avalanches, broken ice bridges and a lot of other dangers on the route to victory.    The game is very fast-paced and it sees you racing around in cars, snowmobiles and trucks. You can select different wheels, exhausts, spoilers and more for your vehicles.</desc>
+		<image>./mixart/MotorStorm - Arctic Edge (USA).png</image>
+		<video>./snap/MotorStorm - Arctic Edge (USA).mp4</video>
+		<marquee>./wheel/MotorStorm - Arctic Edge (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20091014T000000</releasedate>
+		<developer>Bigbig Studios</developer>
+		<publisher>Sony</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
 		<favorite>true</favorite>
 	</game>
 </gameList>

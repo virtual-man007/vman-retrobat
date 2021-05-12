@@ -6,20 +6,6 @@
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game id="33396" source="ScreenScraper.fr">
-		<path>./EyeOfTheBeholder2_v1.1_0834.lha</path>
-		<name>Advanced Dungeons &amp; Dragons : Eye of the Beholder </name>
-		<desc>Eye of the Beholder II: The Legend of Darkmoon is a 1991 computer role-playing game and the sequel to Eye of the Beholder. It used a modified version of the first game's engine, added outdoor areas and greatly increased the amount of interaction the player had with their environment, along with substantially more 'roleplaying' aspects to the game</desc>
-		<rating>0.65</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>SSI</developer>
-		<publisher>Westwood Studios</publisher>
-		<players>1</players>
-		<hash>B38C244B</hash>
-		<image>./mixart/EyeOfTheBeholder2_v1.1_0834.png</image>
-		<marquee>./wheel/EyeOfTheBeholder2_v1.1_0834.png</marquee>
-		<video>./snap/EyeOfTheBeholder2_v1.1_0834.mp4</video>
-	</game>
 	<game id="34183" source="ScreenScraper.fr">
 		<path>./PoolOfRadiance_v1.2_0555.lha</path>
 		<name>Advanced Dungeons &amp; Dragons : Pool of Radiance, A </name>
@@ -44,24 +30,6 @@
 		<image>./mixart/PoolsOfDarkness_v1.1.png</image>
 		<marquee>./wheel/PoolsOfDarkness_v1.1.png</marquee>
 		<video>./snap/PoolsOfDarkness_v1.1.mp4</video>
-	</game>
-	<game id="33245" source="ScreenScraper.fr">
-		<path>./Aladdin_v1.7_AGA_0420.lha</path>
-		<name>Aladdin</name>
-		<desc>The game from Virgin based on the 1992 animated Disney film is a side-scrolling platformer.
-
-The player controls Aladdin, who must make his way through several levels based on locations from the movie: from the streets and rooftops of Agrabah, the Cave of Wonders and the Sultan's dungeon to the final confrontation in Grand Vizier Jafar's palace. The Sultan's guards and also animals of the desert want to hinder Aladdin in his way. He can defend himself with his sword or by throwing apples. Next to apples, Aladdin can also collect gems which can be traded for lives and continues with a traveling trader. Finding Genie or Abu icons enables bonus rounds. The Genie bonus round is a game of luck played for apples, gems or extra lives. In Abu's bonus round, the player controls the little monkey who has to catch bonus items that fall from the sky, but without touching any of the unwanted objects like rocks and pots.
-
-The game's humorous animations were created by Walt Disney Feature Animation.</desc>
-		<rating>0.9</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Disney</developer>
-		<publisher>Virgin</publisher>
-		<players>1</players>
-		<hash>154146AE</hash>
-		<image>./mixart/Aladdin_v1.7_AGA_0420.png</image>
-		<marquee>./wheel/Aladdin_v1.7_AGA_0420.png</marquee>
-		<video>./snap/Aladdin_v1.7_AGA_0420.mp4</video>
 	</game>
 	<game id="33370" source="ScreenScraper.fr">
 		<path>./Alien3_v2.1_0261.lha</path>
@@ -6188,26 +6156,6 @@ Rick Dangerous is a platform game across over 100 screens, in which Rick has his
 		<marquee>./wheel/RickDangerous_v1.3_2294.png</marquee>
 		<video>./snap/RickDangerous_v1.3_2294.mp4</video>
 	</game>
-	<game id="92622" source="ScreenScraper.fr">
-		<path>./RiseOfTheRobots_v1.3_AGA_1763.lha</path>
-		<name>Rise of the Robots</name>
-		<desc>Rise of the Robots emerges from the hype and reveals itself as a good-looking but rather unwieldy beat-em-up. The game, in all of the currently available versions, is just not that good.
-
-In terms of pure beat-em-up action, Rise of the Robots is outclassed by the barely-better-than-16-bit BODY BLOWS games. ROTR is quite poor in the "special moves" area of beat-em-up gaming. The graphics? Well... the animations are good. The characters, when still, look very good too. When moving they are anything but realistic looking. Their movements are jerky and very repetitive. What's different in each version? Not a lot. All of them suffer from the poor control and jerky animation.
-
-The non-AGA version takes less time to install on the hard drive than the AGA version because some of the Ã¢â¬ÅcinematicsÃ¢â¬Â have been taken out. They're not much of a loss really. This version also looks pretty good considering the number of colors onscreen. It seems to play a tad faster too.
-
-Disappointment is the key word here. The game promised so much and delivered so little. I guess one good thing is that, for once, the PC suffers from the exact same problems.</desc>
-		<rating>0.25</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Time Warner Interactive</developer>
-		<publisher>Mirage - Time Warner</publisher>
-		<players>1-2</players>
-		<hash>F5C76B03</hash>
-		<image>./mixart/RiseOfTheRobots_v1.3_AGA_1763.png</image>
-		<marquee>./wheel/RiseOfTheRobots_v1.3_AGA_1763.png</marquee>
-		<video>./snap/RiseOfTheRobots_v1.3_AGA_1763.mp4</video>
-	</game>
 	<game id="33779" source="ScreenScraper.fr">
 		<path>./RiskyWoods_v1.1_0571.lha</path>
 		<name>Risky Woods</name>
@@ -10311,19 +10259,6 @@ There are 3 different colours of marbles, which a quota to recover from each lev
 		<video>./snap/Tornado_v1.1_AGA.mp4</video>
 	</game>
 	<game>
-		<path>./Agony_v2.0_0960.lha</path>
-		<name>Agony</name>
-		<desc>This horizontally-scrolling shoot 'em up features six long levels, all with detailed and mellow background graphics, aiming for a less hectic feel than contemporaries such as Project X. As a magician's apprentice, you have been turned into an owl to give you the best chance of destroying the many dark creatures to be faced, and thus discovering the secret of cosmic strength.    These dark creatures include piranhas, giant ants and mosquitoes. Extra weapons and invincibility periods can be collected. The technical details include 3 layers of multi-directional parallax scrolling, background animation, and different title and in-game music.</desc>
-		<image>./mixart/Agony_v2.0_0960.png</image>
-		<video>./snap/Agony_v2.0_0960.mp4</video>
-		<marquee>./wheel/Agony_v2.0_0960.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Art &amp; Magic</developer>
-		<publisher>Psygnosis</publisher>
-		<genre>Shoot'em Up</genre>
-	</game>
-	<game>
 		<path>./WayneGretzkyHockey_v1.3.lha</path>
 		<name>Wayne Gretzky Hockey</name>
 		<desc>The first of three Wayne Gretzky games from Bethesda. It contains everything that could be found in a hockey rink, from big hits and fighting to icings and offsides. It's not only about what is on the ice but also outside, offering the player plenty of coaching options and gives you the ability to create your own players and teams
@@ -10416,22 +10351,6 @@ The game also offers a two-player-mode.</desc>
 		<players>2</players>
 	</game>
 	<game>
-		<path>./AstroMarineCorps_v1.2.lha</path>
-		<name>A.M.C. : Astro Marine Corps</name>
-		<desc>AMC is a 2D game with horizontal scrolling in 2 phases (typical of Spanish games), in the same style as Gryzor. In the first phase, one plays a commando that is sent on the planet DENDAR to trap the ship of the Death Bringers, the bearers of death. There are 11 different enemies to meet you, and Krauer, the Death Bringers leader who protects the ship and is 4 meters tall.
-
-The game starts with a single shot, then the weapon is expanded over the game, we pick up weapons more and more powerful. Note that the contents of the crates sent from the sky by the Astro Marine can be changed by the Death Bringers, so you can die suffocated by green carnivorous plants.
-
-Phase 2 of the game takes you to the Death Bringers ship that drops you on their planet, and you have to exterminate them in a limited time, and contains 13 different enemies and the end boss, Great King Alien.</desc>
-		<image>./mixart/AstroMarineCorps_v1.2.png</image>
-		<video>./snap/AstroMarineCorps_v1.2.mp4</video>
-		<marquee>./wheel/AstroMarineCorps_v1.2.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Creepsoft</developer>
-		<publisher>Dinamic Software</publisher>
-	</game>
-	<game>
 		<path>./ATrain_v1.2_1010.lha</path>
 		<name>A-Train Construction Set</name>
 		<desc>The A-Train Construction Set add-on for Maxis railroad management simulation A-Train is a map editor that allows modification of existing savegames and creation of new landscapes from scratch. The editor comes with six sample scenarios. Apart from that, it adds no new content to the game.</desc>
@@ -10442,40 +10361,6 @@ Phase 2 of the game takes you to the Death Bringers ship that drops you on their
 		<releasedate>19920101T000000</releasedate>
 		<developer>The Dreamer's Guild</developer>
 		<publisher>Broderbund</publisher>
-	</game>
-	<game>
-		<path>./20000LeaguesUnderTheSea_v0.4.lha</path>
-		<name>20000 Leagues under the Sea</name>
-		<desc>The game is based on an 1870 novel by Jules Verne.
-
-On July 5th, 1867 the government decided to launch the famous ship the "Abraham Lincoln", which will leave on the trail of a sea monster. The great French professor Mr. Arronax will also take part in the expedition. The weeks passed without any sign of the monster's presence in the area, when, one day, 300 miles from the shores of Queen Charlotte's Island... three members of the expedition set out on board the Nautilus, a submarine navigated by Captain Nemo. The player takes Anorax's role to find out more.
-
-Most of the game is spent on the Nautilus, which consists of three rooms: the living room, the control room and the library. There the player can manipulate objects and talk to people to receive hints what to do next and the state of the Nautilus. With the map, he influences the route. Sometimes the player leaves the submarine to explore other locations, and respectively solves puzzles to receive more hints or to solve action sequences, e.g., fighting against a shark. 
-
-The game is played in real-time, which means the key to success is being in the right location at the right time. This also results in various possibilities to render the game unwinnable, and causes waiting times. For the same reason, the player also needs to watch Nemo's mood. If he angers Nemo, e.g., by manipulating the ship instruments, he locks the player into his room and valuable time passes. The game is played completely in point &amp; click and has no function to save progress.</desc>
-		<image>./mixart/20000LeaguesUnderTheSea_v0.4.png</image>
-		<video>./snap/20000LeaguesUnderTheSea_v0.4.mp4</video>
-		<marquee>./wheel/20000LeaguesUnderTheSea_v0.4.png</marquee>
-		<rating>0</rating>
-		<releasedate>19890101T000000</releasedate>
-	</game>
-	<game>
-		<path>./SpaceQuest4_v1.1_1177.lha</path>
-		<name>Space Quest IV : Roger Wilco and the Time Rippers</name>
-		<desc>When reading the documentation is more fun than playing the game, you know that you are on to a loser. Space Quest IV is a very dry, slow affair which seems to ignore all the encouraging advanced made in the adventure genre over the last couple of years.
-
-The story concerns Roger being plucked from his own time and dumped back on his home planet Xenon far into the future. The place is looking a bit worse for wear and zombies wander the street. As it turns out this is the result of a super computer having gone mad after being infected by a virus caught from a pirate copy of Leisure Suit Larry (and if you think that is a hoot, then the humour is just about on your level Ã¢â¬â it never gets any better).
-
-The old-fashioned 16-bit graphics are, to put it politely, hideous, and the animation, such as there is, makes Roobarb And Custard look like a Disney classic. The other big problem is with the gameplay itself Ã¢â¬â there is very little interaction with other characters. For the first quarter of the game, if you try to talk to anyone, you end up dead seconds later Ã¢â¬â hardly an incentive to continue.
-
-It is hard to imagine even real adventure buffs enjoying this much. It is very old-fashioned and has an air of tiredness about it. Avoid.</desc>
-		<image>./mixart/SpaceQuest4_v1.1_1177.png</image>
-		<video>./snap/SpaceQuest4_v1.1_1177.mp4</video>
-		<marquee>./wheel/SpaceQuest4_v1.1_1177.png</marquee>
-		<rating>0</rating>
-		<releasedate>19920101T000000</releasedate>
-		<publisher>Sierra</publisher>
-		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./ActionFighter_v1.3.1_1243.lha</path>
@@ -10532,19 +10417,21 @@ The game supports up to 16 players in singles matches on a variety of court surf
 		<players>8+</players>
 	</game>
 	<game>
-		<path>./AlienBreed_v2.3a_0998.lha</path>
-		<name>Alien Breed</name>
-		<desc>Alien Breed is a top-down science fiction shooter somewhat inspired by the movie Alien in terms of plot and atmosphere. Gameplay, though, was obviously inspired by the Atari arcade classic Gauntlet. The game tells a typical sci-fi story of an alien invasion on the space station ISRC-4. Two space marines, Johnson and Stone, are the only human beings left to clear the base of aliens.
+		<path>./SpaceQuest4_v1.1_1177.lha</path>
+		<name>Space Quest IV : Roger Wilco and the Time Rippers</name>
+		<desc>When reading the documentation is more fun than playing the game, you know that you are on to a loser. Space Quest IV is a very dry, slow affair which seems to ignore all the encouraging advanced made in the adventure genre over the last couple of years.
 
-Moving around an alien-infested complex in a top-down view, you must at all times keep an eye not only on your energy level, but also be conservative with ammunition. Though you will find new ammo cartridges strewn around the levels, they are consumed quickly by respawning aliens that may come crawling out of the floors and walls when you least expect it. On the floors, you will also find keys for passing through locked doors. Keys must also be used with care, or you may find yourself locked out of a room containing the remaining keys that you will need in order to complete the level. Other doors are one-way, and will electrocute you if you try to pass it in the other direction.</desc>
-		<image>./mixart/AlienBreed_v2.3a_0998.png</image>
-		<video>./snap/AlienBreed_v2.3a_0998.mp4</video>
-		<marquee>./wheel/AlienBreed_v2.3a_0998.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19911014T000000</releasedate>
-		<developer>Team 17</developer>
-		<publisher>Team 17</publisher>
-		<players>2</players>
+The story concerns Roger being plucked from his own time and dumped back on his home planet Xenon far into the future. The place is looking a bit worse for wear and zombies wander the street. As it turns out this is the result of a super computer having gone mad after being infected by a virus caught from a pirate copy of Leisure Suit Larry (and if you think that is a hoot, then the humour is just about on your level Ã¢â¬â it never gets any better).
+
+The old-fashioned 16-bit graphics are, to put it politely, hideous, and the animation, such as there is, makes Roobarb And Custard look like a Disney classic. The other big problem is with the gameplay itself Ã¢â¬â there is very little interaction with other characters. For the first quarter of the game, if you try to talk to anyone, you end up dead seconds later Ã¢â¬â hardly an incentive to continue.
+
+It is hard to imagine even real adventure buffs enjoying this much. It is very old-fashioned and has an air of tiredness about it. Avoid.</desc>
+		<image>./mixart/SpaceQuest4_v1.1_1177.png</image>
+		<video>./snap/SpaceQuest4_v1.1_1177.mp4</video>
+		<marquee>./wheel/SpaceQuest4_v1.1_1177.png</marquee>
+		<rating>0</rating>
+		<releasedate>19920101T000000</releasedate>
+		<publisher>Sierra</publisher>
 		<favorite>true</favorite>
 	</game>
 	<game>
@@ -10564,5 +10451,117 @@ There are numerous different control options  the standard one involves always
 		<developer>David Papworth</developer>
 		<publisher>David Papworth</publisher>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Aladdin_v1.7_AGA_0420.lha</path>
+		<name>Aladdin</name>
+		<desc>The game from Virgin based on the 1992 animated Disney film is a side-scrolling platformer.
+
+The player controls Aladdin, who must make his way through several levels based on locations from the movie: from the streets and rooftops of Agrabah, the Cave of Wonders and the Sultan's dungeon to the final confrontation in Grand Vizier Jafar's palace. The Sultan's guards and also animals of the desert want to hinder Aladdin in his way. He can defend himself with his sword or by throwing apples. Next to apples, Aladdin can also collect gems which can be traded for lives and continues with a traveling trader. Finding Genie or Abu icons enables bonus rounds. The Genie bonus round is a game of luck played for apples, gems or extra lives. In Abu's bonus round, the player controls the little monkey who has to catch bonus items that fall from the sky, but without touching any of the unwanted objects like rocks and pots.
+
+The game's humorous animations were created by Walt Disney Feature Animation.</desc>
+		<image>./mixart/Aladdin_v1.7_AGA_0420.png</image>
+		<video>./snap/Aladdin_v1.7_AGA_0420.mp4</video>
+		<marquee>./wheel/Aladdin_v1.7_AGA_0420.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Disney</developer>
+		<publisher>Virgin</publisher>
+	</game>
+	<game>
+		<path>./AstroMarineCorps_v1.2.lha</path>
+		<name>A.M.C. : Astro Marine Corps</name>
+		<desc>AMC is a 2D game with horizontal scrolling in 2 phases (typical of Spanish games), in the same style as Gryzor. In the first phase, one plays a commando that is sent on the planet DENDAR to trap the ship of the Death Bringers, the bearers of death. There are 11 different enemies to meet you, and Krauer, the Death Bringers leader who protects the ship and is 4 meters tall.
+
+The game starts with a single shot, then the weapon is expanded over the game, we pick up weapons more and more powerful. Note that the contents of the crates sent from the sky by the Astro Marine can be changed by the Death Bringers, so you can die suffocated by green carnivorous plants.
+
+Phase 2 of the game takes you to the Death Bringers ship that drops you on their planet, and you have to exterminate them in a limited time, and contains 13 different enemies and the end boss, Great King Alien.</desc>
+		<image>./mixart/AstroMarineCorps_v1.2.png</image>
+		<video>./snap/AstroMarineCorps_v1.2.mp4</video>
+		<marquee>./wheel/AstroMarineCorps_v1.2.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Creepsoft</developer>
+		<publisher>Dinamic Software</publisher>
+	</game>
+	<game>
+		<path>./EyeOfTheBeholder2_v1.1_0834.lha</path>
+		<name>Advanced Dungeons &amp; Dragons : Eye of the Beholder </name>
+		<desc>Eye of the Beholder II: The Legend of Darkmoon is a 1991 computer role-playing game and the sequel to Eye of the Beholder. It used a modified version of the first game's engine, added outdoor areas and greatly increased the amount of interaction the player had with their environment, along with substantially more 'roleplaying' aspects to the game</desc>
+		<image>./mixart/EyeOfTheBeholder2_v1.1_0834.png</image>
+		<video>./snap/EyeOfTheBeholder2_v1.1_0834.mp4</video>
+		<marquee>./wheel/EyeOfTheBeholder2_v1.1_0834.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>SSI</developer>
+		<publisher>Westwood Studios</publisher>
+	</game>
+	<game>
+		<path>./RiseOfTheRobots_v1.3_AGA_1763.lha</path>
+		<name>Rise of the Robots</name>
+		<desc>Rise of the Robots emerges from the hype and reveals itself as a good-looking but rather unwieldy beat-em-up. The game, in all of the currently available versions, is just not that good.
+
+In terms of pure beat-em-up action, Rise of the Robots is outclassed by the barely-better-than-16-bit BODY BLOWS games. ROTR is quite poor in the "special moves" area of beat-em-up gaming. The graphics? Well... the animations are good. The characters, when still, look very good too. When moving they are anything but realistic looking. Their movements are jerky and very repetitive. What's different in each version? Not a lot. All of them suffer from the poor control and jerky animation.
+
+The non-AGA version takes less time to install on the hard drive than the AGA version because some of the Ã¢â¬ÅcinematicsÃ¢â¬Â have been taken out. They're not much of a loss really. This version also looks pretty good considering the number of colors onscreen. It seems to play a tad faster too.
+
+Disappointment is the key word here. The game promised so much and delivered so little. I guess one good thing is that, for once, the PC suffers from the exact same problems.</desc>
+		<image>./mixart/RiseOfTheRobots_v1.3_AGA_1763.png</image>
+		<video>./snap/RiseOfTheRobots_v1.3_AGA_1763.mp4</video>
+		<marquee>./wheel/RiseOfTheRobots_v1.3_AGA_1763.png</marquee>
+		<rating>0.25</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Time Warner Interactive</developer>
+		<publisher>Mirage - Time Warner</publisher>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./20000LeaguesUnderTheSea_v0.4.lha</path>
+		<name>20000 Leagues under the Sea</name>
+		<desc>The game is based on an 1870 novel by Jules Verne.
+
+On July 5th, 1867 the government decided to launch the famous ship the "Abraham Lincoln", which will leave on the trail of a sea monster. The great French professor Mr. Arronax will also take part in the expedition. The weeks passed without any sign of the monster's presence in the area, when, one day, 300 miles from the shores of Queen Charlotte's Island... three members of the expedition set out on board the Nautilus, a submarine navigated by Captain Nemo. The player takes Anorax's role to find out more.
+
+Most of the game is spent on the Nautilus, which consists of three rooms: the living room, the control room and the library. There the player can manipulate objects and talk to people to receive hints what to do next and the state of the Nautilus. With the map, he influences the route. Sometimes the player leaves the submarine to explore other locations, and respectively solves puzzles to receive more hints or to solve action sequences, e.g., fighting against a shark. 
+
+The game is played in real-time, which means the key to success is being in the right location at the right time. This also results in various possibilities to render the game unwinnable, and causes waiting times. For the same reason, the player also needs to watch Nemo's mood. If he angers Nemo, e.g., by manipulating the ship instruments, he locks the player into his room and valuable time passes. The game is played completely in point &amp; click and has no function to save progress.</desc>
+		<image>./mixart/20000LeaguesUnderTheSea_v0.4.png</image>
+		<video>./snap/20000LeaguesUnderTheSea_v0.4.mp4</video>
+		<marquee>./wheel/20000LeaguesUnderTheSea_v0.4.png</marquee>
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./AlienBreed_v2.3a_0998.lha</path>
+		<name>Alien Breed</name>
+		<desc>Alien Breed is a top-down science fiction shooter somewhat inspired by the movie Alien in terms of plot and atmosphere. Gameplay, though, was obviously inspired by the Atari arcade classic Gauntlet. The game tells a typical sci-fi story of an alien invasion on the space station ISRC-4. Two space marines, Johnson and Stone, are the only human beings left to clear the base of aliens.
+
+Moving around an alien-infested complex in a top-down view, you must at all times keep an eye not only on your energy level, but also be conservative with ammunition. Though you will find new ammo cartridges strewn around the levels, they are consumed quickly by respawning aliens that may come crawling out of the floors and walls when you least expect it. On the floors, you will also find keys for passing through locked doors. Keys must also be used with care, or you may find yourself locked out of a room containing the remaining keys that you will need in order to complete the level. Other doors are one-way, and will electrocute you if you try to pass it in the other direction.</desc>
+		<image>./mixart/AlienBreed_v2.3a_0998.png</image>
+		<video>./snap/AlienBreed_v2.3a_0998.mp4</video>
+		<marquee>./wheel/AlienBreed_v2.3a_0998.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19911014T000000</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Team 17</publisher>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Agony_v2.0_0960.lha</path>
+		<name>Agony</name>
+		<desc>This horizontally-scrolling shoot 'em up features six long levels, all with detailed and mellow background graphics, aiming for a less hectic feel than contemporaries such as Project X. As a magician's apprentice, you have been turned into an owl to give you the best chance of destroying the many dark creatures to be faced, and thus discovering the secret of cosmic strength.    These dark creatures include piranhas, giant ants and mosquitoes. Extra weapons and invincibility periods can be collected. The technical details include 3 layers of multi-directional parallax scrolling, background animation, and different title and in-game music.</desc>
+		<image>./mixart/Agony_v2.0_0960.png</image>
+		<video>./snap/Agony_v2.0_0960.mp4</video>
+		<marquee>./wheel/Agony_v2.0_0960.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Art &amp; Magic</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Shoot'em Up</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

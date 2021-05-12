@@ -6,153 +6,28 @@
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game id="91161" source="ScreenScraper.fr">
-		<path>./Gunship2000_v3.1_CD32.lha</path>
-		<name>Gunship 2000</name>
-		<desc>Gunship 2000 is a game which achieves the tricky task of balancing technical accuracy with playability. It doesn't bog the player down with endless pages of numbers and statistics, and you can happily bounce your helicopter off the ground without worrying about falling out. It has lots of scope, starting the player off on simple fly-about missions, and giving the opportunity to retire and play general by directing others about. The kind of game that could keep the occasional player going for months.</desc>
-		<rating>0</rating>
-		<releasedate>19930605T000000</releasedate>
-		<developer>MicroProse</developer>
-		<publisher>MicroProse</publisher>
-		<players>1</players>
-		<hash>CE665CF2</hash>
-		<image>./mixart/Gunship2000_v3.1_CD32.png</image>
-		<marquee>./wheel/Gunship2000_v3.1_CD32.png</marquee>
-		<video>./snap/Gunship2000_v3.1_CD32.mp4</video>
-	</game>
-	<game id="92293" source="ScreenScraper.fr">
-		<path>./PinballFantasies_v2.7_CD32.lha</path>
-		<name>Pinball Fantasies</name>
-		<desc>After the success of Pinball Dreams on several systems, a sequel featuring four new tables was created. The gameplay is much the same as the first game, with realistic physics, multi-player options and a high score table to aim for. The tables are Partyland, Speed Devils, Billion Dollar Gameshow and Stones 'n' Bones, taking in a funfair, racing cars, a tacky game-show, and a graveyard. Each one has a range of ramps, combos, light sequences and targets to shoot, as well as general themes which are less influenced by real tables than those in Pinball Dreams.
-</desc>
-		<rating>0.95</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>20th Century Fox</developer>
-		<publisher>Digital Illusions</publisher>
-		<players>1-8</players>
-		<hash>D2F6B93F</hash>
-		<image>./mixart/PinballFantasies_v2.7_CD32.png</image>
-		<marquee>./wheel/PinballFantasies_v2.7_CD32.png</marquee>
-		<video>./snap/PinballFantasies_v2.7_CD32.mp4</video>
-	</game>
-	<game id="106388" source="ScreenScraper.fr">
-		<path>./Prey - An Alien Encounter (Europe).cue</path>
-		<name>Prey - An Alien Encounter</name>
-		<desc>In Prey, the player is sent to asteroid KG-42 since all contact was lost with the colonists. The player's objective is to rescue as many colonists as they can. Poison gas fills the corridors, so the player has to act quickly before their oxygen supply runs out.
+	<game>
+		<path>./Battletoads_v1.2_CD32.lha</path>
+		<name>Battletoads</name>
+		<desc>The Dark Queen has attacked and kidnapped (toadnapped?) your best buddy.. To make matters worse, she nabbed the best looking girl around! So, what will you do? Cry? Whimper? Hide? Call the Starcops? NO! Cause you're a Battletoad! Battletoads don't cry, hide or call for help! And they certainly don't whimper! They get MAD then they get EVEN! So grab your blaster, hop on the Toadster and go get 'em!
 
-The game world is navigated in steps of pre-rendered video footage of corridors and halls. Players can use their map to help them navigate the labyrinth, finding rooms containing survivors. Occasionally, radio contact is made and mission objectives for the player will be updated for them to go to a specific location. After obtaining a gun, it is also possible to fight aliens, which are the source of the disturbance in the asteroid.</desc>
+You will control a battletoad through various levels. Some are side-scrolling beat-em-ups, other are vertical drops down a shaft, fighting as you go, others have you riding a rocket or surfboard, shooting or avoiding enemies. At the end of each area, there is a boss. In some areas, about half-way through, you may have a mini-boss.</desc>
+		<image>./mixart/Battletoads_v1.2_CD32.png</image>
+		<video>./snap/Battletoads_v1.2_CD32.mp4</video>
+		<marquee>./wheel/Battletoads_v1.2_CD32.png</marquee>
 		<rating>0.6</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Kirk Moreno MultiMedia</developer>
-		<publisher>Almathera Systems</publisher>
-		<players>1</players>
-		<hash>FB882911</hash>
-		<image>./mixart/Prey - An Alien Encounter (Europe)_CD32.png</image>
-		<marquee>./wheel/Prey - An Alien Encounter (Europe)_CD32.png</marquee>
-		<video>./snap/Prey - An Alien Encounter (Europe)_CD32.mp4</video>
-	</game>
-	<game>
-		<path>./Dennis_v1.5.2_CD32.lha</path>
-		<name>Dennis</name>
-		<desc>This game brings the US cartoon character Dennis the Menace's menacing treatment of poor old Mr. Wilson to the computer screen, around the time of the film also released in 1993. 
-
-Dennis is a platform game across settings such as Sewers, the Park, and Mr. Wilsons house, each of which has an end-of-level bad guy. The in-level opposition follows standard attack patterns and can usually be avoided. The enemies regenerate as you move on, although you generally only progress from bottom-left to top-right anyway. 
-
-Some of the holes in the ground are deadly while others lead to secret rooms. Fortunately, you are given up to 9 lives at the start, and lots of extra lives are on offer throughout the game, so these are well worth checking out. A choice between music and sound effects is offered.
-</desc>
-		<image>./mixart/Dennis_v1.5.2_CD32.png</image>
-		<video>./snap/Dennis_v1.5.2_CD32.mp4</video>
-		<marquee>./wheel/Dennis_v1.5.2_CD32.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Citizen Software</developer>
-		<publisher>Ocean</publisher>
-	</game>
-	<game>
-		<path>./Global Effect (Europe).cue</path>
-		<name>Global Effect</name>
-		<desc>Global Effect involves building up a sound local economy before going out to attack other nations and rule the world. Cities must contain housing, food sources and power supplies, which is where it gets complicated. You can choose the environmental settings of the game, in a similar way to Civilization - an icy world or a post-apocalyptic one make things much tougher.</desc>
-		<image>./mixart/Global Effect (Europe)_CD32.png</image>
-		<video>./snap/Global Effect (Europe)_CD32.mp4</video>
-		<marquee>./wheel/Global Effect (Europe)_CD32.png</marquee>
-		<rating>0</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Millennium Interactive</developer>
-		<publisher>Millennium Interactive</publisher>
-	</game>
-	<game>
-		<path>./SuperStreetFighter2Turbo_v1.1_CD32.lha</path>
-		<name>Super Street Fighter II Turbo</name>
-		<desc>Fighting game ported from the classic and wildly popular "Street Fighter 2" franchise.  Choose from a variety of characters and use their fighting skills to beat opponents and become the world champion fighter.
-
-Advantages over the original Street Fighter 2 include faster fighting speed, 4 new characters, new locations, and more balanced/streamlined moves for the original characters.
-</desc>
-		<image>./mixart/SuperStreetFighter2Turbo_v1.1_CD32.png</image>
-		<video>./snap/SuperStreetFighter2Turbo_v1.1_CD32.mp4</video>
-		<marquee>./wheel/SuperStreetFighter2Turbo_v1.1_CD32.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>GameTek</developer>
-		<publisher>Capcom</publisher>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./WildCupSoccer_v1.0_0229.lha</path>
-		<name>Wild Cup Soccer</name>
-		<desc>Following on from Brutal Sports Football came this interpretation of soccer, released alongside the 1994 World Cup. In one player mode you can play a Wild Cup or a League system; two player games are restricted to single Ã¢â¬ËUnfriendlyÃ¢â¬â¢ matches.
-
-Unlike its predecessor the game uses an isometric viewpoint, perhaps because the original FIFA was so popular at the time. A number of vicious moves are on offer, with tackles Vinnie Jones would flinch at along with lethal head-butts and shoulder barges. If a game finishes drawn, it goes into a Ã¢â¬ËPenalty Shoot OutÃ¢â¬â¢, which involves going round shooting the opposition;Ã¢â¬â the last team standing wins. The pre-match screens include attacking at defensive play styles, transfers and the chance to buy items such as rocket launchers and shields.</desc>
-		<image>./mixart/WildCupSoccer_v1.0_0229.png</image>
-		<video>./snap/WildCupSoccer_v1.0_0229.mp4</video>
-		<marquee>./wheel/WildCupSoccer_v1.0_0229.png</marquee>
-		<rating>0</rating>
-		<releasedate>19940101T000000</releasedate>
-		<publisher>Millennium</publisher>
-	</game>
-	<game>
-		<path>./Worms_v1.0_CD32_1MB.lha</path>
-		<name>Worms</name>
-		<desc>Worms is a turn-based strategy game. It features up to 4 teams of 4 worms, aiming to destroy the others on a generated terrain. Each worm has 100 hit points, and dies when his hit points fall to 0. Upon death, a worm explodes, causing damage to everyone around.
-
-Gameplay is turn-based. Each turn, the player can control one specific worm from his team. The worm can crawl left and right or jump. However, there is a time limit to make a move; also, if the worm falls from a great height, it loses health and the turn ends immediately; and if a worm falls into water or offscreen, it dies. Each turn, a worm can also make a single attack: the player can aim up and down, choose a weapon and then fire it. After attacking, the turn ends. 
-
-There's a lot of weapons available - the standard ones as bazookas (which is affected by the (random) wind settings and gravity) and grenades. The others include a Fire Punch, dynamite, air strikes, and utilities such as ropes and girders.
-
-There are 10 styles of terrain, ranging from forests and deserts to Candy land and the moon (complete with affected gravity). Shots leave craters in the ground, and complex tunnels can be formed.
-</desc>
-		<image>./mixart/Worms_v1.0_CD32_1MB.png</image>
-		<video>./snap/Worms_v1.0_CD32_1MB.mp4</video>
-		<marquee>./wheel/Worms_v1.0_CD32_1MB.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Team 17</developer>
-		<publisher>Team 17</publisher>
-		<players>1-4</players>
-	</game>
-	<game>
-		<path>./Zool_v1.2_CD32.lha</path>
-		<name>Zool - Ninja of the 'Nth' Dimension</name>
-		<desc>His name is Zool. He is a Ninja in the 2345th dimension, 6 worlds each with 3 stages. 
-
-In this platformer, you can run, jump, climb walls and shoot the enemies. In the levels are also some power-ups for Zool. There are life-spending hearts, smart bombs, shields, more powerful jump-skill and a twin Zool. This "twin" makes all your motions a few seconds after you do.
-
-In the options you can change the difficulty and the game-speed two times, the continues and the background music (Rock or Funk).
-</desc>
-		<image>./mixart/Zool_v1.2_CD32.png</image>
-		<video>./snap/Zool_v1.2_CD32.mp4</video>
-		<marquee>./wheel/Zool_v1.2_CD32.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Gremlin</developer>
-		<publisher>Gremlin</publisher>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Tradewest</publisher>
+		<players>2</players>
+		<lang>en</lang>
 	</game>
 	<game>
 		<path>./CannonFodder_v1.2_CD32.lha</path>
 		<name>Cannon Fodder</name>
 		<desc>Guide a team of up to four soldiers through 72 levels of combat in this innovative top-down action/strategy hybrid, best thought of as Lemmings crossed with Commando crossed with Dune 2. The characters are controlled indirectly using the mouse, as you activate each soldier or group of them by highlighting them, click the left button to move them to a particular spot, and the right button for them to fire guns at an enemy. You can also pick up grenades, which can be used to destroy groups of enemies or buildings (by pressing both buttons at once). 
 
-Each mission has a specific objective, and some feature vehicles such as tanks to make things easier. Your troops can cross water but can't shoot within it, so finding and controlling bridges is often crucial. You can use the arrangement of trees to find hiding places to shoot from, and should watch out for CPU soldiers also doing so.
-</desc>
+Each mission has a specific objective, and some feature vehicles such as tanks to make things easier. Your troops can cross water but can't shoot within it, so finding and controlling bridges is often crucial. You can use the arrangement of trees to find hiding places to shoot from, and should watch out for CPU soldiers also doing so.</desc>
 		<image>./mixart/CannonFodder_v2.0_0860.png</image>
 		<video>./snap/CannonFodder_v2.0_0860.mp4</video>
 		<marquee>./wheel/CannonFodder_v2.0_0860.png</marquee>
@@ -160,6 +35,24 @@ Each mission has a specific objective, and some feature vehicles such as tanks t
 		<releasedate>19930101T000000</releasedate>
 		<developer>Sensible Software</developer>
 		<publisher>Avalon Interactive</publisher>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Dangerous Streets (Europe) (En,Fr,De,It).cue</path>
+		<name>Dangerous Streets</name>
+		<desc>Dangerous Streets is a colorful sprite-based fighting game in the vein of Street Fighter II. Its eight characters are diverse, ranging from fashion models to a bizarre monster "custodian".
+
+In addition to a two-player mode, the game also features single matches against the CPU and a tournament mode. The control scheme consists of the standard weak, medium and strong punches/kicks, and both keyboard and joystick controls are supported.</desc>
+		<image>./mixart/Dangerous Streets (Europe) (En,Fr,De,It)_CD32.png</image>
+		<video>./snap/Dangerous Streets (Europe) (En,Fr,De,It)_CD32.mp4</video>
+		<marquee>./wheel/Dangerous Streets (Europe) (En,Fr,De,It)_CD32.png</marquee>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Micromania</developer>
+		<publisher>Flair Software</publisher>
+		<players>2</players>
+		<lang>de,en,fr,it</lang>
+		<region>eu</region>
 	</game>
 	<game>
 		<path>./Diggers_v1.0_CD32.lha</path>
@@ -173,22 +66,98 @@ The game is set on the planet Zarg, where four races are vying for the gems and 
 		<rating>0</rating>
 		<releasedate>19930101T000000</releasedate>
 		<publisher>Millennium</publisher>
+		<lang>en</lang>
 	</game>
 	<game>
-		<path>./PinballIllusions_v2.2_CD32.lha</path>
-		<name>Pinball Illusions</name>
-		<desc>Pinball Illusions is the successor to the Pinball Fantasies, using an upgraded game engine. The tables are Babewatch, Law &amp; Justice, Extreme Sports and (on PC CD versions) The Vikings. These contain ramps, bonus areas and combo sequences to set up. All the artwork were produced in true 256 colors from the ground up for AGA Amigas and the PC, rather than originating in 32 colors on older Amigas.
+		<path>./Global Effect (Europe).cue</path>
+		<name>Global Effect</name>
+		<desc>Global Effect involves building up a sound local economy before going out to attack other nations and rule the world. Cities must contain housing, food sources and power supplies, which is where it gets complicated. You can choose the environmental settings of the game, in a similar way to Civilization - an icy world or a post-apocalyptic one make things much tougher.</desc>
+		<image>./mixart/Global Effect (Europe)_CD32.png</image>
+		<video>./snap/Global Effect (Europe)_CD32.mp4</video>
+		<marquee>./wheel/Global Effect (Europe)_CD32.png</marquee>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Millennium Interactive</developer>
+		<publisher>Millennium Interactive</publisher>
+		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./Guardian_v1.0_CD32.lha</path>
+		<name>Guardian</name>
+		<desc>Guardian is a fast and furious shoot 'em up. You skim over the surface of a planet, shooting enemies down as quickly as you can, with the hope of protecting as may of the installations as possible - the more you save, the quicker you get extra lives.
 
-New to this version is multiball: Pinball Illusions supports up to six balls simultaneously, in which case it switches to high resolution mode. CD versions use CD audio for music.
-</desc>
-		<image>./mixart/PinballIllusions_v2.2_CD32.png</image>
-		<video>./snap/PinballIllusions_v2.2_CD32.mp4</video>
-		<marquee>./wheel/PinballIllusions_v2.2_CD32.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19950117T000000</releasedate>
+Plenty of power-ups are offered during the game, including enhanced weaponry and shields. The game is viewed in full 3D, and the camera angle can be adjusted. CD32 controllers are recommended, although keyboard and mouse are also available.</desc>
+		<image>./mixart/Guardian_v1.0_CD32.png</image>
+		<video>./snap/Guardian_v1.0_CD32.mp4</video>
+		<marquee>./wheel/Guardian_v1.0_CD32.png</marquee>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Acid</developer>
+		<publisher>Acid</publisher>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Gunship2000_v3.1_CD32.lha</path>
+		<name>Gunship 2000</name>
+		<desc>Gunship 2000 is a game which achieves the tricky task of balancing technical accuracy with playability. It doesn't bog the player down with endless pages of numbers and statistics, and you can happily bounce your helicopter off the ground without worrying about falling out. It has lots of scope, starting the player off on simple fly-about missions, and giving the opportunity to retire and play general by directing others about. The kind of game that could keep the occasional player going for months.</desc>
+		<image>./mixart/Gunship2000_v3.1_CD32.png</image>
+		<video>./snap/Gunship2000_v3.1_CD32.mp4</video>
+		<marquee>./wheel/Gunship2000_v3.1_CD32.png</marquee>
+		<rating>0</rating>
+		<releasedate>19930605T000000</releasedate>
+		<developer>MicroProse</developer>
+		<publisher>MicroProse</publisher>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./LastNinja3_v1.1_CD32.lha</path>
+		<name>Last Ninja 3</name>
+		<image>./mixart/LastNinja3_v1.1_CD32.png</image>
+		<video>./snap/LastNinja3_v1.1_CD32.mp4</video>
+		<rating>0</rating>
+		<releasedate />
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./LunarC_v1.0b_CD32.lha</path>
+		<name>Lunar C</name>
+		<image>./mixart/LunarC_v1.0b_CD32.png</image>
+		<video>./snap/LunarC_v1.0b_CD32.mp4</video>
+		<rating>0</rating>
+		<releasedate />
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./MarvinsMarvellousAdventure_v1.01_CD32.lha</path>
+		<name>Marvin's Marvellous Adventure</name>
+		<desc>One of the most console-style platformers ever seen on the Amiga, Marvin has approximately 60 levels to battle through. There are stars to collect, extra lives on offer, slides, tubes, ladders, caterpillars to move across, and bonus fruit to collect.
+
+The levels are inhabited by typical enemies, some of which are killed by jumping on their heads, while others must be kicked or shot (once you collect a weapon).
+
+Many of the annoyances which plague platform games, such as blind jumps and spikes appearing at random, are deliberately absent from this. The graphics are intentionally cute, using the AGA chip-set for 256 colours.</desc>
+		<image>./mixart/MarvinsMarvellousAdventure_v1.01_CD32.png</image>
+		<video>./snap/MarvinsMarvellousAdventure_v1.01_CD32.mp4</video>
+		<marquee>./wheel/MarvinsMarvellousAdventure_v1.01_CD32.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<publisher>20th Century Fox</publisher>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./PinballFantasies_v2.7_CD32.lha</path>
+		<name>Pinball Fantasies</name>
+		<desc>After the success of Pinball Dreams on several systems, a sequel featuring four new tables was created. The gameplay is much the same as the first game, with realistic physics, multi-player options and a high score table to aim for. The tables are Partyland, Speed Devils, Billion Dollar Gameshow and Stones 'n' Bones, taking in a funfair, racing cars, a tacky game-show, and a graveyard. Each one has a range of ramps, combos, light sequences and targets to shoot, as well as general themes which are less influenced by real tables than those in Pinball Dreams.</desc>
+		<image>./mixart/PinballFantasies_v2.7_CD32.png</image>
+		<video>./snap/PinballFantasies_v2.7_CD32.mp4</video>
+		<marquee>./wheel/PinballFantasies_v2.7_CD32.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19930101T000000</releasedate>
 		<developer>20th Century Fox</developer>
 		<publisher>Digital Illusions</publisher>
-		<players>1-8</players>
+		<players>8</players>
+		<lang>en</lang>
 	</game>
 	<game>
 		<path>./SensibleSoccerInternationalEdition_v1.0_CD32.lha</path>
@@ -201,61 +170,80 @@ New to this version is multiball: Pinball Illusions supports up to six balls sim
 		<releasedate>19940101T000000</releasedate>
 		<developer>Renegade Software</developer>
 		<publisher>Sensible Software</publisher>
+		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Roadkill_v2.1b_CD32.lha</path>
-		<name>Roadkill</name>
-		<desc>Set in the future, Roadkill is a racing game featuring all manner of gruesome additions. There are 9 computer opponents in each race, and you must finish in the top 3 every time. Rockets and homing missiles can be collected so as to shoot the rival cars out. The tracks feature inbuilt hazards and treacherous shortcuts
+		<path>./Dennis_v1.5.2_CD32.lha</path>
+		<name>Dennis</name>
+		<desc>This game brings the US cartoon character Dennis the Menace's menacing treatment of poor old Mr. Wilson to the computer screen, around the time of the film also released in 1993. 
 
-Money is a big factor in all of this - the higher you finish in a race, the more you get; it can be collected during the race; each car you destroy gives you more money than the previous one, as you go for the Jackpot and then the Super Jackpot.
-</desc>
-		<image>./mixart/Roadkill_v2.1b_CD32.png</image>
-		<video>./snap/Roadkill_v2.1b_CD32.mp4</video>
-		<marquee>./wheel/Roadkill_v2.1b_CD32.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Vision Software</developer>
-		<publisher>Acid</publisher>
+Dennis is a platform game across settings such as Sewers, the Park, and Mr. Wilsons house, each of which has an end-of-level bad guy. The in-level opposition follows standard attack patterns and can usually be avoided. The enemies regenerate as you move on, although you generally only progress from bottom-left to top-right anyway. 
+
+Some of the holes in the ground are deadly while others lead to secret rooms. Fortunately, you are given up to 9 lives at the start, and lots of extra lives are on offer throughout the game, so these are well worth checking out. A choice between music and sound effects is offered.</desc>
+		<image>./mixart/Dennis_v1.5.2_CD32.png</image>
+		<video>./snap/Dennis_v1.5.2_CD32.mp4</video>
+		<marquee>./wheel/Dennis_v1.5.2_CD32.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Citizen Software</developer>
+		<publisher>Ocean</publisher>
+		<lang>en</lang>
 	</game>
 	<game>
 		<path>./Frontier_v1.2_CD32.lha</path>
 		<name>Frontier</name>
 		<image>./mixart/Frontier_v1.2_CD32.png</image>
-		<marquee>./wheel/Frontier_v1.2_CD32.png</marquee>
 		<video>./snap/Frontier_v1.2_CD32.mp4</video>
+		<marquee>./wheel/Frontier_v1.2_CD32.png</marquee>
 		<rating>0</rating>
 		<releasedate />
+		<lang>en</lang>
 	</game>
 	<game>
-		<path>./LastNinja3_v1.1_CD32.lha</path>
-		<name>Last Ninja 3</name>
-		<image>./mixart/LastNinja3_v1.1_CD32.png</image>
-		<video>./snap/LastNinja3_v1.1_CD32.mp4</video>
-		<rating>0</rating>
-		<releasedate />
-	</game>
-	<game>
-		<path>./LunarC_v1.0b_CD32.lha</path>
-		<name>Lunar C</name>
-		<image>./mixart/LunarC_v1.0b_CD32.png</image>
-		<video>./snap/LunarC_v1.0b_CD32.mp4</video>
-		<rating>0</rating>
-		<releasedate />
-	</game>
-	<game>
-		<path>./MarvinsMarvellousAdventure_v1.01_CD32.lha</path>
-		<name>Marvin's Marvellous Adventure</name>
-		<desc>One of the most console-style platformers ever seen on the Amiga, Marvin has approximately 60 levels to battle through. There are stars to collect, extra lives on offer, slides, tubes, ladders, caterpillars to move across, and bonus fruit to collect.
+		<path>./Litil Divil (Europe).cue</path>
+		<name>Litil Divil</name>
+		<desc>A little devil named Mutt is a rather lazy character who prefers to do nothing in his own cozy part of the underworld. However, his luck changes when he is chosen as the hero who must venture into a mysterious Labyrinth in the overworld and retrieve the Pizza of Plenty from there, so that his demonic friends will have enough capers and anchovies to eat.
 
-The levels are inhabited by typical enemies, some of which are killed by jumping on their heads, while others must be kicked or shot (once you collect a weapon).
-
-Many of the annoyances which plague platform games, such as blind jumps and spikes appearing at random, are deliberately absent from this. The graphics are intentionally cute, using the AGA chip-set for 256 colours.</desc>
-		<image>./mixart/MarvinsMarvellousAdventure_v1.01_CD32.png</image>
-		<marquee>./wheel/MarvinsMarvellousAdventure_v1.01_CD32.png</marquee>
-		<video>./snap/MarvinsMarvellousAdventure_v1.01_CD32.mp4</video>
+Litil Divil has puzzle-solving and action elements, including platforming and combat. Mutt is being transported to various puzzle rooms, where he has to avoid obstacles, fight enemies, and manipulate the environment in order to succeed. It is also possible to buy items such as weapons and shields at specific locations.</desc>
+		<image>./mixart/Litil Divil (Europe)_CD32.png</image>
+		<video>./snap/Litil Divil (Europe)_CD32.mp4</video>
+		<marquee>./wheel/Litil Divil (Europe)_CD32.png</marquee>
 		<rating>0</rating>
-		<releasedate />
-		<publisher>20th Century Fox</publisher>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./PinballIllusions_v2.2_CD32.lha</path>
+		<name>Pinball Illusions</name>
+		<desc>Pinball Illusions is the successor to the Pinball Fantasies, using an upgraded game engine. The tables are Babewatch, Law &amp; Justice, Extreme Sports and (on PC CD versions) The Vikings. These contain ramps, bonus areas and combo sequences to set up. All the artwork were produced in true 256 colors from the ground up for AGA Amigas and the PC, rather than originating in 32 colors on older Amigas.
+
+New to this version is multiball: Pinball Illusions supports up to six balls simultaneously, in which case it switches to high resolution mode. CD versions use CD audio for music.</desc>
+		<image>./mixart/PinballIllusions_v2.2_CD32.png</image>
+		<video>./snap/PinballIllusions_v2.2_CD32.mp4</video>
+		<marquee>./wheel/PinballIllusions_v2.2_CD32.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19950117T000000</releasedate>
+		<developer>20th Century Fox</developer>
+		<publisher>Digital Illusions</publisher>
+		<players>8</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Prey - An Alien Encounter (Europe).cue</path>
+		<name>Prey - An Alien Encounter</name>
+		<desc>In Prey, the player is sent to asteroid KG-42 since all contact was lost with the colonists. The player's objective is to rescue as many colonists as they can. Poison gas fills the corridors, so the player has to act quickly before their oxygen supply runs out.
+
+The game world is navigated in steps of pre-rendered video footage of corridors and halls. Players can use their map to help them navigate the labyrinth, finding rooms containing survivors. Occasionally, radio contact is made and mission objectives for the player will be updated for them to go to a specific location. After obtaining a gun, it is also possible to fight aliens, which are the source of the disturbance in the asteroid.</desc>
+		<image>./mixart/Prey - An Alien Encounter (Europe)_CD32.png</image>
+		<video>./snap/Prey - An Alien Encounter (Europe)_CD32.mp4</video>
+		<marquee>./wheel/Prey - An Alien Encounter (Europe)_CD32.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Kirk Moreno MultiMedia</developer>
+		<publisher>Almathera Systems</publisher>
+		<lang>en</lang>
+		<region>eu</region>
 	</game>
 	<game>
 		<path>./RiseOfTheRobots_v1.3_CD32.lha</path>
@@ -274,19 +262,39 @@ Disappointment is the key word here. The game promised so much and delivered so 
 		<releasedate>19940101T000000</releasedate>
 		<developer>Time Warner Interactive</developer>
 		<publisher>Mirage - Time Warner</publisher>
-		<players>1-2</players>
+		<players>2</players>
+		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Litil Divil (Europe).cue</path>
-		<name>Litil Divil</name>
-		<desc>A little devil named Mutt is a rather lazy character who prefers to do nothing in his own cozy part of the underworld. However, his luck changes when he is chosen as the hero who must venture into a mysterious Labyrinth in the overworld and retrieve the Pizza of Plenty from there, so that his demonic friends will have enough capers and anchovies to eat.
+		<path>./Roadkill_v2.1b_CD32.lha</path>
+		<name>Roadkill</name>
+		<desc>Set in the future, Roadkill is a racing game featuring all manner of gruesome additions. There are 9 computer opponents in each race, and you must finish in the top 3 every time. Rockets and homing missiles can be collected so as to shoot the rival cars out. The tracks feature inbuilt hazards and treacherous shortcuts
 
-Litil Divil has puzzle-solving and action elements, including platforming and combat. Mutt is being transported to various puzzle rooms, where he has to avoid obstacles, fight enemies, and manipulate the environment in order to succeed. It is also possible to buy items such as weapons and shields at specific locations.</desc>
-		<image>./mixart/Litil Divil (Europe)_CD32.png</image>
-		<video>./snap/Litil Divil (Europe)_CD32.mp4</video>
-		<marquee>./wheel/Litil Divil (Europe)_CD32.png</marquee>
-		<rating>0</rating>
-		<releasedate>19940101T000000</releasedate>
+Money is a big factor in all of this - the higher you finish in a race, the more you get; it can be collected during the race; each car you destroy gives you more money than the previous one, as you go for the Jackpot and then the Super Jackpot.</desc>
+		<image>./mixart/Roadkill_v2.1b_CD32.png</image>
+		<video>./snap/Roadkill_v2.1b_CD32.mp4</video>
+		<marquee>./wheel/Roadkill_v2.1b_CD32.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Vision Software</developer>
+		<publisher>Acid</publisher>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SuperStreetFighter2Turbo_v1.1_CD32.lha</path>
+		<name>Super Street Fighter II Turbo</name>
+		<desc>Fighting game ported from the classic and wildly popular "Street Fighter 2" franchise.  Choose from a variety of characters and use their fighting skills to beat opponents and become the world champion fighter.
+
+Advantages over the original Street Fighter 2 include faster fighting speed, 4 new characters, new locations, and more balanced/streamlined moves for the original characters.</desc>
+		<image>./mixart/SuperStreetFighter2Turbo_v1.1_CD32.png</image>
+		<video>./snap/SuperStreetFighter2Turbo_v1.1_CD32.mp4</video>
+		<marquee>./wheel/SuperStreetFighter2Turbo_v1.1_CD32.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>GameTek</developer>
+		<publisher>Capcom</publisher>
+		<players>2</players>
+		<lang>en</lang>
 	</game>
 	<game>
 		<path>./UltimateBodyBlows_v1.1_CD32.lha</path>
@@ -299,53 +307,59 @@ Litil Divil has puzzle-solving and action elements, including platforming and co
 		<releasedate>19940101T000000</releasedate>
 		<developer>Team17 Software</developer>
 		<publisher>Team17 Software</publisher>
-		<players>1-4</players>
+		<players>4</players>
+		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Guardian_v1.0_CD32.lha</path>
-		<name>Guardian</name>
-		<desc>Guardian is a fast and furious shoot 'em up. You skim over the surface of a planet, shooting enemies down as quickly as you can, with the hope of protecting as may of the installations as possible - the more you save, the quicker you get extra lives.
+		<path>./WildCupSoccer_v1.0_0229.lha</path>
+		<name>Wild Cup Soccer</name>
+		<desc>Following on from Brutal Sports Football came this interpretation of soccer, released alongside the 1994 World Cup. In one player mode you can play a Wild Cup or a League system; two player games are restricted to single Ã¢â¬ËUnfriendlyÃ¢â¬â¢ matches.
 
-Plenty of power-ups are offered during the game, including enhanced weaponry and shields. The game is viewed in full 3D, and the camera angle can be adjusted. CD32 controllers are recommended, although keyboard and mouse are also available.</desc>
-		<image>./mixart/Guardian_v1.0_CD32.png</image>
-		<video>./snap/Guardian_v1.0_CD32.mp4</video>
-		<marquee>./wheel/Guardian_v1.0_CD32.png</marquee>
+Unlike its predecessor the game uses an isometric viewpoint, perhaps because the original FIFA was so popular at the time. A number of vicious moves are on offer, with tackles Vinnie Jones would flinch at along with lethal head-butts and shoulder barges. If a game finishes drawn, it goes into a Ã¢â¬ËPenalty Shoot OutÃ¢â¬â¢, which involves going round shooting the opposition;Ã¢â¬â the last team standing wins. The pre-match screens include attacking at defensive play styles, transfers and the chance to buy items such as rocket launchers and shields.</desc>
+		<image>./mixart/WildCupSoccer_v1.0_0229.png</image>
+		<video>./snap/WildCupSoccer_v1.0_0229.mp4</video>
+		<marquee>./wheel/WildCupSoccer_v1.0_0229.png</marquee>
 		<rating>0</rating>
 		<releasedate>19940101T000000</releasedate>
-		<developer>Acid</developer>
-		<publisher>Acid</publisher>
-		<players>1-2</players>
+		<publisher>Millennium</publisher>
+		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Battletoads_v1.2_CD32.lha</path>
-		<name>Battletoads</name>
-		<desc>The Dark Queen has attacked and kidnapped (toadnapped?) your best buddy.. To make matters worse, she nabbed the best looking girl around! So, what will you do? Cry? Whimper? Hide? Call the Starcops? NO! Cause you're a Battletoad! Battletoads don't cry, hide or call for help! And they certainly don't whimper! They get MAD then they get EVEN! So grab your blaster, hop on the Toadster and go get 'em!
+		<path>./Worms_v1.0_CD32_1MB.lha</path>
+		<name>Worms</name>
+		<desc>Worms is a turn-based strategy game. It features up to 4 teams of 4 worms, aiming to destroy the others on a generated terrain. Each worm has 100 hit points, and dies when his hit points fall to 0. Upon death, a worm explodes, causing damage to everyone around.
 
-You will control a battletoad through various levels. Some are side-scrolling beat-em-ups, other are vertical drops down a shaft, fighting as you go, others have you riding a rocket or surfboard, shooting or avoiding enemies. At the end of each area, there is a boss. In some areas, about half-way through, you may have a mini-boss.
-</desc>
-		<image>./mixart/Battletoads_v1.2_CD32.png</image>
-		<video>./snap/Battletoads_v1.2_CD32.mp4</video>
-		<marquee>./wheel/Battletoads_v1.2_CD32.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Rareware</developer>
-		<publisher>Tradewest</publisher>
-		<players>1-2</players>
+Gameplay is turn-based. Each turn, the player can control one specific worm from his team. The worm can crawl left and right or jump. However, there is a time limit to make a move; also, if the worm falls from a great height, it loses health and the turn ends immediately; and if a worm falls into water or offscreen, it dies. Each turn, a worm can also make a single attack: the player can aim up and down, choose a weapon and then fire it. After attacking, the turn ends. 
+
+There's a lot of weapons available - the standard ones as bazookas (which is affected by the (random) wind settings and gravity) and grenades. The others include a Fire Punch, dynamite, air strikes, and utilities such as ropes and girders.
+
+There are 10 styles of terrain, ranging from forests and deserts to Candy land and the moon (complete with affected gravity). Shots leave craters in the ground, and complex tunnels can be formed.</desc>
+		<image>./mixart/Worms_v1.0_CD32_1MB.png</image>
+		<video>./snap/Worms_v1.0_CD32_1MB.mp4</video>
+		<marquee>./wheel/Worms_v1.0_CD32_1MB.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Team 17</publisher>
+		<players>4</players>
+		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Dangerous Streets (Europe) (En,Fr,De,It).cue</path>
-		<name>Dangerous Streets</name>
-		<desc>Dangerous Streets is a colorful sprite-based fighting game in the vein of Street Fighter II. Its eight characters are diverse, ranging from fashion models to a bizarre monster "custodian".
+		<path>./Zool_v1.2_CD32.lha</path>
+		<name>Zool - Ninja of the 'Nth' Dimension</name>
+		<desc>His name is Zool. He is a Ninja in the 2345th dimension, 6 worlds each with 3 stages. 
 
-In addition to a two-player mode, the game also features single matches against the CPU and a tournament mode. The control scheme consists of the standard weak, medium and strong punches/kicks, and both keyboard and joystick controls are supported.</desc>
-		<image>./mixart/Dangerous Streets (Europe) (En,Fr,De,It)_CD32.png</image>
-		<video>./snap/Dangerous Streets (Europe) (En,Fr,De,It)_CD32.mp4</video>
-		<marquee>./wheel/Dangerous Streets (Europe) (En,Fr,De,It)_CD32.png</marquee>
-		<rating>0</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Micromania</developer>
-		<publisher>Flair Software</publisher>
-		<players>1-2</players>
+In this platformer, you can run, jump, climb walls and shoot the enemies. In the levels are also some power-ups for Zool. There are life-spending hearts, smart bombs, shields, more powerful jump-skill and a twin Zool. This "twin" makes all your motions a few seconds after you do.
+
+In the options you can change the difficulty and the game-speed two times, the continues and the background music (Rock or Funk).</desc>
+		<image>./mixart/Zool_v1.2_CD32.png</image>
+		<video>./snap/Zool_v1.2_CD32.mp4</video>
+		<marquee>./wheel/Zool_v1.2_CD32.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Gremlin</developer>
+		<publisher>Gremlin</publisher>
+		<lang>en</lang>
 	</game>
 	<game>
 		<path>./Akira_v1.2_CD32.lha</path>
@@ -360,5 +374,6 @@ Tetsuo is taken by the authorities and experimented upon by the team that lead t
 		<releasedate>19940101T000000</releasedate>
 		<developer>I.C.E.</developer>
 		<publisher>I.C.E.</publisher>
+		<lang>en</lang>
 	</game>
 </gameList>

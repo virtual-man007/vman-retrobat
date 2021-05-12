@@ -566,20 +566,6 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<hidden>false</hidden>
 	</game>
 	<game>
-		<path>./Banana.mgw</path>
-		<name>Banana</name>
-		<desc>Move a busy thrash man around the street to clean banana peels. When a pedestrian falls on a banana peel, one miss is scored. Five misses and game ends.
-1 point is scored for each safe pedestrian.</desc>
-		<image>./mixart/Banana.png</image>
-		<marquee>./wheel/Banana.png</marquee>
-		<video>./snap/Banana.mp4</video>
-		<rating>0</rating>
-		<releasedate />
-		<developer>VTech</developer>
-		<publisher>VTech</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./Tron.mgw</path>
 		<name>Tron</name>
 		<desc>You must destroy your enemy: Sark and the MCP (Master Control Program) by making the Enemy Light Cycle crash and by destroying Sark's Rings and finally by penetrating the MCP barrier and destroying the MCP. *Level 1: The Light Cycle Game. Two Light Cycles appear: Tron's (the blue one) Sark's (the red one). As both Cycles travel across the screen they create a wall behind them. You must try to destroy the enemy's Cycle by causing it to crash into a wall while avoiding crashing into a wall or the enemy Cycle. Press the "Speed/Shoot" button to accelerate. 5 points for moving ahead and creating five Tron wall bars. 100 points for destroying each enemy Light Cycle. * Level 2: The Ring Game. Tron is on the left and Sark is on the right. The green bars beneath each figure represent the four Rings each player begins with. Move Tron up and down to catch the Disc as Sark throws it; then position Tron and press the "Speed/Shoot" button to throw the Disc where Sark can't catch it. If either one misses it they lose one Ring below them. 5 points for catching a Disc. 20 points for destroying the enemy's Ring. 200 points for destroying all Rings. * Level 3: the MCP Game. Tron is on the left on a stationary position. Below him are bars that act as timers: the number of bars equals the number of Tron's remaining Rings from the Ring Game. Press the "Speed/Shoot" button to throw one Disc at the MCP Barrier; the Barrier will begin to move up and down. Try to pick the correct timing to press the "Speed/Shoot" button again and release a Disc to penetrate the Barrier and destroy the MCP; then game starts again with the Light Cycle Game - at higher speed! If the Disc fails to penetrate the Barrier you must release another Disc and aim for the correct timing again. If all bars below Tron disappear, a miss is scored. 200 points for destroying the MCP. Bonus 50 points x the number or remaining timing bars. The highest score that can be recorded is 1,995 points; anything over 2,000 points appear as a green bar on the top of the screen when your total score is shown. The highest possible score is 15,995 points, shown as seven bars plus 1,995. Bonus life is given at every 2,000 points scored (maximum five lives at one time).</desc>
@@ -748,6 +734,20 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<publisher>Coleco</publisher>
 	</game>
 	<game>
+		<path>./Banana.mgw</path>
+		<name>Banana</name>
+		<desc>Move a busy thrash man around the street to clean banana peels. When a pedestrian falls on a banana peel, one miss is scored. Five misses and game ends.
+1 point is scored for each safe pedestrian.</desc>
+		<image>./mixart/Banana.png</image>
+		<video>./snap/Banana.mp4</video>
+		<marquee>./wheel/Banana.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
 		<path>./Armor Battle.mgw</path>
 		<name>Armor Battle</name>
 		<desc>You are on a dangerous tank mission. To reach and destroy your assigned target, you must maneuver through a field filled with enemy mines. Although these are hidden, the mine detection equipment in your tank warns you of their presence by producing a buzzing sound. This is your signal to change course on route to your target. If you should stumble into a mine, your tank will be "destroyed" and returned to its original starting position. If you get through the minefield and successfully engage the target, the built-in computer will automatically set up another challenge with a new starting position, target location, and minefield.</desc>
@@ -759,5 +759,6 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<developer>Mattel Electronics</developer>
 		<publisher>Mattel Electronics</publisher>
 		<genre>Action</genre>
+		<lang>en</lang>
 	</game>
 </gameList>
