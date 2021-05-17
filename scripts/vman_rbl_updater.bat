@@ -12,6 +12,7 @@ echo %VERSION%
 echo.
 echo Fetching latest updates...
 echo Updating script...
+cd V:\_tools
 powershell -Command "$ErrorActionPreference= 'silentlycontinue' ; Remove-Item -Path '.\vman-retrobat-master' -Recurse;Invoke-Command -scriptblock {wget https://github.com/virtual-man007/vman-retrobat/archive/master.zip -Outfile vman-retrobat.zip;Expand-Archive -Path 'vman-retrobat.zip' -DestinationPath '.';Remove-Item -Path 'vman-retrobat.zip'}"
 copy /y V:\_tools\vman-retrobat-master\scripts\vman_rbl_updater.bat V:\_tools > nul
 type NUL > %TEMP%\vman_update.tmp
