@@ -46,22 +46,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Sky Force Reloaded.lnk</path>
-		<name>Sky Force Reloaded</name>
-		<desc>Sky Force Reloaded is the spirit of the classic arcade shoot ‘em ups, captured with modern visuals and design. New entry in the series will keep you entertained with all the things you’ve came to love in scrolling shooters. Meaty explosions, incinerating lasers, collosal bosses and diverse aircrafts to pilot. Sky Force Reloaded is not your average scrolling shooter. It will draw you in with its beautiful environments and intense effects.</desc>
-		<image>./mixart/Sky Force Reloaded.png</image>
-		<video>./snap/Sky Force Reloaded.mp4</video>
-		<marquee>./wheel/Sky Force Reloaded.png</marquee>
-		<rating>0.99</rating>
-		<releasedate>20171201T000000</releasedate>
-		<developer>Infinite Dreams</developer>
-		<publisher>Infinite Dreams</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Zaccaria Pinball.lnk</path>
 		<name>Zaccaria Pinball</name>
 		<desc>Zaccaria was founded by three brothers (Marino, Franco, and Natale) and was the 3rd largest manufacturer of pinball machines in the world (behind Bally and Williams). They had created and produced more than 35 different pinball machines between 1974 and 1987. Zaccaria Pinball is a commemoration of this great pinball manufacturer. In a nutshell: never-to-be-forgotten pinball experience! Why do we say that? Because #1: all 38 pinball tables are modeled with 100% accuracy from the original pinball machines of Zaccaria company Because #2: all sound effects, musics and vocals are recorded from the original pinball machines of Zaccaria company Because #3: all rules are scripted based on the rule sheets of the original pinball machines of Zaccaria company Because #4: a unique customization system gives you a free hand by many possibilities of change on graphical and physical parts of the game Because #5: various game modes ensure you to receive an amazing pinball experience independently of what pinball skills you have</desc>
@@ -1337,21 +1321,6 @@ Flip and bump our pint-sized protagonist around the stunning hand-painted island
 		<publisher>Microsoft Studios</publisher>
 		<genre>Beat'em Up</genre>
 		<players>3</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Pinball FX3.lnk</path>
-		<name>Pinball FX3</name>
-		<desc>Williams™ Pinball classics are now available -- and Fish Tales™ is yours for FREE! Zen is proud to bring these amazing games to players around the world. Enjoy! Zen Studios will continue to support Pinball FX3 with frequent content releases and new features!</desc>
-		<image>./mixart/Pinball FX3.png</image>
-		<video>./snap/Pinball FX3.mp4</video>
-		<marquee>./wheel/Pinball FX3.png</marquee>
-		<rating>4.5</rating>
-		<releasedate>20170926T000000</releasedate>
-		<developer>Zen Studios</developer>
-		<publisher>Zen Studios</publisher>
-		<genre>Action, Life Simulation</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
@@ -3217,21 +3186,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Titan Quest Anniversary.lnk</path>
-		<name>Titan Quest Anniversary</name>
-		<desc>For its 10 year anniversary, Titan Quest will shine in new splendour. This Anniversary Edition combines both Titan Quest and Titan Quest Immortal Throne in one game, and has been given a massive overhaul for the ultimate ARPG experience. -- Anniversary Edition update -- - Restored and improved multiplayer functionality, including new features like a built-in voice chat and NAT resolving for best multiplayer connectivity - Support for more resolutions, larger camera distance and scaleable UI size - Improved performance and general stability - Support for modders through new modding options and a fully integrated Steam Workshop - Complete balance rework with improvements to all Masteries, damage types, unique items and sets - Countless bug fixes and other improvements, including ten years’ worth of community fixes - Increased challenges and rewards for larger parties and on higher difficulty levels - Dozens of new heroes and bosses to encounter.</desc>
-		<image>./mixart/Titan Quest Anniversary.jpg</image>
-		<video>./snap/Titan Quest Anniversary.mp4</video>
-		<marquee>./wheel/Titan Quest Anniversary.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>201601T000000</releasedate>
-		<developer>THQ Nordic</developer>
-		<publisher>THQ Nortic</publisher>
-		<genre>Action, Role-Playing</genre>
-		<players>1-6</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Mantis Burn Racing.lnk</path>
 		<name>Mantis Burn Racing</name>
 		<desc>The race is on in Mantis Burn Racing, where fast-paced bumper-to-bumper racing combines with intuitive, tactile gameplay and stunning visuals in one of the best-looking and most immersive top-down racers around. Drive incredible built-for-racing vehicles across highly detailed, visually stunning tracks, in high-risk, high-speed races where winning is everything. Prove your skills in an extensive career mode and take on friends with 4-player local split-screen racing and online modes for up to 8 players in ‘one-more-go’ style competitive racing. With a RPG-style upgrade system providing players with deep tactical choices and excellent replay-ability, this is racing at its rawest but most exciting!</desc>
@@ -3402,21 +3356,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<players>4</players>
 	</game>
 	<game>
-		<path>./SoulCalibur 6.lnk</path>
-		<name>SoulCalibur 6</name>
-		<desc>SOULCALIBUR VI represents the latest entry in the premier weapons-based, head-to-head fighting series and continues the epic struggle of warriors searching for the legendary Soul Swords. Taking place in the 16th century, revisit the events of the original SOULCALIBUR to uncover hidden truths.</desc>
-		<image>./mixart/SoulCalibur 6.jpg</image>
-		<video>./snap/SoulCalibur 6.mp4</video>
-		<marquee>./wheel/SoulCalibur 6.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>201810T000000</releasedate>
-		<developer>Bandai Namco Studios</developer>
-		<publisher>Bandai Namco Entertainment</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Voodoo Vince Remastered.lnk</path>
 		<name>Voodoo Vince Remastered</name>
 		<desc>The classic character platformer is back after 13 years and newly remastered! Help Vince run, jump and fight his way through cemeteries, swamps and an evil carnival as he seeks to save his creator Madam Charmaine from the clutches of Kosmo The Inscrutable.</desc>
@@ -3477,6 +3416,112 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<favorite>true</favorite>
 	</game>
 	<game>
+		<path>./Joe Danger.lnk</path>
+		<name>Joe Danger</name>
+		<desc>Can you put the world’s most determined stuntman back into the limelight? Combo, boost and pull ludicrous stunts as Joe attempts to race his way back into the record books in over 100 eye-popping levels. Leap school buses full of screaming kids and pools of ravenous sharks! Dodge spikes and mousetraps! Speed through coin dashes and beat Team Nasty in nip-and-tuck races!</desc>
+		<image>./mixart/Joe Danger.jpg</image>
+		<video>./snap/Joe Danger.mp4</video>
+		<marquee>./wheel/Joe Danger.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>201007T000000</releasedate>
+		<developer>Hello Games</developer>
+		<publisher>Hello Games</publisher>
+		<genre>Platform, Racing</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Gabriel Knight - Sins of the Fathers 20th Anniversary Edition.lnk</path>
+		<name>Gabriel Knight - Sins of the Fathers 20th Anniversary Edition</name>
+		<desc>This 20th Anniversary Edition is a remake of Gabriel Knight: Sins of the Fathers. It features new HD graphics, new puzzles, new voice acting, a remastered soundtrack by the original composer, and even some new locations. The game stays true to the original in terms of the story, and while it is still a 3rd-person point-and-click adventure game, it uses 3D graphics and character models instead of 2D graphics with sprites. Unlike the original, the game includes a hint book which lets you gradually (tip by tip until the actual solution) view tips on how to solve puzzles. There is a certain waiting time between checking the next available hint. Also, the hint book is integrated as Gabriel's diary where he keeps track of the story and his ideas which may provide clues to solving some puzzles or figuring what to do next. And finally, the book also contains extras which are tied to your current location.</desc>
+		<image>./mixart/Gabriel Knight - Sins of the Fathers 20th Anniversary Edition.jpg</image>
+		<video>./snap/Gabriel Knight - Sins of the Fathers 20th Anniversary Edition.mp4</video>
+		<marquee>./wheel/Gabriel Knight - Sins of the Fathers 20th Anniversary Edition.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20140430T000000</releasedate>
+		<developer>Phoenix Online Studios</developer>
+		<publisher>Phoenix Online Studios</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Axiom Verge.lnk</path>
+		<name>Axiom Verge</name>
+		<desc>Axiom Verge is a retro-styled 2D action game focused on unusual weaponry and exploration of an maze-like, infested world. You play as Trace, a relatively normal (if quirky) guy who suffers a near-fatal injury, after which he wakes up in a strange, unsettling new world that is both high-tech and incredibly ancient. Why is he here? Where are the world's inhabitants? And what is the mysterious force that seems intent on ending his life?</desc>
+		<image>./mixart/Axiom Verge.jpg</image>
+		<video>./snap/Axiom Verge.mp4</video>
+		<marquee>./wheel/Axiom Verge.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>201501T000000</releasedate>
+		<developer>Thomas Happ Games</developer>
+		<publisher>Thomas Happ Games</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Pinball FX3.lnk</path>
+		<name>Pinball FX3</name>
+		<desc>Williams™ Pinball classics are now available -- and Fish Tales™ is yours for FREE! Zen is proud to bring these amazing games to players around the world. Enjoy! Zen Studios will continue to support Pinball FX3 with frequent content releases and new features!</desc>
+		<image>./mixart/Pinball FX3.png</image>
+		<video>./snap/Pinball FX3.mp4</video>
+		<marquee>./wheel/Pinball FX3.png</marquee>
+		<rating>4.5</rating>
+		<releasedate>20170926T000000</releasedate>
+		<developer>Zen Studios</developer>
+		<publisher>Zen Studios</publisher>
+		<genre>Action, Life Simulation</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="25557" source="ScreenScraper.fr">
+		<path>./Pure.lnk</path>
+		<name>Pure</name>
+		<desc>Developed by Black Rock Studio, Disney Interactive Studios' award-winning development studio in Brighton, England, Pure takes off-road racing to a new level. Featuring vertigo-inducing massive aerial jumps and spectacular airborne tricks in photo-realistic real-world locations all over the globe, Pure delivers heart-pounding experiences unique to the genre.</desc>
+		<image>./mixart/Pure.jpg</image>
+		<video>./snap/Pure.mp4</video>
+		<marquee>./wheel/Pure.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20080902T000000</releasedate>
+		<developer>Black Rock Studio</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Race, Driving</genre>
+		<favorite>true</favorite>
+		<genreid>1537</genreid>
+	</game>
+	<game>
+		<path>./SoulCalibur 6.lnk</path>
+		<name>SoulCalibur 6</name>
+		<desc>SOULCALIBUR VI represents the latest entry in the premier weapons-based, head-to-head fighting series and continues the epic struggle of warriors searching for the legendary Soul Swords. Taking place in the 16th century, revisit the events of the original SOULCALIBUR to uncover hidden truths.</desc>
+		<image>./mixart/SoulCalibur 6.jpg</image>
+		<video>./snap/SoulCalibur 6.mp4</video>
+		<marquee>./wheel/SoulCalibur 6.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>201810T000000</releasedate>
+		<developer>Bandai Namco Studios</developer>
+		<publisher>Bandai Namco Entertainment</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Titan Quest Anniversary.lnk</path>
+		<name>Titan Quest Anniversary</name>
+		<desc>For its 10 year anniversary, Titan Quest will shine in new splendour. This Anniversary Edition combines both Titan Quest and Titan Quest Immortal Throne in one game, and has been given a massive overhaul for the ultimate ARPG experience. -- Anniversary Edition update -- - Restored and improved multiplayer functionality, including new features like a built-in voice chat and NAT resolving for best multiplayer connectivity - Support for more resolutions, larger camera distance and scaleable UI size - Improved performance and general stability - Support for modders through new modding options and a fully integrated Steam Workshop - Complete balance rework with improvements to all Masteries, damage types, unique items and sets - Countless bug fixes and other improvements, including ten years’ worth of community fixes - Increased challenges and rewards for larger parties and on higher difficulty levels - Dozens of new heroes and bosses to encounter.</desc>
+		<image>./mixart/Titan Quest Anniversary.jpg</image>
+		<video>./snap/Titan Quest Anniversary.mp4</video>
+		<marquee>./wheel/Titan Quest Anniversary.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>201601T000000</releasedate>
+		<developer>THQ Nordic</developer>
+		<publisher>THQ Nortic</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>6</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
 		<path>./Valfaris Full Metal.lnk</path>
 		<name>Valfaris Full Metal</name>
 		<desc>A heavy metal infused 2D action-platformer and the next game from the team behind Unity Awards finalist, Slain: Back From Hell. Brutal combat. Deadly enemies. Stunning pixel art. Savage soundtrack. Get ready to rip the galaxy a new wormhole! After mysteriously vanishing from galactic charts, the fortress of Valfaris has suddenly reappeared in the orbit of a dying sun. Once a self-contained paradise, the grandiose citadel now plays host to an ever-growing darkness. Therion, a fearless and proud son of Valfaris, returns to his home to uncover the truth of its doomed fate and to challenge the arcane evil at its very heart.</desc>
@@ -3508,64 +3553,147 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Joe Danger.lnk</path>
-		<name>Joe Danger</name>
-		<desc>Can you put the world’s most determined stuntman back into the limelight? Combo, boost and pull ludicrous stunts as Joe attempts to race his way back into the record books in over 100 eye-popping levels. Leap school buses full of screaming kids and pools of ravenous sharks! Dodge spikes and mousetraps! Speed through coin dashes and beat Team Nasty in nip-and-tuck races!</desc>
-		<image>./mixart/Joe Danger.jpg</image>
-		<video>./snap/Joe Danger.mp4</video>
-		<marquee>./wheel/Joe Danger.png</marquee>
+		<path>./Sky Force Reloaded.lnk</path>
+		<name>Sky Force Reloaded</name>
+		<desc>Sky Force Reloaded is the spirit of the classic arcade shoot ‘em ups, captured with modern visuals and design. New entry in the series will keep you entertained with all the things you’ve came to love in scrolling shooters. Meaty explosions, incinerating lasers, collosal bosses and diverse aircrafts to pilot. Sky Force Reloaded is not your average scrolling shooter. It will draw you in with its beautiful environments and intense effects.</desc>
+		<image>./mixart/Sky Force Reloaded.png</image>
+		<video>./snap/Sky Force Reloaded.mp4</video>
+		<marquee>./wheel/Sky Force Reloaded.png</marquee>
+		<rating>0.99</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Infinite Dreams</developer>
+		<publisher>Infinite Dreams</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Cloud Cutter.lnk</path>
+		<name>Cloud Cutter</name>
+		<desc>Cloud Cutter brings you classic arcade shoot ‘em up gameplay in top notch graphics. Cloud Cutter offers exactly what you expect and love in old-school scrolling shooters. Enjoy intense fast-paced explosive action full of epic destruction, arcade style power-ups, lasers and of course huge multi-stage boss fights. Blast your way through hundreds of enemies in a beautiful and ever-changing environment. Collect in-game power-ups to upgrade your ship and deal massive damage with a number of special powers. Master 13 detailed and immersive stages with challenging missions to complete that will push your pilot reflexes to their limits. Battle enormous and intimidating bosses.</desc>
+		<image>./mixart/Cloud Cutter.jpg</image>
+		<video>./snap/Cloud Cutter.mp4</video>
+		<marquee>./wheel/Cloud Cutter.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20211201T000000</releasedate>
+		<developer>Just Two Ltd.</developer>
+		<publisher>Just Two Ltd.</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Renegade Ops Collection.lnk</path>
+		<name>Renegade Ops Collection</name>
+		<desc>Destruction just got awesome. In Renegade Ops you must defeat Inferno, a madman intent on global domination. Destroy enemies across a range of stunning environments using a wide variety of vehicles. Players have the choice to fight alone in single player mode, team up offline with two-player split screen or join the dynamic 4-player online co-op experience. Blast your way through enemy lines by working together, or compete for achievements as you and your friends aim to top the online leader boards.</desc>
+		<image>./mixart/Renegade Ops Collection.jpg</image>
+		<video>./snap/Renegade Ops Collection.mp4</video>
+		<marquee>./wheel/Renegade Ops Collection.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20111201T000000</releasedate>
+		<developer>Avalanche Studios</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./R-Type Final 2.lnk</path>
+		<name>R-Type Final 2</name>
+		<desc>R-Type Final 2 is a horizontal-scrolling shooter video game developed and published by Granzella. Part of Irem's long-running R-Type series, it is a sequel to R-Type Final released in 2004, and the first R-Type game in over a decade, after the release of R-Type Tactics II: Operation Bitter Chocolate in 2009. The game was released for the Microsoft Windows, Nintendo Switch, PlayStation 4, Xbox One, and Xbox Series X/S on April 29, 2021. The western versions of the game are published by NIS America, and are set to release on April 30, 2021. R-Type Final 2 is the first game in the series to be released outside of Japan since R-Type Dimensions in 2009.</desc>
+		<image>./mixart/R-Type Final 2.jpg</image>
+		<video>./snap/R-Type Final 2.mp4</video>
+		<marquee>./wheel/R-Type Final 2.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20211201T000000</releasedate>
+		<developer>Granzella</developer>
+		<publisher>NIIS America Inc.</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Circuit Superstars.lnk</path>
+		<name>Circuit Superstars</name>
+		<desc>Circuit Superstars is a top-down, physics driven racing game for PC and consoles. It combines arcade-style racing with more realistic tactile driving physics, which brings together a whole range of styles and eras of motorsport. From 60s-inspired single-seaters to modern GTs, Circuit Superstars will feature vehicles and tracks from various motorsport eras.</desc>
+		<image>./mixart/Circuit Superstars.jpg</image>
+		<video>./snap/Circuit Superstars.mp4</video>
+		<marquee>./wheel/Circuit Superstars.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20211201T000000</releasedate>
+		<developer>Fire Games</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Endless Memories.lnk</path>
+		<name>Endless Memories</name>
+		<desc>Explore a magical world of dreams in this epic 2D action-adventure that mixes a handcrafted non-linear world with ARPG elements. Join Rem in his journey through the dream world where the only way out is inside the mind of the Dreamers.</desc>
+		<image>./mixart/Endless Memories.jpg</image>
+		<video>./snap/Endless Memories.mp4</video>
+		<marquee>./wheel/Endless Memories.png</marquee>
 		<rating>0.75</rating>
-		<releasedate>201007T000000</releasedate>
-		<developer>Hello Games</developer>
-		<publisher>Hello Games</publisher>
-		<genre>Platform, Racing</genre>
+		<releasedate>20201201T000000</releasedate>
+		<developer>Homunculus Games</developer>
+		<publisher>Homunculus Games</publisher>
+		<genre>Platform, RPG</genre>
 		<players>1</players>
-		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Gabriel Knight - Sins of the Fathers 20th Anniversary Edition.lnk</path>
-		<name>Gabriel Knight - Sins of the Fathers 20th Anniversary Edition</name>
-		<desc>This 20th Anniversary Edition is a remake of Gabriel Knight: Sins of the Fathers. It features new HD graphics, new puzzles, new voice acting, a remastered soundtrack by the original composer, and even some new locations. The game stays true to the original in terms of the story, and while it is still a 3rd-person point-and-click adventure game, it uses 3D graphics and character models instead of 2D graphics with sprites. Unlike the original, the game includes a hint book which lets you gradually (tip by tip until the actual solution) view tips on how to solve puzzles. There is a certain waiting time between checking the next available hint. Also, the hint book is integrated as Gabriel's diary where he keeps track of the story and his ideas which may provide clues to solving some puzzles or figuring what to do next. And finally, the book also contains extras which are tied to your current location.</desc>
-		<image>./mixart/Gabriel Knight - Sins of the Fathers 20th Anniversary Edition.jpg</image>
-		<video>./snap/Gabriel Knight - Sins of the Fathers 20th Anniversary Edition.mp4</video>
-		<marquee>./wheel/Gabriel Knight - Sins of the Fathers 20th Anniversary Edition.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20140430T000000</releasedate>
-		<developer>Phoenix Online Studios</developer>
-		<publisher>Phoenix Online Studios</publisher>
-		<genre>Adventure</genre>
+		<path>./Retrowave.lnk</path>
+		<name>Retrowave</name>
+		<desc>Neon lights, palm trees, synthwave, 80's supercars speeding down an endless highway... Welcome to the world of Retrowave!</desc>
+		<image>./mixart/Retrowave.jpg</image>
+		<video>./snap/Retrowave.mp4</video>
+		<marquee>./wheel/Retrowave.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20201201T000000</releasedate>
+		<developer>RewindApp</developer>
+		<publisher>RewindApp</publisher>
+		<genre>Racing</genre>
 		<players>1</players>
-		<favorite>true</favorite>
-	</game>
-	<game id="25557" source="ScreenScraper.fr">
-		<path>./Pure.lnk</path>
-		<name>Pure</name>
-		<desc>Developed by Black Rock Studio, Disney Interactive Studios' award-winning development studio in Brighton, England, Pure takes off-road racing to a new level. Featuring vertigo-inducing massive aerial jumps and spectacular airborne tricks in photo-realistic real-world locations all over the globe, Pure delivers heart-pounding experiences unique to the genre.</desc>
-		<image>./mixart/Pure.jpg</image>
-		<video>./snap/Pure.mp4</video>
-		<marquee>./wheel/Pure.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20080902T000000</releasedate>
-		<developer>Black Rock Studio</developer>
-		<publisher>Disney Interactive</publisher>
-		<genre>Race, Driving</genre>
-		<favorite>true</favorite>
-		<genreid>1537</genreid>
 	</game>
 	<game>
-		<path>./Axiom Verge.lnk</path>
-		<name>Axiom Verge</name>
-		<desc>Axiom Verge is a retro-styled 2D action game focused on unusual weaponry and exploration of an maze-like, infested world. You play as Trace, a relatively normal (if quirky) guy who suffers a near-fatal injury, after which he wakes up in a strange, unsettling new world that is both high-tech and incredibly ancient. Why is he here? Where are the world's inhabitants? And what is the mysterious force that seems intent on ending his life?</desc>
-		<image>./mixart/Axiom Verge.jpg</image>
-		<video>./snap/Axiom Verge.mp4</video>
-		<marquee>./wheel/Axiom Verge.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>201501T000000</releasedate>
-		<developer>Thomas Happ Games</developer>
-		<publisher>Thomas Happ Games</publisher>
-		<genre>Action, Adventure</genre>
+		<path>./Rival Megagun.lnk</path>
+		<name>Rival Megagun</name>
+		<desc>Rival Megagun is a competitive split-screen vertical shmup (or shoot 'em up, shooting game, STG) where you transform into a gigantic boss ship!</desc>
+		<image>./mixart/Rival Megagun.jpg</image>
+		<video>./snap/Rival Megagun.mp4</video>
+		<marquee>./wheel/Rival Megagun.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20181201T000000</releasedate>
+		<developer>Spacewave Software</developer>
+		<publisher>Degica</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Sky Rogue.lnk</path>
+		<name>Sky Rogue</name>
+		<desc>Sky Rogue is a fwooshy rogue-lite action flight simulator! Blow things up over land, sea, and air, on an infinite number of procedurally-generated islands. Choose one of a diverse set of aeros and kit it out with a dizzying array of weaponry. Go toe-to-toe with enemy aces or assault giant flying aircraft carriers and battleships, but watch out for volleys of missiles; when you die, you're dead.</desc>
+		<image>./mixart/Sky Rogue.jpg</image>
+		<video>./snap/Sky Rogue.mp4</video>
+		<marquee>./wheel/Sky Rogue.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20151201T000000</releasedate>
+		<developer>Nihilocrat</developer>
+		<publisher>Fractal Phase</publisher>
+		<genre>Action, Flight Simulator</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Tempest 4000.lnk</path>
+		<name>Tempest 4000</name>
+		<desc>Tempest 4000 is a shoot 'em up video game. Players take a control of the Claw, a spacecraft that can shoot at enemies and obstructions. Levels take place on geometric prisms. The goal of the game is to survive each level by eliminating enemies as soon as possible and to achieve high scores for leaderboard positions. The game features one hundred levels and three game modes: standard, pure, and endurance. It is also available for the PC and Play Station 4. Yet another sequel to Dave Theurer's arcade classic.</desc>
+		<image>./mixart/Tempest 4000.jpg</image>
+		<video>./snap/Tempest 4000.mp4</video>
+		<marquee>./wheel/Tempest 4000.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20181201T000000</releasedate>
+		<developer>LLamasoft</developer>
+		<publisher>Atari SA</publisher>
+		<genre>Action, Shooter</genre>
 		<players>1</players>
 		<favorite>true</favorite>
-		<lang>en</lang>
 	</game>
 </gameList>
