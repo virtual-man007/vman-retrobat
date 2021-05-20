@@ -3192,22 +3192,6 @@ At first you'll cause all sorts of mayhem in various global hotspots, but as the
 		<video>./snap/Mercenaries (USA).mp4</video>
 		<genreid>256</genreid>
 	</game>
-	<game id="22697" source="ScreenScraper.fr">
-		<path>./Metal Slug (Japan).gz</path>
-		<name>Metal Slug 3D</name>
-		<desc>To mark the tenth anniversary of Metal Slug, SNK calls up four grunts named Eri, Fio, Tarma, and Marco and sends them into a 3D war zone for the first time in the game's history. 
- </desc>
-		<rating>0.7</rating>
-		<releasedate>20060628T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Action-Beat'em Up</genre>
-		<players>1</players>
-		<image>./mixart/Metal Slug (Japan).png</image>
-		<marquee>./wheel/Metal Slug (Japan).png</marquee>
-		<video>./snap/Metal Slug (Japan).mp4</video>
-		<genreid>263</genreid>
-	</game>
 	<game id="22079" source="ScreenScraper.fr">
 		<path>./Monster Hunter (USA).gz</path>
 		<name>Monster Hunter</name>
@@ -3855,5 +3839,20 @@ The story follows Liberty Coalition 2nd Lieutenant Nathan Frost, who is critical
 		<genre>Action</genre>
 		<players>1</players>
 		<genreid>256</genreid>
+	</game>
+	<game id="22697" source="ScreenScraper.fr">
+		<path>./Metal Slug (Japan).gz</path>
+		<name>Metal Slug 3D</name>
+		<desc>To mark the tenth anniversary of Metal Slug, SNK calls up four grunts named Eri, Fio, Tarma, and Marco and sends them into a 3D war zone for the first time in the game's history.</desc>
+		<image>./mixart/Metal Slug (Japan).png</image>
+		<video>./snap/Metal Slug (Japan).mp4</video>
+		<marquee>./wheel/Metal Slug (Japan).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20060628T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action-Beat'em Up</genre>
+		<players>1</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>
