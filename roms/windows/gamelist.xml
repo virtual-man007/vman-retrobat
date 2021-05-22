@@ -3697,21 +3697,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./AGS - Space Quest II.lnk</path>
-		<name>AGS - Space Quest II</name>
-		<desc>Fandmade remake Space Quest II using Adventure Gaming Studio engine. - Infamous Adventure's remake of the classic 1987 Sierra game "Space Quest II" by The Two Guys from Andromeda, Scott Murphy and Mark Crowe!  Join Roger Wilco on an intergalactic adventure as he is pursued by the agents of the sinister Sludge Vohaul! Lovingly recrafted in simulated VGA colors!.</desc>
-		<image>./mixart/AGS - Space Quest II.png</image>
-		<video>./snap/AGS - Space Quest II.mp4</video>
-		<marquee>./wheel/AGS - Space Quest II.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20190430T000000</releasedate>
-		<developer>Infamous Adventures</developer>
-		<publisher>Fanmade</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./AGS - Space Quest for Glory.lnk</path>
 		<name>AGS - Space Quest for Glory</name>
 		<desc>Fandmade remake Quest for Glory mixed with Space Quest using Adventure Gaming Studio engine. - A short little parody of two Sierra Classics! Battle the Labion Terror beast in a battle to the death! Get your plunger ready for the biggest battle the galaxy has ever seen!</desc>
@@ -3721,36 +3706,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<rating>0.90</rating>
 		<releasedate>20190430T000000</releasedate>
 		<developer>Infamous Adventures</developer>
-		<publisher>Fanmade</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./AGS - King Quest I.lnk</path>
-		<name>AGS - King Quest I</name>
-		<desc>Fandmade remake of King Quest I using Adventure Gaming Studio engine. - AGD Interactive Ultimate Remake of King's Quest I: A dying King Edward entrusts his finest knight to seek the Three Lost Treasures of Daventry.</desc>
-		<image>./mixart/AGS - King Quest I.png</image>
-		<video>./snap/AGS - King Quest I.mp4</video>
-		<marquee>./wheel/AGS - King Quest I.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20010430T000000</releasedate>
-		<developer>AGD Interactive</developer>
-		<publisher>Fanmade</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./AGS - King Quest II.lnk</path>
-		<name>AGS - King Quest II</name>
-		<desc>Fandmade remake of King Quest II using Adventure Gaming Studio engine. - AGD Interactive Ultimate Remake of King's Quest II: Newly crowned King Graham is lonley of heart. A vision of a lovely maiden improsoned in a quartz tower leads him to the land of Kolyma on a quest to rescude his future bride!</desc>
-		<image>./mixart/AGS - King Quest II.png</image>
-		<video>./snap/AGS - King Quest II.mp4</video>
-		<marquee>./wheel/AGS - King Quest II.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20010430T000000</releasedate>
-		<developer>AGD Interactive</developer>
 		<publisher>Fanmade</publisher>
 		<genre>Adventure</genre>
 		<players>1</players>
@@ -3785,5 +3740,107 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<genre>Adventure</genre>
 		<players>1</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./AGS - King Quest II.lnk</path>
+		<name>AGS - King Quest II</name>
+		<desc>Fandmade remake of King Quest II using Adventure Gaming Studio engine. - AGD Interactive Ultimate Remake of King's Quest II: Newly crowned King Graham is lonley of heart. A vision of a lovely maiden improsoned in a quartz tower leads him to the land of Kolyma on a quest to rescude his future bride!</desc>
+		<image>./mixart/AGS - King Quest II.png</image>
+		<video>./snap/AGS - King Quest II.mp4</video>
+		<marquee>./wheel/AGS - King Quest II.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20010430T000000</releasedate>
+		<developer>AGD Interactive</developer>
+		<publisher>Fanmade</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./AGS - Resonance.lnk</path>
+		<name>AGS - Resonance</name>
+		<desc>Fandmade Resonance using Adventure Gaming Studio engine. - When a brilliant particle physicist dies unexpectedly, the race is on to secure his terrible new technology before it falls into the wrong hands. The lives of four playable characters become entangled as they fight against the clock to find the dead scientist’s secret vault.</desc>
+		<image>./mixart/AGS - Resonance.jpg</image>
+		<video>./snap/AGS - Resonance.mp4</video>
+		<marquee>./wheel/AGS - Resonance.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20120430T000000</releasedate>
+		<developer>Wadjet Eye Games</developer>
+		<publisher>Fanmade</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./The Journey Down - Chapter Two.lnk</path>
+		<name>The Journey Down - Chapter Two</name>
+		<desc>Chapter Two of The Journey Down, a classic point-and-click saga with an Afro-Caribbean vibe. Get ready to embark on an epic journey of brain-teasing adventure! Far below the noisy metropolis of St. Armando, Bwana follows in the footsteps of his lost father together with Kito and Lina. In their search for the mysterious Underland, they discover a dark conspiracy shrouding the fate of Captain Kaonandodo. In the second chapter, the plot thickens as our heroes plunge down into the mist below the Edge and wind up in the foggy and treacherous town of Port Artue where they find themselves cornered by pirates and on the run from the law. The Journey Down is a classic point-and-click saga with an Afro-Caribbean vibe.</desc>
+		<image>./mixart/The Journey Down - Chapter Two.jpg</image>
+		<video>./snap/The Journey Down.mp4</video>
+		<marquee>./wheel/The Journey Down.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20140430T000000</releasedate>
+		<developer>SkyGoblin</developer>
+		<publisher>SkyGoblin</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./The Journey Down - Chapter Three.lnk</path>
+		<name>The Journey Down - Chapter Three</name>
+		<desc>In the jungles of the Underland, scattered remnants of an ancient culture speak of a great evil that dwells in the shadowy depths of the Kwayerumoshi caves. But even the darkest secrets of this lost age are about to be revealed by the brave actions of three unlikely heroes. In the final chapter of The Journey Down, Bwana, Kito and Lina explore the vast reaches of the Underland and unravel its long-forgotten history. Their adventure comes to a bombastic conclusion when they learn the true nature of the Great Asili tree and the Armando Power Company. The Journey Down is a classic point-and-click saga with an Afro-Caribbean vibe. Get ready to embark on an epic journey of brain-teasing adventure! Features * A twisting tale of intriguing adventure * Tons of handpainted environments * An all original jazzy reggae soundtrack * A fully voiced cast * HD art and animations.</desc>
+		<image>./mixart/The Journey Down - Chapter Three.jpg</image>
+		<video>./snap/The Journey Down.mp4</video>
+		<marquee>./wheel/The Journey Down.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20170430T000000</releasedate>
+		<developer>SkyGoblin</developer>
+		<publisher>SkyGoblin</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./AGS - King Quest I.lnk</path>
+		<name>AGS - King Quest I</name>
+		<desc>Fandmade remake of King Quest I using Adventure Gaming Studio engine. - AGD Interactive Ultimate Remake of King's Quest I: A dying King Edward entrusts his finest knight to seek the Three Lost Treasures of Daventry.</desc>
+		<image>./mixart/AGS - King Quest I.png</image>
+		<video>./snap/AGS - King Quest I.mp4</video>
+		<marquee>./wheel/AGS - King Quest I.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20010430T000000</releasedate>
+		<developer>AGD Interactive</developer>
+		<publisher>Fanmade</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./AGS - Space Quest II.lnk</path>
+		<name>AGS - Space Quest II</name>
+		<desc>Fandmade remake Space Quest II using Adventure Gaming Studio engine. - Infamous Adventure's remake of the classic 1987 Sierra game "Space Quest II" by The Two Guys from Andromeda, Scott Murphy and Mark Crowe!  Join Roger Wilco on an intergalactic adventure as he is pursued by the agents of the sinister Sludge Vohaul! Lovingly recrafted in simulated VGA colors!.</desc>
+		<image>./mixart/AGS - Space Quest II.png</image>
+		<video>./snap/AGS - Space Quest II.mp4</video>
+		<marquee>./wheel/AGS - Space Quest II.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20190430T000000</releasedate>
+		<developer>Infamous Adventures</developer>
+		<publisher>Fanmade</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./The Journey Down - Chapter One.lnk</path>
+		<name>The Journey Down - Chapter One</name>
+		<desc>In a shady corner of Kingsport Bay, at the outskirts of St Armando, Bwana and his trusted sidekick Kito struggle to make ends meet at their run-down gas station. Little do they know that they are about to be thrown into a spine-tingling adventure that will take them far from home and right into a twisting plot of corruption and danger. In the first chapter of The Journey Down, the search for a lost journal leads to forgotten secrets of the mysterious Underland. Follow Bwana and Kito as they puzzle their way forward and begin to uncover the true fate of their long lost father, Captain Kaonandodo. The Journey Down is a classic point-and-click saga with a black African twist. Get ready to embark on an epic journey of laughs and brain-teasing adventure!</desc>
+		<image>./mixart/The Journey Down - Chapter One.jpg</image>
+		<video>./snap/The Journey Down.mp4</video>
+		<marquee>./wheel/The Journey Down.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20130430T000000</releasedate>
+		<developer>SkyGoblin</developer>
+		<publisher>SkyGoblin</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
 	</game>
 </gameList>
