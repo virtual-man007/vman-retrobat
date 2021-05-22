@@ -3431,21 +3431,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Gabriel Knight - Sins of the Fathers 20th Anniversary Edition.lnk</path>
-		<name>Gabriel Knight - Sins of the Fathers 20th Anniversary Edition</name>
-		<desc>This 20th Anniversary Edition is a remake of Gabriel Knight: Sins of the Fathers. It features new HD graphics, new puzzles, new voice acting, a remastered soundtrack by the original composer, and even some new locations. The game stays true to the original in terms of the story, and while it is still a 3rd-person point-and-click adventure game, it uses 3D graphics and character models instead of 2D graphics with sprites. Unlike the original, the game includes a hint book which lets you gradually (tip by tip until the actual solution) view tips on how to solve puzzles. There is a certain waiting time between checking the next available hint. Also, the hint book is integrated as Gabriel's diary where he keeps track of the story and his ideas which may provide clues to solving some puzzles or figuring what to do next. And finally, the book also contains extras which are tied to your current location.</desc>
-		<image>./mixart/Gabriel Knight - Sins of the Fathers 20th Anniversary Edition.jpg</image>
-		<video>./snap/Gabriel Knight - Sins of the Fathers 20th Anniversary Edition.mp4</video>
-		<marquee>./wheel/Gabriel Knight - Sins of the Fathers 20th Anniversary Edition.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20140430T000000</releasedate>
-		<developer>Phoenix Online Studios</developer>
-		<publisher>Phoenix Online Studios</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Axiom Verge.lnk</path>
 		<name>Axiom Verge</name>
 		<desc>Axiom Verge is a retro-styled 2D action game focused on unusual weaponry and exploration of an maze-like, infested world. You play as Trace, a relatively normal (if quirky) guy who suffers a near-fatal injury, after which he wakes up in a strange, unsettling new world that is both high-tech and incredibly ancient. Why is he here? Where are the world's inhabitants? And what is the mysterious force that seems intent on ending his life?</desc>
@@ -3568,6 +3553,20 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<favorite>true</favorite>
 	</game>
 	<game>
+		<path>./Circuit Superstars.lnk</path>
+		<name>Circuit Superstars</name>
+		<desc>Circuit Superstars is a top-down, physics driven racing game for PC and consoles. It combines arcade-style racing with more realistic tactile driving physics, which brings together a whole range of styles and eras of motorsport. From 60s-inspired single-seaters to modern GTs, Circuit Superstars will feature vehicles and tracks from various motorsport eras.</desc>
+		<image>./mixart/Circuit Superstars.jpg</image>
+		<video>./snap/Circuit Superstars.mp4</video>
+		<marquee>./wheel/Circuit Superstars.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20211201T000000</releasedate>
+		<developer>Fire Games</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
 		<path>./Cloud Cutter.lnk</path>
 		<name>Cloud Cutter</name>
 		<desc>Cloud Cutter brings you classic arcade shoot ‘em up gameplay in top notch graphics. Cloud Cutter offers exactly what you expect and love in old-school scrolling shooters. Enjoy intense fast-paced explosive action full of epic destruction, arcade style power-ups, lasers and of course huge multi-stage boss fights. Blast your way through hundreds of enemies in a beautiful and ever-changing environment. Collect in-game power-ups to upgrade your ship and deal massive damage with a number of special powers. Master 13 detailed and immersive stages with challenging missions to complete that will push your pilot reflexes to their limits. Battle enormous and intimidating bosses.</desc>
@@ -3582,19 +3581,18 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Renegade Ops Collection.lnk</path>
-		<name>Renegade Ops Collection</name>
-		<desc>Destruction just got awesome. In Renegade Ops you must defeat Inferno, a madman intent on global domination. Destroy enemies across a range of stunning environments using a wide variety of vehicles. Players have the choice to fight alone in single player mode, team up offline with two-player split screen or join the dynamic 4-player online co-op experience. Blast your way through enemy lines by working together, or compete for achievements as you and your friends aim to top the online leader boards.</desc>
-		<image>./mixart/Renegade Ops Collection.jpg</image>
-		<video>./snap/Renegade Ops Collection.mp4</video>
-		<marquee>./wheel/Renegade Ops Collection.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20111201T000000</releasedate>
-		<developer>Avalanche Studios</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter</genre>
-		<players>4</players>
-		<favorite>true</favorite>
+		<path>./Endless Memories.lnk</path>
+		<name>Endless Memories</name>
+		<desc>Explore a magical world of dreams in this epic 2D action-adventure that mixes a handcrafted non-linear world with ARPG elements. Join Rem in his journey through the dream world where the only way out is inside the mind of the Dreamers.</desc>
+		<image>./mixart/Endless Memories.jpg</image>
+		<video>./snap/Endless Memories.mp4</video>
+		<marquee>./wheel/Endless Memories.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20201201T000000</releasedate>
+		<developer>Homunculus Games</developer>
+		<publisher>Homunculus Games</publisher>
+		<genre>Platform, RPG</genre>
+		<players>1</players>
 	</game>
 	<game>
 		<path>./R-Type Final 2.lnk</path>
@@ -3612,32 +3610,19 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Circuit Superstars.lnk</path>
-		<name>Circuit Superstars</name>
-		<desc>Circuit Superstars is a top-down, physics driven racing game for PC and consoles. It combines arcade-style racing with more realistic tactile driving physics, which brings together a whole range of styles and eras of motorsport. From 60s-inspired single-seaters to modern GTs, Circuit Superstars will feature vehicles and tracks from various motorsport eras.</desc>
-		<image>./mixart/Circuit Superstars.jpg</image>
-		<video>./snap/Circuit Superstars.mp4</video>
-		<marquee>./wheel/Circuit Superstars.png</marquee>
+		<path>./Renegade Ops Collection.lnk</path>
+		<name>Renegade Ops Collection</name>
+		<desc>Destruction just got awesome. In Renegade Ops you must defeat Inferno, a madman intent on global domination. Destroy enemies across a range of stunning environments using a wide variety of vehicles. Players have the choice to fight alone in single player mode, team up offline with two-player split screen or join the dynamic 4-player online co-op experience. Blast your way through enemy lines by working together, or compete for achievements as you and your friends aim to top the online leader boards.</desc>
+		<image>./mixart/Renegade Ops Collection.jpg</image>
+		<video>./snap/Renegade Ops Collection.mp4</video>
+		<marquee>./wheel/Renegade Ops Collection.png</marquee>
 		<rating>0.85</rating>
-		<releasedate>20211201T000000</releasedate>
-		<developer>Fire Games</developer>
-		<publisher>Square Enix</publisher>
-		<genre>Racing</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Endless Memories.lnk</path>
-		<name>Endless Memories</name>
-		<desc>Explore a magical world of dreams in this epic 2D action-adventure that mixes a handcrafted non-linear world with ARPG elements. Join Rem in his journey through the dream world where the only way out is inside the mind of the Dreamers.</desc>
-		<image>./mixart/Endless Memories.jpg</image>
-		<video>./snap/Endless Memories.mp4</video>
-		<marquee>./wheel/Endless Memories.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20201201T000000</releasedate>
-		<developer>Homunculus Games</developer>
-		<publisher>Homunculus Games</publisher>
-		<genre>Platform, RPG</genre>
-		<players>1</players>
+		<releasedate>20111201T000000</releasedate>
+		<developer>Avalanche Studios</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>4</players>
+		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Retrowave.lnk</path>
@@ -3693,6 +3678,111 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<developer>LLamasoft</developer>
 		<publisher>Atari SA</publisher>
 		<genre>Action, Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Gabriel Knight - Sins of the Fathers 20th Anniversary Edition.lnk</path>
+		<name>Gabriel Knight - Sins of the Fathers 20th Anniversary Edition</name>
+		<desc>This 20th Anniversary Edition is a remake of Gabriel Knight: Sins of the Fathers. It features new HD graphics, new puzzles, new voice acting, a remastered soundtrack by the original composer, and even some new locations. The game stays true to the original in terms of the story, and while it is still a 3rd-person point-and-click adventure game, it uses 3D graphics and character models instead of 2D graphics with sprites. Unlike the original, the game includes a hint book which lets you gradually (tip by tip until the actual solution) view tips on how to solve puzzles. There is a certain waiting time between checking the next available hint. Also, the hint book is integrated as Gabriel's diary where he keeps track of the story and his ideas which may provide clues to solving some puzzles or figuring what to do next. And finally, the book also contains extras which are tied to your current location.</desc>
+		<image>./mixart/Gabriel Knight - Sins of the Fathers 20th Anniversary Edition.jpg</image>
+		<video>./snap/Gabriel Knight - Sins of the Fathers 20th Anniversary Edition.mp4</video>
+		<marquee>./wheel/Gabriel Knight - Sins of the Fathers 20th Anniversary Edition.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20140430T000000</releasedate>
+		<developer>Phoenix Online Studios</developer>
+		<publisher>Phoenix Online Studios</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./AGS - Space Quest II.lnk</path>
+		<name>AGS - Space Quest II</name>
+		<desc>Fandmade remake Space Quest II using Adventure Gaming Studio engine. - Infamous Adventure's remake of the classic 1987 Sierra game "Space Quest II" by The Two Guys from Andromeda, Scott Murphy and Mark Crowe!  Join Roger Wilco on an intergalactic adventure as he is pursued by the agents of the sinister Sludge Vohaul! Lovingly recrafted in simulated VGA colors!.</desc>
+		<image>./mixart/AGS - Space Quest II.png</image>
+		<video>./snap/AGS - Space Quest II.mp4</video>
+		<marquee>./wheel/AGS - Space Quest II.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20190430T000000</releasedate>
+		<developer>Infamous Adventures</developer>
+		<publisher>Fanmade</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./AGS - Space Quest for Glory.lnk</path>
+		<name>AGS - Space Quest for Glory</name>
+		<desc>Fandmade remake Quest for Glory mixed with Space Quest using Adventure Gaming Studio engine. - A short little parody of two Sierra Classics! Battle the Labion Terror beast in a battle to the death! Get your plunger ready for the biggest battle the galaxy has ever seen!</desc>
+		<image>./mixart/AGS - Space Quest for Glory.png</image>
+		<video>./snap/AGS - Space Quest for Glory.mp4</video>
+		<marquee>./wheel/AGS - Space Quest for Glory.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20190430T000000</releasedate>
+		<developer>Infamous Adventures</developer>
+		<publisher>Fanmade</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./AGS - King Quest I.lnk</path>
+		<name>AGS - King Quest I</name>
+		<desc>Fandmade remake of King Quest I using Adventure Gaming Studio engine. - AGD Interactive Ultimate Remake of King's Quest I: A dying King Edward entrusts his finest knight to seek the Three Lost Treasures of Daventry.</desc>
+		<image>./mixart/AGS - King Quest I.png</image>
+		<video>./snap/AGS - King Quest I.mp4</video>
+		<marquee>./wheel/AGS - King Quest I.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20010430T000000</releasedate>
+		<developer>AGD Interactive</developer>
+		<publisher>Fanmade</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./AGS - King Quest II.lnk</path>
+		<name>AGS - King Quest II</name>
+		<desc>Fandmade remake of King Quest II using Adventure Gaming Studio engine. - AGD Interactive Ultimate Remake of King's Quest II: Newly crowned King Graham is lonley of heart. A vision of a lovely maiden improsoned in a quartz tower leads him to the land of Kolyma on a quest to rescude his future bride!</desc>
+		<image>./mixart/AGS - King Quest II.png</image>
+		<video>./snap/AGS - King Quest II.mp4</video>
+		<marquee>./wheel/AGS - King Quest II.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20010430T000000</releasedate>
+		<developer>AGD Interactive</developer>
+		<publisher>Fanmade</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./AGS - Quest for Glory II.lnk</path>
+		<name>AGS - Quest for Glory II</name>
+		<desc>Fandmade remake of Quest for Glory II using Adventure Gaming Studio engine. - AGD Interactive Ultimate Remake of Quest for Glory II: A Hero's work is never done! Save the ancient desert city of Shapir from the drreaded Elementals that threaten to destroy it.</desc>
+		<image>./mixart/AGS - Quest for Glory II.png</image>
+		<video>./snap/AGS - Quest for Glory II.mp4</video>
+		<marquee>./wheel/AGS - Quest for Glory II.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20010430T000000</releasedate>
+		<developer>AGD Interactive</developer>
+		<publisher>Fanmade</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./AGS - King Quest III.lnk</path>
+		<name>AGS - King Quest III</name>
+		<desc>Fandmade remake of King Quest III using Adventure Gaming Studio engine. - AGD Interactive Ultimate Remake of King's Quest III: To Heir is Human! Join Gwydion as he seeks to escape the bonds of slavery from his master, the evil wizard Mananann.</desc>
+		<image>./mixart/AGS - King Quest III.png</image>
+		<video>./snap/AGS - King Quest III.mp4</video>
+		<marquee>./wheel/AGS - King Quest III.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20010430T000000</releasedate>
+		<developer>AGD Interactive</developer>
+		<publisher>Fanmade</publisher>
+		<genre>Adventure</genre>
 		<players>1</players>
 		<favorite>true</favorite>
 	</game>
