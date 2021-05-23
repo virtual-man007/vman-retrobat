@@ -3742,21 +3742,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./AGS - Resonance.lnk</path>
-		<name>AGS - Resonance</name>
-		<desc>Fandmade Resonance using Adventure Gaming Studio engine. - When a brilliant particle physicist dies unexpectedly, the race is on to secure his terrible new technology before it falls into the wrong hands. The lives of four playable characters become entangled as they fight against the clock to find the dead scientist’s secret vault.</desc>
-		<image>./mixart/AGS - Resonance.jpg</image>
-		<video>./snap/AGS - Resonance.mp4</video>
-		<marquee>./wheel/AGS - Resonance.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20120430T000000</releasedate>
-		<developer>Wadjet Eye Games</developer>
-		<publisher>Fanmade</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./The Journey Down - Chapter Two.lnk</path>
 		<name>The Journey Down - Chapter Two</name>
 		<desc>Chapter Two of The Journey Down, a classic point-and-click saga with an Afro-Caribbean vibe. Get ready to embark on an epic journey of brain-teasing adventure! Far below the noisy metropolis of St. Armando, Bwana follows in the footsteps of his lost father together with Kito and Lina. In their search for the mysterious Underland, they discover a dark conspiracy shrouding the fate of Captain Kaonandodo. In the second chapter, the plot thickens as our heroes plunge down into the mist below the Edge and wind up in the foggy and treacherous town of Port Artue where they find themselves cornered by pirates and on the run from the law. The Journey Down is a classic point-and-click saga with an Afro-Caribbean vibe.</desc>
@@ -3823,6 +3808,21 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<rating>0.90</rating>
 		<releasedate>20010430T000000</releasedate>
 		<developer>AGD Interactive</developer>
+		<publisher>Fanmade</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./AGS - Resonance.lnk</path>
+		<name>AGS - Resonance</name>
+		<desc>Fandmade Resonance using Adventure Gaming Studio engine. - When a brilliant particle physicist dies unexpectedly, the race is on to secure his terrible new technology before it falls into the wrong hands. The lives of four playable characters become entangled as they fight against the clock to find the dead scientist’s secret vault.</desc>
+		<image>./mixart/AGS - Resonance.jpg</image>
+		<video>./snap/AGS - Resonance.mp4</video>
+		<marquee>./wheel/AGS - Resonance.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20120430T000000</releasedate>
+		<developer>Wadjet Eye Games</developer>
 		<publisher>Fanmade</publisher>
 		<genre>Adventure</genre>
 		<players>1</players>

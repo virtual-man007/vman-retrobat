@@ -4556,6 +4556,7 @@ This version also contains modifications and enhancements to the original Melty 
 		<players>1-2</players>
 		<image>./mixart/Melty Blood - Act Cadenza (Japan).png</image>
 		<marquee>./wheel/Melty Blood - Act Cadenza (Japan).png</marquee>
+		<video>./snap/Melty Blood - Act Cadenza (Japan).mp4</video>
 		<genreid>262</genreid>
 	</game>
 	<game id="22276" source="ScreenScraper.fr">
