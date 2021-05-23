@@ -10590,20 +10590,6 @@ Scroll around, punch, kick, ply with bat-weapons, and avoid being on the receivi
 		<players>1-4</players>
 	</game>
 	<game>
-		<path>./PGA Tour 98 (USA).chd</path>
-		<name>PGA Tour 98</name>
-		<desc>PGA Tour 98 ups the ante for PlayStation golf games with five actual PGA Tour courses, including Pebble Beach, Colonial Country Club, TPC of Scottsdale, the Bay Hill Club and TPC at Sawgrass. Select one of 14 PGA pros to play as or against, or create your own golfer and edit the name, default animation and difficulty level. Before you set foot on the links, choose from eight different types of play: Practice, Stroke Play, Shoot-Out, Skins Game, Foursomes, Match, Four-Ball Match, Skills Challenge or a Tournament against fifty-eight PGA Tour professionals.   The PGA series from EA Sports has been known for its options and this version is no different. Players are free to customize nearly every aspect of the game, from mulligans, handicaps, tap-ins, fairway conditions, greens conditions, wind strength, lie effects, camera views, to even the degree of caddie assistance for four different phases of the game.   If you are familiar with other golf games, you'll know that most feature an arcing swing meter that you use to determine power and accuracy. PGA Tour 98 includes this as a default, but offers an arcade option which presents the swing as a vertical bar. Of course, you can still play for draw or fade or set the amount of backspin for whichever method you decide to use. Wrapping up the package is commentary by Ernie Johnson Jr., support for up to four alternating players, and all of your golfer's statistics saved to memory card. See you at the clubhouse!</desc>
-		<image>./mixart/PGA Tour 98 (USA).png</image>
-		<video>./snap/PGA Tour 98 (USA).mp4</video>
-		<marquee>./wheel/PGA Tour 98 (USA).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19970927T000000</releasedate>
-		<developer>NuFX, Inc</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Sports-Sports / Golf</genre>
-		<players>1-4</players>
-	</game>
-	<game>
 		<path>./Professional Underground League of Pain (USA).chd</path>
 		<name>Professional Underground League of Pain</name>
 		<desc>A combination of ice hockey, basketball, and bare-knuckle fighting, Professional Underground League of Pain is a futuristic sports game with few rules and loads of violence. The object of the game is to throw a plasma ball into a round goal that is suspended above the middle of a hockey-sized arena. Before you or your computer opponent can make a basket, the ball must be charged.  Each team's charger is located in their opponents end of the court. Be careful, though: If the ball is charged with your opponent's color and you make a basket, your opponent gets the points. The same rule applies for the opposing team. There are different zones on the court and depending on where a player is standing when he makes a shot, he will score one, two, or three points.   There are sixteen different teams to choose from, representing the countries of England, France, the United States, Germany, Japan, Mexico, Australia, and Russia. Each team has four players on the court at once. Most of the action consists of passing, shooting, and stealing the ball, punching and sliding into your opponents, and a whole lot of running.   Features:   * Lead one of 16 international teams to victory in a futuristic sport resembling basketball   * Watch the action from a choice of camera angles, including multiple overhead views   * Compete in league, tournament, and exhibition play</desc>
@@ -17649,5 +17635,19 @@ The game contains a rock soundtrack including tracks by Joe Satriani and Steve V
 		<genre>Race, Driving-Sports</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./PGA Tour 98 (USA).chd</path>
+		<name>PGA Tour 98</name>
+		<desc>PGA Tour 98 ups the ante for PlayStation golf games with five actual PGA Tour courses, including Pebble Beach, Colonial Country Club, TPC of Scottsdale, the Bay Hill Club and TPC at Sawgrass. Select one of 14 PGA pros to play as or against, or create your own golfer and edit the name, default animation and difficulty level. Before you set foot on the links, choose from eight different types of play: Practice, Stroke Play, Shoot-Out, Skins Game, Foursomes, Match, Four-Ball Match, Skills Challenge or a Tournament against fifty-eight PGA Tour professionals.   The PGA series from EA Sports has been known for its options and this version is no different. Players are free to customize nearly every aspect of the game, from mulligans, handicaps, tap-ins, fairway conditions, greens conditions, wind strength, lie effects, camera views, to even the degree of caddie assistance for four different phases of the game.   If you are familiar with other golf games, you'll know that most feature an arcing swing meter that you use to determine power and accuracy. PGA Tour 98 includes this as a default, but offers an arcade option which presents the swing as a vertical bar. Of course, you can still play for draw or fade or set the amount of backspin for whichever method you decide to use. Wrapping up the package is commentary by Ernie Johnson Jr., support for up to four alternating players, and all of your golfer's statistics saved to memory card. See you at the clubhouse!</desc>
+		<image>./mixart/PGA Tour 98 (USA).png</image>
+		<video>./snap/PGA Tour 98 (USA).mp4</video>
+		<marquee>./wheel/PGA Tour 98 (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19970927T000000</releasedate>
+		<developer>NuFX, Inc</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports-Sports / Golf</genre>
+		<players>4</players>
 	</game>
 </gameList>

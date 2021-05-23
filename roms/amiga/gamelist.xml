@@ -6,149 +6,6 @@
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game id="34183" source="ScreenScraper.fr">
-		<path>./PoolOfRadiance_v1.2_0555.lha</path>
-		<name>Advanced Dungeons &amp; Dragons : Pool of Radiance, A </name>
-		<desc>Pool of Radiance is the first adaptation of the Advanced Dungeons &amp; Dragons role-playing system in a computer game format. In the beginning of the game the player can use a pre-made party of six characters or create each of them from scratch. Six races (human, elf, dwarf, gnome, halfling, and half-elf) and four classes (fighter, cleric, wizard, and thief) are available. The player can tweak the attributes of the characters and assign a moral alignment to each one.</desc>
-		<rating>0.7</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>SSI</developer>
-		<publisher>SSI</publisher>
-		<hash>6F19464B</hash>
-		<image>./mixart/PoolOfRadiance_v1.2_0555.png</image>
-		<marquee>./wheel/PoolOfRadiance_v1.2_0555.png</marquee>
-		<video>./snap/PoolOfRadiance_v1.2_0555.mp4</video>
-	</game>
-	<game id="89066" source="ScreenScraper.fr">
-		<path>./PoolsOfDarkness_v1.1.lha</path>
-		<name>Advanced Dungeons &amp; Dragons : Pools of Darkness, A</name>
-		<desc>Pools of Darkness is the fourth of Gold Box series of classic-style AD&amp;D-based role-playing games. The gameplay is quite similar to other games of this type. At the start of the game, the player creates a party of characters (up to 6). Classic AD&amp;D races (dwarf, elf, half-elf, gnome, etc.), character classes (fighter, paladin, monk, wizard, etc.), alignments (Good/Evil and Lawful/Chaotic axis), and statistics (strength, intelligence, wisdom, etc.) are there for the player to choose and adjust. Once the party is created, the player begins the exploration of the city of Phlan. Upon exiting the city, the player explores a top-down map, visiting dungeons and other locations of interest, as well as engaging in combat.</desc>
-		<rating>0</rating>
-		<releasedate>19920309T000000</releasedate>
-		<publisher>SSI</publisher>
-		<hash>9BC8EC36</hash>
-		<image>./mixart/PoolsOfDarkness_v1.1.png</image>
-		<marquee>./wheel/PoolsOfDarkness_v1.1.png</marquee>
-		<video>./snap/PoolsOfDarkness_v1.1.mp4</video>
-	</game>
-	<game id="33370" source="ScreenScraper.fr">
-		<path>./Alien3_v2.1_0261.lha</path>
-		<name>Alien 3</name>
-		<desc>Alien3 is a video game based on the movie of the same name. The plot of the movie picks up directly after the end of Aliens. Ellen Ripley, the main character of the Alien series, is in cryo-sleep aboard the space ship Sulaco. Unfortunately, an alien or two has stowed away on the Sulaco, and wreaked havoc within the ship. Thus, it crash lands on the prison colony planet Fiorina 161. Ripley and the unarmed prisoners have to figure out a way to survive the aliens terrorizing the colony until help arrives.
-
-The gameplay of the various Alien³ conversions varies from platform to platform. This version is a side-scrolling action game with large maze-like levels. In each level, you have to rescue all the trapped prisoners and then make your way to the exit, all while surviving multiple alien attacks.</desc>
-		<rating>0</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Virgin</developer>
-		<publisher>Acclaim Entertainment</publisher>
-		<players>1</players>
-		<hash>B03095EB</hash>
-		<image>./mixart/Alien3_v2.1_0261.png</image>
-		<marquee>./wheel/Alien3_v2.1_0261.png</marquee>
-		<video>./snap/Alien3_v2.1_0261.mp4</video>
-	</game>
-	<game id="33576" source="ScreenScraper.fr">
-		<path>./AlienBreedSpecialEdition_v1.0_0615.lha</path>
-		<name>Alien Breed : Special Edition 92</name>
-		<desc>An interrim between Alien Breed and its sequel. Gameplay is the same as its predecessor - each level is a maze to be navigated through, while fighting off hordes of aliens. The Special Edition 92 includes 12 new levels and a bunch of new features: "dark missions" in which only the glowing blue eyes of the aliens are visible, and the ability to jump to a level by means of a code.</desc>
-		<rating>0</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Team 17</developer>
-		<publisher>Team 17</publisher>
-		<hash>F6F69A17</hash>
-		<image>./mixart/AlienBreedSpecialEdition_v1.0_0615.png</image>
-		<marquee>./wheel/AlienBreedSpecialEdition_v1.0_0615.png</marquee>
-		<video>./snap/AlienBreedSpecialEdition_v1.0_0615.mp4</video>
-	</game>
-	<game id="89520" source="ScreenScraper.fr">
-		<path>./AlienBreed3D2_v1.1_AGA_0280.lha</path>
-		<name>Alien Breed 3D 2 - The Killing Grounds</name>
-		<desc>Alien Breed 3D II: The Killing Grounds is a first-person 3D shooter with full-screen graphics. The story is directly connected to the ending of the predecessor: after a hard day's work the protagonist gets rescued by a space cruiser. But unfortunately shortly after an alien ship crosses their path and kidnaps the crew - now the player has 16 new levels to progress through in one-player mode. The action offers the usual DOOM-inspired gameplay: shooting everything in sight by using the ten weapons with limited ammo and searching for key cards. The enemies are working together and trying to adjust their approach depending on which of the many weapons the player is armed with.
-
-There is no music within the levels, just ambient sounds. A level editor is provided, which is especially useful for the two-player game.</desc>
-		<rating>0</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Team 17</developer>
-		<publisher>Team 17 - Ocean</publisher>
-		<players>1</players>
-		<hash>495ACBD2</hash>
-		<image>./mixart/AlienBreed3D2_v1.1_AGA_0280.png</image>
-		<video>./snap/AlienBreed3D2_v1.1_AGA_0280.mp4</video>
-	</game>
-	<game id="89519" source="ScreenScraper.fr">
-		<path>./AlienBreed3D_v1.2_AGA_0624.lha</path>
-		<name>Alien Breed 3D</name>
-		<desc>Team 17 were famed for pushing the Amiga to its limits, with a string of hits stretching back to 1991. The first major one was Alien Breed, a Gauntlet-style shoot 'em up which had already spawned three sequels, including a budget-priced Special Edition.
-
-This release was in a similar vein, but set into a 3D context, making for the Amiga's first big Doom-style game. The 3D engine uses fairly small screen graphics, but these include full floors and ceilings with detailed shading, doors, vertical position variations, lifts and transporters. The CD version includes extra atmospheric sound, while fast processors and extra FastRAM are also supported.</desc>
-		<rating>0.65</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Ocean</developer>
-		<publisher>Team 17 - Ocean</publisher>
-		<players>1-2</players>
-		<hash>F1C4F788</hash>
-		<image>./mixart/AlienBreed3D_v1.2_AGA_0624.png</image>
-		<marquee>./wheel/AlienBreed3D_v1.2_AGA_0624.png</marquee>
-		<video>./snap/AlienBreed3D_v1.2_AGA_0624.mp4</video>
-	</game>
-	<game id="89537" source="ScreenScraper.fr">
-		<path>./AllNewWorldOfLemmings_v1.0_AGA_0625.lha</path>
-		<name>All New World of Lemmings</name>
-		<desc>More lemming action this time with new skills and obstacles for them to overcome. Three islands to adventure on each featuring a different tribe of Lemmings to save. They are as follows, Classic Lemmings, Egyptian Lemmings, or the Shadow Lemmings.</desc>
-		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>DMA Design</developer>
-		<publisher>Psygnosis</publisher>
-		<players>1</players>
-		<hash>FC99483D</hash>
-		<image>./mixart/AllNewWorldOfLemmings_v1.0_AGA_0625.png</image>
-		<marquee>./wheel/AllNewWorldOfLemmings_v1.0_AGA_0625.png</marquee>
-		<video>./snap/AllNewWorldOfLemmings_v1.0_AGA_0625.mp4</video>
-	</game>
-	<game id="33603" source="ScreenScraper.fr">
-		<path>./Amnios_v1.3_0423.lha</path>
-		<name>Amnios</name>
-		<desc>Amnios is a multi-directionally scrolling top down shoot 'em up set across ten levels, each representing a planet whose eco-system has been infected. The controls involved thrusting and rotating, similarly to Asteroids.
-
-There are two ways to successfully complete the level - destroy enough of the infection to allow the planet to survive, or rescue enough of the citizens, Defender-style. For each of the organs to be destroyed, a specific weapon can be created to cleanse it easier - blueprints must be collected and taken back to your ship for this.</desc>
-		<rating>0</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Psygnosis</developer>
-		<publisher>Psygnosis</publisher>
-		<players>1</players>
-		<hash>B3B53F35</hash>
-		<image>./mixart/Amnios_v1.3_0423.png</image>
-		<marquee>./wheel/Amnios_v1.3_0423.png</marquee>
-		<video>./snap/Amnios_v1.3_0423.mp4</video>
-	</game>
-	<game id="33552" source="ScreenScraper.fr">
-		<path>./Anarchy_v1.5.lha</path>
-		<name>Anarchy</name>
-		<desc>As a Defender variant, Anarchy is a side-scrolling parallax shooter, in which you take on the evil Anarchists and their destructive behaviour. Your ship moves left or right on a looping level, shooting the enemies and finally the bosses. You have a single life with gradually draining energy. No less than 50 High Scores are recorded.
-
-There are no surprises in gameplay, except the usual upgrades for your ship - X-shaped pods reveal circles, which can be collected to produce multiple fire beams, multi-directional shots, and drones with advanced cannons</desc>
-		<rating>1</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Psyclapse</developer>
-		<publisher>WJS Design</publisher>
-		<players>1</players>
-		<hash>6D53A089</hash>
-		<image>./mixart/Anarchy_v1.5.png</image>
-		<marquee>./wheel/Anarchy_v1.5.png</marquee>
-		<video>./snap/Anarchy_v1.5.mp4</video>
-	</game>
-	<game id="152433" source="ScreenScraper.fr">
-		<path>./ItCameFromTheDesert2_v2.0.lha</path>
-		<name>Antheads : It Came from the Desert II Data Disk</name>
-		<desc>Antheads: It Came from the Desert II is an add-on for It Came From the Desert. The story takes place five years after the original game. You are Brick Nash, who has stolen plutonium and prevented nuclear tests in the desert, so the people are mad at you because they didn't get any money but some are friendly like Biff and Dusty. The police are after you and people in Lizard Breath are turning into antheads. The gameplay remains unchanged from the base game.</desc>
-		<rating>0</rating>
-		<releasedate>19900101T000000</releasedate>
-		<publisher>Mirrorsoft</publisher>
-		<hash>F23AEB1F</hash>
-		<image>./mixart/ItCameFromTheDesert2_v2.0.png</image>
-		<marquee>./wheel/ItCameFromTheDesert2_v2.0.png</marquee>
-		<video>./snap/ItCameFromTheDesert2_v2.0.mp4</video>
-	</game>
 	<game id="33375" source="ScreenScraper.fr">
 		<path>./Apidya_v2.05_Audios_2465.lha</path>
 		<name>Apidya</name>
@@ -5332,30 +5189,6 @@ You kill the enemies by jumping on them. Some of them lose a power up like invul
 		<marquee>./wheel/Oscar_v1.8_AGA_1095.png</marquee>
 		<video>./snap/Oscar_v1.8_AGA_1095.mp4</video>
 	</game>
-	<game id="33216" source="ScreenScraper.fr">
-		<path>./AnotherWorld_v2.4_0425.lha</path>
-		<name>Another World</name>
-		<desc>Another World, also known as Out of This World in North America and Outer World (ã¢ã¦ã¿ã¼ã¯ã¼ã«ã AutÄ WÄrudo?) in Japan, is a 1991 cinematic platformer action-adventure game designed by Ãric Chahi for Delphine Software. The game tells a story of Lester, a young scientist who, as a result of an experiment gone wrong, finds himself in a dangerous alien world where he is forced to fight for his survival.
-
-Originally developed for the Amiga and Atari ST and later released for the Apple IIGS and DOS platforms, the game was widely ported to other contemporary systems. Later efforts resulted in several game engine recreations for the game that permitted it to run on modern computers, consoles and mobile phones. In 2006, Chahi independently released a 15th Anniversary Edition for Windows which allowed the game to be played on modern computers with original or enhanced visuals; following up in 2011 for its 20th anniversary, ports of the game were prepared for iOS and Android based devices.
-
-Another World was highly innovative in its use of cinematic effects in both real-time and cutscenes, which granted the game praise amongst critics and commercial success. It also influenced a number of other video games and designers.
-
-Another World is a platform game, featuring a control scheme wherin the player uses either the keyboard, joystick or gamepad to make the protagonist run, jump, attack and perform other, situation specific actions such as rocking a cage back and forth. In the initial part of the game, Lester is unarmed, as he is able to kick at small creatures but is otherwise defenseless.
-
-Later in the game, the player acquires a laser pistol from a fallen foe. The pistol has three capabilities: a standard fire mode, the ability to create force fields to block enemy fire, and a powerful charged shot that can break through force fields and some walls.[3] Eventually, Lester also gains a plasma ball that can be used like a grenade to defeat foes (not featured in the original Amiga release). Enemies also have the same capabilities, requiring the player to take advantage of the three gun modes and the environment to overcome them.
-
-Lester and his alien ally cannot sustain any damage, and the game ends immediately if either of them is struck by a projectile or comes in contact with an animal or an environmental hazard.[4] However, the game uses numerous checkpoints enabling the player to keep restarting at the last point indefinitely. On the Amiga and older consoles without the ability to save a game, the player can write down an alphanumeric code for these checkpoints and re-enter it when restarting the game later. The game provides no clues as to what to do next, features no HUD (with an exception of oxygen bar during the swimming sequences) and no on-screen text, and the characters the player meets speak in unintelligible alien</desc>
-		<rating>0.95</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Delphine Software International</developer>
-		<publisher>Interplay</publisher>
-		<players>1</players>
-		<hash>AD184D5F</hash>
-		<image>./mixart/AnotherWorld_v2.4_0425.png</image>
-		<marquee>./wheel/AnotherWorld_v2.4_0425.png</marquee>
-		<video>./snap/AnotherWorld_v2.4_0425.mp4</video>
-	</game>
 	<game id="92192" source="ScreenScraper.fr">
 		<path>./Overkill_v1.1_AGA_0707.lha</path>
 		<name>Overkill</name>
@@ -9157,31 +8990,6 @@ The game features a colorful mix of 3D and 2D graphics, realistic sound effects,
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./AlienBreed2_v1.4_AGA_0044.lha</path>
-		<name>Alien Breed II - The Horror Continues</name>
-		<image>./mixart/AlienBreed2_v1.4_AGA_0044.png</image>
-		<video>./snap/AlienBreed2_v1.4_AGA_0044.mp4</video>
-		<marquee>./wheel/AlienBreed2_v1.4_AGA_0044.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<publisher>Team 17</publisher>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./AlfredChicken_v1.01_AGA_0623.lha</path>
-		<name>Alfred Chicken</name>
-		<desc>Alfred the chicken must rescue his friends and his bird (pardon the pun) Floella from the Meka Chickens. The result is a platform game across differently-themed levels, which are finished by either climbing to the top of the level or killing a boss. Bonus games and secret rooms have been included, and progression sometimes requires solving positional puzzles.
-
-Alfred cannot fly, but he can use ramps to jump up and hit enemies with his bionic beak - this kills them, but any other contact will hurt Alfred. Watch out for spiked snails though. Other enemies include whales armed with guns, and stray bombs.</desc>
-		<image>./mixart/AlfredChicken_v1.01_AGA_0623.png</image>
-		<video>./snap/AlfredChicken_v1.01_AGA_0623.mp4</video>
-		<marquee>./wheel/AlfredChicken_v1.01_AGA_0623.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Twilight</developer>
-		<publisher>Mindscape</publisher>
-	</game>
-	<game>
 		<path>./RoboCop2_v1.2_1220.lha</path>
 		<name>RoboCop 2</name>
 		<desc>The Amiga version of RoboCop 2 is very similar to other versions of the game released by Ocean Software: it combines platform levels with a puzzle mode and a first-person shooting gallery. While the puzzle and shooting modes are very similar to those on the Atari ST, the main platform sections feature completely different level designs and separate gameplay mechanics.
@@ -9321,17 +9129,6 @@ The game also includes 8 pre-defined time-limited scenarios, with specific chall
 		<releasedate>19891023T000000</releasedate>
 		<developer>Maxis</developer>
 		<publisher>Maxis</publisher>
-	</game>
-	<game>
-		<path>./AlienBreedTowerAssault_v1.2_AGA_0279.lha</path>
-		<name>Alien Breed Tower Assault</name>
-		<image>./mixart/AlienBreedTowerAssault_v1.2_AGA_0279.png</image>
-		<video>./snap/AlienBreedTowerAssault_v1.2_AGA_0279.mp4</video>
-		<marquee>./wheel/AlienBreedTowerAssault_v1.2_AGA_0279.png</marquee>
-		<rating>0</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Team 17</developer>
-		<players>1-2</players>
 	</game>
 	<game>
 		<path>./DefenderOfTheCrown_v3.1_0317.lha</path>
@@ -10351,152 +10148,6 @@ The game also offers a two-player-mode.</desc>
 		<players>2</players>
 	</game>
 	<game>
-		<path>./ATrain_v1.2_1010.lha</path>
-		<name>A-Train Construction Set</name>
-		<desc>The A-Train Construction Set add-on for Maxis railroad management simulation A-Train is a map editor that allows modification of existing savegames and creation of new landscapes from scratch. The editor comes with six sample scenarios. Apart from that, it adds no new content to the game.</desc>
-		<image>./mixart/ATrain_v1.2_1010.png</image>
-		<video>./snap/ATrain_v1.2_1010.mp4</video>
-		<marquee>./wheel/ATrain_v1.2_1010.png</marquee>
-		<rating>0</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>The Dreamer's Guild</developer>
-		<publisher>Broderbund</publisher>
-	</game>
-	<game>
-		<path>./ActionFighter_v1.3.1_1243.lha</path>
-		<name>Action Fighter</name>
-		<desc>This is a top down vertically scrolling shooter, in which you start off as a motorbike. You are quite vulnerable to attack at first, but power ups come in the form of a Sega van which you have to dock with. The first time you dock you get double fire, the second time gives you a rocket, the third gives a rear force field and the fourth invulnerablility.
-
-By destroying cars and bikes that appear on your way, you can collect A-F letters. Collecting A through to D allows you change into a sportscar which is less vulnerable to attack, but not as nimble. Collect all the letters in order to be able to transform into a high tech plane. This is the final stage of one of the five missions. Only the high tech plane can guide you to your destination in which your main target is hiding.
-
-There is also time limit in which you have to complete the mission. It is advisable to transform into the high tech plane as fast as it is possible.
-
-Picking up flags gives you bonus points with 10,000 points gaining you an extra life.</desc>
-		<image>./mixart/ActionFighter_v1.3.1_1243.png</image>
-		<video>./snap/ActionFighter_v1.3.1_1243.mp4</video>
-		<marquee>./wheel/ActionFighter_v1.3.1_1243.png</marquee>
-		<rating>0.45</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Firebird</developer>
-		<publisher>Sega</publisher>
-	</game>
-	<game>
-		<path>./DeathKnightsOfKrynn_v1.1_0987.lha</path>
-		<name>Advanced Dungeons &amp; Dragons : Death Knights of Kry</name>
-		<desc>Death Knights of Krynn is the 2nd volume of the Dragonlance epic and is the sequel to Champions of Krynn. Characters from that game may be imported to this game.
-
-
-
-This time the party faces an undead threat that turns former friends into fierce enemies and infests Krynn with hordes of decaying monsters. The party must find the origin of these nightmarish undead creatures and eliminate it in order to save Krynn from turning into a land of undead. 
-
-
-
-Like Champions of Krynn, Death Knights of Krynn introduces a different and unique character selection with the availability of the "Knight" class, unavailable in AD&amp;D non-Dragonlance RPGs. Characters in this game may level-up to higher levels and obtain new skills as well as more powerful spells. Experienced Knights may ultimately choose one out of 3 "clans" to focus more on a different type of fighting style.</desc>
-		<image>./mixart/DeathKnightsOfKrynn_v1.1_0987.png</image>
-		<video>./snap/DeathKnightsOfKrynn_v1.1_0987.mp4</video>
-		<marquee>./wheel/DeathKnightsOfKrynn_v1.1_0987.png</marquee>
-		<rating>0</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Strategic Simulations, Inc.</developer>
-		<publisher>SSI</publisher>
-	</game>
-	<game>
-		<path>./TieBreak_v1.0.lha</path>
-		<name>Adidas Championship Tie-Break</name>
-		<desc>This tennis simulation uses a top-down scrolling perspective. You are not in control of the player's motion, but once he gets close to the ball, shot selection is down to you. Standard shots plus topspin, lobs and stop volleys are available, by pushing the joystick in the right direction as you aim the shot.
-
-The game supports up to 16 players in singles matches on a variety of court surfaces.  It includes all of the major world tournaments - the four Grand Slam events at Melbourne, Roland Garros, Wimbledon and New York, plus the Davis Cup and Masters events.  An early attempt at TV-style coverage is offered.
-</desc>
-		<image>./mixart/TieBreak_v1.0.png</image>
-		<video>./snap/TieBreak_v1.0.mp4</video>
-		<marquee>./wheel/TieBreak_v1.0.png</marquee>
-		<rating>0</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Starbyte</developer>
-		<publisher>Starbyte</publisher>
-		<players>8+</players>
-	</game>
-	<game>
-		<path>./SpaceQuest4_v1.1_1177.lha</path>
-		<name>Space Quest IV : Roger Wilco and the Time Rippers</name>
-		<desc>When reading the documentation is more fun than playing the game, you know that you are on to a loser. Space Quest IV is a very dry, slow affair which seems to ignore all the encouraging advanced made in the adventure genre over the last couple of years.
-
-The story concerns Roger being plucked from his own time and dumped back on his home planet Xenon far into the future. The place is looking a bit worse for wear and zombies wander the street. As it turns out this is the result of a super computer having gone mad after being infected by a virus caught from a pirate copy of Leisure Suit Larry (and if you think that is a hoot, then the humour is just about on your level Ã¢â¬â it never gets any better).
-
-The old-fashioned 16-bit graphics are, to put it politely, hideous, and the animation, such as there is, makes Roobarb And Custard look like a Disney classic. The other big problem is with the gameplay itself Ã¢â¬â there is very little interaction with other characters. For the first quarter of the game, if you try to talk to anyone, you end up dead seconds later Ã¢â¬â hardly an incentive to continue.
-
-It is hard to imagine even real adventure buffs enjoying this much. It is very old-fashioned and has an air of tiredness about it. Avoid.</desc>
-		<image>./mixart/SpaceQuest4_v1.1_1177.png</image>
-		<video>./snap/SpaceQuest4_v1.1_1177.mp4</video>
-		<marquee>./wheel/SpaceQuest4_v1.1_1177.png</marquee>
-		<rating>0</rating>
-		<releasedate>19920101T000000</releasedate>
-		<publisher>Sierra</publisher>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./SuperObliteration_v1.1.lha</path>
-		<name>Super Obliteration</name>
-		<desc>Thirty levels of boulder-blasting await in this platform shoot em up, which can be thought of as Pang meets Turrican. The levels start with varying amounts of boulders, and as soon as you shoot at one of them, it breaks up into 2 more which are half the size. Eventually they become small enough that they disappear. 
-
-Your character is a human sprite, so youre bound to the ground unless you can jump onto one of the strategically-placed ledges. There are several different weapons available, which you dont lose when you die.
-
-There are numerous different control options  the standard one involves always firing in the direction youre aiming, but others include one where your firing direction can be changed by flicking the joystick with fire held down, an option where you move using the main 4 directions and use the bottom-left and bottom-right diagonal to rotate the firing direction, and an option where you use one joystick for direction of movement, and the other for direction of fire.
-</desc>
-		<image>./mixart/SuperObliteration_v1.1.png</image>
-		<video>./snap/SuperObliteration_v1.1.mp4</video>
-		<marquee>./wheel/SuperObliteration_v1.1.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>David Papworth</developer>
-		<publisher>David Papworth</publisher>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Aladdin_v1.7_AGA_0420.lha</path>
-		<name>Aladdin</name>
-		<desc>The game from Virgin based on the 1992 animated Disney film is a side-scrolling platformer.
-
-The player controls Aladdin, who must make his way through several levels based on locations from the movie: from the streets and rooftops of Agrabah, the Cave of Wonders and the Sultan's dungeon to the final confrontation in Grand Vizier Jafar's palace. The Sultan's guards and also animals of the desert want to hinder Aladdin in his way. He can defend himself with his sword or by throwing apples. Next to apples, Aladdin can also collect gems which can be traded for lives and continues with a traveling trader. Finding Genie or Abu icons enables bonus rounds. The Genie bonus round is a game of luck played for apples, gems or extra lives. In Abu's bonus round, the player controls the little monkey who has to catch bonus items that fall from the sky, but without touching any of the unwanted objects like rocks and pots.
-
-The game's humorous animations were created by Walt Disney Feature Animation.</desc>
-		<image>./mixart/Aladdin_v1.7_AGA_0420.png</image>
-		<video>./snap/Aladdin_v1.7_AGA_0420.mp4</video>
-		<marquee>./wheel/Aladdin_v1.7_AGA_0420.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Disney</developer>
-		<publisher>Virgin</publisher>
-	</game>
-	<game>
-		<path>./AstroMarineCorps_v1.2.lha</path>
-		<name>A.M.C. : Astro Marine Corps</name>
-		<desc>AMC is a 2D game with horizontal scrolling in 2 phases (typical of Spanish games), in the same style as Gryzor. In the first phase, one plays a commando that is sent on the planet DENDAR to trap the ship of the Death Bringers, the bearers of death. There are 11 different enemies to meet you, and Krauer, the Death Bringers leader who protects the ship and is 4 meters tall.
-
-The game starts with a single shot, then the weapon is expanded over the game, we pick up weapons more and more powerful. Note that the contents of the crates sent from the sky by the Astro Marine can be changed by the Death Bringers, so you can die suffocated by green carnivorous plants.
-
-Phase 2 of the game takes you to the Death Bringers ship that drops you on their planet, and you have to exterminate them in a limited time, and contains 13 different enemies and the end boss, Great King Alien.</desc>
-		<image>./mixart/AstroMarineCorps_v1.2.png</image>
-		<video>./snap/AstroMarineCorps_v1.2.mp4</video>
-		<marquee>./wheel/AstroMarineCorps_v1.2.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Creepsoft</developer>
-		<publisher>Dinamic Software</publisher>
-	</game>
-	<game>
-		<path>./EyeOfTheBeholder2_v1.1_0834.lha</path>
-		<name>Advanced Dungeons &amp; Dragons : Eye of the Beholder </name>
-		<desc>Eye of the Beholder II: The Legend of Darkmoon is a 1991 computer role-playing game and the sequel to Eye of the Beholder. It used a modified version of the first game's engine, added outdoor areas and greatly increased the amount of interaction the player had with their environment, along with substantially more 'roleplaying' aspects to the game</desc>
-		<image>./mixart/EyeOfTheBeholder2_v1.1_0834.png</image>
-		<video>./snap/EyeOfTheBeholder2_v1.1_0834.mp4</video>
-		<marquee>./wheel/EyeOfTheBeholder2_v1.1_0834.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>SSI</developer>
-		<publisher>Westwood Studios</publisher>
-	</game>
-	<game>
 		<path>./RiseOfTheRobots_v1.3_AGA_1763.lha</path>
 		<name>Rise of the Robots</name>
 		<desc>Rise of the Robots emerges from the hype and reveals itself as a good-looking but rather unwieldy beat-em-up. The game, in all of the currently available versions, is just not that good.
@@ -10562,6 +10213,376 @@ Moving around an alien-infested complex in a top-down view, you must at all time
 		<publisher>Psygnosis</publisher>
 		<genre>Shoot'em Up</genre>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./ActionFighter_v1.3.1_1243.lha</path>
+		<name>Action Fighter</name>
+		<desc>This is a top down vertically scrolling shooter, in which you start off as a motorbike. You are quite vulnerable to attack at first, but power ups come in the form of a Sega van which you have to dock with. The first time you dock you get double fire, the second time gives you a rocket, the third gives a rear force field and the fourth invulnerablility.
+
+By destroying cars and bikes that appear on your way, you can collect A-F letters. Collecting A through to D allows you change into a sportscar which is less vulnerable to attack, but not as nimble. Collect all the letters in order to be able to transform into a high tech plane. This is the final stage of one of the five missions. Only the high tech plane can guide you to your destination in which your main target is hiding.
+
+There is also time limit in which you have to complete the mission. It is advisable to transform into the high tech plane as fast as it is possible.
+
+Picking up flags gives you bonus points with 10,000 points gaining you an extra life.</desc>
+		<image>./mixart/ActionFighter_v1.3.1_1243.png</image>
+		<video>./snap/ActionFighter_v1.3.1_1243.mp4</video>
+		<marquee>./wheel/ActionFighter_v1.3.1_1243.png</marquee>
+		<rating>0.45</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Firebird</developer>
+		<publisher>Sega</publisher>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Aladdin_v1.7_AGA_0420.lha</path>
+		<name>Aladdin</name>
+		<desc>The game from Virgin based on the 1992 animated Disney film is a side-scrolling platformer.
+
+The player controls Aladdin, who must make his way through several levels based on locations from the movie: from the streets and rooftops of Agrabah, the Cave of Wonders and the Sultan's dungeon to the final confrontation in Grand Vizier Jafar's palace. The Sultan's guards and also animals of the desert want to hinder Aladdin in his way. He can defend himself with his sword or by throwing apples. Next to apples, Aladdin can also collect gems which can be traded for lives and continues with a traveling trader. Finding Genie or Abu icons enables bonus rounds. The Genie bonus round is a game of luck played for apples, gems or extra lives. In Abu's bonus round, the player controls the little monkey who has to catch bonus items that fall from the sky, but without touching any of the unwanted objects like rocks and pots.
+
+The game's humorous animations were created by Walt Disney Feature Animation.</desc>
+		<image>./mixart/Aladdin_v1.7_AGA_0420.png</image>
+		<video>./snap/Aladdin_v1.7_AGA_0420.mp4</video>
+		<marquee>./wheel/Aladdin_v1.7_AGA_0420.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Disney</developer>
+		<publisher>Virgin</publisher>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./AlfredChicken_v1.01_AGA_0623.lha</path>
+		<name>Alfred Chicken</name>
+		<desc>Alfred the chicken must rescue his friends and his bird (pardon the pun) Floella from the Meka Chickens. The result is a platform game across differently-themed levels, which are finished by either climbing to the top of the level or killing a boss. Bonus games and secret rooms have been included, and progression sometimes requires solving positional puzzles.
+
+Alfred cannot fly, but he can use ramps to jump up and hit enemies with his bionic beak - this kills them, but any other contact will hurt Alfred. Watch out for spiked snails though. Other enemies include whales armed with guns, and stray bombs.</desc>
+		<image>./mixart/AlfredChicken_v1.01_AGA_0623.png</image>
+		<video>./snap/AlfredChicken_v1.01_AGA_0623.mp4</video>
+		<marquee>./wheel/AlfredChicken_v1.01_AGA_0623.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>Twilight</developer>
+		<publisher>Mindscape</publisher>
+		<lang>en</lang>
+	</game>
+	<game id="33370" source="ScreenScraper.fr">
+		<path>./Alien3_v2.1_0261.lha</path>
+		<name>Alien 3</name>
+		<desc>Alien3 is a video game based on the movie of the same name. The plot of the movie picks up directly after the end of Aliens. Ellen Ripley, the main character of the Alien series, is in cryo-sleep aboard the space ship Sulaco. Unfortunately, an alien or two has stowed away on the Sulaco, and wreaked havoc within the ship. Thus, it crash lands on the prison colony planet Fiorina 161. Ripley and the unarmed prisoners have to figure out a way to survive the aliens terrorizing the colony until help arrives.
+
+The gameplay of the various Alien³ conversions varies from platform to platform. This version is a side-scrolling action game with large maze-like levels. In each level, you have to rescue all the trapped prisoners and then make your way to the exit, all while surviving multiple alien attacks.</desc>
+		<image>./mixart/Alien3_v2.1_0261.png</image>
+		<video>./snap/Alien3_v2.1_0261.mp4</video>
+		<marquee>./wheel/Alien3_v2.1_0261.png</marquee>
+		<rating>0</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Virgin</developer>
+		<publisher>Acclaim Entertainment</publisher>
+		<players>1</players>
+		<crc32>B03095EB</crc32>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./AlienBreed2_v1.4_AGA_0044.lha</path>
+		<name>Alien Breed II - The Horror Continues</name>
+		<image>./mixart/AlienBreed2_v1.4_AGA_0044.png</image>
+		<video>./snap/AlienBreed2_v1.4_AGA_0044.mp4</video>
+		<marquee>./wheel/AlienBreed2_v1.4_AGA_0044.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<publisher>Team 17</publisher>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game id="89520" source="ScreenScraper.fr">
+		<path>./AlienBreed3D2_v1.1_AGA_0280.lha</path>
+		<name>Alien Breed 3D 2 - The Killing Grounds</name>
+		<desc>Alien Breed 3D II: The Killing Grounds is a first-person 3D shooter with full-screen graphics. The story is directly connected to the ending of the predecessor: after a hard day's work the protagonist gets rescued by a space cruiser. But unfortunately shortly after an alien ship crosses their path and kidnaps the crew - now the player has 16 new levels to progress through in one-player mode. The action offers the usual DOOM-inspired gameplay: shooting everything in sight by using the ten weapons with limited ammo and searching for key cards. The enemies are working together and trying to adjust their approach depending on which of the many weapons the player is armed with.
+
+There is no music within the levels, just ambient sounds. A level editor is provided, which is especially useful for the two-player game.</desc>
+		<image>./mixart/AlienBreed3D2_v1.1_AGA_0280.png</image>
+		<video>./snap/AlienBreed3D2_v1.1_AGA_0280.mp4</video>
+		<rating>0</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Team 17 - Ocean</publisher>
+		<players>1</players>
+		<crc32>495ACBD2</crc32>
+		<lang>en</lang>
+	</game>
+	<game id="89519" source="ScreenScraper.fr">
+		<path>./AlienBreed3D_v1.2_AGA_0624.lha</path>
+		<name>Alien Breed 3D</name>
+		<desc>Team 17 were famed for pushing the Amiga to its limits, with a string of hits stretching back to 1991. The first major one was Alien Breed, a Gauntlet-style shoot 'em up which had already spawned three sequels, including a budget-priced Special Edition.
+
+This release was in a similar vein, but set into a 3D context, making for the Amiga's first big Doom-style game. The 3D engine uses fairly small screen graphics, but these include full floors and ceilings with detailed shading, doors, vertical position variations, lifts and transporters. The CD version includes extra atmospheric sound, while fast processors and extra FastRAM are also supported.</desc>
+		<image>./mixart/AlienBreed3D_v1.2_AGA_0624.png</image>
+		<video>./snap/AlienBreed3D_v1.2_AGA_0624.mp4</video>
+		<marquee>./wheel/AlienBreed3D_v1.2_AGA_0624.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Team 17 - Ocean</publisher>
+		<players>2</players>
+		<crc32>F1C4F788</crc32>
+		<lang>en</lang>
+	</game>
+	<game id="33576" source="ScreenScraper.fr">
+		<path>./AlienBreedSpecialEdition_v1.0_0615.lha</path>
+		<name>Alien Breed : Special Edition 92</name>
+		<desc>An interrim between Alien Breed and its sequel. Gameplay is the same as its predecessor - each level is a maze to be navigated through, while fighting off hordes of aliens. The Special Edition 92 includes 12 new levels and a bunch of new features: "dark missions" in which only the glowing blue eyes of the aliens are visible, and the ability to jump to a level by means of a code.</desc>
+		<image>./mixart/AlienBreedSpecialEdition_v1.0_0615.png</image>
+		<video>./snap/AlienBreedSpecialEdition_v1.0_0615.mp4</video>
+		<marquee>./wheel/AlienBreedSpecialEdition_v1.0_0615.png</marquee>
+		<rating>0</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Team 17</publisher>
+		<crc32>F6F69A17</crc32>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./AlienBreedTowerAssault_v1.2_AGA_0279.lha</path>
+		<name>Alien Breed Tower Assault</name>
+		<image>./mixart/AlienBreedTowerAssault_v1.2_AGA_0279.png</image>
+		<video>./snap/AlienBreedTowerAssault_v1.2_AGA_0279.mp4</video>
+		<marquee>./wheel/AlienBreedTowerAssault_v1.2_AGA_0279.png</marquee>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Team 17</developer>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game id="89537" source="ScreenScraper.fr">
+		<path>./AllNewWorldOfLemmings_v1.0_AGA_0625.lha</path>
+		<name>All New World of Lemmings</name>
+		<desc>More lemming action this time with new skills and obstacles for them to overcome. Three islands to adventure on each featuring a different tribe of Lemmings to save. They are as follows, Classic Lemmings, Egyptian Lemmings, or the Shadow Lemmings.</desc>
+		<image>./mixart/AllNewWorldOfLemmings_v1.0_AGA_0625.png</image>
+		<video>./snap/AllNewWorldOfLemmings_v1.0_AGA_0625.mp4</video>
+		<marquee>./wheel/AllNewWorldOfLemmings_v1.0_AGA_0625.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>DMA Design</developer>
+		<publisher>Psygnosis</publisher>
+		<players>1</players>
+		<crc32>FC99483D</crc32>
+		<lang>en</lang>
+	</game>
+	<game id="33603" source="ScreenScraper.fr">
+		<path>./Amnios_v1.3_0423.lha</path>
+		<name>Amnios</name>
+		<desc>Amnios is a multi-directionally scrolling top down shoot 'em up set across ten levels, each representing a planet whose eco-system has been infected. The controls involved thrusting and rotating, similarly to Asteroids.
+
+There are two ways to successfully complete the level - destroy enough of the infection to allow the planet to survive, or rescue enough of the citizens, Defender-style. For each of the organs to be destroyed, a specific weapon can be created to cleanse it easier - blueprints must be collected and taken back to your ship for this.</desc>
+		<image>./mixart/Amnios_v1.3_0423.png</image>
+		<video>./snap/Amnios_v1.3_0423.mp4</video>
+		<marquee>./wheel/Amnios_v1.3_0423.png</marquee>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Psygnosis</developer>
+		<publisher>Psygnosis</publisher>
+		<players>1</players>
+		<crc32>B3B53F35</crc32>
+		<lang>en</lang>
+	</game>
+	<game id="33552" source="ScreenScraper.fr">
+		<path>./Anarchy_v1.5.lha</path>
+		<name>Anarchy</name>
+		<desc>As a Defender variant, Anarchy is a side-scrolling parallax shooter, in which you take on the evil Anarchists and their destructive behaviour. Your ship moves left or right on a looping level, shooting the enemies and finally the bosses. You have a single life with gradually draining energy. No less than 50 High Scores are recorded.
+
+There are no surprises in gameplay, except the usual upgrades for your ship - X-shaped pods reveal circles, which can be collected to produce multiple fire beams, multi-directional shots, and drones with advanced cannons</desc>
+		<image>./mixart/Anarchy_v1.5.png</image>
+		<video>./snap/Anarchy_v1.5.mp4</video>
+		<marquee>./wheel/Anarchy_v1.5.png</marquee>
+		<rating>1</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Psyclapse</developer>
+		<publisher>WJS Design</publisher>
+		<players>1</players>
+		<crc32>6D53A089</crc32>
+		<lang>en</lang>
+	</game>
+	<game id="33216" source="ScreenScraper.fr">
+		<path>./AnotherWorld_v2.4_0425.lha</path>
+		<name>Another World</name>
+		<desc>Another World, also known as Out of This World in North America and Outer World (ã¢ã¦ã¿ã¼ã¯ã¼ã«ã AutÄ WÄrudo?) in Japan, is a 1991 cinematic platformer action-adventure game designed by Ãric Chahi for Delphine Software. The game tells a story of Lester, a young scientist who, as a result of an experiment gone wrong, finds himself in a dangerous alien world where he is forced to fight for his survival.
+
+Originally developed for the Amiga and Atari ST and later released for the Apple IIGS and DOS platforms, the game was widely ported to other contemporary systems. Later efforts resulted in several game engine recreations for the game that permitted it to run on modern computers, consoles and mobile phones. In 2006, Chahi independently released a 15th Anniversary Edition for Windows which allowed the game to be played on modern computers with original or enhanced visuals; following up in 2011 for its 20th anniversary, ports of the game were prepared for iOS and Android based devices.
+
+Another World was highly innovative in its use of cinematic effects in both real-time and cutscenes, which granted the game praise amongst critics and commercial success. It also influenced a number of other video games and designers.
+
+Another World is a platform game, featuring a control scheme wherin the player uses either the keyboard, joystick or gamepad to make the protagonist run, jump, attack and perform other, situation specific actions such as rocking a cage back and forth. In the initial part of the game, Lester is unarmed, as he is able to kick at small creatures but is otherwise defenseless.
+
+Later in the game, the player acquires a laser pistol from a fallen foe. The pistol has three capabilities: a standard fire mode, the ability to create force fields to block enemy fire, and a powerful charged shot that can break through force fields and some walls.[3] Eventually, Lester also gains a plasma ball that can be used like a grenade to defeat foes (not featured in the original Amiga release). Enemies also have the same capabilities, requiring the player to take advantage of the three gun modes and the environment to overcome them.
+
+Lester and his alien ally cannot sustain any damage, and the game ends immediately if either of them is struck by a projectile or comes in contact with an animal or an environmental hazard.[4] However, the game uses numerous checkpoints enabling the player to keep restarting at the last point indefinitely. On the Amiga and older consoles without the ability to save a game, the player can write down an alphanumeric code for these checkpoints and re-enter it when restarting the game later. The game provides no clues as to what to do next, features no HUD (with an exception of oxygen bar during the swimming sequences) and no on-screen text, and the characters the player meets speak in unintelligible alien</desc>
+		<image>./mixart/AnotherWorld_v2.4_0425.png</image>
+		<video>./snap/AnotherWorld_v2.4_0425.mp4</video>
+		<marquee>./wheel/AnotherWorld_v2.4_0425.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Delphine Software International</developer>
+		<publisher>Interplay</publisher>
+		<players>1</players>
+		<crc32>AD184D5F</crc32>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./AstroMarineCorps_v1.2.lha</path>
+		<name>A.M.C. : Astro Marine Corps</name>
+		<desc>AMC is a 2D game with horizontal scrolling in 2 phases (typical of Spanish games), in the same style as Gryzor. In the first phase, one plays a commando that is sent on the planet DENDAR to trap the ship of the Death Bringers, the bearers of death. There are 11 different enemies to meet you, and Krauer, the Death Bringers leader who protects the ship and is 4 meters tall.
+
+The game starts with a single shot, then the weapon is expanded over the game, we pick up weapons more and more powerful. Note that the contents of the crates sent from the sky by the Astro Marine can be changed by the Death Bringers, so you can die suffocated by green carnivorous plants.
+
+Phase 2 of the game takes you to the Death Bringers ship that drops you on their planet, and you have to exterminate them in a limited time, and contains 13 different enemies and the end boss, Great King Alien.</desc>
+		<image>./mixart/AstroMarineCorps_v1.2.png</image>
+		<video>./snap/AstroMarineCorps_v1.2.mp4</video>
+		<marquee>./wheel/AstroMarineCorps_v1.2.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Creepsoft</developer>
+		<publisher>Dinamic Software</publisher>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./ATrain_v1.2_1010.lha</path>
+		<name>A-Train Construction Set</name>
+		<desc>The A-Train Construction Set add-on for Maxis railroad management simulation A-Train is a map editor that allows modification of existing savegames and creation of new landscapes from scratch. The editor comes with six sample scenarios. Apart from that, it adds no new content to the game.</desc>
+		<image>./mixart/ATrain_v1.2_1010.png</image>
+		<video>./snap/ATrain_v1.2_1010.mp4</video>
+		<marquee>./wheel/ATrain_v1.2_1010.png</marquee>
+		<rating>0</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>The Dreamer's Guild</developer>
+		<publisher>Broderbund</publisher>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./DeathKnightsOfKrynn_v1.1_0987.lha</path>
+		<name>Advanced Dungeons &amp; Dragons : Death Knights of Kry</name>
+		<desc>Death Knights of Krynn is the 2nd volume of the Dragonlance epic and is the sequel to Champions of Krynn. Characters from that game may be imported to this game.
+
+
+
+This time the party faces an undead threat that turns former friends into fierce enemies and infests Krynn with hordes of decaying monsters. The party must find the origin of these nightmarish undead creatures and eliminate it in order to save Krynn from turning into a land of undead. 
+
+
+
+Like Champions of Krynn, Death Knights of Krynn introduces a different and unique character selection with the availability of the "Knight" class, unavailable in AD&amp;D non-Dragonlance RPGs. Characters in this game may level-up to higher levels and obtain new skills as well as more powerful spells. Experienced Knights may ultimately choose one out of 3 "clans" to focus more on a different type of fighting style.</desc>
+		<image>./mixart/DeathKnightsOfKrynn_v1.1_0987.png</image>
+		<video>./snap/DeathKnightsOfKrynn_v1.1_0987.mp4</video>
+		<marquee>./wheel/DeathKnightsOfKrynn_v1.1_0987.png</marquee>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Strategic Simulations, Inc.</developer>
+		<publisher>SSI</publisher>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./EyeOfTheBeholder2_v1.1_0834.lha</path>
+		<name>Advanced Dungeons &amp; Dragons : Eye of the Beholder </name>
+		<desc>Eye of the Beholder II: The Legend of Darkmoon is a 1991 computer role-playing game and the sequel to Eye of the Beholder. It used a modified version of the first game's engine, added outdoor areas and greatly increased the amount of interaction the player had with their environment, along with substantially more 'roleplaying' aspects to the game</desc>
+		<image>./mixart/EyeOfTheBeholder2_v1.1_0834.png</image>
+		<video>./snap/EyeOfTheBeholder2_v1.1_0834.mp4</video>
+		<marquee>./wheel/EyeOfTheBeholder2_v1.1_0834.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>SSI</developer>
+		<publisher>Westwood Studios</publisher>
+		<lang>en</lang>
+	</game>
+	<game id="152433" source="ScreenScraper.fr">
+		<path>./ItCameFromTheDesert2_v2.0.lha</path>
+		<name>Antheads : It Came from the Desert II Data Disk</name>
+		<desc>Antheads: It Came from the Desert II is an add-on for It Came From the Desert. The story takes place five years after the original game. You are Brick Nash, who has stolen plutonium and prevented nuclear tests in the desert, so the people are mad at you because they didn't get any money but some are friendly like Biff and Dusty. The police are after you and people in Lizard Breath are turning into antheads. The gameplay remains unchanged from the base game.</desc>
+		<image>./mixart/ItCameFromTheDesert2_v2.0.png</image>
+		<video>./snap/ItCameFromTheDesert2_v2.0.mp4</video>
+		<marquee>./wheel/ItCameFromTheDesert2_v2.0.png</marquee>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<publisher>Mirrorsoft</publisher>
+		<crc32>F23AEB1F</crc32>
+		<lang>en</lang>
+	</game>
+	<game id="34183" source="ScreenScraper.fr">
+		<path>./PoolOfRadiance_v1.2_0555.lha</path>
+		<name>Advanced Dungeons &amp; Dragons : Pool of Radiance, A </name>
+		<desc>Pool of Radiance is the first adaptation of the Advanced Dungeons &amp; Dragons role-playing system in a computer game format. In the beginning of the game the player can use a pre-made party of six characters or create each of them from scratch. Six races (human, elf, dwarf, gnome, halfling, and half-elf) and four classes (fighter, cleric, wizard, and thief) are available. The player can tweak the attributes of the characters and assign a moral alignment to each one.</desc>
+		<image>./mixart/PoolOfRadiance_v1.2_0555.png</image>
+		<video>./snap/PoolOfRadiance_v1.2_0555.mp4</video>
+		<marquee>./wheel/PoolOfRadiance_v1.2_0555.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>SSI</developer>
+		<publisher>SSI</publisher>
+		<crc32>6F19464B</crc32>
+		<lang>en</lang>
+	</game>
+	<game id="89066" source="ScreenScraper.fr">
+		<path>./PoolsOfDarkness_v1.1.lha</path>
+		<name>Advanced Dungeons &amp; Dragons : Pools of Darkness, A</name>
+		<desc>Pools of Darkness is the fourth of Gold Box series of classic-style AD&amp;D-based role-playing games. The gameplay is quite similar to other games of this type. At the start of the game, the player creates a party of characters (up to 6). Classic AD&amp;D races (dwarf, elf, half-elf, gnome, etc.), character classes (fighter, paladin, monk, wizard, etc.), alignments (Good/Evil and Lawful/Chaotic axis), and statistics (strength, intelligence, wisdom, etc.) are there for the player to choose and adjust. Once the party is created, the player begins the exploration of the city of Phlan. Upon exiting the city, the player explores a top-down map, visiting dungeons and other locations of interest, as well as engaging in combat.</desc>
+		<image>./mixart/PoolsOfDarkness_v1.1.png</image>
+		<video>./snap/PoolsOfDarkness_v1.1.mp4</video>
+		<marquee>./wheel/PoolsOfDarkness_v1.1.png</marquee>
+		<rating>0</rating>
+		<releasedate>19920309T000000</releasedate>
+		<publisher>SSI</publisher>
+		<crc32>9BC8EC36</crc32>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SpaceQuest4_v1.1_1177.lha</path>
+		<name>Space Quest IV : Roger Wilco and the Time Rippers</name>
+		<desc>When reading the documentation is more fun than playing the game, you know that you are on to a loser. Space Quest IV is a very dry, slow affair which seems to ignore all the encouraging advanced made in the adventure genre over the last couple of years.
+
+The story concerns Roger being plucked from his own time and dumped back on his home planet Xenon far into the future. The place is looking a bit worse for wear and zombies wander the street. As it turns out this is the result of a super computer having gone mad after being infected by a virus caught from a pirate copy of Leisure Suit Larry (and if you think that is a hoot, then the humour is just about on your level Ã¢â¬â it never gets any better).
+
+The old-fashioned 16-bit graphics are, to put it politely, hideous, and the animation, such as there is, makes Roobarb And Custard look like a Disney classic. The other big problem is with the gameplay itself Ã¢â¬â there is very little interaction with other characters. For the first quarter of the game, if you try to talk to anyone, you end up dead seconds later Ã¢â¬â hardly an incentive to continue.
+
+It is hard to imagine even real adventure buffs enjoying this much. It is very old-fashioned and has an air of tiredness about it. Avoid.</desc>
+		<image>./mixart/SpaceQuest4_v1.1_1177.png</image>
+		<video>./snap/SpaceQuest4_v1.1_1177.mp4</video>
+		<marquee>./wheel/SpaceQuest4_v1.1_1177.png</marquee>
+		<rating>0</rating>
+		<releasedate>19920101T000000</releasedate>
+		<publisher>Sierra</publisher>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SuperObliteration_v1.1.lha</path>
+		<name>Super Obliteration</name>
+		<desc>Thirty levels of boulder-blasting await in this platform shoot em up, which can be thought of as Pang meets Turrican. The levels start with varying amounts of boulders, and as soon as you shoot at one of them, it breaks up into 2 more which are half the size. Eventually they become small enough that they disappear. 
+
+Your character is a human sprite, so youre bound to the ground unless you can jump onto one of the strategically-placed ledges. There are several different weapons available, which you dont lose when you die.
+
+There are numerous different control options  the standard one involves always firing in the direction youre aiming, but others include one where your firing direction can be changed by flicking the joystick with fire held down, an option where you move using the main 4 directions and use the bottom-left and bottom-right diagonal to rotate the firing direction, and an option where you use one joystick for direction of movement, and the other for direction of fire.</desc>
+		<image>./mixart/SuperObliteration_v1.1.png</image>
+		<video>./snap/SuperObliteration_v1.1.mp4</video>
+		<marquee>./wheel/SuperObliteration_v1.1.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>David Papworth</developer>
+		<publisher>David Papworth</publisher>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./TieBreak_v1.0.lha</path>
+		<name>Adidas Championship Tie-Break</name>
+		<desc>This tennis simulation uses a top-down scrolling perspective. You are not in control of the player's motion, but once he gets close to the ball, shot selection is down to you. Standard shots plus topspin, lobs and stop volleys are available, by pushing the joystick in the right direction as you aim the shot.
+
+The game supports up to 16 players in singles matches on a variety of court surfaces.  It includes all of the major world tournaments - the four Grand Slam events at Melbourne, Roland Garros, Wimbledon and New York, plus the Davis Cup and Masters events.  An early attempt at TV-style coverage is offered.</desc>
+		<image>./mixart/TieBreak_v1.0.png</image>
+		<video>./snap/TieBreak_v1.0.mp4</video>
+		<marquee>./wheel/TieBreak_v1.0.png</marquee>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Starbyte</developer>
+		<publisher>Starbyte</publisher>
+		<players>8+</players>
 		<lang>en</lang>
 	</game>
 </gameList>

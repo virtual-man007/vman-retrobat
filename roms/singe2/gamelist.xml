@@ -203,22 +203,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./DL2e.cmd</path>
-		<name>Dragon's Lair II: Time Warp HD</name>
-		<desc>DL2: Time Warp HD with classic mode and enhanced Rom. Dirk the Daring must find and rescue Daphne with the help of a well-spoken time machine possessed by the brother of Mordroc, the foul wizard that has kidnapped Daphne. Dirk travels through several dimensions and historical eras, some inspired by classic stories and fairy tales such as Alice in Wonderland and Sleeping Beauty, to prevent Mordroc from enslaving Daphne to his whim with the dreaded Death Ring.</desc>
-		<image>./mixart/DL2e.png</image>
-		<video>./snap/DL2e.mp4</video>
-		<marquee>./wheel/DL2e.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19910616T000000</releasedate>
-		<developer>LeLand Corporation</developer>
-		<publisher>Digital Leisure</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Fire and Ice.cmd</path>
 		<name>Fire and Ice</name>
 		<desc>Defeat the evil Nekron in this adaptation of the 1983 movie.</desc>
@@ -413,6 +397,22 @@
 		<publisher>Poiu</publisher>
 		<genre>Quick Time Event (QTE)</genre>
 		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./DL2e.cmd</path>
+		<name>Dragon's Lair II: Time Warp HD</name>
+		<desc>DL2: Time Warp HD with classic mode and enhanced Rom. Dirk the Daring must find and rescue Daphne with the help of a well-spoken time machine possessed by the brother of Mordroc, the foul wizard that has kidnapped Daphne. Dirk travels through several dimensions and historical eras, some inspired by classic stories and fairy tales such as Alice in Wonderland and Sleeping Beauty, to prevent Mordroc from enslaving Daphne to his whim with the dreaded Death Ring.</desc>
+		<image>./mixart/DL2e.png</image>
+		<video>./snap/DL2e.mp4</video>
+		<marquee>./wheel/DL2e.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19910616T000000</releasedate>
+		<developer>LeLand Corporation</developer>
+		<publisher>Digital Leisure</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

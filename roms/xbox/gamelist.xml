@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./AMF Bowling 2004.cmd</path>
+		<name>AMF Bowling 2004</name>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Pure Pinball.cmd</path>
+		<name>Pure Pinball</name>
+	</game>
+</gameList>

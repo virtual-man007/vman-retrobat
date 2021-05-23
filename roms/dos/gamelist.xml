@@ -2016,22 +2016,6 @@ Upon discovering this news the hero and Ecstatica promptly find themselves kidna
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Ecstatica.pc</path>
-		<name>Ecstatica</name>
-		<desc>Ecstatica is a 3D graphic adventure, where you must free a the young sorceress Ecstatica from the unholy spell cast by vile supernatural forces. The peaceful village of Tirich was invaded by horrifying monsters. You are a lonely adventurer looking for shelter who finds himself in the role of a hero who must awaken Ecstatica, save the village and its inhabitants, and defeat the forces of darkness who are pulling the triggers behind the scene. 
-
-This is a survival horror game, somewhat similar in gameplay style to Alone in the Dark. Walk around and examine your environment, gather materials you need to solve puzzles--and gather weapons to defend yourself against the minions of evil. The hero can walk, sneak (in order to avoid fighting monsters) or run. He fights in real time, striking with melee, and later also long-ranged weapons, and parrying the opponents' hits when necessarily.</desc>
-		<image>./mixart/Ecstatica.png</image>
-		<video>./snap/Ecstatica.mp4</video>
-		<marquee>./wheel/Ecstatica.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T010000</releasedate>
-		<developer>Andrew Spencer Studios</developer>
-		<publisher>Psygnosis</publisher>
-		<genre>Adventure</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./EF2000.pc</path>
 		<name>EF2000 (Special Edition)</name>
 		<desc>EF2000 (Special Edition) contains:
@@ -6413,23 +6397,6 @@ Weapons come in handy, since Derceto is full of various monsters. Some monsters 
 		<region>in</region>
 	</game>
 	<game>
-		<path>./Blood.pc</path>
-		<name>Blood</name>
-		<desc>Caleb was once a feared gunslinger, until he met a woman who was involved with a mysterious cult known as Cabal. Caleb, too, is sucked in, and soon becomes one of the Chosen - the most favored worshippers of the evil god Tchernobog. But one day, Tchernobog inexplicably kills the four Chosen, including Caleb. Mysteriously resurrected years later, Caleb is out to get revenge, and learn why his lord cast him down so abruptly.
-
-Blood is a first-person shooter with horror elements, which uses the Build engine. Similarly to Duke Nukem 3D, the environment is interactive: many objects can be physically moved or affected in other ways. Destruction of landscapes is possible (although only in specific spots), with bullet holes being left by misplaced shots. The Build engine version is 2.5D, so there are rooms above rooms and puzzles which are based on this.</desc>
-		<image>./mixart/Blood.png</image>
-		<video>./snap/Blood.mp4</video>
-		<marquee>./wheel/Blood.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19970531T000000</releasedate>
-		<developer>Monolith Productions, Inc.</developer>
-		<publisher>GT Interactive</publisher>
-		<genre>Shooter / 1st person</genre>
-		<players>40</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Dune_II_The_Building_Of_A_Dynasty.pc</path>
 		<name>Dune II: The Building of a Dynasty</name>
 		<desc>The planet Arrakis (also known as Dune for its sandy landscape) is the only place in the known universe where Melange (more commonly known as the Spice) can be found. The Spice is the basis of interstellar travel and thus the standard of the Imperial economy. To increase productivity, The Padishah Emperor has invited three powerful Houses (Harkonnen, Atreides and Ordos) to compete against one another economically and bring up spice production. Competition among these houses begins peacefully but soon turns ugly as they battle each other with armed troops, advanced weaponry, and spies. The planet itself is also hostile, with dangerous sandworms inhabiting the spice fields.
@@ -7058,5 +7025,38 @@ Each table has up to four flippers, giving the player the possibility to control
 		<developer>Digital Extremes</developer>
 		<publisher>Epic Games</publisher>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Ecstatica.pc</path>
+		<name>Ecstatica</name>
+		<desc>Ecstatica is a 3D graphic adventure, where you must free a the young sorceress Ecstatica from the unholy spell cast by vile supernatural forces. The peaceful village of Tirich was invaded by horrifying monsters. You are a lonely adventurer looking for shelter who finds himself in the role of a hero who must awaken Ecstatica, save the village and its inhabitants, and defeat the forces of darkness who are pulling the triggers behind the scene. 
+
+This is a survival horror game, somewhat similar in gameplay style to Alone in the Dark. Walk around and examine your environment, gather materials you need to solve puzzles--and gather weapons to defend yourself against the minions of evil. The hero can walk, sneak (in order to avoid fighting monsters) or run. He fights in real time, striking with melee, and later also long-ranged weapons, and parrying the opponents' hits when necessarily.</desc>
+		<image>./mixart/Ecstatica.png</image>
+		<video>./snap/Ecstatica.mp4</video>
+		<marquee>./wheel/Ecstatica.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
+		<developer>Andrew Spencer Studios</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Adventure</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Blood.pc</path>
+		<name>Blood</name>
+		<desc>Caleb was once a feared gunslinger, until he met a woman who was involved with a mysterious cult known as Cabal. Caleb, too, is sucked in, and soon becomes one of the Chosen - the most favored worshippers of the evil god Tchernobog. But one day, Tchernobog inexplicably kills the four Chosen, including Caleb. Mysteriously resurrected years later, Caleb is out to get revenge, and learn why his lord cast him down so abruptly.
+
+Blood is a first-person shooter with horror elements, which uses the Build engine. Similarly to Duke Nukem 3D, the environment is interactive: many objects can be physically moved or affected in other ways. Destruction of landscapes is possible (although only in specific spots), with bullet holes being left by misplaced shots. The Build engine version is 2.5D, so there are rooms above rooms and puzzles which are based on this.</desc>
+		<image>./mixart/Blood.png</image>
+		<video>./snap/Blood.mp4</video>
+		<marquee>./wheel/Blood.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19970531T000000</releasedate>
+		<developer>Monolith Productions, Inc.</developer>
+		<publisher>GT Interactive</publisher>
+		<genre>Shooter / 1st person</genre>
+		<players>40</players>
+		<lang>en</lang>
 	</game>
 </gameList>

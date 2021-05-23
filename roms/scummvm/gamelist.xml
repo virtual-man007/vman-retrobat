@@ -218,19 +218,6 @@ Join young Adam and Delphineus the dolphin as they brave the terrors of toxic wa
 		<name>+Start ResidualVM</name>
 	</game>
 	<game>
-		<path>./gk2.svm/Beast Within - A Gabriel Knight Mystery, The.scummvm</path>
-		<name>Beast Within - A Gabriel Knight Mystery, The</name>
-		<desc>The Beast Within is a point-and-click adventure game, played from a third-person perspective. The game is divided into six chapters and the player controls Gabriel and Grace alternately between the chapters. They conduct their investigations separately for the most of the game, only joining forces in the finale.</desc>
-		<image>./mixart/gk2.png</image>
-		<video>./snap/gk2.mp4</video>
-		<marquee>./wheel/gk2.png</marquee>
-		<rating>0</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Sierra On-Line</developer>
-		<publisher>Sierra On-Line</publisher>
-		<genre>Point and Click-Adventure</genre>
-	</game>
-	<game>
 		<path>./tlj-win.rvm</path>
 		<name>The Longest Journey</name>
 		<desc>Between science and magic, between order and chaos, between Stark and Arcadia, there is an ancient balance. For thousands of years, the Guardian of the Balance has perserved the Divide between the twin worlds. But now the Guardian has abandoned his tower, the armies of Chaos are advancing, and the fate of the worlds is in the hands of one person... Her name is April Ryan. She is eighteen years old, and she has no idea that her destiny has already been foretold in hundred tales. With the power to pass between worlds like others pass from waking to sleep, Aprils must embark on the longest journey of her life; a journey not only across twin worlds, but also into her own heart and soul.</desc>
@@ -636,19 +623,6 @@ There are different ways of completing the game depending on the humanity the pl
 		<genre>Adventure</genre>
 	</game>
 	<game>
-		<path>./kq1sci.svm/King's Quest I - Quest for the Crown.scummvm</path>
-		<name>King's Quest I: Quest for the Crown</name>
-		<desc>The Kingdom of Daventry is in serious trouble because its precious magical items have been stolen: a mirror which tells the future, a shield which protects its wearer against danger and a chest always filled with gold. King Edward the Benevolent (who has</desc>
-		<image>./mixart/kq1sci.png</image>
-		<video>./snap/kq1sci.mp4</video>
-		<marquee>./wheel/kq1sci.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Sierra</developer>
-		<publisher>Sierra</publisher>
-		<genre>Point and Click-Adventure</genre>
-	</game>
-	<game>
 		<path>./kq2.svm/King's Quest II - Romancing the Throne.scummvm</path>
 		<name>King's Quest II: Romancing the Throne</name>
 		<desc>Journey with King Graham, inheritor of the Daventry throne. Help him unlock the secrets that may lead him to the enchanted maiden for whom he longs. Muster up all your wit and perseverance, for this is a Sierra adventure - a challenge to your ingenuity. Featuring animated characters that come alive - they walk, run, climb and even swim; Incredible 3D graphics; Multiple solutions, variable scoring.</desc>
@@ -660,20 +634,6 @@ There are different ways of completing the game depending on the humanity the pl
 		<developer>Sierra</developer>
 		<publisher>Sierra</publisher>
 		<genre>Point and Click-Adventure</genre>
-	</game>
-	<game>
-		<path>./kq3.svm/King's Quest 3 - To Heir Is Human.scummvm</path>
-		<name>King's Quest 3 - To Heir Is Human</name>
-		<desc>Become Gwydion, young slave to the evil wizard Manannan of Llewdor. Discover the wizard's secret spells and use his magic to free yourself from his thrall. Embark upon a dangerous voyage to another land. Scale snowy peaks and brave a terrible monster to free a kingdom from its ravages!</desc>
-		<image>./mixart/kq3.png</image>
-		<video>./snap/kq3.mp4</video>
-		<marquee>./wheel/kq3.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Sierra</developer>
-		<publisher>Sierra</publisher>
-		<genre>Point and Click-Adventure</genre>
-		<players>2</players>
 	</game>
 	<game>
 		<path>./kq4sci.svm/King's Quest IV - The Perils of Rosella.scummvm</path>
@@ -1218,19 +1178,6 @@ Full to the brim with Hitchhiker-type humour, it puts the threadbare fabric of r
 		<genre>Point and Click-Adventure</genre>
 	</game>
 	<game>
-		<path>./sq2.svm/Space Quest 2 - Vohaul's Revenge.scummvm</path>
-		<name>Space Quest 2 - Vohaul's Revenge</name>
-		<desc>The ace janitor Roger Wilco thought he'd seen the last of Sludge Vohaul. However, like every evil scientist is supposed to, Vohaul returns with an even meaner scheme. This time he intends to infest the planet Xenon with thousands of genetically engineered door-to-door life insurance salesmen. The last thing he wants is Roger messing things up, and so the brave janitor is captured and brought to the planet Labion to spend the rest of his days working in Vohaul's mines. Fortunately, the shuttle that takes him to the mines crashes, and Roger is the only survivor. He will have to survive the dangers of the jungle planet Labion, and eventually stop Vohaul from executing his mad plan.</desc>
-		<image>./mixart/sq2.png</image>
-		<video>./snap/sq2.mp4</video>
-		<marquee>./wheel/sq2.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Sierra</developer>
-		<publisher>Sierra</publisher>
-		<genre>Point and Click-Adventure</genre>
-	</game>
-	<game>
 		<path>./sq3.svm/Space Quest 3 - The Pirates Of Pestulon.scummvm</path>
 		<name>Space Quest 3 - The Pirates Of Pestulon</name>
 		<desc>Narrowly escaping the events of Space Quest II: Vohaul's Revenge, Roger Wilco's escape pod floats through space. As just another metallic item of junk, it's soon picked up by an interstellar garbage hauler. Waking up in a pile of trash, quite familiar for this janitor-turned-hero, Roger Wilco must somehow escape. Once given access to the rest of the galaxy, he'll soon find himself having to avoid a collections cyborg for payments overdue, dealing with the corporate prison of software company Scummsoft, and having to digest the greasy food from the galaxy's finest hamburger joint.</desc>
@@ -1688,5 +1635,58 @@ The games locations are done in hand-painted style. The CD version of the game a
 		<genre>Point and Click-Adventure</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./gk2.svm/Beast Within - A Gabriel Knight Mystery, The.scummvm</path>
+		<name>Beast Within - A Gabriel Knight Mystery, The</name>
+		<desc>The Beast Within is a point-and-click adventure game, played from a third-person perspective. The game is divided into six chapters and the player controls Gabriel and Grace alternately between the chapters. They conduct their investigations separately for the most of the game, only joining forces in the finale.</desc>
+		<image>./mixart/gk2.png</image>
+		<video>./snap/gk2.mp4</video>
+		<marquee>./wheel/gk2.png</marquee>
+		<rating>0</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sierra On-Line</developer>
+		<publisher>Sierra On-Line</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./kq1sci.svm/King's Quest I - Quest for the Crown.scummvm</path>
+		<name>King's Quest I: Quest for the Crown</name>
+		<desc>The Kingdom of Daventry is in serious trouble because its precious magical items have been stolen: a mirror which tells the future, a shield which protects its wearer against danger and a chest always filled with gold. King Edward the Benevolent (who has</desc>
+		<image>./mixart/kq1sci.png</image>
+		<video>./snap/kq1sci.mp4</video>
+		<marquee>./wheel/kq1sci.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./kq3.svm/King's Quest 3 - To Heir Is Human.scummvm</path>
+		<name>King's Quest 3 - To Heir Is Human</name>
+		<desc>Become Gwydion, young slave to the evil wizard Manannan of Llewdor. Discover the wizard's secret spells and use his magic to free yourself from his thrall. Embark upon a dangerous voyage to another land. Scale snowy peaks and brave a terrible monster to free a kingdom from its ravages!</desc>
+		<image>./mixart/kq3.png</image>
+		<video>./snap/kq3.mp4</video>
+		<marquee>./wheel/kq3.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./sq2.svm/Space Quest 2 - Vohaul's Revenge.scummvm</path>
+		<name>Space Quest 2 - Vohaul's Revenge</name>
+		<desc>The ace janitor Roger Wilco thought he'd seen the last of Sludge Vohaul. However, like every evil scientist is supposed to, Vohaul returns with an even meaner scheme. This time he intends to infest the planet Xenon with thousands of genetically engineered door-to-door life insurance salesmen. The last thing he wants is Roger messing things up, and so the brave janitor is captured and brought to the planet Labion to spend the rest of his days working in Vohaul's mines. Fortunately, the shuttle that takes him to the mines crashes, and Roger is the only survivor. He will have to survive the dangers of the jungle planet Labion, and eventually stop Vohaul from executing his mad plan.</desc>
+		<image>./mixart/sq2.png</image>
+		<video>./snap/sq2.mp4</video>
+		<marquee>./wheel/sq2.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
 	</game>
 </gameList>

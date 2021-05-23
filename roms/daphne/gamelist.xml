@@ -182,20 +182,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./lair.daphne</path>
-		<name>Dragon's Lair</name>
-		<desc>Dragon's Lair is a video game franchise that began with the laserdisc video game Dragon's Lair originally released for the arcades in 1983.</desc>
-		<image>./mixart/lair.png</image>
-		<video>./snap/lair.mp4</video>
-		<marquee>./wheel/lair.png</marquee>
-		<rating />
-		<releasedate>19830623T000000</releasedate>
-		<publisher>Cinematronics</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./galaxy.daphne</path>
 		<name>Galaxy Ranger</name>
 		<desc>Galaxy Ranger was a laserdisc game created by Sega and manufactured by Bally / Midway in 1984.  It was released as a dedicated cabinet or a conversion kit for Astron Belt cabinets.  In Galaxy Ranger, you fly through the universe battling alien ships to make your way to fight the main Alien Battle Cruiser.  Along the way, you fly across alien deserts, through tunnels, over alien cities, and get involved in a few "astro-dogfights" with enemy space fighters.</desc>
@@ -253,6 +239,20 @@
 		<publisher>Data East</publisher>
 		<genre>Action</genre>
 		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./lair.daphne</path>
+		<name>Dragon's Lair</name>
+		<desc>Dragon's Lair is a video game franchise that began with the laserdisc video game Dragon's Lair originally released for the arcades in 1983.</desc>
+		<image>./mixart/lair.png</image>
+		<video>./snap/lair.mp4</video>
+		<marquee>./wheel/lair.png</marquee>
+		<rating></rating>
+		<releasedate>19830623T000000</releasedate>
+		<publisher>Cinematronics</publisher>
+		<genre>Action</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

@@ -3727,21 +3727,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./AGS - King Quest III.lnk</path>
-		<name>AGS - King Quest III</name>
-		<desc>Fandmade remake of King Quest III using Adventure Gaming Studio engine. - AGD Interactive Ultimate Remake of King's Quest III: To Heir is Human! Join Gwydion as he seeks to escape the bonds of slavery from his master, the evil wizard Mananann.</desc>
-		<image>./mixart/AGS - King Quest III.png</image>
-		<video>./snap/AGS - King Quest III.mp4</video>
-		<marquee>./wheel/AGS - King Quest III.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20010430T000000</releasedate>
-		<developer>AGD Interactive</developer>
-		<publisher>Fanmade</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./AGS - King Quest II.lnk</path>
 		<name>AGS - King Quest II</name>
 		<desc>Fandmade remake of King Quest II using Adventure Gaming Studio engine. - AGD Interactive Ultimate Remake of King's Quest II: Newly crowned King Graham is lonley of heart. A vision of a lovely maiden improsoned in a quartz tower leads him to the land of Kolyma on a quest to rescude his future bride!</desc>
@@ -3800,12 +3785,41 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<players>1</players>
 	</game>
 	<game>
+		<path>./The Journey Down - Chapter One.lnk</path>
+		<name>The Journey Down - Chapter One</name>
+		<desc>In a shady corner of Kingsport Bay, at the outskirts of St Armando, Bwana and his trusted sidekick Kito struggle to make ends meet at their run-down gas station. Little do they know that they are about to be thrown into a spine-tingling adventure that will take them far from home and right into a twisting plot of corruption and danger. In the first chapter of The Journey Down, the search for a lost journal leads to forgotten secrets of the mysterious Underland. Follow Bwana and Kito as they puzzle their way forward and begin to uncover the true fate of their long lost father, Captain Kaonandodo. The Journey Down is a classic point-and-click saga with a black African twist. Get ready to embark on an epic journey of laughs and brain-teasing adventure!</desc>
+		<image>./mixart/The Journey Down - Chapter One.jpg</image>
+		<video>./snap/The Journey Down.mp4</video>
+		<marquee>./wheel/The Journey Down.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20130430T000000</releasedate>
+		<developer>SkyGoblin</developer>
+		<publisher>SkyGoblin</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+	</game>
+	<game>
 		<path>./AGS - King Quest I.lnk</path>
 		<name>AGS - King Quest I</name>
 		<desc>Fandmade remake of King Quest I using Adventure Gaming Studio engine. - AGD Interactive Ultimate Remake of King's Quest I: A dying King Edward entrusts his finest knight to seek the Three Lost Treasures of Daventry.</desc>
 		<image>./mixart/AGS - King Quest I.png</image>
 		<video>./snap/AGS - King Quest I.mp4</video>
 		<marquee>./wheel/AGS - King Quest I.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20010430T000000</releasedate>
+		<developer>AGD Interactive</developer>
+		<publisher>Fanmade</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./AGS - King Quest III.lnk</path>
+		<name>AGS - King Quest III</name>
+		<desc>Fandmade remake of King Quest III using Adventure Gaming Studio engine. - AGD Interactive Ultimate Remake of King's Quest III: To Heir is Human! Join Gwydion as he seeks to escape the bonds of slavery from his master, the evil wizard Mananann.</desc>
+		<image>./mixart/AGS - King Quest III.png</image>
+		<video>./snap/AGS - King Quest III.mp4</video>
+		<marquee>./wheel/AGS - King Quest III.png</marquee>
 		<rating>0.90</rating>
 		<releasedate>20010430T000000</releasedate>
 		<developer>AGD Interactive</developer>
@@ -3828,19 +3842,5 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<genre>Adventure</genre>
 		<players>1</players>
 		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./The Journey Down - Chapter One.lnk</path>
-		<name>The Journey Down - Chapter One</name>
-		<desc>In a shady corner of Kingsport Bay, at the outskirts of St Armando, Bwana and his trusted sidekick Kito struggle to make ends meet at their run-down gas station. Little do they know that they are about to be thrown into a spine-tingling adventure that will take them far from home and right into a twisting plot of corruption and danger. In the first chapter of The Journey Down, the search for a lost journal leads to forgotten secrets of the mysterious Underland. Follow Bwana and Kito as they puzzle their way forward and begin to uncover the true fate of their long lost father, Captain Kaonandodo. The Journey Down is a classic point-and-click saga with a black African twist. Get ready to embark on an epic journey of laughs and brain-teasing adventure!</desc>
-		<image>./mixart/The Journey Down - Chapter One.jpg</image>
-		<video>./snap/The Journey Down.mp4</video>
-		<marquee>./wheel/The Journey Down.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20130430T000000</releasedate>
-		<developer>SkyGoblin</developer>
-		<publisher>SkyGoblin</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
 	</game>
 </gameList>

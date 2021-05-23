@@ -32342,25 +32342,6 @@ At the end of each level the play switches to an isometric auto-scrolling sequen
 		<region>us</region>
 	</game>
 	<game>
-		<path>./term2.zip</path>
-		<name>Terminator 2 - Judgment Day</name>
-		<desc>Help to John connor future leader of the human resistance against the machines and his valiant mother Sarah Connor to be avoid being killed by a prototype robot from Skynet the T-1000 sent from the future composed of a "mimetic poly-alloy" but soon a unexpected savior an reprogrammed T-800 Terminator, will come from the future to help and stop together the judgment day.
-
-Hasta La Vista, Baby!</desc>
-		<emulator>libretro</emulator>
-		<core>mame2016</core>
-		<image>./mixart/term2.png</image>
-		<video>./snap/term2.mp4</video>
-		<marquee>./wheel/term2.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Shooter-Lightgun Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./theglad.zip</path>
 		<name>Gladiator / Road of the Sword / Shen Jian, The</name>
 		<desc>The cursed Sacred Sword appeared once again, took lives of hundreds people. Two prominent families were killed, just because they possessed it. Behind these entire massacres more mysteries were secretly hidden, the rumors said perhaps even the government seemed to take part of it. Chu Xing Han, San Kuan Ging and Wu Ping decided to revenge. Chu is good friend and partner Greg Tien Ray also wanted to help them. Mysterious woman Huang Her decided to kill her own father for committing all these crimes. Wu-Lin Sword master's disciple Siong Chien Chien had an eye on the power of the sword and determined to seize the object.
@@ -33011,21 +32992,6 @@ The game is played by moving a cross-hair across the sky and pressing one of thr
 		<players>4</players>
 	</game>
 	<game>
-		<path>./spacegun.zip</path>
-		<name>Space Gun</name>
-		<desc>As a member of a special Search And Rescue unit. you (and an optional friend) are told to investigate an S.O.S. distress signal that was sent from a space station. what you don't know is that a group of vicious aliens have taken the colonists hostage. luckily for you, you're armed with a plasma pulse gun and four sets of grenades that are quite special (aside from the common grenade that explodes, some will freeze, incinerate, and even slice and dice the aliens).</desc>
-		<image>./mixart/spacegun.png</image>
-		<video>./snap/spacegun.mp4</video>
-		<marquee>./wheel/spacegun.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Shooter-Lightgun Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./wcbowl.zip</path>
 		<name>World Class Bowling</name>
 		<emulator>libretro</emulator>
@@ -33055,25 +33021,6 @@ The game is played by moving a cross-hair across the sky and pressing one of thr
 		<publisher>Incredible Technologies</publisher>
 		<genre>Sports-Sports / Bowling</genre>
 		<players>4</players>
-	</game>
-	<game>
-		<path>./crkdown.zip</path>
-		<name>Crack Down</name>
-		<desc>A futuristic city has been over-taken by a powerful, bio-mechanical army; created by an evil scientist in a bid to take over the world. 2 elite agents must plant a series of time bombs to destroy their base and crush the rebellion.
-
-The 1- or 2-player shoot-em-up action is displayed via an innovative split screen that allows 2 players to work either individually or as a team. A timer countdown timers adds to the tension. Time bombs must be set by running over areas marked with an 'X'; while machine guns and cannons can be reloaded by finding the ammo caches that appear on each level. If ammo runs out, players must result to punching and kicking to defeat opponents.</desc>
-		<image>./mixart/crkdown.png</image>
-		<video>./snap/crkdown.mp4</video>
-		<marquee>./wheel/crkdown.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action / Labyrinth-Shooter Large-Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
 	</game>
 	<game>
 		<path>./dmnfrnt.zip</path>
@@ -33325,5 +33272,58 @@ The game's stages, in addition to having their own unique visual theme, often di
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./crkdown.zip</path>
+		<name>Crack Down</name>
+		<desc>A futuristic city has been over-taken by a powerful, bio-mechanical army; created by an evil scientist in a bid to take over the world. 2 elite agents must plant a series of time bombs to destroy their base and crush the rebellion.
+
+The 1- or 2-player shoot-em-up action is displayed via an innovative split screen that allows 2 players to work either individually or as a team. A timer countdown timers adds to the tension. Time bombs must be set by running over areas marked with an 'X'; while machine guns and cannons can be reloaded by finding the ammo caches that appear on each level. If ammo runs out, players must result to punching and kicking to defeat opponents.</desc>
+		<image>./mixart/crkdown.png</image>
+		<video>./snap/crkdown.mp4</video>
+		<marquee>./wheel/crkdown.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action / Labyrinth-Shooter Large-Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./spacegun.zip</path>
+		<name>Space Gun</name>
+		<desc>As a member of a special Search And Rescue unit. you (and an optional friend) are told to investigate an S.O.S. distress signal that was sent from a space station. what you don't know is that a group of vicious aliens have taken the colonists hostage. luckily for you, you're armed with a plasma pulse gun and four sets of grenades that are quite special (aside from the common grenade that explodes, some will freeze, incinerate, and even slice and dice the aliens).</desc>
+		<image>./mixart/spacegun.png</image>
+		<video>./snap/spacegun.mp4</video>
+		<marquee>./wheel/spacegun.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shooter-Lightgun Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./term2.zip</path>
+		<name>Terminator 2 - Judgment Day</name>
+		<desc>Help to John connor future leader of the human resistance against the machines and his valiant mother Sarah Connor to be avoid being killed by a prototype robot from Skynet the T-1000 sent from the future composed of a "mimetic poly-alloy" but soon a unexpected savior an reprogrammed T-800 Terminator, will come from the future to help and stop together the judgment day.
+
+Hasta La Vista, Baby!</desc>
+		<emulator>libretro</emulator>
+		<core>mame2016</core>
+		<image>./mixart/term2.png</image>
+		<video>./snap/term2.mp4</video>
+		<marquee>./wheel/term2.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Shooter-Lightgun Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

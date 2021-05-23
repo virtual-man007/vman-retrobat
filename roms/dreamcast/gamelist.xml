@@ -3203,19 +3203,6 @@ The tracks are set in canals of major cities, like London, Amsterdam and New Yor
 		<players>2-4</players>
 	</game>
 	<game>
-		<path>./102 Dalmatians - Puppies to the Rescue (USA).chd</path>
-		<name>102 Dalmatians - Puppies to the Rescue</name>
-		<desc>The game itself follows the films' storyline loosely. The player can choose the role of one of two dalmatians, Oddball or Domino, who are out in the backyard looking for treasure. It is not long before the player realizes that a toy found buried in a park was made at one of Cruella de Vil's toy factories; this alludes to the fact that Cruella's toy sales are down, which ultimately leads to the problem in the storyline. Facing financial ruin from lack of sales, Cruella sets an evil plan in motion - to reprogram her toys to capture any pets in sight. Oddball and Domino are the only puppies in their family who have not been captured when they return from the park. Their parents, Dottie and Dipstick, set out to rescue their puppies, commanding Oddball and Domino to stay home and 'be good.' The puppies do not listen, and are soon out on their biggest adventure yet - to save their brothers and sisters, and their parents who are captured along the way.</desc>
-		<image>./mixart/102 Dalmatians - Puppies to the Rescue (USA).png</image>
-		<video>./snap/102 Dalmatians - Puppies to the Rescue (USA).mp4</video>
-		<marquee>./wheel/102 Dalmatians - Puppies to the Rescue (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Eidos Interactive</developer>
-		<publisher>Crystal Dynamics</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
 		<path>./Biohazard - Code - Veronica - Kanzenban (Japan) (Translated En).m3u</path>
 		<name>Biohazard Code: Veronica - Kanzenban</name>
 		<desc>Experience another terrifying chapter in the Resident Evil series with Resident Evil: Code Veronica X. After narrowly surviving the horrific onslaught in Raccoon City, Claire Redfield now seeks clues in search of her missing brother, Chris. Join Claire as she uncovers the insidious activities of the Umbrella Corporation. Avoid or eliminate flesh-eating zombies and horrific beasts. Use a variety weapons, items, and clues scattered around Raccoon City to help you survive the nightmare and make sure the virus doesn't spread any farther.</desc>
@@ -3319,20 +3306,6 @@ The tracks are set in canals of major cities, like London, Amsterdam and New Yor
 		<genre>Role playing games</genre>
 	</game>
 	<game>
-		<path>./Volgarr the Viking.cdi</path>
-		<name>Volgarr the Viking</name>
-		<desc>Do you have what it takes to be the greatest Viking Barbarian Lord in the world? Return to the Golden Age of arcade gaming with all-new hardcore action experience that pulls no punches. Playing as Volgarr the Viking, use your sword and spear to slaughter your foes in bloody combat. Battle Gigantic bosses in every world and find secrets that lead to unknown paths. Holding onto Volgarr's gear is key; his very life depends on it.</desc>
-		<image>./mixart/Volgarr the Viking.png</image>
-		<video>./snap/Volgarr the Viking.mp4</video>
-		<marquee>./wheel/Volgarr the Viking.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20150424T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Fast Striker (2010)(NGDEV.TEAM).cdi</path>
 		<name>Fast Striker</name>
 		<desc>Fast Striker is an arcade-style vertical shooter with a science fiction setting. While the game is essentially 2D, the backgrounds consists of pre-rendered 3D graphics. This game features six stages with over 40 enemy types.    You can choose between 3 game modes (Novice, Original and Maniac) with different scoring systems. The modes differ, for example, in the set of available techniques. In comparison to the Novice mode, the Original mode features a shield to protect the ship, which can be activated for a short time, and holding the down the spread fire button will also shoot rockets after a few moments. Furthermore, the enemies are colored differently in Novice mode to make them more visible, and you collect golden stars as part of the scoring system. The Maniac mode adds some new ways to get higher scores. For example, the distance between your ship and an enemy influences the score: you get a larger bonus the nearer you are to the enemy ship when you destroy it. Destroying many enemies in short time will also increase the number of awarded points. Last, you can activate a "Grind Mode" by focusing your ship's laser beam on a huge enemy. The beam will turn green after a while and then all destroyed enemies will give a higher score.</desc>
@@ -3424,34 +3397,6 @@ The tracks are set in canals of major cities, like London, Amsterdam and New Yor
 		<players>2</players>
 		<lang>jp</lang>
 		<region>jp</region>
-	</game>
-	<game>
-		<path>./18 Wheeler - American Pro Trucker (USA).chd</path>
-		<name>18 Wheeler - American Pro Trucker</name>
-		<desc>The main purpose of the game is to make it to the finish line with the truck's cargo. Players are given a set amount of time, but can ram into special vans that will add three seconds to the timer. There are several characters to choose from, each with a unique truck and attributes.    The game starts out in Key West and players travel across the United States, ending in San Francisco. After Stage 1, the game gives the player a choice of trailer. One trailer is harder to haul, but provides a bigger payoff while the other choice is easier to haul but provides a smaller payoff. Money is deducted from the total when the trailer is hit. Players can sound the truck's horn to make other cars on the road yield and slipstream behind large vehicles to gain a momentary speed boost.    In addition to the time limit, players also compete with the "Lizard Tail", a rival trucker. Crossing the finish line before the Lizard Tail yields additional money. In between levels, players can park the truck in a mini game to earn more cash.</desc>
-		<image>./mixart/18 Wheeler - American Pro Trucker (USA).png</image>
-		<video>./snap/18 Wheeler - American Pro Trucker (USA).mp4</video>
-		<marquee>./wheel/18 Wheeler - American Pro Trucker (USA).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>20010106T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./4 Wheel Thunder (USA).chd</path>
-		<name>4 Wheel Thunder</name>
-		<desc>4 Wheel Thunder is the off-road racing sequel to the popular power-boat racing game, Hydro Thunder.  In this game, players race around two types of courses; huge outdoor tracks and smaller indoor tracks. All in all, there are 24 areas in which to race, including various day/night, rain/sunshine variations. The game includes the standard championship, practice race, and 2-player modes.  The thunder series of games is unique in that the key to winning the race lies not in careful steering and braking, but in finding the "boost" power-ups that lie around the tracks.  Each boost icon adds a few seconds of time to your boost meter. The player then can press a boost button to increase the speed of his or her truck dramatically. Without the boost power-ups, the player has no hope of winning a race.</desc>
-		<image>./mixart/4 Wheel Thunder (USA).png</image>
-		<video>./snap/4 Wheel Thunder (USA).mp4</video>
-		<marquee>./wheel/4 Wheel Thunder (USA).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Kalisto</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
 	</game>
 	<game>
 		<path>./Dead or Alive 2 - Limited Edition (Japan).chd</path>
@@ -3621,110 +3566,6 @@ When released in Japan, ShutokÅ  Battle was one of the best selling Dreamcast t
 		<marquee>./wheel/Tokyo Highway Challenge (Europe).png</marquee>
 		<video>./snap/Tokyo Highway Challenge (Europe).mp4</video>
 		<genreid>1537</genreid>
-	</game>
-	<game id="13514" source="ScreenScraper.fr">
-		<path>./Crazy Taxi (USA).chd</path>
-		<name>Crazy Taxi</name>
-		<desc>Crazy Taxi is an arcade-like racer where the player takes the role of a taxi driver who weaves his way through crowded streets, across sidewalks and even under water, in a wild and frantic race to deliver passengers on time. The courses are largely set inside cities crowded with general traffic and pedestrians (which can't be run over, they dive away). The main goal is to bring as many customers as possible to their destination in time. Available customers are marked through circles and the colour represents the distance and the fare they offer. Green means long rides with plenty of money, and red ones are very short.   In the main Arcade mode there is a timer that quickly runs down. It can be replenished by picking up customers. While driving reckless maneuvers are encouraged. Players can disregard all traffic rules and customers give extra tips for speedy and dangerous driving, but these can only be cashed when the customer arrives at his destination in time. By the same token the reward at the end of a ride is based on the amount of time left, as each customer also has a personal timer. The city is filled with slopes and jumps, and the game uses a very loose driving model. No damage can be done to the car, so driving as fast as possible is encouraged. While driving players can toy with the gears to perform two special tricks: a crazy drift and a crazy boost to speed up more quickly.  Next to the Arcade mode there is an Original mode, and Crazy Box where specific goals need to be met on closed down courses. In the regular modes it is possible to disregard the usual timer and play for a fixed amount of minutes. At the end of the race the player is rewarded with a license, either D, C, B or A, with S for an outstanding performance. Next to the interactive courses from the arcade version there is a new course for home consoles. There are four cabs and drivers to choose from. The cars have different statistics and the drivers different attitudes while racing. The game has a soundtrack featuring The Offspring and Bad Religion (not for the Xbox 360 version).</desc>
-		<image>./mixart/Crazy Taxi (USA).png</image>
-		<video>./snap/Crazy Taxi (USA).mp4</video>
-		<marquee>./wheel/Crazy Taxi (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20000225T000000</releasedate>
-		<developer>Hitmaker</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
-	<game id="13529" source="ScreenScraper.fr">
-		<path>./Ecco the Dolphin - Defender of the Future (USA).chd</path>
-		<name>ECCO the Dolphin - Defender of the Future</name>
-		<desc>Hundreds of years in the future, mankind and dolphins live peacefully together and share the earth. Dolphins, who are much more intelligent than they seem, act as the earth's caretakers, while dolphins and humans explore the galaxy. An alien force, known as the Foe, seeks to end this happy existence. The Foe damages the Earth's defense system, and alters history for the worse. One extraordinary dolphin, Ecco, must travel through time to set things right.  Ecco is a 3d underwater adventure game. There are more than 25 aquatic environments to explore. Ecco must communicate with other ocean creatures and learn to manipulate his environment if he is to succeed in defeating the Foe.</desc>
-		<image>./mixart/Ecco the Dolphin - Defender of the Future (USA).png</image>
-		<video>./snap/Ecco the Dolphin - Defender of the Future (USA).mp4</video>
-		<marquee>./wheel/Ecco the Dolphin - Defender of the Future (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20000616T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Appaloosa</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
-	<game id="13498" source="ScreenScraper.fr">
-		<path>./Jet Grind Radio (USA).chd</path>
-		<name>Jet Grind Radio</name>
-		<desc>Jet Set Radio is a video game developed by Smilebit and published by Sega on June 29, 2000. Jet Set Radio was developed for the Dreamcast, although a 2D version of the game was later released for Game Boy Advance and was developed by Vicarious Visions, and published by THQ. Its sequel, Jet Set Radio Future was released 2 years later for the Xbox after SEGA became a software-based company. The game is known for spearheading the use of cel-shaded graphics in video games.</desc>
-		<image>./mixart/Jet Grind Radio (USA).png</image>
-		<video>./snap/Jet Grind Radio (USA).mp4</video>
-		<marquee>./wheel/Jet Grind Radio (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20001030T000000</releasedate>
-		<developer>Smilebit</developer>
-		<publisher>Sega</publisher>
-		<genre>Sports</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Rez (Europe).chd</path>
-		<name>Rez</name>
-		<desc>Rez is a fast-action shooter that takes you deep into the world’s computer network. The “Project K” Network has recently been upgraded to handle the rapid expansion of the information age and the core, known as “Eden,” holds the most advanced artificial intelligence the world has ever seen. Unfortunately, Eden cannot handle the ability to create her own thoughts and buckles under the pressure in an existential breakdown. She is lost deep inside the system, and you’re the only one that can bring her back online, saving the world from utter chaos.  You must blast complex viruses, unlock passwords, and destroy firewall bosses as you search for Eden. Each stage is in a constant state of flux dependent on your shooting techniques, which ultimately control the music and colors of your environment. The deeper you get into the dreamlike cyber world of Rez, your form will evolve or devolve depending on your progress.</desc>
-		<image>./mixart/Rez (Europe).png</image>
-		<video>./snap/Rez (Europe).mp4</video>
-		<marquee>./wheel/Rez (Europe).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20020111T000000</releasedate>
-		<developer>United Game Artists</developer>
-		<publisher>Sega</publisher>
-		<genre>Shoot'em Up-Action</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./San Francisco Rush 2049 (USA).chd</path>
-		<name>San Francisco RUSH 2049</name>
-		<desc>Unlike the previous San Francisco Rush titles, this racing game is set in the future. The same rules apply though, get to the finish before everyone else while avoiding massive crashes and taking as many shortcuts as possible.  Along with the usual race style, you now have the ability to fly, allowing you even more speed, stunts and shortcuts to the finish line. While the tracks themselves include moving ramps and switches to other shortcuts.  Modes include time trials, stunt mode including unique track designs to get the most out of your stunts, and a four player 'Battlematch' mode that adds weapons to the action.</desc>
-		<image>./mixart/San Francisco Rush 2049 (USA).png</image>
-		<video>./snap/San Francisco Rush 2049 (USA).mp4</video>
-		<marquee>./wheel/San Francisco Rush 2049 (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20000922T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Race, Driving</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Shenmue (USA).m3u</path>
-		<name>Shenmue</name>
-		<desc>That day in November when the snow turned to rain. Ryu Hazuki arrives home just in time to see his father killed by Lan Di, a man Ryu's father obviously knew very well. Ryu attempts to stop Lan Di, but is effortlessly beaten to within an inch of his life. After recovering from his injuries Ryu sets out to track down his father's murder as well as uncover his family's secrets and the mystery of the Phoenix and Dragon mirrors that Lan Di seeks.  Much of Shenmue's gameplay involves talking to Ryu's friends and the various people around town, hoping to find hints or clues that lead to the next step in the story. Any details Ryu learns are written down in his notebook for future review. Ryu can buy items from stores or try his luck with capsule toy machines, but the vast majority of items you can buy have no purpose outside of filling out your inventory screen. Ryu can also visit an arcade and play arcade accurate versions of  Hang-On and Space Harrier as well as games like darts and pool.  Ryu is a trained martial artist, and while a true martial artist knows it is better to avoid a fight, sometimes it is still necessary. Ryu can train his moves, either by repeatedly doing them while training, or by sparing with his friend Fuku-san. Fighting plays like a simplified Virtua Fighter game, although with toned down air juggling. Ryu's training also gives him heightened reflexes, and sometimes during a cutscene the player will have only a moment to press a button (displayed onscreen) to get Ryu out of danger. Failing an input prompt is not always fatal, but whether Ryu survives or not depends on the danger he was in.  Included with the game is the Shenmue Passport disc. On this disc players can receive tutorials about various aspects of the game like minigames or the battle system, watch cutscenes they've already seen in the game, and listen to music from the game. This disc also includes the option to go online to a special site where players can review world-wide minigame rankings, get hints for the game from Nozomi, review game maps of Yokosuka, trade uncommon items found in the game for even rarer items only available on the passport, and visit the official homepage. This service went offline along with the rest of SegaNet, and all online features are currently impossible to access.</desc>
-		<emulator>libretro</emulator>
-		<core>flycast</core>
-		<image>./mixart/Shenmue (USA).png</image>
-		<video>./snap/Shenmue (USA).mp4</video>
-		<marquee>./wheel/Shenmue (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20001108T000000</releasedate>
-		<developer>AM2</developer>
-		<publisher>Sega</publisher>
-		<genre>Adventure</genre>
-		<favorite>true</favorite>
-	</game>
-	<game id="13816" source="ScreenScraper.fr">
-		<path>./Trizeal (Japan).chd</path>
-		<name>Trizeal</name>
-		<desc>A sci-fi vertical-scrolling shooter directly ported from its arcade incarnation.  Using polygonal graphics, but retaining a completely 2D gameplay, Trizeal puts you in command of two tiny starfighter as you attempt to clear several stages filled with enemy ships and creatures gunning for you.  Your ship is able to morph into three distinct configurations, each with their own speed and armor as well as unique weapon system (basic machine gun, homing missiles and laser), by picking up power-ups you can upgrade each form and increase its abilities and the point of the game is to keep your ship balanced enough to survive in all situations.  Features a unique Bonus mode with additional stages not included in the arcade original, and 2-player cooperative gameplay.</desc>
-		<image>./mixart/Trizeal (Japan).png</image>
-		<video>./snap/Trizeal (Japan).mp4</video>
-		<marquee>./wheel/Trizeal (Japan).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20050407T000000</releasedate>
-		<developer>Triangle Service</developer>
-		<publisher>Triangle Service</publisher>
-		<genre>Shoot'em Up-Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
 	</game>
 	<game id="13726" source="ScreenScraper.fr">
 		<path>./Armada v1.000 (1999)(Metro3D)(NTSC)(US)[!].chd</path>
@@ -4150,20 +3991,6 @@ Based on characters from comic book author Todd McFarlane, KISS Psycho Circus: T
 		<players>1</players>
 		<genreid>259</genreid>
 	</game>
-	<game>
-		<path>./Last Hope - Pink Bullets (2011)(NGDEV.TEAM).cdi</path>
-		<name>Last Hope - Pink Bullets</name>
-		<desc>The evil empire is rushing at light-speed across the galaxies, heading towards Mother Earth. Barely 24 hours ago, they penetrated the last defence line of our galaxy, the Arsion Laser Belt. Millions of innocent people perished in outer space colonies. 70% of our fleet was destroyed during first contact. Our intelligence has now extrapolated their arrival within six days. Conventional weapons cannot stop them. Our last hope is in your hands: The Z-42 Warpstar. Warp into their territories and destroy their leader before they reach Earth.</desc>
-		<image>./mixart/Last Hope - Pink Bullets (2011)(NGDEV.TEAM).png</image>
-		<video>./snap/Last Hope - Pink Bullets (2011)(NGDEV.TEAM).mp4</video>
-		<marquee>./wheel/Last Hope - Pink Bullets (2011)(NGDEV.TEAM).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20090904T000000</releasedate>
-		<developer>NG:Dev.Team</developer>
-		<publisher>NG:Dev.Team</publisher>
-		<genre>Shoot'em up / Horizontal-Shoot'em Up</genre>
-		<favorite>true</favorite>
-	</game>
 	<game id="78484" source="ScreenScraper.fr">
 		<path>./Maximum Pool v1.004 (2000)(Sierra)(NTSC)(US)[!].chd</path>
 		<name>Maximum Pool</name>
@@ -4366,26 +4193,6 @@ Telemetry is stored and analysed in a similar way to Grand Prix 2, and physics a
 		<players>1</players>
 		<genreid>1024</genreid>
 	</game>
-	<game id="13538" source="ScreenScraper.fr">
-		<path>./Sega Rally 2 (Europe) (v1.000).chd</path>
-		<name>Sega Rally 2</name>
-		<desc>Sega Rally 2 is the sequel to Sega's hit arcade game, Sega Rally. This game, like it's predecessor, is based on Rally racing. Rally racing is unique in that races take place on both race tracks and off-road courses. The courses in this game reflect this nicely. Some take place in the desert or forest, others take place in cities. 
-
-The cars in this game are all actual rally cars, with manufacturers from Europe and Japan both well represented. You do not get to see very many of them at one time, however, since rally races are typically time-based events. In this game, you are not competing directly against the other cars, you simply have to have the best time through the course. So, during any race you will usually see a handful of other cars on the track.
-
-Sega Rally 2 contains several modes of play. The first mode is the simple arcade mode of play. Here, you race in 4 courses, one right after another. The second mode is the 10 year championship. In this mode you race on 16 courses, and can make modifications to your car between races. Finally, there is a 2-person split screen mode for head-to-head competition.</desc>
-		<image>./mixart/Sega Rally 2 (Europe) (v1.000).png</image>
-		<video>./snap/Sega Rally 2 (Europe) (v1.000).mp4</video>
-		<marquee>./wheel/Sega Rally 2 (Europe) (v1.000).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19991014T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<genreid>1537</genreid>
-	</game>
 	<game id="13728" source="ScreenScraper.fr">
 		<path>./Spirit of Speed 1937 (Europe) (En,Fr,De,Es).chd</path>
 		<name>Spirit of Speed 1937</name>
@@ -4402,26 +4209,6 @@ Whilst being a nice attempt to add some sparkle to a tired genre, many aspects o
 		<genre>Race, Driving</genre>
 		<players>1</players>
 		<genreid>1537</genreid>
-	</game>
-	<game id="13553" source="ScreenScraper.fr">
-		<path>./StarLancer v1.002 (2000)(Crave)(NTSC)(US)[!].chd</path>
-		<name>StarLancer</name>
-		<desc>It's 2160, and the Eastern Alliance has launched a surprise attack on the Western Coalition's fleet and decimated it. The call has gone out for volunteers to become Alliance fighter pilots, and you have signed up with the 45th Volunteer Squadron.
-
-Designed by Chris and Erin Roberts, the creative force behind the Wing Commander/Privateer megaseries, this space fighting simulation features the genre's standard mission types: escort, fighter sweep, interception, attacking space stations, fighting in asteroid fields, etc.
-
-12 pilotable fighters (you can choose which you fly as well as missile loadout, but not all are available in the early missions), 9 enemy fighter types.</desc>
-		<image>./mixart/StarLancer v1.002 (2000)(Crave)(NTSC)(US)[!].png</image>
-		<video>./snap/StarLancer v1.002 (2000)(Crave)(NTSC)(US)[!].mp4</video>
-		<marquee>./wheel/StarLancer v1.002 (2000)(Crave)(NTSC)(US)[!].png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20001127T000000</releasedate>
-		<developer>Digital Anvil</developer>
-		<publisher>Crave Entertainment</publisher>
-		<genre>Shoot'em Up-Simulation</genre>
-		<players>2-8</players>
-		<favorite>true</favorite>
-		<genreid>260</genreid>
 	</game>
 	<game id="13588" source="ScreenScraper.fr">
 		<path>./Stupid Invaders v1.001 (2001)(Ubi Soft)(NTSC)(US).m3u</path>
@@ -4537,21 +4324,6 @@ In the track editor the track is represented by a single line or ribbon. You can
 		<players>4</players>
 		<genreid>1537</genreid>
 	</game>
-	<game>
-		<path>./Wild Metal v1.003 (2000)(Take 2)(PAL)(M6)[!].chd</path>
-		<name>Wild Metal</name>
-		<desc>Wild Metal Country is an action game in which one of five little tanks can be selected to control. Tank-like machines have gone wild on the three different planets of the Tehric system and the player's job is to defeat them.  The battles take place in desolate mountain environments. The big differences in altitude play an important role in the game. In the single player mode, complete levels by collecting 8 colored power cores, which are defended by the machines, and returning them to one of several hovering stores. The player has an infinite amount of lives. The weaponry consists of 8 types of missiles and 4 types of mines. Help is received from a pair of helicopters that drop ammo and provide healing.  The two tracks of the tank are operated independently. For example, make a quick spin by going forward with one track and backwards with the other. Moreover the turret can be turned in any direction. The camera always moves with the turret sometimes diverting the view towards the camera. The angle of the turret and the distance the rockets travel can be changed. The tank can only be controlled using the keyboard.  Noteworthy aspects of the game are: the physics modelling, the 3D engine and the amount of freedom the player has (no time constraints etc.).</desc>
-		<image>./mixart/Wild Metal v1.003 (2000)(Take 2)(PAL)(M6)[!].png</image>
-		<video>./snap/Wild Metal v1.003 (2000)(Take 2)(PAL)(M6)[!].mp4</video>
-		<marquee>./wheel/Wild Metal v1.003 (2000)(Take 2)(PAL)(M6)[!].png</marquee>
-		<rating>0.45</rating>
-		<releasedate>20000201T000000</releasedate>
-		<developer>DMA Design</developer>
-		<publisher>Take 2 Interactive</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
 	<game id="13641" source="ScreenScraper.fr">
 		<path>./Xtreme Sports (USA).chd</path>
 		<name>Xtreme Sports</name>
@@ -4613,6 +4385,68 @@ The game is a rail shooter like the famed Panzer Dragoon, where you move on a fi
 		<players>2</players>
 		<genreid>1537</genreid>
 	</game>
+	<game>
+		<path>./Bangai-O (USA).chd</path>
+		<name>Bangai-O</name>
+		<desc>Ever wanted to just unleash the ultimate weapon? Blow up 500 enemies at once? Cause the ultimate amount of mayhem ever? In true Treasure fashion...you just got that power!  As the pilots of the Bangaioh mech, you've got to stop a mad group from taking over the world by giving them a little dose of insane destruction. Wanna just be crazy and let them kill you? Go ahead...just hit that trigger before it happens...  The Nintendo 64 version was only released in Japan. The Dreamcast version exists in the U.S. and Europe.</desc>
+		<emulator>redream</emulator>
+		<core>redream</core>
+		<image>./mixart/Bangai-O (USA).png</image>
+		<video>./snap/Bangai-O (USA).mp4</video>
+		<marquee>./wheel/Bangai-O (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20001020T000000</releasedate>
+		<developer>Treasure</developer>
+		<publisher>Conspiracy</publisher>
+		<genre>Shoot'em Up-Action</genre>
+	</game>
+	<game>
+		<path>./102 Dalmatians - Puppies to the Rescue (USA).chd</path>
+		<name>102 Dalmatians - Puppies to the Rescue</name>
+		<desc>The game itself follows the films' storyline loosely. The player can choose the role of one of two dalmatians, Oddball or Domino, who are out in the backyard looking for treasure. It is not long before the player realizes that a toy found buried in a park was made at one of Cruella de Vil's toy factories; this alludes to the fact that Cruella's toy sales are down, which ultimately leads to the problem in the storyline. Facing financial ruin from lack of sales, Cruella sets an evil plan in motion - to reprogram her toys to capture any pets in sight. Oddball and Domino are the only puppies in their family who have not been captured when they return from the park. Their parents, Dottie and Dipstick, set out to rescue their puppies, commanding Oddball and Domino to stay home and 'be good.' The puppies do not listen, and are soon out on their biggest adventure yet - to save their brothers and sisters, and their parents who are captured along the way.</desc>
+		<image>./mixart/102 Dalmatians - Puppies to the Rescue (USA).png</image>
+		<video>./snap/102 Dalmatians - Puppies to the Rescue (USA).mp4</video>
+		<marquee>./wheel/102 Dalmatians - Puppies to the Rescue (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Eidos Interactive</developer>
+		<publisher>Crystal Dynamics</publisher>
+		<genre>Platform</genre>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./18 Wheeler - American Pro Trucker (USA).chd</path>
+		<name>18 Wheeler - American Pro Trucker</name>
+		<desc>The main purpose of the game is to make it to the finish line with the truck's cargo. Players are given a set amount of time, but can ram into special vans that will add three seconds to the timer. There are several characters to choose from, each with a unique truck and attributes.    The game starts out in Key West and players travel across the United States, ending in San Francisco. After Stage 1, the game gives the player a choice of trailer. One trailer is harder to haul, but provides a bigger payoff while the other choice is easier to haul but provides a smaller payoff. Money is deducted from the total when the trailer is hit. Players can sound the truck's horn to make other cars on the road yield and slipstream behind large vehicles to gain a momentary speed boost.    In addition to the time limit, players also compete with the "Lizard Tail", a rival trucker. Crossing the finish line before the Lizard Tail yields additional money. In between levels, players can park the truck in a mini game to earn more cash.</desc>
+		<image>./mixart/18 Wheeler - American Pro Trucker (USA).png</image>
+		<video>./snap/18 Wheeler - American Pro Trucker (USA).mp4</video>
+		<marquee>./wheel/18 Wheeler - American Pro Trucker (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20010106T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./4 Wheel Thunder (USA).chd</path>
+		<name>4 Wheel Thunder</name>
+		<desc>4 Wheel Thunder is the off-road racing sequel to the popular power-boat racing game, Hydro Thunder.  In this game, players race around two types of courses; huge outdoor tracks and smaller indoor tracks. All in all, there are 24 areas in which to race, including various day/night, rain/sunshine variations. The game includes the standard championship, practice race, and 2-player modes.  The thunder series of games is unique in that the key to winning the race lies not in careful steering and braking, but in finding the "boost" power-ups that lie around the tracks.  Each boost icon adds a few seconds of time to your boost meter. The player then can press a boost button to increase the speed of his or her truck dramatically. Without the boost power-ups, the player has no hope of winning a race.</desc>
+		<image>./mixart/4 Wheel Thunder (USA).png</image>
+		<video>./snap/4 Wheel Thunder (USA).mp4</video>
+		<marquee>./wheel/4 Wheel Thunder (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Kalisto</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
 	<game id="250885" source="ScreenScraper.fr">
 		<path>./4x4 Jam.cdi</path>
 		<name>4x4 Jam</name>
@@ -4627,7 +4461,73 @@ The game is a rail shooter like the famed Panzer Dragoon, where you move on a fi
 		<publisher>JoshProd</publisher>
 		<genre>Race, Driving</genre>
 		<players>1</players>
+		<lang>en</lang>
 		<genreid>1537</genreid>
+	</game>
+	<game id="13514" source="ScreenScraper.fr">
+		<path>./Crazy Taxi (USA).chd</path>
+		<name>Crazy Taxi</name>
+		<desc>Crazy Taxi is an arcade-like racer where the player takes the role of a taxi driver who weaves his way through crowded streets, across sidewalks and even under water, in a wild and frantic race to deliver passengers on time. The courses are largely set inside cities crowded with general traffic and pedestrians (which can't be run over, they dive away). The main goal is to bring as many customers as possible to their destination in time. Available customers are marked through circles and the colour represents the distance and the fare they offer. Green means long rides with plenty of money, and red ones are very short.   In the main Arcade mode there is a timer that quickly runs down. It can be replenished by picking up customers. While driving reckless maneuvers are encouraged. Players can disregard all traffic rules and customers give extra tips for speedy and dangerous driving, but these can only be cashed when the customer arrives at his destination in time. By the same token the reward at the end of a ride is based on the amount of time left, as each customer also has a personal timer. The city is filled with slopes and jumps, and the game uses a very loose driving model. No damage can be done to the car, so driving as fast as possible is encouraged. While driving players can toy with the gears to perform two special tricks: a crazy drift and a crazy boost to speed up more quickly.  Next to the Arcade mode there is an Original mode, and Crazy Box where specific goals need to be met on closed down courses. In the regular modes it is possible to disregard the usual timer and play for a fixed amount of minutes. At the end of the race the player is rewarded with a license, either D, C, B or A, with S for an outstanding performance. Next to the interactive courses from the arcade version there is a new course for home consoles. There are four cabs and drivers to choose from. The cars have different statistics and the drivers different attitudes while racing. The game has a soundtrack featuring The Offspring and Bad Religion (not for the Xbox 360 version).</desc>
+		<image>./mixart/Crazy Taxi (USA).png</image>
+		<video>./snap/Crazy Taxi (USA).mp4</video>
+		<marquee>./wheel/Crazy Taxi (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20000225T000000</releasedate>
+		<developer>Hitmaker</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="13529" source="ScreenScraper.fr">
+		<path>./Ecco the Dolphin - Defender of the Future (USA).chd</path>
+		<name>ECCO the Dolphin - Defender of the Future</name>
+		<desc>Hundreds of years in the future, mankind and dolphins live peacefully together and share the earth. Dolphins, who are much more intelligent than they seem, act as the earth's caretakers, while dolphins and humans explore the galaxy. An alien force, known as the Foe, seeks to end this happy existence. The Foe damages the Earth's defense system, and alters history for the worse. One extraordinary dolphin, Ecco, must travel through time to set things right.  Ecco is a 3d underwater adventure game. There are more than 25 aquatic environments to explore. Ecco must communicate with other ocean creatures and learn to manipulate his environment if he is to succeed in defeating the Foe.</desc>
+		<image>./mixart/Ecco the Dolphin - Defender of the Future (USA).png</image>
+		<video>./snap/Ecco the Dolphin - Defender of the Future (USA).mp4</video>
+		<marquee>./wheel/Ecco the Dolphin - Defender of the Future (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20000616T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Appaloosa</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="13498" source="ScreenScraper.fr">
+		<path>./Jet Grind Radio (USA).chd</path>
+		<name>Jet Grind Radio</name>
+		<desc>Jet Set Radio is a video game developed by Smilebit and published by Sega on June 29, 2000. Jet Set Radio was developed for the Dreamcast, although a 2D version of the game was later released for Game Boy Advance and was developed by Vicarious Visions, and published by THQ. Its sequel, Jet Set Radio Future was released 2 years later for the Xbox after SEGA became a software-based company. The game is known for spearheading the use of cel-shaded graphics in video games.</desc>
+		<image>./mixart/Jet Grind Radio (USA).png</image>
+		<video>./snap/Jet Grind Radio (USA).mp4</video>
+		<marquee>./wheel/Jet Grind Radio (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20001030T000000</releasedate>
+		<developer>Smilebit</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Last Hope - Pink Bullets (2011)(NGDEV.TEAM).cdi</path>
+		<name>Last Hope - Pink Bullets</name>
+		<desc>The evil empire is rushing at light-speed across the galaxies, heading towards Mother Earth. Barely 24 hours ago, they penetrated the last defence line of our galaxy, the Arsion Laser Belt. Millions of innocent people perished in outer space colonies. 70% of our fleet was destroyed during first contact. Our intelligence has now extrapolated their arrival within six days. Conventional weapons cannot stop them. Our last hope is in your hands: The Z-42 Warpstar. Warp into their territories and destroy their leader before they reach Earth.</desc>
+		<image>./mixart/Last Hope - Pink Bullets (2011)(NGDEV.TEAM).png</image>
+		<video>./snap/Last Hope - Pink Bullets (2011)(NGDEV.TEAM).mp4</video>
+		<marquee>./wheel/Last Hope - Pink Bullets (2011)(NGDEV.TEAM).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20090904T000000</releasedate>
+		<developer>NG:Dev.Team</developer>
+		<publisher>NG:Dev.Team</publisher>
+		<genre>Shoot'em up / Horizontal-Shoot'em Up</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 	<game id="190890" source="ScreenScraper.fr">
 		<path>./Propeller Arena [PROPER].cdi</path>
@@ -4641,6 +4541,58 @@ The game is a rail shooter like the famed Panzer Dragoon, where you move on a fi
 		<developer>AM2</developer>
 		<publisher>Sega</publisher>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Rez (Europe).chd</path>
+		<name>Rez</name>
+		<desc>Rez is a fast-action shooter that takes you deep into the world’s computer network. The “Project K” Network has recently been upgraded to handle the rapid expansion of the information age and the core, known as “Eden,” holds the most advanced artificial intelligence the world has ever seen. Unfortunately, Eden cannot handle the ability to create her own thoughts and buckles under the pressure in an existential breakdown. She is lost deep inside the system, and you’re the only one that can bring her back online, saving the world from utter chaos.  You must blast complex viruses, unlock passwords, and destroy firewall bosses as you search for Eden. Each stage is in a constant state of flux dependent on your shooting techniques, which ultimately control the music and colors of your environment. The deeper you get into the dreamlike cyber world of Rez, your form will evolve or devolve depending on your progress.</desc>
+		<image>./mixart/Rez (Europe).png</image>
+		<video>./snap/Rez (Europe).mp4</video>
+		<marquee>./wheel/Rez (Europe).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20020111T000000</releasedate>
+		<developer>United Game Artists</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em Up-Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./San Francisco Rush 2049 (USA).chd</path>
+		<name>San Francisco RUSH 2049</name>
+		<desc>Unlike the previous San Francisco Rush titles, this racing game is set in the future. The same rules apply though, get to the finish before everyone else while avoiding massive crashes and taking as many shortcuts as possible.  Along with the usual race style, you now have the ability to fly, allowing you even more speed, stunts and shortcuts to the finish line. While the tracks themselves include moving ramps and switches to other shortcuts.  Modes include time trials, stunt mode including unique track designs to get the most out of your stunts, and a four player 'Battlematch' mode that adds weapons to the action.</desc>
+		<image>./mixart/San Francisco Rush 2049 (USA).png</image>
+		<video>./snap/San Francisco Rush 2049 (USA).mp4</video>
+		<marquee>./wheel/San Francisco Rush 2049 (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20000922T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Shenmue (USA).m3u</path>
+		<name>Shenmue</name>
+		<desc>That day in November when the snow turned to rain. Ryu Hazuki arrives home just in time to see his father killed by Lan Di, a man Ryu's father obviously knew very well. Ryu attempts to stop Lan Di, but is effortlessly beaten to within an inch of his life. After recovering from his injuries Ryu sets out to track down his father's murder as well as uncover his family's secrets and the mystery of the Phoenix and Dragon mirrors that Lan Di seeks.  Much of Shenmue's gameplay involves talking to Ryu's friends and the various people around town, hoping to find hints or clues that lead to the next step in the story. Any details Ryu learns are written down in his notebook for future review. Ryu can buy items from stores or try his luck with capsule toy machines, but the vast majority of items you can buy have no purpose outside of filling out your inventory screen. Ryu can also visit an arcade and play arcade accurate versions of  Hang-On and Space Harrier as well as games like darts and pool.  Ryu is a trained martial artist, and while a true martial artist knows it is better to avoid a fight, sometimes it is still necessary. Ryu can train his moves, either by repeatedly doing them while training, or by sparing with his friend Fuku-san. Fighting plays like a simplified Virtua Fighter game, although with toned down air juggling. Ryu's training also gives him heightened reflexes, and sometimes during a cutscene the player will have only a moment to press a button (displayed onscreen) to get Ryu out of danger. Failing an input prompt is not always fatal, but whether Ryu survives or not depends on the danger he was in.  Included with the game is the Shenmue Passport disc. On this disc players can receive tutorials about various aspects of the game like minigames or the battle system, watch cutscenes they've already seen in the game, and listen to music from the game. This disc also includes the option to go online to a special site where players can review world-wide minigame rankings, get hints for the game from Nozomi, review game maps of Yokosuka, trade uncommon items found in the game for even rarer items only available on the passport, and visit the official homepage. This service went offline along with the rest of SegaNet, and all online features are currently impossible to access.</desc>
+		<emulator>libretro</emulator>
+		<core>flycast</core>
+		<image>./mixart/Shenmue (USA).png</image>
+		<video>./snap/Shenmue (USA).mp4</video>
+		<marquee>./wheel/Shenmue (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20001108T000000</releasedate>
+		<developer>AM2</developer>
+		<publisher>Sega</publisher>
+		<genre>Adventure</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 	<game id="13500" source="ScreenScraper.fr">
 		<path>./SoulCalibur (USA).chd</path>
@@ -4656,21 +4608,95 @@ The game is a rail shooter like the famed Panzer Dragoon, where you move on a fi
 		<genre>Fight</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
-	<game id="13556" source="ScreenScraper.fr">
-		<path>./Virtua Tennis - Sega Professional Tennis (USA).chd</path>
-		<name>Virtua Tennis</name>
-		<desc>Imagine how a tennis player feels when he enters the arena, the crowd is cheering, the atmosphere electric, the adrenalin rushes...  Well now you can with Virtua tennis, the most lifelike and playable tennis game ever! Play as one of eight licensed players and uncover the secret stars. As well as the traditional arcade mode you can play in the exhibition mode, with 4 player action via doubles play.  Once you've mastered those modes take on the world in the world circuit mode, with unique training games, diffrent challenges and shops to buy clothing, equipment, stages and playing partners.   Virtua Tennis, so realistic you can almost taste the strawberries and cream.</desc>
-		<image>./mixart/Virtua Tennis - Sega Professional Tennis (USA).png</image>
-		<video>./snap/Virtua Tennis - Sega Professional Tennis (USA).mp4</video>
-		<marquee>./wheel/Virtua Tennis - Sega Professional Tennis (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20000908T000000</releasedate>
-		<developer>Hitmaker</developer>
-		<publisher>Sega</publisher>
-		<genre>Sports</genre>
-		<players>4</players>
+	<game id="13553" source="ScreenScraper.fr">
+		<path>./StarLancer v1.002 (2000)(Crave)(NTSC)(US)[!].chd</path>
+		<name>StarLancer</name>
+		<desc>It's 2160, and the Eastern Alliance has launched a surprise attack on the Western Coalition's fleet and decimated it. The call has gone out for volunteers to become Alliance fighter pilots, and you have signed up with the 45th Volunteer Squadron.
+
+Designed by Chris and Erin Roberts, the creative force behind the Wing Commander/Privateer megaseries, this space fighting simulation features the genre's standard mission types: escort, fighter sweep, interception, attacking space stations, fighting in asteroid fields, etc.
+
+12 pilotable fighters (you can choose which you fly as well as missile loadout, but not all are available in the early missions), 9 enemy fighter types.</desc>
+		<image>./mixart/StarLancer v1.002 (2000)(Crave)(NTSC)(US)[!].png</image>
+		<video>./snap/StarLancer v1.002 (2000)(Crave)(NTSC)(US)[!].mp4</video>
+		<marquee>./wheel/StarLancer v1.002 (2000)(Crave)(NTSC)(US)[!].png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20001127T000000</releasedate>
+		<developer>Digital Anvil</developer>
+		<publisher>Crave Entertainment</publisher>
+		<genre>Shoot'em Up-Simulation</genre>
+		<players>2-8</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>260</genreid>
+	</game>
+	<game>
+		<path>./Sturmwind.cdi</path>
+		<name>Sturmwind</name>
+		<desc>You found the way in now find the way out! Survive 16 levels and even more big grumpy boss enemies</desc>
+		<emulator>redream</emulator>
+		<core>redream</core>
+		<image>./mixart/Sturmwind.png</image>
+		<video>./snap/Sturmwind.mp4</video>
+		<marquee>./wheel/Sturmwind.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20130424T000000</releasedate>
+		<developer>Redspotgames</developer>
+		<publisher>Redspotgames</publisher>
+		<genre>Shoot'em Up</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="13816" source="ScreenScraper.fr">
+		<path>./Trizeal (Japan).chd</path>
+		<name>Trizeal</name>
+		<desc>A sci-fi vertical-scrolling shooter directly ported from its arcade incarnation.  Using polygonal graphics, but retaining a completely 2D gameplay, Trizeal puts you in command of two tiny starfighter as you attempt to clear several stages filled with enemy ships and creatures gunning for you.  Your ship is able to morph into three distinct configurations, each with their own speed and armor as well as unique weapon system (basic machine gun, homing missiles and laser), by picking up power-ups you can upgrade each form and increase its abilities and the point of the game is to keep your ship balanced enough to survive in all situations.  Features a unique Bonus mode with additional stages not included in the arcade original, and 2-player cooperative gameplay.</desc>
+		<image>./mixart/Trizeal (Japan).png</image>
+		<video>./snap/Trizeal (Japan).mp4</video>
+		<marquee>./wheel/Trizeal (Japan).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20050407T000000</releasedate>
+		<developer>Triangle Service</developer>
+		<publisher>Triangle Service</publisher>
+		<genre>Shoot'em Up-Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game>
+		<path>./Volgarr the Viking.cdi</path>
+		<name>Volgarr the Viking</name>
+		<desc>Do you have what it takes to be the greatest Viking Barbarian Lord in the world? Return to the Golden Age of arcade gaming with all-new hardcore action experience that pulls no punches. Playing as Volgarr the Viking, use your sword and spear to slaughter your foes in bloody combat. Battle Gigantic bosses in every world and find secrets that lead to unknown paths. Holding onto Volgarr's gear is key; his very life depends on it.</desc>
+		<image>./mixart/Volgarr the Viking.png</image>
+		<video>./snap/Volgarr the Viking.mp4</video>
+		<marquee>./wheel/Volgarr the Viking.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20150424T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Wild Metal v1.003 (2000)(Take 2)(PAL)(M6)[!].chd</path>
+		<name>Wild Metal</name>
+		<desc>Wild Metal Country is an action game in which one of five little tanks can be selected to control. Tank-like machines have gone wild on the three different planets of the Tehric system and the player's job is to defeat them.  The battles take place in desolate mountain environments. The big differences in altitude play an important role in the game. In the single player mode, complete levels by collecting 8 colored power cores, which are defended by the machines, and returning them to one of several hovering stores. The player has an infinite amount of lives. The weaponry consists of 8 types of missiles and 4 types of mines. Help is received from a pair of helicopters that drop ammo and provide healing.  The two tracks of the tank are operated independently. For example, make a quick spin by going forward with one track and backwards with the other. Moreover the turret can be turned in any direction. The camera always moves with the turret sometimes diverting the view towards the camera. The angle of the turret and the distance the rockets travel can be changed. The tank can only be controlled using the keyboard.  Noteworthy aspects of the game are: the physics modelling, the 3D engine and the amount of freedom the player has (no time constraints etc.).</desc>
+		<image>./mixart/Wild Metal v1.003 (2000)(Take 2)(PAL)(M6)[!].png</image>
+		<video>./snap/Wild Metal v1.003 (2000)(Take 2)(PAL)(M6)[!].mp4</video>
+		<marquee>./wheel/Wild Metal v1.003 (2000)(Take 2)(PAL)(M6)[!].png</marquee>
+		<rating>0.45</rating>
+		<releasedate>20000201T000000</releasedate>
+		<developer>DMA Design</developer>
+		<publisher>Take 2 Interactive</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 	<game id="78499" source="ScreenScraper.fr">
 		<path>./Yu Suzuki - Game Works Vol. 1 (Japan).chd</path>
@@ -4688,36 +4714,46 @@ The game is a rail shooter like the famed Panzer Dragoon, where you move on a fi
 		<genre>Compilation</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>jp</lang>
+		<region>jp</region>
 	</game>
-	<game>
-		<path>./Bangai-O (USA).chd</path>
-		<name>Bangai-O</name>
-		<desc>Ever wanted to just unleash the ultimate weapon? Blow up 500 enemies at once? Cause the ultimate amount of mayhem ever? In true Treasure fashion...you just got that power!  As the pilots of the Bangaioh mech, you've got to stop a mad group from taking over the world by giving them a little dose of insane destruction. Wanna just be crazy and let them kill you? Go ahead...just hit that trigger before it happens...  The Nintendo 64 version was only released in Japan. The Dreamcast version exists in the U.S. and Europe.</desc>
-		<emulator>redream</emulator>
-		<core>redream</core>
-		<image>./mixart/Bangai-O (USA).png</image>
-		<video>./snap/Bangai-O (USA).mp4</video>
-		<marquee>./wheel/Bangai-O (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20001020T000000</releasedate>
-		<developer>Treasure</developer>
-		<publisher>Conspiracy</publisher>
-		<genre>Shoot'em Up-Action</genre>
-	</game>
-	<game>
-		<path>./Sturmwind.cdi</path>
-		<name>Sturmwind</name>
-		<desc>You found the way in now find the way out! Survive 16 levels and even more big grumpy boss enemies</desc>
-		<emulator>redream</emulator>
-		<core>redream</core>
-		<image>./mixart/Sturmwind.png</image>
-		<video>./snap/Sturmwind.mp4</video>
-		<marquee>./wheel/Sturmwind.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20130424T000000</releasedate>
-		<developer>Redspotgames</developer>
-		<publisher>Redspotgames</publisher>
-		<genre>Shoot'em Up</genre>
+	<game id="13538" source="ScreenScraper.fr">
+		<path>./Sega Rally 2 (Europe) (v1.000).chd</path>
+		<name>Sega Rally 2</name>
+		<desc>Sega Rally 2 is the sequel to Sega's hit arcade game, Sega Rally. This game, like it's predecessor, is based on Rally racing. Rally racing is unique in that races take place on both race tracks and off-road courses. The courses in this game reflect this nicely. Some take place in the desert or forest, others take place in cities. 
+
+The cars in this game are all actual rally cars, with manufacturers from Europe and Japan both well represented. You do not get to see very many of them at one time, however, since rally races are typically time-based events. In this game, you are not competing directly against the other cars, you simply have to have the best time through the course. So, during any race you will usually see a handful of other cars on the track.
+
+Sega Rally 2 contains several modes of play. The first mode is the simple arcade mode of play. Here, you race in 4 courses, one right after another. The second mode is the 10 year championship. In this mode you race on 16 courses, and can make modifications to your car between races. Finally, there is a 2-person split screen mode for head-to-head competition.</desc>
+		<image>./mixart/Sega Rally 2 (Europe) (v1.000).png</image>
+		<video>./snap/Sega Rally 2 (Europe) (v1.000).mp4</video>
+		<marquee>./wheel/Sega Rally 2 (Europe) (v1.000).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19991014T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>eu</region>
+		<genreid>1537</genreid>
+	</game>
+	<game id="13556" source="ScreenScraper.fr">
+		<path>./Virtua Tennis - Sega Professional Tennis (USA).chd</path>
+		<name>Virtua Tennis</name>
+		<desc>Imagine how a tennis player feels when he enters the arena, the crowd is cheering, the atmosphere electric, the adrenalin rushes...  Well now you can with Virtua tennis, the most lifelike and playable tennis game ever! Play as one of eight licensed players and uncover the secret stars. As well as the traditional arcade mode you can play in the exhibition mode, with 4 player action via doubles play.  Once you've mastered those modes take on the world in the world circuit mode, with unique training games, diffrent challenges and shops to buy clothing, equipment, stages and playing partners.   Virtua Tennis, so realistic you can almost taste the strawberries and cream.</desc>
+		<image>./mixart/Virtua Tennis - Sega Professional Tennis (USA).png</image>
+		<video>./snap/Virtua Tennis - Sega Professional Tennis (USA).mp4</video>
+		<marquee>./wheel/Virtua Tennis - Sega Professional Tennis (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20000908T000000</releasedate>
+		<developer>Hitmaker</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

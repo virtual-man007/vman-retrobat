@@ -506,20 +506,6 @@ Gather a team of two, thrust into battle, and go crazy with your attacks! From b
 		<genreid>260</genreid>
 	</game>
 	<game id="0" source="ScreenScraper.fr">
-		<path>./Frogger Hyper Arcade Edition.m3u</path>
-		<name>Frogger Hyper Arcade Edition</name>
-		<desc>Frogger's coin-op thrills are back and better than ever in Frogger: Hyper Arcade Edition! The arcade excitement of Frogger returns in time for its 30th anniversary celebrations with updates that are sure to delight fans old and new. Players can jump into the action with classic and brand-new game modes like Tile Capture, Battle Royale, Freak Out and more that expand the challenge of Frogger's style of run-and-dodge gameplay. Players can even customize their game experience through a variety of different skins, from the modern neon style of HYPER ARCADE to the 8-bit sprites from Frogger, Castlevania and even CONTRA! Competitive types can also throw down against friends or the CPU in up to 4 player matches to find out who's really the top frog!</desc>
-		<rating>0.62</rating>
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-		<players />
-		<image>./mixart/Frogger Hyper Arcade Edition.png</image>
-		<marquee>./wheel/Frogger Hyper Arcade Edition.png</marquee>
-		<video>./snap/Frogger Hyper Arcade Edition.mp4</video>
-	</game>
-	<game id="0" source="ScreenScraper.fr">
 		<path>./Hard Corps Uprising.m3u</path>
 		<name>Hard Corps Uprising</name>
 		<desc>Thrilling retro run-and-gun action is back with a vengeance in Hard Corps: Uprising, a new 2D side scroller developed by ARC System Works that pays homage to classic Konami action series. Play as the soldier Bahamut as he begins to write his legend. Battle in the grueling trenches of Arcade mode or the all-new RISING mode, where a life bar and point system allow you to purchase items and upgrades to build your soldier up and achieve ultimate victory. Need help? Partner with a friend to lay down some serious carnage.</desc>
@@ -1167,32 +1153,6 @@ Swords in game can be customized and leveled up to increase its length, width, a
 		<genre>Race, Driving</genre>
 		<genreid>1537</genreid>
 	</game>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./1942 Joint Strike.m3u</path>
-		<name>1942 Joint Strike</name>
-		<desc>1942: Joint Strike takes inspiration and influence from the 194X series of World War II-themed vertical shooters. The art, sound, and gameplay of the new game takes cues from the original 194X games, but stands out as its own unique entry. Gameplay resembles the classic 2D style that gamers expect, but the game utilizes a full 3D engine. Set in a World War II-themed locale, stages, vehicles, and weapons have the look and feel of WWII with some stylistic differences. The world in which 1942 takes place is not our own and the events that transpire are not historically accurate, nor are they intended to be. This is an alternate world where history and technology developed along their own paths. As a result, players jump into the cockpits of WWII-era aircraft to take on huge waves of incoming enemy fire, dodging explosions and missiles while challenging huge bosses at the end of each stage. New co-op "Joint Strike attacks" combine the powers of two aircrafts into a devastating barrage.</desc>
-		<image>./mixart/1942 Joint Strike.png</image>
-		<video>./snap/1942 Joint Strike.mp4</video>
-		<marquee>./wheel/1942 Joint Strike.png</marquee>
-		<rating>0.69</rating>
-		<releasedate />
-	</game>
-	<game id="26516" source="ScreenScraper.fr">
-		<path>./3 On 3 NHL Arcade.m3u</path>
-		<name>3 On 3 NHL Arcade</name>
-		<desc>on 3 NHL Arcade is a fast-paced, loose replication of ice hockey allowing players to pick three out of 40 of the NHL's top players, and pit them against a team of three opponents. 
- 
-Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or all-around, with obvious advantages and disadvantages for each. Conventional hockey rules are not enforced, and players are encouraged to physically block and check their opponents often. Big hits result in arcade-style powerups, like giant goalies, speed skating, and freeze-tag.</desc>
-		<image>./mixart/3 On 3 NHL Arcade.png</image>
-		<video>./snap/3 On 3 NHL Arcade.mp4</video>
-		<marquee>./wheel/3 On 3 NHL Arcade.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20090202T000000</releasedate>
-		<developer>Electronic Arts</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Sports</genre>
-		<genreid>1536</genreid>
-	</game>
 	<game id="26419" source="ScreenScraper.fr">
 		<path>./OutRun Online Arcade.m3u</path>
 		<name>OutRun Online Arcade</name>
@@ -1220,5 +1180,42 @@ Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or
 		<publisher>Bandai Namco</publisher>
 		<genre>Fight</genre>
 		<genreid>262</genreid>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./1942 Joint Strike.m3u</path>
+		<name>1942 Joint Strike</name>
+		<desc>1942: Joint Strike takes inspiration and influence from the 194X series of World War II-themed vertical shooters. The art, sound, and gameplay of the new game takes cues from the original 194X games, but stands out as its own unique entry. Gameplay resembles the classic 2D style that gamers expect, but the game utilizes a full 3D engine. Set in a World War II-themed locale, stages, vehicles, and weapons have the look and feel of WWII with some stylistic differences. The world in which 1942 takes place is not our own and the events that transpire are not historically accurate, nor are they intended to be. This is an alternate world where history and technology developed along their own paths. As a result, players jump into the cockpits of WWII-era aircraft to take on huge waves of incoming enemy fire, dodging explosions and missiles while challenging huge bosses at the end of each stage. New co-op "Joint Strike attacks" combine the powers of two aircrafts into a devastating barrage.</desc>
+		<image>./mixart/1942 Joint Strike.png</image>
+		<video>./snap/1942 Joint Strike.mp4</video>
+		<marquee>./wheel/1942 Joint Strike.png</marquee>
+		<rating>0.69</rating>
+		<releasedate />
+		<lang>en</lang>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Frogger Hyper Arcade Edition.m3u</path>
+		<name>Frogger Hyper Arcade Edition</name>
+		<desc>Frogger's coin-op thrills are back and better than ever in Frogger: Hyper Arcade Edition! The arcade excitement of Frogger returns in time for its 30th anniversary celebrations with updates that are sure to delight fans old and new. Players can jump into the action with classic and brand-new game modes like Tile Capture, Battle Royale, Freak Out and more that expand the challenge of Frogger's style of run-and-dodge gameplay. Players can even customize their game experience through a variety of different skins, from the modern neon style of HYPER ARCADE to the 8-bit sprites from Frogger, Castlevania and even CONTRA! Competitive types can also throw down against friends or the CPU in up to 4 player matches to find out who's really the top frog!</desc>
+		<image>./mixart/Frogger Hyper Arcade Edition.png</image>
+		<video>./snap/Frogger Hyper Arcade Edition.mp4</video>
+		<marquee>./wheel/Frogger Hyper Arcade Edition.png</marquee>
+		<rating>0.62</rating>
+		<releasedate />
+	</game>
+	<game id="26516" source="ScreenScraper.fr">
+		<path>./3 On 3 NHL Arcade.m3u</path>
+		<name>3 On 3 NHL Arcade</name>
+		<desc>on 3 NHL Arcade is a fast-paced, loose replication of ice hockey allowing players to pick three out of 40 of the NHL's top players, and pit them against a team of three opponents. 
+ 
+Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or all-around, with obvious advantages and disadvantages for each. Conventional hockey rules are not enforced, and players are encouraged to physically block and check their opponents often. Big hits result in arcade-style powerups, like giant goalies, speed skating, and freeze-tag.</desc>
+		<image>./mixart/3 On 3 NHL Arcade.png</image>
+		<video>./snap/3 On 3 NHL Arcade.mp4</video>
+		<marquee>./wheel/3 On 3 NHL Arcade.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20090202T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<genreid>1536</genreid>
 	</game>
 </gameList>
