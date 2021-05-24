@@ -63,19 +63,6 @@
 		<video>./snap/Daedalus Encounter, The (USA, Europe) (Disc 4).mp4</video>
 	</game>
 	<game>
-		<path>./Crash 'n Burn (USA).chd</path>
-		<name>Crash 'n' Burn</name>
-		<desc>Crash â€˜n Burn is a racing game with vehicle-mounted guns and rockets. There is both a Rally mode and a Tournament mode to compete in. In the Rally Mode you race your way through up to 30 tracks with the goal of staying alive and destroying the other contenders while you try and finish in the top three. If you succeed then you advance to the next track.</desc>
-		<image>./mixart/Crash 'n Burn (USA).png</image>
-		<video>./snap/Crash 'n Burn (USA).mp4</video>
-		<marquee>./wheel/Crash 'n Burn (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Crystal Dynamics</developer>
-		<publisher>Crystal Dynamics</publisher>
-		<genre>Race, Driving</genre>
-	</game>
-	<game>
 		<path>./Doom (USA).chd</path>
 		<name>Doom</name>
 		<desc>The Union Aerospace Corporation has been experimenting with teleportation technology on Mars' moons Phobos and Deimos. After early successes, something goes wrong. It seems the scientists have opened a gateway straight to Hell. Phobos base is overrun with demonic creatures, and the whole of Deimos simply vanishes. A squad of marines is sent to Phobos, but all except one are quickly slaughtered. It falls to the surviving marine to grab some guns and strike back at the demons.</desc>
@@ -1285,19 +1272,6 @@
 		<publisher>U.S. Gold</publisher>
 	</game>
 	<game>
-		<path>./Captain Quazar (USA).chd</path>
-		<name>Captain Quazar</name>
-		<desc>The idea behind Captain Quazar is simple, from a 3/4 overhead view control the Captain, kill the bad guys and save the day. Everything in this huge galaxy can be blown away, but be careful where you lay waste, because you have to manage your resources to survive.</desc>
-		<image>./mixart/Captain Quazar (USA).png</image>
-		<video>./snap/Captain Quazar (USA).mp4</video>
-		<marquee>./wheel/Captain Quazar (USA).png</marquee>
-		<rating>1</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Cyclone Studios</developer>
-		<publisher>Panasonic</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./Real Pinball (Europe).chd</path>
 		<name>Fireball</name>
 		<desc>Real Pinball is the standard video game conversion of the actual machines with five different tables to choose from with the main goal being to gain as many points as possible by using the game controller to control the flippers of the machine. The game features realistic graphics made to resemble an actual machine.</desc>
@@ -1686,5 +1660,35 @@
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>eu</region>
+	</game>
+	<game>
+		<path>./Captain Quazar (USA).chd</path>
+		<name>Captain Quazar</name>
+		<desc>The idea behind Captain Quazar is simple, from a 3/4 overhead view control the Captain, kill the bad guys and save the day. Everything in this huge galaxy can be blown away, but be careful where you lay waste, because you have to manage your resources to survive.</desc>
+		<image>./mixart/Captain Quazar (USA).png</image>
+		<video>./snap/Captain Quazar (USA).mp4</video>
+		<marquee>./wheel/Captain Quazar (USA).png</marquee>
+		<rating>1</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Cyclone Studios</developer>
+		<publisher>Panasonic</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Crash 'n Burn (USA).chd</path>
+		<name>Crash 'n' Burn</name>
+		<desc>Crash â€˜n Burn is a racing game with vehicle-mounted guns and rockets. There is both a Rally mode and a Tournament mode to compete in. In the Rally Mode you race your way through up to 30 tracks with the goal of staying alive and destroying the other contenders while you try and finish in the top three. If you succeed then you advance to the next track.</desc>
+		<image>./mixart/Crash 'n Burn (USA).png</image>
+		<video>./snap/Crash 'n Burn (USA).mp4</video>
+		<marquee>./wheel/Crash 'n Burn (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Crystal Dynamics</developer>
+		<publisher>Crystal Dynamics</publisher>
+		<genre>Race, Driving</genre>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

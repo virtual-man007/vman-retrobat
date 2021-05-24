@@ -143,20 +143,6 @@ NOTE: Requires keyboard to exit!</desc>
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Brutal Doom.lnk</path>
-		<name>'H'Brutal Doom</name>
-		<desc>Doom on Steroids!
-NOTE: Requires keyboard to exit!</desc>
-		<image>./mixart/Brutal Doom.png</image>
-		<video>./snap/Brutal Doom.mp4</video>
-		<marquee>./wheel/Brutal Doom.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20150101T000000</releasedate>
-		<genre>Shooter</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Brutal Wolfenstein 3D.lnk</path>
 		<name>'H'Brutal Wolfenstein 3D</name>
 		<desc>Wolfenstein 3-D on Steroids!
@@ -509,5 +495,19 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<genre>Action-Shooter-Shooter / 1st person</genre>
 		<players>4</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Brutal Doom.lnk</path>
+		<name>'H'Brutal Doom</name>
+		<desc>Doom on Steroids!
+NOTE: Requires keyboard to exit!</desc>
+		<image>./mixart/Brutal Doom.png</image>
+		<video>./snap/Brutal Doom.mp4</video>
+		<marquee>./wheel/Brutal Doom.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20150101T000000</releasedate>
+		<genre>Shooter</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

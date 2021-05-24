@@ -2031,17 +2031,6 @@
 		<players>1-4</players>
 	</game>
 	<game>
-		<path>./Battletoads Double Dragon - The T.Bird Mission.PAK</path>
-		<name>Battletoads Double Dragon - The T.bird Mission</name>
-		<desc>This is a new part of a famous crossover with the participation of characters from the game series Battletoads and Double Dragon!nnnnThree human-like toads, Rash, Zitz, Pimple and dragon brothers Billy and Jimmy Lee must save professor T. Bird in their new adventures. He is a teacher and a master of the toads, who was kidnapped by the Queen of Dark, who rules Ragnarok planet. It is going to be a really serious battle, toads and dragons will have to fight against numerous enemies and bosses, which are sent by the Queen of Dark. Moreover, evil Queen called Shadow Boss to help her, they act as one team. Choose one of three toads or one of two dragons and conquer the space with the help of your fists!nnThere are 9 different missions in this game, each of them is divided into several parts.</desc>
-		<image>./mixart/Battletoads Double Dragon - The T.Bird Mission.png</image>
-		<video>./snap/Battletoads Double Dragon - The T.Bird Mission.mp4</video>
-		<marquee>./wheel/Battletoads Double Dragon - The T.Bird Mission.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20100101T000000</releasedate>
-		<developer>Madgear</developer>
-	</game>
-	<game>
 		<path>./Beats of Fighting.pak</path>
 		<name>Beats Of Fighting</name>
 		<image>./mixart/Beats of Fighting.png</image>
@@ -3811,5 +3800,16 @@
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Battletoads Double Dragon - The T.Bird Mission.PAK</path>
+		<name>Battletoads Double Dragon - The T.bird Mission</name>
+		<desc>This is a new part of a famous crossover with the participation of characters from the game series Battletoads and Double Dragon!nnnnThree human-like toads, Rash, Zitz, Pimple and dragon brothers Billy and Jimmy Lee must save professor T. Bird in their new adventures. He is a teacher and a master of the toads, who was kidnapped by the Queen of Dark, who rules Ragnarok planet. It is going to be a really serious battle, toads and dragons will have to fight against numerous enemies and bosses, which are sent by the Queen of Dark. Moreover, evil Queen called Shadow Boss to help her, they act as one team. Choose one of three toads or one of two dragons and conquer the space with the help of your fists!nnThere are 9 different missions in this game, each of them is divided into several parts.</desc>
+		<image>./mixart/Battletoads Double Dragon - The T.Bird Mission.png</image>
+		<video>./snap/Battletoads Double Dragon - The T.Bird Mission.mp4</video>
+		<marquee>./wheel/Battletoads Double Dragon - The T.Bird Mission.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20100101T000000</releasedate>
+		<developer>Madgear</developer>
 	</game>
 </gameList>
