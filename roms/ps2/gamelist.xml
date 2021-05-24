@@ -5349,1129 +5349,1129 @@ Freekstyle features the voices and likeness of several real-life motocross stars
 		<favorite>true</favorite>
 		<genreid>1537</genreid>
 	</game>
-  <game id="22175" source="ScreenScraper.fr">
-    <path>./50 Cent - Bulletproof (USA).gz</path>
-    <name>50 Cent : Bulletproof</name>
-    <desc>This game lets you step into the footsteps of 50 Cent himself. As he tries to free the kidnapped K-Dog with his crew in the streets of New York City, 50 gets shot nine times (just like his real-life counterpart) and left for dead. After getting stitched up, he sets out to find those who tried to kill him and uncovers a bigger conspiracy. 
+	<game id="22175" source="ScreenScraper.fr">
+		<path>./50 Cent - Bulletproof (USA).gz</path>
+		<name>50 Cent : Bulletproof</name>
+		<desc>This game lets you step into the footsteps of 50 Cent himself. As he tries to free the kidnapped K-Dog with his crew in the streets of New York City, 50 gets shot nine times (just like his real-life counterpart) and left for dead. After getting stitched up, he sets out to find those who tried to kill him and uncovers a bigger conspiracy. 
  
 The game is a 3rd-person shooter with all the typical features: You have a wide array of weapons (including akimbo shooting), there are over 25 moves to finish people off at close range, you can find money to buy health packs, armor, and other helpful items. You can grab enemies and use them as human shields and use mobile objects (like dumpsters on wheels) as cover. The game uses the havok physics engine for a more dynamic environment.</desc>
-    <rating>0.65</rating>
-    <releasedate>20051117T000000</releasedate>
-    <developer>Genuine Games</developer>
-    <publisher>Vivendi Universal Games</publisher>
-    <genre>Action</genre>
-    <players>1</players>
-    <image>./mixart/50 Cent - Bulletproof (USA).png</image>
-    <marquee>./wheel/50 Cent - Bulletproof (USA).png</marquee>
-    <video>./snap/50 Cent - Bulletproof (USA).mp4</video>
-    <genreid>256</genreid>
-  </game>
-  <game id="22377" source="ScreenScraper.fr">
-    <path>./Ar tonelico II - Melody of Metafalica (USA).gz</path>
-    <name>Ar tonelico II : Melody of Metafalica</name>
-    <desc>In the world of Ar Ciel, the Reyvateil region is being threatened by an epidemic that's been killing the citizens. A knight from the Grand Bell, Croix, is sent there to deal with the epidemic. The people of Metafalss, lead by the Grand Bell, rebel against the Goddess who controls the world, in order to achieve their dream and create a utopia by singing a Song in the Hymnos language, called Metafalica - as the legend says. 
+		<rating>0.65</rating>
+		<releasedate>20051117T000000</releasedate>
+		<developer>Genuine Games</developer>
+		<publisher>Vivendi Universal Games</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./mixart/50 Cent - Bulletproof (USA).png</image>
+		<marquee>./wheel/50 Cent - Bulletproof (USA).png</marquee>
+		<video>./snap/50 Cent - Bulletproof (USA).mp4</video>
+		<genreid>256</genreid>
+	</game>
+	<game id="22377" source="ScreenScraper.fr">
+		<path>./Ar tonelico II - Melody of Metafalica (USA).gz</path>
+		<name>Ar tonelico II : Melody of Metafalica</name>
+		<desc>In the world of Ar Ciel, the Reyvateil region is being threatened by an epidemic that's been killing the citizens. A knight from the Grand Bell, Croix, is sent there to deal with the epidemic. The people of Metafalss, lead by the Grand Bell, rebel against the Goddess who controls the world, in order to achieve their dream and create a utopia by singing a Song in the Hymnos language, called Metafalica - as the legend says. 
  
 </desc>
-    <rating>0.85</rating>
-    <releasedate>20090120T000000</releasedate>
-    <developer>Gust</developer>
-    <publisher>NIS America</publisher>
-    <genre>Role playing games</genre>
-    <players>1</players>
-    <image>./mixart/Ar tonelico II - Melody of Metafalica (USA).png</image>
-    <marquee>./wheel/Ar tonelico II - Melody of Metafalica (USA).png</marquee>
-    <video>./snap/Ar tonelico II - Melody of Metafalica (USA).mp4</video>
-    <genreid>768</genreid>
-  </game>
-  <game id="22201" source="ScreenScraper.fr">
-    <path>./Arc the Lad - End of Darkness (USA).gz</path>
-    <name>Arc the Lad : End of Darkness</name>
-    <desc>SCE takes the Arc the Lad series away from its roots and into an Online-playable action-adventure game. Players become a hunter who must travel the world and take on jobs, usually revolving around taking out enemies in real time using magic and special abilities. Collect cards from battle and events and equip them to gain new skills, all the while following an RPG-like storyline. You view the action from overhead, with a camera zooming in and out depending on the intensity of the action and occasionally switching to other angles for dramatic effect. You attack enemies in real time, tapping X once for a simple attack and repeatedly for a combo. You can also guard against attack, dash at an enemy, and press a button to run about the play field faster. The game places heavy emphasis on magic use, with the magic meter recovering automatically and quickly following each spell. </desc>
-    <rating>0.85</rating>
-    <releasedate>20040128T000000</releasedate>
-    <developer>Cattle Call, Inc.</developer>
-    <publisher>Namco</publisher>
-    <genre>Role playing games</genre>
-    <image>./mixart/Arc the Lad - End of Darkness (USA).png</image>
-    <marquee>./wheel/Arc the Lad - End of Darkness (USA).png</marquee>
-    <video>./snap/Arc the Lad - End of Darkness (USA).mp4</video>
-    <genreid>768</genreid>
-  </game>
-  <game id="23467" source="ScreenScraper.fr">
-    <path>./Assault Suits Valken (Europe).gz</path>
-    <name>Assault Suits Valken</name>
-    <desc>Upgraded remake of the original Juusou Kihei Valken (Assault Suits Valken) for the Super Famicom, released internationally as Cybernator. The action is set in the 22nd century, when humankind has developed high-power weaponry that can hover despite being armed to the teeth. The game starts with the same classic Level 0 30-second opening sequence followed by lots more side scrolling mech action.</desc>
-    <rating>0.45</rating>
-    <releasedate>20050929T000000</releasedate>
-    <developer>Psikyo</developer>
-    <publisher>505 Games</publisher>
-    <players>1</players>
-    <image>./mixart/Assault Suits Valken (Europe).png</image>
-    <marquee>./wheel/Assault Suits Valken (Europe).png</marquee>
-    <video>./snap/Assault Suits Valken (Europe).mp4</video>
-  </game>
-  <game id="22143" source="ScreenScraper.fr">
-    <path>./Breath of Fire - Dragon Quarter (USA).gz</path>
-    <name>Breath of Fire : Dragon Quarter</name>
-    <desc>Breath of Fire: Dragon Quarter is a radical departure from the previous titles of the Breath of Fire series, and in some ways from standard Japanese-style role-playing games in general. The game is built like a huge dungeon crawler, with no overworld map. The combat is tactical: each character has action points (AP), which can be used to move around the screen during an enemy encounter, and perform a variety of combo attacks. There is no magic in the game, and many of the items found in dungeons are random. All the enemies are visible on screen. Depending on who first initiated a physical contact, the party or the enemies get an extra turn in battles. 
+		<rating>0.85</rating>
+		<releasedate>20090120T000000</releasedate>
+		<developer>Gust</developer>
+		<publisher>NIS America</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Ar tonelico II - Melody of Metafalica (USA).png</image>
+		<marquee>./wheel/Ar tonelico II - Melody of Metafalica (USA).png</marquee>
+		<video>./snap/Ar tonelico II - Melody of Metafalica (USA).mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="22201" source="ScreenScraper.fr">
+		<path>./Arc the Lad - End of Darkness (USA).gz</path>
+		<name>Arc the Lad : End of Darkness</name>
+		<desc>SCE takes the Arc the Lad series away from its roots and into an Online-playable action-adventure game. Players become a hunter who must travel the world and take on jobs, usually revolving around taking out enemies in real time using magic and special abilities. Collect cards from battle and events and equip them to gain new skills, all the while following an RPG-like storyline. You view the action from overhead, with a camera zooming in and out depending on the intensity of the action and occasionally switching to other angles for dramatic effect. You attack enemies in real time, tapping X once for a simple attack and repeatedly for a combo. You can also guard against attack, dash at an enemy, and press a button to run about the play field faster. The game places heavy emphasis on magic use, with the magic meter recovering automatically and quickly following each spell. </desc>
+		<rating>0.85</rating>
+		<releasedate>20040128T000000</releasedate>
+		<developer>Cattle Call, Inc.</developer>
+		<publisher>Namco</publisher>
+		<genre>Role playing games</genre>
+		<image>./mixart/Arc the Lad - End of Darkness (USA).png</image>
+		<marquee>./wheel/Arc the Lad - End of Darkness (USA).png</marquee>
+		<video>./snap/Arc the Lad - End of Darkness (USA).mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="23467" source="ScreenScraper.fr">
+		<path>./Assault Suits Valken (Europe).gz</path>
+		<name>Assault Suits Valken</name>
+		<desc>Upgraded remake of the original Juusou Kihei Valken (Assault Suits Valken) for the Super Famicom, released internationally as Cybernator. The action is set in the 22nd century, when humankind has developed high-power weaponry that can hover despite being armed to the teeth. The game starts with the same classic Level 0 30-second opening sequence followed by lots more side scrolling mech action.</desc>
+		<rating>0.45</rating>
+		<releasedate>20050929T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>505 Games</publisher>
+		<players>1</players>
+		<image>./mixart/Assault Suits Valken (Europe).png</image>
+		<marquee>./wheel/Assault Suits Valken (Europe).png</marquee>
+		<video>./snap/Assault Suits Valken (Europe).mp4</video>
+	</game>
+	<game id="22143" source="ScreenScraper.fr">
+		<path>./Breath of Fire - Dragon Quarter (USA).gz</path>
+		<name>Breath of Fire : Dragon Quarter</name>
+		<desc>Breath of Fire: Dragon Quarter is a radical departure from the previous titles of the Breath of Fire series, and in some ways from standard Japanese-style role-playing games in general. The game is built like a huge dungeon crawler, with no overworld map. The combat is tactical: each character has action points (AP), which can be used to move around the screen during an enemy encounter, and perform a variety of combo attacks. There is no magic in the game, and many of the items found in dungeons are random. All the enemies are visible on screen. Depending on who first initiated a physical contact, the party or the enemies get an extra turn in battles. 
  
 The game allows (and even encourages) the player to restart it from the beginning, keeping the items and the party experience. The game also features a special counter - Ryu can use his traditional dragon transformation abilities, but the counter raises with each such transformation, and when the counter reaches 100, the game is over. Raising the D-ratio allows characters to access new areas every time the game is replayed.</desc>
-    <rating>0.75</rating>
-    <releasedate>20030216T000000</releasedate>
-    <developer>Capcom</developer>
-    <publisher>Capcom</publisher>
-    <genre>Role playing games</genre>
-    <players>1</players>
-    <image>./mixart/Breath of Fire - Dragon Quarter (USA).png</image>
-    <marquee>./wheel/Breath of Fire - Dragon Quarter (USA).png</marquee>
-    <video>./snap/Breath of Fire - Dragon Quarter (USA).mp4</video>
-    <genreid>768</genreid>
-  </game>
-  <game id="22421" source="ScreenScraper.fr">
-    <path>./Colin McRae Rally 2005 (Europe) (En,Fr,De,Es,It).gz</path>
-    <name>Colin McRae Rally 2005</name>
-    <desc>The fifth iteration of the rally racing game inspired by the "Flying Scotsman".  Choose from over 30 car models.  The detail and physics are improved, and more playing modes are available, including a new around-the-world career mode.  Weather conditions and rally courses can both be customized.  Network play supports up to eight players with split-screen.  As always, the menu design is clean, and the tracks are dirty!</desc>
-    <rating>0.75</rating>
-    <releasedate>20070531T000000</releasedate>
-    <developer>Codemasters</developer>
-    <publisher>Codemasters</publisher>
-    <genre>Race, Driving</genre>
-    <players>2-8</players>
-    <image>./mixart/Colin McRae Rally 2005 (Europe) (En,Fr,De,Es,It).png</image>
-    <marquee>./wheel/Colin McRae Rally 2005 (Europe) (En,Fr,De,Es,It).png</marquee>
-    <video>./snap/Colin McRae Rally 2005 (Europe) (En,Fr,De,Es,It).mp4</video>
-    <genreid>1537</genreid>
-  </game>
-  <game id="22981" source="ScreenScraper.fr">
-    <path>./Crimson Tears (USA).gz</path>
-    <name>Crimson Tears</name>
-    <desc>The year is 2049, and Tokyo is in the midst of dangerous street riots. Dr. Kosugi, a scientist working for the A.R.M.A. corporation, has created three "mutanoids" - powerful bio-engineered fighters who regard him as their father. When they find out that Dr. Kosugi is missing, they venture into the dangerous areas of the city to bring him back and punish the culprits.
+		<rating>0.75</rating>
+		<releasedate>20030216T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Breath of Fire - Dragon Quarter (USA).png</image>
+		<marquee>./wheel/Breath of Fire - Dragon Quarter (USA).png</marquee>
+		<video>./snap/Breath of Fire - Dragon Quarter (USA).mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="22981" source="ScreenScraper.fr">
+		<path>./Crimson Tears (USA).gz</path>
+		<name>Crimson Tears</name>
+		<desc>The year is 2049, and Tokyo is in the midst of dangerous street riots. Dr. Kosugi, a scientist working for the A.R.M.A. corporation, has created three "mutanoids" - powerful bio-engineered fighters who regard him as their father. When they find out that Dr. Kosugi is missing, they venture into the dangerous areas of the city to bring him back and punish the culprits.
 
 Crimson Tears is an action game with role-playing elements. Controlling either of the three protagonists (Amber, Kadie, or Tokio), each with their own strengths and weaknesses, the player explores randomly generated, enemy-infested stages, disposing of the foes in combo-based hack-and-slash combat. Experience points are gained from battle victories, allowing the characters to level up and become stronger.
 
 Weapon components can be collected from fallen enemies and combined to make new weapons. Like the characters themselves, weapons level up, increasing in attack power and reducing the necessity to repair them. The protagonists have access to ranged attacks, blocks, and powerful area attacks. The player should also keep an eye on their temperature meter, preventing them from overheating.</desc>
-    <rating>0.55</rating>
-    <releasedate>20040721T000000</releasedate>
-    <developer>Dreamfactory</developer>
-    <publisher>Capcom</publisher>
-    <genre>Action-Adventure</genre>
-    <players>1</players>
-    <image>./mixart/Crimson Tears (USA).png</image>
-    <marquee>./wheel/Crimson Tears (USA).png</marquee>
-    <video>./snap/Crimson Tears (USA).mp4</video>
-    <genreid>512</genreid>
-  </game>
-  <game id="24083" source="ScreenScraper.fr">
-    <path>./Dance Dance Revolution Extreme 2 (USA).gz</path>
-    <name>Dance Dance Revolution Extreme 2</name>
-    <desc>In addition to including features from the previous game, PS2 gamers will now have the opportunity to participate in exciting head-to-head DDR online competitions for the first time ever. The 100 top scorers will be recognized through an interactive ranking system, letting novice players test their dancing mettle against top-notch DDR experts. Players can also go online to access new challenge missions which will be refreshed periodically, allowing players a way to continually expand the DDR gaming experience. Whether players are looking to dance to the hottest tracks in town, choreograph, edit and create their own dance steps, or use the 'Work Out' mode to burn off excess pounds, DDR Extreme 2 will offer players of all ages an interactive and fun way to get up and groove. The game's support for the EyeToy Camera continues to add depth and dimension to the gameplay. While using the camera, players can access fast-paced mini games and use both their hands and feet while dancing and watching themselves on TV. Keeping players on the dance mat is more than 100 minutes of energetic dance music, including exclusively-licensed dance hits as well as smash-hit songs, such as "Genie In A Bottle" and "Oops!...I Did It Again." Also adding to the impressive line-up of songs is new music by the famous video game musician Yuzo Koshiro, whose credits include composing music for hit games such as Streets of Rage series, Revenge of Shinobi and Shenmue.</desc>
-    <releasedate>20050927T000000</releasedate>
-    <developer>Konami</developer>
-    <publisher>Konami</publisher>
-    <genre>Music and Dance</genre>
-    <image>./mixart/Dance Dance Revolution Extreme 2 (USA).png</image>
-    <marquee>./wheel/Dance Dance Revolution Extreme 2 (USA).png</marquee>
-    <video>./snap/Dance Dance Revolution Extreme 2 (USA).mp4</video>
-    <genreid>266</genreid>
-  </game>
-  <game id="23346" source="ScreenScraper.fr">
-    <path>./Dragon Blaze (Europe).gz</path>
-    <name>Dragon Blaze</name>
-    <desc>Dragon Blaze is a 2D vertically scrolling shoot 'em up game where you take control of one of four dragon riders in a fantasy themed setting. The riders are Quaid with his fire dragon, Sonia with her three aqua dragons, Rob with his two-headed thunder dragon and Ian with his skull dragon. 
+		<rating>0.55</rating>
+		<releasedate>20040721T000000</releasedate>
+		<developer>Dreamfactory</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./mixart/Crimson Tears (USA).png</image>
+		<marquee>./wheel/Crimson Tears (USA).png</marquee>
+		<video>./snap/Crimson Tears (USA).mp4</video>
+		<genreid>512</genreid>
+	</game>
+	<game id="24083" source="ScreenScraper.fr">
+		<path>./Dance Dance Revolution Extreme 2 (USA).gz</path>
+		<name>Dance Dance Revolution Extreme 2</name>
+		<desc>In addition to including features from the previous game, PS2 gamers will now have the opportunity to participate in exciting head-to-head DDR online competitions for the first time ever. The 100 top scorers will be recognized through an interactive ranking system, letting novice players test their dancing mettle against top-notch DDR experts. Players can also go online to access new challenge missions which will be refreshed periodically, allowing players a way to continually expand the DDR gaming experience. Whether players are looking to dance to the hottest tracks in town, choreograph, edit and create their own dance steps, or use the 'Work Out' mode to burn off excess pounds, DDR Extreme 2 will offer players of all ages an interactive and fun way to get up and groove. The game's support for the EyeToy Camera continues to add depth and dimension to the gameplay. While using the camera, players can access fast-paced mini games and use both their hands and feet while dancing and watching themselves on TV. Keeping players on the dance mat is more than 100 minutes of energetic dance music, including exclusively-licensed dance hits as well as smash-hit songs, such as "Genie In A Bottle" and "Oops!...I Did It Again." Also adding to the impressive line-up of songs is new music by the famous video game musician Yuzo Koshiro, whose credits include composing music for hit games such as Streets of Rage series, Revenge of Shinobi and Shenmue.</desc>
+		<releasedate>20050927T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Music and Dance</genre>
+		<image>./mixart/Dance Dance Revolution Extreme 2 (USA).png</image>
+		<marquee>./wheel/Dance Dance Revolution Extreme 2 (USA).png</marquee>
+		<video>./snap/Dance Dance Revolution Extreme 2 (USA).mp4</video>
+		<genreid>266</genreid>
+	</game>
+	<game id="23346" source="ScreenScraper.fr">
+		<path>./Dragon Blaze (Europe).gz</path>
+		<name>Dragon Blaze</name>
+		<desc>Dragon Blaze is a 2D vertically scrolling shoot 'em up game where you take control of one of four dragon riders in a fantasy themed setting. The riders are Quaid with his fire dragon, Sonia with her three aqua dragons, Rob with his two-headed thunder dragon and Ian with his skull dragon. 
  
 As you make progress through the colorful stages and fight of fantasy teamed enemies weapon power-ups in the form of swords can be retrieved. The dragon and rider can separate for a strong close range attack. The game can be played solo or with a friend. </desc>
-    <rating>0.8</rating>
-    <releasedate>20061023T000000</releasedate>
-    <developer>Psikyo</developer>
-    <publisher>505 Games</publisher>
-    <genre>Shoot'em Up</genre>
-    <players>1-2</players>
-    <image>./mixart/Dragon Blaze (Europe).png</image>
-    <marquee>./wheel/Dragon Blaze (Europe).png</marquee>
-    <video>./snap/Dragon Blaze (Europe).mp4</video>
-    <genreid>260</genreid>
-  </game>
-  <game id="128721" source="ScreenScraper.fr">
-    <path>./Dragon Sisters (Europe).gz</path>
-    <name>Dragon Sisters</name>
-    <desc>Dragon Sisters is set 100 years after the great war, and the East Asian state is not doing very well. Constant wars and natural disasters have crippled its economy, so they decide to attack the neighboring Empire in hope of kidnapping some scientists and other skilled individuals. As Empire is a peace-loving country, East Asia defeats their forces in just three days. Luckily there are Kiku and Hanna, two highly trained cyborg soldiers with only one objective: to protect Empire and its citizens. 
+		<rating>0.8</rating>
+		<releasedate>20061023T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>505 Games</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1-2</players>
+		<image>./mixart/Dragon Blaze (Europe).png</image>
+		<marquee>./wheel/Dragon Blaze (Europe).png</marquee>
+		<video>./snap/Dragon Blaze (Europe).mp4</video>
+		<genreid>260</genreid>
+	</game>
+	<game id="128721" source="ScreenScraper.fr">
+		<path>./Dragon Sisters (Europe).gz</path>
+		<name>Dragon Sisters</name>
+		<desc>Dragon Sisters is set 100 years after the great war, and the East Asian state is not doing very well. Constant wars and natural disasters have crippled its economy, so they decide to attack the neighboring Empire in hope of kidnapping some scientists and other skilled individuals. As Empire is a peace-loving country, East Asia defeats their forces in just three days. Luckily there are Kiku and Hanna, two highly trained cyborg soldiers with only one objective: to protect Empire and its citizens. 
  
 Dragon Sisters is a 3D brawler fighting game for one or two players in the style of Fighting Force or Streets of Rage. The game's ten stages each end with a boss battle. As the game progresses, the characters gain experience by collecting orbs from the fallen enemies. These orbs lets you upgrade the characters' abilities such as speed, power and health. While fighting different types of attacks can be combined to form large combos.</desc>
-    <releasedate />
-    <developer>Tamsoft </developer>
-    <publisher>D3 Publisher</publisher>
-    <genre>Action</genre>
-    <image>./mixart/Dragon Sisters (Europe).png</image>
-	<marquee>./wheel/Dragon Sisters (Europe).png</marquee>
-    <video>./snap/Dragon Sisters (Europe).mp4</video>
-    <genreid>256</genreid>
-  </game>
-  <game id="22272" source="ScreenScraper.fr">
-    <path>./Drakengard 2 (USA).gz</path>
-    <name>Drakengard 2</name>
-    <desc>This sequel to the Square-Enix action game continues the multifaceted air and ground combat of the original. Drakengard 2 (known as Drag On Dragoon in Japan) takes place 18 years after the events of the original. The whereabouts of the original's hero, Caim, are unknown to anyone. A new young knight called Nowe serves as the playable main character. Together with his dragon, Legna, Nowe takes part in land and air-based battles, just like in the original, albeit with more refined gameplay. The kill-all mechanics and upgradable weapons of the original return with this title, with the promise of faster action. While on the ground, the game now lets you change freely between characters, with no limit. You'll want to switch characters in order to best match the enemy at hand. Other additions include new mega attacks while airborne.</desc>
-    <rating>0.85</rating>
-    <releasedate>20060302T000000</releasedate>
-    <developer>Cavia</developer>
-    <publisher>Ubisoft</publisher>
-    <genre>Role playing games</genre>
-    <players>1</players>
-    <image>./mixart/Drakengard 2 (USA).png</image>
-    <marquee>./wheel/Drakengard 2 (USA).png</marquee>
-    <video>./snap/Drakengard 2 (USA).mp4</video>
-    <genreid>768</genreid>
-  </game>
-  <game id="23497" source="ScreenScraper.fr">
-    <path>./Everblue 2.gz</path>
-    <name>Everblue 2</name>
-    <desc>Leonardo (Professional Salvager / Diver) and his partner Zucco wash up on a Caribbean island after sailing into a storm. Though quickly back on his feet their boat is going to need some heavy repairs if they intend to escape this tropical paradise. This is no problem of course with your slightly beat up scuba-gear and radar you set into the shallows to search for anything salvageable. Old rusted dog tags and broken CDs being worth quite a sum here your able to start repairs swiftly. However, with so much money involved in this business it is inevitable that unscrupulous folk are going to get involved. And sure enough a large corporation is looking to buy out the island oust the inhabitants and use it for their own money making schemes. Can you as Leo beat them to the treasures of the deep and foil their plans? 
+		<releasedate />
+		<developer>Tamsoft </developer>
+		<publisher>D3 Publisher</publisher>
+		<genre>Action</genre>
+		<image>./mixart/Dragon Sisters (Europe).png</image>
+		<marquee>./wheel/Dragon Sisters (Europe).png</marquee>
+		<video>./snap/Dragon Sisters (Europe).mp4</video>
+		<genreid>256</genreid>
+	</game>
+	<game id="22272" source="ScreenScraper.fr">
+		<path>./Drakengard 2 (USA).gz</path>
+		<name>Drakengard 2</name>
+		<desc>This sequel to the Square-Enix action game continues the multifaceted air and ground combat of the original. Drakengard 2 (known as Drag On Dragoon in Japan) takes place 18 years after the events of the original. The whereabouts of the original's hero, Caim, are unknown to anyone. A new young knight called Nowe serves as the playable main character. Together with his dragon, Legna, Nowe takes part in land and air-based battles, just like in the original, albeit with more refined gameplay. The kill-all mechanics and upgradable weapons of the original return with this title, with the promise of faster action. While on the ground, the game now lets you change freely between characters, with no limit. You'll want to switch characters in order to best match the enemy at hand. Other additions include new mega attacks while airborne.</desc>
+		<rating>0.85</rating>
+		<releasedate>20060302T000000</releasedate>
+		<developer>Cavia</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Drakengard 2 (USA).png</image>
+		<marquee>./wheel/Drakengard 2 (USA).png</marquee>
+		<video>./snap/Drakengard 2 (USA).mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="23497" source="ScreenScraper.fr">
+		<path>./Everblue 2.gz</path>
+		<name>Everblue 2</name>
+		<desc>Leonardo (Professional Salvager / Diver) and his partner Zucco wash up on a Caribbean island after sailing into a storm. Though quickly back on his feet their boat is going to need some heavy repairs if they intend to escape this tropical paradise. This is no problem of course with your slightly beat up scuba-gear and radar you set into the shallows to search for anything salvageable. Old rusted dog tags and broken CDs being worth quite a sum here your able to start repairs swiftly. However, with so much money involved in this business it is inevitable that unscrupulous folk are going to get involved. And sure enough a large corporation is looking to buy out the island oust the inhabitants and use it for their own money making schemes. Can you as Leo beat them to the treasures of the deep and foil their plans? 
  
 You explore the ocean in first person using radar to find valuables. This radar works by bleeping faster and faster until you are directly on your target. Apart from open ocean you enter sunken ships and even a crashed airplane, sometime for treasure sometimes for jobs given to your on shore. By collecting these items you can improve your gear and bring your Ocean exploration to new levels.  
  
 You are given both HP and Air meters as you travel under water if if your Air runs out your HP will go down and the end is sure to follow. 
  
 Any part of the game that deals with its story takes place on land in a first person point and click environment.</desc>
-    <rating>0.75</rating>
-    <releasedate>20030306T000000</releasedate>
-    <developer>Arika</developer>
-    <publisher>Capcom</publisher>
-    <genre>Adventure</genre>
-    <players>1</players>
-    <image>./mixart/Everblue 2.png</image>
-    <marquee>./wheel/Everblue 2.png</marquee>
-    <video>./snap/Everblue 2.mp4</video>
-    <genreid>512</genreid>
-  </game>
-  <game id="22587" source="ScreenScraper.fr">
-    <path>./Evergrace (USA).gz</path>
-    <name>Evergrace</name>
-    <desc>Evergrace is very basic, Japanese action RPG. As usual, player controls a young hero who eventually will save the world from the clutches of evil. The story takes two roads of two different heroes who run around fields killing monsters in real time action a bit like in Zelda games. The hook in this game, or not so much of a hook, but the thing that separates it from most of other RPG is that the characters don't level up. The power of character is measured by his equipment so when you get a better sword, you kinda level up that way. The weapons and equipment are also customizable so if you like playing with your tools, this is the game for you. This was the first RPG to appear on PS2 in Europe.</desc>
-    <rating>0.55</rating>
-    <releasedate>20001026T000000</releasedate>
-    <developer>Crave Entertainment</developer>
-    <publisher>From Software</publisher>
-    <genre>Adventure-Role playing games</genre>
-    <players>1</players>
-    <image>./mixart/Evergrace (USA).png</image>
-    <marquee>./wheel/Evergrace (USA).png</marquee>
-    <video>./snap/Evergrace (USA).mp4</video>
-    <genreid>512</genreid>
-  </game>
-  <game id="23943" source="ScreenScraper.fr">
-    <path>./ExZeus (Europe).gz</path>
-    <name>ExZeus</name>
-    <desc>In 2102 C.E., a giant asteroid enters Earth's orbit, and inside is a horde of aliens led by the entity Diadora, unleashing an invasion on mankind. Hiding deep underground, the surviving rebels create three experimental robots, Sophia, Calista and Dynamis, to combat Diadora's army, the objective codenamed "Operation ExZeus". These three robots are humanity's last hope. 
+		<rating>0.75</rating>
+		<releasedate>20030306T000000</releasedate>
+		<developer>Arika</developer>
+		<publisher>Capcom</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./mixart/Everblue 2.png</image>
+		<marquee>./wheel/Everblue 2.png</marquee>
+		<video>./snap/Everblue 2.mp4</video>
+		<genreid>512</genreid>
+	</game>
+	<game id="22587" source="ScreenScraper.fr">
+		<path>./Evergrace (USA).gz</path>
+		<name>Evergrace</name>
+		<desc>Evergrace is very basic, Japanese action RPG. As usual, player controls a young hero who eventually will save the world from the clutches of evil. The story takes two roads of two different heroes who run around fields killing monsters in real time action a bit like in Zelda games. The hook in this game, or not so much of a hook, but the thing that separates it from most of other RPG is that the characters don't level up. The power of character is measured by his equipment so when you get a better sword, you kinda level up that way. The weapons and equipment are also customizable so if you like playing with your tools, this is the game for you. This was the first RPG to appear on PS2 in Europe.</desc>
+		<rating>0.55</rating>
+		<releasedate>20001026T000000</releasedate>
+		<developer>Crave Entertainment</developer>
+		<publisher>From Software</publisher>
+		<genre>Adventure-Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Evergrace (USA).png</image>
+		<marquee>./wheel/Evergrace (USA).png</marquee>
+		<video>./snap/Evergrace (USA).mp4</video>
+		<genreid>512</genreid>
+	</game>
+	<game id="23943" source="ScreenScraper.fr">
+		<path>./ExZeus (Europe).gz</path>
+		<name>ExZeus</name>
+		<desc>In 2102 C.E., a giant asteroid enters Earth's orbit, and inside is a horde of aliens led by the entity Diadora, unleashing an invasion on mankind. Hiding deep underground, the surviving rebels create three experimental robots, Sophia, Calista and Dynamis, to combat Diadora's army, the objective codenamed "Operation ExZeus". These three robots are humanity's last hope. 
  
 ExZeus is an on-rails arcade shooter in a third-person perspective. The player can move in all directions while progressing forward, shooting enemies and collecting power-ups and gold. The player has the ability to lock onto enemies and fire powerful missiles at them, and also has a laser (which recharges by itself after every use) they can launch by holding down the fire button. The player can also send out nuclear bombs that destroy all of the enemies on screen, which can also be used to help with bosses. 
  
 At the end of every level, the player faces a boss. Before the fight begins, a screen will display the weaknesses of that boss. Successfully defeating a boss will bring the player to the item shop, where they can buy items to power up their robot, and then proceed to the next level.</desc>
-    <rating>0.35</rating>
-    <releasedate>20041022T000000</releasedate>
-    <developer>Hyper-Devbox</developer>
-    <publisher>Conspiracy Entertainment</publisher>
-    <genre>Lightgun Shooter</genre>
-    <players>1</players>
-    <image>./mixart/ExZeus (Europe).png</image>
-    <marquee>./wheel/ExZeus (Europe).png</marquee>
-    <video>./snap/ExZeus (Europe).mp4</video>
-    <genreid>261</genreid>
-  </game>
-  <game id="21879" source="ScreenScraper.fr">
-    <path>./Final Fantasy X-2 (USA).gz</path>
-    <name>Final Fantasy X-2</name>
-    <desc>The game's story follows the character Yuna from Final Fantasy X as she seeks to resolve political conflicts in the fictional world of Spira before it leads to war. 
+		<rating>0.35</rating>
+		<releasedate>20041022T000000</releasedate>
+		<developer>Hyper-Devbox</developer>
+		<publisher>Conspiracy Entertainment</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>1</players>
+		<image>./mixart/ExZeus (Europe).png</image>
+		<marquee>./wheel/ExZeus (Europe).png</marquee>
+		<video>./snap/ExZeus (Europe).mp4</video>
+		<genreid>261</genreid>
+	</game>
+	<game id="21879" source="ScreenScraper.fr">
+		<path>./Final Fantasy X-2 (USA).gz</path>
+		<name>Final Fantasy X-2</name>
+		<desc>The game's story follows the character Yuna from Final Fantasy X as she seeks to resolve political conflicts in the fictional world of Spira before it leads to war. 
  
 The story begins as Yuna, Rikku and Paine recover Yuna's stolen Garment Grid from the Leblanc Syndicate in the first of several encounters in which they vie for spheres. The game is punctuated by a narration of Yuna addressing Tidus, as though she is recounting the events of the game to him as they occur in a style reminiscent of Tidus' own narration in Final Fantasy X. Although Yuna's quest is to find clues that may lead her to Tidus, much of the storyline of the game follows the clash of the factions that have established themselves in the time since the coming of the Eternal Calm in Final Fantasy X, and the uncovering of hidden legacies from Spira's ancient history. A significant portion of the game's events are unnecessary for the completion of the main storyline, but much of the depth of the story?including characterization and background details?are featured in the optional content, which generally follows how each part of Spira is healing in the time since the passing of Sin.</desc>
-    <rating>0.75</rating>
-    <releasedate>20031118T000000</releasedate>
-    <developer>Square Enix</developer>
-    <publisher>Square Enix</publisher>
-    <genre>Role playing games</genre>
-    <players>1</players>
-    <image>./mixart/Final Fantasy X-2 (USA).png</image>
-    <marquee>./wheel/Final Fantasy X-2 (USA).png</marquee>
-    <video>./snap/Final Fantasy X-2 (USA).mp4</video>
-    <genreid>768</genreid>
-  </game>
-  <game id="21884" source="ScreenScraper.fr">
-    <path>./Final Fantasy XII (USA).gz</path>
-    <name>Final Fantasy XII</name>
-    <desc>The game takes place in the fictional location of Ivalice, where the empires of Archadia and Rozarria are waging an endless war. Dalmasca, a small kingdom, is caught between the warring nations. When Dalmasca becomes annexed by Archadia, its princess, Ashe, creates a resistance movement. During the struggle, she meets Vaan, a young adventurer who dreams of commanding an airship. They are quickly joined by a band of allies; together, they rally against the tyranny of the Archadian Empire.</desc>
-    <rating>0.85</rating>
-    <releasedate>20061031T000000</releasedate>
-    <developer>Square Enix</developer>
-    <publisher>Square Enix</publisher>
-    <genre>Role playing games</genre>
-    <players>1</players>
-    <image>./mixart/Final Fantasy XII (USA).png</image>
-    <marquee>./wheel/Final Fantasy XII (USA).png</marquee>
-    <video>./snap/Final Fantasy XII (USA).mp4</video>
-    <genreid>768</genreid>
-  </game>
-  <game id="21915" source="ScreenScraper.fr">
-    <path>./Grand Theft Auto - Vice City Stories (USA).gz</path>
-    <name>Grand Theft Auto : Vice City Stories</name>
-    <desc>Vice City Stories is a prequel to Grand Theft Auto: Vice City (2 years earlier) and it is the sequel to Grand Theft Auto: Liberty City Stories. Set in 1984, players take on the role of Vic Vance, an army soldier who loves his country, family, and himself. One bad decision turns everything around and he is kicked onto the streets of a tough city. He has to build an empire to survive, or be left to die. Together with his brother Lance, a drug addict, the siblings try to take over Vice City. 
+		<rating>0.75</rating>
+		<releasedate>20031118T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Final Fantasy X-2 (USA).png</image>
+		<marquee>./wheel/Final Fantasy X-2 (USA).png</marquee>
+		<video>./snap/Final Fantasy X-2 (USA).mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="21884" source="ScreenScraper.fr">
+		<path>./Final Fantasy XII (USA).gz</path>
+		<name>Final Fantasy XII</name>
+		<desc>The game takes place in the fictional location of Ivalice, where the empires of Archadia and Rozarria are waging an endless war. Dalmasca, a small kingdom, is caught between the warring nations. When Dalmasca becomes annexed by Archadia, its princess, Ashe, creates a resistance movement. During the struggle, she meets Vaan, a young adventurer who dreams of commanding an airship. They are quickly joined by a band of allies; together, they rally against the tyranny of the Archadian Empire.</desc>
+		<rating>0.85</rating>
+		<releasedate>20061031T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Final Fantasy XII (USA).png</image>
+		<marquee>./wheel/Final Fantasy XII (USA).png</marquee>
+		<video>./snap/Final Fantasy XII (USA).mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="21915" source="ScreenScraper.fr">
+		<path>./Grand Theft Auto - Vice City Stories (USA).gz</path>
+		<name>Grand Theft Auto : Vice City Stories</name>
+		<desc>Vice City Stories is a prequel to Grand Theft Auto: Vice City (2 years earlier) and it is the sequel to Grand Theft Auto: Liberty City Stories. Set in 1984, players take on the role of Vic Vance, an army soldier who loves his country, family, and himself. One bad decision turns everything around and he is kicked onto the streets of a tough city. He has to build an empire to survive, or be left to die. Together with his brother Lance, a drug addict, the siblings try to take over Vice City. 
  
 Just like other GTA titles, gameplay consists of third-person shooting and driving sequences in an open environment. You will meet new enemies and gangs, and old foes. The missions require you to kill with a selection of weapons, steal vehicles such as a car, a boat, or a plane, rob to make it big, or just to have fun.</desc>
-    <rating>0.75</rating>
-    <releasedate>20070305T000000</releasedate>
-    <developer>Rockstar Games</developer>
-    <publisher>Take 2 Interactive</publisher>
-    <genre>Race, Driving</genre>
-    <players>1</players>
-    <image>./mixart/Grand Theft Auto - Vice City Stories (USA).png</image>
-    <marquee>./wheel/Grand Theft Auto - Vice City Stories (USA).png</marquee>
-    <video>./snap/Grand Theft Auto - Vice City Stories (USA).mp4</video>
-    <genreid>1537</genreid>
-  </game>
-  <game id="22254" source="ScreenScraper.fr">
-    <path>./Grandia III (USA) (Disc 1).gz</path>
-    <name>Grandia III (Disc 1)</name>
-    <desc>The longstanding RPG series returns to PlayStation 2 in this skyward-bound sequel. Players begin in the role of a young man named Yuki, who dreams of becoming an airplane pilot. He soon meets Alfina, a gifted "Communicator" who can actually speak with the "Guardian" gods who protect the world, but who faces some troubles in her own family. The two soon realize that the lands they love are on the brink of destruction, and that together, they may the save the good people of the world and shape its future for generations to come. Grandia III features an enhanced version of the series' distinct battle system, which is designed to combine the tactical empowerment of turn-based decision-making with the immediacy and urgency of real-time battle.</desc>
-    <rating>0.8</rating>
-    <releasedate>20060214T000000</releasedate>
-    <developer>Square Enix</developer>
-    <publisher>Game Arts</publisher>
-    <genre>Role playing games</genre>
-    <players>1</players>
-    <image>./mixart/Grandia III (USA) (Disc 1).png</image>
-    <marquee>./wheel/Grandia III (USA) (Disc 2).png</marquee>
-    <video>./snap/Grandia III (USA) (Disc 2).mp4</video>
-    <genreid>768</genreid>
-  </game>
-  <game id="22254" source="ScreenScraper.fr">
-    <path>./Grandia III (USA) (Disc 2).gz</path>
-    <name>Grandia III (Disc 2)</name>
-    <desc>The longstanding RPG series returns to PlayStation 2 in this skyward-bound sequel. Players begin in the role of a young man named Yuki, who dreams of becoming an airplane pilot. He soon meets Alfina, a gifted "Communicator" who can actually speak with the "Guardian" gods who protect the world, but who faces some troubles in her own family. The two soon realize that the lands they love are on the brink of destruction, and that together, they may the save the good people of the world and shape its future for generations to come. Grandia III features an enhanced version of the series' distinct battle system, which is designed to combine the tactical empowerment of turn-based decision-making with the immediacy and urgency of real-time battle.</desc>
-    <rating>0.8</rating>
-    <releasedate>20060214T000000</releasedate>
-    <developer>Square Enix</developer>
-    <publisher>Game Arts</publisher>
-    <genre>Role playing games</genre>
-    <players>1</players>
-    <image>./mixart/Grandia III (USA) (Disc 2).png</image>
-    <marquee>./wheel/Grandia III (USA) (Disc 2).png</marquee>
-    <video>./snap/Grandia III (USA) (Disc 2).mp4</video>
-    <genreid>768</genreid>
-  </game>
-  <game id="22479" source="ScreenScraper.fr">
-    <path>./Headhunter - Redemption (USA).gz</path>
-    <name>Headhunter : Redemption</name>
-    <desc>As bounty hunters in a disturbing future, players must sneak by, strong-arm, and shoot down those who would flee from justice. This action-adventure is built upon the story and gameplay of the original Headhunter (also developed by Amuze), released in 2001 for European Dreamcasts and ported to North American PS2s the following year. Unlike the original, however, Headhunter: Redemption offers two main characters and two different, urban game worlds for them to patrol and protect. 
+		<rating>0.75</rating>
+		<releasedate>20070305T000000</releasedate>
+		<developer>Rockstar Games</developer>
+		<publisher>Take 2 Interactive</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<image>./mixart/Grand Theft Auto - Vice City Stories (USA).png</image>
+		<marquee>./wheel/Grand Theft Auto - Vice City Stories (USA).png</marquee>
+		<video>./snap/Grand Theft Auto - Vice City Stories (USA).mp4</video>
+		<genreid>1537</genreid>
+	</game>
+	<game id="22254" source="ScreenScraper.fr">
+		<path>./Grandia III (USA) (Disc 1).gz</path>
+		<name>Grandia III (Disc 1)</name>
+		<desc>The longstanding RPG series returns to PlayStation 2 in this skyward-bound sequel. Players begin in the role of a young man named Yuki, who dreams of becoming an airplane pilot. He soon meets Alfina, a gifted "Communicator" who can actually speak with the "Guardian" gods who protect the world, but who faces some troubles in her own family. The two soon realize that the lands they love are on the brink of destruction, and that together, they may the save the good people of the world and shape its future for generations to come. Grandia III features an enhanced version of the series' distinct battle system, which is designed to combine the tactical empowerment of turn-based decision-making with the immediacy and urgency of real-time battle.</desc>
+		<rating>0.8</rating>
+		<releasedate>20060214T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Game Arts</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Grandia III (USA) (Disc 1).png</image>
+		<marquee>./wheel/Grandia III (USA) (Disc 2).png</marquee>
+		<video>./snap/Grandia III (USA) (Disc 2).mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="22254" source="ScreenScraper.fr">
+		<path>./Grandia III (USA) (Disc 2).gz</path>
+		<name>Grandia III (Disc 2)</name>
+		<desc>The longstanding RPG series returns to PlayStation 2 in this skyward-bound sequel. Players begin in the role of a young man named Yuki, who dreams of becoming an airplane pilot. He soon meets Alfina, a gifted "Communicator" who can actually speak with the "Guardian" gods who protect the world, but who faces some troubles in her own family. The two soon realize that the lands they love are on the brink of destruction, and that together, they may the save the good people of the world and shape its future for generations to come. Grandia III features an enhanced version of the series' distinct battle system, which is designed to combine the tactical empowerment of turn-based decision-making with the immediacy and urgency of real-time battle.</desc>
+		<rating>0.8</rating>
+		<releasedate>20060214T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Game Arts</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Grandia III (USA) (Disc 2).png</image>
+		<marquee>./wheel/Grandia III (USA) (Disc 2).png</marquee>
+		<video>./snap/Grandia III (USA) (Disc 2).mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="22479" source="ScreenScraper.fr">
+		<path>./Headhunter - Redemption (USA).gz</path>
+		<name>Headhunter : Redemption</name>
+		<desc>As bounty hunters in a disturbing future, players must sneak by, strong-arm, and shoot down those who would flee from justice. This action-adventure is built upon the story and gameplay of the original Headhunter (also developed by Amuze), released in 2001 for European Dreamcasts and ported to North American PS2s the following year. Unlike the original, however, Headhunter: Redemption offers two main characters and two different, urban game worlds for them to patrol and protect. 
  
  Played primarily from a third-person perspective, Redemption has players taking the role of either headhunter veteran Jack Wade or his new associate, a punky street kid called Leeza X. Acting as a force for order, the two will travel to the city's wealthy, well-lit "Above," as well as its dark and downtrodden "Below," to enforce a justice once common to both of these two, disparate places. 
 </desc>
-    <rating>0.75</rating>
-    <releasedate>20040921T000000</releasedate>
-    <developer>SEGA</developer>
-    <publisher>Amuze AB</publisher>
-    <genre>Action-Adventure</genre>
-    <players>1</players>
-    <image>./mixart/Headhunter - Redemption (USA).png</image>
-    <marquee>./wheel/Headhunter - Redemption (USA).png</marquee>
-    <video>./snap/Headhunter - Redemption (USA).mp4</video>
-    <genreid>512</genreid>
-  </game>
-  <game id="22414" source="ScreenScraper.fr">
-    <path>./Headhunter (USA).gz</path>
-    <name>Headhunter</name>
-    <desc>Enter a dark future where bounty hunters rule the streets and human organs are the preferred currency. Take the role of Jack Wade, a man whose memory has been stolen. Follow a story of violence and mystery in a quest to bring heartless killers to justice. The action takes place from both first- and third-person perspectives, in 3D locations ranging from seedy biker bars to futuristic laboratories. Headhunter is one of two Dreamcast games ported to the PS2 by Acclaim in 2002. Along with Ecco the Dolphin: Defender of the Future, this title has been optimized in its move to the Sony console. 
+		<rating>0.75</rating>
+		<releasedate>20040921T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>Amuze AB</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./mixart/Headhunter - Redemption (USA).png</image>
+		<marquee>./wheel/Headhunter - Redemption (USA).png</marquee>
+		<video>./snap/Headhunter - Redemption (USA).mp4</video>
+		<genreid>512</genreid>
+	</game>
+	<game id="22414" source="ScreenScraper.fr">
+		<path>./Headhunter (USA).gz</path>
+		<name>Headhunter</name>
+		<desc>Enter a dark future where bounty hunters rule the streets and human organs are the preferred currency. Take the role of Jack Wade, a man whose memory has been stolen. Follow a story of violence and mystery in a quest to bring heartless killers to justice. The action takes place from both first- and third-person perspectives, in 3D locations ranging from seedy biker bars to futuristic laboratories. Headhunter is one of two Dreamcast games ported to the PS2 by Acclaim in 2002. Along with Ecco the Dolphin: Defender of the Future, this title has been optimized in its move to the Sony console. 
  Welcome to the future. In the early 21st century, gang warfare and crime have lead to the creation of privatised law enforcement. The Anti-Crime Network (ACN) employs bounty hunters known as ?Headhunters? to track down the most wanted criminals, using combat skills and high-tech weaponry.</desc>
-    <rating>0.75</rating>
-    <releasedate>20020515T000000</releasedate>
-    <developer>SEGA</developer>
-    <publisher>Amuze AB</publisher>
-    <genre>Action-Adventure</genre>
-    <players>1</players>
-    <image>./mixart/Headhunter (USA).png</image>
-    <marquee>./wheel/Headhunter (USA).png</marquee>
-    <video>./snap/Headhunter (USA).mp4</video>
-    <genreid>512</genreid>
-  </game>
-  <game id="22035" source="ScreenScraper.fr">
-    <path>./Jak and Daxter - The Lost Frontier (USA) (En,Fr,Es).gz</path>
-    <name>Jak and Daxter : The Lost Frontier</name>
-    <desc>When their world begins to run out of Eco, Jak and Keira travel to the edge of the world in search of the ancient Precursor machinery that could reverse the planet's decline. They're not the only interested factions out on the Brink, however; Jak must contend with Sky Pirates while struggling to control his own Eco powers.</desc>
-    <rating>0.45</rating>
-    <releasedate>20091103T000000</releasedate>
-    <developer>Sony</developer>
-    <publisher>High Impact Games</publisher>
-    <genre>Platform</genre>
-    <players>1</players>
-    <image>./mixart/Jak and Daxter - The Lost Frontier (USA) (En,Fr,Es).png</image>
-    <marquee>./wheel/Jak and Daxter - The Lost Frontier (USA) (En,Fr,Es).png</marquee>
-    <video>./snap/Jak and Daxter - The Lost Frontier (USA) (En,Fr,Es).mp4</video>
-    <genreid>257</genreid>
-  </game>
-  <game id="22020" source="ScreenScraper.fr">
-    <path>./Jak X - Combat Racing (USA) (En,Fr,De,Es,It,Pt,Ru).gz</path>
-    <name>Jak X : Combat Racing</name>
-    <desc>Developer Naughty Dog takes the popular Jak and Daxter franchise in a new direction, as players will test Jak's lead foot in Jak X: Combat Racing. Summoned to Kras City to hear the reading of Krew's will, the duo find that they have been thrust into a deadly plot where everyone present at the reading has been unknowingly poisoned. In order for the antidote to be administered in time, Jak and Daxter must race in the Kras City Grand Championship. 
- Featuring over a dozen customizable vehicles designed with unique handling characteristics, players will race their "whip" through 20 tracks in eight different terrain arenas. With an assortment of power-ups available, including projectile weapons, mines, ranged weapons, turbo boosts, shields, and smart bombs, players should have the means necessary to ensure they're the first (and last) to cross the finish line.</desc>
-    <rating>0.8</rating>
-    <releasedate>20051109T000000</releasedate>
-    <developer>Naughty Dog</developer>
-    <publisher>Sony</publisher>
-    <genre>Race, Driving</genre>
-    <players>2-6</players>
-    <image>./mixart/Jak X - Combat Racing (USA) (En,Fr,De,Es,It,Pt,Ru).png</image>
-    <marquee>./wheel/Jak X - Combat Racing (USA) (En,Fr,De,Es,It,Pt,Ru).png</marquee>
-	<video>./snap/Jak X - Combat Racing (USA) (En,Fr,De,Es,It,Pt,Ru).mp4</video>
-    <genreid>1537</genreid>
-  </game>
-  <game id="22134" source="ScreenScraper.fr">
-    <path>./Just Cause (USA) (En,Fr,Es).gz</path>
-    <name>Just Cause</name>
-    <desc>Swedish developer Avalanche Studios' first in-house development project is a 3D action-adventure starring a U.S. operative named Rico Rodriguez. Just Cause has Rodriguez attempting to overthrow a fictitious South American island's regime by instigating a revolution. Players will accomplish this by working with citizens, political factions, rebels, and even drug cartels in a series of explosive operations. 
+		<rating>0.75</rating>
+		<releasedate>20020515T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>Amuze AB</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<image>./mixart/Headhunter (USA).png</image>
+		<marquee>./wheel/Headhunter (USA).png</marquee>
+		<video>./snap/Headhunter (USA).mp4</video>
+		<genreid>512</genreid>
+	</game>
+	<game id="22035" source="ScreenScraper.fr">
+		<path>./Jak and Daxter - The Lost Frontier (USA) (En,Fr,Es).gz</path>
+		<name>Jak and Daxter : The Lost Frontier</name>
+		<desc>When their world begins to run out of Eco, Jak and Keira travel to the edge of the world in search of the ancient Precursor machinery that could reverse the planet's decline. They're not the only interested factions out on the Brink, however; Jak must contend with Sky Pirates while struggling to control his own Eco powers.</desc>
+		<rating>0.45</rating>
+		<releasedate>20091103T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>High Impact Games</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<image>./mixart/Jak and Daxter - The Lost Frontier (USA) (En,Fr,Es).png</image>
+		<marquee>./wheel/Jak and Daxter - The Lost Frontier (USA) (En,Fr,Es).png</marquee>
+		<video>./snap/Jak and Daxter - The Lost Frontier (USA) (En,Fr,Es).mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="22134" source="ScreenScraper.fr">
+		<path>./Just Cause (USA) (En,Fr,Es).gz</path>
+		<name>Just Cause</name>
+		<desc>Swedish developer Avalanche Studios' first in-house development project is a 3D action-adventure starring a U.S. operative named Rico Rodriguez. Just Cause has Rodriguez attempting to overthrow a fictitious South American island's regime by instigating a revolution. Players will accomplish this by working with citizens, political factions, rebels, and even drug cartels in a series of explosive operations. 
  In the tradition of games like Grand Theft Auto: San Andreas, Just Cause features a free form world with an estimated 250,000 acres of territory to traverse by plane, car, boat, or in some cases, parachute. Since the island of San Esperito is filled with cities, towns, resorts, jungles, and mountains, players can acquire more than 100 vehicles throughout their tumultuous stay. The main storyline includes over 20 missions with objectives that can be accomplished by any number of means. Hundreds of side and bonus missions are also available for fun or profit, with stunt challenges like parasailing, vehicle leaping, or skydiving part of the itinerary for tropical thrill-seekers. 
 </desc>
-    <rating>0.65</rating>
-    <releasedate>20060926T000000</releasedate>
-    <publisher>Eidos Interactive</publisher>
-    <genre>Race, Driving-Action</genre>
-    <players>1</players>
-    <image>./mixart/Just Cause (USA) (En,Fr,Es).png</image>
-    <marquee>./wheel/Just Cause (USA) (En,Fr,Es).png</marquee>
-    <video>./snap/Just Cause (USA) (En,Fr,Es).mp4</video>
-    <genreid>1537</genreid>
-  </game>
-  <game id="22634" source="ScreenScraper.fr">
-    <path>./Kengo - Master of Bushido (USA).gz</path>
-    <name>Kengo : Master of Bushido</name>
-    <desc>The unofficial third title in the Bushido Blade series, Kengo: Master of Bushido brings the first sword-fighting simulation to the PlayStation 2. Developed by Lightweight, the third installment of the series changes the pace of the game with the addition of life bars and "combo" special attacks. 
+		<rating>0.65</rating>
+		<releasedate>20060926T000000</releasedate>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Race, Driving-Action</genre>
+		<players>1</players>
+		<image>./mixart/Just Cause (USA) (En,Fr,Es).png</image>
+		<marquee>./wheel/Just Cause (USA) (En,Fr,Es).png</marquee>
+		<video>./snap/Just Cause (USA) (En,Fr,Es).mp4</video>
+		<genreid>1537</genreid>
+	</game>
+	<game id="22634" source="ScreenScraper.fr">
+		<path>./Kengo - Master of Bushido (USA).gz</path>
+		<name>Kengo : Master of Bushido</name>
+		<desc>The unofficial third title in the Bushido Blade series, Kengo: Master of Bushido brings the first sword-fighting simulation to the PlayStation 2. Developed by Lightweight, the third installment of the series changes the pace of the game with the addition of life bars and "combo" special attacks. 
  While the predecessors focused on the same style of swordplay, the victor of the battles was unclear until the very end. The addition of life-bars specifically steers this title more towards arcade than simulation. Kengo: Master of Bushido introduces several different modes of play including a practice mode and a character story mode.</desc>
-    <rating>0.8</rating>
-    <releasedate>20010103T000000</releasedate>
-    <developer>Light Weight</developer>
-    <publisher>Ubisoft</publisher>
-    <genre>Fight</genre>
-    <players>2</players>
-    <image>./mixart/Kengo - Master of Bushido (USA).png</image>
-    <marquee>./wheel/Kengo - Master of Bushido (USA).png</marquee>
-    <video>./snap/Kengo - Master of Bushido (USA).mp4</video>
-    <genreid>262</genreid>
-  </game>
-  <game id="22371" source="ScreenScraper.fr">
-    <path>./Kessen III (USA).gz</path>
-    <name>Kessen III</name>
-    <desc>In Kessen III the player takes control of Nobunaga Oda, and unlike the previous two games, you cannot choose a side to play on, and Nobunaga has one goal only... to unify the lands and rid his world of misery and suffering. 
+		<rating>0.8</rating>
+		<releasedate>20010103T000000</releasedate>
+		<developer>Light Weight</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<image>./mixart/Kengo - Master of Bushido (USA).png</image>
+		<marquee>./wheel/Kengo - Master of Bushido (USA).png</marquee>
+		<video>./snap/Kengo - Master of Bushido (USA).mp4</video>
+		<genreid>262</genreid>
+	</game>
+	<game id="22371" source="ScreenScraper.fr">
+		<path>./Kessen III (USA).gz</path>
+		<name>Kessen III</name>
+		<desc>In Kessen III the player takes control of Nobunaga Oda, and unlike the previous two games, you cannot choose a side to play on, and Nobunaga has one goal only... to unify the lands and rid his world of misery and suffering. 
  
 Following the prequels, this game comes with lots of cinematics and stays true to strategic as well as action gameplay, adding a few new things along the road, like collecting items during battles. 
  
 The two main aspects of this game are planning and engaging in battle. Select officers and strategically place them on the field of battle, assign commands and issue orders. When on the battlefield, each of the officers, including Nobunaga, will have his/her army at their disposal which can be controlled at any point. Level-ups bring additional special attacks to both officers and their troops.</desc>
-    <rating>0.85</rating>
-    <releasedate>20050429T000000</releasedate>
-    <developer>Koei</developer>
-    <publisher>Koei</publisher>
-    <genre>Strategy</genre>
-    <players>1</players>
-    <image>./mixart/Kessen III (USA).png</image>
-    <marquee>./wheel/Kessen III (USA).png</marquee>
-    <video>./snap/Kessen III (USA).mp4</video>
-    <genreid>1280</genreid>
-  </game>
-  <game id="22334" source="ScreenScraper.fr">
-    <path>./Marvel - Ultimate Alliance 2 (USA).gz</path>
-    <name>Marvel : Ultimate Alliance 2</name>
-    <desc>The Marvel Universe is being torn apart. The Superhuman Registration Act becomes law and Super Heroes must register as weapons of mass destruction, becoming licensed government agents. As Civil War is stirred, Iron Man leads the Pro-Registration side while Captain America spearheads the stand on Anti-Registration. The enemies you battle and the missions you accomplish depend on which side you choose. Join up with three other friends as you choose a super hero and combine powers for "Fusion" attacks.</desc>
-    <rating>0.45</rating>
-    <releasedate>20091009T000000</releasedate>
-    <developer>Activision</developer>
-    <publisher>Vicarious Visions</publisher>
-    <genre>Role playing games</genre>
-    <image>./mixart/Marvel - Ultimate Alliance 2 (USA).png</image>
-    <marquee>./wheel/Marvel - Ultimate Alliance 2 (USA).png</marquee>
-    <video>./snap/Marvel - Ultimate Alliance 2 (USA).mp4</video>
-    <genreid>768</genreid>
-  </game>
-  <game id="22078" source="ScreenScraper.fr">
-    <path>./Onimusha - Dawn of Dreams (USA) (En,Ja) (Disc 1).gz</path>
-    <name>Onimusha : Dawn of Dreams</name>
-    <desc>Onimusha: Dawn of Dreams is the latest installment in Capcom's third-person action franchise. You play as Soki, a young and powerful warrior who, with the help of some friends, attempts to defeat the evil Hideyoshi and the Genma forces. There are new characters, artificial intelligence-controlled secondary characters, and a new gameplay system that lets you take control of various characters throughout the game. In addition, you will be able to customize your character, weapons, and attacks. 
+		<rating>0.85</rating>
+		<releasedate>20050429T000000</releasedate>
+		<developer>Koei</developer>
+		<publisher>Koei</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<image>./mixart/Kessen III (USA).png</image>
+		<marquee>./wheel/Kessen III (USA).png</marquee>
+		<video>./snap/Kessen III (USA).mp4</video>
+		<genreid>1280</genreid>
+	</game>
+	<game id="22334" source="ScreenScraper.fr">
+		<path>./Marvel - Ultimate Alliance 2 (USA).gz</path>
+		<name>Marvel : Ultimate Alliance 2</name>
+		<desc>The Marvel Universe is being torn apart. The Superhuman Registration Act becomes law and Super Heroes must register as weapons of mass destruction, becoming licensed government agents. As Civil War is stirred, Iron Man leads the Pro-Registration side while Captain America spearheads the stand on Anti-Registration. The enemies you battle and the missions you accomplish depend on which side you choose. Join up with three other friends as you choose a super hero and combine powers for "Fusion" attacks.</desc>
+		<rating>0.45</rating>
+		<releasedate>20091009T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Vicarious Visions</publisher>
+		<genre>Role playing games</genre>
+		<image>./mixart/Marvel - Ultimate Alliance 2 (USA).png</image>
+		<marquee>./wheel/Marvel - Ultimate Alliance 2 (USA).png</marquee>
+		<video>./snap/Marvel - Ultimate Alliance 2 (USA).mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="22078" source="ScreenScraper.fr">
+		<path>./Onimusha - Dawn of Dreams (USA) (En,Ja) (Disc 1).gz</path>
+		<name>Onimusha : Dawn of Dreams</name>
+		<desc>Onimusha: Dawn of Dreams is the latest installment in Capcom's third-person action franchise. You play as Soki, a young and powerful warrior who, with the help of some friends, attempts to defeat the evil Hideyoshi and the Genma forces. There are new characters, artificial intelligence-controlled secondary characters, and a new gameplay system that lets you take control of various characters throughout the game. In addition, you will be able to customize your character, weapons, and attacks. 
  
 You have to enter a code to unlock 2 player mode. At the title screen, both players hold R1+R2+L1+L2. Then the 2nd player press START, and there will have sound effect if the code is entered successfully.</desc>
-    <rating>0.85</rating>
-    <releasedate>20060316T000000</releasedate>
-    <developer>Capcom</developer>
-    <publisher>Capcom</publisher>
-    <genre>Beat'em Up</genre>
-    <players>1</players>
-    <image>./mixart/Onimusha - Dawn of Dreams (USA) (En,Ja) (Disc 1).png</image>
-    <marquee>./wheel/Onimusha - Dawn of Dreams (USA) (En,Ja) (Disc 1).png</marquee>
-    <video>./snap/Onimusha - Dawn of Dreams (USA) (En,Ja) (Disc 1).mp4</video>
-    <genreid>263</genreid>
-  </game>
-  <game id="22078" source="ScreenScraper.fr">
-    <path>./Onimusha - Dawn of Dreams (USA) (En,Ja) (Disc 2).gz</path>
-    <name>Onimusha : Dawn of Dreams</name>
-    <desc>Onimusha: Dawn of Dreams is the latest installment in Capcom's third-person action franchise. You play as Soki, a young and powerful warrior who, with the help of some friends, attempts to defeat the evil Hideyoshi and the Genma forces. There are new characters, artificial intelligence-controlled secondary characters, and a new gameplay system that lets you take control of various characters throughout the game. In addition, you will be able to customize your character, weapons, and attacks. 
+		<rating>0.85</rating>
+		<releasedate>20060316T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<image>./mixart/Onimusha - Dawn of Dreams (USA) (En,Ja) (Disc 1).png</image>
+		<marquee>./wheel/Onimusha - Dawn of Dreams (USA) (En,Ja) (Disc 1).png</marquee>
+		<video>./snap/Onimusha - Dawn of Dreams (USA) (En,Ja) (Disc 1).mp4</video>
+		<genreid>263</genreid>
+	</game>
+	<game id="22078" source="ScreenScraper.fr">
+		<path>./Onimusha - Dawn of Dreams (USA) (En,Ja) (Disc 2).gz</path>
+		<name>Onimusha : Dawn of Dreams</name>
+		<desc>Onimusha: Dawn of Dreams is the latest installment in Capcom's third-person action franchise. You play as Soki, a young and powerful warrior who, with the help of some friends, attempts to defeat the evil Hideyoshi and the Genma forces. There are new characters, artificial intelligence-controlled secondary characters, and a new gameplay system that lets you take control of various characters throughout the game. In addition, you will be able to customize your character, weapons, and attacks. 
  
 You have to enter a code to unlock 2 player mode. At the title screen, both players hold R1+R2+L1+L2. Then the 2nd player press START, and there will have sound effect if the code is entered successfully.</desc>
-    <rating>0.85</rating>
-    <releasedate>20060316T000000</releasedate>
-    <developer>Capcom</developer>
-    <publisher>Capcom</publisher>
-    <genre>Beat'em Up</genre>
-    <players>1</players>
-    <image>./mixart/Onimusha - Dawn of Dreams (USA) (En,Ja) (Disc 2).png</image>
-    <marquee>./wheel/Onimusha - Dawn of Dreams (USA) (En,Ja) (Disc 1).png</marquee>
-    <video>./snap/Onimusha - Dawn of Dreams (USA) (En,Ja) (Disc 1).mp4</video>
-    <genreid>263</genreid>
-  </game>
-  <game id="22824" source="ScreenScraper.fr">
-    <path>./Project Eden (USA).gz</path>
-    <name>Project Eden</name>
-    <desc>Project Eden est un jeu d'action sur Playstation 2. Vous incarnez une équipe de 4 membres de l'UPA, l'agence de protection urbaine. Vous devez faire bon usage de vos compétences et de votre équipement pour vous frayez un chemin vers les profondeurs d'une mégapole dont les fondations sont soumises à rude épreuve.</desc>
-    <rating>0.8</rating>
-    <releasedate>20011102T000000</releasedate>
-    <developer>Eidos Interactive</developer>
-    <publisher>Core Design</publisher>
-    <genre>Adventure</genre>
-    <image>./mixart/Project Eden (USA).png</image>
-    <marquee>./wheel/Project Eden (USA).png</marquee>
-    <video>./snap/Project Eden (USA).mp4</video>
-    <genreid>512</genreid>
-  </game>
-  <game id="127678" source="ScreenScraper.fr">
-    <path>./Ratchet - Deadlocked (USA) (En,Fr,Es).gz</path>
-    <name>Ratchet : Deadlocked</name>
-    <desc>Ratchet: Deadlocked is the fourth game in the Ratchet &amp; Clank series by Insomniac Games. The storyline involves Ratchet and Clank, along with Al, being kidnapped and forced to compete in a underground reality show called "DreadZone" run by the media mogul Gleeman Vox on the outer fringes of the galaxy.  
+		<rating>0.85</rating>
+		<releasedate>20060316T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<image>./mixart/Onimusha - Dawn of Dreams (USA) (En,Ja) (Disc 2).png</image>
+		<marquee>./wheel/Onimusha - Dawn of Dreams (USA) (En,Ja) (Disc 1).png</marquee>
+		<video>./snap/Onimusha - Dawn of Dreams (USA) (En,Ja) (Disc 1).mp4</video>
+		<genreid>263</genreid>
+	</game>
+	<game id="22824" source="ScreenScraper.fr">
+		<path>./Project Eden (USA).gz</path>
+		<name>Project Eden</name>
+		<desc>Project Eden est un jeu d'action sur Playstation 2. Vous incarnez une équipe de 4 membres de l'UPA, l'agence de protection urbaine. Vous devez faire bon usage de vos compétences et de votre équipement pour vous frayez un chemin vers les profondeurs d'une mégapole dont les fondations sont soumises à rude épreuve.</desc>
+		<rating>0.8</rating>
+		<releasedate>20011102T000000</releasedate>
+		<developer>Eidos Interactive</developer>
+		<publisher>Core Design</publisher>
+		<genre>Adventure</genre>
+		<image>./mixart/Project Eden (USA).png</image>
+		<marquee>./wheel/Project Eden (USA).png</marquee>
+		<video>./snap/Project Eden (USA).mp4</video>
+		<genreid>512</genreid>
+	</game>
+	<game id="127678" source="ScreenScraper.fr">
+		<path>./Ratchet - Deadlocked (USA) (En,Fr,Es).gz</path>
+		<name>Ratchet : Deadlocked</name>
+		<desc>Ratchet: Deadlocked is the fourth game in the Ratchet &amp; Clank series by Insomniac Games. The storyline involves Ratchet and Clank, along with Al, being kidnapped and forced to compete in a underground reality show called "DreadZone" run by the media mogul Gleeman Vox on the outer fringes of the galaxy.  
  
 The game differs from its predecessors in that it focuses more on shooting than platforming and puzzle elements. The game allows you to use two bots to fight along side you, which can be upgraded over time with better weapons and firepower. There is a total of  10 weapons in the game, significantly less than the other games. However, modding these weapons is more emphasized than before, with different kinds of Alpha and Omega mods. Omega mods can be used on any weapon, and range from the freeze mod to the magma mod. Alpha mods are weapon-specific, and increase the rate of fire, ammo capacity, and power. The game also features online multiplayer. 
  
 Clank is not a playable character in this game, although he gives advice to Ratchet over his communication link.</desc>
-    <rating>0.85</rating>
-    <releasedate>20051123T000000</releasedate>
-    <developer>Insomniac Games</developer>
-    <publisher>Sony</publisher>
-    <genre>Action</genre>
-    <players>2-8</players>
-    <image>./mixart/Ratchet - Deadlocked (USA) (En,Fr,Es).png</image>
-    <marquee>./wheel/Ratchet - Deadlocked (USA) (En,Fr,Es).png</marquee>
-    <video>./snap/Ratchet - Deadlocked (USA) (En,Fr,Es).mp4</video>
-    <genreid>256</genreid>
-  </game>
-  <game id="22054" source="ScreenScraper.fr">
-    <path>./Shadow Hearts - Covenant (USA) (Disc 1).gz</path>
-    <name>Shadow Hearts : Covenant</name>
-    <desc>The year is 1915. War has raised its ugly head to greet the nations of Europe. A year and a half after the events described in Shadow Hearts, the French town of Domremy resists German invasion, rumored to be protected by a demon. The German army sends Lieutenant Karin Koenig along with a man named Nicolas, allegedly an inquisitor from the Vatican, whose task is to exorcise the demon. When the two arrive in Domremy, events take an unexpected turn. Karin meets the young harmonixer Yuri Hyuga, who is afflicted with a curse that gradually saps the life out of him. Yuri travels across Europe and through Russia to the Far East, trying to find a cure before it is too late, and stop a secret society from dominating the world by political and magical means.</desc>
-    <rating>0.9</rating>
-    <releasedate>20050311T000000</releasedate>
-    <developer>Nautilus</developer>
-    <publisher>Midway</publisher>
-    <genre>Role playing games</genre>
-    <players>1</players>
-    <image>./mixart/Shadow Hearts - Covenant (USA) (Disc 1).png</image>
-    <marquee>./wheel/Shadow Hearts - Covenant (USA) (Disc 1).png</marquee>
-    <video>./snap/Shadow Hearts - Covenant (USA) (Disc 1).mp4</video>
-    <genreid>768</genreid>
-  </game>
-  <game id="22054" source="ScreenScraper.fr">
-    <path>./Shadow Hearts - Covenant (USA) (Disc 2).gz</path>
-    <name>Shadow Hearts : Covenant</name>
-    <desc>The year is 1915. War has raised its ugly head to greet the nations of Europe. A year and a half after the events described in Shadow Hearts, the French town of Domremy resists German invasion, rumored to be protected by a demon. The German army sends Lieutenant Karin Koenig along with a man named Nicolas, allegedly an inquisitor from the Vatican, whose task is to exorcise the demon. When the two arrive in Domremy, events take an unexpected turn. Karin meets the young harmonixer Yuri Hyuga, who is afflicted with a curse that gradually saps the life out of him. Yuri travels across Europe and through Russia to the Far East, trying to find a cure before it is too late, and stop a secret society from dominating the world by political and magical means.</desc>
-    <rating>0.9</rating>
-    <releasedate>20050311T000000</releasedate>
-    <developer>Nautilus</developer>
-    <publisher>Midway</publisher>
-    <genre>Role playing games</genre>
-    <players>1</players>
-    <image>./mixart/Shadow Hearts - Covenant (USA) (Disc 2).png</image>
-    <marquee>./wheel/Shadow Hearts - Covenant (USA) (Disc 1).png</marquee>
-    <video>./snap/Shadow Hearts - Covenant (USA) (Disc 1).mp4</video>
-    <genreid>768</genreid>
-  </game>
-  <game id="22303" source="ScreenScraper.fr">
-    <path>./Shadow Hearts - From the New World (USA).gz</path>
-    <name>Shadow Hearts : From the New World</name>
-    <desc>The year is 1929. America is threatened by a mysterious evil power. Pale green distortions in the sky, called "windows", spawn vicious monsters. Johnny Garland is a young man who has lost his family and his memory in a terrible accident. It turns out that he inherited a fortune from his father, but he is not interested in money, but in re-discovering his own past. For that reason, Johnny becomes a private investigator. He receives an assignment which involves capturing an escaped convict. During the investigation, Johnny meets Shania, a native American woman who works as a monster-hunter. From that point on, the destinies of the two are linked together... 
- 
-This installment of the  Shadow Hearts series utilizes almost the same gameplay system as  Shadow Hearts: Covenant. The turn-based battles are once again controlled by the Judgment Ring: you must stop a spinning indicator on a colored segment of a ring in order to execute a successful attack. New in this game are combo attacks which the players can execute through special areas of the Judgment Ring. </desc>
-    <rating>0.65</rating>
-    <releasedate />
-    <developer>Ghostlight</developer>
-    <publisher>Nautilus</publisher>
-    <genre>Role playing games</genre>
-    <players>1</players>
-    <image>./mixart/Shadow Hearts - From the New World (USA).png</image>
-    <marquee>./wheel/Shadow Hearts - From the New World (USA).png</marquee>
-    <video>./snap/Shadow Hearts - From the New World (USA).mp4</video>
-    <genreid>768</genreid>
-  </game>
-  <game id="22003" source="ScreenScraper.fr">
-    <path>./Shin Megami Tensei - Nocturne (USA).gz</path>
-    <name>Shin Megami Tensei : Nocturne</name>
-    <desc>Shin Megami Tensei : Lucifer's Call est un jeu de rôle sur PS2 vous offrant d'incarner un adolescent qui a été choisi pour survivre à la destruction de Tokyo et qui va devoir décider de l'avenir de la métropole japonaise. Le titre offre comme atouts de recruter et fusionner des monstres afin qu'ils combattent en tant qu'alliés, ainsi qu'une difficulté assez corsée. Le tout dans une trame extrêmement sombre.</desc>
-    <rating>0.9</rating>
-    <releasedate>20041012T000000</releasedate>
-    <developer>Atlus</developer>
-    <publisher>Ubisoft</publisher>
-    <genre>Role playing games</genre>
-    <players>1</players>
-    <image>./mixart/Shin Megami Tensei - Nocturne (USA).png</image>
-    <marquee>./wheel/Shin Megami Tensei - Nocturne (USA).png</marquee>
-    <video>./snap/Shin Megami Tensei - Nocturne (USA).mp4</video>
-    <genreid>768</genreid>
-  </game>
-  <game id="22048" source="ScreenScraper.fr">
-    <path>./Silent Hill Origins (USA) (En,Fr,De,Es,It).gz</path>
-    <name>Silent Hill Origins</name>
-    <desc>Silent Hill: Origins, known as Silent Hill: Zero in Japan, is the fifth installment in the Silent Hill video game series. It is a prequel to the original Silent Hill that was released in 1999. It was developed by Climax Studios and published by Konami. It debuted on the PlayStation Portable in November 2007, with a port to the PlayStation 2 released in March 2008. 
+		<rating>0.85</rating>
+		<releasedate>20051123T000000</releasedate>
+		<developer>Insomniac Games</developer>
+		<publisher>Sony</publisher>
+		<genre>Action</genre>
+		<players>2-8</players>
+		<image>./mixart/Ratchet - Deadlocked (USA) (En,Fr,Es).png</image>
+		<marquee>./wheel/Ratchet - Deadlocked (USA) (En,Fr,Es).png</marquee>
+		<video>./snap/Ratchet - Deadlocked (USA) (En,Fr,Es).mp4</video>
+		<genreid>256</genreid>
+	</game>
+	<game id="22054" source="ScreenScraper.fr">
+		<path>./Shadow Hearts - Covenant (USA) (Disc 1).gz</path>
+		<name>Shadow Hearts : Covenant (Disc 1)</name>
+		<desc>The year is 1915. War has raised its ugly head to greet the nations of Europe. A year and a half after the events described in Shadow Hearts, the French town of Domremy resists German invasion, rumored to be protected by a demon. The German army sends Lieutenant Karin Koenig along with a man named Nicolas, allegedly an inquisitor from the Vatican, whose task is to exorcise the demon. When the two arrive in Domremy, events take an unexpected turn. Karin meets the young harmonixer Yuri Hyuga, who is afflicted with a curse that gradually saps the life out of him. Yuri travels across Europe and through Russia to the Far East, trying to find a cure before it is too late, and stop a secret society from dominating the world by political and magical means.</desc>
+		<rating>0.9</rating>
+		<releasedate>20050311T000000</releasedate>
+		<developer>Nautilus</developer>
+		<publisher>Midway</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Shadow Hearts - Covenant (USA) (Disc 1).png</image>
+		<marquee>./wheel/Shadow Hearts - Covenant (USA) (Disc 1).png</marquee>
+		<video>./snap/Shadow Hearts - Covenant (USA) (Disc 1).mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="22054" source="ScreenScraper.fr">
+		<path>./Shadow Hearts - Covenant (USA) (Disc 2).gz</path>
+		<name>Shadow Hearts : Covenant (Disc 2)</name>
+		<desc>The year is 1915. War has raised its ugly head to greet the nations of Europe. A year and a half after the events described in Shadow Hearts, the French town of Domremy resists German invasion, rumored to be protected by a demon. The German army sends Lieutenant Karin Koenig along with a man named Nicolas, allegedly an inquisitor from the Vatican, whose task is to exorcise the demon. When the two arrive in Domremy, events take an unexpected turn. Karin meets the young harmonixer Yuri Hyuga, who is afflicted with a curse that gradually saps the life out of him. Yuri travels across Europe and through Russia to the Far East, trying to find a cure before it is too late, and stop a secret society from dominating the world by political and magical means.</desc>
+		<rating>0.9</rating>
+		<releasedate>20050311T000000</releasedate>
+		<developer>Nautilus</developer>
+		<publisher>Midway</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Shadow Hearts - Covenant (USA) (Disc 2).png</image>
+		<marquee>./wheel/Shadow Hearts - Covenant (USA) (Disc 1).png</marquee>
+		<video>./snap/Shadow Hearts - Covenant (USA) (Disc 1).mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="22003" source="ScreenScraper.fr">
+		<path>./Shin Megami Tensei - Nocturne (USA).gz</path>
+		<name>Shin Megami Tensei : Nocturne</name>
+		<desc>Shin Megami Tensei : Lucifer's Call est un jeu de rôle sur PS2 vous offrant d'incarner un adolescent qui a été choisi pour survivre à la destruction de Tokyo et qui va devoir décider de l'avenir de la métropole japonaise. Le titre offre comme atouts de recruter et fusionner des monstres afin qu'ils combattent en tant qu'alliés, ainsi qu'une difficulté assez corsée. Le tout dans une trame extrêmement sombre.</desc>
+		<rating>0.9</rating>
+		<releasedate>20041012T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Shin Megami Tensei - Nocturne (USA).png</image>
+		<marquee>./wheel/Shin Megami Tensei - Nocturne (USA).png</marquee>
+		<video>./snap/Shin Megami Tensei - Nocturne (USA).mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="22048" source="ScreenScraper.fr">
+		<path>./Silent Hill Origins (USA) (En,Fr,De,Es,It).gz</path>
+		<name>Silent Hill Origins</name>
+		<desc>Silent Hill: Origins, known as Silent Hill: Zero in Japan, is the fifth installment in the Silent Hill video game series. It is a prequel to the original Silent Hill that was released in 1999. It was developed by Climax Studios and published by Konami. It debuted on the PlayStation Portable in November 2007, with a port to the PlayStation 2 released in March 2008. 
  
 Set seven years prior to the events of Silent Hill, Origins expands the backstory on which the series built itself.</desc>
-    <rating>0.75</rating>
-    <releasedate>20080304T000000</releasedate>
-    <developer>Climax Studios</developer>
-    <publisher>Konami</publisher>
-    <genre>Action</genre>
-    <players>1</players>
-    <image>./mixart/Silent Hill Origins (USA) (En,Fr,De,Es,It).png</image>
-    <marquee>./wheel/Silent Hill Origins (USA) (En,Fr,De,Es,It).png</marquee>
-    <video>./snap/Silent Hill Origins (USA) (En,Fr,De,Es,It).mp4</video>
-    <genreid>256</genreid>
-  </game>
-  <game id="23784" source="ScreenScraper.fr">
-    <path>./Silent Scope 2 - Dark Silhouette (USA) (En,Ja,Es).gz</path>
-    <name>Silent Scope 2 : Dark Silhouette</name>
-    <desc>Silent Scope 2: Dark Silhouette (Silent Scope 2: Fatal Judgement in Europe and Silent Scope 2: Innocent Sweeper in Japan) is a rail shooter game that is the sequel to the popular arcade game Silent Scope. 
- 
-The suspense begins in the United Kingdom, where a terrorist group has planned a deadly attack on an unsuspecting city. Taking on the role of an anti-terrorist operative employed by a government-run peacekeeping agency, players are tasked with tracking down and apprehending the terrorist group. Missions take place in a myriad of European environments, from London's River Thames to snowy Swiss mountain ranges.</desc>
-    <rating>0.65</rating>
-    <releasedate>20011116T000000</releasedate>
-    <developer>Konami</developer>
-    <publisher>Konami</publisher>
-    <genre>Lightgun Shooter</genre>
-    <players>2</players>
-    <image>./mixart/Silent Scope 2 - Dark Silhouette (USA) (En,Ja,Es).png</image>
-    <marquee>./wheel/Silent Scope 2 - Dark Silhouette (USA) (En,Ja,Es).png</marquee>
-    <video>./snap/Silent Scope 2 - Dark Silhouette (USA) (En,Ja,Es).mp4</video>
-    <genreid>261</genreid>
-  </game>
-  <game id="23717" source="ScreenScraper.fr">
-    <path>./Silent Scope 3 (USA) (En,Ja,Es).gz</path>
-    <name>Silent Scope 3</name>
-    <desc>Silent Scope 3 contains an original story mode with numerous new areas created exclusively for the PlayStation2. As an added bonus, all 14 missions from the smash-hit arcade game Silent Scope EX are also included. In a Silent Scope series first, an innovative 3-D sound system can be used to help spot and target enemies. Rounding out the features, hidden options can be unlocked and multiple endings and paths add replay value.</desc>
-    <rating>0.75</rating>
-    <releasedate>20021017T000000</releasedate>
-    <developer>Konami</developer>
-    <publisher>Konami</publisher>
-    <genre>Lightgun Shooter</genre>
-    <players>2</players>
-    <image>./mixart/Silent Scope 3 (USA) (En,Ja,Es).png</image>
-    <marquee>./wheel/Silent Scope 3 (USA) (En,Ja,Es).png</marquee>
-    <video>./snap/Silent Scope 3 (USA) (En,Ja,Es).mp4</video>
-    <genreid>261</genreid>
-  </game>
-  <game id="22828" source="ScreenScraper.fr">
-    <path>./Sled Storm (USA).gz</path>
-    <name>Sled Storm</name>
-    <desc>Sled Storm is a series of snowmobile racing video games published and developed by Electronic Arts and released in North America on July 31, 1999 and in Europe on August 11, 1999. It gained critical acclaim due to its original concept of being one of the first snowmobile racing titles. The series currently consists of two games, both of which are named simply Sled Storm. 
+		<rating>0.75</rating>
+		<releasedate>20080304T000000</releasedate>
+		<developer>Climax Studios</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<image>./mixart/Silent Hill Origins (USA) (En,Fr,De,Es,It).png</image>
+		<marquee>./wheel/Silent Hill Origins (USA) (En,Fr,De,Es,It).png</marquee>
+		<video>./snap/Silent Hill Origins (USA) (En,Fr,De,Es,It).mp4</video>
+		<genreid>256</genreid>
+	</game>
+	<game id="23717" source="ScreenScraper.fr">
+		<path>./Silent Scope 3 (USA) (En,Ja,Es).gz</path>
+		<name>Silent Scope 3</name>
+		<desc>Silent Scope 3 contains an original story mode with numerous new areas created exclusively for the PlayStation2. As an added bonus, all 14 missions from the smash-hit arcade game Silent Scope EX are also included. In a Silent Scope series first, an innovative 3-D sound system can be used to help spot and target enemies. Rounding out the features, hidden options can be unlocked and multiple endings and paths add replay value.</desc>
+		<rating>0.75</rating>
+		<releasedate>20021017T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<image>./mixart/Silent Scope 3 (USA) (En,Ja,Es).png</image>
+		<marquee>./wheel/Silent Scope 3 (USA) (En,Ja,Es).png</marquee>
+		<video>./snap/Silent Scope 3 (USA) (En,Ja,Es).mp4</video>
+		<genreid>261</genreid>
+	</game>
+	<game id="22828" source="ScreenScraper.fr">
+		<path>./Sled Storm (USA).gz</path>
+		<name>Sled Storm</name>
+		<desc>Sled Storm is a series of snowmobile racing video games published and developed by Electronic Arts and released in North America on July 31, 1999 and in Europe on August 11, 1999. It gained critical acclaim due to its original concept of being one of the first snowmobile racing titles. The series currently consists of two games, both of which are named simply Sled Storm. 
  
 The game features snowmobiles (referred to as sleds), stunts and fourteen snow-covered courses consisting of slippery slopes, inclement weather and treacherous cliffs. Six racers were selectable from the outset and two more were unlockable, each of which had different snowmobile handling attributes.</desc>
-    <rating>0.85</rating>
-    <releasedate>20020311T000000</releasedate>
-    <developer>EA Vancouver</developer>
-    <publisher>EA Sports BIG</publisher>
-    <genre>Race, Driving</genre>
-    <players>2</players>
-    <image>./mixart/Sled Storm (USA).png</image>
-    <marquee>./wheel/Sled Storm (USA).png</marquee>
-    <video>./snap/Sled Storm (USA).mp4</video>
-    <genreid>1537</genreid>
-  </game>
-  <game id="22740" source="ScreenScraper.fr">
-    <path>./SOCOM - U.S. Navy SEALs - Combined Assault (USA).gz</path>
-    <name>SOCOM : U.S. Navy SEALs, Combined Assault</name>
-    <desc>SOCOM U.S. Navy SEALs: Combined Assault is a video game for the PlayStation 2 that was released on November 7, 2006 in North America. 
- 
-Combined Assault's campaign mode offers 18 missions. The game takes place solely in the fictional country of Adjekistan. The country is supposedly situated somewhere in the Afghanistan/Pakistan region of Central Asia, featuring a number of different environment and climate zonesâ€”allowing for the game to feature a wide variety of landscapes and settings while working within one large, connected story. The online servers were shut down on August 31, 2012[1] Although the Combined Assault servers were shut down, some gamers still play via LAN using programs like Xlink Kai.[citation needed]</desc>
-    <rating>0.75</rating>
-    <releasedate>20070523T000000</releasedate>
-    <developer>Zipper Interactive</developer>
-    <publisher>Sony</publisher>
-    <genre>Strategy</genre>
-    <players>2-32</players>
-    <image>./mixart/SOCOM - U.S. Navy SEALs - Combined Assault (USA).png</image>
-    <marquee>./wheel/SOCOM - U.S. Navy SEALs - Combined Assault (USA).png</marquee>
-    <video>./snap/SOCOM - U.S. Navy SEALs - Combined Assault (USA).mp4</video>
-    <genreid>1280</genreid>
-  </game>
-  <game id="22170" source="ScreenScraper.fr">
-    <path>./SOCOM 3 - U.S. Navy SEALs (USA).gz</path>
-    <name>SOCOM 3 : U.S. Navy SEALs</name>
-    <desc>The Socom series continues with a single player campaign. 32 player capability is added to the online experience. The series is still about protecting America against urban and rural warfare. Three new AOs are included in this game: Morocco, Poland, and Bangladesh. Maps are 5 to 6 times larger than the last game. Multiple save points have been included. Vehicles can be driven by players and AI. The new weapon customization allows 30 different weapons and attachments. The new TCA system allows the player to quickly give a command.</desc>
-    <rating>0.8</rating>
-    <releasedate>20060420T000000</releasedate>
-    <developer>Zipper Interactive</developer>
-    <publisher>Sony</publisher>
-    <genre>Strategy</genre>
-    <players>2-32</players>
-    <image>./mixart/SOCOM 3 - U.S. Navy SEALs (USA).png</image>
-    <marquee>./wheel/SOCOM 3 - U.S. Navy SEALs (USA).png</marquee>
-    <video>./snap/SOCOM 3 - U.S. Navy SEALs (USA).mp4</video>
-    <genreid>1280</genreid>
-  </game>
-  <game id="22091" source="ScreenScraper.fr">
-    <path>./Soulcalibur II (USA).gz</path>
-    <name>Soulcalibur II</name>
-    <desc>Transcending history and the world, a tale of souls and swords eternally retold.  
+		<rating>0.85</rating>
+		<releasedate>20020311T000000</releasedate>
+		<developer>EA Vancouver</developer>
+		<publisher>EA Sports BIG</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<image>./mixart/Sled Storm (USA).png</image>
+		<marquee>./wheel/Sled Storm (USA).png</marquee>
+		<video>./snap/Sled Storm (USA).mp4</video>
+		<genreid>1537</genreid>
+	</game>
+	<game id="22091" source="ScreenScraper.fr">
+		<path>./Soulcalibur II (USA).gz</path>
+		<name>Soulcalibur II</name>
+		<desc>Transcending history and the world, a tale of souls and swords eternally retold.  
  
 Four years have passed since the spirit sword, Soulcalibur defeated the evil Soul Edge. At the end of that fateful battle, the shards of the shattered Soul Edge were scattered across the world and Soulclibur was lost to the void. Now, the evil that still resides in the scattered shards of Soul Edge threatens again to engulf the world in darkness. 
  
 Guest starring exclusively for the Playstation 2: Heihachi Mishima from the Tekken series.</desc>
-    <rating>0.9</rating>
-    <releasedate>20030327T000000</releasedate>
-    <developer>Namco</developer>
-    <publisher>Namco</publisher>
-    <genre>Fight</genre>
-    <players>2</players>
-    <image>./mixart/Soulcalibur II (USA).png</image>
-    <marquee>./wheel/Soulcalibur II (USA).png</marquee>
-    <video>./snap/Soulcalibur II (USA).mp4</video>
-    <genreid>262</genreid>
-  </game>
-  <game id="22836" source="ScreenScraper.fr">
-    <path>./State of Emergency 2 (USA).gz</path>
-    <name>State of Emergency 2</name>
-    <desc>State of Emergency 2 (State of Emergency Revenge in Japan) is the sequel to State of Emergency. The game is available on PlayStation 2. It takes place ten years after the first game. It features more game modes and an enhanced engine. State of Emergency 2 was being developed by VIS Entertainment for Rockstar Games, but the title was continued by SouthPeak Interactive with developer DC Studios.</desc>
-    <rating>0.6</rating>
-    <releasedate>20060421T000000</releasedate>
-    <developer>Playlogic</developer>
-    <publisher>DC Studios</publisher>
-    <genre>Beat'em Up</genre>
-    <players>2-4</players>
-    <image>./mixart/State of Emergency 2 (USA).png</image>
-    <marquee>./wheel/State of Emergency 2 (USA).png</marquee>
-    <video>./snap/State of Emergency 2 (USA).mp4</video>
-    <genreid>263</genreid>
-  </game>
-  <game id="22126" source="ScreenScraper.fr">
-    <path>./Suikoden IV (USA).gz</path>
-    <name>Suikoden IV</name>
-    <desc>An orphan boy was brought up in a noble household on the island of Razril, part of a federation known as the Island Nations, which is threatened by their powerful neighbor, the Kooluk Empire. When the boy grows up, he trains together with other young people, hoping to become a knight in the Gaien order. One day, during an escort mission, the knights' ship is attacked by pirates. Through a series of events, the hero is branded with the Rune of Punishment, one of the twenty-seven legendary True Runes. While devastating the enemies, this rune is also bound to deplete its bearer's life. Blamed for the death of his commander, who was unable to withstand the power of the rune, the young knight is exiled from his homeland. He must find a way to use his powers for the good of the Island Nations, fight against a Kooluk invasion, and restore his honor in the process. 
+		<rating>0.9</rating>
+		<releasedate>20030327T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<image>./mixart/Soulcalibur II (USA).png</image>
+		<marquee>./wheel/Soulcalibur II (USA).png</marquee>
+		<video>./snap/Soulcalibur II (USA).mp4</video>
+		<genreid>262</genreid>
+	</game>
+	<game id="22836" source="ScreenScraper.fr">
+		<path>./State of Emergency 2 (USA).gz</path>
+		<name>State of Emergency 2</name>
+		<desc>State of Emergency 2 (State of Emergency Revenge in Japan) is the sequel to State of Emergency. The game is available on PlayStation 2. It takes place ten years after the first game. It features more game modes and an enhanced engine. State of Emergency 2 was being developed by VIS Entertainment for Rockstar Games, but the title was continued by SouthPeak Interactive with developer DC Studios.</desc>
+		<rating>0.6</rating>
+		<releasedate>20060421T000000</releasedate>
+		<developer>Playlogic</developer>
+		<publisher>DC Studios</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2-4</players>
+		<image>./mixart/State of Emergency 2 (USA).png</image>
+		<marquee>./wheel/State of Emergency 2 (USA).png</marquee>
+		<video>./snap/State of Emergency 2 (USA).mp4</video>
+		<genreid>263</genreid>
+	</game>
+	<game id="22126" source="ScreenScraper.fr">
+		<path>./Suikoden IV (USA).gz</path>
+		<name>Suikoden IV</name>
+		<desc>An orphan boy was brought up in a noble household on the island of Razril, part of a federation known as the Island Nations, which is threatened by their powerful neighbor, the Kooluk Empire. When the boy grows up, he trains together with other young people, hoping to become a knight in the Gaien order. One day, during an escort mission, the knights' ship is attacked by pirates. Through a series of events, the hero is branded with the Rune of Punishment, one of the twenty-seven legendary True Runes. While devastating the enemies, this rune is also bound to deplete its bearer's life. Blamed for the death of his commander, who was unable to withstand the power of the rune, the young knight is exiled from his homeland. He must find a way to use his powers for the good of the Island Nations, fight against a Kooluk invasion, and restore his honor in the process. 
  
 Suikoden IV is a prequel to the entire series. The events of the game take place a hundred and fifty years before those of the first game, and the region of the Suikoden universe they occur in are the islands south of Toran. The game retains many classic features of the series: the ability to recruit 108 characters (Stars of Destiny);  building and customization of army headquarters (this time a large ship instead of a castle); emphasis on political issues in the story; the ability to equip runes of various kinds in combat that allow the usage of magic spells, etc.  
  
 The amount of active combatants in the party has been reduced from six to four in this installment. Once again, there are three types of combat in the game: the most frequent turn-based party-vs.-party combat, duels, and tactical battles, which now take place on sea. The player can customize the the naval forces by choosing captains and commanding officers, and assigning to them runic elements. Each element has strengths and weaknesses to another one, and the player must use them tactically to gain the upper hand. Ship placement on the battle grid and attack angles play a role as well. 
  
 New to the series is ship navigation - instead of exploring an overworld on foot, the player navigates a ship, discovering new lands and islands. Also for the first time in the series there is voice acting, a fully rotatable camera, and the possibility to navigate the main character from first-person perspective.</desc>
-    <rating>0.75</rating>
-    <releasedate>20050224T000000</releasedate>
-    <developer>Konami</developer>
-    <publisher>Konami</publisher>
-    <genre>Role playing games</genre>
-    <image>./mixart/Suikoden IV (USA).png</image>
-    <marquee>./wheel/Suikoden IV (USA).png</marquee>
-    <video>./snap/Suikoden IV (USA).mp4</video>
-    <genreid>768</genreid>
-  </game>
-  <game id="22341" source="ScreenScraper.fr">
-    <path>./Suikoden Tactics (USA).gz</path>
-    <name>Suikoden Tactics</name>
-    <desc>Breaking from its traditional role-playing roots, Suikoden Tactics incorporates simulation and strategy elements to take players on an adventure never seen before in the franchise. Told through the eyes of Kyril, a young adventurer investigating the sudden appearance of hideous creatures in the island nations, Suikoden Tactics unfolds another perspective to the events of Suikoden IV and the legendary "Rune Cannons." In all, there are more than 25 different battle scenarios, the ability to modify and customize your character as the game progresses, and a unique "Combination Attack system" that allows players to combine the powers of numerous characters in combat as they build friendships.</desc>
-    <rating>0.8</rating>
-    <releasedate>20060223T000000</releasedate>
-    <developer>Konami</developer>
-    <publisher>Konami</publisher>
-    <genre>Strategy-Role playing games</genre>
-    <players>1</players>
-    <image>./mixart/Suikoden Tactics (USA).png</image>
-    <marquee>./wheel/Suikoden Tactics (USA).png</marquee>
-    <video>./snap/Suikoden Tactics (USA).mp4</video>
-    <genreid>1280</genreid>
-  </game>
-  <game id="22018" source="ScreenScraper.fr">
-    <path>./Suikoden V (USA).gz</path>
-    <name>Suikoden V</name>
-    <desc>Suikoden V, like its predecessors, features unparalleled in-depth gameplay, a riveting storyline as well as the series' trademark 108 Stars of Destiny. Thrust into a time of unbalance and unrest, a dynamic drama unfolds revolving around one of the 27 True Runes, the Sun Rune. Players are tasked to explore the lands of Falena, gather allies and become stronger to ultimately bring back peace and prosperity. While on their quest through rich 3D environments, exciting new secrets of the Suikoden world will be revealed. The game features significant enhancements from all the previous installments of the series, including 6-member battle parties, multiple mini-games and the homebase system, where all of your allies gather together along with new features to create a unique gameplay experience like no other.</desc>
-    <rating>0.85</rating>
-    <releasedate>20060921T000000</releasedate>
-    <developer>Konami</developer>
-    <publisher>Konami</publisher>
-    <genre>Role playing games</genre>
-    <players>1</players>
-    <image>./mixart/Suikoden V (USA).png</image>
-    <marquee>./wheel/Suikoden V (USA).png</marquee>
-    <video>./snap/Suikoden V (USA).mp4</video>
-    <genreid>768</genreid>
-  </game>
-  <game id="23290" source="ScreenScraper.fr">
-    <path>./Super Monkey Ball Adventure (USA).gz</path>
-    <name>Super Monkey Ball Adventure</name>
-    <desc>Our four heroes from Super Monkey Ball - Aiai, Meemee, Baby and Gongon - were enjoying a typical day, when they saw a flying machine crash down on a nearby island. Soon, they discovered that the mysterious Naysayers have appeared, spreading discord and unhappiness all over the island. And to top it all off, the prince and princess of the neighboring islands have gone missing on Jungle Island - if they aren't found and returned, there's sure to be trouble! Can our heroes restore order to Monearth? 
+		<rating>0.75</rating>
+		<releasedate>20050224T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Role playing games</genre>
+		<image>./mixart/Suikoden IV (USA).png</image>
+		<marquee>./wheel/Suikoden IV (USA).png</marquee>
+		<video>./snap/Suikoden IV (USA).mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="22341" source="ScreenScraper.fr">
+		<path>./Suikoden Tactics (USA).gz</path>
+		<name>Suikoden Tactics</name>
+		<desc>Breaking from its traditional role-playing roots, Suikoden Tactics incorporates simulation and strategy elements to take players on an adventure never seen before in the franchise. Told through the eyes of Kyril, a young adventurer investigating the sudden appearance of hideous creatures in the island nations, Suikoden Tactics unfolds another perspective to the events of Suikoden IV and the legendary "Rune Cannons." In all, there are more than 25 different battle scenarios, the ability to modify and customize your character as the game progresses, and a unique "Combination Attack system" that allows players to combine the powers of numerous characters in combat as they build friendships.</desc>
+		<rating>0.8</rating>
+		<releasedate>20060223T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Strategy-Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Suikoden Tactics (USA).png</image>
+		<marquee>./wheel/Suikoden Tactics (USA).png</marquee>
+		<video>./snap/Suikoden Tactics (USA).mp4</video>
+		<genreid>1280</genreid>
+	</game>
+	<game id="22018" source="ScreenScraper.fr">
+		<path>./Suikoden V (USA).gz</path>
+		<name>Suikoden V</name>
+		<desc>Suikoden V, like its predecessors, features unparalleled in-depth gameplay, a riveting storyline as well as the series' trademark 108 Stars of Destiny. Thrust into a time of unbalance and unrest, a dynamic drama unfolds revolving around one of the 27 True Runes, the Sun Rune. Players are tasked to explore the lands of Falena, gather allies and become stronger to ultimately bring back peace and prosperity. While on their quest through rich 3D environments, exciting new secrets of the Suikoden world will be revealed. The game features significant enhancements from all the previous installments of the series, including 6-member battle parties, multiple mini-games and the homebase system, where all of your allies gather together along with new features to create a unique gameplay experience like no other.</desc>
+		<rating>0.85</rating>
+		<releasedate>20060921T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Suikoden V (USA).png</image>
+		<marquee>./wheel/Suikoden V (USA).png</marquee>
+		<video>./snap/Suikoden V (USA).mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="23290" source="ScreenScraper.fr">
+		<path>./Super Monkey Ball Adventure (USA).gz</path>
+		<name>Super Monkey Ball Adventure</name>
+		<desc>Our four heroes from Super Monkey Ball - Aiai, Meemee, Baby and Gongon - were enjoying a typical day, when they saw a flying machine crash down on a nearby island. Soon, they discovered that the mysterious Naysayers have appeared, spreading discord and unhappiness all over the island. And to top it all off, the prince and princess of the neighboring islands have gone missing on Jungle Island - if they aren't found and returned, there's sure to be trouble! Can our heroes restore order to Monearth? 
  
 Super Monkey Ball Adventure takes the monkey rolling madness of the previous games and puts a story-based spin on it. Choosing from one of the four monkeys, Players roll their way around the various islands of Monearth, talking to citizens and performing the tasks they request (such as delivering sandwiches, finding a missing baby, rescuing rare flowers, and more) to cheer them up.</desc>
-    <rating>0.45</rating>
-    <releasedate>20060630T000000</releasedate>
-    <developer>Travellers Tales</developer>
-    <publisher>SEGA</publisher>
-    <genre>Action-Platform</genre>
-    <players>2-4</players>
-    <image>./mixart/Super Monkey Ball Adventure (USA).png</image>
-    <marquee>./wheel/Super Monkey Ball Adventure (USA).png</marquee>
-    <video>./snap/Super Monkey Ball Adventure (USA).mp4</video>
-    <genreid>257</genreid>
-  </game>
-  <game id="22799" source="ScreenScraper.fr">
-    <path>./King of Fighters, The - Neowave (Europe, Australia).gz</path>
-    <name>The King of Fighters : Neowave</name>
-    <desc>The King of Fighters Neowave is a fighting game by SNK Playmore, released in 2004 for the Sammy Atomiswave arcade platform. It is the eleventh arcade game in SNK Playmore's The King of Fighters series and first fighting game by SNK Playmore to be developed on Atomiswave hardware rather than the Neo Geo console that their previous games appeared on. It was developed specifically to test the hardware and is not counted in the new numeral progression followed by The King of Fighters XI (with 2003 being the tenth game in the series). 
+		<rating>0.45</rating>
+		<releasedate>20060630T000000</releasedate>
+		<developer>Travellers Tales</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action-Platform</genre>
+		<players>2-4</players>
+		<image>./mixart/Super Monkey Ball Adventure (USA).png</image>
+		<marquee>./wheel/Super Monkey Ball Adventure (USA).png</marquee>
+		<video>./snap/Super Monkey Ball Adventure (USA).mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="22799" source="ScreenScraper.fr">
+		<path>./King of Fighters, The - Neowave (Europe, Australia).gz</path>
+		<name>The King of Fighters : Neowave</name>
+		<desc>The King of Fighters Neowave is a fighting game by SNK Playmore, released in 2004 for the Sammy Atomiswave arcade platform. It is the eleventh arcade game in SNK Playmore's The King of Fighters series and first fighting game by SNK Playmore to be developed on Atomiswave hardware rather than the Neo Geo console that their previous games appeared on. It was developed specifically to test the hardware and is not counted in the new numeral progression followed by The King of Fighters XI (with 2003 being the tenth game in the series). 
  
 Ports of the game were released in Japan and the PAL region for the PlayStation 2 (due to Sony Computer Entertainment America's policy of not allowing straight ports of 2D games to North America) and in Japan, North America, and the PAL region for the Xbox.</desc>
-    <rating>0.7</rating>
-    <releasedate>20061006T000000</releasedate>
-    <publisher>SNK</publisher>
-    <genre>Fight</genre>
-    <players>2</players>
-    <image>./mixart/King of Fighters, The - Neowave (Europe, Australia).png</image>
-    <marquee>./wheel/King of Fighters, The - Neowave (Europe, Australia).png</marquee>
-    <video>./snap/King of Fighters, The - Neowave (Europe, Australia).mp4</video>
-    <genreid>262</genreid>
-  </game>
-  <game id="21970" source="ScreenScraper.fr">
-    <path>./Sims, The - Bustin' Out (USA).gz</path>
-    <name>The Sims : Bustin' Out</name>
-    <desc>The Sims Bustin' Out is the second title in The Sims console series and the first The Sims title to not be released on PC. It featured the same 3D environment and engine the past game did, however adds several features from The Sims expansion packs: The Sims: Hot Date, The Sims: Superstar, and The Sims: Livin' Large. Bustin' Out was released for the Game Boy Advance, GameCube, PlayStation 2, Xbox and N-Gage in the fourth quarter of 2003. As the title suggests, the Sims can get out of the house to visit other locations such as Shiny Things Lab or Casa Caliente. There are two modes. Bust Out Mode which has mission based gameplay and Freeplay Mode which is open-ended gameplay very much like the original The Sims PC game.</desc>
-    <rating>0.7</rating>
-    <releasedate>20031215T000000</releasedate>
-    <developer>Maxis Software</developer>
-    <publisher>Electronic Arts</publisher>
-    <genre>Simulation</genre>
-    <players>2</players>
-    <image>./mixart/Sims, The - Bustin' Out (USA).png</image>
-    <marquee>./wheel/Sims, The - Bustin' Out (USA).png</marquee>
-    <video>./snap/Sims, The - Bustin' Out (USA).mp4</video>
-    <genreid>1024</genreid>
-  </game>
-  <game id="21893" source="ScreenScraper.fr">
-    <path>./Sims 2, The (USA).gz</path>
-    <name>The Sims 2</name>
-    <desc>The Sims 2 is a 2004 strategic life simulation video game developed by Maxis and published by Electronic Arts. It is the sequel to the best-selling computer game The Sims. 
+		<rating>0.7</rating>
+		<releasedate>20061006T000000</releasedate>
+		<publisher>SNK</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<image>./mixart/King of Fighters, The - Neowave (Europe, Australia).png</image>
+		<marquee>./wheel/King of Fighters, The - Neowave (Europe, Australia).png</marquee>
+		<video>./snap/King of Fighters, The - Neowave (Europe, Australia).mp4</video>
+		<genreid>262</genreid>
+	</game>
+	<game id="21893" source="ScreenScraper.fr">
+		<path>./Sims 2, The (USA).gz</path>
+		<name>The Sims 2</name>
+		<desc>The Sims 2 is a 2004 strategic life simulation video game developed by Maxis and published by Electronic Arts. It is the sequel to the best-selling computer game The Sims. 
  
 The game has the same concept as its predecessor: players control their Sims in various activities and form relationships in a manner similar to real life. The Sims 2, like its predecessor, does not have a defined final goal; gameplay is open-ended. Sims have life goals, wants and fears, the fulfillment of which can produce both positive or negative outcomes. All Sims age, and can live to 90 sim days depending on the degree to which their aspirations are fulfilled. The Sims 2 builds on its predecessor by allowing Sims to age through six stages of life and incorporating a 3D graphics engine. Although gameplay is not linear, storylines exist in the game's pre-built neighborhoods. Pleasantview is based 25 years after the town in the original The Sims. Strangetown's storyline is based on the supernatural, and is loosely connected with Pleasantview. Veronaville's characters are based on Shakespearean characters. 
  
 The Sims 2 was first released on September 14, 2004 for Microsoft Windows. A port to Mac OS X was released on June 17, 2005. Eight expansion packs and nine stuff packs were subsequently released. In addition several console versions have been released. The Sims 2 is offered on mobile platforms, with manufacturers such as Nokia offering The Sims 2 from the Ovi Store. A sequel, The Sims 3, was released in June 2009. 
  
 The Sims 2 was a commercial success, selling one million copies in its first ten days, a record at the time. During April 2008, The Sims 2 website announced that 100 million copies of The Sims series had been sold. The Sims 2 was well received by critics, gaining a 90% score from aggregators Metacritic and GameRankings. By March 2012, The Sims 2 had sold over six million PC copies, and 13 million over all platforms, making it one of the best-selling PC games of all-time.</desc>
-    <rating>0.75</rating>
-    <releasedate>20051024T000000</releasedate>
-    <developer>Maxis Software</developer>
-    <publisher>Electronic Arts</publisher>
-    <genre>Simulation</genre>
-    <players>2</players>
-    <image>./mixart/Sims 2, The (USA).png</image>
-    <marquee>./wheel/Sims 2, The (USA).png</marquee>
-    <video>./snap/Sims 2, The (USA).mp4</video>
-    <genreid>1024</genreid>
-  </game>
-  <game id="22047" source="ScreenScraper.fr">
-    <path>./Warriors, The (USA) (En,Fr,De,Es,It).gz</path>
-    <name>The Warriors</name>
-    <desc>The Warriors est un jeu d'action sur Playstation 2. Vous incarnez divers membres du gang des Warriors accusé à tort d'avoir tué un membre de geng rival. A vous de faire régner votre loi, celle des armes et de la force.</desc>
-    <rating>0.9</rating>
-    <releasedate>20051021T000000</releasedate>
-    <developer>Rockstar Games</developer>
-    <publisher>Take 2 Interactive</publisher>
-    <genre>Beat'em Up</genre>
-    <players>2</players>
-    <image>./mixart/Warriors, The (USA) (En,Fr,De,Es,It).png</image>
-    <marquee>./wheel/Warriors, The (USA) (En,Fr,De,Es,It).png</marquee>
-    <video>./snap/Warriors, The (USA) (En,Fr,De,Es,It).mp4</video>
-    <genreid>263</genreid>
-  </game>
-  <game id="22910" source="ScreenScraper.fr">
-    <path>./Time Crisis - Crisis Zone (USA).gz</path>
-    <name>Time Crisis : Crisis Zone</name>
-    <desc>Crisis Zone is a spin-off of the popular Time Crisis arcade shooters, released in 29 March 1999 in the arcades. 
+		<rating>0.75</rating>
+		<releasedate>20051024T000000</releasedate>
+		<developer>Maxis Software</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Simulation</genre>
+		<players>2</players>
+		<image>./mixart/Sims 2, The (USA).png</image>
+		<marquee>./wheel/Sims 2, The (USA).png</marquee>
+		<video>./snap/Sims 2, The (USA).mp4</video>
+		<genreid>1024</genreid>
+	</game>
+	<game id="22047" source="ScreenScraper.fr">
+		<path>./Warriors, The (USA) (En,Fr,De,Es,It).gz</path>
+		<name>The Warriors</name>
+		<desc>The Warriors est un jeu d'action sur Playstation 2. Vous incarnez divers membres du gang des Warriors accusé à tort d'avoir tué un membre de geng rival. A vous de faire régner votre loi, celle des armes et de la force.</desc>
+		<rating>0.9</rating>
+		<releasedate>20051021T000000</releasedate>
+		<developer>Rockstar Games</developer>
+		<publisher>Take 2 Interactive</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+		<image>./mixart/Warriors, The (USA) (En,Fr,De,Es,It).png</image>
+		<marquee>./wheel/Warriors, The (USA) (En,Fr,De,Es,It).png</marquee>
+		<video>./snap/Warriors, The (USA) (En,Fr,De,Es,It).mp4</video>
+		<genreid>263</genreid>
+	</game>
+	<game id="22910" source="ScreenScraper.fr">
+		<path>./Time Crisis - Crisis Zone (USA).gz</path>
+		<name>Time Crisis : Crisis Zone</name>
+		<desc>Crisis Zone is a spin-off of the popular Time Crisis arcade shooters, released in 29 March 1999 in the arcades. 
  
 A PlayStation 2 (PS2) remake of the game was released in 2004 in the UK and the US with more detailed polygons and textures, higher difficulty, redone voice acting and an additional mission taking place six months after the Crisis Zone Arcade mode. 
  
 The PS2 port is compatible with the GunCon (G-Con 45 in Europe) and Guncon 2 lightgun, and is available with an unusual two-player cooperative gameplay mode named "two-gun mode" by allowing two players to play simultaneously on a single-player mode without the use of split-screen, or weapon switching system (similar to Time Crisis 3, with some changes) allowing the player to switch between a fully automatic machine gun, a standard 8-round handgun and a 6-round shotgun, depending on settings. 
  
 Unlike Time Crisis 3 and Time Crisis 4, where only the handgun has unlimited ammunition and other weapons are replenished by shooting certain enemies, all weapons now have unlimited ammunition in Crisis Zone, though they all must be reloaded. As with the PlayStation 2 version of Time Crisis II and Time Crisis 3, players can access the Crisis Mission exercise menu through prolonged gameplay. The US version of the PS2 remake is called Time Crisis: Crisis Zone.</desc>
-    <rating>0.75</rating>
-    <releasedate>20041019T000000</releasedate>
-    <developer>Namco</developer>
-    <publisher>Sony</publisher>
-    <genre>Lightgun Shooter</genre>
-    <players>2</players>
-    <image>./mixart/Time Crisis - Crisis Zone (USA).png</image>
-    <marquee>./wheel/Time Crisis - Crisis Zone (USA).png</marquee>
-    <video>./snap/Time Crisis - Crisis Zone (USA).mp4</video>
-    <genreid>261</genreid>
-  </game>
-  <game id="22549" source="ScreenScraper.fr">
-    <path>./Time Crisis 3 (USA).gz</path>
-    <name>Time Crisis 3</name>
-    <desc>The third installment in Namco's light gun shooting franchise, Time Crisis 3 offers exciting, fast-paced shooting action by the world renowned VSSE agents as they fight to save an innocent nation from total annihilation. Choose from four weapons--machine gun, handgun, shotgun, and grenade-- to blast your way past enemies. Practice your sharpshooting skills in Sniper Combat and multiple gameplay modes. The game also includes multiple gameplay modes, a new playable character, and the original Time Crisis. It's time to warm up that trigger finger and step into the action.</desc>
-    <rating>0.75</rating>
-    <releasedate>20031023T000000</releasedate>
-    <developer>Namco</developer>
-    <publisher>Namco</publisher>
-    <genre>Lightgun Shooter</genre>
-    <players>2</players>
-    <image>./mixart/Time Crisis 3 (USA).png</image>
-    <marquee>./wheel/Time Crisis 3 (USA).png</marquee>
-    <video>./snap/Time Crisis 3 (USA).mp4</video>
-    <genreid>261</genreid>
-  </game>
-  <game id="22761" source="ScreenScraper.fr">
-    <path>./Time Crisis II (USA).gz</path>
-    <name>Time Crisis II</name>
-    <desc>Play alone or team up with a friend in this traditional light gun shooter. 
+		<rating>0.75</rating>
+		<releasedate>20041019T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Sony</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<image>./mixart/Time Crisis - Crisis Zone (USA).png</image>
+		<marquee>./wheel/Time Crisis - Crisis Zone (USA).png</marquee>
+		<video>./snap/Time Crisis - Crisis Zone (USA).mp4</video>
+		<genreid>261</genreid>
+	</game>
+	<game id="22549" source="ScreenScraper.fr">
+		<path>./Time Crisis 3 (USA).gz</path>
+		<name>Time Crisis 3</name>
+		<desc>The third installment in Namco's light gun shooting franchise, Time Crisis 3 offers exciting, fast-paced shooting action by the world renowned VSSE agents as they fight to save an innocent nation from total annihilation. Choose from four weapons--machine gun, handgun, shotgun, and grenade-- to blast your way past enemies. Practice your sharpshooting skills in Sniper Combat and multiple gameplay modes. The game also includes multiple gameplay modes, a new playable character, and the original Time Crisis. It's time to warm up that trigger finger and step into the action.</desc>
+		<rating>0.75</rating>
+		<releasedate>20031023T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<image>./mixart/Time Crisis 3 (USA).png</image>
+		<marquee>./wheel/Time Crisis 3 (USA).png</marquee>
+		<video>./snap/Time Crisis 3 (USA).mp4</video>
+		<genreid>261</genreid>
+	</game>
+	<game id="22761" source="ScreenScraper.fr">
+		<path>./Time Crisis II (USA).gz</path>
+		<name>Time Crisis II</name>
+		<desc>Play alone or team up with a friend in this traditional light gun shooter. 
 Christy Ryan, the agent responsible for uncovering the corporation's hidden agenda, attempts to escape NDI captivity and report the details of the plot to V.S.S.E. HQ, but is captured by Jakov Kinisky and his bodyguards. V.S.S.E. sends agents Keith Martin and Robert Baxter to shut down the Starline Network and rescue Ryan.</desc>
-    <rating>0.8</rating>
-    <releasedate>20011031T000000</releasedate>
-    <developer>Namco</developer>
-    <publisher>Namco</publisher>
-    <genre>Lightgun Shooter</genre>
-    <players>2</players>
-    <image>./mixart/Time Crisis II (USA).png</image>
-    <marquee>./wheel/Time Crisis II (USA).png</marquee>
-    <video>./snap/Time Crisis II (USA).mp4</video>
-    <genreid>261</genreid>
-  </game>
-  <game id="22876" source="ScreenScraper.fr">
-    <path>./Tom Clancy's Rainbow Six - Lockdown (USA).gz</path>
-    <name>Tom Clancy's Rainbow Six : Lockdown</name>
-    <desc>The next installment in the Rainbow Six series introduces a new single-player experience featuring advanced equipment and new storylines. This time, you can play as either Ding Chavez (the leader of Team Rainbow) or Dieter Weber (a sniper in charge of covering his team's movement). You must lead your counterterrorist unit into unfamiliar territory to battle a bioterrorist threat.</desc>
-    <rating>0.55</rating>
-    <releasedate>20050908T000000</releasedate>
-    <developer>Ubisoft</developer>
-    <publisher>Ubisoft</publisher>
-    <genre>Strategy-Action</genre>
-    <players>2-16</players>
-    <image>./mixart/Tom Clancy's Rainbow Six - Lockdown (USA).png</image>
-    <marquee>./wheel/Tom Clancy's Rainbow Six - Lockdown (USA).png</marquee>
-    <video>./snap/Tom Clancy's Rainbow Six - Lockdown (USA).mp4</video>
-    <genreid>1280</genreid>
-  </game>
-  <game id="22346" source="ScreenScraper.fr">
-    <path>./Total Overdose - A Gunslinger's Tale in Mexico (USA) (En,Fr,Es).gz</path>
-    <name>Total Overdose : A Gunslinger's Tale in Mexico</name>
-    <desc>The player assumes the role of Ramiro "Ram" Cruz; criminal turned DEA Agent. He has been sent into the Mexican border city of Los Toros and its surroundings by his twin brother Tommy, who wants him to find out who killed their father Ernesto. The player will be tasked with infiltrating and taking down the biggest drug cartel in Mexico and battling it out with dope dealers, banditos, corrupt Federales and Mexican Army, loco luchadores, guerrillas, and other assorted bad guys. Between story missions the player can do optional challenge missions as he or she wishes, exploring Los Toros and gathering bonuses to rack up a high score.</desc>
-    <rating>0.8</rating>
-    <releasedate>20050916T000000</releasedate>
-    <developer>Deadline Games</developer>
-    <publisher>Eidos Interactive</publisher>
-    <players>1</players>
-    <image>./mixart/Total Overdose - A Gunslinger's Tale in Mexico (USA) (En,Fr,Es).png</image>
-    <marquee>./wheel/Total Overdose - A Gunslinger's Tale in Mexico (USA) (En,Fr,Es).png</marquee>
-    <video>./snap/Total Overdose - A Gunslinger's Tale in Mexico (USA) (En,Fr,Es).mp4</video>
-  </game>
-  <game id="24002" source="ScreenScraper.fr">
-    <path>./Tribes - Aerial Assault (USA).gz</path>
-    <name>Tribes : Aerial Assault</name>
-    <desc>Remade for the PS2, based on the PC hit Tribes 2. Strap on your jetpack, ride a grav cycle, fly a plane, or try one of the many other vehicles and play Capture The Flag, Capture and Hold, Team Deathmatch, or Deathmatch. Choose from 3 armor classes, 10 weapons, and various gadgets. Up to 16 players can join using a PS2 Network Adaptor.</desc>
-    <releasedate>20031016T000000</releasedate>
-    <developer>Universal </developer>
-    <publisher>Universal </publisher>
-    <image>./mixart/Tribes - Aerial Assault (USA).png</image>
-    <marquee>./wheel/Tribes - Aerial Assault (USA).png</marquee>
-    <video>./snap/Tribes - Aerial Assault (USA).mp4</video>
-  </game>
-  <game id="22776" source="ScreenScraper.fr">
-    <path>./TY the Tasmanian Tiger 2 - Bush Rescue (USA).gz</path>
-    <name>TY the Tasmanian Tiger 2 : Bush Rescue</name>
-    <desc>TY the Tasmanian Tiger 2 is a 3D Platformer with an Australian theme. The player takes the role of TY, a Tasmanian tiger, armed with sharp teeth and boomerangs a-plenty. On TY's quest to defeat the evil Boss Cass and his army of cold-blooded Frilled Lizards, he must assist the colorful residents of Burramudgee Town and the Southern Rivers, who include a tree frog, a lyre bird, a platypus family, some kangaroos and more koalas than you can shake a didgeridoo at. 
+		<rating>0.8</rating>
+		<releasedate>20011031T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<image>./mixart/Time Crisis II (USA).png</image>
+		<marquee>./wheel/Time Crisis II (USA).png</marquee>
+		<video>./snap/Time Crisis II (USA).mp4</video>
+		<genreid>261</genreid>
+	</game>
+	<game id="22876" source="ScreenScraper.fr">
+		<path>./Tom Clancy's Rainbow Six - Lockdown (USA).gz</path>
+		<name>Tom Clancy's Rainbow Six : Lockdown</name>
+		<desc>The next installment in the Rainbow Six series introduces a new single-player experience featuring advanced equipment and new storylines. This time, you can play as either Ding Chavez (the leader of Team Rainbow) or Dieter Weber (a sniper in charge of covering his team's movement). You must lead your counterterrorist unit into unfamiliar territory to battle a bioterrorist threat.</desc>
+		<rating>0.55</rating>
+		<releasedate>20050908T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Strategy-Action</genre>
+		<players>2-16</players>
+		<image>./mixart/Tom Clancy's Rainbow Six - Lockdown (USA).png</image>
+		<marquee>./wheel/Tom Clancy's Rainbow Six - Lockdown (USA).png</marquee>
+		<video>./snap/Tom Clancy's Rainbow Six - Lockdown (USA).mp4</video>
+		<genreid>1280</genreid>
+	</game>
+	<game id="22346" source="ScreenScraper.fr">
+		<path>./Total Overdose - A Gunslinger's Tale in Mexico (USA) (En,Fr,Es).gz</path>
+		<name>Total Overdose : A Gunslinger's Tale in Mexico</name>
+		<desc>The player assumes the role of Ramiro "Ram" Cruz; criminal turned DEA Agent. He has been sent into the Mexican border city of Los Toros and its surroundings by his twin brother Tommy, who wants him to find out who killed their father Ernesto. The player will be tasked with infiltrating and taking down the biggest drug cartel in Mexico and battling it out with dope dealers, banditos, corrupt Federales and Mexican Army, loco luchadores, guerrillas, and other assorted bad guys. Between story missions the player can do optional challenge missions as he or she wishes, exploring Los Toros and gathering bonuses to rack up a high score.</desc>
+		<rating>0.8</rating>
+		<releasedate>20050916T000000</releasedate>
+		<developer>Deadline Games</developer>
+		<publisher>Eidos Interactive</publisher>
+		<players>1</players>
+		<image>./mixart/Total Overdose - A Gunslinger's Tale in Mexico (USA) (En,Fr,Es).png</image>
+		<marquee>./wheel/Total Overdose - A Gunslinger's Tale in Mexico (USA) (En,Fr,Es).png</marquee>
+		<video>./snap/Total Overdose - A Gunslinger's Tale in Mexico (USA) (En,Fr,Es).mp4</video>
+	</game>
+	<game id="24002" source="ScreenScraper.fr">
+		<path>./Tribes - Aerial Assault (USA).gz</path>
+		<name>Tribes : Aerial Assault</name>
+		<desc>Remade for the PS2, based on the PC hit Tribes 2. Strap on your jetpack, ride a grav cycle, fly a plane, or try one of the many other vehicles and play Capture The Flag, Capture and Hold, Team Deathmatch, or Deathmatch. Choose from 3 armor classes, 10 weapons, and various gadgets. Up to 16 players can join using a PS2 Network Adaptor.</desc>
+		<releasedate>20031016T000000</releasedate>
+		<developer>Universal </developer>
+		<publisher>Universal </publisher>
+		<image>./mixart/Tribes - Aerial Assault (USA).png</image>
+		<marquee>./wheel/Tribes - Aerial Assault (USA).png</marquee>
+		<video>./snap/Tribes - Aerial Assault (USA).mp4</video>
+	</game>
+	<game id="22776" source="ScreenScraper.fr">
+		<path>./TY the Tasmanian Tiger 2 - Bush Rescue (USA).gz</path>
+		<name>TY the Tasmanian Tiger 2 : Bush Rescue</name>
+		<desc>TY the Tasmanian Tiger 2 is a 3D Platformer with an Australian theme. The player takes the role of TY, a Tasmanian tiger, armed with sharp teeth and boomerangs a-plenty. On TY's quest to defeat the evil Boss Cass and his army of cold-blooded Frilled Lizards, he must assist the colorful residents of Burramudgee Town and the Southern Rivers, who include a tree frog, a lyre bird, a platypus family, some kangaroos and more koalas than you can shake a didgeridoo at. 
  
 While most of the game is standard platform fare, there are some diversions. Notably, there are a number of cart racing tracks which can be played with a friend. Additionally, there are missions that will place the player in giant robots, each with a different speciality (one is good at battle, one can put out fires, one is a submarine, etc.). 
  
 There are many comedic quirks, having the players throw electrified boomerangs at robotic dinosaurs in the Outback, then send them up in a helicopter to rescue sheep stranded by a flood, then have them clear a road following a traffic accident. And finally, to top it all off, the save/continue points are outhouses.</desc>
-    <rating>0.6</rating>
-    <releasedate>20041105T000000</releasedate>
-    <developer>Krome Studios</developer>
-    <publisher>Electronic Arts</publisher>
-    <genre>Platform</genre>
-    <players>2</players>
-    <image>./mixart/TY the Tasmanian Tiger 2 - Bush Rescue (USA).png</image>
-    <marquee>./wheel/TY the Tasmanian Tiger 2 - Bush Rescue (USA).png</marquee>
-    <video>./snap/TY the Tasmanian Tiger 2 - Bush Rescue (USA).mp4</video>
-    <genreid>257</genreid>
-  </game>
-  <game id="22613" source="ScreenScraper.fr">
-    <path>./Unreal Tournament (USA).gz</path>
-    <name>Unreal Tournament</name>
-    <desc>From the creators of Unreal comes Unreal Tournament, a competition that tests your reflexes and competitive spirit in deadly arenas. Battle 15 of your friends or customizable bots in over 30 different levels, such as pirate ships, waterfronts, speeding trains, and floating castles. Multiplayer modes include Capture the Flag, Assault, Domination, and new Deathmatch variations. With enhanced weapons--including the Impact hammer, which squashes your opponent to mush, and the Redeemer, a rocket-powered nuke--expect the body count to be high.</desc>
-    <rating>0.75</rating>
-    <releasedate>20010418T000000</releasedate>
-    <developer>Epic Games</developer>
-    <publisher>Infogrames</publisher>
-    <genre>Action</genre>
-    <players>2-4</players>
-    <image>./mixart/Unreal Tournament (USA).png</image>
-    <marquee>./wheel/Unreal Tournament (USA).png</marquee>
-    <video>./snap/Unreal Tournament (USA).mp4</video>
-    <genreid>256</genreid>
-  </game>
-  <game id="22233" source="ScreenScraper.fr">
-    <path>./Way of the Samurai 2 (USA).gz</path>
-    <name>Way of the Samurai 2</name>
-    <desc>As a peaceful town becomes victim to extreme violence and unrest, a Samurai arrives with the ability to change the town's destiny. In Way of the Samurai 2, you'll take on the role of the Samurai in feudal Japan and battle to save the town of Amahara. Now you can experience traditional Samurai techniques, with realistic swordfighting moves and more than 60 powerful swords. Whether you free the innocent or join the corrupt, your decisions affect the game's ending.</desc>
-    <rating>0.9</rating>
-    <releasedate>20040521T000000</releasedate>
-    <developer>Acquire</developer>
-    <publisher>Capcom</publisher>
-    <genre>Adventure</genre>
-    <players>1</players>
-    <image>./mixart/Way of the Samurai 2 (USA).png</image>
-    <marquee>./wheel/Way of the Samurai 2 (USA).png</marquee>
-    <video>./snap/Way of the Samurai 2 (USA).mp4</video>
-    <genreid>512</genreid>
-  </game>
-  <game id="22709" source="ScreenScraper.fr">
-    <path>./Wild Arms - Alter Code - F (USA).gz</path>
-    <name>Wild Arms : Alter Code, F</name>
-    <desc>Although it is essentially a remake of the original PlayStation version of Wild Arms, Alter Code F brings enhanced gameplay, improved graphics, and an expanded storyline to the PS2. Players take command of three unlikely companions in a surreal and desolate world called Filgaia. The young orphan Rudy has a unique ability to physically bond with "ARMs," or "Ancient Relic Machines," which seem to have been left behind by a forgotten civilization. The runaway princess Cecelia can command forces of magic, and the swordsman Jack is adept at a number of trades. These three "Dream Chasers" seek their fortunes in the unforgiving countryside, and might just end up saving the whole world along the way. The role-playing adventure includes overworld exploration and intense dungeon-crawling. Wild ARMs: Alter Code F is compatible with the PlayStation 2 HDD, so veteran PS2 gamers with older model consoles and the hard drive accessory can load the large, two-DVD game program to disk in order to decrease load times.</desc>
-    <rating>0.9</rating>
-    <releasedate>20051115T000000</releasedate>
-    <developer>Sony</developer>
-    <publisher>Sony</publisher>
-    <genre>Role playing games</genre>
-    <image>./mixart/Wild Arms - Alter Code - F (USA).png</image>
-    <marquee>./wheel/Wild Arms - Alter Code - F (USA).png</marquee>
-    <video>./snap/Wild Arms - Alter Code - F (USA).mp4</video>
-    <genreid>768</genreid>
-  </game>
-  <game id="22538" source="ScreenScraper.fr">
-    <path>./Wild Arms 4 (USA).gz</path>
-    <name>Wild Arms 4</name>
-    <desc>You play as a young teenager named Jude Maverick. You live in a quiet village that floats high above the ground, unaware of the world that lies beneath it. But one day, your world is shattered to pieces, and you descend onto the earth to face the terrible reality: the world of Filgaia was devastated by wars. A few settlements amidst rusty tanks is all that is left of civilization. The democratically elected government has some plans for improving the conditions of the world, but as you meet a young girl whom they used as a tool for their purpose, you realize you must find a better plan to save her, and the world, from complete destruction. 
+		<rating>0.6</rating>
+		<releasedate>20041105T000000</releasedate>
+		<developer>Krome Studios</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<image>./mixart/TY the Tasmanian Tiger 2 - Bush Rescue (USA).png</image>
+		<marquee>./wheel/TY the Tasmanian Tiger 2 - Bush Rescue (USA).png</marquee>
+		<video>./snap/TY the Tasmanian Tiger 2 - Bush Rescue (USA).mp4</video>
+		<genreid>257</genreid>
+	</game>
+	<game id="22613" source="ScreenScraper.fr">
+		<path>./Unreal Tournament (USA).gz</path>
+		<name>Unreal Tournament</name>
+		<desc>From the creators of Unreal comes Unreal Tournament, a competition that tests your reflexes and competitive spirit in deadly arenas. Battle 15 of your friends or customizable bots in over 30 different levels, such as pirate ships, waterfronts, speeding trains, and floating castles. Multiplayer modes include Capture the Flag, Assault, Domination, and new Deathmatch variations. With enhanced weapons--including the Impact hammer, which squashes your opponent to mush, and the Redeemer, a rocket-powered nuke--expect the body count to be high.</desc>
+		<rating>0.75</rating>
+		<releasedate>20010418T000000</releasedate>
+		<developer>Epic Games</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Action</genre>
+		<players>2-4</players>
+		<image>./mixart/Unreal Tournament (USA).png</image>
+		<marquee>./wheel/Unreal Tournament (USA).png</marquee>
+		<video>./snap/Unreal Tournament (USA).mp4</video>
+		<genreid>256</genreid>
+	</game>
+	<game id="22233" source="ScreenScraper.fr">
+		<path>./Way of the Samurai 2 (USA).gz</path>
+		<name>Way of the Samurai 2</name>
+		<desc>As a peaceful town becomes victim to extreme violence and unrest, a Samurai arrives with the ability to change the town's destiny. In Way of the Samurai 2, you'll take on the role of the Samurai in feudal Japan and battle to save the town of Amahara. Now you can experience traditional Samurai techniques, with realistic swordfighting moves and more than 60 powerful swords. Whether you free the innocent or join the corrupt, your decisions affect the game's ending.</desc>
+		<rating>0.9</rating>
+		<releasedate>20040521T000000</releasedate>
+		<developer>Acquire</developer>
+		<publisher>Capcom</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<image>./mixart/Way of the Samurai 2 (USA).png</image>
+		<marquee>./wheel/Way of the Samurai 2 (USA).png</marquee>
+		<video>./snap/Way of the Samurai 2 (USA).mp4</video>
+		<genreid>512</genreid>
+	</game>
+	<game id="22709" source="ScreenScraper.fr">
+		<path>./Wild Arms - Alter Code - F (USA).gz</path>
+		<name>Wild Arms : Alter Code, F</name>
+		<desc>Although it is essentially a remake of the original PlayStation version of Wild Arms, Alter Code F brings enhanced gameplay, improved graphics, and an expanded storyline to the PS2. Players take command of three unlikely companions in a surreal and desolate world called Filgaia. The young orphan Rudy has a unique ability to physically bond with "ARMs," or "Ancient Relic Machines," which seem to have been left behind by a forgotten civilization. The runaway princess Cecelia can command forces of magic, and the swordsman Jack is adept at a number of trades. These three "Dream Chasers" seek their fortunes in the unforgiving countryside, and might just end up saving the whole world along the way. The role-playing adventure includes overworld exploration and intense dungeon-crawling. Wild ARMs: Alter Code F is compatible with the PlayStation 2 HDD, so veteran PS2 gamers with older model consoles and the hard drive accessory can load the large, two-DVD game program to disk in order to decrease load times.</desc>
+		<rating>0.9</rating>
+		<releasedate>20051115T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Sony</publisher>
+		<genre>Role playing games</genre>
+		<image>./mixart/Wild Arms - Alter Code - F (USA).png</image>
+		<marquee>./wheel/Wild Arms - Alter Code - F (USA).png</marquee>
+		<video>./snap/Wild Arms - Alter Code - F (USA).mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="22538" source="ScreenScraper.fr">
+		<path>./Wild Arms 4 (USA).gz</path>
+		<name>Wild Arms 4</name>
+		<desc>You play as a young teenager named Jude Maverick. You live in a quiet village that floats high above the ground, unaware of the world that lies beneath it. But one day, your world is shattered to pieces, and you descend onto the earth to face the terrible reality: the world of Filgaia was devastated by wars. A few settlements amidst rusty tanks is all that is left of civilization. The democratically elected government has some plans for improving the conditions of the world, but as you meet a young girl whom they used as a tool for their purpose, you realize you must find a better plan to save her, and the world, from complete destruction. 
  
 The fourth installment of the Wild Arms series abandons its traditional Wild West theme and is set in a post-apocalyptic world. The gameplay system introduces hex-based battles. Battle screens are divided into seven hexes, each one of which can hold several party members or foes. You navigate your characters on the battle field, trying to force the enemy into an uncomfortable position. There is also a variety of skills you can learn and apply in battles to get benefits. As in previous Wild Arms games, the dungeons contain many environmental puzzles to solve.</desc>
-    <rating>0.8</rating>
-    <releasedate>20060110T000000</releasedate>
-    <developer>505 Games</developer>
-    <publisher>Sony</publisher>
-    <genre>Role playing games</genre>
-    <players>1</players>
-    <image>./mixart/Wild Arms 4 (USA).png</image>
-    <marquee>./wheel/Wild Arms 4 (USA).png</marquee>
-    <video>./snap/Wild Arms 4 (USA).mp4</video>
-    <genreid>768</genreid>
-  </game>
-  <game id="22187" source="ScreenScraper.fr">
-    <path>./Wild Arms 5 (USA).gz</path>
-    <name>Wild Arms 5</name>
-    <desc>Developed for the 10th anniversary of the series, Wild Arms 5 follows a group of young travelers as they fight for their dying land. Players guide the rag-tag bunch of heroes through a 3D world full of adventure and combat. While jumping, sliding, and stomping through the environment to complete the main objective, gamers can also engage in mini-games and side quests for money and rare items. Although the story revolves around new characters, the HEX battle system returns and several known avatars make cameo appearances during the game. Duel-pistol wielding skills make their debut in Wild Arms 5, and allow gamers to shoot different bullets that solve puzzles located throughout the adventure.</desc>
-    <rating>0.85</rating>
-    <releasedate>20061214T000000</releasedate>
-    <developer>505 Games</developer>
-    <publisher>Media Vision</publisher>
-    <genre>Role playing games</genre>
-    <players>1</players>
-    <image>./mixart/Wild Arms 5 (USA).png</image>
-    <marquee>./wheel/Wild Arms 5 (USA).png</marquee>
-    <video>./snap/Wild Arms 5 (USA).mp4</video>
-    <genreid>768</genreid>
-  </game>
-  <game id="23319" source="ScreenScraper.fr">
-    <path>./WinBack 2 - Project Poseidon (USA).gz</path>
-    <name>WinBack 2 : Project Poseidon</name>
-    <desc>In a world where terror takes many forms, a new weapon threatens to shake the balance of power. Freedom's last hope rests in the hands of three new operatives, who must race against time to recover this doomsday device. The fate of the world hangs by a thread, and a few ticks of the clock means the difference between justice and annihilation. WINBACK 2 brings to the series a new "route" system that lets players experience each mission from the perspective of different operatives. There are 30 intense missions, multiple difficulty levels, and new weapons including the highly-anticipated sniper rifle. The new Winback assault team is comprised of three young, yet combat-proven operatives led by Craig Contrell. Each team member is qualified in six different weapon types and highly-adept at CQB (Close Quarter Battle). They are masters of target identification, engagement and shot placement. In the hands of the player, all of these techniques will be put to the test. The game's unique shooting action is spread across 30 high-risk operations situated in challenging urban environments and conveyances.</desc>
-    <rating>0.3</rating>
-    <releasedate>20060630T000000</releasedate>
-    <developer>Cavia</developer>
-    <publisher>Koei</publisher>
-    <players>2-4</players>
-    <image>./mixart/WinBack 2 - Project Poseidon (USA).png</image>
-    <marquee>./wheel/WinBack 2 - Project Poseidon (USA).png</marquee>
-    <video>./snap/WinBack 2 - Project Poseidon (USA).mp4</video>
-  </game>
-  <game id="23115" source="ScreenScraper.fr">
-    <path>./Worms Forts - Under Siege (USA).gz</path>
-    <name>Worms Forts : Under Siege</name>
-    <desc>Worms Forts: Under Siege is an artillery strategy game. It was designed by Team17. Like the previous Worms game, it is in complete 3D and showcases new features, such as buildings. While the primary method of victory is to destroy the opposing team, victory can also be achieved by destroying the opposing Stronghold, the most important building in the game. It is the second game in the series to carry both a T rating from the ESRB and a 3+ rating from PEGI.</desc>
-    <rating>0.75</rating>
-    <releasedate>20041119T000000</releasedate>
-    <developer>SEGA</developer>
-    <publisher>Team 17</publisher>
-    <genre>Strategy-Puzzle-Game</genre>
-    <players>2-4</players>
-    <image>./mixart/Worms Forts - Under Siege (USA).png</image>
-    <marquee>./wheel/Worms Forts - Under Siege (USA).png</marquee>
-    <video>./snap/Worms Forts - Under Siege (USA).mp4</video>
-    <genreid>1280</genreid>
-  </game>
-  <game id="22493" source="ScreenScraper.fr">
-    <path>./Xenosaga Episode I - Der Wille zur Macht (USA).gz</path>
-    <name>Xenosaga Episode I : Der Wille zur Macht</name>
-    <desc>Xenosaga: Episode I - Der Wille zur Macht, the first chapter of a trilogy, is a Japanese-style sci-fi role-playing game, sharing many common themes and gameplay elements with Xenogears. The battle system is not unlike the one used in Xenogears (combo attacks, AP and EP gauges, etc.), but random encounters are eliminated. Instead, the enemies are now visible and battles can be avoided. During combat the few upcoming ally and enemy turns are shown onscreen, allowing the player to make strategic decisions based on who will act next. A rolling slot moves with each turn as well, conferring a bonus such as added damage or bonus XP for any action on that turn. If the enemy would be in position to take an advantage then the player can expend a character's "boost" gauge to cut in and act next, although enemies can boost as well, and enemy boosts always over-ride player boosts.  
+		<rating>0.8</rating>
+		<releasedate>20060110T000000</releasedate>
+		<developer>505 Games</developer>
+		<publisher>Sony</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Wild Arms 4 (USA).png</image>
+		<marquee>./wheel/Wild Arms 4 (USA).png</marquee>
+		<video>./snap/Wild Arms 4 (USA).mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="22187" source="ScreenScraper.fr">
+		<path>./Wild Arms 5 (USA).gz</path>
+		<name>Wild Arms 5</name>
+		<desc>Developed for the 10th anniversary of the series, Wild Arms 5 follows a group of young travelers as they fight for their dying land. Players guide the rag-tag bunch of heroes through a 3D world full of adventure and combat. While jumping, sliding, and stomping through the environment to complete the main objective, gamers can also engage in mini-games and side quests for money and rare items. Although the story revolves around new characters, the HEX battle system returns and several known avatars make cameo appearances during the game. Duel-pistol wielding skills make their debut in Wild Arms 5, and allow gamers to shoot different bullets that solve puzzles located throughout the adventure.</desc>
+		<rating>0.85</rating>
+		<releasedate>20061214T000000</releasedate>
+		<developer>505 Games</developer>
+		<publisher>Media Vision</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Wild Arms 5 (USA).png</image>
+		<marquee>./wheel/Wild Arms 5 (USA).png</marquee>
+		<video>./snap/Wild Arms 5 (USA).mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="23319" source="ScreenScraper.fr">
+		<path>./WinBack 2 - Project Poseidon (USA).gz</path>
+		<name>WinBack 2 : Project Poseidon</name>
+		<desc>In a world where terror takes many forms, a new weapon threatens to shake the balance of power. Freedom's last hope rests in the hands of three new operatives, who must race against time to recover this doomsday device. The fate of the world hangs by a thread, and a few ticks of the clock means the difference between justice and annihilation. WINBACK 2 brings to the series a new "route" system that lets players experience each mission from the perspective of different operatives. There are 30 intense missions, multiple difficulty levels, and new weapons including the highly-anticipated sniper rifle. The new Winback assault team is comprised of three young, yet combat-proven operatives led by Craig Contrell. Each team member is qualified in six different weapon types and highly-adept at CQB (Close Quarter Battle). They are masters of target identification, engagement and shot placement. In the hands of the player, all of these techniques will be put to the test. The game's unique shooting action is spread across 30 high-risk operations situated in challenging urban environments and conveyances.</desc>
+		<rating>0.3</rating>
+		<releasedate>20060630T000000</releasedate>
+		<developer>Cavia</developer>
+		<publisher>Koei</publisher>
+		<players>2-4</players>
+		<image>./mixart/WinBack 2 - Project Poseidon (USA).png</image>
+		<marquee>./wheel/WinBack 2 - Project Poseidon (USA).png</marquee>
+		<video>./snap/WinBack 2 - Project Poseidon (USA).mp4</video>
+	</game>
+	<game id="23115" source="ScreenScraper.fr">
+		<path>./Worms Forts - Under Siege (USA).gz</path>
+		<name>Worms Forts : Under Siege</name>
+		<desc>Worms Forts: Under Siege is an artillery strategy game. It was designed by Team17. Like the previous Worms game, it is in complete 3D and showcases new features, such as buildings. While the primary method of victory is to destroy the opposing team, victory can also be achieved by destroying the opposing Stronghold, the most important building in the game. It is the second game in the series to carry both a T rating from the ESRB and a 3+ rating from PEGI.</desc>
+		<rating>0.75</rating>
+		<releasedate>20041119T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>Team 17</publisher>
+		<genre>Strategy-Puzzle-Game</genre>
+		<players>2-4</players>
+		<image>./mixart/Worms Forts - Under Siege (USA).png</image>
+		<marquee>./wheel/Worms Forts - Under Siege (USA).png</marquee>
+		<video>./snap/Worms Forts - Under Siege (USA).mp4</video>
+		<genreid>1280</genreid>
+	</game>
+	<game id="22493" source="ScreenScraper.fr">
+		<path>./Xenosaga Episode I - Der Wille zur Macht (USA).gz</path>
+		<name>Xenosaga Episode I : Der Wille zur Macht</name>
+		<desc>Xenosaga: Episode I - Der Wille zur Macht, the first chapter of a trilogy, is a Japanese-style sci-fi role-playing game, sharing many common themes and gameplay elements with Xenogears. The battle system is not unlike the one used in Xenogears (combo attacks, AP and EP gauges, etc.), but random encounters are eliminated. Instead, the enemies are now visible and battles can be avoided. During combat the few upcoming ally and enemy turns are shown onscreen, allowing the player to make strategic decisions based on who will act next. A rolling slot moves with each turn as well, conferring a bonus such as added damage or bonus XP for any action on that turn. If the enemy would be in position to take an advantage then the player can expend a character's "boost" gauge to cut in and act next, although enemies can boost as well, and enemy boosts always over-ride player boosts.  
  
 Each character has a unique tree of Ether spells they can learn by spending Ether points earned in battle, with lower spells requiring spells above them to be purchased first. After a spell is purchased, so long is it does not require a unique talent of that character, the spell can also be purchased and learned by any other character that can afford double its normal cost. The Anti-Gnosis Weapon Systems can be equipped with different weapons and accessories and can be used in combat provided that a character has enough AP on that turn to board their AGWS.</desc>
-    <rating>0.85</rating>
-    <releasedate>20040101T000000</releasedate>
-    <developer>Monolith Soft</developer>
-    <publisher>Namco</publisher>
-    <genre>Role playing games</genre>
-    <image>./mixart/Xenosaga Episode I - Der Wille zur Macht (USA).png</image>
-    <marquee>./wheel/Xenosaga Episode I - Der Wille zur Macht (USA).png</marquee>
-    <video>./snap/Xenosaga Episode I - Der Wille zur Macht (USA).mp4</video>
-    <genreid>768</genreid>
-  </game>
-  <game id="22192" source="ScreenScraper.fr">
-    <path>./Xenosaga Episode II - Jenseits von Gut und Boese (USA) (Disc 1).gz</path>
-    <name>Xenosaga Episode II : Jenseits von Gut und Boese</name>
-    <desc>Xenosaga: Episode II - Jenseits von Gut und BÃ¶se is a direct sequel to the first episode of the science-fiction RPG Xenosaga series. 
+		<rating>0.85</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Monolith Soft</developer>
+		<publisher>Namco</publisher>
+		<genre>Role playing games</genre>
+		<image>./mixart/Xenosaga Episode I - Der Wille zur Macht (USA).png</image>
+		<marquee>./wheel/Xenosaga Episode I - Der Wille zur Macht (USA).png</marquee>
+		<video>./snap/Xenosaga Episode I - Der Wille zur Macht (USA).mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="22192" source="ScreenScraper.fr">
+		<path>./Xenosaga Episode II - Jenseits von Gut und Boese (USA) (Disc 1).gz</path>
+		<name>Xenosaga Episode II : Jenseits von Gut und Boese (Disc 1)</name>
+		<desc>Xenosaga: Episode II - Jenseits von Gut und BÃ¶se is a direct sequel to the first episode of the science-fiction RPG Xenosaga series. 
  
 The story takes place thousands of years in the future, when mankind has long left the Earth, which is now called Lost Jerusalem, and founded a star empire. The main threat humanity has to face is the appearance of a super-powerful alien race called the Gnosis. The story picks up just after the concluding events of the first episode. Shion Uzuki, the young engineer who designed the powerful android KOS-MOS, arrives with her friends at the planet Second Miltia. They aim to learn more about the heritage of the late genius scientist Joachim Mizrahi, and foil the schemes of the mysterious antagonists Albedo and Margulis. Jin Uzuki, Shion's brother, who was only mentioned in the first chapter, becomes an important controllable character in the second episode. Much of the plot's content is dedicated to exploring the past and the origins of Jr., as well as his connection to Albedo.</desc>
-    <rating>0.8</rating>
-    <releasedate>20051104T000000</releasedate>
-    <developer>Monolith Soft</developer>
-    <publisher>Namco</publisher>
-    <genre>Role playing games</genre>
-    <players>1</players>
-    <image>./mixart/Xenosaga Episode II - Jenseits von Gut und Boese (USA) (Disc 2).png</image>
-    <marquee>./wheel/Xenosaga Episode II - Jenseits von Gut und Boese (USA) (Disc 2).png</marquee>
-    <video>./snap/Xenosaga Episode II - Jenseits von Gut und Boese (USA) (Disc 2).mp4</video>
-    <genreid>768</genreid>
-  </game>
-  <game id="22192" source="ScreenScraper.fr">
-    <path>./Xenosaga Episode II - Jenseits von Gut und Boese (USA) (Disc 2).gz</path>
-    <name>Xenosaga Episode II : Jenseits von Gut und Boese</name>
-    <desc>Xenosaga: Episode II - Jenseits von Gut und BÃ¶se is a direct sequel to the first episode of the science-fiction RPG Xenosaga series. 
+		<rating>0.8</rating>
+		<releasedate>20051104T000000</releasedate>
+		<developer>Monolith Soft</developer>
+		<publisher>Namco</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Xenosaga Episode II - Jenseits von Gut und Boese (USA) (Disc 2).png</image>
+		<marquee>./wheel/Xenosaga Episode II - Jenseits von Gut und Boese (USA) (Disc 2).png</marquee>
+		<video>./snap/Xenosaga Episode II - Jenseits von Gut und Boese (USA) (Disc 2).mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="22192" source="ScreenScraper.fr">
+		<path>./Xenosaga Episode II - Jenseits von Gut und Boese (USA) (Disc 2).gz</path>
+		<name>Xenosaga Episode II : Jenseits von Gut und Boese (Disc 2)</name>
+		<desc>Xenosaga: Episode II - Jenseits von Gut und BÃ¶se is a direct sequel to the first episode of the science-fiction RPG Xenosaga series. 
  
 The story takes place thousands of years in the future, when mankind has long left the Earth, which is now called Lost Jerusalem, and founded a star empire. The main threat humanity has to face is the appearance of a super-powerful alien race called the Gnosis. The story picks up just after the concluding events of the first episode. Shion Uzuki, the young engineer who designed the powerful android KOS-MOS, arrives with her friends at the planet Second Miltia. They aim to learn more about the heritage of the late genius scientist Joachim Mizrahi, and foil the schemes of the mysterious antagonists Albedo and Margulis. Jin Uzuki, Shion's brother, who was only mentioned in the first chapter, becomes an important controllable character in the second episode. Much of the plot's content is dedicated to exploring the past and the origins of Jr., as well as his connection to Albedo.</desc>
-    <rating>0.8</rating>
-    <releasedate>20051104T000000</releasedate>
-    <developer>Monolith Soft</developer>
-    <publisher>Namco</publisher>
-    <genre>Role playing games</genre>
-    <players>1</players>
-    <image>./mixart/Xenosaga Episode II - Jenseits von Gut und Boese (USA) (Disc 2).png</image>
-    <marquee>./wheel/Xenosaga Episode II - Jenseits von Gut und Boese (USA) (Disc 2).png</marquee>
-    <video>./snap/Xenosaga Episode II - Jenseits von Gut und Boese (USA) (Disc 2).mp4</video>
-    <genreid>768</genreid>
-  </game>
-  <game id="22131" source="ScreenScraper.fr">
-    <path>./Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 1).gz</path>
-    <name>Xenosaga Episode III : Also sprach Zarathustra (Disc 1)</name>
-    <desc>The story of Xenosaga III starts a year after "Xenosaga II" ended. Shion has resigned from Vector Industries after learning that the company is deeply connected to the appearance of the Gnosis. She instead joins Scientia, an underground organization working to unveil Vector's secrets in order to bring them down. Uncover the truth and save mankind in the finale of the Xenosaga series which boasts over 3 hours of movies, an updated battle system, and an improved customization feature with more in-depth character specialization and diversification and higher rewards for strategic party management. This RPG also includes an easily accessible database feature, the "Xeno Bible" and a mini-game with over 50 levels that challenges both you and your friends.</desc>
-    <rating>0.9</rating>
-    <releasedate>20060706T000000</releasedate>
-    <developer>Monolith Soft</developer>
-    <publisher>Namco</publisher>
-    <genre>Role playing games</genre>
-    <players>1</players>
-    <image>./mixart/Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 2).png</image>
-    <marquee>./wheel/Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 2).png</marquee>
-    <video>./snap/Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 2).mp4</video>
-    <genreid>768</genreid>
-  </game>
-  <game id="22131" source="ScreenScraper.fr">
-    <path>./Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 2).gz</path>
-    <name>Xenosaga Episode III : Also sprach Zarathustra (Disc 2)</name>
-    <desc>The story of Xenosaga III starts a year after "Xenosaga II" ended. Shion has resigned from Vector Industries after learning that the company is deeply connected to the appearance of the Gnosis. She instead joins Scientia, an underground organization working to unveil Vector's secrets in order to bring them down. Uncover the truth and save mankind in the finale of the Xenosaga series which boasts over 3 hours of movies, an updated battle system, and an improved customization feature with more in-depth character specialization and diversification and higher rewards for strategic party management. This RPG also includes an easily accessible database feature, the "Xeno Bible" and a mini-game with over 50 levels that challenges both you and your friends.</desc>
-    <rating>0.9</rating>
-    <releasedate>20060706T000000</releasedate>
-    <developer>Monolith Soft</developer>
-    <publisher>Namco</publisher>
-    <genre>Role playing games</genre>
-    <players>1</players>
-    <image>./mixart/Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 2).png</image>
-    <marquee>./wheel/Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 2).png</marquee>
-    <video>./snap/Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 2).mp4</video>
-    <genreid>768</genreid>
-  </game>
+		<rating>0.8</rating>
+		<releasedate>20051104T000000</releasedate>
+		<developer>Monolith Soft</developer>
+		<publisher>Namco</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Xenosaga Episode II - Jenseits von Gut und Boese (USA) (Disc 2).png</image>
+		<marquee>./wheel/Xenosaga Episode II - Jenseits von Gut und Boese (USA) (Disc 2).png</marquee>
+		<video>./snap/Xenosaga Episode II - Jenseits von Gut und Boese (USA) (Disc 2).mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="22131" source="ScreenScraper.fr">
+		<path>./Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 2).gz</path>
+		<name>Xenosaga Episode III : Also sprach Zarathustra (Disc 2)</name>
+		<desc>The story of Xenosaga III starts a year after "Xenosaga II" ended. Shion has resigned from Vector Industries after learning that the company is deeply connected to the appearance of the Gnosis. She instead joins Scientia, an underground organization working to unveil Vector's secrets in order to bring them down. Uncover the truth and save mankind in the finale of the Xenosaga series which boasts over 3 hours of movies, an updated battle system, and an improved customization feature with more in-depth character specialization and diversification and higher rewards for strategic party management. This RPG also includes an easily accessible database feature, the "Xeno Bible" and a mini-game with over 50 levels that challenges both you and your friends.</desc>
+		<rating>0.9</rating>
+		<releasedate>20060706T000000</releasedate>
+		<developer>Monolith Soft</developer>
+		<publisher>Namco</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<image>./mixart/Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 2).png</image>
+		<marquee>./wheel/Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 2).png</marquee>
+		<video>./snap/Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 2).mp4</video>
+		<genreid>768</genreid>
+	</game>
+	<game id="22421" source="ScreenScraper.fr">
+		<path>./Colin McRae Rally 2005 (Europe) (En,Fr,De,Es,It).gz</path>
+		<name>Colin McRae Rally 2005</name>
+		<desc>The fifth iteration of the rally racing game inspired by the "Flying Scotsman".  Choose from over 30 car models.  The detail and physics are improved, and more playing modes are available, including a new around-the-world career mode.  Weather conditions and rally courses can both be customized.  Network play supports up to eight players with split-screen.  As always, the menu design is clean, and the tracks are dirty!</desc>
+		<image>./mixart/Colin McRae Rally 2005 (Europe) (En,Fr,De,Es,It).png</image>
+		<video>./snap/Colin McRae Rally 2005 (Europe) (En,Fr,De,Es,It).mp4</video>
+		<marquee>./wheel/Colin McRae Rally 2005 (Europe) (En,Fr,De,Es,It).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20070531T000000</releasedate>
+		<developer>Codemasters</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Race, Driving</genre>
+		<players>2-8</players>
+		<genreid>1537</genreid>
+	</game>
+	<game id="22020" source="ScreenScraper.fr">
+		<path>./Jak X - Combat Racing (USA) (En,Fr,De,Es,It,Pt,Ru).gz</path>
+		<name>Jak X : Combat Racing</name>
+		<desc>Developer Naughty Dog takes the popular Jak and Daxter franchise in a new direction, as players will test Jak's lead foot in Jak X: Combat Racing. Summoned to Kras City to hear the reading of Krew's will, the duo find that they have been thrust into a deadly plot where everyone present at the reading has been unknowingly poisoned. In order for the antidote to be administered in time, Jak and Daxter must race in the Kras City Grand Championship. 
+ Featuring over a dozen customizable vehicles designed with unique handling characteristics, players will race their "whip" through 20 tracks in eight different terrain arenas. With an assortment of power-ups available, including projectile weapons, mines, ranged weapons, turbo boosts, shields, and smart bombs, players should have the means necessary to ensure they're the first (and last) to cross the finish line.</desc>
+		<image>./mixart/Jak X - Combat Racing (USA) (En,Fr,De,Es,It,Pt,Ru).png</image>
+		<video>./snap/Jak X - Combat Racing (USA) (En,Fr,De,Es,It,Pt,Ru).mp4</video>
+		<marquee>./wheel/Jak X - Combat Racing (USA) (En,Fr,De,Es,It,Pt,Ru).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20051109T000000</releasedate>
+		<developer>Naughty Dog</developer>
+		<publisher>Sony</publisher>
+		<genre>Race, Driving</genre>
+		<players>2-6</players>
+		<genreid>1537</genreid>
+	</game>
+	<game id="22303" source="ScreenScraper.fr">
+		<path>./Shadow Hearts - From the New World (USA).gz</path>
+		<name>Shadow Hearts : From the New World</name>
+		<desc>The year is 1929. America is threatened by a mysterious evil power. Pale green distortions in the sky, called "windows", spawn vicious monsters. Johnny Garland is a young man who has lost his family and his memory in a terrible accident. It turns out that he inherited a fortune from his father, but he is not interested in money, but in re-discovering his own past. For that reason, Johnny becomes a private investigator. He receives an assignment which involves capturing an escaped convict. During the investigation, Johnny meets Shania, a native American woman who works as a monster-hunter. From that point on, the destinies of the two are linked together... 
+ 
+This installment of the  Shadow Hearts series utilizes almost the same gameplay system as  Shadow Hearts: Covenant. The turn-based battles are once again controlled by the Judgment Ring: you must stop a spinning indicator on a colored segment of a ring in order to execute a successful attack. New in this game are combo attacks which the players can execute through special areas of the Judgment Ring.</desc>
+		<image>./mixart/Shadow Hearts - From the New World (USA).png</image>
+		<video>./snap/Shadow Hearts - From the New World (USA).mp4</video>
+		<marquee>./wheel/Shadow Hearts - From the New World (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate />
+		<developer>Ghostlight</developer>
+		<publisher>Nautilus</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<genreid>768</genreid>
+	</game>
+	<game id="23784" source="ScreenScraper.fr">
+		<path>./Silent Scope 2 - Dark Silhouette (USA) (En,Ja,Es).gz</path>
+		<name>Silent Scope 2 : Dark Silhouette</name>
+		<desc>Silent Scope 2: Dark Silhouette (Silent Scope 2: Fatal Judgement in Europe and Silent Scope 2: Innocent Sweeper in Japan) is a rail shooter game that is the sequel to the popular arcade game Silent Scope. 
+ 
+The suspense begins in the United Kingdom, where a terrorist group has planned a deadly attack on an unsuspecting city. Taking on the role of an anti-terrorist operative employed by a government-run peacekeeping agency, players are tasked with tracking down and apprehending the terrorist group. Missions take place in a myriad of European environments, from London's River Thames to snowy Swiss mountain ranges.</desc>
+		<image>./mixart/Silent Scope 2 - Dark Silhouette (USA) (En,Ja,Es).png</image>
+		<video>./snap/Silent Scope 2 - Dark Silhouette (USA) (En,Ja,Es).mp4</video>
+		<marquee>./wheel/Silent Scope 2 - Dark Silhouette (USA) (En,Ja,Es).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20011116T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<genreid>261</genreid>
+	</game>
+	<game id="22740" source="ScreenScraper.fr">
+		<path>./SOCOM - U.S. Navy SEALs - Combined Assault (USA).gz</path>
+		<name>SOCOM : U.S. Navy SEALs, Combined Assault</name>
+		<desc>SOCOM U.S. Navy SEALs: Combined Assault is a video game for the PlayStation 2 that was released on November 7, 2006 in North America. 
+ 
+Combined Assault's campaign mode offers 18 missions. The game takes place solely in the fictional country of Adjekistan. The country is supposedly situated somewhere in the Afghanistan/Pakistan region of Central Asia, featuring a number of different environment and climate zonesâ€”allowing for the game to feature a wide variety of landscapes and settings while working within one large, connected story. The online servers were shut down on August 31, 2012[1] Although the Combined Assault servers were shut down, some gamers still play via LAN using programs like Xlink Kai.[citation needed]</desc>
+		<image>./mixart/SOCOM - U.S. Navy SEALs - Combined Assault (USA).png</image>
+		<video>./snap/SOCOM - U.S. Navy SEALs - Combined Assault (USA).mp4</video>
+		<marquee>./wheel/SOCOM - U.S. Navy SEALs - Combined Assault (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20070523T000000</releasedate>
+		<developer>Zipper Interactive</developer>
+		<publisher>Sony</publisher>
+		<genre>Strategy</genre>
+		<players>2-32</players>
+		<genreid>1280</genreid>
+	</game>
+	<game id="22170" source="ScreenScraper.fr">
+		<path>./SOCOM 3 - U.S. Navy SEALs (USA).gz</path>
+		<name>SOCOM 3 : U.S. Navy SEALs</name>
+		<desc>The Socom series continues with a single player campaign. 32 player capability is added to the online experience. The series is still about protecting America against urban and rural warfare. Three new AOs are included in this game: Morocco, Poland, and Bangladesh. Maps are 5 to 6 times larger than the last game. Multiple save points have been included. Vehicles can be driven by players and AI. The new weapon customization allows 30 different weapons and attachments. The new TCA system allows the player to quickly give a command.</desc>
+		<image>./mixart/SOCOM 3 - U.S. Navy SEALs (USA).png</image>
+		<video>./snap/SOCOM 3 - U.S. Navy SEALs (USA).mp4</video>
+		<marquee>./wheel/SOCOM 3 - U.S. Navy SEALs (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20060420T000000</releasedate>
+		<developer>Zipper Interactive</developer>
+		<publisher>Sony</publisher>
+		<genre>Strategy</genre>
+		<players>2-32</players>
+		<genreid>1280</genreid>
+	</game>
+	<game id="22131" source="ScreenScraper.fr">
+		<path>./Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 1).gz</path>
+		<name>Xenosaga Episode III : Also sprach Zarathustra (Disc 1)</name>
+		<desc>The story of Xenosaga III starts a year after "Xenosaga II" ended. Shion has resigned from Vector Industries after learning that the company is deeply connected to the appearance of the Gnosis. She instead joins Scientia, an underground organization working to unveil Vector's secrets in order to bring them down. Uncover the truth and save mankind in the finale of the Xenosaga series which boasts over 3 hours of movies, an updated battle system, and an improved customization feature with more in-depth character specialization and diversification and higher rewards for strategic party management. This RPG also includes an easily accessible database feature, the "Xeno Bible" and a mini-game with over 50 levels that challenges both you and your friends.</desc>
+		<image>./mixart/Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 2).png</image>
+		<video>./snap/Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 2).mp4</video>
+		<marquee>./wheel/Xenosaga Episode III - Also sprach Zarathustra (USA) (Disc 2).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20060706T000000</releasedate>
+		<developer>Monolith Soft</developer>
+		<publisher>Namco</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<genreid>768</genreid>
+	</game>
+	<game id="21970" source="ScreenScraper.fr">
+		<path>./Sims, The - Bustin' Out (USA).gz</path>
+		<name>The Sims : Bustin' Out</name>
+		<desc>The Sims Bustin' Out is the second title in The Sims console series and the first The Sims title to not be released on PC. It featured the same 3D environment and engine the past game did, however adds several features from The Sims expansion packs: The Sims: Hot Date, The Sims: Superstar, and The Sims: Livin' Large. Bustin' Out was released for the Game Boy Advance, GameCube, PlayStation 2, Xbox and N-Gage in the fourth quarter of 2003. As the title suggests, the Sims can get out of the house to visit other locations such as Shiny Things Lab or Casa Caliente. There are two modes. Bust Out Mode which has mission based gameplay and Freeplay Mode which is open-ended gameplay very much like the original The Sims PC game.</desc>
+		<image>./mixart/Sims, The - Bustin' Out (USA).png</image>
+		<video>./snap/Sims, The - Bustin' Out (USA).mp4</video>
+		<marquee>./wheel/Sims, The - Bustin' Out (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20031215T000000</releasedate>
+		<developer>Maxis Software</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Simulation</genre>
+		<players>2</players>
+		<genreid>1024</genreid>
+	</game>
 </gameList>
