@@ -1989,19 +1989,6 @@ Includes 3 gameplay modes: Arcade, Timed and "Hits" which measures how many enem
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Dune (USA).chd</path>
-		<name>Dune (USA)</name>
-		<image>./mixart/Dune (USA).png</image>
-		<video>./snap/Dune (USA).mp4</video>
-		<marquee>./wheel/Dune (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-		<players />
-	</game>
-	<game>
 		<path>./ESPN National Hockey Night (USA).chd</path>
 		<name>ESPN National Hockey Night</name>
 		<desc>ESPN National Hockey Night was one of the many hockey games released back in the day.  This one featured all the NHL teams for its time, but lacked an official players license.
@@ -3052,5 +3039,14 @@ The Sega CD version of the game retains identical levels and gameplay, but adds 
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./Dune (USA).chd</path>
+		<name>Dune (USA)</name>
+		<image>./mixart/Dune (USA).png</image>
+		<video>./snap/Dune (USA).mp4</video>
+		<marquee>./wheel/Dune (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
 	</game>
 </gameList>

@@ -9364,20 +9364,6 @@ Your ship is outfitted with phaser cannons and photon torpedoes, both of which y
 		<genre>Adventure</genre>
 	</game>
 	<game>
-		<path>./Destruction Derby Raw (USA).chd</path>
-		<name>Destruction Derby Raw</name>
-		<desc>Though not a product of Psygnosis, Destruction Derby Raw retains the same emphasis on wanton vehicular destruction as its forebears. "Wreckin' Racing," "Battle," "Smash 4 $," are the three main modes of play, each offering additional sub-modes. Wreckin' Racing provides some sense of more traditional racing, in that the goal is to finish each track in one of the top three positions in order to advance through a championship circuit, unlocking courses (31 in all) all the while. Knocking the opposition around is not entirely discouraged either.   Battle enables four players to compete in split-screen competition across varying "disciplines." The Assault sub-mode is simply a last-man-standing event in which competitors battle head-to-head. Here, options such as the track and lap count can be adjusted as desired. The Destruction Derby event, a series staple, now offers Classic and Arena variations. In Skyscraper, players aim to push one another off the roof of a tall building. Last of all is Pass Da Bomb, where the object is, of course, to not have possession of the bomb.   Smash 4 $ mode is fairly self-explanatory. To earn money (functionally equivalent to points), players are expected to liberally dole out damage to any of the other racers. High-speed collisions satisfy the basic requirement for "stunts." By pulling off a Corkscrew, Teeth Puller, or Bone Cruncher, players earn these much-needed points, and also cause real-time damage to the unlucky recipient's car. Point totals and finishing place all count towards a final point tally, which is in turn measured against a predetermined value. Players must earn enough to continue on to the next event. Accumulated cash can then be spent to upgrade or repair your vehicle.</desc>
-		<image>./mixart/Destruction Derby Raw (USA).png</image>
-		<video>./snap/Destruction Derby Raw (USA).mp4</video>
-		<marquee>./wheel/Destruction Derby Raw (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20000915T000000</releasedate>
-		<developer>Studio 33</developer>
-		<publisher>Sony</publisher>
-		<genre>Race, Driving-Action</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Gunfighter - The Legend of Jesse James (USA).chd</path>
 		<name>Gunfighter : The Legend of Jesse James</name>
 		<desc>Step into the boots of a legend of the Old West for a sharp-shooting adventure of true romance and frontier justice. Jesse James' partner has been shot dead and his best girl Zee has been kidnapped by a band of no-good outlaw varmints. Guide the rogue hero as he blasts away at the bad guys to avenge his lost companion and save the girl. The game is compatible with PlayStation light guns for a true first-person experience. Gunfighter: The Legend of Jesse James also features an assortment of mini-games for variety and replay value.</desc>
@@ -17121,20 +17107,6 @@ Scroll around, punch, kick, ply with bat-weapons, and avoid being on the receivi
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Diablo (USA).chd</path>
-		<name>Diablo</name>
-		<desc>Set in the fictional Kingdom of Khanduras, located in the world of Sanctuary, Diablo has the player take control of a lone hero battling to rid the world of Diablo, the Lord of Terror. Beneath the town of Tristram, the player journeys through sixteen dungeon levels, ultimately entering Hell itself in order to face Diablo.</desc>
-		<image>./mixart/Diablo (USA).png</image>
-		<video>./snap/Diablo (USA).mp4</video>
-		<marquee>./wheel/Diablo (USA).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19980302T000000</releasedate>
-		<developer>Blizzard</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Role playing games</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Parasite Eve (USA).m3u</path>
 		<name>Parasite Eve</name>
 		<desc>An ordinary day in New York for rookie police officer Aya Brea. Christmas Eve is the present day, and you've decided to visit the opera theater. Now this is where the fireworks begin. Suddenly audience members are set on fire, toasted completely, and it appears that the lead vocal is the source of this burning terror. Yet you appear to be immune, and as a police officer you're always on duty, so you must confront the danger.
@@ -17649,5 +17621,33 @@ The game contains a rock soundtrack including tracks by Joe Satriani and Steve V
 		<publisher>Electronic Arts</publisher>
 		<genre>Sports-Sports / Golf</genre>
 		<players>4</players>
+	</game>
+	<game>
+		<path>./Destruction Derby Raw (USA).chd</path>
+		<name>Destruction Derby Raw</name>
+		<desc>Though not a product of Psygnosis, Destruction Derby Raw retains the same emphasis on wanton vehicular destruction as its forebears. "Wreckin' Racing," "Battle," "Smash 4 $," are the three main modes of play, each offering additional sub-modes. Wreckin' Racing provides some sense of more traditional racing, in that the goal is to finish each track in one of the top three positions in order to advance through a championship circuit, unlocking courses (31 in all) all the while. Knocking the opposition around is not entirely discouraged either.   Battle enables four players to compete in split-screen competition across varying "disciplines." The Assault sub-mode is simply a last-man-standing event in which competitors battle head-to-head. Here, options such as the track and lap count can be adjusted as desired. The Destruction Derby event, a series staple, now offers Classic and Arena variations. In Skyscraper, players aim to push one another off the roof of a tall building. Last of all is Pass Da Bomb, where the object is, of course, to not have possession of the bomb.   Smash 4 $ mode is fairly self-explanatory. To earn money (functionally equivalent to points), players are expected to liberally dole out damage to any of the other racers. High-speed collisions satisfy the basic requirement for "stunts." By pulling off a Corkscrew, Teeth Puller, or Bone Cruncher, players earn these much-needed points, and also cause real-time damage to the unlucky recipient's car. Point totals and finishing place all count towards a final point tally, which is in turn measured against a predetermined value. Players must earn enough to continue on to the next event. Accumulated cash can then be spent to upgrade or repair your vehicle.</desc>
+		<image>./mixart/Destruction Derby Raw (USA).png</image>
+		<video>./snap/Destruction Derby Raw (USA).mp4</video>
+		<marquee>./wheel/Destruction Derby Raw (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20000915T000000</releasedate>
+		<developer>Studio 33</developer>
+		<publisher>Sony</publisher>
+		<genre>Race, Driving-Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Diablo (USA).chd</path>
+		<name>Diablo</name>
+		<desc>Set in the fictional Kingdom of Khanduras, located in the world of Sanctuary, Diablo has the player take control of a lone hero battling to rid the world of Diablo, the Lord of Terror. Beneath the town of Tristram, the player journeys through sixteen dungeon levels, ultimately entering Hell itself in order to face Diablo.</desc>
+		<image>./mixart/Diablo (USA).png</image>
+		<video>./snap/Diablo (USA).mp4</video>
+		<marquee>./wheel/Diablo (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19980302T000000</releasedate>
+		<developer>Blizzard</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Role playing games</genre>
+		<players>2</players>
 	</game>
 </gameList>

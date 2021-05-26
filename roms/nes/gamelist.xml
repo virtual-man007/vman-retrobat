@@ -27046,22 +27046,6 @@ You can play as a single player or two people, taking turns. (Player 2 starts th
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Contra (USA).zip</path>
-		<name>Contra</name>
-		<desc>In the year 2631, a small meteorite has fallen into the Galuga archipelago, located 20km northeast off the coast of New Zealand. Two years later, a terrorist group known as Red Falcon has seized the island in preparation for an alien invasion. The earth's marines sent two members of their elite Contra unit, Bill Rizer and Lance Bean, to neutralize the terrorists.
-
-As either, Bill (player 1) or Lance (player 2), the player must get to the end of each stage, shooting everything in sight, while avoiding enemy fire themselves. The player can upgrade their standard-issue rifle into one of four different weapons, including the powerful spread shot.</desc>
-		<image>./mixart/Contra (USA).png</image>
-		<video>./snap/Contra (USA).mp4</video>
-		<marquee>./wheel/Contra (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19880201T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Danny Sullivan's Indy Heat (USA).zip</path>
 		<name>Danny Sullivan's Indy Heat</name>
 		<desc>Danny Sullivan, 1988 IndyCar champion and winner of the classic 'Spin &amp; Win' Indianapolis 500 in 1985, put his name to this Super Sprint style racing game. There are 4 cars in each race, 1 or 2 player options, and 9 tracks to race on, with the Tradewest Speed Bowl the ultimate target, and is much longer but with double points (it's essentially a substitute for the licensed-elsewhere Indianapolis 500, which did pay double the usual level of IndyCar championship points for many years).
@@ -27106,22 +27090,6 @@ Gameplay is top-down and vertical-scrolling. There are no plays or formations to
 		<developer>Data East</developer>
 		<publisher>Data East</publisher>
 		<genre>Beat'em Up</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Battletoads (USA).zip</path>
-		<name>Battletoads</name>
-		<desc>The Dark Queen has attacked and kidnapped (toadnapped?) your best buddy.. To make matters worse, she nabbed the best looking girl around! So, what will you do? Cry? Whimper? Hide? Call the Starcops? NO! Cause you're a Battletoad! Battletoads don't cry, hide or call for help! And they certainly don't whimper! They get MAD then they get EVEN! So grab your blaster, hop on the Toadster and go get 'em!
-
-You will control a battletoad through various levels. Some are side-scrolling beat-em-ups, other are vertical drops down a shaft, fighting as you go, others have you riding a rocket or surfboard, shooting or avoiding enemies. At the end of each area, there is a boss. In some areas, about half-way through, you may have a mini-boss.</desc>
-		<image>./mixart/Battletoads (USA).png</image>
-		<video>./snap/Battletoads (USA).mp4</video>
-		<marquee>./wheel/Battletoads (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19910602T000000</releasedate>
-		<developer>Rareware</developer>
-		<publisher>Tradewest</publisher>
-		<genre>Beat'em Up-Action</genre>
 		<players>1-2</players>
 	</game>
 	<game>
@@ -28072,20 +28040,6 @@ Updates to the gameplay include an energy bar, which can be run down by either b
 		<genre>Shoot'em Up</genre>
 	</game>
 	<game>
-		<path>./1942 (Japan, USA).zip</path>
-		<name>1942</name>
-		<desc>A conversion of the arcade game, 1942 is a vertically scrolling shooter for one or two players. The year is 1942, and you are a daring fighter pilot "Super Ace". You begin and end each of the numerous levels on an aircraft carrier and then fly your plane into battle against the enemy over both sea and land. After destroying certain plane formations you can collect several different power ups to increase your fire power and chances of survival.</desc>
-		<image>./mixart/1942 (Japan, USA).png</image>
-		<video>./snap/1942 (Japan, USA).mp4</video>
-		<marquee>./wheel/1942 (Japan, USA).png</marquee>
-		<rating>0.55</rating>
-		<releasedate>19861101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Shoot'em Up-Action</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Legend of Prince Valiant, The (Europe).zip</path>
 		<name>The Legend of Prince Valiant</name>
 		<desc>The Legend of Prince Valiant is a side-scrolling action game in which the player takes on the role of Prince Valiant. The game is licensed from the television cartoon series of the same name which in turn is based on an older comic series.
@@ -28484,5 +28438,51 @@ Castlevania is a side-scrolling platform action game. The player taking the role
 		<genre>Action-Compilation</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./1942 (Japan, USA).zip</path>
+		<name>1942</name>
+		<desc>A conversion of the arcade game, 1942 is a vertically scrolling shooter for one or two players. The year is 1942, and you are a daring fighter pilot "Super Ace". You begin and end each of the numerous levels on an aircraft carrier and then fly your plane into battle against the enemy over both sea and land. After destroying certain plane formations you can collect several different power ups to increase your fire power and chances of survival.</desc>
+		<image>./mixart/1942 (Japan, USA).png</image>
+		<video>./snap/1942 (Japan, USA).mp4</video>
+		<marquee>./wheel/1942 (Japan, USA).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>19861101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em Up-Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Battletoads (USA).zip</path>
+		<name>Battletoads</name>
+		<desc>The Dark Queen has attacked and kidnapped (toadnapped?) your best buddy.. To make matters worse, she nabbed the best looking girl around! So, what will you do? Cry? Whimper? Hide? Call the Starcops? NO! Cause you're a Battletoad! Battletoads don't cry, hide or call for help! And they certainly don't whimper! They get MAD then they get EVEN! So grab your blaster, hop on the Toadster and go get 'em!
+
+You will control a battletoad through various levels. Some are side-scrolling beat-em-ups, other are vertical drops down a shaft, fighting as you go, others have you riding a rocket or surfboard, shooting or avoiding enemies. At the end of each area, there is a boss. In some areas, about half-way through, you may have a mini-boss.</desc>
+		<image>./mixart/Battletoads (USA).png</image>
+		<video>./snap/Battletoads (USA).mp4</video>
+		<marquee>./wheel/Battletoads (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19910602T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Tradewest</publisher>
+		<genre>Beat'em Up-Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Contra (USA).zip</path>
+		<name>Contra</name>
+		<desc>In the year 2631, a small meteorite has fallen into the Galuga archipelago, located 20km northeast off the coast of New Zealand. Two years later, a terrorist group known as Red Falcon has seized the island in preparation for an alien invasion. The earth's marines sent two members of their elite Contra unit, Bill Rizer and Lance Bean, to neutralize the terrorists.
+
+As either, Bill (player 1) or Lance (player 2), the player must get to the end of each stage, shooting everything in sight, while avoiding enemy fire themselves. The player can upgrade their standard-issue rifle into one of four different weapons, including the powerful spread shot.</desc>
+		<image>./mixart/Contra (USA).png</image>
+		<video>./snap/Contra (USA).mp4</video>
+		<marquee>./wheel/Contra (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19880201T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
 	</game>
 </gameList>

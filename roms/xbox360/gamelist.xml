@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<gameList>
+	<game>
+		<path>./Battlezone.m3u</path>
+		<name>Battlezone</name>
+		<image>./mixart/Battlezone.png</image>
+		<video>./snap/Battlezone.mp4</video>
+		<marquee>./wheel/Battlezone.png</marquee>
+		<rating />
+		<releasedate>19981002T000000</releasedate>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Bomberman LIVE.m3u</path>
+		<name>Bomberman LIVE</name>
+		<image>./mixart/Bomberman LIVE.png</image>
+		<video>./snap/Bomberman LIVE.mp4</video>
+		<marquee>./wheel/Bomberman LIVE.png</marquee>
+		<rating />
+		<releasedate>19981002T000000</releasedate>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Boom Boom Rocket.m3u</path>
+		<name>Boom Boom Rocket</name>
+		<image>./mixart/Boom Boom Rocket.png</image>
+		<video>./snap/Boom Boom Rocket.mp4</video>
+		<marquee>./wheel/Boom Boom Rocket.png</marquee>
+		<rating />
+		<releasedate>19981002T000000</releasedate>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Catan.m3u</path>
+		<name>Catan</name>
+		<image>./mixart/Catan.png</image>
+		<video>./snap/Catan.mp4</video>
+		<marquee>./wheel/Catan.png</marquee>
+		<rating />
+		<releasedate>19981002T000000</releasedate>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Comic Jumper.m3u</path>
+		<name>Comic Jumper</name>
+		<image>./mixart/Comic Jumper.png</image>
+		<video>./snap/Comic Jumper.mp4</video>
+		<marquee>./wheel/Comic Jumper.png</marquee>
+		<rating />
+		<releasedate>19981002T000000</releasedate>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Gears of War Judgement.m3u</path>
+		<name>Gears of War Judgement</name>
+		<image>./mixart/Gears of War Judgement.png</image>
+		<video>./snap/Gears of War Judgement.mp4</video>
+		<marquee>./wheel/Gears of War Judgement.png</marquee>
+		<rating />
+		<releasedate>19981002T000000</releasedate>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Geometry Wars Evolved 2.m3u</path>
+		<name>Geometry Wars Evolved 2</name>
+		<image>./mixart/Geometry Wars Evolved 2.png</image>
+		<video>./snap/Geometry Wars Evolved 2.mp4</video>
+		<marquee>./wheel/Geometry Wars Evolved 2.png</marquee>
+		<rating />
+		<releasedate>19981002T000000</releasedate>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Go! Go! Break Steady.m3u</path>
+		<name>Go! Go! Break Steady</name>
+		<image>./mixart/Go! Go! Break Steady.png</image>
+		<video>./snap/Go! Go! Break Steady.mp4</video>
+		<marquee>./wheel/Go! Go! Break Steady.png</marquee>
+		<rating />
+		<releasedate>19981002T000000</releasedate>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Goldeneye007.m3u</path>
+		<name>Goldeneye 007</name>
+		<image>./mixart/Goldeneye007.png</image>
+		<video>./snap/Goldeneye007.mp4</video>
+		<marquee>./wheel/Goldeneye007.png</marquee>
+		<rating />
+		<releasedate>19981002T000000</releasedate>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Joy Ride Turbo.m3u</path>
+		<name>Joy Ride Turbo</name>
+		<image>./mixart/Joy Ride Turbo.png</image>
+		<video>./snap/Joy Ride Turbo.mp4</video>
+		<marquee>./wheel/Joy Ride Turbo.png</marquee>
+		<rating />
+		<releasedate>19981002T000000</releasedate>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Onechanbara Bikini Samurai Squad.m3u</path>
+		<name>Onechanbara Bikini Samurai Squad</name>
+		<image>./mixart/Onechanbara Bikini Samurai Squad.png</image>
+		<video>./snap/Onechanbara Bikini Samurai Squad.mp4</video>
+		<marquee>./wheel/Onechanbara Bikini Samurai Squad.png</marquee>
+		<rating />
+		<releasedate>19981002T000000</releasedate>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Perfect Dark.m3u</path>
+		<name>Perfect Dark</name>
+		<image>./mixart/Perfect Dark.png</image>
+		<video>./snap/Perfect Dark.mp4</video>
+		<marquee>./wheel/Perfect Dark.png</marquee>
+		<rating />
+		<releasedate>19981002T000000</releasedate>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Rocky and Bullwinkle.m3u</path>
+		<name>Rocky and Bullwinkle</name>
+		<image>./mixart/Rocky and Bullwinkle.png</image>
+		<video>./snap/Rocky and Bullwinkle.mp4</video>
+		<marquee>./wheel/Rocky and Bullwinkle.png</marquee>
+		<rating />
+		<releasedate>19981002T000000</releasedate>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Rumble Roses XX.m3u</path>
+		<name>Rumble Roses XX</name>
+		<image>./mixart/Rumble Roses XX.png</image>
+		<video>./snap/Rumble Roses XX.mp4</video>
+		<marquee>./wheel/Rumble Roses XX.png</marquee>
+		<rating />
+		<releasedate>19981002T000000</releasedate>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Shrek n Roll.m3u</path>
+		<name>Shrek n Roll</name>
+		<image>./mixart/Shrek n Roll.png</image>
+		<video>./snap/Shrek n Roll.mp4</video>
+		<marquee>./wheel/Shrek n Roll.png</marquee>
+		<rating />
+		<releasedate>19981002T000000</releasedate>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Soltrio Solitaire.m3u</path>
+		<name>Soltrio Solitaire</name>
+		<image>./mixart/Soltrio Solitaire.png</image>
+		<video>./snap/Soltrio Solitaire.mp4</video>
+		<marquee>./wheel/Soltrio Solitaire.png</marquee>
+		<rating />
+		<releasedate>19981002T000000</releasedate>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Tetris Evolution.m3u</path>
+		<name>Tetris Evolution</name>
+		<image>./mixart/Tetris Evolution.png</image>
+		<video>./snap/Tetris Evolution.mp4</video>
+		<marquee>./wheel/Tetris Evolution.png</marquee>
+		<rating />
+		<releasedate>19981002T000000</releasedate>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Texas Hold 'em.m3u</path>
+		<name>Texas Hold 'em</name>
+		<image>./mixart/Texas Hold 'em.png</image>
+		<video>./snap/Texas Hold 'em.mp4</video>
+		<marquee>./wheel/Texas Hold 'em.png</marquee>
+		<rating />
+		<releasedate>19981002T000000</releasedate>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Battlezone.m3u</path>
+		<name>Battlezone</name>
+	</game>
+	<game>
+		<path>./Harm's Way.m3u</path>
+		<name>Harm's Way</name>
+		<image>./mixart/Harm's Way.png</image>
+		<video>./snap/Harm's Way.mp4</video>
+		<marquee>./wheel/Harm's Way.png</marquee>
+		<rating></rating>
+		<releasedate>19981002T000000</releasedate>
+		<players>1</players>
+	</game>
+</gameList>
