@@ -227,6 +227,7 @@
 		<genre>Role playing games-Adventure</genre>
 		<players>1</players>
 		<image>./mixart/Giftpia (Japan).png</image>
+		<marquee>./wheel/Giftpia (Japan).png</marquee>
 		<video>./snap/Giftpia (Japan).mp4</video>
 	</game>
 	<game id="5057" source="ScreenScraper.fr">
@@ -1170,6 +1171,7 @@
 		<genre>Race, Driving-Action-Platform</genre>
 		<players>2-4</players>
 		<image>./mixart/Super Monkey Ball Adventure (USA).png</image>
+		<marquee>./wheel/Super Monkey Ball Adventure (USA).png</marquee>
 		<video>./snap/Super Monkey Ball Adventure (USA).mp4</video>
 	</game>
 	<game id="4984" source="ScreenScraper.fr">
