@@ -4990,23 +4990,6 @@
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game>
-		<path>./Bloody Roar - Primal Fury (USA).rvz</path>
-		<name>Bloody Roar : Primal Fury</name>
-		<desc>Primal Fury, called Bloody Roar Extreme in Japan, is a traditional 3D polygonal fighter that boasts a brawling style similar to that of Fighting Vipers. The twist is that each of the game's 16 characters can transform from human to beast shape and take on new fighting abilities. Bloody Roar: Primal Fury comes as an updated port to the PlayStation 2 released Bloody Roar 3, and is differentiated by enhanced, more detailed graphics, more rounded character models and a better framerate, among other additions. Developed by Eighting, the game is rated "T" for Teen by the ESRB.</desc>
-		<image>./mixart/Bloody Roar - Primal Fury (USA).png</image>
-		<video>./snap/Bloody Roar - Primal Fury (USA).mp4</video>
-		<marquee>./wheel/Bloody Roar - Primal Fury (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20020319T000000</releasedate>
-		<developer>Hudson</developer>
-		<publisher>Activision</publisher>
-		<genre>Fight</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="5308" source="ScreenScraper.fr">
 		<path>./Freestyle MetalX (USA).rvz</path>
 		<name>Freestyle Metal X</name>
@@ -7791,20 +7774,6 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Beyond Good &amp; Evil (USA) (En,Es).rvz</path>
-		<name>Beyond Good &amp; Evil</name>
-		<desc>In the future, on the planet Hillys, the population suffers from constant attacks from the alien DomZ. The situation is gradually getting worse, as the rate of DomZ kidnapings increase. The Alpha Section forces, who are in charge of protecting citizens, seem to be completely ineffective, not even fighting the DomZ. In the midst of this situation, the secretive organization IRIS alleges that the Alpha Section is involved in a massive government conspiracy, and seeks to expose the truth through journalism.  You control the young reporter/photographer Jade, with her companions Pey'j and Double H. After experiencing first-hand a DomZ attack, she is contacted by IRIS, who recruit her as an action reporter. Jade is now tasked with infiltrating the Alpha Section, exposing the government conspiracy, and ultimately finding the truth for herself.  Beyond Good &amp; Evil is an action-adventure game with diverse game play. Most of the game is based on stealth and puzzles, but there are sequences of racing, shooting, combat, and platform action. There are several mini-games and even an online ranking system (used by entering codes online after they are assigned in-game when the game is saved). As the game progresses, a large story unfolds, even dealing with some social issues on the way.</desc>
-		<image>./mixart/Beyond Good &amp; Evil (USA) (En,Es).png</image>
-		<video>./snap/Beyond Good &amp; Evil (USA) (En,Es).mp4</video>
-		<marquee>./wheel/Beyond Good &amp; Evil (USA) (En,Es).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20040226T000000</releasedate>
-		<developer>Ubisoft</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Race, Driving-Adventure</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./F-Zero GX (Europe).rvz</path>
 		<name>F-Zero GX</name>
 		<desc>The classic Nintendo franchise that has inspired countless futuristic racing games returns with F-Zero GX on the Nintendo GameCube. Long-time rival Sega collaborated with Nintendo to redefine the futuristic racing genre with intense competition, blazing speeds, and brilliant track designs. F-Zero GX offers 20 different tracks and over 30 unique pilots, as well as a custom craft editor where players can create their own vehicle. Multiple game modes including Grand Prix, Time Attack, Versus mode, and the all new challenging story mode offer a multitude of alternatives to traditional racing. Players can laso save their game data on a memory card and use it to race custom vehicles in the arcade version of F-Zero GX.</desc>
@@ -7979,5 +7948,36 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<genre>Fight</genre>
 		<players>4</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Beyond Good &amp; Evil (USA) (En,Es).rvz</path>
+		<name>Beyond Good &amp; Evil</name>
+		<desc>In the future, on the planet Hillys, the population suffers from constant attacks from the alien DomZ. The situation is gradually getting worse, as the rate of DomZ kidnapings increase. The Alpha Section forces, who are in charge of protecting citizens, seem to be completely ineffective, not even fighting the DomZ. In the midst of this situation, the secretive organization IRIS alleges that the Alpha Section is involved in a massive government conspiracy, and seeks to expose the truth through journalism.  You control the young reporter/photographer Jade, with her companions Pey'j and Double H. After experiencing first-hand a DomZ attack, she is contacted by IRIS, who recruit her as an action reporter. Jade is now tasked with infiltrating the Alpha Section, exposing the government conspiracy, and ultimately finding the truth for herself.  Beyond Good &amp; Evil is an action-adventure game with diverse game play. Most of the game is based on stealth and puzzles, but there are sequences of racing, shooting, combat, and platform action. There are several mini-games and even an online ranking system (used by entering codes online after they are assigned in-game when the game is saved). As the game progresses, a large story unfolds, even dealing with some social issues on the way.</desc>
+		<image>./mixart/Beyond Good &amp; Evil (USA) (En,Es).png</image>
+		<video>./snap/Beyond Good &amp; Evil (USA) (En,Es).mp4</video>
+		<marquee>./wheel/Beyond Good &amp; Evil (USA) (En,Es).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20040226T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Race, Driving-Adventure</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Bloody Roar - Primal Fury (USA).rvz</path>
+		<name>Bloody Roar : Primal Fury</name>
+		<desc>Primal Fury, called Bloody Roar Extreme in Japan, is a traditional 3D polygonal fighter that boasts a brawling style similar to that of Fighting Vipers. The twist is that each of the game's 16 characters can transform from human to beast shape and take on new fighting abilities. Bloody Roar: Primal Fury comes as an updated port to the PlayStation 2 released Bloody Roar 3, and is differentiated by enhanced, more detailed graphics, more rounded character models and a better framerate, among other additions. Developed by Eighting, the game is rated "T" for Teen by the ESRB.</desc>
+		<image>./mixart/Bloody Roar - Primal Fury (USA).png</image>
+		<video>./snap/Bloody Roar - Primal Fury (USA).mp4</video>
+		<marquee>./wheel/Bloody Roar - Primal Fury (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20020319T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Activision</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

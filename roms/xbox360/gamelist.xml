@@ -1,197 +1,287 @@
 <?xml version="1.0"?>
 <gameList>
-	<game>
-		<path>./Battlezone.m3u</path>
-		<name>Battlezone</name>
-		<image>./mixart/Battlezone.png</image>
-		<video>./snap/Battlezone.mp4</video>
-		<marquee>./wheel/Battlezone.png</marquee>
-		<rating />
-		<releasedate>19981002T000000</releasedate>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Bomberman LIVE.m3u</path>
-		<name>Bomberman LIVE</name>
-		<image>./mixart/Bomberman LIVE.png</image>
-		<video>./snap/Bomberman LIVE.mp4</video>
-		<marquee>./wheel/Bomberman LIVE.png</marquee>
-		<rating />
-		<releasedate>19981002T000000</releasedate>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Boom Boom Rocket.m3u</path>
-		<name>Boom Boom Rocket</name>
-		<image>./mixart/Boom Boom Rocket.png</image>
-		<video>./snap/Boom Boom Rocket.mp4</video>
-		<marquee>./wheel/Boom Boom Rocket.png</marquee>
-		<rating />
-		<releasedate>19981002T000000</releasedate>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Catan.m3u</path>
-		<name>Catan</name>
-		<image>./mixart/Catan.png</image>
-		<video>./snap/Catan.mp4</video>
-		<marquee>./wheel/Catan.png</marquee>
-		<rating />
-		<releasedate>19981002T000000</releasedate>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Comic Jumper.m3u</path>
-		<name>Comic Jumper</name>
-		<image>./mixart/Comic Jumper.png</image>
-		<video>./snap/Comic Jumper.mp4</video>
-		<marquee>./wheel/Comic Jumper.png</marquee>
-		<rating />
-		<releasedate>19981002T000000</releasedate>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Gears of War Judgement.m3u</path>
-		<name>Gears of War Judgement</name>
-		<image>./mixart/Gears of War Judgement.png</image>
-		<video>./snap/Gears of War Judgement.mp4</video>
-		<marquee>./wheel/Gears of War Judgement.png</marquee>
-		<rating />
-		<releasedate>19981002T000000</releasedate>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Geometry Wars Evolved 2.m3u</path>
-		<name>Geometry Wars Evolved 2</name>
-		<image>./mixart/Geometry Wars Evolved 2.png</image>
-		<video>./snap/Geometry Wars Evolved 2.mp4</video>
-		<marquee>./wheel/Geometry Wars Evolved 2.png</marquee>
-		<rating />
-		<releasedate>19981002T000000</releasedate>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Go! Go! Break Steady.m3u</path>
-		<name>Go! Go! Break Steady</name>
-		<image>./mixart/Go! Go! Break Steady.png</image>
-		<video>./snap/Go! Go! Break Steady.mp4</video>
-		<marquee>./wheel/Go! Go! Break Steady.png</marquee>
-		<rating />
-		<releasedate>19981002T000000</releasedate>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Goldeneye007.m3u</path>
-		<name>Goldeneye 007</name>
-		<image>./mixart/Goldeneye007.png</image>
-		<video>./snap/Goldeneye007.mp4</video>
-		<marquee>./wheel/Goldeneye007.png</marquee>
-		<rating />
-		<releasedate>19981002T000000</releasedate>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Joy Ride Turbo.m3u</path>
-		<name>Joy Ride Turbo</name>
-		<image>./mixart/Joy Ride Turbo.png</image>
-		<video>./snap/Joy Ride Turbo.mp4</video>
-		<marquee>./wheel/Joy Ride Turbo.png</marquee>
-		<rating />
-		<releasedate>19981002T000000</releasedate>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Onechanbara Bikini Samurai Squad.m3u</path>
-		<name>Onechanbara Bikini Samurai Squad</name>
-		<image>./mixart/Onechanbara Bikini Samurai Squad.png</image>
-		<video>./snap/Onechanbara Bikini Samurai Squad.mp4</video>
-		<marquee>./wheel/Onechanbara Bikini Samurai Squad.png</marquee>
-		<rating />
-		<releasedate>19981002T000000</releasedate>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Perfect Dark.m3u</path>
-		<name>Perfect Dark</name>
-		<image>./mixart/Perfect Dark.png</image>
-		<video>./snap/Perfect Dark.mp4</video>
-		<marquee>./wheel/Perfect Dark.png</marquee>
-		<rating />
-		<releasedate>19981002T000000</releasedate>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Rocky and Bullwinkle.m3u</path>
-		<name>Rocky and Bullwinkle</name>
-		<image>./mixart/Rocky and Bullwinkle.png</image>
-		<video>./snap/Rocky and Bullwinkle.mp4</video>
-		<marquee>./wheel/Rocky and Bullwinkle.png</marquee>
-		<rating />
-		<releasedate>19981002T000000</releasedate>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Rumble Roses XX.m3u</path>
-		<name>Rumble Roses XX</name>
-		<image>./mixart/Rumble Roses XX.png</image>
-		<video>./snap/Rumble Roses XX.mp4</video>
-		<marquee>./wheel/Rumble Roses XX.png</marquee>
-		<rating />
-		<releasedate>19981002T000000</releasedate>
-		<players>1</players>
-	</game>
-	<game>
+	<provider>
+		<System>Xbox 360</System>
+		<software>Skraper</software>
+		<database>ScreenScraper.fr</database>
+		<web>http://www.screenscraper.fr</web>
+	</provider>
+	<game id="0" source="ScreenScraper.fr">
 		<path>./Shrek n Roll.m3u</path>
 		<name>Shrek n Roll</name>
-		<image>./mixart/Shrek n Roll.png</image>
-		<video>./snap/Shrek n Roll.mp4</video>
-		<marquee>./wheel/Shrek n Roll.png</marquee>
-		<rating />
-		<releasedate>19981002T000000</releasedate>
-		<players>1</players>
+		<desc>Shrek-N-Roll is a small game based off the characters of the animated Shrek films, with Shrek as the giant green ogre and a host of friends and enemies, such as Fiona, Donkey, Puss-in-Boots, Charming, ... Completing every level eventually makes 24 characters available, with only aesthetic differences and no influence on the gameplay. Gameplay is based around balancing a baby Shrek snack in the form of a ball in levels usually in the form of a tower.</desc>
+		<image>./mixart/Shrek n' Roll.png</image>
+		<releasedate />
+		<md5>c84941738c52fbdeca29eba016c171d7</md5>
+		<lang>en</lang>
 	</game>
-	<game>
+	<game source="ScreenScraper.fr">
+		<path>./Harm's Way.m3u</path>
+		<name>Harms Way</name>
+		<desc>Harms Way is a fast paced, action packed race where both drivers and snipers need to team up to win the race. As the sniper, you need to blow-up the competition. As a driver you need to finish 3 laps first. To vote for this game in the Doritos Unlock Xbox contest, download the Doritos Harm's Way gamer pic by going to the Games Marketplace, selecting Add-Ons &amp; Extras. Then find “D” in Titles A-Z, and select Doritos Unlock Xbox II. The winner will be announced on December 29th, 2010 on Xbox Live and www.unlockxbox.com</desc>
+		<image>./mixart/Harm's Way.jpg</image>
+		<marquee>./wheel/Harm's Way.png</marquee>
+		<releasedate>20101208T000000</releasedate>
+		<developer>Bongfish GmbH</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Racing, Shooter, Vehicle Simulation</genre>
+		<players>4</players>
+		<md5>d2e2def0d468a1d199b9de0a155a4bec</md5>
+		<lang>en</lang>
+	</game>
+	<game source="ScreenScraper.fr">
+		<path>./Rumble Roses XX.m3u</path>
+		<name>Rumble Roses XX</name>
+		<desc>The female wrestling series Rumble Roses returns for another round with Rumble Roses XX. Rumble Roses XX features a range of visual and gameplay enhancements, including new game modes and new wrestlers. You can create your own wrestler and upgrade their abilities by taking down their opponents. The game offers Xbox Live integration, featuring leaderboards, shared photos, and matches with up to four players.</desc>
+		<image>./mixart/Rumble Roses XX.jpg</image>
+		<marquee>./wheel/Rumble Roses XX.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20060328T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action, Sports</genre>
+		<players>4</players>
+		<md5>d25e31ec649db09d19dd272c2c541fdd</md5>
+		<lang>en</lang>
+		<genreid>262</genreid>
+	</game>
+	<game source="ScreenScraper.fr">
+		<path>./Geometry Wars Evolved 2.m3u</path>
+		<name>Geometry Wars: Retro Evolved 2</name>
+		<desc>Geometry Wars: Retro Evolved 2 contains six different game modes: Deadline, King, Evolved, Pacifism, Waves and Sequence. Multiplayer was introduced in this sequel.</desc>
+		<image>./mixart/Geometry Wars - Retro Evolved 2.png</image>
+		<marquee>./wheel/Geometry Wars - Retro Evolved 2.png</marquee>
+		<releasedate>20080730T000000</releasedate>
+		<developer>Bizarre Creations, Ltd.</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Shooter</genre>
+		<players>4</players>
+		<md5>1f765c375e805bb92b99329210346332</md5>
+		<lang>en</lang>
+	</game>
+	<game source="ScreenScraper.fr">
 		<path>./Soltrio Solitaire.m3u</path>
 		<name>Soltrio Solitaire</name>
+		<desc>In Soltrio Solitaire, play your favorite classic games like Spider, Klondike, FreeCell, and more, or play them with power-up bonuses, making your own playing cards in Voyage mode. Looking for some head-to-head action? Duel it out in heated solitaire games, or play cooperative with multiplayer solitaire.</desc>
 		<image>./mixart/Soltrio Solitaire.png</image>
-		<video>./snap/Soltrio Solitaire.mp4</video>
 		<marquee>./wheel/Soltrio Solitaire.png</marquee>
-		<rating />
-		<releasedate>19981002T000000</releasedate>
-		<players>1</players>
+		<releasedate>20070516T000000</releasedate>
+		<developer>Silver Creek Entertainment</developer>
+		<players>2</players>
+		<md5>75e8fef4015db70007474cbab8930030</md5>
+		<lang>en</lang>
+		<genreid>2816</genreid>
 	</game>
-	<game>
-		<path>./Tetris Evolution.m3u</path>
-		<name>Tetris Evolution</name>
-		<image>./mixart/Tetris Evolution.png</image>
-		<video>./snap/Tetris Evolution.mp4</video>
-		<marquee>./wheel/Tetris Evolution.png</marquee>
-		<rating />
-		<releasedate>19981002T000000</releasedate>
-		<players>1</players>
+	<game source="ScreenScraper.fr">
+		<path>./Bomberman LIVE.m3u</path>
+		<name>Bomberman Live</name>
+		<desc>Drop bombs with reckless abandon and blast your enemies into oblivion. Compete with up to eight players online as you battle through eight exotic arenas with your own customized Bomberman. Unleash your fury in ongoing tournaments to prove you're the best. Choose from any of eight all new arenas and start dropping your bombs, kick fiery surprises across the arena, and send your enemies to their doom. Ongoing tournaments will allow you to compete globally to determine who's the best Bomberman of all. Each Bomberman can have a custom head or hat, facial expressions and features, and a costume. There are over 10,000 custom possibilities, so you may never see another Bomberman exactly like yours. One of the greatest game series of all time comes to Xbox LIVE Arcade. Take control of your customized Bomberman and use your bombs to knock out your opponents, discover upgrades, and dominate the arena.</desc>
+		<image>./mixart/Bomberman LIVE.png</image>
+		<marquee>./wheel/Bomberman LIVE.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20070718T000000</releasedate>
+		<developer>Backbone Entertainment</developer>
+		<genre>Puzzle</genre>
+		<players>4</players>
+		<md5>b2b0122427f4dcd5ab1b227934efa009</md5>
+		<lang>en</lang>
 	</game>
-	<game>
-		<path>./Texas Hold 'em.m3u</path>
-		<name>Texas Hold 'em</name>
-		<image>./mixart/Texas Hold 'em.png</image>
-		<video>./snap/Texas Hold 'em.mp4</video>
-		<marquee>./wheel/Texas Hold 'em.png</marquee>
-		<rating />
-		<releasedate>19981002T000000</releasedate>
-		<players>1</players>
+	<game source="ScreenScraper.fr">
+		<path>./Boom Boom Rocket.m3u</path>
+		<name>Boom Boom Rocket</name>
+		<desc>In Boom Boom Rocket, players trigger rockets to the beat of the music while traveling through a 3D cityscape. The better the player times the explosions, the more spectacular the fireworks effects. The fireworks are choreographed to 10 original tracks created by Ian Livingstone. Players can play in single player mode or go head-to-head against a friend on the same console. The game features three modes of gameplay: Normal, Speed and multiplayer head-to-head. Each song is choreographed into three skill levels to ensure that everyone can join in the fun. Successfully chain fireworks to fill the bonus meter and activate the psychedelic bonus mode for extra points. Players can unlock new firework designs by mastering each music track. You can also utilize the connected online element and see how their scores compare with other players on the Boom Boom Rocket leaderboard.</desc>
+		<image>./mixart/Boom Boom Rocket.jpg</image>
+		<marquee>./wheel/Boom Boom Rocket.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20070411T000000</releasedate>
+		<developer>Bizarre Creations, Ltd.</developer>
+		<genre>Music</genre>
+		<players>2</players>
+		<md5>d1d2b37e17df253e105f2d9385b8488d</md5>
+		<lang>en</lang>
+		<genreid>266</genreid>
 	</game>
-	<game>
+	<game source="ScreenScraper.fr">
+		<path>./Comic Jumper.m3u</path>
+		<name>Comic Jumper: The Adventures of Captain Smiley</name>
+		<desc>Comic Jumper: The Adventures of Captain Smiley (also known as simply Comic Jumper) is an action video game developed by Twisted Pixel Games published by Microsoft Game Studios. It was released for the Xbox 360 via the Xbox Live Arcade Marketplace on October 6, 2010 as part of Microsoft's Game Feast promotion. It was first announced on September 4, 2009 at PAX with a debut trailer. It is the third original game created by Twisted Pixel following The Maw and 'Splosion Man, all three of which are exclusive to Xbox Live Arcade.
+
+In Comic Jumper players control Captain Smiley, a comic book hero whose comics are poorly received. Seeking help from Twisted Pixel themselves he "jumps" in other comics, hoping to glean from each genre's popularity. As he enters each comic genre his design and weaponry changes to suit the comic style. The game received above average reviews from critics, with gaming aggregators GameRankings and Metacritic averaging 74.72% and 73/100, respectively. In its first month Comic Jumper sold over 40,000 copies and as of year-end 2011 has sold over 103,000 copies. Critics praised the game's humor, saying the game had several laugh out loud moments and excellent comedic delivery. The difficulty of the game was compared to games from the 16-bit console era.</desc>
+		<image>./mixart/Comic Jumper.png</image>
+		<marquee>./wheel/Comic Jumper.png</marquee>
+		<releasedate>20101006T000000</releasedate>
+		<developer>Twisted Pixel Games</developer>
+		<publisher>Twisted Pixel Games</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>d577d5732c201bdeacd3dd2fa9325515</md5>
+		<lang>en</lang>
+	</game>
+	<game source="ScreenScraper.fr">
+		<path>./Go! Go! Break Steady.m3u</path>
+		<name>Go! Go! Break Steady</name>
+		<desc>Take on DJ Scruffy and the Beatniks in this combination rhythm and puzzle game. Featuring original gameplay, a unique visual style, and six amazing characters breakdancing to 20 finger-tapping songs, Go! Go! Break Steady is the ultimate hybrid of two popular and challenging genres. Will Hydro and his "All City Crew" become the Break Steady Tournament Champs and take home the most prizes? The answer depends on your own rhythm and smarts. Play it solo, team up with your friends, or play online to see who has the real Break Steady "skillz!"</desc>
+		<image>./mixart/Go! Go! Break Steady.png</image>
+		<marquee>./wheel/Go! Go! Break Steady.png</marquee>
+		<releasedate>20080723T000000</releasedate>
+		<developer>Little Boy Games</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Action, Music</genre>
+		<players>2</players>
+		<md5>0f7442a958086a5825b24f7f71556414</md5>
+		<lang>en</lang>
+		<genreid>266</genreid>
+	</game>
+	<game id="17322" source="ScreenScraper.fr">
+		<path>./Catan.m3u</path>
+		<name>Catan</name>
+		<desc>Catan is an adaptation of Klaus Teuber's classic board game "The Settlers of Catan". Up to four human or AI players compete to develop their settlement on the island of Catan, dealing with robbers and negotiating with other players for resources in order to be the first to reach ten Victory Points. Catan is no longer available for purchase on Xbox Live.</desc>
+		<image>./mixart/Catan.png</image>
+		<marquee>./wheel/Catan.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20070502T000000</releasedate>
+		<developer>Big Huge Games</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Board game</genre>
+		<md5>0564d6a8c0fea18ef30e27d110323500</md5>
+		<lang>en</lang>
+		<genreid>2048</genreid>
+	</game>
+	<game id="17999" source="ScreenScraper.fr">
+		<path>./Rocky and Bullwinkle.m3u</path>
+		<name>Rocky &amp; Bullwinkle</name>
+		<desc>Based on the popular cartoon series, Rocky and Bullwinkle is an Xbox LIVE Arcade exclusive game that includes over 100 'micro-games' of various kinds. Some of the simplistic, swiftly playable-in-turn gameplay sections include juggling, shooting galleries, and a number of other Wario Ware-inspired micro-games, with characters including Dudley Do-Right, Fractured Fairy Tales, Peabody's Improbable History, and Aesop and Son.</desc>
+		<image>./mixart/Rocky and Bullwinkle.png</image>
+		<marquee>./wheel/Rocky and Bullwinkle.png</marquee>
+		<releasedate>20080416T000000</releasedate>
+		<developer>Zen Studios</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Casual Game</genre>
+		<players>1-12</players>
+		<md5>17600ffbfca435aa185659d79848eccd</md5>
+		<lang>en</lang>
+		<genreid>2304</genreid>
+	</game>
+	<game id="17559" source="ScreenScraper.fr">
 		<path>./Battlezone.m3u</path>
 		<name>Battlezone</name>
-	</game>
-	<game>
-		<path>./Harm's Way.m3u</path>
-		<name>Harm's Way</name>
-		<image>./mixart/Harm's Way.png</image>
-		<video>./snap/Harm's Way.mp4</video>
-		<marquee>./wheel/Harm's Way.png</marquee>
-		<rating></rating>
-		<releasedate>19981002T000000</releasedate>
+		<desc>The original tank vs. tank action classic Battlezone has received an Xbox LIVE overhaul, adding in exciting new multiplayer modes including Deathmatch, Team Deathmatch, and Capture the Flag. This updated version is truly a must-have for any fan of the original, which is also included. Additionally, players can use the Xbox LIVE Vision camera to watch live video of their opponents. Combine these features with new special effects for weapon firing, impacts and explosions, and you have the killer arcade classic as you've never experienced it before.</desc>
+		<image>./mixart/Battlezone.png</image>
+		<marquee>./wheel/Battlezone.png</marquee>
+		<releasedate>20080416T000000</releasedate>
+		<developer>Stainless Games</developer>
+		<publisher>Atari</publisher>
 		<players>1</players>
+		<md5>dfd2db0c96ab1897d669e003e7b9de10</md5>
+		<lang>en</lang>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Goldeneye 007.m3u</path>
+		<name>GoldenEye 007</name>
+		<desc>**DX12 SUPPORTED VIDEO CARD REQUIRED - LONG BOOT IS NORMAL!**. After 13 years of it appearing briefly on Microsofts PartnerNet service, Goldeneye 007 XBLA on the Xbox 360 has leaked. The name is Bond. James Bond. The famous hero of Ian Fleming's novels returns in this first-person shooter, which is based on the movie of the same name. Agent 007 and his friend Alec Trevalyan (a.k.a. Agent 006) were sent to Soviet Union on a secret mission. But everything goes wrong, James Bond barely escapes, and his friend is presumed dead.  Ten years later, a mysterious organization named "Janus" appeared. Commanding a new satellite called "GoldenEye", the organizations attempts to steal money electronically from banks, deleting all evidence of transfer. It's up to our Agent 007 to venture to Soviet Union once again, and to put an end to Janus' ambitions.  In this 3D action game, you control James Bond from a first-person perspective, using a variety of weapons (from knuckles to grenade launcher) to eliminate your foes. However, many parts require you to be careful, to stay unnoticed or to snipe guards from distance, since they will react to your presence and alarm their comrades. The game is divided into missions, and in some of them you'll have to perform other tasks besides killing your enemies: disarm bombs, take pictures of important evidence, or avoid killing scientists. The game features a multiplayer mode with a variety of options, and three difficulty levels.</desc>
+		<image>./mixart/Goldeneye XBLA.png</image>
+		<video>./snap/Goldeneye XBLA.mp4</video>
+		<marquee>./wheel/Goldeneye XBLA.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20210825T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Xbox/Nintendo</publisher>
+		<genre>Action-Shooter-Shooter / 1st person</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game source="ScreenScraper.fr">
+		<path>./Gears of War Judgement.m3u</path>
+		<name>Gears of War: Judgment</name>
+		<desc>"Gears of War: Judgment" takes you back before events of the original "Gears of War" trilogy to the immediate aftermath of Emergence Day - the defining event of the "Gears of War" universe. Follow Kilo Squad, led by Damon Baird and Augustus "The Cole Train" Cole, as they fight to save the city of Halvo Bay from an unstoppable enemy in the most intense 'Gears' game yet.</desc>
+		<image>./mixart/Gears of War Judgement.jpg</image>
+		<marquee>./wheel/Gears of War Judgement.png</marquee>
+		<releasedate>20130319T000000</releasedate>
+		<developer>Epic Games, Inc.</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Action, Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>e65ba562cf12cb80d3a10ee6b7f3a719</md5>
+		<lang>en</lang>
+	</game>
+	<game source="ScreenScraper.fr">
+		<path>./Joy Ride Turbo.m3u</path>
+		<name>Joy Ride Turbo</name>
+		<desc>Joy Ride Turbo is a kart racing game for the Xbox 360. The player controls their avatar as they drive vehicles in a combat racing tournament. It is a sequel to Kinect Joy Ride. Unlike its predecessor, Joy Ride Turbo does not use Kinect.</desc>
+		<image>./mixart/Joy Ride Turbo.png</image>
+		<marquee>./wheel/Joy Ride Turbo.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20120523T000000</releasedate>
+		<developer>BigPark</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<md5>b9338402df211caa2018e61b8f865a6a</md5>
+		<lang>en</lang>
+		<genreid>1537</genreid>
+	</game>
+	<game source="ScreenScraper.fr">
+		<path>./Onechanbara Bikini Samurai Squad.m3u</path>
+		<name>Onechanbara: Bikini Samurai Squad</name>
+		<desc>In Onechanbaraâ"¢: Bikini Samurai Squadâ"¢, Aya, a descendent of the family known as Imichi, meaning blood that goes out of control, reconciles with her sister Saki and live together in peace for awhile. The peace doesn't last for long as an infestation of zombies has plagued the city. The sisters join together to draw their swords and rid the city of evil.
+Play with a friend in co-op mode or switch between any of the three beautiful playable characters in single-player. Each character has a variety of unique moves to master during combat to destroy enemy zombies. Get blood on either sister to trigger Rage Mode and gain more power and agility to destroy enemies faster and deadlier. For an added experience, go to Marketplace to download additional outfits and sword-flinging girls.</desc>
+		<image>./mixart/Onechanbara.png</image>
+		<marquee>./wheel/Onechanbara.png</marquee>
+		<releasedate>20090210T000000</releasedate>
+		<developer>Tamsoft Corporation</developer>
+		<publisher>D3 Publisher Inc.</publisher>
+		<genre>Action, Adventure, Role-Playing</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>dac577a29c98a17b11c7804675b4fb76</md5>
+		<lang>en</lang>
+	</game>
+	<game source="ScreenScraper.fr">
+		<path>./Perfect Dark.m3u</path>
+		<name>Perfect Dark</name>
+		<desc>Perfect Dark (also known as Perfect Dark Arcade or Perfect Dark XBLA) is an Xbox Live Arcade video game developed by 4J Studios, published by Microsoft Game Studios, and exclusively released for the Xbox 360 on March 17, 2010. It is a remake of the Nintendo 64 first-person shooter Perfect Dark, developed by Rare and released in 2000. The player controls Joanna Dark, an operative for the fictional Carrington Institute, as she attempts to stop a conspiracy by rival corporation dataDyne. Things become complicated rapidly as she finds herself in the middle of a war between two alien races who have allied themselves with different factions on Earth.</desc>
+		<image>./mixart/Perfect Dark.png</image>
+		<marquee>./wheel/Perfect Dark.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20100317T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Action, Shooter</genre>
+		<players>4</players>
+		<md5>c65c9de793dd49b3565220b7b87ccef9</md5>
+		<lang>en</lang>
+		<genreid>256</genreid>
+	</game>
+	<game source="ScreenScraper.fr">
+		<path>./Tetris Evolution.m3u</path>
+		<name>Tetris Evolution</name>
+		<desc>In Tetris Evolution, players enjoy not only traditional Tetris gameplay but numerous new modes including "Go Low" and "Eraser" for both single and multiplayer. The multiplayer mode not only allows for up to four players on a single console, but players can now compete with up to four players via the Xbox Live online entertainment service.</desc>
+		<image>./mixart/Tetris Evolution.png</image>
+		<marquee>./wheel/Tetris Evolution.png</marquee>
+		<rating>0.3</rating>
+		<releasedate>20070319T000000</releasedate>
+		<developer>Mass Media, Inc.</developer>
+		<publisher>THQ</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>7fe88ddc05a08875e243ccdc1a69ee6c</md5>
+		<lang>en</lang>
+		<genreid>2816</genreid>
+	</game>
+	<game source="ScreenScraper.fr">
+		<path>./Texas Hold 'em.m3u</path>
+		<name>Texas Hold 'Em</name>
+		<desc>Whether you're a beginner or a pro, enjoy the thrill of the perfect hand or the perfect bluff. Test your skills in ring games and tournaments, or fine-tune your skills playing the scenario you always wanted to be in. Customize the game however you want. The comprehensive help provides details on each aspect of the game.</desc>
+		<image>./mixart/Texas Hold 'em.png</image>
+		<marquee>./wheel/Texas Hold 'em.png</marquee>
+		<releasedate>20060823T000000</releasedate>
+		<developer>TikGames, LLC</developer>
+		<genre>Strategy</genre>
+		<players>4</players>
+		<md5>1a0b5fb07af6ddd55f83df93f1116d11</md5>
+		<lang>en</lang>
 	</game>
 </gameList>

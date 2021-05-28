@@ -32526,27 +32526,6 @@ The Narcs have both machine guns and rocket launchers at their disposal and play
 		<region>us</region>
 	</game>
 	<game>
-		<path>./contra.zip</path>
-		<name>Contra</name>
-		<desc>In 2631, a meteorite strikes the Galuga archipelago near New Zealand, carrying with it a dormant alien being. Two years later, a terrorist organization calling themselves Red Falcon takes over the island as part of their plot to invade the Earth. Bill Rizer and Lance Bean, of the Contra unit, are sent to the Oceania island to stop the evil threat.
-
-'Contra' is a hectic one or two player platform shoot-em-up featuring 10 stages. In addition to the standard side-view levels, there are also "3D maze" stages in which the player must proceed through a series of corridors inside an enemy base, destroying various sensors, in order to reach the core of the base.
-
-Each player's character is equipped with a semi-automatic machine gun with an unlimited amount of ammunition and can jump, move and fire in all eight cardinal directions. Players can also move and jump simultaneously while firing. Co-ordination of the character's movement is essential as a single hit from any enemy, bullet, or other hazard will instantly kill the player's character and also eliminate the current weapon from the player's inventory.</desc>
-		<image>./mixart/contra.png</image>
-		<video>./snap/contra.mp4</video>
-		<marquee>./wheel/contra.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Plateform / Shooter Scrolling-Platform</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./kinst.zip</path>
 		<name>Killer Instinct</name>
 		<desc>10 genetically engineered fighters engage in 1-on-1 combat in a tournament arranged by the sinister 'Ultratech', the organization behind the genetic creation of the fighters. The tournament soon turns into a battle for survival.    Each player starts the game with 2 energy bars, which represent the amount of health each player has for the entire game. Once the first bar is depleted, the player falls, gets up and starts to use the second energy bar. A voice will subsequently announce either 'Round Two' or 'Killer Instinct!'. The player who wins the first round gets to keep their remaining energy, and still has the second bar to use in future fights. This gives an advantage to the player who wins the first round.    Killer Instinct introduced incredibly complex combos to the fighting genre, as well as including the Fatalities and Humiliations made famous by Midway's "Mortal Kombat" Series.</desc>
@@ -33322,6 +33301,27 @@ The game's stages, in addition to having their own unique visual theme, often di
 		<publisher>Electronic Arts</publisher>
 		<genre>Fight-Fight / 2.5D</genre>
 		<players>3</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./contra.zip</path>
+		<name>Contra</name>
+		<desc>In 2631, a meteorite strikes the Galuga archipelago near New Zealand, carrying with it a dormant alien being. Two years later, a terrorist organization calling themselves Red Falcon takes over the island as part of their plot to invade the Earth. Bill Rizer and Lance Bean, of the Contra unit, are sent to the Oceania island to stop the evil threat.
+
+'Contra' is a hectic one or two player platform shoot-em-up featuring 10 stages. In addition to the standard side-view levels, there are also "3D maze" stages in which the player must proceed through a series of corridors inside an enemy base, destroying various sensors, in order to reach the core of the base.
+
+Each player's character is equipped with a semi-automatic machine gun with an unlimited amount of ammunition and can jump, move and fire in all eight cardinal directions. Players can also move and jump simultaneously while firing. Co-ordination of the character's movement is essential as a single hit from any enemy, bullet, or other hazard will instantly kill the player's character and also eliminate the current weapon from the player's inventory.</desc>
+		<image>./mixart/contra.png</image>
+		<video>./snap/contra.mp4</video>
+		<marquee>./wheel/contra.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Plateform / Shooter Scrolling-Platform</genre>
+		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>

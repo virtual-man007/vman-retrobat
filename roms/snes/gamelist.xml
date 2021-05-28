@@ -13349,23 +13349,6 @@ All three games tell the story of ninja Ryu Hayabusa through alternating cinemat
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Soldiers of Fortune (USA).7z</path>
-		<name>Soldiers of Fortune</name>
-		<desc>Sixteen levels (in four groups of four) await you in this long-developed Bitmap Brothers title. The basic gameplay is similar to Gauntlet, but in an open air setting, with bridges across rivers and such in the maps. The visuals are in the 'metallic and blue' style the Bitmaps appeared to favor.
-
-There were 6 characters available in the game, each with different strengths and weaknesses, and different starting prices. In 2-player mode you each chose a character and played co-operatively, but in one-player games you also choose a character for the computer to control, with its Artificial Intelligence allowing it to open doors, pick up power-ups and take on baddies away from the ones occupying your character.</desc>
-		<image>./mixart/Soldiers of Fortune (USA).png</image>
-		<video>./snap/Soldiers of Fortune (USA).mp4</video>
-		<marquee>./wheel/Soldiers of Fortune (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19931201T000000</releasedate>
-		<developer>The Bitmap Brothers</developer>
-		<publisher>MicroProse</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Star Fox 2.7z</path>
 		<name>Star Fox 2</name>
 		<desc>After his defeat in the original Star Fox, the game's antagonist, Andross, returns to the Lylat system and launches an all-out attack against Corneria, using his new fleet of battleships and giant missiles launched from hidden bases to destroy the planet. General Pepper again calls upon the Star Fox team for help. Armed with new custom Arwings, a Mothership, and two new recruits (Miyu, a lynx, and Fay, a dog), the Star Fox team sets out to defend Corneria by destroying Andross's forces before they can inflict critical damage on the planet. Along the way, Star Fox must also combat giant boss enemies, bases on planets throughout the Lylat system, members of the Star Wolf team and finally Andross himself.</desc>
@@ -13716,6 +13699,23 @@ All of the people you fight with and against are displayed on cards.  They can h
 		<releasedate>2019</releasedate>
 		<developer>Homebrew</developer>
 		<publisher>Non-commercial</publisher>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Soldiers of Fortune (USA).7z</path>
+		<name>Soldiers of Fortune</name>
+		<desc>Sixteen levels (in four groups of four) await you in this long-developed Bitmap Brothers title. The basic gameplay is similar to Gauntlet, but in an open air setting, with bridges across rivers and such in the maps. The visuals are in the 'metallic and blue' style the Bitmaps appeared to favor.
+
+There were 6 characters available in the game, each with different strengths and weaknesses, and different starting prices. In 2-player mode you each chose a character and played co-operatively, but in one-player games you also choose a character for the computer to control, with its Artificial Intelligence allowing it to open doors, pick up power-ups and take on baddies away from the ones occupying your character.</desc>
+		<image>./mixart/Soldiers of Fortune (USA).png</image>
+		<video>./snap/Soldiers of Fortune (USA).mp4</video>
+		<marquee>./wheel/Soldiers of Fortune (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19931201T000000</releasedate>
+		<developer>The Bitmap Brothers</developer>
+		<publisher>MicroProse</publisher>
+		<genre>Action</genre>
+		<players>2</players>
 		<favorite>true</favorite>
 	</game>
 </gameList>

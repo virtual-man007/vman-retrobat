@@ -163,23 +163,6 @@ Castlevania Judgement is a 3D beat em up where you go one-on-one against friends
 		<video>./snap/Club Penguin - Game Day [NTSC-U].cc.mp4</video>
 		<genreid>2304</genreid>
 	</game>
-	<game id="9759" source="ScreenScraper.fr">
-		<path>./Contra ReBirth (USA) (WiiWare).wad</path>
-		<name>Contra Rebirth</name>
-		<desc>Experience fast paced 2D side scrolling action from the series that pioneered the run-and-gun genre.
-
-Chief Salamander and his Neo-Salamander Force travel back to 1973 AD to invade Earth. They land in Central America and take control of the Shizuoka ruins on the Yucatan Peninsula. There, the aliens plan the destruction of all the ?Contra" on Earth. The Galactic President calls on Lance Bean, a member of the elite "Contra" warriors to save the Earth, but his sudden disappearance jeopardizes the safety of the planet. Now, Bill Rizer and the samurai, Genbei Yagyu are the last hope for Earth and must pick up their weapons and defeat the evil Neo-Salamander Army before all is lost. Experience the fast paced action packed 2D side-scrolling adventure that pioneered the run-and-gun genre.</desc>
-		<rating>0.75</rating>
-		<releasedate>20090512T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-		<image>./mixart/Contra ReBirth (USA) (WiiWare).png</image>
-		<marquee>./wheel/Contra ReBirth (USA) (WiiWare).png</marquee>
-		<video>./snap/Contra ReBirth (USA) (WiiWare).mp4</video>
-		<genreid>256</genreid>
-	</game>
 	<game id="9211" source="ScreenScraper.fr">
 		<path>./Dokapon Kingdom (USA).cc.rvz</path>
 		<name>Dokapon Kingdom</name>
@@ -1111,5 +1094,22 @@ Each level also has three hidden treasure chests in it.  If all three are found,
 		<favorite>true</favorite>
 		<lang>en,es,fr</lang>
 		<region>eu</region>
+	</game>
+	<game id="9759" source="ScreenScraper.fr">
+		<path>./Contra ReBirth (USA) (WiiWare).wad</path>
+		<name>Contra Rebirth</name>
+		<desc>Experience fast paced 2D side scrolling action from the series that pioneered the run-and-gun genre.
+
+Chief Salamander and his Neo-Salamander Force travel back to 1973 AD to invade Earth. They land in Central America and take control of the Shizuoka ruins on the Yucatan Peninsula. There, the aliens plan the destruction of all the ?Contra" on Earth. The Galactic President calls on Lance Bean, a member of the elite "Contra" warriors to save the Earth, but his sudden disappearance jeopardizes the safety of the planet. Now, Bill Rizer and the samurai, Genbei Yagyu are the last hope for Earth and must pick up their weapons and defeat the evil Neo-Salamander Army before all is lost. Experience the fast paced action packed 2D side-scrolling adventure that pioneered the run-and-gun genre.</desc>
+		<image>./mixart/Contra ReBirth (USA) (WiiWare).png</image>
+		<video>./snap/Contra ReBirth (USA) (WiiWare).mp4</video>
+		<marquee>./wheel/Contra ReBirth (USA) (WiiWare).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20090512T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<genreid>256</genreid>
 	</game>
 </gameList>

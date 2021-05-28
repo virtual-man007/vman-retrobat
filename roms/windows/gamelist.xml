@@ -410,22 +410,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Hotshot Racing.lnk</path>
-		<name>Hotshot Racing</name>
-		<desc>Hotshot Racing is a blisteringly fast arcade-style racing game fusing drift handling, razor-sharp retro visuals and an incredible sense of speed to create an exhilarating driving experience. Developed by racing game veterans SUMO Nottingham and Lucky Mountain Games, Hotshot Racing is an all-new driving experience which revives the classic arcade gameplay of the 90s and thrusts it into the modern era. 16 racing circuits provide the twists, turns and straights conducive to searingly quick racing.</desc>
-		<image>./mixart/Hotshot Racing.png</image>
-		<video>./snap/Hotshot Racing.mp4</video>
-		<marquee>./wheel/Hotshot Racing.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20201201T000000</releasedate>
-		<developer>Lucky Mountain Games</developer>
-		<publisher>Curve Digital</publisher>
-		<genre>Racing</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./AeternoBlade.lnk</path>
 		<name>Aeterno Blade</name>
 		<desc>In the region of Awelsia, vengeful Freya travels with an unknown weapon called "AeternoBlade" to take revenge from Beladim, the Lord of the Mist who destroyed her village, Ridgerode, and killed her tribe. Her vengence is helped by Vernia , who has as much merit as Beladim. Vernia taught Freya about the ablility of AeternoBlade. Freya has to venture in many world dimensions to find how to annihilate Beladim. What is AeternoBlade and How can Freya take revenge from Beladim? Solve tons ton of mysteries in her adventure!</desc>
@@ -823,21 +807,6 @@
 		<publisher>505 Games</publisher>
 		<genre>Action, Adventure, Platform</genre>
 		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Mortal Kombat Komplete Edition.lnk</path>
-		<name>Mortal Kombat Komplete Edition</name>
-		<desc>After centuries of Mortal Kombat, Emperor Shao Kahn has finally defeated Raiden and his allies. Faced with extinction, Raiden has one last chance to save Earthrealm. To undo the Emperor's victory, he must strike Shao Kahn where he is vulnerable...the Past. Driven by an all new graphics engine, the fan favorite series is back and presented in more gory detail than ever before.</desc>
-		<image>./mixart/Mortal Kombat Komplete Edition.png</image>
-		<video>./snap/Mortal Kombat Komplete Edition.mp4</video>
-		<marquee>./wheel/Mortal Kombat Komplete Edition.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20131201T000000</releasedate>
-		<developer>NetherRealm Studios</developer>
-		<publisher>Warner Bros</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -1934,22 +1903,6 @@ Challenge your friends and family to 10 fan-favourite Party Games! Feeling like 
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
-	</game>
-	<game>
-		<path>./R-Type Dimensions.lnk</path>
-		<name>R-Type Dimensions EX</name>
-		<desc>The coin-op classics, R-Type &amp; R-Type II, are together on Steam! Fight through all 14 Bydo-infested stages in retro 2D graphics or shiny 3D graphics - and swap back and forth with the touch of a button 'on-the-fly'. The new 3D graphics are accompanied by fully re-imagined arrangements of the timeless R-Type music tracks! The classic game-play remains untouched while the new Infinite game mode allows continuous progression from game start to final boss... the Bydo will not evade you this time! Both game modes can be played as single player or local multiplayer. Pull yourself together, save the earth and strike down the Evil Bydo Empire!!</desc>
-		<image>./mixart/R-Type.jpg</image>
-		<video>./snap/R-Type.mp4</video>
-		<marquee>./wheel/R-Type.png</marquee>
-		<rating>0</rating>
-		<releasedate>20181128T010000</releasedate>
-		<developer>Tozai Games</developer>
-		<publisher>Tozai Games</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<md5>6b306021f667bf5fcb32145a2f45bbff</md5>
 	</game>
 	<game>
 		<path>./Abes Oddysee New N Tasty.lnk</path>
@@ -3842,5 +3795,52 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<genre>Adventure</genre>
 		<players>1</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Hotshot Racing.lnk</path>
+		<name>Hotshot Racing</name>
+		<desc>Hotshot Racing is a blisteringly fast arcade-style racing game fusing drift handling, razor-sharp retro visuals and an incredible sense of speed to create an exhilarating driving experience. Developed by racing game veterans SUMO Nottingham and Lucky Mountain Games, Hotshot Racing is an all-new driving experience which revives the classic arcade gameplay of the 90s and thrusts it into the modern era. 16 racing circuits provide the twists, turns and straights conducive to searingly quick racing.</desc>
+		<image>./mixart/Hotshot Racing.png</image>
+		<video>./snap/Hotshot Racing.mp4</video>
+		<marquee>./wheel/Hotshot Racing.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20201201T000000</releasedate>
+		<developer>Lucky Mountain Games</developer>
+		<publisher>Curve Digital</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Mortal Kombat Komplete Edition.lnk</path>
+		<name>Mortal Kombat Komplete Edition</name>
+		<desc>After centuries of Mortal Kombat, Emperor Shao Kahn has finally defeated Raiden and his allies. Faced with extinction, Raiden has one last chance to save Earthrealm. To undo the Emperor's victory, he must strike Shao Kahn where he is vulnerable...the Past. Driven by an all new graphics engine, the fan favorite series is back and presented in more gory detail than ever before.</desc>
+		<image>./mixart/Mortal Kombat Komplete Edition.png</image>
+		<video>./snap/Mortal Kombat Komplete Edition.mp4</video>
+		<marquee>./wheel/Mortal Kombat Komplete Edition.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20131201T000000</releasedate>
+		<developer>NetherRealm Studios</developer>
+		<publisher>Warner Bros</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./R-Type Dimensions.lnk</path>
+		<name>R-Type Dimensions EX</name>
+		<desc>The coin-op classics, R-Type &amp; R-Type II, are together on Steam! Fight through all 14 Bydo-infested stages in retro 2D graphics or shiny 3D graphics - and swap back and forth with the touch of a button 'on-the-fly'. The new 3D graphics are accompanied by fully re-imagined arrangements of the timeless R-Type music tracks! The classic game-play remains untouched while the new Infinite game mode allows continuous progression from game start to final boss... the Bydo will not evade you this time! Both game modes can be played as single player or local multiplayer. Pull yourself together, save the earth and strike down the Evil Bydo Empire!!</desc>
+		<image>./mixart/R-Type.jpg</image>
+		<video>./snap/R-Type.mp4</video>
+		<marquee>./wheel/R-Type.png</marquee>
+		<rating>0</rating>
+		<releasedate>20181128T010000</releasedate>
+		<developer>Tozai Games</developer>
+		<publisher>Tozai Games</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<md5>6b306021f667bf5fcb32145a2f45bbff</md5>
+		<lang>en</lang>
 	</game>
 </gameList>
