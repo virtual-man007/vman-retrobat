@@ -1,22 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./Double Dragon Neon.lnk</path>
-		<name>Double Dragon Neon</name>
-		<desc>BRO-TACULAR! Legendary martial artists, Billy and Jimmy Lee return in this creative re-imagining of the classic beat ‘em up, Double Dragon Neon.</desc>
-		<image>./mixart/Double Dragon Neon.png</image>
-		<video>./snap/Double Dragon Neon.mp4</video>
-		<marquee>./wheel/Double Dragon Neon.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20141201T000000</releasedate>
-		<developer>Abstraction Games</developer>
-		<publisher>Majesco Entertainment</publisher>
-		<genre>Beat'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Half-Life 2.lnk</path>
 		<name>Half-Life 2</name>
 		<desc>1998. HALF-LIFE sends a shock through the game industry with its combination of pounding action and continuous, immersive storytelling. Valve's debut title wins more than 50 game-of-the-year awards on its way to being named "Best PC Game Ever" by PC Gamer, and launches a franchise with more than eight million retail units sold worldwide.NOW. By taking the suspense, challenge and visceral charge of the original, and adding startling new realism and responsiveness, Half-Life 2 opens the door to a world where the player's presence affects everything around them, from the physical environment to the behaviors even the emotions of both friends and enemies.The player again picks up the crowbar of research scientist Gordon Freeman, who finds himself on an alien-infested Earth being picked to the bone, its resources depleted, its populace dwindling. Freeman is thrust into the unenviable role of rescuing the world from the wrong he unleashed back at Black Mesa. And a lot of people he cares about are counting on him.</desc>
@@ -158,35 +142,6 @@
 		<developer>id Software</developer>
 		<publisher>Midway</publisher>
 		<genre>Action, Horror, Shooter</genre>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Gauntlet Slayer Edition.lnk</path>
-		<name>Gauntlet Slayer Edition</name>
-		<desc>Gauntlet is a top-down dungeon crawler and an entry in the long-running Gauntlet series. The game supports up to four online or local players working cooperatively, each using a different one of the four available hero types: Elf, Valkyrie, Warrior and Wizard.</desc>
-		<image>./mixart/Gauntlet Slayer Edition.png</image>
-		<video>./snap/Gauntlet Slayer Edition.mp4</video>
-		<marquee>./wheel/Gauntlet Slayer Edition.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20141101T000000</releasedate>
-		<developer>Arrowhead Game Studios</developer>
-		<publisher>WB Games</publisher>
-		<genre>Action, Role-Playing</genre>
-		<players>4</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Halo - Spartan Strike.lnk</path>
-		<name>Halo - Spartan Strike</name>
-		<desc>Halo: Spartan Strike makes you a Spartan supersoldier battling evil forces. Delve into 30 challenging missions through cities and jungles using a devastating arsenal of weapons, abilities and vehicles including the iconic Warthog against the Covenant and Promethean enemies. Be the Spartan and deny your foes the conquest of Earth.</desc>
-		<image>./mixart/Halo - Spartan Strike.png</image>
-		<video>./snap/Halo - Spartan Strike.mp4</video>
-		<marquee>./wheel/Halo - Spartan Strike.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20141201T000000</releasedate>
-		<developer>353 Industries</developer>
-		<publisher>Microsoft Studios</publisher>
-		<genre>Action</genre>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -348,21 +303,6 @@
 		<publisher>Capcom</publisher>
 		<genre>Fighting</genre>
 		<players>4</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Ultimate Marvel vs. Capcom 3.lnk</path>
-		<name>Ultimate Marvel vs. Capcom 3</name>
-		<desc>Marvel and Capcom join forces to deliver the most frenetic 3 vs. 3 tag battles ever with Ultimate Marvel vs. Capcom 3. This release comes fully loaded, including all previous DLC, and the Marvel vs. Capcom: Official Complete Works. Select some of the most iconic Marvel and Capcom characters, and customize your team with "Heroes and Heralds" mode. Once you've honed your skills, hop online and go head-to-head against players from around the world to see who is the strongest in the universe.</desc>
-		<image>./mixart/Ultimate Marvel vs. Capcom 3.png</image>
-		<video>./snap/Ultimate Marvel vs. Capcom 3.mp4</video>
-		<marquee>./wheel/Ultimate Marvel vs. Capcom 3.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20171201T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -1554,21 +1494,6 @@ The game takes place in the same building, but in three different eras, and thus
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Horizon Chase Turbo.lnk</path>
-		<name>Horizon Chase Turbo</name>
-		<desc>Horizon Chase Turbo is a racing game inspired by the great hits of the 80's and 90's: Out Run, Lotus Turbo Challenge, Top Gear (SNES), Rush, among others. Each curve and each lap in Horizon Chase Turbo recreates classic arcade gameplay and offers you unbound speed limits of fun. Full throttle on and enjoy!</desc>
-		<image>./mixart/Horizon.jpg</image>
-		<video>./snap/Horizon chase turbo.mp4</video>
-		<marquee>./wheel/Horizon.png</marquee>
-		<rating>0</rating>
-		<releasedate>20180515T010000</releasedate>
-		<developer>Aquiris Game Studio</developer>
-		<publisher>Aquiris Game Studio</publisher>
-		<genre>Racing</genre>
-		<lang>en</lang>
-		<md5>d674e02c2a0330d1129df0fe0c75b717</md5>
-	</game>
-	<game>
 		<path>./Legend of Kay Anniversary.lnk</path>
 		<name>Legend of Kay Anniversary</name>
 		<desc>10 years after its initial release, Legend of Kay - Anniversary is a thoroughly remastered version of the original game: high-resolution textures; new, more detailed character models; modern rendering techniques and crystal-clear surround sound give this great classic a new shine.
@@ -2211,20 +2136,6 @@ The traditional battle mode is of course still intact, with up to 4 players batt
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Street Fighter X Tekken.lnk</path>
-		<name>Street Fighter X Tekken</name>
-		<desc>The game features characters from both the Street Fighter franchise and Namco's Tekken series. In the game, each player selects two characters respectively and face other as duos in tag team fighting matches, with the objective to knock out one of the members from the opposing team (deplete the opponent's health).</desc>
-		<image>./mixart/Street Fighter X Tekken.jpg</image>
-		<video>./snap/Street Fighter X Tekken.mp4</video>
-		<marquee>./wheel/Street Fighter X Tekken.png</marquee>
-		<rating>1.0</rating>
-		<releasedate>20121912T010000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fighting Game</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Streets of Rage 4.lnk</path>
 		<name>Streets of Rage 4</name>
 		<desc>The all-time classic Streets of Rage, known as Bare Knuckle (ベア・ナックル Bea Nakkuru) in Japan, is a trilogy of beat ‘em up known for this timeless gameplay and electronic dance influenced music. Streets of Rage 4 builds upon the classic trilogy’s gameplay with new mechanics, beautiful hand drawn visuals and a God tier soundtrack. Or team up along to defeat the Boss Rush Mode!</desc>
@@ -2318,36 +2229,6 @@ This game is ported from an older arcade version.</desc>
 		<genre>Action, Adventure, Puzzle, Strategy, Platform</genre>
 		<players>1</players>
 		<md5>dcea931cbeb118f5584d9fa5a33b2258</md5>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Torchlight 2.lnk</path>
-		<name>Torchlight 2</name>
-		<desc>After the events of the first game, Alchemist, one of the three main classes, is corrupted by the Emberblight from the heart of Ordrak, the main source of corruption beneath the town of Torchlight. Now he is on a rampage for taking the power of guardians and breaking the balance of elements. New heroes arrive to rise up against his madness with the help of the destroyer and the vanquisher, other two playable characters from the first game. Many elements from the original hack-and-slash RPG Torchlight (fishing, pets, etc) make a return in the sequel, including the randomly generated dungeons. There are more classes, pets and weapon types and the locations to visit are more varied. There are now snowy areas, deserts, forests etc. Instead of the dungeon descending structure of the original game, the sequel has large above-ground environments with hub towns and each one has a couple of separate dungeons that consist of one floor or multiple ones. Unlike the first game multiplayer is now supported through cooperative sessions for up to six players, both locally and online. There are three acts and an epilogue. Other new elements are time of day cycles, an updated interface design, and various weather effects. The character appearance can be fully customized based on various attributes.</desc>
-		<image>./mixart/Torchlight 2.png</image>
-		<video>./snap/Torchlight 2.mp4</video>
-		<marquee>./wheel/Torchlight 2.png</marquee>
-		<rating>3.76</rating>
-		<releasedate>20120920T000000</releasedate>
-		<developer>Runic Games</developer>
-		<publisher>Runic Games</publisher>
-		<genre>Action, Role-Playing</genre>
-		<players>4</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Trackmania Turbo.lnk</path>
-		<name>Trackmania Turbo</name>
-		<desc>TrackMania: Turbo features gameplay akin to that of previous games in the series. The player can race on over 200 different tracks, across four different locations, namely Rollercoaster Lagoon, International Stadium, Canyon Grand Drift, and Valley Down and Dirty. Similar to previous games, the game moves at a very high pace with a high focus on stunts. The game's developer said that "They wanted Trackmania Turbo to be an arcade game" Various modes are set to appear in the game, including a campaign and a mode called Double Driver, which is a cooperative multiplayer mode, in which two players are controlling the same car.</desc>
-		<image>./mixart/Trackmania Turbo.png</image>
-		<video>./snap/Trackmania Turbo.mp4</video>
-		<marquee>./wheel/Trackmania Turbo.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20161201T000000</releasedate>
-		<developer>Nadeo</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Racing</genre>
-		<players>2</players>
 		<lang>en</lang>
 	</game>
 	<game id="12255">
@@ -3445,21 +3326,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Titan Quest Anniversary.lnk</path>
-		<name>Titan Quest Anniversary</name>
-		<desc>For its 10 year anniversary, Titan Quest will shine in new splendour. This Anniversary Edition combines both Titan Quest and Titan Quest Immortal Throne in one game, and has been given a massive overhaul for the ultimate ARPG experience. -- Anniversary Edition update -- - Restored and improved multiplayer functionality, including new features like a built-in voice chat and NAT resolving for best multiplayer connectivity - Support for more resolutions, larger camera distance and scaleable UI size - Improved performance and general stability - Support for modders through new modding options and a fully integrated Steam Workshop - Complete balance rework with improvements to all Masteries, damage types, unique items and sets - Countless bug fixes and other improvements, including ten years’ worth of community fixes - Increased challenges and rewards for larger parties and on higher difficulty levels - Dozens of new heroes and bosses to encounter.</desc>
-		<image>./mixart/Titan Quest Anniversary.jpg</image>
-		<video>./snap/Titan Quest Anniversary.mp4</video>
-		<marquee>./wheel/Titan Quest Anniversary.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>201601T000000</releasedate>
-		<developer>THQ Nordic</developer>
-		<publisher>THQ Nortic</publisher>
-		<genre>Action, Role-Playing</genre>
-		<players>6</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Valfaris Full Metal.lnk</path>
 		<name>Valfaris Full Metal</name>
 		<desc>A heavy metal infused 2D action-platformer and the next game from the team behind Unity Awards finalist, Slain: Back From Hell. Brutal combat. Deadly enemies. Stunning pixel art. Savage soundtrack. Get ready to rip the galaxy a new wormhole! After mysteriously vanishing from galactic charts, the fortress of Valfaris has suddenly reappeared in the orbit of a dying sun. Once a self-contained paradise, the grandiose citadel now plays host to an ever-growing darkness. Therion, a fearless and proud son of Valfaris, returns to his home to uncover the truth of its doomed fate and to challenge the arcane evil at its very heart.</desc>
@@ -3546,21 +3412,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<publisher>Homunculus Games</publisher>
 		<genre>Platform, RPG</genre>
 		<players>1</players>
-	</game>
-	<game>
-		<path>./R-Type Final 2.lnk</path>
-		<name>R-Type Final 2</name>
-		<desc>R-Type Final 2 is a horizontal-scrolling shooter video game developed and published by Granzella. Part of Irem's long-running R-Type series, it is a sequel to R-Type Final released in 2004, and the first R-Type game in over a decade, after the release of R-Type Tactics II: Operation Bitter Chocolate in 2009. The game was released for the Microsoft Windows, Nintendo Switch, PlayStation 4, Xbox One, and Xbox Series X/S on April 29, 2021. The western versions of the game are published by NIS America, and are set to release on April 30, 2021. R-Type Final 2 is the first game in the series to be released outside of Japan since R-Type Dimensions in 2009.</desc>
-		<image>./mixart/R-Type Final 2.jpg</image>
-		<video>./snap/R-Type Final 2.mp4</video>
-		<marquee>./wheel/R-Type Final 2.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20211201T000000</releasedate>
-		<developer>Granzella</developer>
-		<publisher>NIIS America Inc.</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Renegade Ops Collection.lnk</path>
@@ -3797,22 +3648,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Hotshot Racing.lnk</path>
-		<name>Hotshot Racing</name>
-		<desc>Hotshot Racing is a blisteringly fast arcade-style racing game fusing drift handling, razor-sharp retro visuals and an incredible sense of speed to create an exhilarating driving experience. Developed by racing game veterans SUMO Nottingham and Lucky Mountain Games, Hotshot Racing is an all-new driving experience which revives the classic arcade gameplay of the 90s and thrusts it into the modern era. 16 racing circuits provide the twists, turns and straights conducive to searingly quick racing.</desc>
-		<image>./mixart/Hotshot Racing.png</image>
-		<video>./snap/Hotshot Racing.mp4</video>
-		<marquee>./wheel/Hotshot Racing.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20201201T000000</releasedate>
-		<developer>Lucky Mountain Games</developer>
-		<publisher>Curve Digital</publisher>
-		<genre>Racing</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Mortal Kombat Komplete Edition.lnk</path>
 		<name>Mortal Kombat Komplete Edition</name>
 		<desc>After centuries of Mortal Kombat, Emperor Shao Kahn has finally defeated Raiden and his allies. Faced with extinction, Raiden has one last chance to save Earthrealm. To undo the Emperor's victory, he must strike Shao Kahn where he is vulnerable...the Past. Driven by an all new graphics engine, the fan favorite series is back and presented in more gory detail than ever before.</desc>
@@ -3842,5 +3677,214 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<players>2</players>
 		<md5>6b306021f667bf5fcb32145a2f45bbff</md5>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./R-Type Final 2.lnk</path>
+		<name>R-Type Final 2</name>
+		<desc>R-Type Final 2 is a horizontal-scrolling shooter video game developed and published by Granzella. Part of Irem's long-running R-Type series, it is a sequel to R-Type Final released in 2004, and the first R-Type game in over a decade, after the release of R-Type Tactics II: Operation Bitter Chocolate in 2009. The game was released for the Microsoft Windows, Nintendo Switch, PlayStation 4, Xbox One, and Xbox Series X/S on April 29, 2021. The western versions of the game are published by NIS America, and are set to release on April 30, 2021. R-Type Final 2 is the first game in the series to be released outside of Japan since R-Type Dimensions in 2009.</desc>
+		<image>./mixart/R-Type Final 2.jpg</image>
+		<video>./snap/R-Type Final 2.mp4</video>
+		<marquee>./wheel/R-Type Final 2.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20211201T000000</releasedate>
+		<developer>Granzella</developer>
+		<publisher>NIIS America Inc.</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Halo - Spartan Strike.lnk</path>
+		<name>Halo - Spartan Strike</name>
+		<desc>Halo: Spartan Strike makes you a Spartan supersoldier battling evil forces. Delve into 30 challenging missions through cities and jungles using a devastating arsenal of weapons, abilities and vehicles including the iconic Warthog against the Covenant and Promethean enemies. Be the Spartan and deny your foes the conquest of Earth.</desc>
+		<image>./mixart/Halo - Spartan Strike.png</image>
+		<video>./snap/Halo - Spartan Strike.mp4</video>
+		<marquee>./wheel/Halo - Spartan Strike.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20141201T000000</releasedate>
+		<developer>353 Industries</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Hotshot Racing.lnk</path>
+		<name>Hotshot Racing</name>
+		<desc>Hotshot Racing is a blisteringly fast arcade-style racing game fusing drift handling, razor-sharp retro visuals and an incredible sense of speed to create an exhilarating driving experience. Developed by racing game veterans SUMO Nottingham and Lucky Mountain Games, Hotshot Racing is an all-new driving experience which revives the classic arcade gameplay of the 90s and thrusts it into the modern era. 16 racing circuits provide the twists, turns and straights conducive to searingly quick racing.</desc>
+		<image>./mixart/Hotshot Racing.png</image>
+		<video>./snap/Hotshot Racing.mp4</video>
+		<marquee>./wheel/Hotshot Racing.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20201201T000000</releasedate>
+		<developer>Lucky Mountain Games</developer>
+		<publisher>Curve Digital</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Titan Quest Anniversary.lnk</path>
+		<name>Titan Quest Anniversary</name>
+		<desc>For its 10 year anniversary, Titan Quest will shine in new splendour. This Anniversary Edition combines both Titan Quest and Titan Quest Immortal Throne in one game, and has been given a massive overhaul for the ultimate ARPG experience. -- Anniversary Edition update -- - Restored and improved multiplayer functionality, including new features like a built-in voice chat and NAT resolving for best multiplayer connectivity - Support for more resolutions, larger camera distance and scaleable UI size - Improved performance and general stability - Support for modders through new modding options and a fully integrated Steam Workshop - Complete balance rework with improvements to all Masteries, damage types, unique items and sets - Countless bug fixes and other improvements, including ten years’ worth of community fixes - Increased challenges and rewards for larger parties and on higher difficulty levels - Dozens of new heroes and bosses to encounter.</desc>
+		<image>./mixart/Titan Quest Anniversary.jpg</image>
+		<video>./snap/Titan Quest Anniversary.mp4</video>
+		<marquee>./wheel/Titan Quest Anniversary.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>201601T000000</releasedate>
+		<developer>THQ Nordic</developer>
+		<publisher>THQ Nortic</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>6</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Gauntlet Slayer Edition.lnk</path>
+		<name>Gauntlet Slayer Edition</name>
+		<desc>Gauntlet is a top-down dungeon crawler and an entry in the long-running Gauntlet series. The game supports up to four online or local players working cooperatively, each using a different one of the four available hero types: Elf, Valkyrie, Warrior and Wizard.</desc>
+		<image>./mixart/Gauntlet Slayer Edition.png</image>
+		<video>./snap/Gauntlet Slayer Edition.mp4</video>
+		<marquee>./wheel/Gauntlet Slayer Edition.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20141101T000000</releasedate>
+		<developer>Arrowhead Game Studios</developer>
+		<publisher>WB Games</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Horizon Chase Turbo.lnk</path>
+		<name>Horizon Chase Turbo</name>
+		<desc>Horizon Chase Turbo is a racing game inspired by the great hits of the 80's and 90's: Out Run, Lotus Turbo Challenge, Top Gear (SNES), Rush, among others. Each curve and each lap in Horizon Chase Turbo recreates classic arcade gameplay and offers you unbound speed limits of fun. Full throttle on and enjoy!</desc>
+		<image>./mixart/Horizon.jpg</image>
+		<video>./snap/Horizon chase turbo.mp4</video>
+		<marquee>./wheel/Horizon.png</marquee>
+		<rating>0</rating>
+		<releasedate>20180515T010000</releasedate>
+		<developer>Aquiris Game Studio</developer>
+		<publisher>Aquiris Game Studio</publisher>
+		<genre>Racing</genre>
+		<md5>d674e02c2a0330d1129df0fe0c75b717</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Street Fighter X Tekken.lnk</path>
+		<name>Street Fighter X Tekken</name>
+		<desc>The game features characters from both the Street Fighter franchise and Namco's Tekken series. In the game, each player selects two characters respectively and face other as duos in tag team fighting matches, with the objective to knock out one of the members from the opposing team (deplete the opponent's health).</desc>
+		<image>./mixart/Street Fighter X Tekken.jpg</image>
+		<video>./snap/Street Fighter X Tekken.mp4</video>
+		<marquee>./wheel/Street Fighter X Tekken.png</marquee>
+		<rating>1.0</rating>
+		<releasedate>20121912T010000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Torchlight 2.lnk</path>
+		<name>Torchlight 2</name>
+		<desc>After the events of the first game, Alchemist, one of the three main classes, is corrupted by the Emberblight from the heart of Ordrak, the main source of corruption beneath the town of Torchlight. Now he is on a rampage for taking the power of guardians and breaking the balance of elements. New heroes arrive to rise up against his madness with the help of the destroyer and the vanquisher, other two playable characters from the first game. Many elements from the original hack-and-slash RPG Torchlight (fishing, pets, etc) make a return in the sequel, including the randomly generated dungeons. There are more classes, pets and weapon types and the locations to visit are more varied. There are now snowy areas, deserts, forests etc. Instead of the dungeon descending structure of the original game, the sequel has large above-ground environments with hub towns and each one has a couple of separate dungeons that consist of one floor or multiple ones. Unlike the first game multiplayer is now supported through cooperative sessions for up to six players, both locally and online. There are three acts and an epilogue. Other new elements are time of day cycles, an updated interface design, and various weather effects. The character appearance can be fully customized based on various attributes.</desc>
+		<image>./mixart/Torchlight 2.png</image>
+		<video>./snap/Torchlight 2.mp4</video>
+		<marquee>./wheel/Torchlight 2.png</marquee>
+		<rating>3.76</rating>
+		<releasedate>20120920T000000</releasedate>
+		<developer>Runic Games</developer>
+		<publisher>Runic Games</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Trackmania Turbo.lnk</path>
+		<name>Trackmania Turbo</name>
+		<desc>TrackMania: Turbo features gameplay akin to that of previous games in the series. The player can race on over 200 different tracks, across four different locations, namely Rollercoaster Lagoon, International Stadium, Canyon Grand Drift, and Valley Down and Dirty. Similar to previous games, the game moves at a very high pace with a high focus on stunts. The game's developer said that "They wanted Trackmania Turbo to be an arcade game" Various modes are set to appear in the game, including a campaign and a mode called Double Driver, which is a cooperative multiplayer mode, in which two players are controlling the same car.</desc>
+		<image>./mixart/Trackmania Turbo.png</image>
+		<video>./snap/Trackmania Turbo.mp4</video>
+		<marquee>./wheel/Trackmania Turbo.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20161201T000000</releasedate>
+		<developer>Nadeo</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Ultimate Marvel vs. Capcom 3.lnk</path>
+		<name>Ultimate Marvel vs. Capcom 3</name>
+		<desc>Marvel and Capcom join forces to deliver the most frenetic 3 vs. 3 tag battles ever with Ultimate Marvel vs. Capcom 3. This release comes fully loaded, including all previous DLC, and the Marvel vs. Capcom: Official Complete Works. Select some of the most iconic Marvel and Capcom characters, and customize your team with "Heroes and Heralds" mode. Once you've honed your skills, hop online and go head-to-head against players from around the world to see who is the strongest in the universe.</desc>
+		<image>./mixart/Ultimate Marvel vs. Capcom 3.png</image>
+		<video>./snap/Ultimate Marvel vs. Capcom 3.mp4</video>
+		<marquee>./wheel/Ultimate Marvel vs. Capcom 3.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Minecraft Dungeons.lnk</path>
+		<name>Minecraft Dungeons</name>
+		<desc>Minecraft Dungeons is a dungeon crawler video game developed by Mojang Studios and Double Eleven and published by Xbox Game Studios. It is based on Minecraft and was released for Nintendo Switch, PlayStation 4, Windows, and Xbox One on May 26, 2020. The game received lukewarm reviews; many deemed the game fun and charming, with general praise directed at its visuals and music. However, its simple gameplay and use of procedural generation received more mixed reception, with its short story and lack of depth also being met with criticism.</desc>
+		<image>./mixart/Minecraft Dungeons.jpg</image>
+		<video>./snap/Minecraft Dungeons.mp4</video>
+		<marquee>./wheel/Minecraft Dungeons.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20201201T000000</releasedate>
+		<developer>Double Eleven, Mojang</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Action, Adventure</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Vikings - Wolves of Midgard.lnk</path>
+		<name>Vikings - Wolves of Midgard</name>
+		<desc>Vikings – Wolves of Midgard takes you to the Shores of Midgard, a world based upon the mythology and history of the Vikings, but with a fantasy twist. Battle the fearsome Jotan, hordes of terrifying undead monstrosities and the beasts of Ragnarok, as you strive to survive the growing cold of Fimbulwinter.</desc>
+		<image>./mixart/Vikings - Wolves of Midgard.jpg</image>
+		<video>./snap/Vikings - Wolves of Midgard.mp4</video>
+		<marquee>./wheel/Vikings - Wolves of Midgard.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Games Farm</developer>
+		<publisher>Kalypso Media</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Double Dragon Neon.lnk</path>
+		<name>Double Dragon Neon</name>
+		<desc>BRO-TACULAR! Legendary martial artists, Billy and Jimmy Lee return in this creative re-imagining of the classic beat ‘em up, Double Dragon Neon.</desc>
+		<image>./mixart/Double Dragon Neon.png</image>
+		<video>./snap/Double Dragon Neon.mp4</video>
+		<marquee>./wheel/Double Dragon Neon.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20141201T000000</releasedate>
+		<developer>Abstraction Games</developer>
+		<publisher>Majesco Entertainment</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Unruly Heroes.lnk</path>
+		<name>Unruly Heroes</name>
+		<desc>The sacred scroll preserving harmony in our world has been torn up and scattered to the winds. Now, strange and terrifying creatures are sowing discord and chaos throughout the land.Only four totally opposed, implausible heroes can turn back the tide: Sanzang the wise, Wukong the fearless monkey, Kihong the greedy pig, and Sandmonk the sensitive brute. On their journey westward, they will travel to fantastical worlds to gather the pieces of the scroll and fight an army of evil creatures.</desc>
+		<image>./mixart/Unruly Heroes.jpg</image>
+		<video>./snap/Unruly Heroes.mp4</video>
+		<marquee>./wheel/Unruly Heroes.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>Magic Design Studios</developer>
+		<publisher>Magic Design Studios</publisher>
+		<genre>Action, Platform</genre>
+		<players>4</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>
