@@ -1,50 +1,12 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./Simpsons - Road Rage.cmd</path>
-		<name>The Simpsons: Road Rage</name>
-		<desc>Mr. Burns is up to his greedy ways in Simpsons Road Rage, purchasing Springfield's busses and jacking up the fares. Now, Springfield residents must turn their cars into cabs and work the streets. Hopefully, making enough money to buy back the busses before the clock runs out. Choose from over 30 of your favorite Simpsons characters and brave the jam-packed streets of six huge levels, performing big-air and powerslide stunts. Compete for passengers in two-player, split screen action. Go on a road rage, Simpsons-style.</desc>
-		<image>./mixart/Simpsons - Road Rage.png</image>
-		<marquee>./wheel/Simpsons - Road Rage.png</marquee>
-		<releasedate>20011201T000000</releasedate>
-		<developer>Fox Interactive</developer>
-		<publisher>EA Games</publisher>
-		<genre>Racing</genre>
-		<players>1</players>
-		<md5>77f79c168f2d859aef09936ff708a15a</md5>
-	</game>
-	<game>
-		<path>./TMNT 2 - Battle Nexus.cmd</path>
-		<name>TMNT 2: Battle Nexus</name>
-		<desc>The Teenage Mutant Ninja Turtles return--this time featuring simultaneous play for up to four players. In both cooperative and head-to-head modes, you and your friends can play as your favorite green heroes: Leonardo, Michelangelo, Donatello, and Raphael. Punch, kick, and duck your way through battles against The Shredder and his evil pack of Foot Ninjas. Each Turtle has distinct characteristics and abilities, and you can combine moves to perform more than 30 different types of attacks.</desc>
-		<image>./mixart/TMNT 2 - Battle Nexus.png</image>
-		<marquee>./wheel/TMNT 2 - Battle Nexus.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20041019T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Fighting</genre>
-		<md5>77f79c168f2d859aef09936ff708a15a</md5>
-	</game>
-	<game>
-		<path>./TMNT 3 - Mutant Nightmare.cmd</path>
-		<name>TMNT 3: Mutant Nightmare</name>
-		<desc>TMNT3 puts more of a focus on teamwork, character development and control than any other console Turtles game to date. Gamers can play as their favorite Turtle alone or with up to three friends, earning experience points along the way as they slash and bash Foot Ninjas and powerful, well-known bosses from the TMNT universe. These experience points allow players to improve and evolve their Turtles' traits and abilities for more varied, powerful attacks and moves. The Ninja Scroll System is another new feature on TMMT3. Being able to select which ninja scrolls to use allows the Turtles to use various special abilities strategically. Cooperative play lies at the heart of TMNT3 and gamers who team up with friends for multiplayer action are rewarded with exclusive features such as Cooperative Attack for even more shell shocking damage to enemies. The effect of this attack changes depending on the number of players working together (between 2-4 players). For even greater control, TMNT3 features a new combat system called the Target Attack system that lets gamers play more instinctively and strategically. With the Target Attack system, players will be able to lock onto specific enemies and block, dodge or counter attack accordingly for smoother and more maneuverable combat. Story Mode can be played with 1-4 players. Even when you have less than 4 players to play, the other Turtles will be at your side, controlled through AI. All the Turtles can participate in Cooperative Attack to beat enemies and players can give commands to the AI.</desc>
-		<image>./mixart/TMNT 3 - Mutant Nightmare.png</image>
-		<releasedate>20060522T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Fighting</genre>
-		<players>4</players>
-		<md5>77f79c168f2d859aef09936ff708a15a</md5>
-	</game>
-	<game>
 		<path>./007 - Nightfire.cmd</path>
 		<name>007: NightFire</name>
 		<desc>NightFire will feature an original single player storyline -- written exclusively for the game and borrowing from the rich 007-legacy that spans 40 years. As Bond, players will operate in the snow capped Austrian Alps and the far reaches of outer space as well as underwater in the depths of the South Pacific to defeat the evil criminal mastermind Rafael Drake, the popular head of a supposedly benign environmental organization who secretly is bent on world domination.</desc>
 		<image>./mixart/007 - Nightfire.png</image>
 		<marquee>./wheel/007 - Nightfire.png</marquee>
-		<thumbnail>./images/007 - Nightfire.jpg</thumbnail>
+		<marquee>./images/007 - Nightfire.jpg</marquee>
 		<rating>0.8</rating>
 		<releasedate>20021118T000000</releasedate>
 		<developer>Eurocom Entertainment Software</developer>
@@ -59,7 +21,7 @@
 		<name>AMF Bowling 2004</name>
 		<desc>Bowling fans can appreciate AMF Bowling 2004's realistic sound effects, array of gameplay options, and accurate ball, pin, and lane physics. This bowling simulation also lets you create your own bowler and customize your ball's weight, color, and texture. In multiple gameplay modes, such as practice and tournament play, you can find that perfect combination of position, speed, and ball velocity. Showcase your skills against professional bowlers or against a friend.</desc>
 		<image>./mixart/AMF Bowling 2004.png</image>
-		<thumbnail>./images/AMF Bowling 2004.jpg</thumbnail>
+		<marquee>./images/AMF Bowling 2004.jpg</marquee>
 		<releasedate>20031114T000000</releasedate>
 		<developer>Mud Duck Productions</developer>
 		<publisher>Jack of All Games</publisher>
@@ -73,7 +35,7 @@
 		<name>Amped: Freestyle Snowboarding</name>
 		<desc>Rip the ultimate line on wide-open, real mountains packed with challenges. Whether you hit the cliffs, grind fallen trees, jib the rainbow tree rail, or take the hidden paths, you decide where and how you go down. While you pull off insane tricks on rails, kickers, and half pipes, remember to pose for roaming photographers and camera crews. With enough exposure, you'll find your face on magazine covers and videos and even become an international media superstar.</desc>
 		<image>./mixart/Amped - Freestyle Snowboarding.png</image>
-		<thumbnail>./images/Amped - Freestyle Snowboarding.jpg</thumbnail>
+		<marquee>./images/Amped - Freestyle Snowboarding.jpg</marquee>
 		<rating>0.75</rating>
 		<releasedate>20011119T000000</releasedate>
 		<developer>Indie Built</developer>
@@ -89,7 +51,7 @@
 		<desc>Amped 2 is the ultimate freestyle experience, offering the largest, most varied trick library of any snowboarding game. Explore vast areas of wide-open, spectacularly rendered real mountains packed with terrain parks designed by world-famous snow park architect, Chris Gunnarson. Play head-to-head with friends in the various multiplayer modes. When you're ready to take it to the next level, connect to Xbox Live to check rankings and challenge the world's best virtual riders.</desc>
 		<image>./mixart/Amped 2.png</image>
 		<marquee>./wheel/Amped 2.png</marquee>
-		<thumbnail>./images/Amped 2.jpg</thumbnail>
+		<marquee>./images/Amped 2.jpg</marquee>
 		<rating>0.9</rating>
 		<releasedate>20031028T000000</releasedate>
 		<developer>Indie Built</developer>
@@ -106,7 +68,7 @@
 		<image>./mixart/Aquaman - Battle for Atlantis.png</image>
 		<video>./snap/Aquaman - Battle for Atlantis.mp4</video>
 		<marquee>./wheel/Aquaman - Battle for Atlantis.png</marquee>
-		<thumbnail>./images/Aquaman - Battle for Atlantis.jpg</thumbnail>
+		<marquee>./images/Aquaman - Battle for Atlantis.jpg</marquee>
 		<rating>0.6</rating>
 		<releasedate>20030730T000000</releasedate>
 		<developer>Lucky Chicken Games</developer>
@@ -121,7 +83,7 @@
 		<name>Army Men: Major Malfunction</name>
 		<desc>Army Men: Major Malfunction is a game in the Army Men franchise released by Global Star Software in 2006 for Xbox and PlayStation 2 consoles. The name Major Malfunction is derived from R. Lee Ermey's quote in Full Metal Jacket, "What is your major malfunction, numbnuts?".</desc>
 		<image>./mixart/Army Men - Major Malfunction.png</image>
-		<thumbnail>./images/Army Men - Major Malfunction.jpg</thumbnail>
+		<marquee>./images/Army Men - Major Malfunction.jpg</marquee>
 		<releasedate>20060414T000000</releasedate>
 		<developer>Team17 Software Limited</developer>
 		<publisher>Global Star Software Inc.</publisher>
@@ -137,7 +99,7 @@
 		<image>./mixart/Azurik Rise of Perathia.png</image>
 		<video>./snap/Azurik Rise of Perathia.mp4</video>
 		<marquee>./wheel/Azurik Rise of Perathia.png</marquee>
-		<thumbnail>./images/Azurik Rise of Perathia.jpg</thumbnail>
+		<marquee>./images/Azurik Rise of Perathia.jpg</marquee>
 		<rating>0.5</rating>
 		<releasedate>20011125T000000</releasedate>
 		<developer>Adrenium Games</developer>
@@ -152,7 +114,7 @@
 		<name>BloodRayne 2</name>
 		<desc>BloodRayne 2 is an action hack and slash video game and the second game in the BloodRayne series. It does not follow on directly from where BloodRayne finished; instead, it takes place 60 and 70 years later[1] in a contemporary 2000s setting.</desc>
 		<image>./mixart/BloodRayne 2.png</image>
-		<thumbnail>./images/BloodRayne 2.jpg</thumbnail>
+		<marquee>./images/BloodRayne 2.jpg</marquee>
 		<rating>0.8</rating>
 		<releasedate>20041013T000000</releasedate>
 		<developer>Terminal Reality, Inc.</developer>
@@ -167,7 +129,7 @@
 		<desc>BMX XXX is a 2002 video game published by Acclaim Entertainment under their AKA Acclaim banner for the Xbox, Nintendo GameCube and PlayStation 2 and developed by Z-Axis. While primarily a BMX-based action sports title, it earned most of its notoriety for containing nudity, foul language and adult humor. The game allows the player to create female characters that are fully topless and view live-action video clips of real life strippers, also with bare breasts. Consequently, BMX XXX was initially denied classification in Australia. In North America, while the game is available uncensored on the GameCube and Xbox, all naked breasts are covered in the PlayStation 2 version. While the adult content garnered a great deal of publicity for the game, it was almost entirely negative, and it was eventually released to dismal reviews and poor sales.</desc>
 		<image>./mixart/BMX XXX.png</image>
 		<marquee>./wheel/BMX XXX.png</marquee>
-		<thumbnail>./images/BMX XXX.jpg</thumbnail>
+		<marquee>./images/BMX XXX.jpg</marquee>
 		<rating>0.8</rating>
 		<releasedate>20021110T000000</releasedate>
 		<genre>Racing, Sports</genre>
@@ -179,7 +141,7 @@
 		<name>Buffy the Vampire Slayer</name>
 		<desc>Buffy Summers makes her console debut in a third-person action game set within the not-so-peaceful town of Sunnydale, CA. As the 17-year-old Chosen One, Buffy must use her heightened strength and agility to defeat vampires, zombies, and other demons attracted to the town's dangerous proximity to a Hellmouth. Based on the UPN television series known for its unusual blend of action, suspense, comedy, and drama, the game takes place around the timeframe of the show's first and second seasons.</desc>
 		<image>./mixart/Buffy the Vampire Slayer.png</image>
-		<thumbnail>./images/Buffy the Vampire Slayer.jpg</thumbnail>
+		<marquee>./images/Buffy the Vampire Slayer.jpg</marquee>
 		<rating>0.9</rating>
 		<releasedate>20120818T000000</releasedate>
 		<developer>The Collective</developer>
@@ -194,7 +156,7 @@
 		<name>Classified: The Sentinel Crisis</name>
 		<desc>Assume the role a Black Ops soldier recruited by the US military's experimental Sentinel program. Your only tools are the intelligent Sentinel combat suit and the multifunction OIWC assault rifle, a weapon of unparalleled versatility and power. The military scientist responsible for the Sentinel Technology is missing in the Balkans. You must join forces with the Rebels to expose the enemy and locate your quarry before the Sentinel Technology falls into hostile hands.</desc>
 		<image>./mixart/Classified - Sentinel Crisis.png</image>
-		<thumbnail>./images/Classified - Sentinel Crisis.jpg</thumbnail>
+		<marquee>./images/Classified - Sentinel Crisis.jpg</marquee>
 		<releasedate>20060414T000000</releasedate>
 		<developer>Torus Games</developer>
 		<publisher>Global Star Software Inc.</publisher>
@@ -208,7 +170,7 @@
 		<name>Crimson Sea</name>
 		<desc>Travel thousands of years into the future to the galaxy Theophilus. As Sho, your job is to solve the mystery of countless murders that have been committed by an invading alien force. Along the way, you'll decimate hordes of alien creatures and liquid-morphing enemies with customized blaster rifles and plasma swords. Summon the power of Neo-Psionics to blast through hordes of alien menaces in a single move. Now, with Crimson Sea's Phantom Sensor System, use sound and touch to discover the hidden enemy.</desc>
 		<image>./mixart/Crimson Sea.png</image>
-		<thumbnail>./images/Crimson Sea.jpg</thumbnail>
+		<marquee>./images/Crimson Sea.jpg</marquee>
 		<rating>0.9</rating>
 		<releasedate>20021216T000000</releasedate>
 		<developer>Koei</developer>
@@ -224,7 +186,7 @@
 		<desc>Relive the epic story from the film in the game of Crouching Tiger, Hidden Dragon. By stepping into the roles of each of the main characters--Li Mu Bai, Yu Shu Lien, Jen, and "Dark Cloud" Lo--you can unleash a variety of fighting techniques, weapons, stunts, and moves against brutally gifted enemies. Characters improve in skill throughout the game, learn new moves, and earn bonuses and rewards as they master the art of Wudan-style fighting.</desc>
 		<image>./mixart/Crouching Tiger Hidden Dragon.png</image>
 		<marquee>./wheel/Crouching Tiger Hidden Dragon.png</marquee>
-		<thumbnail>./images/Crouching Tiger Hidden Dragon.jpg</thumbnail>
+		<marquee>./images/Crouching Tiger Hidden Dragon.jpg</marquee>
 		<releasedate>20031209T000000</releasedate>
 		<developer>LightWeight</developer>
 		<publisher>Ubisoft Entertainment</publisher>
@@ -237,7 +199,7 @@
 		<name>Dance Dance Revolution Ultramix 4</name>
 		<desc>The hottest revolution and bestselling video game in the music game category delivers its best dance performance yet on the Xbox with Dance Dance Revolution Ultramix 4. Jam-packed with new features, modes, music and gameplay, ULTRAMIX4 offers incredible content for casual, beginner and advanced dancers. For first time players, Dance Dance Revolution ULTRAMIX4 is the perfect introductory game in the series with new tutorials and super-easy levels to make anyone a dancing machine.</desc>
 		<image>./mixart/Dance Dance Revolution Ultramix 4.png</image>
-		<thumbnail>./images/Dance Dance Revolution Ultramix 4.jpg</thumbnail>
+		<marquee>./images/Dance Dance Revolution Ultramix 4.jpg</marquee>
 		<releasedate>20061114T000000</releasedate>
 		<developer>Konami</developer>
 		<publisher>Konami</publisher>
@@ -251,7 +213,7 @@
 		<desc>Snowboarders have never felt welcome on Mt. Garrick, a once quiet and peaceful ski resort. Chief O' Leary, the resident ranger, has led the charge against boarders and limited their access to certain sections of the mountain. But the situation has progressed. Chief O'Leary has mysteriously closed the summit to all boarders and is trying desperately to drive them off the mountain.
  Shred, jib and stomp sick tricks in the first</desc>
 		<image>./mixart/Dark Summit.png</image>
-		<thumbnail>./images/Dark Summit.jpg</thumbnail>
+		<marquee>./images/Dark Summit.jpg</marquee>
 		<rating>0.65</rating>
 		<releasedate>20011115T000000</releasedate>
 		<developer>Radical Entertainment Inc.</developer>
@@ -267,7 +229,7 @@
 		<desc>Dead or Alive (Japanese: デッドオアアライブ Hepburn: Deddo Oa Araibu?) is a 1996 fighting game by Tecmo and the first entry in Team Ninja's long-running Dead or Alive series. It was released first in arcades, followed by home ports for the Sega Saturn in Japan, and later for the Sony PlayStation in all regions.</desc>
 		<image>./mixart/Dead or Alive 2 Ultimate.png</image>
 		<marquee>./wheel/Dead or Alive 2 Ultimate.png</marquee>
-		<thumbnail>./images/Dead or Alive 2 Ultimate.jpg</thumbnail>
+		<marquee>./images/Dead or Alive 2 Ultimate.jpg</marquee>
 		<releasedate>20041026T000000</releasedate>
 		<developer>Team Ninja</developer>
 		<publisher>Tecmo</publisher>
@@ -282,7 +244,7 @@
 		<desc>Are you ready for some extreme action?  Then your wait is over because the girls of Dead or Alive are back and better than ever in the first ever "Sports Fantasy Simulation."  Developed by Team Ninja, the guys who brought you the million-selling Dead or Alive 3 fighting game, Dead or Alive Xtreme Beach Volleyball is sure to have your heart racing with beautifully rendered graphics and action-packed gameplay.  The extreme action is transported from the fighting ring of Dead or Alive 3 to the beach this time around with the girls throwing on their bikinis to go head-to-head in the most outrageous beach volleyball game you have ever seen!</desc>
 		<image>./mixart/Dead or Alive Extreme Beach Volleyball.png</image>
 		<marquee>./wheel/Dead or Alive Extreme Beach Volleyball.png</marquee>
-		<thumbnail>./images/Dead or Alive Extreme Beach Volleyball.jpg</thumbnail>
+		<marquee>./images/Dead or Alive Extreme Beach Volleyball.jpg</marquee>
 		<releasedate>20030122T000000</releasedate>
 		<developer>Team Ninja</developer>
 		<publisher>Tecmo</publisher>
@@ -297,7 +259,7 @@
 		<desc>Fully "armed" with his chainsaw, trusty boomstick, and trademark quips, Ash must once again save Dearborn from the unspeakable horrors spawned from The Book of the Dead. After a vortex to the undead is unwittingly opened, deadites swarm through Dearborn, turning humans into zombies. Now, with Dearborn in chaos and citizens begging for help, Ash must hack and slash his way through the streets and figure out how to close the vortex. Ash soon learns that all is not what it seems--those he trusts may be plotting against him, and the history of Dearborn might be irrevocably changed.</desc>
 		<image>./mixart/Evil Dead - A Fistful of Boomstick.png</image>
 		<marquee>./wheel/Evil Dead - A Fistful of Boomstick.png</marquee>
-		<thumbnail>./images/Evil Dead - A Fistful of Boomstick.jpg</thumbnail>
+		<marquee>./images/Evil Dead - A Fistful of Boomstick.jpg</marquee>
 		<rating>0.6</rating>
 		<releasedate>20030617T000000</releasedate>
 		<md5>77f79c168f2d859aef09936ff708a15a</md5>
@@ -308,7 +270,7 @@
 		<name>Family Guy</name>
 		<desc>Play through three stories that intersect in typical Family Guy fashion. Be Stewie and match wits against his brother and arch-nemesis Bertram as they vie to take over the world. Take control of Peter and fight to stop Mr. Belvedere who he thinks is trying to take over the world. Slip on a collar and down a martini as Brian attempt to escape prison and prove your innocence in a puppy parental case gone awry.</desc>
 		<image>./mixart/Family Guy.png</image>
-		<thumbnail>./images/Family Guy.jpg</thumbnail>
+		<marquee>./images/Family Guy.jpg</marquee>
 		<releasedate>20061002T000000</releasedate>
 		<developer>High Voltage Software, Inc.</developer>
 		<publisher>2K Games</publisher>
@@ -324,7 +286,7 @@
 
 A sequel was later released for the Xbox 360, entitled Fuzion Frenzy 2.</desc>
 		<image>./mixart/Fuzion Frenzy.png</image>
-		<thumbnail>./images/Fuzion Frenzy.jpg</thumbnail>
+		<marquee>./images/Fuzion Frenzy.jpg</marquee>
 		<rating>0.7</rating>
 		<releasedate>20011024T000000</releasedate>
 		<developer>Blitz Games</developer>
@@ -345,7 +307,7 @@ While the game borrows elements from Capcom's own Resident Evil survival horror 
 
 Following its release, Onimusha: Warlords achieved high popularity becoming the first PlayStation 2 game to reach the one million sales. Its sales eventually surpassed the two million units worldwide. The game has been well received by video game publications and has been recognized as one of the best titles on the system. It also spanned two direct sequels for the same console and another three games within the franchise.</desc>
 		<image>./mixart/Genma Onimusha.png</image>
-		<thumbnail>./images/Genma Onimusha.jpg</thumbnail>
+		<marquee>./images/Genma Onimusha.jpg</marquee>
 		<rating>0.75</rating>
 		<releasedate>20020128T000000</releasedate>
 		<developer>Capcom Production Studio 2</developer>
@@ -361,7 +323,7 @@ Following its release, Onimusha: Warlords achieved high popularity becoming the 
 		<desc>After being fired from MI6 for your ruthless behavior in an MI-6 simulator, you begin to work for Auric Goldfinger doing evil deeds. After the first mission (Which is the simulator) you are assigned a Goldeneye by Francisco Scaramanga who acts as the villain’s version of 'Q'. Your Goldeneye can do four separate things which are to see through cover, toss enemies around, use a shield, and hack into computers. The levels in this FPS are all basic run-and-gun style.</desc>
 		<image>./mixart/Goldeneye Rogue Agent.png</image>
 		<marquee>./wheel/Goldeneye Rogue Agent.png</marquee>
-		<thumbnail>./images/Goldeneye Rogue Agent.jpg</thumbnail>
+		<marquee>./images/Goldeneye Rogue Agent.jpg</marquee>
 		<rating>0.75</rating>
 		<releasedate>20041122T000000</releasedate>
 		<developer>EA</developer>
@@ -375,7 +337,7 @@ Following its release, Onimusha: Warlords achieved high popularity becoming the 
 		<name>Greg Hastings' Tournament Paintball Max'd</name>
 		<desc>Greg Hastings' Tournament Paintball delivers a realistic paintball experience through the integration of more than 21 licensed pro-players, actual tournament fields, top authentic paintball gear, and design input directly from the pros. The game captures the nuances of the sport with fast, strategic teamwork, angles, maneuverability and accuracy.</desc>
 		<image>./mixart/Greg Hastings Tournament Paintball Max'd.png</image>
-		<thumbnail>./images/Greg Hastings Tournament Paintball Max'd.jpg</thumbnail>
+		<marquee>./images/Greg Hastings Tournament Paintball Max'd.jpg</marquee>
 		<releasedate>20041116T000000</releasedate>
 		<developer>WXP Inc.</developer>
 		<publisher>Activision</publisher>
@@ -390,7 +352,7 @@ Following its release, Onimusha: Warlords achieved high popularity becoming the 
 		<desc>Halo: Combat Evolved is a 2001 first-person shooter science-fiction video game developed by Bungie Studios and the first game in the Halo series. It focuses on John-117 and the crew of the UNSC Pillar of Autumn who, fleeing from the Fall of Reach, stumble on the Forerunner Halo Installation 04, only to be forced into a desperate battle against the Covenant and the Flood. Considered a classic, Combat Evolved is one of the most popular video games for the Xbox with eight million copies sold. Its sales are rivaled only by its sequels, Halo 2 and Halo 3.</desc>
 		<image>./mixart/Halo - Combat Evolved.png</image>
 		<marquee>./wheel/Halo - Combat Evolved.png</marquee>
-		<thumbnail>./images/Halo - Combat Evolved.jpg</thumbnail>
+		<marquee>./images/Halo - Combat Evolved.jpg</marquee>
 		<rating>0.9</rating>
 		<releasedate>20020314T000000</releasedate>
 		<developer>Bungie</developer>
@@ -405,7 +367,7 @@ Following its release, Onimusha: Warlords achieved high popularity becoming the 
 		<name>Kabuki Warriors</name>
 		<desc>As a fight promoter for a troop of Kabuki warriors trying to travel from Edo to Kyoto, your actor/samurai must possess both strength and style. Along the way you will have to fight other Kabuki troops, garner the crowds favor to receive tips, and trade warriors with your defeated counterparts. You will need a very accomplished group of samurai when you arrive in Kyoto to defeat the city's star troop.</desc>
 		<image>./mixart/Kabuki Warriors.png</image>
-		<thumbnail>./images/Kabuki Warriors.jpg</thumbnail>
+		<marquee>./images/Kabuki Warriors.jpg</marquee>
 		<rating>0.5</rating>
 		<releasedate>20011002T000000</releasedate>
 		<developer>LightWeight</developer>
@@ -421,7 +383,7 @@ Following its release, Onimusha: Warlords achieved high popularity becoming the 
 
 Its sequel is Kingdom Under Fire: Heroes. Another sequel is to be released in 2015 entitled Kingdom Under Fire II for PC and PlayStation 4.</desc>
 		<image>./mixart/Kingdom Under Fire - The Crusaders.png</image>
-		<thumbnail>./images/Kingdom Under Fire - The Crusaders.jpg</thumbnail>
+		<marquee>./images/Kingdom Under Fire - The Crusaders.jpg</marquee>
 		<rating>0.9</rating>
 		<releasedate>20041012T000000</releasedate>
 		<developer>Phantagram</developer>
@@ -435,7 +397,7 @@ Its sequel is Kingdom Under Fire: Heroes. Another sequel is to be released in 20
 		<name>MTV Celebrity Deathmatch</name>
 		<desc>Based on the TV show, MTV's Celebrity Deathmatch pits famous personalities against each other in bloody bouts. Each of the 15 characters has their own special moves and reflects the damage taken during fights with bruises, blood, dents, and deformities. You can also create your own celebrity and test his or her skills in the arena spotlight. Original show hosts Nick Diamond and Johnny Gomez provide color commentary while referee Mills Lane calls the shots.</desc>
 		<image>./mixart/MTVs Celebrity Deathmatch.png</image>
-		<thumbnail>./images/MTVs Celebrity Deathmatch.jpg</thumbnail>
+		<marquee>./images/MTVs Celebrity Deathmatch.jpg</marquee>
 		<releasedate>20031014T000000</releasedate>
 		<developer>Big Ape Productions</developer>
 		<publisher>Gotham Games</publisher>
@@ -454,7 +416,7 @@ Tecmo specifically targeted Ninja Gaiden at a non-Japanese audience, and despite
 Team Ninja continued to update the game after its release: two Hurricane Packs were made available as free downloadable content that added extra content, gameplay challenges, and game engine improvements.[1] These were incorporated into a reworked version, released in 2005 and entitled Ninja Gaiden Black, that was regarded by the game's creator Tomonobu Itagaki and many players as the definitive version. In 2007, Ninja Gaiden was graphically enhanced on the PlayStation 3, with extra content, in the form of Ninja Gaiden Sigma. This version was later released on the PlayStation Vita as Ninja Gaiden Sigma Plus.</desc>
 		<image>./mixart/Ninja Gaiden Black.png</image>
 		<marquee>./wheel/Ninja Gaiden Black.png</marquee>
-		<thumbnail>./images/Ninja Gaiden Black.jpg</thumbnail>
+		<marquee>./images/Ninja Gaiden Black.jpg</marquee>
 		<rating>0.95</rating>
 		<releasedate>20050920T000000</releasedate>
 		<developer>Team Ninja</developer>
@@ -470,7 +432,7 @@ Team Ninja continued to update the game after its release: two Hurricane Packs w
 		<desc>The crude cast of Outlaw Golf is back with new friends, courses, fighting moves, and more. Choose from 11 wild characters--including babes, rappers, and thugs--and take on the challenges from eight courses, ranging from the arctic to the jungle. By playing through the tour and winning events, you can unlock more clubs, balls, and outfits. In addition to tournament mode, the game features match, time attack, and baseball golf modes. Just remember--even if your golf game is off, you can still beat up your opponents, or even your caddy.</desc>
 		<image>./mixart/Outlaw Golf 2.png</image>
 		<marquee>./wheel/Outlaw Golf 2.png</marquee>
-		<thumbnail>./images/Outlaw Golf 2.jpg</thumbnail>
+		<marquee>./images/Outlaw Golf 2.jpg</marquee>
 		<rating>0.75</rating>
 		<releasedate>20041019T000000</releasedate>
 		<developer>Hypnotix</developer>
@@ -493,7 +455,7 @@ A port of the original Panzer Dragoon is included.</desc>
 		<image>./mixart/Panzer Dragoon Orta.png</image>
 		<video>./snap/Panzer Dragoon Orta.mp4</video>
 		<marquee>./wheel/Panzer Dragoon Orta.png</marquee>
-		<thumbnail>./images/Panzer Dragoon Orta.jpg</thumbnail>
+		<marquee>./images/Panzer Dragoon Orta.jpg</marquee>
 		<rating>0.9</rating>
 		<releasedate>20030112T000000</releasedate>
 		<developer>Smilebit</developer>
@@ -509,7 +471,7 @@ A port of the original Panzer Dragoon is included.</desc>
 		<desc>Pure Pinball is a pinball simulation video game developed by Iridon Interactive (now Legendo Entertainment) and published in North America by Simon &amp; Schuster for the Microsoft Windows and XS Games for the Xbox, released on May 28, 2003 and August 5, 2004, respectively. The game was published in Europe by Iridon Interactive and distributed by Koch Media in Germany.[1][2]</desc>
 		<image>./mixart/Pure Pinball.png</image>
 		<marquee>./wheel/Pure Pinball.png</marquee>
-		<thumbnail>./images/Pure Pinball.jpg</thumbnail>
+		<marquee>./images/Pure Pinball.jpg</marquee>
 		<releasedate>20040805T000000</releasedate>
 		<md5>77f79c168f2d859aef09936ff708a15a</md5>
 		<lang>en</lang>
@@ -519,7 +481,7 @@ A port of the original Panzer Dragoon is included.</desc>
 		<name>RalliSport Challenge</name>
 		<desc>You want real rally racing? Try strapping yourself in for the four play modes of Rallisport Challenge. Twenty-five licensed vehicles participate in Conventional Rally, RallyCross, Hill Climb and Ice Racing. Tracks are taken from the real world, with matching terrains and environments. Particle and weather effects heighten the realism. Rallisport Challenge's unique AI engine delivers drivers with their own individual personalities and driving habits, and effective graphics and animations bring it all to life.</desc>
 		<image>./mixart/RalliSport Challenge.png</image>
-		<thumbnail>./images/RalliSport Challenge.jpg</thumbnail>
+		<marquee>./images/RalliSport Challenge.jpg</marquee>
 		<rating>0.8</rating>
 		<releasedate>20020304T000000</releasedate>
 		<developer>DiCE</developer>
@@ -535,7 +497,7 @@ A port of the original Panzer Dragoon is included.</desc>
 		<desc>Rayman's universe has fallen into a chaotic world of wicked powers, bizarre characters, and merciless combat. When Globox accidentally swallows the Lord of the Dark Lums, a fanatic army of trigger-happy Hoodlums wreaks total havoc to get their Lord back. Rayman's only chance is to purge the Dark Lum Lord from the manic Globox, scour the lands for new powers, and battle with hordes of Hoodlum soldiers.</desc>
 		<image>./mixart/Rayman 3 - Hoodlum Havoc.png</image>
 		<marquee>./wheel/Rayman 3 - Hoodlum Havoc.png</marquee>
-		<thumbnail>./images/Rayman 3 - Hoodlum Havoc.jpg</thumbnail>
+		<marquee>./images/Rayman 3 - Hoodlum Havoc.jpg</marquee>
 		<rating>0.9</rating>
 		<releasedate>20030314T000000</releasedate>
 		<publisher>Ubisoft Entertainment</publisher>
@@ -549,7 +511,7 @@ A port of the original Panzer Dragoon is included.</desc>
 		<name>Robotech Battlecry [Collector's Edition]</name>
 		<desc>Individually Numbered Limited Edition with Game Soundtrack, Lenticular Art, Original Concept Art, Numbered Dog Tag and Exclusive T-Shirt</desc>
 		<image>./mixart/Robotech Battlecry.png</image>
-		<thumbnail>./images/Robotech Battlecry.jpg</thumbnail>
+		<marquee>./images/Robotech Battlecry.jpg</marquee>
 		<rating>0.6</rating>
 		<releasedate>20020925T000000</releasedate>
 		<developer>TDK CORE</developer>
@@ -567,7 +529,7 @@ Run Like Hell is set on a space station in the distant future. It features the v
 
 The later Xbox version includes one new level and several new alien creatures, while several optional player character skins and additional minigames can also be downloaded via Xbox Live or the Xbox Exhibition 3 demo disc.</desc>
 		<image>./mixart/Run Like Hell.png</image>
-		<thumbnail>./images/Run Like Hell.jpg</thumbnail>
+		<marquee>./images/Run Like Hell.jpg</marquee>
 		<releasedate>20020927T000000</releasedate>
 		<developer>Interplay Entertainment Corp.</developer>
 		<publisher>Vivendi Games</publisher>
@@ -583,7 +545,7 @@ The later Xbox version includes one new level and several new alien creatures, w
 
 Given its rule-bending recipe, Soccer Slam is an exciting and original game, in which individual achievement prevails over teamwork while gameplay focuses on speed, skill, and aggression. This means that players don't just take on the competition, they take 'em out!</desc>
 		<image>./mixart/Sega Soccer Slam.png</image>
-		<thumbnail>./images/Sega Soccer Slam.jpg</thumbnail>
+		<marquee>./images/Sega Soccer Slam.jpg</marquee>
 		<rating>0.8</rating>
 		<releasedate>20020822T000000</releasedate>
 		<developer>Visual Concepts, Black Box</developer>
@@ -598,7 +560,7 @@ Given its rule-bending recipe, Soccer Slam is an exciting and original game, in 
 		<name>Tao Feng: Fist of the Lotus</name>
 		<desc>Clothes will tear, blood will spill, and bones will break in the brutal fighting game Tao Feng: Fist of the Lotus. On the vicious streets and back-alleyways of New China, two fierce fighting sects battle in a race to uncover a valuable prize. During your fights throughout interactive environments, your fighter reflects all the physical damage he or she receives from opponents. You can either heal yourself from the beatings or build your powers to unleash devastating Chi attacks.</desc>
 		<image>./mixart/TaoFang - Fist of the Lotus.png</image>
-		<thumbnail>./images/TaoFang - Fist of the Lotus.jpg</thumbnail>
+		<marquee>./images/TaoFang - Fist of the Lotus.jpg</marquee>
 		<releasedate>20030318T000000</releasedate>
 		<developer>Studio Gigante</developer>
 		<publisher>Microsoft Studios</publisher>
@@ -612,7 +574,7 @@ Given its rule-bending recipe, Soccer Slam is an exciting and original game, in 
 		<name>The Guy Game</name>
 		<desc>The Guy Game is an adult video game for the PlayStation 2, Xbox and PC platforms published in 2004 by Gathering of Developers and developed by now-defunct Top Heavy Studios (it was the team's only game). Presented in a trivia gameshow style supporting up to four players, it consists of about 1,000 questions spread out over 20 episodes. Much of the game involves watching live-action video footage of young women in bikinis, and as the player succeeds in the game the women eventually expose their breasts. The game garnered much controversy and was the subject of a lawsuit.</desc>
 		<image>./mixart/The Guy Game.png</image>
-		<thumbnail>./images/The Guy Game.jpg</thumbnail>
+		<marquee>./images/The Guy Game.jpg</marquee>
 		<rating>1</rating>
 		<releasedate>20040830T000000</releasedate>
 		<developer>Topheavy</developer>
@@ -627,7 +589,7 @@ Given its rule-bending recipe, Soccer Slam is an exciting and original game, in 
 		<name>The House of the Dead III</name>
 		<desc>The House of the Dead III is a 2002 light gun arcade game with a horror zombie-survival theme, and the third installment to the House of the Dead series of video games, developed by Wow Entertainment and Sega. It was later ported to the Xbox in 2003, Microsoft Windows in 2005, the Wii in 2008 in a compilation with The House of the Dead 2, and PlayStation 3 in 2012 with PlayStation Move support. The game continues the story of the previous games and introduces new gameplay concepts such as story branching. The game's protagonist is Lisa Rogan, daughter of Thomas Rogan, the first game's main character, and players control Lisa, G, or Daniel Curien.</desc>
 		<image>./mixart/The House Of The Dead 3.png</image>
-		<thumbnail>./images/The House Of The Dead 3.png</thumbnail>
+		<marquee>./images/The House Of The Dead 3.png</marquee>
 		<releasedate>20021024T000000</releasedate>
 		<developer>WOW Entertainment</developer>
 		<publisher>Sega</publisher>
@@ -646,7 +608,7 @@ Given its rule-bending recipe, Soccer Slam is an exciting and original game, in 
 -Melee and Adventure Mode
 -A wide range of mini games including Last Man Standing, King of the Hill and more!</desc>
 		<image>./mixart/TMNT - Mutant Melee.png</image>
-		<thumbnail>./images/TMNT - Mutant Melee.jpg</thumbnail>
+		<marquee>./images/TMNT - Mutant Melee.jpg</marquee>
 		<releasedate>20050315T000000</releasedate>
 		<developer>Konami Computer Entertainment Hawaii</developer>
 		<publisher>Konami</publisher>
@@ -661,7 +623,7 @@ Given its rule-bending recipe, Soccer Slam is an exciting and original game, in 
 		<desc>The alien duo is back in an all-new adventure. In ToeJam &amp; Earl III: Mission to Earth, ToeJam, Big Earl, and their new friend, Latisha, embark on a mission to retrieve the 12 sacred Albums of Funk, stolen by the inhabitantats of Earth. Across expansive environments, you must guide this group toward a showdown with the evil Anti-Funk. You'll collect a wide variety of power-ups, take on dangerous side quests, and double-team the clueless Earthlings in style.</desc>
 		<image>./mixart/ToeJam &amp; Earl III - Mission to Earth.png</image>
 		<marquee>./wheel/ToeJam &amp; Earl III - Mission to Earth.png</marquee>
-		<thumbnail>./images/ToeJam &amp; Earl III - Mission to Earth.jpg</thumbnail>
+		<marquee>./images/ToeJam &amp; Earl III - Mission to Earth.jpg</marquee>
 		<rating>0.55</rating>
 		<releasedate>20021023T000000</releasedate>
 		<developer>Sega</developer>
@@ -677,7 +639,7 @@ Given its rule-bending recipe, Soccer Slam is an exciting and original game, in 
 		<desc>Tony Hawk's Pro Skater 2x was designed to take full advantage of the technical capabilities of Xbox. The game features the franchise's signature gameplay, intuitive controls, all of the levels from both Tony Hawk's Pro Skater 2 and the original Tony Hawk's Pro Skater, in addition to more populated environments, brand new levels, realistic special effects and smoother lifelike animations. The inclusion of system link gameplay brings the skateboarding experience to life.</desc>
 		<image>./mixart/Tony Hawk's Pro Skater 2X.png</image>
 		<marquee>./wheel/Tony Hawk's Pro Skater 2X.png</marquee>
-		<thumbnail>./images/Tony Hawk's Pro Skater 2X.jpg</thumbnail>
+		<marquee>./images/Tony Hawk's Pro Skater 2X.jpg</marquee>
 		<releasedate>20011114T000000</releasedate>
 		<developer>Treyarch</developer>
 		<publisher>Activision</publisher>
@@ -692,7 +654,7 @@ Given its rule-bending recipe, Soccer Slam is an exciting and original game, in 
 		<desc>You may not be able to live like the legend, but now you can skate like him. Skate as the legendary Tony Hawk or choose from a dream team of 12 top pro skaters, including old favorites like Lasek, Thomas, Muska, and Steamer, as well as new talent like Gilfberg, Caballero, Koston, and Mullen. Or enjoy full customization abilities with the enhanced Create-a-Skater (now including female skaters) and the Skatepark Editor. Travel from L.A. to Tokyo, Suburbia to Skater's Island performing challenges and meeting goals. New moves include the Revert, which allows you to link vert tricks, and flatland tricks such as Caspers, the Primo, and Handstand Manual. If you're good, you can even unlock hidden pro footage.</desc>
 		<image>./mixart/Tony Hawk's Pro Skater 3.png</image>
 		<marquee>./wheel/Tony Hawk's Pro Skater 3.png</marquee>
-		<thumbnail>./images/Tony Hawk's Pro Skater 3.jpg</thumbnail>
+		<marquee>./images/Tony Hawk's Pro Skater 3.jpg</marquee>
 		<rating>0.9</rating>
 		<releasedate>20020304T000000</releasedate>
 		<developer>Neversoft Entertainment</developer>
@@ -707,7 +669,7 @@ Given its rule-bending recipe, Soccer Slam is an exciting and original game, in 
 		<name>Tork: Prehistoric Punk</name>
 		<desc>Not even time can stand in the way of Tork. This cave boy must travel through time to find those responsible for kidnapping his father and destroying his village. Not your ordinary hero, Tork can change into three spirit animals: a yeti, an armadillo, or a flying squirrel. As Tork, you must face dinosaurs, gargoyles, robots, and more as you fight your way from the Stone Age to the Age of Fantastical Machines. Dodge avalanches, volcanoes, and machines in a variety of fantastic environments.</desc>
 		<image>./mixart/Tork - Prehistoric Punk.png</image>
-		<thumbnail>./images/Tork - Prehistoric Punk.jpg</thumbnail>
+		<marquee>./images/Tork - Prehistoric Punk.jpg</marquee>
 		<rating>0.5</rating>
 		<releasedate>20050112T000000</releasedate>
 		<developer>Tiwak</developer>
@@ -722,7 +684,7 @@ Given its rule-bending recipe, Soccer Slam is an exciting and original game, in 
 		<name>Toxic Grind</name>
 		<desc>In the year 2097, BMX riding has been outlawed and a twisted reality game show is the showcase for public execution of these fugitives. The maniacal host of the show, Dixon Von Blass, has eliminated all but a handful of these riders and resorted to injecting his contestants with a powerful toxin before the show. Injected with the deadly toxin, you were chosen to compete through famous locations and time periods. The only way to survive is to complete objectives, avoid deadly obstacles, and pull off insane tricks--all the while avoiding Dixon's henchmen.</desc>
 		<image>./mixart/Toxic Grind.png</image>
-		<thumbnail>./images/Toxic Grind.jpg</thumbnail>
+		<marquee>./images/Toxic Grind.jpg</marquee>
 		<rating>0.55</rating>
 		<releasedate>20031201T000000</releasedate>
 		<developer>Blue Shift</developer>
@@ -744,7 +706,7 @@ Easy to play: as quick as setting up a shot on a real pool table
 Authentic gameplay: most accurate table and ball physics ever--balls roll, fly, and bounce off the table
 Library of artistic trick shots: or set up your own to become a true shark</desc>
 		<image>./mixart/Virtual Pool Tournament Edition.png</image>
-		<thumbnail>./images/Virtual Pool Tournament Edition.jpg</thumbnail>
+		<marquee>./images/Virtual Pool Tournament Edition.jpg</marquee>
 		<releasedate>20060908T000000</releasedate>
 		<developer>2K Games</developer>
 		<publisher>2K</publisher>
@@ -757,7 +719,7 @@ Library of artistic trick shots: or set up your own to become a true shark</desc
 		<name>Yu-Gi-Oh! Dawn of Destiny</name>
 		<desc>Marking the debut of the Yu-Gi-Oh franchise on the Xbox, Yu-Gi-Oh! The Dawn of Destiny brings the world of the popular trading card game to Xbox owners. The game features over 1,000 of the latest Yu-Gi-Oh! cards and seamlessly integrates the Yu-Gi-Oh! trading card gameplay and rules with beautiful 3D monster battles. The Dawn of Destiny also includes new duel modes such as Link Duel mode and Triple Duel mode, where players' can test their skills against three duelists.</desc>
 		<image>./mixart/Yu-Gi-Oh - The Dawn of Destiny.png</image>
-		<thumbnail>./images/Yu-Gi-Oh - The Dawn of Destiny.jpg</thumbnail>
+		<marquee>./images/Yu-Gi-Oh - The Dawn of Destiny.jpg</marquee>
 		<releasedate>20040323T000000</releasedate>
 		<developer>Konami Computer Entertainment Japan</developer>
 		<publisher>Konami</publisher>
@@ -773,7 +735,7 @@ Library of artistic trick shots: or set up your own to become a true shark</desc
 
 The setting is Tokyo, in the year 2024. Featuring unique anime-style graphics and tons of tricks, JSRF: Jet Set Radio Future brings the hippest game ever into a futuristic world. Choose a character, strap on your rocket-powered skates, and immerse yourself in the vast environments. The multiplayer aspects let you work together to reach seemingly unattainable places, create new attacks, and perform astounding stunts. Wherever your adventure takes you, it's all about extreme skating, extreme action, and of course extreme style.</desc>
 		<image>./mixart/Jet Set Radio Future.png</image>
-		<thumbnail>./images/Jet Set Radio Future.jpg</thumbnail>
+		<marquee>./images/Jet Set Radio Future.jpg</marquee>
 		<rating>0.85</rating>
 		<releasedate>20021015T000000</releasedate>
 		<developer>Various</developer>
@@ -789,7 +751,7 @@ The setting is Tokyo, in the year 2024. Featuring unique anime-style graphics an
 		<desc>The war between man and machine rages on as the mechanical Cylons return to wipe out the human race. Begin your heroic journey through the Battlestar Galactica universe as the fearless, young Adama, and help lead the fleet of Colonials to survival. Choose from a wide array of ships, from sleek Vipers to heavy Bombers, and engage various classes of Cylon vessels, including Raiders and Marauders.</desc>
 		<image>./mixart/Battlestar Galactica.png</image>
 		<marquee>./wheel/Battlestar Galactica.png</marquee>
-		<thumbnail>./images/Battlestar Galactica.jpg</thumbnail>
+		<marquee>./images/Battlestar Galactica.jpg</marquee>
 		<rating>0.8</rating>
 		<releasedate>20031118T000000</releasedate>
 		<developer>Warthog</developer>
@@ -805,7 +767,7 @@ The setting is Tokyo, in the year 2024. Featuring unique anime-style graphics an
 		<desc>Bruce Lee: Quest of the Dragon is a beat 'em up video game featuring martial artist Bruce Lee. It was developed by Ronin Entertainment and published by Universal Interactive, and was released in Europe and the United States for the Xbox in 2002 to a negative critical reception.
 You are Bruce Lee, legendary martial arts master. Your father has been kidnapped, your monastery desecrated, and the mystical Golden Relic - keeper of the ancient martial arts secrets - has been stolen. Investigate the mysterious Black Lotus crime organization and the beautiful and deadly Dragon Lady. Use your mastery of Jeet Kune Do to punch, kick, block and combo as you fight hordes of thugs and crime bosses. In this compelling blend of epic adventure and intense fighting action you finally get the chance to be Bruce Lee.</desc>
 		<image>./mixart/Bruce Lee - Quest of the Dragon.png</image>
-		<thumbnail>./images/Bruce Lee - Quest of the Dragon.jpg</thumbnail>
+		<marquee>./images/Bruce Lee - Quest of the Dragon.jpg</marquee>
 		<rating>0.55</rating>
 		<releasedate>20020701T000000</releasedate>
 		<developer>Ronin Entertainment</developer>
@@ -834,13 +796,14 @@ Also included is the critically acclaimed single-player game, Conker’s Bad Fur
 		<players>2</players>
 		<favorite>true</favorite>
 		<md5>77f79c168f2d859aef09936ff708a15a</md5>
+		<lang>en</lang>
 	</game>
 	<game>
 		<path>./Crimson Skies - High Road to Revenge.cmd</path>
 		<name>Crimson Skies: High Road To Revenge</name>
 		<desc>Crimson Skies: High Road to Revenge combines thrilling aerial combat with the swashbuckling style of a Hollywood action-adventure movie. Set in an alternate 1930s world of gunship diplomacy and sinister intrigue, the game lets you pilot powerful aircraft--armed with detonator cannons, tesla guns, or remote-controlled rockets--against nefarious air pirates and behemoth war zeppelins. As the daring air pirate Nathan Zachary, leader of the infamous Fortune Hunters, you take off on a high-flying adventure, filled with daring escapes and damsels in distress.</desc>
 		<image>./mixart/Crimson Skies - High Road to Revenge.png</image>
-		<thumbnail>./images/Crimson Skies - High Road to Revenge.jpg</thumbnail>
+		<marquee>./images/Crimson Skies - High Road to Revenge.jpg</marquee>
 		<rating>0.85</rating>
 		<releasedate>20031021T000000</releasedate>
 		<developer>FASA Studio</developer>
@@ -848,6 +811,47 @@ Also included is the critically acclaimed single-player game, Conker’s Bad Fur
 		<genre>Action, Adventure, Shooter</genre>
 		<players>4</players>
 		<favorite>true</favorite>
+		<md5>77f79c168f2d859aef09936ff708a15a</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Simpsons - Road Rage.cmd</path>
+		<name>The Simpsons: Road Rage</name>
+		<desc>Mr. Burns is up to his greedy ways in Simpsons Road Rage, purchasing Springfield's busses and jacking up the fares. Now, Springfield residents must turn their cars into cabs and work the streets. Hopefully, making enough money to buy back the busses before the clock runs out. Choose from over 30 of your favorite Simpsons characters and brave the jam-packed streets of six huge levels, performing big-air and powerslide stunts. Compete for passengers in two-player, split screen action. Go on a road rage, Simpsons-style.</desc>
+		<image>./mixart/Simpsons - Road Rage.png</image>
+		<marquee>./wheel/Simpsons - Road Rage.png</marquee>
+		<releasedate>20011201T000000</releasedate>
+		<developer>Fox Interactive</developer>
+		<publisher>EA Games</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<md5>77f79c168f2d859aef09936ff708a15a</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./TMNT 2 - Battle Nexus.cmd</path>
+		<name>TMNT 2: Battle Nexus</name>
+		<desc>The Teenage Mutant Ninja Turtles return--this time featuring simultaneous play for up to four players. In both cooperative and head-to-head modes, you and your friends can play as your favorite green heroes: Leonardo, Michelangelo, Donatello, and Raphael. Punch, kick, and duck your way through battles against The Shredder and his evil pack of Foot Ninjas. Each Turtle has distinct characteristics and abilities, and you can combine moves to perform more than 30 different types of attacks.</desc>
+		<image>./mixart/TMNT 2 - Battle Nexus.png</image>
+		<marquee>./wheel/TMNT 2 - Battle Nexus.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20041019T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Fighting</genre>
+		<md5>77f79c168f2d859aef09936ff708a15a</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./TMNT 3 - Mutant Nightmare.cmd</path>
+		<name>TMNT 3: Mutant Nightmare</name>
+		<desc>TMNT3 puts more of a focus on teamwork, character development and control than any other console Turtles game to date. Gamers can play as their favorite Turtle alone or with up to three friends, earning experience points along the way as they slash and bash Foot Ninjas and powerful, well-known bosses from the TMNT universe. These experience points allow players to improve and evolve their Turtles' traits and abilities for more varied, powerful attacks and moves. The Ninja Scroll System is another new feature on TMMT3. Being able to select which ninja scrolls to use allows the Turtles to use various special abilities strategically. Cooperative play lies at the heart of TMNT3 and gamers who team up with friends for multiplayer action are rewarded with exclusive features such as Cooperative Attack for even more shell shocking damage to enemies. The effect of this attack changes depending on the number of players working together (between 2-4 players). For even greater control, TMNT3 features a new combat system called the Target Attack system that lets gamers play more instinctively and strategically. With the Target Attack system, players will be able to lock onto specific enemies and block, dodge or counter attack accordingly for smoother and more maneuverable combat. Story Mode can be played with 1-4 players. Even when you have less than 4 players to play, the other Turtles will be at your side, controlled through AI. All the Turtles can participate in Cooperative Attack to beat enemies and players can give commands to the AI.</desc>
+		<image>./mixart/TMNT 3 - Mutant Nightmare.png</image>
+		<releasedate>20060522T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Fighting</genre>
+		<players>4</players>
 		<md5>77f79c168f2d859aef09936ff708a15a</md5>
 		<lang>en</lang>
 	</game>

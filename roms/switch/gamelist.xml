@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="198483">
+		<path>./The_Legend_of_Zelda_Links_Awakening.xci</path>
+		<name>Legend Of Zelda - Links Awakening, The</name>
+		<desc>As Link, you awaken in a strange land away from Hyrule, where animals talk and monsters roam. To uncover the truth behind your whereabouts and rouse the legendary Wind Fish, explore Koholint Island and all its trap-ridden dungeons, reimagined in stunning detail for this new release of one of the most beloved The Legend of Zelda games. Along the way, you'll meet a hilarious assortment of charming characters to which you'll never want to say goodbye.</desc>
+		<image>./images/The_Legend_of_Zelda_Links_Awakening-image.png</image>
+		<video>./videos/The_Legend_of_Zelda_Links_Awakening-video.mp4</video>
+		<marquee>./images/The_Legend_of_Zelda_Links_Awakening-marquee.png</marquee>
+		<releasedate>20190920T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game id="197817">
+		<path>./Diablo_III_Eternal_Collection.xci</path>
+		<name>Diablo 3 - Eternal Collection</name>
+		<desc>Ages ago, angels and demons birthed your world in a forbidden union. Now they've come to claim it. Stand tall among Sanctuary's meek and wicked to battle walking corpses, horrifying cultists, fallen seraphs, and the Lords of Hell. When the High Heavens and the Burning Hells war, humanity must be its own salvation.</desc>
+		<image>./images/Diablo_III_Eternal_Collection-image.png</image>
+		<video>./videos/Diablo_III_Eternal_Collection-video.mp4</video>
+		<marquee>./images/Diablo_III_Eternal_Collection-marquee.png</marquee>
+		<releasedate>20181102T000000</releasedate>
+		<developer>Blizzard Entertainment</developer>
+		<publisher>Blizzard Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>1-4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Scott_Pilgrim_vs_The_World_The_Game.nsp</path>
+		<name>Scott Pilgrim vs. The World: The Game - Classic Edition (Limited Run #94)</name>
+		<desc>The Scott Pilgrim Vs. The World: The Game Classic Edition includes: 
+
+• Scott Pilgrim Vs. The World: The Game Complete Edition physical game for the Nintendo Switch
+
+• Full-color instruction booklet
+
+• Reversible cover sheet
+
+• Deluxe plastic clamshell case with reversible coversheet
+
+• Sticker sheet featuring art from the game
+
+• Physical soundtrack CD featuring music by Anamanaguchi.
+
+• The Clash at Demonhead commemorative concert ticket
+
+• Overworld map
+
+
+
+Rediscover the beloved 2D arcade-style beat'em up inspired by the iconic comic book series and movie Scott Pilgrim vs. The World in this Complete Edition!
+
+
+
+This Complete Edition includes the original Scott Pilgrim vs. The World: The Game, as well as it's original DLCs - the Knives Chau and Wallace Wells Add-On Packs.
+
+
+
+Play as your favorite characters - Scott Pilgrim, Ramona Flowers, Knives Chau, Stephen Stills, and more. Level-up and learn new awesome abilities, unlock secret items and modes, summon powerful allies, and more!
+
+
+
+Team up with friends and combine your skills to battle your way through waves of tough enemies, or compete with them in awesome mini-games like Dodgeball; all on your way to defeat the League of Ramona's Evil Exes!</desc>
+		<image>./images/Scott_Pilgrim_vs_The_World_The_Game-image.jpg</image>
+		<video>./videos/Scott_Pilgrim_vs_The_World_The_Game-video.mp4</video>
+		<marquee>./images/Scott_Pilgrim_vs_The_World_The_Game-marquee.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20210115T000000</releasedate>
+		<developer>Ubisoft Montreal</developer>
+		<publisher>Limited Run Games, Ubisoft</publisher>
+		<genre>Action, Adventure, Fighting</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Super_Mario_3D_World_plus_Bowsers_Fury.xci</path>
+		<name>Super Mario 3D World + Bowser's Fury</name>
+		<desc>Enjoy two Mario adventures solo or with friends!
+
+
+
+Pounce and climb through dozens of colorful courses! Mario (and his friends) can use a variety of power-ups like the Super Bell, which grants catlike abilities like climbing and scratching. Team up with up to three other players locally or online to reach the goal and see who can get a high score.
+
+
+
+Explore a seamless feline world in the new Bowser’s Fury adventure
+
+
+
+Free-roaming Super Mario gameplay makes a return in this brand-new adventure. Bowser has become gargantuan and lost all control! Explore Lake Lapcat and its islands, complete objectives to collect Cat Shines, and team up with Bowser Jr. to bring his big, bad dad back to normal. Just watch out for Bowser’s island-wide attacks.
+
+
+
+The Super Mario 3D World + Bowser’s Fury game features the same great co-op gameplay, creative levels and power-ups as the original game, but with added improvements. In the Super Mario 3D World part of the game, characters move faster and the dash powers up more quickly. Both adventures support the newly added Snapshot Mode—pause the action to get the perfect shot, apply filters, and decorate with stamps!
+
+
+
+In Super Mario 3D World, choose from Mario, Luigi, Peach, and Toad and set off to save the Sprixie Kingdom. Each character has a distinct playstyle—Luigi can jump extra high and Peach can float for a short time. Rosalina is also available as a playable character later in the game! Jump, dash, and pounce to reach the goal while collecting Green Stars, coins and power-ups.
+
+
+
+Collect stamps throughout your adventure in Super Mario 3D World and use them in Snapshot Mode (in both Super Mario 3D World and the Bowser’s Fury adventure) to create masterpieces to share with friends and family.
+
+
+
+In Bowser’s Fury, Mario arrives on Lake Lapcat and is confronted with a rampaging Bowser! Join forces with Bowser Jr. and venture through an interconnected world made of cat-themed…well, everything. Enemies, flowers, and even birds take on a feline form.
+
+
+
+Need some extra assistance bringing Bowser out of his frenzied, furious state? Another player can take control of Bowser Jr. and help out by attacking enemies and storing power-ups. Two sets of claws are better than one!</desc>
+		<image>./images/Super_Mario_3D_World_plus_Bowsers_Fury-image.jpg</image>
+		<marquee>./images/Super_Mario_3D_World_plus_Bowsers_Fury-marquee.png</marquee>
+		<releasedate>20210212T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Platform, Family</genre>
+		<players>4</players>
+	</game>
+	<game id="195745">
+		<path>./The_Legend_of_Zelda_Breath_of_the_Wild.xci</path>
+		<name>The Legend of Zelda: Breath of the Wild</name>
+		<desc>Forget everything you know about The Legend of Zelda games. Step into a world of discovery, exploration, and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series. Travel across vast fields, through forests, and to mountain peaks as you discover what has become of the kingdom of Hyrule in this stunning Open-Air Adventure. Now on Nintendo Switch, your journey is freer and more open than ever. Take your system anywhere, and adventure as Link any way you like.</desc>
+		<image>./images/The_Legend_of_Zelda_Breath_of_the_Wild-image.png</image>
+		<marquee>./images/The_Legend_of_Zelda_Breath_of_the_Wild-marquee.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20170303T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+</gameList>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="12119">
+		<path>./Mario Kart 8.wud</path>
+		<name>Mario Kart 8</name>
+		<desc>Mario Kart 8 is the 8th installment of the Mario Kart series, for the Wii U console.nnnnThe gameplay includes thirty-two circuits (sixteen brand new ones and sixteen retro ones) on which the characters race riding a variety of vehicles like the returning motorcycles from Mario Kart Wii or the karts, which can be customized.</desc>
+		<image>./images/Mario Kart 8-image.png</image>
+		<video>./videos/Mario Kart 8-video.mp4</video>
+		<marquee>./images/Mario Kart 8-marquee.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20140530T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>4+</players>
+	</game>
+</gameList>

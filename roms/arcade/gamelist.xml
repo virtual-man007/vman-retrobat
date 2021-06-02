@@ -8834,25 +8834,6 @@ The objective of the game is to enter all of the red-coloured doors in each stag
 		<players>2</players>
 	</game>
 	<game>
-		<path>./enduror.zip</path>
-		<name>Enduro Racer</name>
-		<desc>Enduro Racer is an off-road racing game in which players ride a dirt bike across five extremely hilly and twisting courses. Each course is littered with logs, rocks, trees and rival racers that must be either jumped over or avoided.
-
-Jumps can only be performed at specific locations on each track. These locations feature a dirt ramp that spreads across the width of the track. Players must have the bike in the 'wheelie' position when the ramp is struck, the bike will then be launched into the air. If the bike is not in a wheelie position when the ramps are struck, the bike will still clear the ramp, but will land front-wheel first and crash.
-
-Enduro Racer is perhaps best remembered for its 'Wheelie' feature, which required the player to physically lift the cabinet's handlebars to raise the front wheel of the game's on-screen counterpart.</desc>
-		<emulator>libretro</emulator>
-		<core>fbalpha2012</core>
-		<image>./mixart/enduror.png</image>
-		<video>./snap/enduror.mp4</video>
-		<marquee>./wheel/enduror.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving-Motorcycle Race, 3rd Pers.</genre>
-	</game>
-	<game>
 		<path>./enforce.zip</path>
 		<name>Enforce</name>
 		<desc>Enforce is a 3-Dimensional tank driving shoot'em up using much the same technology as that of "Continental Circus".</desc>
@@ -16832,48 +16813,6 @@ The music for the attract mode was remixed, then reused for the first stage of "
 		<players>2</players>
 	</game>
 	<game>
-		<path>./mslug.zip</path>
-		<name>Metal Slug: Super Vehicle-001</name>
-		<desc>Metal Slug, originally released on the Neo Geo, is a side-scrolling shoot'em'up.  The player(s) takes the role of a soldier (or two) and fights a gigantic army. Every level consists of running forward blasting anything that moves, while collecting power-ups along the way (there's also a wide selection of weaponry in the game). In the end of each level the player goes up against one gigantic boss.   The PlayStation port introduces some extra features: there is a combat school where the player may fight with other players for the best time on each level and an art gallery.</desc>
-		<image>./mixart/mslug.png</image>
-		<video>./snap/mslug.mp4</video>
-		<marquee>./wheel/mslug.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Nazca Corporation</developer>
-		<publisher>SNK</publisher>
-		<genre>Platform/Shooter</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./mslug2.zip</path>
-		<name>Metal Slug 2: Super Vehicle-001/II</name>
-		<desc>As Marco, Eri, Tarma, or Fio, you must defeat the evil General Morden and his henchman. To do this, you must defeat various enemies that get in your way. Throughout the game, you can collect new weapons including the Heavy Machine Gun, Shot Gun, Rocket Launcher, Flame Shot, Laser Shot, Flame Bottles, and Armor Piercer. Also scattered throughout the game, you can ride in  four different vehicles (aka: Slugs) such as the Metal Slug, Slug Flyer, Camel Slug, and SlugNoid. By using these vehicles, you can cause awesome destruction against Morden's evil army. Other items such as energy, extra ammunition, and food (eat too much and your player will gain weight) are also found throughout the game.</desc>
-		<image>./mixart/mslug2.png</image>
-		<video>./snap/mslug2.mp4</video>
-		<marquee>./wheel/mslug2.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Platform/Shooter</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./mslug3.zip</path>
-		<name>Metal Slug 3</name>
-		<desc>In the third installment of the Metal Slug series, General Morden is back and he plans to establish a new world order. You guide one of the heroes: Marco, Tarma, Eri or Fio as they blast their way through sidescrolling levels with a unique theme, filled with countless enemies and difficult bosses. You have to free hostages and you can ride bizarre vehicles such as camels, elephants, tanks and robots.  In the Xbox version, additional game modes, such as Storming the Mothership and Chubby Isle Paradiso, can be unlocked upon completing the five arcade stages. A co-op mode has been included, but no online multiplayer. The only Xbox Live feature available allows you to compare singleplayer scores.</desc>
-		<image>./mixart/mslug3.png</image>
-		<video>./snap/mslug3.mp4</video>
-		<marquee>./wheel/mslug3.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Platform/Shooter</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./mslug4.zip</path>
 		<name>Metal Slug 4</name>
 		<desc>The 5th episode of the most famous arcade-shooting-series comes bringing the unaltered classic gameplay, a new weapon, 6 new vehicles as well as 2 new soldiers for the pantheon. The most notable introduction to the series is the Metalish System, giving to the player a new possibility to score more points: after pick up certain shield-shape emblems, a timer bar will be displayed at the top of the screen. During this time, you must to shoot rapidly as many enemies as possible and, depending on your acting, you will receive a corresponding badge bonus that will be added to your score after completing it. When you die, the bonus wears off.</desc>
@@ -16896,20 +16835,6 @@ The music for the attract mode was remixed, then reused for the first stage of "
 		<marquee>./wheel/mslug5.png</marquee>
 		<rating>0.85</rating>
 		<releasedate>20030101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Platform/Shooter</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./mslugx.zip</path>
-		<name>Metal Slug X: Super Vehicle-001</name>
-		<desc>Jump! Shoot! Evade! The time to test your reflexes has come once again! Scatter the swarms of oncoming enemies with triple the firepower (compared with past SNK games). A festival of dazzling destruction, take on the Metal Slug world, if you dare!</desc>
-		<image>./mixart/mslugx.png</image>
-		<video>./snap/mslugx.mp4</video>
-		<marquee>./wheel/mslugx.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19990101T000000</releasedate>
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre>Platform/Shooter</genre>
@@ -31682,25 +31607,6 @@ Players control their vehicles with a return-to-center (RTC) flight controller. 
 		<region>us</region>
 	</game>
 	<game>
-		<path>./wwfwfest.zip</path>
-		<name>WWF WrestleFest</name>
-		<desc>10 selectable wrestlers fight in a tag team tournament or take part in the Royal Rumble.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/wwfwfest.png</image>
-		<video>./snap/wwfwfest.mp4</video>
-		<marquee>./wheel/wwfwfest.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Technos</developer>
-		<publisher>Tecmo</publisher>
-		<genre>Sports-Sports / Wrestling</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./1943kai.zip</path>
 		<name>1943 Kai: Midway Kaisen</name>
 		<desc>An update of 1943 with tweaked weapons, fewer levels, and a new soundtrack.</desc>
@@ -32475,36 +32381,6 @@ The conflict in Wu-Lin seemed to trigger at any moment, unconsciously all sword 
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./ddragon.zip</path>
-		<name>Double Dragon</name>
-		<desc>Double Dragon is a side-scrolling beat-em-up for one or two players, featuring twin brothers and martial arts masters, "Billy &amp; Jimmy Lee". The brothers must defeat the savage street gang known as the 'Black Warriors' to rescue Billy's kidnapped girlfriend, Marian. Standing between the brothers and Marian are four huge, colorful and varied levels; each populated with a wide variety of thugs.
-
-Many of the game's enemies carry weapons (knives, baseball bats etc.) and should Billy or Jimmy manage to knock the weapons from the enemies' hands, the heroes can pick the weapons up and use them against the enemies.
-
-The Black Warriors is made up of six distinct enemy characters- plus Willy, the game's final boss - with each differing in both physical appearance and fighting style. The members of the Black Warriors consist of the following fighters: 
-Williams - A street punk in a tank top. In addition to the standard punches and jump kicks, his signature technique is a body blow to the stomach. He also wields weapons such as baseball bats, knives and dynamite sticks.
-Rowper - A punk who wears matching-colored pants and shirtless vest. He wields all the same weapons as Williams, but can also lift and throw heavy objects such as oildrums, boxes and stones.
-Linda - Female punk who usually carries a whip. She's not very strong, as she falls down to ground with a couple of punches or a single kick (because of this, she is the only regular-sized enemy who cannot be placed on a headlock).
-Abobo - A tall, big-muscled bald guy. His attacks includes punches, a standing kick and a body toss. He can also lift and throw heavy objects like Rowper. Due to his large size, he cannot be put into a headlock.
-Boss 1 - The first boss, a head-swap of Abobo with a Mr. T-style mohawk and beard. Fights just like Abobo, only with an added double-handed slap. Unlike Abobo, he does not use weapons. A green version of him appears as the Mission 3 boss.
-Boss 2 - The second boss. A head swap of the player who uses almost all the same techniques. 
-Willy - The game's final boss, armed, somewhat unfairly, with a machine-gun.
-
-Double Dragon was a huge success due to the many game-play innovations it brought to the genre (see TRIVIA for details), but it demonstrates its final moment of inspired genius at the very end of the game. Should both players still be alive after the final boss has been defeated, they will then have to fight each OTHER. The winner of this fight will be the one who wins Marian's affections.</desc>
-		<image>./mixart/ddragon.png</image>
-		<video>./snap/ddragon.mp4</video>
-		<marquee>./wheel/ddragon.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Technos Japan</developer>
-		<publisher>Taito</publisher>
-		<genre>Plateform / Fighter Scrolling-Platform</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./narc.zip</path>
 		<name>Narc</name>
 		<desc>NARC is a graphically violent one or two-player side-scrolling shoot-em-up in which players take on the role of "Narcs"; futuristic police officers whose duty it is to either arrest or kill drug dealers, junkies and attack dogs as players fight to crush the criminal empire known as K.R.A.K. 
@@ -33002,27 +32878,6 @@ The game is played by moving a cross-hair across the sky and pressing one of thr
 		<players>4</players>
 	</game>
 	<game>
-		<path>./dmnfrnt.zip</path>
-		<name>Demon Front</name>
-		<desc>Demon Front is a platform run 'n' Gun game for up to four players (two simultaneously) that is very reminscent of SNK's "Metal Slug" series, although there are significant additions to the gameplay. 
-
-20 light years from Earth lies the planet of Andres, a peaceful and civilised place. In the year A.C. 2016 Andres experienced a solar eclipse that lasted for over three months. All living creatures were exposed to a strange, dark red light and many began to mutate in both appearance and character. Few inhabitants would survive the torture inflicted by these crazed mutants. 
-
-A lucky few escaped and lived in exile. Four of the survivers decided to join forces, to fight back and overthrow the evil that dominates the planet.</desc>
-		<image>./mixart/dmnfrnt.png</image>
-		<video>./snap/dmnfrnt.mp4</video>
-		<marquee>./wheel/dmnfrnt.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20020101T000000</releasedate>
-		<developer>IGS Corp.</developer>
-		<publisher>IGS</publisher>
-		<genre>Platform-Plateform / Shooter Scrolling</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./rygar.zip</path>
 		<name>Rygar</name>
 		<desc>Rygar is a classic game for many home consoles. It also has an Arcade version that plays different than the home console versions.</desc>
@@ -33228,25 +33083,6 @@ An abstract, oriental-looking face occasionally forms part of a level's platform
 		<region>us</region>
 	</game>
 	<game>
-		<path>./crkdown.zip</path>
-		<name>Crack Down</name>
-		<desc>A futuristic city has been over-taken by a powerful, bio-mechanical army; created by an evil scientist in a bid to take over the world. 2 elite agents must plant a series of time bombs to destroy their base and crush the rebellion.
-
-The 1- or 2-player shoot-em-up action is displayed via an innovative split screen that allows 2 players to work either individually or as a team. A timer countdown timers adds to the tension. Time bombs must be set by running over areas marked with an 'X'; while machine guns and cannons can be reloaded by finding the ammo caches that appear on each level. If ammo runs out, players must result to punching and kicking to defeat opponents.</desc>
-		<image>./mixart/crkdown.png</image>
-		<video>./snap/crkdown.mp4</video>
-		<marquee>./wheel/crkdown.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action / Labyrinth-Shooter Large-Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./spacegun.zip</path>
 		<name>Space Gun</name>
 		<desc>As a member of a special Search And Rescue unit. you (and an optional friend) are told to investigate an S.O.S. distress signal that was sent from a space station. what you don't know is that a group of vicious aliens have taken the colonists hostage. luckily for you, you're armed with a plasma pulse gun and four sets of grenades that are quite special (aside from the common grenade that explodes, some will freeze, incinerate, and even slice and dice the aliens).</desc>
@@ -33281,6 +33117,114 @@ Hasta La Vista, Baby!</desc>
 		<favorite>true</favorite>
 	</game>
 	<game>
+		<path>./contra.zip</path>
+		<name>Contra</name>
+		<desc>In 2631, a meteorite strikes the Galuga archipelago near New Zealand, carrying with it a dormant alien being. Two years later, a terrorist organization calling themselves Red Falcon takes over the island as part of their plot to invade the Earth. Bill Rizer and Lance Bean, of the Contra unit, are sent to the Oceania island to stop the evil threat.
+
+'Contra' is a hectic one or two player platform shoot-em-up featuring 10 stages. In addition to the standard side-view levels, there are also "3D maze" stages in which the player must proceed through a series of corridors inside an enemy base, destroying various sensors, in order to reach the core of the base.
+
+Each player's character is equipped with a semi-automatic machine gun with an unlimited amount of ammunition and can jump, move and fire in all eight cardinal directions. Players can also move and jump simultaneously while firing. Co-ordination of the character's movement is essential as a single hit from any enemy, bullet, or other hazard will instantly kill the player's character and also eliminate the current weapon from the player's inventory.</desc>
+		<image>./mixart/contra.png</image>
+		<video>./snap/contra.mp4</video>
+		<marquee>./wheel/contra.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Plateform / Shooter Scrolling-Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./crkdown.zip</path>
+		<name>Crack Down</name>
+		<desc>A futuristic city has been over-taken by a powerful, bio-mechanical army; created by an evil scientist in a bid to take over the world. 2 elite agents must plant a series of time bombs to destroy their base and crush the rebellion.
+
+The 1- or 2-player shoot-em-up action is displayed via an innovative split screen that allows 2 players to work either individually or as a team. A timer countdown timers adds to the tension. Time bombs must be set by running over areas marked with an 'X'; while machine guns and cannons can be reloaded by finding the ammo caches that appear on each level. If ammo runs out, players must result to punching and kicking to defeat opponents.</desc>
+		<image>./mixart/crkdown.png</image>
+		<video>./snap/crkdown.mp4</video>
+		<marquee>./wheel/crkdown.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action / Labyrinth-Shooter Large-Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./enduror.zip</path>
+		<name>Enduro Racer</name>
+		<desc>Enduro Racer is an off-road racing game in which players ride a dirt bike across five extremely hilly and twisting courses. Each course is littered with logs, rocks, trees and rival racers that must be either jumped over or avoided.
+
+Jumps can only be performed at specific locations on each track. These locations feature a dirt ramp that spreads across the width of the track. Players must have the bike in the 'wheelie' position when the ramp is struck, the bike will then be launched into the air. If the bike is not in a wheelie position when the ramps are struck, the bike will still clear the ramp, but will land front-wheel first and crash.
+
+Enduro Racer is perhaps best remembered for its 'Wheelie' feature, which required the player to physically lift the cabinet's handlebars to raise the front wheel of the game's on-screen counterpart.</desc>
+		<emulator>libretro</emulator>
+		<core>fbalpha2012</core>
+		<image>./mixart/enduror.png</image>
+		<video>./snap/enduror.mp4</video>
+		<marquee>./wheel/enduror.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving-Motorcycle Race, 3rd Pers.</genre>
+	</game>
+	<game>
+		<path>./wwfwfest.zip</path>
+		<name>WWF WrestleFest</name>
+		<desc>10 selectable wrestlers fight in a tag team tournament or take part in the Royal Rumble.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/wwfwfest.png</image>
+		<video>./snap/wwfwfest.mp4</video>
+		<marquee>./wheel/wwfwfest.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Technos</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Sports-Sports / Wrestling</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./ddragon.zip</path>
+		<name>Double Dragon</name>
+		<desc>Double Dragon is a side-scrolling beat-em-up for one or two players, featuring twin brothers and martial arts masters, "Billy &amp; Jimmy Lee". The brothers must defeat the savage street gang known as the 'Black Warriors' to rescue Billy's kidnapped girlfriend, Marian. Standing between the brothers and Marian are four huge, colorful and varied levels; each populated with a wide variety of thugs.
+
+Many of the game's enemies carry weapons (knives, baseball bats etc.) and should Billy or Jimmy manage to knock the weapons from the enemies' hands, the heroes can pick the weapons up and use them against the enemies.
+
+The Black Warriors is made up of six distinct enemy characters- plus Willy, the game's final boss - with each differing in both physical appearance and fighting style. The members of the Black Warriors consist of the following fighters: 
+Williams - A street punk in a tank top. In addition to the standard punches and jump kicks, his signature technique is a body blow to the stomach. He also wields weapons such as baseball bats, knives and dynamite sticks.
+Rowper - A punk who wears matching-colored pants and shirtless vest. He wields all the same weapons as Williams, but can also lift and throw heavy objects such as oildrums, boxes and stones.
+Linda - Female punk who usually carries a whip. She's not very strong, as she falls down to ground with a couple of punches or a single kick (because of this, she is the only regular-sized enemy who cannot be placed on a headlock).
+Abobo - A tall, big-muscled bald guy. His attacks includes punches, a standing kick and a body toss. He can also lift and throw heavy objects like Rowper. Due to his large size, he cannot be put into a headlock.
+Boss 1 - The first boss, a head-swap of Abobo with a Mr. T-style mohawk and beard. Fights just like Abobo, only with an added double-handed slap. Unlike Abobo, he does not use weapons. A green version of him appears as the Mission 3 boss.
+Boss 2 - The second boss. A head swap of the player who uses almost all the same techniques. 
+Willy - The game's final boss, armed, somewhat unfairly, with a machine-gun.
+
+Double Dragon was a huge success due to the many game-play innovations it brought to the genre (see TRIVIA for details), but it demonstrates its final moment of inspired genius at the very end of the game. Should both players still be alive after the final boss has been defeated, they will then have to fight each OTHER. The winner of this fight will be the one who wins Marian's affections.</desc>
+		<image>./mixart/ddragon.png</image>
+		<video>./snap/ddragon.mp4</video>
+		<marquee>./wheel/ddragon.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Technos Japan</developer>
+		<publisher>Taito</publisher>
+		<genre>Plateform / Fighter Scrolling-Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
 		<path>./btoads.zip</path>
 		<name>Battletoads</name>
 		<desc>Battletoads is a (mostly) horizontally-scrolling beat-em-up in which up to three players take on the roles of Rash, Pimple, or Zitz and must punch and kick their way through six enemy-infested stages to save their alternate universe from the Dark Queen.
@@ -33306,24 +33250,80 @@ The game's stages, in addition to having their own unique visual theme, often di
 		<region>us</region>
 	</game>
 	<game>
-		<path>./contra.zip</path>
-		<name>Contra</name>
-		<desc>In 2631, a meteorite strikes the Galuga archipelago near New Zealand, carrying with it a dormant alien being. Two years later, a terrorist organization calling themselves Red Falcon takes over the island as part of their plot to invade the Earth. Bill Rizer and Lance Bean, of the Contra unit, are sent to the Oceania island to stop the evil threat.
+		<path>./dmnfrnt.zip</path>
+		<name>Demon Front</name>
+		<desc>Demon Front is a platform run 'n' Gun game for up to four players (two simultaneously) that is very reminscent of SNK's "Metal Slug" series, although there are significant additions to the gameplay. 
 
-'Contra' is a hectic one or two player platform shoot-em-up featuring 10 stages. In addition to the standard side-view levels, there are also "3D maze" stages in which the player must proceed through a series of corridors inside an enemy base, destroying various sensors, in order to reach the core of the base.
+20 light years from Earth lies the planet of Andres, a peaceful and civilised place. In the year A.C. 2016 Andres experienced a solar eclipse that lasted for over three months. All living creatures were exposed to a strange, dark red light and many began to mutate in both appearance and character. Few inhabitants would survive the torture inflicted by these crazed mutants. 
 
-Each player's character is equipped with a semi-automatic machine gun with an unlimited amount of ammunition and can jump, move and fire in all eight cardinal directions. Players can also move and jump simultaneously while firing. Co-ordination of the character's movement is essential as a single hit from any enemy, bullet, or other hazard will instantly kill the player's character and also eliminate the current weapon from the player's inventory.</desc>
-		<image>./mixart/contra.png</image>
-		<video>./snap/contra.mp4</video>
-		<marquee>./wheel/contra.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Plateform / Shooter Scrolling-Platform</genre>
+A lucky few escaped and lived in exile. Four of the survivers decided to join forces, to fight back and overthrow the evil that dominates the planet.</desc>
+		<image>./mixart/dmnfrnt.png</image>
+		<video>./snap/dmnfrnt.mp4</video>
+		<marquee>./wheel/dmnfrnt.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20020101T000000</releasedate>
+		<developer>IGS Corp.</developer>
+		<publisher>IGS</publisher>
+		<genre>Platform-Plateform / Shooter Scrolling</genre>
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./mslug2.zip</path>
+		<name>Metal Slug 2: Super Vehicle-001/II</name>
+		<desc>As Marco, Eri, Tarma, or Fio, you must defeat the evil General Morden and his henchman. To do this, you must defeat various enemies that get in your way. Throughout the game, you can collect new weapons including the Heavy Machine Gun, Shot Gun, Rocket Launcher, Flame Shot, Laser Shot, Flame Bottles, and Armor Piercer. Also scattered throughout the game, you can ride in  four different vehicles (aka: Slugs) such as the Metal Slug, Slug Flyer, Camel Slug, and SlugNoid. By using these vehicles, you can cause awesome destruction against Morden's evil army. Other items such as energy, extra ammunition, and food (eat too much and your player will gain weight) are also found throughout the game.</desc>
+		<image>./mixart/mslug2.png</image>
+		<video>./snap/mslug2.mp4</video>
+		<marquee>./wheel/mslug2.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Platform/Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./mslug3.zip</path>
+		<name>Metal Slug 3</name>
+		<desc>In the third installment of the Metal Slug series, General Morden is back and he plans to establish a new world order. You guide one of the heroes: Marco, Tarma, Eri or Fio as they blast their way through sidescrolling levels with a unique theme, filled with countless enemies and difficult bosses. You have to free hostages and you can ride bizarre vehicles such as camels, elephants, tanks and robots.  In the Xbox version, additional game modes, such as Storming the Mothership and Chubby Isle Paradiso, can be unlocked upon completing the five arcade stages. A co-op mode has been included, but no online multiplayer. The only Xbox Live feature available allows you to compare singleplayer scores.</desc>
+		<image>./mixart/mslug3.png</image>
+		<video>./snap/mslug3.mp4</video>
+		<marquee>./wheel/mslug3.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Platform/Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./mslug.zip</path>
+		<name>Metal Slug: Super Vehicle-001</name>
+		<desc>Metal Slug, originally released on the Neo Geo, is a side-scrolling shoot'em'up.  The player(s) takes the role of a soldier (or two) and fights a gigantic army. Every level consists of running forward blasting anything that moves, while collecting power-ups along the way (there's also a wide selection of weaponry in the game). In the end of each level the player goes up against one gigantic boss.   The PlayStation port introduces some extra features: there is a combat school where the player may fight with other players for the best time on each level and an art gallery.</desc>
+		<image>./mixart/mslug.png</image>
+		<video>./snap/mslug.mp4</video>
+		<marquee>./wheel/mslug.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Nazca Corporation</developer>
+		<publisher>SNK</publisher>
+		<genre>Platform/Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./mslugx.zip</path>
+		<name>Metal Slug X: Super Vehicle-001</name>
+		<desc>Jump! Shoot! Evade! The time to test your reflexes has come once again! Scatter the swarms of oncoming enemies with triple the firepower (compared with past SNK games). A festival of dazzling destruction, take on the Metal Slug world, if you dare!</desc>
+		<image>./mixart/mslugx.png</image>
+		<video>./snap/mslugx.mp4</video>
+		<marquee>./wheel/mslugx.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Platform/Shooter</genre>
+		<players>2</players>
 	</game>
 </gameList>

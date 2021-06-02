@@ -8950,24 +8950,6 @@ Players are also not limited to the traditional Bomberman.  There is a wide sele
 		<marquee>./wheel/Super Bomberman 3 (Europe).png</marquee>
 		<video>./snap/Super Bomberman 3 (Europe).mp4</video>
 	</game>
-	<game id="2297" source="ScreenScraper.fr">
-		<path>./Super Bomberman (USA).7z</path>
-		<name>Super Bomberman</name>
-		<desc>Super Bomberman is the first Bomberman game on the Super NES.  Like most games in the Bomberman series, Super Bomberman features a normal game as well as the famous battle mode.
-
-In the normal game, Mr. Karat and Dr. Mukk have been terrorizing Diamond City.  You must go from board to board, defeating the bad guys and solving puzzles to move to the next board.
-
-In battle mode, up to four players go head to head in a battle to the death.  Players can be computer controlled or human controlled via the Super MultiTap.</desc>
-		<rating>0.8</rating>
-		<releasedate>19930901T000000</releasedate>
-		<developer>Hudson</developer>
-		<publisher>Hudson</publisher>
-		<genre>Action</genre>
-		<players>1-4</players>
-		<image>./mixart/Super Bomberman (USA).png</image>
-		<marquee>./wheel/Super Bomberman (USA).png</marquee>
-		<video>./snap/Super Bomberman (USA).mp4</video>
-	</game>
 	<game id="2791" source="ScreenScraper.fr">
 		<path>./Super Bonk (USA).7z</path>
 		<name>Super Bonk</name>
@@ -13717,5 +13699,23 @@ There were 6 characters available in the game, each with different strengths and
 		<genre>Action</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+	</game>
+	<game id="2297" source="ScreenScraper.fr">
+		<path>./Super Bomberman (USA).7z</path>
+		<name>Super Bomberman</name>
+		<desc>Super Bomberman is the first Bomberman game on the Super NES.  Like most games in the Bomberman series, Super Bomberman features a normal game as well as the famous battle mode.
+
+In the normal game, Mr. Karat and Dr. Mukk have been terrorizing Diamond City.  You must go from board to board, defeating the bad guys and solving puzzles to move to the next board.
+
+In battle mode, up to four players go head to head in a battle to the death.  Players can be computer controlled or human controlled via the Super MultiTap.</desc>
+		<image>./mixart/Super Bomberman (USA).png</image>
+		<video>./snap/Super Bomberman (USA).mp4</video>
+		<marquee>./wheel/Super Bomberman (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19930901T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action</genre>
+		<players>4</players>
 	</game>
 </gameList>

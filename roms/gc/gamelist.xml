@@ -4891,20 +4891,6 @@
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Fight Night Round 2 (USA).rvz</path>
-		<name>Fight Night : Round 2</name>
-		<desc>Packing in more fearsome punches, players can now dominate the ring with the all-new EA SPORTS Haymaker allowing gamers to knock down their opponents with one devastating blow by adding extra power to each punch. Every hit counts in the game with powerful punches inflicting dynamic injuries on opponents, and thus reducing a fighter's ability to defend himself. Players will also manage the boxers inside and out of the ring. Utilizing the new EA SPORTS Cutman, gamers can minimize damage on their fighters by helping them heal critical wounds between rounds.</desc>
-		<image>./mixart/Fight Night Round 2 (USA).png</image>
-		<video>./snap/Fight Night Round 2 (USA).mp4</video>
-		<marquee>./wheel/Fight Night Round 2 (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20050317T000000</releasedate>
-		<developer>EA Sports</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Sports-Fight</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./007 - Nightfire (USA).rvz</path>
 		<name>007: NightFire</name>
 		<desc>The ultimate secret agent is back in his most dangerous adventure yet in James Bond 007: NightFire. Explore new heights and depths like never before--infiltrate towering skyscrapers, take on treacherous underwater missions, and maneuver your sleek Aston Martin V12 Vanquish through the streets of Tokyo. New state-of-the-art upgradeable gadgets and weapons and original missions--including zero-gravity assignments--will leave you shaken and stirred.</desc>
@@ -7773,21 +7759,6 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<genre>Action-Platform</genre>
 		<favorite>true</favorite>
 	</game>
-	<game>
-		<path>./F-Zero GX (Europe).rvz</path>
-		<name>F-Zero GX</name>
-		<desc>The classic Nintendo franchise that has inspired countless futuristic racing games returns with F-Zero GX on the Nintendo GameCube. Long-time rival Sega collaborated with Nintendo to redefine the futuristic racing genre with intense competition, blazing speeds, and brilliant track designs. F-Zero GX offers 20 different tracks and over 30 unique pilots, as well as a custom craft editor where players can create their own vehicle. Multiple game modes including Grand Prix, Time Attack, Versus mode, and the all new challenging story mode offer a multitude of alternatives to traditional racing. Players can laso save their game data on a memory card and use it to race custom vehicles in the arcade version of F-Zero GX.</desc>
-		<image>./mixart/F-Zero GX (Europe).png</image>
-		<video>./snap/F-Zero GX (Europe).mp4</video>
-		<marquee>./wheel/F-Zero GX (Europe).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20031031T000000</releasedate>
-		<developer>Amusement Vision</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<players>2-4</players>
-		<favorite>true</favorite>
-	</game>
 	<game id="4977" source="ScreenScraper.fr">
 		<path>./Incredible Hulk, The - Ultimate Destruction (USA).rvz</path>
 		<name>The Incredible Hulk Ultimate Destruction</name>
@@ -7830,21 +7801,6 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<publisher>Nintendo</publisher>
 		<genre>Adventure-Action-Role playing games</genre>
 		<players>1</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Mario Kart - Double Dash!! (USA).rvz</path>
-		<name>Mario Kart: Double Dash!!</name>
-		<desc>The king of kart racers has returned with Nintendo's Mario Kart: Double Dash on the Nintendo GameCube. Mario, along with Luigi, Peach, Baby Mario, Baby Luigi, Wario and more, are back for more multiplayer, single player and versus action. The new Mario Kart features updated graphics with detailed character models, and colorful interactive racing environments. For the first time, two characters ride in a single kart as one drive while the other uses items, opening up the possibility for two-player co-op racing. Along with the classic four-player competition, Mario Kart: Double Dash offers a new eight-player mode, where players can link multiple systems for a new level of multiplayer kart racing.</desc>
-		<image>./mixart/Mario Kart - Double Dash!! (USA).png</image>
-		<video>./snap/Mario Kart - Double Dash!! (USA).mp4</video>
-		<marquee>./wheel/Mario Kart - Double Dash!! (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20031117T000000</releasedate>
-		<developer>Nintendo EAD</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<players>4</players>
 		<favorite>true</favorite>
 	</game>
 	<game>
@@ -7979,5 +7935,49 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./F-Zero GX (Europe).rvz</path>
+		<name>F-Zero GX</name>
+		<desc>The classic Nintendo franchise that has inspired countless futuristic racing games returns with F-Zero GX on the Nintendo GameCube. Long-time rival Sega collaborated with Nintendo to redefine the futuristic racing genre with intense competition, blazing speeds, and brilliant track designs. F-Zero GX offers 20 different tracks and over 30 unique pilots, as well as a custom craft editor where players can create their own vehicle. Multiple game modes including Grand Prix, Time Attack, Versus mode, and the all new challenging story mode offer a multitude of alternatives to traditional racing. Players can laso save their game data on a memory card and use it to race custom vehicles in the arcade version of F-Zero GX.</desc>
+		<image>./mixart/F-Zero GX (Europe).png</image>
+		<video>./snap/F-Zero GX (Europe).mp4</video>
+		<marquee>./wheel/F-Zero GX (Europe).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20031031T000000</releasedate>
+		<developer>Amusement Vision</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>2-4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Mario Kart - Double Dash!! (USA).rvz</path>
+		<name>Mario Kart: Double Dash!!</name>
+		<desc>The king of kart racers has returned with Nintendo's Mario Kart: Double Dash on the Nintendo GameCube. Mario, along with Luigi, Peach, Baby Mario, Baby Luigi, Wario and more, are back for more multiplayer, single player and versus action. The new Mario Kart features updated graphics with detailed character models, and colorful interactive racing environments. For the first time, two characters ride in a single kart as one drive while the other uses items, opening up the possibility for two-player co-op racing. Along with the classic four-player competition, Mario Kart: Double Dash offers a new eight-player mode, where players can link multiple systems for a new level of multiplayer kart racing.</desc>
+		<image>./mixart/Mario Kart - Double Dash!! (USA).png</image>
+		<video>./snap/Mario Kart - Double Dash!! (USA).mp4</video>
+		<marquee>./wheel/Mario Kart - Double Dash!! (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20031117T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Fight Night Round 2 (USA).rvz</path>
+		<name>Fight Night : Round 2</name>
+		<desc>Packing in more fearsome punches, players can now dominate the ring with the all-new EA SPORTS Haymaker allowing gamers to knock down their opponents with one devastating blow by adding extra power to each punch. Every hit counts in the game with powerful punches inflicting dynamic injuries on opponents, and thus reducing a fighter's ability to defend himself. Players will also manage the boxers inside and out of the ring. Utilizing the new EA SPORTS Cutman, gamers can minimize damage on their fighters by helping them heal critical wounds between rounds.</desc>
+		<image>./mixart/Fight Night Round 2 (USA).png</image>
+		<video>./snap/Fight Night Round 2 (USA).mp4</video>
+		<marquee>./wheel/Fight Night Round 2 (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20050317T000000</releasedate>
+		<developer>EA Sports</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports-Fight</genre>
+		<players>2</players>
 	</game>
 </gameList>

@@ -209,21 +209,6 @@ Are you a vampire hunter? Are you ready to battle legions of undead foes includi
 		<video>./snap/Dracula - Undead Awakening.mp4</video>
 		<genreid>512</genreid>
 	</game>
-	<game id="9538" source="ScreenScraper.fr">
-		<path>./Excitebike - World Rally (USA) (WiiWare).wad</path>
-		<name>Excitebike : World Rally</name>
-		<desc>The classic game play of Excitebike is combined with new controls and features in this exclusive WiiWare title! 
-Prepare to face daredevil jumps, crazy obstacles, and other racers in the newest member of the venerable Excitebike franchise, exclusively available on the WiiWare service. Choose from multiple camera angles as you tilt your way to smooth landings using the motion-sensitive controls and compete in races around the world in four championship circuits. Better yet, use Nintendo Wi-Fi Connection to invite friends to a race, or if you re feeling brave, take on anyone else looking for a match. Feel like tackling a challenge of your own design? Use the intuitive Track Editor to choose from the available obstacles and put together your dream course, then share your masterpiece with friends (and vice versa) to see whose creation skills reign supreme. After all, you know what they say about riding a bikeâ€”once you ve learned how, you never forget...</desc>
-		<rating>0.9</rating>
-		<releasedate>20091109T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<image>./mixart/Excitebike - World Rally (USA) (WiiWare).png</image>
-		<marquee>./wheel/Excitebike - World Rally (USA) (WiiWare).png</marquee>
-		<video>./snap/Excitebike - World Rally (USA) (WiiWare).mp4</video>
-		<genreid>1537</genreid>
-	</game>
 	<game id="9636" source="ScreenScraper.fr">
 		<path>./FAST - Racing League.wad</path>
 		<name>FAST : Racing League</name>
@@ -428,29 +413,6 @@ Meanwhile, Yin-Yarn captures King Dedede and Meta Knight and places them under h
 		<video>./snap/Kirby's Return to Dream Land (USA) (En,Fr,Es).cc.mp4</video>
 		<genreid>257</genreid>
 	</game>
-	<game id="8694" source="ScreenScraper.fr">
-		<path>./Mario Kart Wii (USA) (En,Fr,Es).cc.rvz</path>
-		<name>Mario Kart Wii</name>
-		<desc>Mario Kart Wii is an installment of the long-running Mario Kart series, but here for the Nintendo Wii, where you take control of various Nintendo characters to race through different tracks and win the Grand Prix, using a variety of vehicles and items spread through the track to help you.
-
-There are various additions to the series. Players can now also play with motorbikes, which can do wheelies but are lighter and can't super boost, in contrast with karts. There's 6 varieties of each for each character class to choose from, and 4 new characters have been added as well as being able to drive with your Mii. Finally, there's 16 new tracks as well as 16 returning from previous games.
-
-Gameplay has also been modified. Drifting has been tweaked so that it's easier to use and players only get a turbo boost based on how well they perform the drift. It can be set to Manual, where players press a button to drift, or Automatic, where it's automatically triggered on curves but provides no turbo boost. Stunts can also be performed in the air to gain turbo boosts. Races have also been bolstered to support up to 12 players now.
-
-There's 4 modes of play to choose from: Grand Prix, where you race through series of tracks in the 50cc (karts only), 100cc (bikes only) and 150cc (karts and bikes) cups; Time Trial, where you take on ghost replays and try to finish in the least time; Versus, where you race against opponents on a single track; and Battle, where you can compete against your foes in either hitting them with weapons or collecting coins.
-
-Multiplayer is also supported, allowing up to 4 players in hotseat and 12 online on Nintendo Wi-Fi, where you can take on strangers and friends (with Friend Codes) in any game mode, play in competitions, beat other's ghost replays or check online rankings. The game can be played using a Wii Wheel (included), Wii Remote, Nunchuck, Classic Controller, or Gamecube Controller.</desc>
-		<rating>0.8</rating>
-		<releasedate>20080427T000000</releasedate>
-		<developer>Nintendo EAD</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<players>4</players>
-		<image>./mixart/Mario Kart Wii (USA) (En,Fr,Es).cc.png</image>
-		<marquee>./wheel/Mario Kart Wii (USA) (En,Fr,Es).cc.png</marquee>
-		<video>./snap/Mario Kart Wii (USA) (En,Fr,Es).cc.mp4</video>
-		<genreid>1537</genreid>
-	</game>
 	<game id="8777" source="ScreenScraper.fr">
 		<path>./Mario Strikers Charged (USA) (En,Fr,Es) (Rev 1).cc.rvz</path>
 		<name>Mario Strikers Charged Football</name>
@@ -546,29 +508,6 @@ Mega Man fans, your wait is over! The classic Blue Bomber that debuted in 1987 i
 		<marquee>./wheel/NASCAR Kart Racing (USA).cc.png</marquee>
 		<video>./snap/NASCAR Kart Racing (USA).cc.mp4</video>
 		<genreid>1537</genreid>
-	</game>
-	<game id="8698" source="ScreenScraper.fr">
-		<path>./New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2).cc.rvz</path>
-		<name>New Super Mario Bros. Wii</name>
-		<desc>Princess Peach has been kidnapped!  Again!  Everyone was celebrating the Princess' birthday when a giant birthday cake arrived... but then Bowser Jr. and the seven Koopalings popped out and kidnapped her!  Mario, Luigi and two Toads make chase to rescue her once more.  Will they succeed?
-
-New Super Mario Bros. Wii is a continuation of the Super Mario Bros. games.  As with the original, players jump, dash and grab power ups such as the Super Mushroom and the the Fire Flower, which lets them throw fireballs at their foes.  New powerups have been added too - the Propeller Hat allows players to zoom vertically up in the air, and then glide back down, the Ice Flower lets players freeze enemies into icy blocks, and the Penguin Suit gives them traction on ice as well as allowing them to belly slide.  Yoshi, from Super Mario World makes a return, as well - players can ride him and he'll eat enemies and berries in levels.
-
-The Wii Remote's tilting feature is used to activate certain parts of levels - for example, jumping onto specific platforms and tilting the Wii Remote will angle the platform too.  Another level has players aiming a light on a boat by using the Wii Remote so that they're not lost in the dark.  Shaking the Wii Remote while wearing the Propeller Hat causes the player to fly straight up, while shaking it near objects picks them up or throws them.
-
-The game has a special feature known as a 'Super Guide' - when a player dies eight times in total in a level, a special block appears at the start of the stage the next time they play.  If the player hits this block, Luigi will take over and play through the level, showing them how to complete it.  This allows players to progress through the game even if they are having trouble on a particularly difficult level.
-
-Up to four players can play simultaneously.  When playing together, as long as one person is on-screen in a level, players can keep returning in-game after they die by floating in a bubble which is then popped.  If all players lose their lives, they are sent back to the map screen.  Another mode, Coin Battle, has all players versus each other, with the aim being to pick up the most coins while heading toward the goal.</desc>
-		<rating>0.85</rating>
-		<releasedate>20091115T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Shooter Small-Action-Platform</genre>
-		<players>1-4</players>
-		<image>./mixart/New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2).cc.png</image>
-		<marquee>./wheel/New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2).cc.png</marquee>
-		<video>./snap/New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2).cc.mp4</video>
-		<genreid>257</genreid>
 	</game>
 	<game id="9507" source="ScreenScraper.fr">
 		<path>./NHL 2K10 (USA).cc.rvz</path>
@@ -826,21 +765,6 @@ Players can shake the Wii remote after jumping on bad guys but before hitting th
 		<video>./snap/Super Paper Mario.mp4</video>
 		<genreid>257</genreid>
 	</game>
-	<game id="8692" source="ScreenScraper.fr">
-		<path>./Super Smash Bros. Brawl.cc.rvz</path>
-		<name>Super Smash Bros. Brawl</name>
-		<desc>Welcome to a brawl for the ages, where anything can happen, anyone can show up and all bets are off.Game storyline: In multiplayer games, characters from all Nintendo universes meet up in Nintendo locales to duke it out. In the solo mode called "The Subspace Emissary," the world of Smash Bros. is invaded by an entity called the Ancient Minister and his army of creatures, called "The Primid." Normally, characters come alive in the world of Smash Bros. to do battle, then turn back into trophies when defeated. However, the Ancient Minister starts turning characters into trophies to harness their power, then detonates bombs that suck pieces of the world back into his realm of Subspace. Eventually, all the characters must work together to defeat the invading creatures from Subspace - this is accomplished by playing through side-scrolling levels.How to progress through the game: For multiplayer games, players pick characters, set rules and locations for where they want to play and then duke it out. In Solo Mode, characters play through a long, side-scrolling adventure, beating up enemies along the way as they watch short cinematics starring their favorite characters.Characters: Mario, Samus, Bowser, Donkey Kong, Solid Snake, Meta Knight, Kirby, Pikachu, Zero Suit Samus, Link, Zelda, Pit and Wario, to name just a few. Anyone and anything from a Nintendo universe could appear in this game in one form or another.Special powers/weapons/moves/features: Anything from a Nintendo game could conceivably be in this game, whether it's a musical score, an obscure item or a character that shows up to help the fighters. Super Smash Bros. Brawl is eminently customizable, so players can choose the frequency of items appearing, adjust musical scores and basically play the game however they'd like. Items range from baseball bats to proximity mines to Poké Balls to Assist Trophies, which spawn characters like Hammer Bros. and Sim City's Dr. Wright to attack others.Super Smash Brawl Tournament WinnersLA Region Winner - David SegalSF Region Winner - Jason CaroMA Region Winner - Daniel JungNY Region Winner - Jensen SantiagoTournament National ChampionDaniel Jung * This action-packed fighting game features a ridiculous number of characters that have appeared on Nintendo platforms, from Mario to Link to Pikachu ... to Solid Snake! As they square off in famous locales drawn from the rich history of Nintendo, literally anything can happen - and usually does. With limitless customizing options, items and weapons that boggle the mind and a wealth of modes, this game has truly infinite replayability. * Super Smash Bros. Brawl features a sprawling adventure mode called "The Subspace Emissary" that's a full game in and of itself. Players jump and brawl their way through enemy-packed side-scrolling levels, meeting up with other characters, watching incredible cinematics and taking on massive bosses. * For the first time, this celebrated series is going Wi-Fi, allowing up to four players to brawl, no matter where they may be.</desc>
-		<rating>0.95</rating>
-		<releasedate>20080309T000000</releasedate>
-		<developer>Game Arts</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Fight</genre>
-		<players>2-4</players>
-		<image>./mixart/Super Smash Bros. Brawl.cc.png</image>
-		<marquee>./wheel/Super Smash Bros. Brawl.cc.png</marquee>
-		<video>./snap/Super Smash Bros. Brawl.cc.mp4</video>
-		<genreid>262</genreid>
-	</game>
 	<game id="8846" source="ScreenScraper.fr">
 		<path>./Tatsunoko vs. Capcom - Ultimate All-Stars (USA).cc.rvz</path>
 		<name>Tatsunoko vs. Capcom: Ultimate All-Stars</name>
@@ -1078,6 +1002,88 @@ Each level also has three hidden treasure chests in it.  If all three are found,
 		<genre>Action-Platform-Puzzle-Game</genre>
 		<lang>en</lang>
 	</game>
+	<game id="9759" source="ScreenScraper.fr">
+		<path>./Contra ReBirth (USA) (WiiWare).wad</path>
+		<name>Contra Rebirth</name>
+		<desc>Experience fast paced 2D side scrolling action from the series that pioneered the run-and-gun genre.
+
+Chief Salamander and his Neo-Salamander Force travel back to 1973 AD to invade Earth. They land in Central America and take control of the Shizuoka ruins on the Yucatan Peninsula. There, the aliens plan the destruction of all the ?Contra" on Earth. The Galactic President calls on Lance Bean, a member of the elite "Contra" warriors to save the Earth, but his sudden disappearance jeopardizes the safety of the planet. Now, Bill Rizer and the samurai, Genbei Yagyu are the last hope for Earth and must pick up their weapons and defeat the evil Neo-Salamander Army before all is lost. Experience the fast paced action packed 2D side-scrolling adventure that pioneered the run-and-gun genre.</desc>
+		<image>./mixart/Contra ReBirth (USA) (WiiWare).png</image>
+		<video>./snap/Contra ReBirth (USA) (WiiWare).mp4</video>
+		<marquee>./wheel/Contra ReBirth (USA) (WiiWare).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20090512T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<genreid>256</genreid>
+	</game>
+	<game id="9538" source="ScreenScraper.fr">
+		<path>./Excitebike - World Rally (USA) (WiiWare).wad</path>
+		<name>Excitebike : World Rally</name>
+		<desc>The classic game play of Excitebike is combined with new controls and features in this exclusive WiiWare title! 
+Prepare to face daredevil jumps, crazy obstacles, and other racers in the newest member of the venerable Excitebike franchise, exclusively available on the WiiWare service. Choose from multiple camera angles as you tilt your way to smooth landings using the motion-sensitive controls and compete in races around the world in four championship circuits. Better yet, use Nintendo Wi-Fi Connection to invite friends to a race, or if you re feeling brave, take on anyone else looking for a match. Feel like tackling a challenge of your own design? Use the intuitive Track Editor to choose from the available obstacles and put together your dream course, then share your masterpiece with friends (and vice versa) to see whose creation skills reign supreme. After all, you know what they say about riding a bikeâ€”once you ve learned how, you never forget...</desc>
+		<image>./mixart/Excitebike - World Rally (USA) (WiiWare).png</image>
+		<video>./snap/Excitebike - World Rally (USA) (WiiWare).mp4</video>
+		<marquee>./wheel/Excitebike - World Rally (USA) (WiiWare).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20091109T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<favorite>true</favorite>
+		<genreid>1537</genreid>
+	</game>
+	<game id="8694" source="ScreenScraper.fr">
+		<path>./Mario Kart Wii (USA) (En,Fr,Es).cc.rvz</path>
+		<name>Mario Kart Wii</name>
+		<desc>Mario Kart Wii is an installment of the long-running Mario Kart series, but here for the Nintendo Wii, where you take control of various Nintendo characters to race through different tracks and win the Grand Prix, using a variety of vehicles and items spread through the track to help you.
+
+There are various additions to the series. Players can now also play with motorbikes, which can do wheelies but are lighter and can't super boost, in contrast with karts. There's 6 varieties of each for each character class to choose from, and 4 new characters have been added as well as being able to drive with your Mii. Finally, there's 16 new tracks as well as 16 returning from previous games.
+
+Gameplay has also been modified. Drifting has been tweaked so that it's easier to use and players only get a turbo boost based on how well they perform the drift. It can be set to Manual, where players press a button to drift, or Automatic, where it's automatically triggered on curves but provides no turbo boost. Stunts can also be performed in the air to gain turbo boosts. Races have also been bolstered to support up to 12 players now.
+
+There's 4 modes of play to choose from: Grand Prix, where you race through series of tracks in the 50cc (karts only), 100cc (bikes only) and 150cc (karts and bikes) cups; Time Trial, where you take on ghost replays and try to finish in the least time; Versus, where you race against opponents on a single track; and Battle, where you can compete against your foes in either hitting them with weapons or collecting coins.
+
+Multiplayer is also supported, allowing up to 4 players in hotseat and 12 online on Nintendo Wi-Fi, where you can take on strangers and friends (with Friend Codes) in any game mode, play in competitions, beat other's ghost replays or check online rankings. The game can be played using a Wii Wheel (included), Wii Remote, Nunchuck, Classic Controller, or Gamecube Controller.</desc>
+		<image>./mixart/Mario Kart Wii (USA) (En,Fr,Es).cc.png</image>
+		<video>./snap/Mario Kart Wii (USA) (En,Fr,Es).cc.mp4</video>
+		<marquee>./wheel/Mario Kart Wii (USA) (En,Fr,Es).cc.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20080427T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<genreid>1537</genreid>
+	</game>
+	<game id="8698" source="ScreenScraper.fr">
+		<path>./New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2).cc.rvz</path>
+		<name>New Super Mario Bros. Wii</name>
+		<desc>Princess Peach has been kidnapped!  Again!  Everyone was celebrating the Princess' birthday when a giant birthday cake arrived... but then Bowser Jr. and the seven Koopalings popped out and kidnapped her!  Mario, Luigi and two Toads make chase to rescue her once more.  Will they succeed?
+
+New Super Mario Bros. Wii is a continuation of the Super Mario Bros. games.  As with the original, players jump, dash and grab power ups such as the Super Mushroom and the the Fire Flower, which lets them throw fireballs at their foes.  New powerups have been added too - the Propeller Hat allows players to zoom vertically up in the air, and then glide back down, the Ice Flower lets players freeze enemies into icy blocks, and the Penguin Suit gives them traction on ice as well as allowing them to belly slide.  Yoshi, from Super Mario World makes a return, as well - players can ride him and he'll eat enemies and berries in levels.
+
+The Wii Remote's tilting feature is used to activate certain parts of levels - for example, jumping onto specific platforms and tilting the Wii Remote will angle the platform too.  Another level has players aiming a light on a boat by using the Wii Remote so that they're not lost in the dark.  Shaking the Wii Remote while wearing the Propeller Hat causes the player to fly straight up, while shaking it near objects picks them up or throws them.
+
+The game has a special feature known as a 'Super Guide' - when a player dies eight times in total in a level, a special block appears at the start of the stage the next time they play.  If the player hits this block, Luigi will take over and play through the level, showing them how to complete it.  This allows players to progress through the game even if they are having trouble on a particularly difficult level.
+
+Up to four players can play simultaneously.  When playing together, as long as one person is on-screen in a level, players can keep returning in-game after they die by floating in a bubble which is then popped.  If all players lose their lives, they are sent back to the map screen.  Another mode, Coin Battle, has all players versus each other, with the aim being to pick up the most coins while heading toward the goal.</desc>
+		<image>./mixart/New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2).cc.png</image>
+		<video>./snap/New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2).cc.mp4</video>
+		<marquee>./wheel/New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2).cc.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20091115T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shooter Small-Action-Platform</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<genreid>257</genreid>
+	</game>
 	<game>
 		<path>./Punch-Out!! (USA) (En,Fr,Es).cc.rvz</path>
 		<name>Punch-Out!!</name>
@@ -1095,21 +1101,20 @@ Each level also has three hidden treasure chests in it.  If all three are found,
 		<lang>en,es,fr</lang>
 		<region>eu</region>
 	</game>
-	<game id="9759" source="ScreenScraper.fr">
-		<path>./Contra ReBirth (USA) (WiiWare).wad</path>
-		<name>Contra Rebirth</name>
-		<desc>Experience fast paced 2D side scrolling action from the series that pioneered the run-and-gun genre.
-
-Chief Salamander and his Neo-Salamander Force travel back to 1973 AD to invade Earth. They land in Central America and take control of the Shizuoka ruins on the Yucatan Peninsula. There, the aliens plan the destruction of all the ?Contra" on Earth. The Galactic President calls on Lance Bean, a member of the elite "Contra" warriors to save the Earth, but his sudden disappearance jeopardizes the safety of the planet. Now, Bill Rizer and the samurai, Genbei Yagyu are the last hope for Earth and must pick up their weapons and defeat the evil Neo-Salamander Army before all is lost. Experience the fast paced action packed 2D side-scrolling adventure that pioneered the run-and-gun genre.</desc>
-		<image>./mixart/Contra ReBirth (USA) (WiiWare).png</image>
-		<video>./snap/Contra ReBirth (USA) (WiiWare).mp4</video>
-		<marquee>./wheel/Contra ReBirth (USA) (WiiWare).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20090512T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<genreid>256</genreid>
+	<game id="8692" source="ScreenScraper.fr">
+		<path>./Super Smash Bros. Brawl.cc.rvz</path>
+		<name>Super Smash Bros. Brawl</name>
+		<desc>Welcome to a brawl for the ages, where anything can happen, anyone can show up and all bets are off.Game storyline: In multiplayer games, characters from all Nintendo universes meet up in Nintendo locales to duke it out. In the solo mode called "The Subspace Emissary," the world of Smash Bros. is invaded by an entity called the Ancient Minister and his army of creatures, called "The Primid." Normally, characters come alive in the world of Smash Bros. to do battle, then turn back into trophies when defeated. However, the Ancient Minister starts turning characters into trophies to harness their power, then detonates bombs that suck pieces of the world back into his realm of Subspace. Eventually, all the characters must work together to defeat the invading creatures from Subspace - this is accomplished by playing through side-scrolling levels.How to progress through the game: For multiplayer games, players pick characters, set rules and locations for where they want to play and then duke it out. In Solo Mode, characters play through a long, side-scrolling adventure, beating up enemies along the way as they watch short cinematics starring their favorite characters.Characters: Mario, Samus, Bowser, Donkey Kong, Solid Snake, Meta Knight, Kirby, Pikachu, Zero Suit Samus, Link, Zelda, Pit and Wario, to name just a few. Anyone and anything from a Nintendo universe could appear in this game in one form or another.Special powers/weapons/moves/features: Anything from a Nintendo game could conceivably be in this game, whether it's a musical score, an obscure item or a character that shows up to help the fighters. Super Smash Bros. Brawl is eminently customizable, so players can choose the frequency of items appearing, adjust musical scores and basically play the game however they'd like. Items range from baseball bats to proximity mines to Poké Balls to Assist Trophies, which spawn characters like Hammer Bros. and Sim City's Dr. Wright to attack others.Super Smash Brawl Tournament WinnersLA Region Winner - David SegalSF Region Winner - Jason CaroMA Region Winner - Daniel JungNY Region Winner - Jensen SantiagoTournament National ChampionDaniel Jung * This action-packed fighting game features a ridiculous number of characters that have appeared on Nintendo platforms, from Mario to Link to Pikachu ... to Solid Snake! As they square off in famous locales drawn from the rich history of Nintendo, literally anything can happen - and usually does. With limitless customizing options, items and weapons that boggle the mind and a wealth of modes, this game has truly infinite replayability. * Super Smash Bros. Brawl features a sprawling adventure mode called "The Subspace Emissary" that's a full game in and of itself. Players jump and brawl their way through enemy-packed side-scrolling levels, meeting up with other characters, watching incredible cinematics and taking on massive bosses. * For the first time, this celebrated series is going Wi-Fi, allowing up to four players to brawl, no matter where they may be.</desc>
+		<image>./mixart/Super Smash Bros. Brawl.cc.png</image>
+		<video>./snap/Super Smash Bros. Brawl.cc.mp4</video>
+		<marquee>./wheel/Super Smash Bros. Brawl.cc.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20080309T000000</releasedate>
+		<developer>Game Arts</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Fight</genre>
+		<players>2-4</players>
+		<favorite>true</favorite>
+		<genreid>262</genreid>
 	</game>
 </gameList>

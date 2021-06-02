@@ -2946,21 +2946,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<players>1</players>
 	</game>
 	<game>
-		<path>./River City Ransom - Underground.lnk</path>
-		<name>River City Ransom - Underground</name>
-		<desc>River City Ransom: Underground is a continuation of the quirky beat'em up series. The plot takes place 20 years after the original River City Ransom. Alex and Ryan, retired from their fighting days, are now running an auto repair shop, while the infamous Slick rots in jail. After a mysterious kidnapping jolts the town, the gang of high-schoolers known as "The Flock" is framed for the abduction, but Alex and Ryan figure this has Slick's handiwork all over it. It's up to the player to find out what truly is going on in River City and stop the culprit once and for all. The game is a beat 'em up with a lot of similarities to the original River City Ransom.</desc>
-		<image>./mixart/River City Ransom - Underground.jpg</image>
-		<video>./snap/River City Ransom - Underground.mp4</video>
-		<marquee>./wheel/River City Ransom - Underground.png</marquee>
-		<rating>0.80</rating>
-		<releasedate>201701T000000</releasedate>
-		<developer>Conatus Creative</developer>
-		<publisher>Conatus Creative</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Blaster Master Zero.lnk</path>
 		<name>Blaster Master Zero</name>
 		<desc>Mutant scum never learn! Blaster Master Zero is a 8-bit style top-down &amp; sideview 2D action-adventure game that hearkens back to the golden age of the NES. This game was created using the original 1988 title "Blaster Master" from Sunsoft as a base, with the addition of new areas and bosses, new gameplay elements such as extra sub-weapons, improved gameplay, a more robust scenario, refined and expanded exploration mechanics, and more. ・On the sideview maps, take control of the battle tank SOPHIA III and explore your surroundings as you search for the entrance to the dungeon where the area's boss lurks. ・Once you find a dungeon entrance, exit SOPHIA III and make your way inside as the hero Jason and take on the mutants that dwell within in top-down mode. ・Defeat the mid-bosses and area bosses to acquire new items, sub-weapons, upgrades to SOPHIA III and Jason's equipment, and new abilities and maneuvers that allow SOPHIA III to access new areas.</desc>
@@ -3341,22 +3326,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Cuphead.lnk</path>
-		<name>Cuphead</name>
-		<desc>Cuphead is a run and gun platform indie video game developed and published by StudioMDHR Entertainment. As the titular character Cuphead, the player fights a series of bosses in order to repay a debt to the devil.</desc>
-		<image>./mixart/Cuphead.png</image>
-		<video>./snap/Cuphead.mp4</video>
-		<marquee>./wheel/Cuphead.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20171201T000000</releasedate>
-		<developer>StudioMDHR Entertainment</developer>
-		<publisher>StudioMDHR Entertainment</publisher>
-		<genre>Adventure, Platform</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Sky Force Reloaded.lnk</path>
 		<name>Sky Force Reloaded</name>
 		<desc>Sky Force Reloaded is the spirit of the classic arcade shoot ‘em ups, captured with modern visuals and design. New entry in the series will keep you entertained with all the things you’ve came to love in scrolling shooters. Meaty explosions, incinerating lasers, collosal bosses and diverse aircrafts to pilot. Sky Force Reloaded is not your average scrolling shooter. It will draw you in with its beautiful environments and intense effects.</desc>
@@ -3724,21 +3693,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Titan Quest Anniversary.lnk</path>
-		<name>Titan Quest Anniversary</name>
-		<desc>For its 10 year anniversary, Titan Quest will shine in new splendour. This Anniversary Edition combines both Titan Quest and Titan Quest Immortal Throne in one game, and has been given a massive overhaul for the ultimate ARPG experience. -- Anniversary Edition update -- - Restored and improved multiplayer functionality, including new features like a built-in voice chat and NAT resolving for best multiplayer connectivity - Support for more resolutions, larger camera distance and scaleable UI size - Improved performance and general stability - Support for modders through new modding options and a fully integrated Steam Workshop - Complete balance rework with improvements to all Masteries, damage types, unique items and sets - Countless bug fixes and other improvements, including ten years’ worth of community fixes - Increased challenges and rewards for larger parties and on higher difficulty levels - Dozens of new heroes and bosses to encounter.</desc>
-		<image>./mixart/Titan Quest Anniversary.jpg</image>
-		<video>./snap/Titan Quest Anniversary.mp4</video>
-		<marquee>./wheel/Titan Quest Anniversary.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>201601T000000</releasedate>
-		<developer>THQ Nordic</developer>
-		<publisher>THQ Nortic</publisher>
-		<genre>Action, Role-Playing</genre>
-		<players>6</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Gauntlet Slayer Edition.lnk</path>
 		<name>Gauntlet Slayer Edition</name>
 		<desc>Gauntlet is a top-down dungeon crawler and an entry in the long-running Gauntlet series. The game supports up to four online or local players working cooperatively, each using a different one of the four available hero types: Elf, Valkyrie, Warrior and Wizard.</desc>
@@ -3828,21 +3782,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Minecraft Dungeons.lnk</path>
-		<name>Minecraft Dungeons</name>
-		<desc>Minecraft Dungeons is a dungeon crawler video game developed by Mojang Studios and Double Eleven and published by Xbox Game Studios. It is based on Minecraft and was released for Nintendo Switch, PlayStation 4, Windows, and Xbox One on May 26, 2020. The game received lukewarm reviews; many deemed the game fun and charming, with general praise directed at its visuals and music. However, its simple gameplay and use of procedural generation received more mixed reception, with its short story and lack of depth also being met with criticism.</desc>
-		<image>./mixart/Minecraft Dungeons.jpg</image>
-		<video>./snap/Minecraft Dungeons.mp4</video>
-		<marquee>./wheel/Minecraft Dungeons.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20201201T000000</releasedate>
-		<developer>Double Eleven, Mojang</developer>
-		<publisher>Microsoft Studios</publisher>
-		<genre>Action, Adventure</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Vikings - Wolves of Midgard.lnk</path>
 		<name>Vikings - Wolves of Midgard</name>
 		<desc>Vikings – Wolves of Midgard takes you to the Shores of Midgard, a world based upon the mythology and history of the Vikings, but with a fantasy twist. Battle the fearsome Jotan, hordes of terrifying undead monstrosities and the beasts of Ragnarok, as you strive to survive the growing cold of Fimbulwinter.</desc>
@@ -3873,17 +3812,78 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Unruly Heroes.lnk</path>
-		<name>Unruly Heroes</name>
-		<desc>The sacred scroll preserving harmony in our world has been torn up and scattered to the winds. Now, strange and terrifying creatures are sowing discord and chaos throughout the land.Only four totally opposed, implausible heroes can turn back the tide: Sanzang the wise, Wukong the fearless monkey, Kihong the greedy pig, and Sandmonk the sensitive brute. On their journey westward, they will travel to fantastical worlds to gather the pieces of the scroll and fight an army of evil creatures.</desc>
-		<image>./mixart/Unruly Heroes.jpg</image>
-		<video>./snap/Unruly Heroes.mp4</video>
-		<marquee>./wheel/Unruly Heroes.png</marquee>
+		<path>./Titan Quest Anniversary.lnk</path>
+		<name>Titan Quest Anniversary</name>
+		<desc>For its 10 year anniversary, Titan Quest will shine in new splendour. This Anniversary Edition combines both Titan Quest and Titan Quest Immortal Throne in one game, and has been given a massive overhaul for the ultimate ARPG experience. -- Anniversary Edition update -- - Restored and improved multiplayer functionality, including new features like a built-in voice chat and NAT resolving for best multiplayer connectivity - Support for more resolutions, larger camera distance and scaleable UI size - Improved performance and general stability - Support for modders through new modding options and a fully integrated Steam Workshop - Complete balance rework with improvements to all Masteries, damage types, unique items and sets - Countless bug fixes and other improvements, including ten years’ worth of community fixes - Increased challenges and rewards for larger parties and on higher difficulty levels - Dozens of new heroes and bosses to encounter.</desc>
+		<image>./mixart/Titan Quest Anniversary.jpg</image>
+		<video>./snap/Titan Quest Anniversary.mp4</video>
+		<marquee>./wheel/Titan Quest Anniversary.png</marquee>
 		<rating>0.85</rating>
-		<releasedate>20191201T000000</releasedate>
-		<developer>Magic Design Studios</developer>
-		<publisher>Magic Design Studios</publisher>
-		<genre>Action, Platform</genre>
+		<releasedate>201601T000000</releasedate>
+		<developer>THQ Nordic</developer>
+		<publisher>THQ Nortic</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>6</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Cuphead.lnk</path>
+		<name>Cuphead</name>
+		<desc>Cuphead is a run and gun platform indie video game developed and published by StudioMDHR Entertainment. As the titular character Cuphead, the player fights a series of bosses in order to repay a debt to the devil.</desc>
+		<image>./mixart/Cuphead.png</image>
+		<video>./snap/Cuphead.mp4</video>
+		<marquee>./wheel/Cuphead.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>StudioMDHR Entertainment</developer>
+		<publisher>StudioMDHR Entertainment</publisher>
+		<genre>Adventure, Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Grim Dawn.lnk</path>
+		<name>Grim Dawn</name>
+		<desc>Delve deep into the oil rig city of Ravensdale. A medieval metropolis that went bonkers after the people discovered goop - a raw fluid that provided energy, skin cream, bread spread and powered diesel engines. And it turned the people of Ravensdale into raging, bloodthirsty monsters. Lucky for them they have you, leading a pack of lunatic knights on a killing spree to save the city. Rogue Stormers combines classic run 'n' gun gameplay with a modern art style, and twin stick shooter configuration. Your goal is to fight and beat the ultimate evil threatening Ravensdale...But in order to beat him, you need to fight your way through 7 increasingly challenging levels. If you die, you'll be back at square one. Earned perks are yours to keep, allowing your character to grow stronger with each new raid.</desc>
+		<image>./mixart/Grim Dawn.jpg</image>
+		<video>./snap/Grim Dawn.mp4</video>
+		<marquee>./wheel/Grim Dawn.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20161201T000000</releasedate>
+		<developer>Crate Entertainment</developer>
+		<publisher>Crate Entertainment</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Minecraft Dungeons.lnk</path>
+		<name>Minecraft Dungeons</name>
+		<desc>Minecraft Dungeons is a dungeon crawler video game developed by Mojang Studios and Double Eleven and published by Xbox Game Studios. It is based on Minecraft and was released for Nintendo Switch, PlayStation 4, Windows, and Xbox One on May 26, 2020. The game received lukewarm reviews; many deemed the game fun and charming, with general praise directed at its visuals and music. However, its simple gameplay and use of procedural generation received more mixed reception, with its short story and lack of depth also being met with criticism.</desc>
+		<image>./mixart/Minecraft Dungeons.jpg</image>
+		<video>./snap/Minecraft Dungeons.mp4</video>
+		<marquee>./wheel/Minecraft Dungeons.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20201201T000000</releasedate>
+		<developer>Double Eleven, Mojang</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Action, Adventure</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Nine Parchments.lnk</path>
+		<name>Nine Parchments</name>
+		<desc>Nine Parchments is a co-operative blast 'em up game of magical mayhem from Frozenbyte, creators of the Trine series! Runaway apprentice wizards seize the opportunity to complete their spellbooks by going after the lost Nine Parchments. As the would-be wizards rapidly acquire powerful new spells without learning proper safety measures, it's natural their hasty progress results in plenty of deadly accidents... Nine Parchments combines real-time spell-shooting action with RPG elements - level up your character and collect magical loot, filling your wardrobe with a myriad of wizard hats and powerful staves. Features - Dozens of spells for you to discover and master - Unlock new playable characters with quests - Find fashionable Hats and powerful Staves - Level up and improve your characters with their Skill Trees - Resurrection and Friendly Fire: Help and hinder your friends - Battle strange creatures and mighty bosses in the beautiful Trine world - Online and local co-op with 1-4 players.</desc>
+		<image>./mixart/Nine Parchments.jpg</image>
+		<video>./snap/Nine Parchments.mp4</video>
+		<marquee>./wheel/Nine Parchments.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Frozenbyte</developer>
+		<publisher>Frozenbyte</publisher>
+		<genre>Action, Role-Playing</genre>
 		<players>4</players>
 		<favorite>true</favorite>
 	</game>
@@ -3903,17 +3903,47 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Nine Parchments.lnk</path>
-		<name>Nine Parchments</name>
-		<desc>Nine Parchments is a co-operative blast 'em up game of magical mayhem from Frozenbyte, creators of the Trine series! Runaway apprentice wizards seize the opportunity to complete their spellbooks by going after the lost Nine Parchments. As the would-be wizards rapidly acquire powerful new spells without learning proper safety measures, it's natural their hasty progress results in plenty of deadly accidents... Nine Parchments combines real-time spell-shooting action with RPG elements - level up your character and collect magical loot, filling your wardrobe with a myriad of wizard hats and powerful staves. Features - Dozens of spells for you to discover and master - Unlock new playable characters with quests - Find fashionable Hats and powerful Staves - Level up and improve your characters with their Skill Trees - Resurrection and Friendly Fire: Help and hinder your friends - Battle strange creatures and mighty bosses in the beautiful Trine world - Online and local co-op with 1-4 players.</desc>
-		<image>./mixart/Nine Parchments.jpg</image>
-		<video>./snap/Nine Parchments.mp4</video>
-		<marquee>./wheel/Nine Parchments.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20171201T000000</releasedate>
-		<developer>Frozenbyte</developer>
-		<publisher>Frozenbyte</publisher>
-		<genre>Action, Role-Playing</genre>
+		<path>./River City Ransom - Underground.lnk</path>
+		<name>River City Ransom - Underground</name>
+		<desc>River City Ransom: Underground is a continuation of the quirky beat'em up series. The plot takes place 20 years after the original River City Ransom. Alex and Ryan, retired from their fighting days, are now running an auto repair shop, while the infamous Slick rots in jail. After a mysterious kidnapping jolts the town, the gang of high-schoolers known as "The Flock" is framed for the abduction, but Alex and Ryan figure this has Slick's handiwork all over it. It's up to the player to find out what truly is going on in River City and stop the culprit once and for all. The game is a beat 'em up with a lot of similarities to the original River City Ransom.</desc>
+		<image>./mixart/River City Ransom - Underground.jpg</image>
+		<video>./snap/River City Ransom - Underground.mp4</video>
+		<marquee>./wheel/River City Ransom - Underground.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>201701T000000</releasedate>
+		<developer>Conatus Creative</developer>
+		<publisher>Conatus Creative</publisher>
+		<genre>Beat'em Up</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Rogue Stormers.lnk</path>
+		<name>Rogue Stormers</name>
+		<desc>Delve deep into the oil rig city of Ravensdale. A medieval metropolis that went bonkers after the people discovered goop - a raw fluid that provided energy, skin cream, bread spread and powered diesel engines. And it turned the people of Ravensdale into raging, bloodthirsty monsters. Lucky for them they have you, leading a pack of lunatic knights on a killing spree to save the city. Rogue Stormers combines classic run 'n' gun gameplay with a modern art style, and twin stick shooter configuration. Your goal is to fight and beat the ultimate evil threatening Ravensdale...But in order to beat him, you need to fight your way through 7 increasingly challenging levels. If you die, you'll be back at square one. Earned perks are yours to keep, allowing your character to grow stronger with each new raid.</desc>
+		<image>./mixart/Rogue Stormers.png</image>
+		<video>./snap/Rogue Stormers.mp4</video>
+		<marquee>./wheel/Rogue Stormers.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20161201T000000</releasedate>
+		<developer>Black Forest Games</developer>
+		<publisher>Black Forest Games</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Unruly Heroes.lnk</path>
+		<name>Unruly Heroes</name>
+		<desc>The sacred scroll preserving harmony in our world has been torn up and scattered to the winds. Now, strange and terrifying creatures are sowing discord and chaos throughout the land.Only four totally opposed, implausible heroes can turn back the tide: Sanzang the wise, Wukong the fearless monkey, Kihong the greedy pig, and Sandmonk the sensitive brute. On their journey westward, they will travel to fantastical worlds to gather the pieces of the scroll and fight an army of evil creatures.</desc>
+		<image>./mixart/Unruly Heroes.jpg</image>
+		<video>./snap/Unruly Heroes.mp4</video>
+		<marquee>./wheel/Unruly Heroes.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>Magic Design Studios</developer>
+		<publisher>Magic Design Studios</publisher>
+		<genre>Action, Platform</genre>
 		<players>4</players>
 		<favorite>true</favorite>
 	</game>
@@ -3930,6 +3960,21 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<publisher>BigBen Interactive</publisher>
 		<genre>Action, Role-Playing</genre>
 		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Ghosts 'n Goblins Resurrection.lnk</path>
+		<name>Ghosts 'n Goblins Resurrection</name>
+		<desc>Watch as this nostalgic yet completely re-imagined storybook world unravels before your very eyes. Taking cues from both Ghosts 'n Goblins and Ghouls 'n Ghosts and giving birth to something entirely new, Resurrection is a title worthy of its name. Don't be fooled—this picturesque storybook world, while gorgeous, is a love-letter to the original titles and maintains the same punishing game play that fans have come to expect. So go on and test your mettle, for the gauntlet has been thrown!</desc>
+		<image>./mixart/Ghosts 'n Goblins Resurrection.jpg</image>
+		<video>./snap/Ghosts 'n Goblins Resurrection.mp4</video>
+		<marquee>./wheel/Ghosts 'n Goblins Resurrection.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20211201T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>2</players>
 		<favorite>true</favorite>
 	</game>
 </gameList>

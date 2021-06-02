@@ -1153,20 +1153,6 @@ Swords in game can be customized and leveled up to increase its length, width, a
 		<genre>Race, Driving</genre>
 		<genreid>1537</genreid>
 	</game>
-	<game id="26419" source="ScreenScraper.fr">
-		<path>./OutRun Online Arcade.m3u</path>
-		<name>OutRun Online Arcade</name>
-		<desc>Experience the mayhem and action as you race and rediscover 15 challenging courses. Test your time, speed and handling ability as you bring your next-gen skills online with this coin-op classic. Feel the kick as you put your foot to the floor in one of 10 high-performance Ferrari cars racing your way across the U.S. From the steep streets of San Francisco to the beautiful beaches of California, it's mile after mile of unrelenting acceleration, thrills and action.</desc>
-		<image>./mixart/OutRun Online Arcade.png</image>
-		<video>./snap/OutRun Online Arcade.mp4</video>
-		<marquee>./wheel/OutRun Online Arcade.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20090416T000000</releasedate>
-		<developer>Sumo Digital</developer>
-		<publisher>SEGA</publisher>
-		<genre>Race, Driving</genre>
-		<genreid>1537</genreid>
-	</game>
 	<game id="25169" source="ScreenScraper.fr">
 		<path>./Soulcalibur IV (USA) (En,Ja,Fr,De,Es,It).m3u</path>
 		<name>SoulCalibur IV</name>
@@ -1217,5 +1203,32 @@ Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or
 		<publisher>Electronic Arts</publisher>
 		<genre>Sports</genre>
 		<genreid>1536</genreid>
+	</game>
+	<game id="26419" source="ScreenScraper.fr">
+		<path>./OutRun Online Arcade.m3u</path>
+		<name>OutRun Online Arcade</name>
+		<desc>Experience the mayhem and action as you race and rediscover 15 challenging courses. Test your time, speed and handling ability as you bring your next-gen skills online with this coin-op classic. Feel the kick as you put your foot to the floor in one of 10 high-performance Ferrari cars racing your way across the U.S. From the steep streets of San Francisco to the beautiful beaches of California, it's mile after mile of unrelenting acceleration, thrills and action.</desc>
+		<image>./mixart/OutRun Online Arcade.png</image>
+		<video>./snap/OutRun Online Arcade.mp4</video>
+		<marquee>./wheel/OutRun Online Arcade.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20090416T000000</releasedate>
+		<developer>Sumo Digital</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<genreid>1537</genreid>
+	</game>
+	<game id="24652" source="ScreenScraper.fr">
+		<path>./Diablo III Reaper of Souls Ultimate Evil Edition.m3u</path>
+		<name>Diablo III : Reaper of Souls</name>
+		<desc>Reaper of Souls for PS3 is the first extension of Diablo 3. This one introduces a new chapter, brings Malthaël, Angel of Death.</desc>
+		<image>./mixart/Diablo III Reaper of Souls Ultimate Evil Edition.png</image>
+		<video>./snap/Diablo III Reaper of Souls Ultimate Evil Edition.mp4</video>
+		<marquee>./wheel/Diablo III Reaper of Souls Ultimate Evil Edition.png</marquee>
+		<releasedate>2014</releasedate>
+		<developer>Activision</developer>
+		<publisher>Blizzard Entertainment</publisher>
+		<genre>Action</genre>
+		<genreid>256</genreid>
 	</game>
 </gameList>

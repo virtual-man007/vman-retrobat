@@ -5553,20 +5553,6 @@ Alundra is an action role playing game (RPG) somewhat similar to the famous Zeld
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Tekken 3 (USA).chd</path>
-		<name>Tekken 3</name>
-		<desc>An ancient evil force has reawakened, attacking in secret and feeding on the souls of mighty warriors. To lure it out of hiding will take the greatest fighting contest the world has ever seen... Tekken 3. Some are fighting for revenge, some for honor, ultimately, all are fighting for their lives and the fate of all mankind.</desc>
-		<image>./mixart/Tekken 3 (USA).png</image>
-		<video>./snap/Tekken 3 (USA).mp4</video>
-		<marquee>./wheel/Tekken 3 (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19980429T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Fight</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Powerslave (USA).chd</path>
 		<name>Powerslave</name>
 		<desc>An archeological expedition to unearth long-forgotten treasures revealed a history more dark than ever thought possible -- a lot more.   An ancient evil force, neither of this time nor of this world, has remained buried since the Egyptians walked the earth. Now it has been exhumed. Of course, you, the hero, must find out what's going on in Egypt. Your helicopter crashes within this danger zone and you must survive on your own. Meet the Egyptian gods and follow their advice.   Exhumed is a first-person shooter set with an Egyptian theme. Twenty-one levels of finding six sacred objects with which you can jump higher, float under water, float and perform other heroics. Beat bosses and kill other creatures using eight weapons ranging from swords to guns to magic staffs.   Exhumed for the Playstation and Saturn consoles was released as Powerslave in the United States.</desc>
@@ -5677,20 +5663,6 @@ Combat takes place between a wide array of vehicles ranging from a man strapped 
 		<publisher>Electronic Arts</publisher>
 		<genre>Sports</genre>
 		<players>1-2</players>
-	</game>
-	<game>
-		<path>./CT Special Forces 3 - Bioterror.chd</path>
-		<name>CT Special Forces 3 : Bioterror</name>
-		<desc>CT Special Forces 3: Bioterror is an Action game, developed by The Code Monkeys and published by LSP, which was released in Europe in 2004.</desc>
-		<image>./mixart/CT Special Forces 3 - Bioterror.png</image>
-		<video>./snap/CT Special Forces 3 - Bioterror.mp4</video>
-		<marquee>./wheel/CT Special Forces 3 - Bioterror.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20040305T000000</releasedate>
-		<developer>Hip Interactive</developer>
-		<publisher>LSP</publisher>
-		<genre>Beat'em Up-Shooter / Run and Gun-Shooter</genre>
-		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Hokuto no Ken Seiki Matsukyu Seishi Densetsu (Japan).chd</path>
@@ -17648,6 +17620,34 @@ The game contains a rock soundtrack including tracks by Joe Satriani and Steve V
 		<developer>Blizzard</developer>
 		<publisher>Electronic Arts</publisher>
 		<genre>Role playing games</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./CT Special Forces 3 - Bioterror.chd</path>
+		<name>CT Special Forces 3 : Bioterror</name>
+		<desc>CT Special Forces 3: Bioterror is an Action game, developed by The Code Monkeys and published by LSP, which was released in Europe in 2004.</desc>
+		<image>./mixart/CT Special Forces 3 - Bioterror.png</image>
+		<video>./snap/CT Special Forces 3 - Bioterror.mp4</video>
+		<marquee>./wheel/CT Special Forces 3 - Bioterror.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20040305T000000</releasedate>
+		<developer>Hip Interactive</developer>
+		<publisher>LSP</publisher>
+		<genre>Beat'em Up-Shooter / Run and Gun-Shooter</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Tekken 3 (USA).chd</path>
+		<name>Tekken 3</name>
+		<desc>An ancient evil force has reawakened, attacking in secret and feeding on the souls of mighty warriors. To lure it out of hiding will take the greatest fighting contest the world has ever seen... Tekken 3. Some are fighting for revenge, some for honor, ultimately, all are fighting for their lives and the fate of all mankind.</desc>
+		<image>./mixart/Tekken 3 (USA).png</image>
+		<video>./snap/Tekken 3 (USA).mp4</video>
+		<marquee>./wheel/Tekken 3 (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19980429T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fight</genre>
 		<players>2</players>
 	</game>
 </gameList>

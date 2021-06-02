@@ -340,20 +340,6 @@
 		<video>./snap/Terminator, The - Dawn of Fate (USA).mp4</video>
 	</game>
 	<game>
-		<path>./Mortal Kombat - Armageddon (USA) (Premium Edition).gz</path>
-		<name>Mortal Kombat : Armageddon</name>
-		<desc>The fighting genre's poster (whipping?) boy for gruesome violence makes its final appearance on PlayStation 2 before moving in a new direction for Xbox 360 and PlayStation 3. Mortal Kombat: Armageddon is thus a hostile homage to its frenzied fans, a love letter of sorts that tears away the heart-tugging sentiment for the still-beating heart. Armageddon offers the most significant throng of Mortal Kombat fighters thus far, with a roster spanning 62 combatants -- every minor and major character that has appeared in the series to date. The entire cast is also immediately playable from the opening screen.</desc>
-		<image>./mixart/Mortal Kombat - Armageddon (USA) (Premium Edition).png</image>
-		<video>./snap/Mortal Kombat - Armageddon (USA) (Premium Edition).mp4</video>
-		<marquee>./wheel/Mortal Kombat - Armageddon (USA) (Premium Edition).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20061027T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Fight</genre>
-		<players>2-8</players>
-	</game>
-	<game>
 		<path>./Half-Life (USA).gz</path>
 		<name>Half-Life</name>
 		<desc>The PlayStation 2 version of Half-Life is a port of the Windows game, but with a significant overhaul for the weapons and character models, as well as the overall map geometry and some extended levels.   It also includes an expansion pack that is referred to as Half-Life: Decay, which was never officially available as an expansion for the Windows game until it was eventually recreated as a modification. The third expansion for the original game, it features two-player cooperative gameplay (in split-screen) with the two female scientists Gina Cross and Colette Green as the protagonists. It is meant to be played with two players at the same time as it is more puzzle-oriented than the original game and the first two expansions. Singleplayer is also possible, but then switching between the two characters is necessary to advance. When not active, the other character is AI controlled for basic actions.</desc>
@@ -689,21 +675,6 @@ The newest feature of this game (other than the much better graphics) is the onl
 		<genre>Fight</genre>
 		<players>2</players>
 	</game>
-	<game>
-		<path>./Gradius V (USA).gz</path>
-		<name>Gradius V</name>
-		<desc>Gradius V is a Japanese-developed shoot 'em up video game published by Konami for the Sony PlayStation 2 video game console in 2004. Gradius V was largely developed under contract by Treasure, who had previously worked on Radiant Silvergun and Ikaruga.   The game is set predominantly in outer space where players control a fictional spacecraft called Vic Viper through a continuously scrolling background depicting the territories of Bacterian?an evil empire which serves as the player's enemy   The soundtrack was composed by Basiscape composer Hitoshi Sakimoto whose previous video game work includes the soundtrack to the tactical role-playing game Final Fantasy Tactics, the shoot'em up Radiant Silvergun and the action/RPG hybrid Vagrant Story</desc>
-		<image>./mixart/Gradius V (USA).png</image>
-		<video>./snap/Gradius V (USA).mp4</video>
-		<marquee>./wheel/Gradius V (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20041004T000000</releasedate>
-		<developer>Treasure</developer>
-		<publisher>Konami</publisher>
-		<genre>Action-Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
 	<game id="23060" source="ScreenScraper.fr">
 		<path>./Neo Contra (USA).gz</path>
 		<name>Neo Contra</name>
@@ -717,21 +688,6 @@ The newest feature of this game (other than the much better graphics) is the onl
 		<publisher>Konami</publisher>
 		<genre>Platform-Action</genre>
 		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game id="22574" source="ScreenScraper.fr">
-		<path>./R-Type Final (USA).gz</path>
-		<name>R-Type Final</name>
-		<desc>Inspired by the arcade's 1987 side-scrolling shooter, this 3D PS2 version of R-Type places players in control of a well-armed, side-scrolling spaceship for some old fashioned blast-away combat action. R-Type Final is designed to bring on the tense, fast-paced feel of the original coin-op game while adding console-friendly features such as customizable ships, multiple difficulty settings, and a mode that allows player to battle against AI-controlled versions of their own ships. Following the four games it introduced stateside in 2002, Fresh Games publishes R-Type Final in the U.S. and Canada, returning to its strategy of bringing distinct Japanese console games to North American gamers.   In R-Type Final, your enemy is the Bydo, an evil (and living) weapon capable of reproducing itself. Humanity has fought the Bydo four times so far, and each time was victorious. However, each time the Bydo appears it is stronger than before, and now it's back and you need to destroy it again!</desc>
-		<image>./mixart/R-Type Final (USA).png</image>
-		<video>./snap/R-Type Final (USA).mp4</video>
-		<marquee>./wheel/R-Type Final (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20040326T000000</releasedate>
-		<developer>Nobilis</developer>
-		<publisher>Irem</publisher>
-		<genre>Action-Shoot'em Up</genre>
-		<players>1</players>
 		<favorite>true</favorite>
 	</game>
 	<game id="22435" source="ScreenScraper.fr">
@@ -6456,6 +6412,50 @@ Combined Assault's campaign mode offers 18 missions. The game takes place solely
 		<genre>Simulation</genre>
 		<players>2</players>
 		<genreid>1024</genreid>
+	</game>
+	<game>
+		<path>./Gradius V (USA).gz</path>
+		<name>Gradius V</name>
+		<desc>Gradius V is a Japanese-developed shoot 'em up video game published by Konami for the Sony PlayStation 2 video game console in 2004. Gradius V was largely developed under contract by Treasure, who had previously worked on Radiant Silvergun and Ikaruga.   The game is set predominantly in outer space where players control a fictional spacecraft called Vic Viper through a continuously scrolling background depicting the territories of Bacterian?an evil empire which serves as the player's enemy   The soundtrack was composed by Basiscape composer Hitoshi Sakimoto whose previous video game work includes the soundtrack to the tactical role-playing game Final Fantasy Tactics, the shoot'em up Radiant Silvergun and the action/RPG hybrid Vagrant Story</desc>
+		<image>./mixart/Gradius V (USA).png</image>
+		<video>./snap/Gradius V (USA).mp4</video>
+		<marquee>./wheel/Gradius V (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20041004T000000</releasedate>
+		<developer>Treasure</developer>
+		<publisher>Konami</publisher>
+		<genre>Action-Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Mortal Kombat - Armageddon (USA) (Premium Edition).gz</path>
+		<name>Mortal Kombat : Armageddon</name>
+		<desc>The fighting genre's poster (whipping?) boy for gruesome violence makes its final appearance on PlayStation 2 before moving in a new direction for Xbox 360 and PlayStation 3. Mortal Kombat: Armageddon is thus a hostile homage to its frenzied fans, a love letter of sorts that tears away the heart-tugging sentiment for the still-beating heart. Armageddon offers the most significant throng of Mortal Kombat fighters thus far, with a roster spanning 62 combatants -- every minor and major character that has appeared in the series to date. The entire cast is also immediately playable from the opening screen.</desc>
+		<image>./mixart/Mortal Kombat - Armageddon (USA) (Premium Edition).png</image>
+		<video>./snap/Mortal Kombat - Armageddon (USA) (Premium Edition).mp4</video>
+		<marquee>./wheel/Mortal Kombat - Armageddon (USA) (Premium Edition).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20061027T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Fight</genre>
+		<players>2-8</players>
+	</game>
+	<game id="22574" source="ScreenScraper.fr">
+		<path>./R-Type Final (USA).gz</path>
+		<name>R-Type Final</name>
+		<desc>Inspired by the arcade's 1987 side-scrolling shooter, this 3D PS2 version of R-Type places players in control of a well-armed, side-scrolling spaceship for some old fashioned blast-away combat action. R-Type Final is designed to bring on the tense, fast-paced feel of the original coin-op game while adding console-friendly features such as customizable ships, multiple difficulty settings, and a mode that allows player to battle against AI-controlled versions of their own ships. Following the four games it introduced stateside in 2002, Fresh Games publishes R-Type Final in the U.S. and Canada, returning to its strategy of bringing distinct Japanese console games to North American gamers.   In R-Type Final, your enemy is the Bydo, an evil (and living) weapon capable of reproducing itself. Humanity has fought the Bydo four times so far, and each time was victorious. However, each time the Bydo appears it is stronger than before, and now it's back and you need to destroy it again!</desc>
+		<image>./mixart/R-Type Final (USA).png</image>
+		<video>./snap/R-Type Final (USA).mp4</video>
+		<marquee>./wheel/R-Type Final (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20040326T000000</releasedate>
+		<developer>Nobilis</developer>
+		<publisher>Irem</publisher>
+		<genre>Action-Shoot'em Up</genre>
+		<players>1</players>
+		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Contra - Shattered Soldier (USA).gz</path>
