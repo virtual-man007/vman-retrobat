@@ -74,6 +74,20 @@ Team up with friends and combine your skills to battle your way through waves of
 		<genre>Action, Adventure, Fighting</genre>
 		<players>4</players>
 	</game>
+	<game id="195745">
+		<path>./The_Legend_of_Zelda_Breath_of_the_Wild.xci</path>
+		<name>The Legend of Zelda: Breath of the Wild</name>
+		<desc>Forget everything you know about The Legend of Zelda games. Step into a world of discovery, exploration, and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series. Travel across vast fields, through forests, and to mountain peaks as you discover what has become of the kingdom of Hyrule in this stunning Open-Air Adventure. Now on Nintendo Switch, your journey is freer and more open than ever. Take your system anywhere, and adventure as Link any way you like.</desc>
+		<image>./images/The_Legend_of_Zelda_Breath_of_the_Wild-image.png</image>
+		<marquee>./images/The_Legend_of_Zelda_Breath_of_the_Wild-marquee.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20170303T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
 	<game>
 		<path>./Super_Mario_3D_World_plus_Bowsers_Fury.xci</path>
 		<name>Super Mario 3D World + Bowser's Fury</name>
@@ -117,19 +131,5 @@ Need some extra assistance bringing Bowser out of his frenzied, furious state? A
 		<publisher>Nintendo</publisher>
 		<genre>Action, Platform, Family</genre>
 		<players>4</players>
-	</game>
-	<game id="195745">
-		<path>./The_Legend_of_Zelda_Breath_of_the_Wild.xci</path>
-		<name>The Legend of Zelda: Breath of the Wild</name>
-		<desc>Forget everything you know about The Legend of Zelda games. Step into a world of discovery, exploration, and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series. Travel across vast fields, through forests, and to mountain peaks as you discover what has become of the kingdom of Hyrule in this stunning Open-Air Adventure. Now on Nintendo Switch, your journey is freer and more open than ever. Take your system anywhere, and adventure as Link any way you like.</desc>
-		<image>./images/The_Legend_of_Zelda_Breath_of_the_Wild-image.png</image>
-		<marquee>./images/The_Legend_of_Zelda_Breath_of_the_Wild-marquee.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20170303T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<lang>en</lang>
 	</game>
 </gameList>
