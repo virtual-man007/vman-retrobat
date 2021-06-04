@@ -254,18 +254,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Evil Dead - A Fistful of Boomstick.cmd</path>
-		<name>Evil Dead: A Fistful of Boomstick</name>
-		<desc>Fully "armed" with his chainsaw, trusty boomstick, and trademark quips, Ash must once again save Dearborn from the unspeakable horrors spawned from The Book of the Dead. After a vortex to the undead is unwittingly opened, deadites swarm through Dearborn, turning humans into zombies. Now, with Dearborn in chaos and citizens begging for help, Ash must hack and slash his way through the streets and figure out how to close the vortex. Ash soon learns that all is not what it seems--those he trusts may be plotting against him, and the history of Dearborn might be irrevocably changed.</desc>
-		<image>./mixart/Evil Dead - A Fistful of Boomstick.png</image>
-		<marquee>./wheel/Evil Dead - A Fistful of Boomstick.png</marquee>
-		<marquee>./images/Evil Dead - A Fistful of Boomstick.jpg</marquee>
-		<rating>0.6</rating>
-		<releasedate>20030617T000000</releasedate>
-		<md5>77f79c168f2d859aef09936ff708a15a</md5>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Family Guy.cmd</path>
 		<name>Family Guy</name>
 		<desc>Play through three stories that intersect in typical Family Guy fashion. Be Stewie and match wits against his brother and arch-nemesis Bertram as they vie to take over the world. Take control of Peter and fight to stop Mr. Belvedere who he thinks is trying to take over the world. Slip on a collar and down a martini as Brian attempt to escape prison and prove your innocence in a puppy parental case gone awry.</desc>
@@ -477,21 +465,6 @@ A port of the original Panzer Dragoon is included.</desc>
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./RalliSport Challenge.cmd</path>
-		<name>RalliSport Challenge</name>
-		<desc>You want real rally racing? Try strapping yourself in for the four play modes of Rallisport Challenge. Twenty-five licensed vehicles participate in Conventional Rally, RallyCross, Hill Climb and Ice Racing. Tracks are taken from the real world, with matching terrains and environments. Particle and weather effects heighten the realism. Rallisport Challenge's unique AI engine delivers drivers with their own individual personalities and driving habits, and effective graphics and animations bring it all to life.</desc>
-		<image>./mixart/RalliSport Challenge.png</image>
-		<marquee>./images/RalliSport Challenge.jpg</marquee>
-		<rating>0.8</rating>
-		<releasedate>20020304T000000</releasedate>
-		<developer>DiCE</developer>
-		<publisher>Microsoft Studios</publisher>
-		<genre>Racing</genre>
-		<players>1</players>
-		<md5>77f79c168f2d859aef09936ff708a15a</md5>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Rayman 3 - Hoodlum Havoc.cmd</path>
 		<name>Rayman 3: Hoodlum Havoc</name>
 		<desc>Rayman's universe has fallen into a chaotic world of wicked powers, bizarre characters, and merciless combat. When Globox accidentally swallows the Lord of the Dark Lums, a fanatic army of trigger-happy Hoodlums wreaks total havoc to get their Lord back. Rayman's only chance is to purge the Dark Lum Lord from the manic Globox, scour the lands for new powers, and battle with hordes of Hoodlum soldiers.</desc>
@@ -565,21 +538,6 @@ Given its rule-bending recipe, Soccer Slam is an exciting and original game, in 
 		<developer>Studio Gigante</developer>
 		<publisher>Microsoft Studios</publisher>
 		<genre>Fighting</genre>
-		<players>1</players>
-		<md5>77f79c168f2d859aef09936ff708a15a</md5>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./The Guy Game.cmd</path>
-		<name>The Guy Game</name>
-		<desc>The Guy Game is an adult video game for the PlayStation 2, Xbox and PC platforms published in 2004 by Gathering of Developers and developed by now-defunct Top Heavy Studios (it was the team's only game). Presented in a trivia gameshow style supporting up to four players, it consists of about 1,000 questions spread out over 20 episodes. Much of the game involves watching live-action video footage of young women in bikinis, and as the player succeeds in the game the women eventually expose their breasts. The game garnered much controversy and was the subject of a lawsuit.</desc>
-		<image>./mixart/The Guy Game.png</image>
-		<marquee>./images/The Guy Game.jpg</marquee>
-		<rating>1</rating>
-		<releasedate>20040830T000000</releasedate>
-		<developer>Topheavy</developer>
-		<publisher>Gathering of Developers</publisher>
-		<genre>Puzzle</genre>
 		<players>1</players>
 		<md5>77f79c168f2d859aef09936ff708a15a</md5>
 		<lang>en</lang>
@@ -852,6 +810,47 @@ Also included is the critically acclaimed single-player game, Conker’s Bad Fur
 		<publisher>Konami</publisher>
 		<genre>Fighting</genre>
 		<players>4</players>
+		<md5>77f79c168f2d859aef09936ff708a15a</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Evil Dead - A Fistful of Boomstick.cmd</path>
+		<name>Evil Dead: A Fistful of Boomstick</name>
+		<desc>Fully "armed" with his chainsaw, trusty boomstick, and trademark quips, Ash must once again save Dearborn from the unspeakable horrors spawned from The Book of the Dead. After a vortex to the undead is unwittingly opened, deadites swarm through Dearborn, turning humans into zombies. Now, with Dearborn in chaos and citizens begging for help, Ash must hack and slash his way through the streets and figure out how to close the vortex. Ash soon learns that all is not what it seems--those he trusts may be plotting against him, and the history of Dearborn might be irrevocably changed.</desc>
+		<image>./mixart/Evil Dead - A Fistful of Boomstick.png</image>
+		<marquee>./images/Evil Dead - A Fistful of Boomstick.jpg</marquee>
+		<rating>0.6</rating>
+		<releasedate>20030617T000000</releasedate>
+		<md5>77f79c168f2d859aef09936ff708a15a</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./RalliSport Challenge.cmd</path>
+		<name>RalliSport Challenge</name>
+		<desc>You want real rally racing? Try strapping yourself in for the four play modes of Rallisport Challenge. Twenty-five licensed vehicles participate in Conventional Rally, RallyCross, Hill Climb and Ice Racing. Tracks are taken from the real world, with matching terrains and environments. Particle and weather effects heighten the realism. Rallisport Challenge's unique AI engine delivers drivers with their own individual personalities and driving habits, and effective graphics and animations bring it all to life.</desc>
+		<image>./mixart/RalliSport Challenge.png</image>
+		<marquee>./images/RalliSport Challenge.jpg</marquee>
+		<rating>0.8</rating>
+		<releasedate>20020304T000000</releasedate>
+		<developer>DiCE</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<md5>77f79c168f2d859aef09936ff708a15a</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./The Guy Game.cmd</path>
+		<name>The Guy Game</name>
+		<desc>The Guy Game is an adult video game for the PlayStation 2, Xbox and PC platforms published in 2004 by Gathering of Developers and developed by now-defunct Top Heavy Studios (it was the team's only game). Presented in a trivia gameshow style supporting up to four players, it consists of about 1,000 questions spread out over 20 episodes. Much of the game involves watching live-action video footage of young women in bikinis, and as the player succeeds in the game the women eventually expose their breasts. The game garnered much controversy and was the subject of a lawsuit.</desc>
+		<image>./mixart/The Guy Game.png</image>
+		<marquee>./images/The Guy Game.jpg</marquee>
+		<rating>1</rating>
+		<releasedate>20040830T000000</releasedate>
+		<developer>Topheavy</developer>
+		<publisher>Gathering of Developers</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
 		<md5>77f79c168f2d859aef09936ff708a15a</md5>
 		<lang>en</lang>
 	</game>

@@ -3005,21 +3005,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Mantis Burn Racing.lnk</path>
-		<name>Mantis Burn Racing</name>
-		<desc>The race is on in Mantis Burn Racing, where fast-paced bumper-to-bumper racing combines with intuitive, tactile gameplay and stunning visuals in one of the best-looking and most immersive top-down racers around. Drive incredible built-for-racing vehicles across highly detailed, visually stunning tracks, in high-risk, high-speed races where winning is everything. Prove your skills in an extensive career mode and take on friends with 4-player local split-screen racing and online modes for up to 8 players in ‘one-more-go’ style competitive racing. With a RPG-style upgrade system providing players with deep tactical choices and excellent replay-ability, this is racing at its rawest but most exciting!</desc>
-		<image>./mixart/Mantis Burn Racing.jpg</image>
-		<video>./snap/Mantis Burn Racing.mp4</video>
-		<marquee>./wheel/Mantis Burn Racing.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>201601T000000</releasedate>
-		<developer>VooFoo Studios</developer>
-		<publisher>VooFoo Studios</publisher>
-		<genre>Racing</genre>
-		<players>1-2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Lara Croft GO.lnk</path>
 		<name>Lara Croft GO</name>
 		<desc>Lara Croft GO expands the turn-based puzzle gameplay and takes you on an adventure set in a long-forgotten world. Explore the ruins of an ancient civilization, discover hidden secrets and face deadly challenges as you uncover the myth of the Queen of Venom. A never-before-seen take on the iconic franchise featuring challenging gameplay, gorgeous visuals and a mesmerizing soundtrack, all at your fingertips.</desc>
@@ -3873,21 +3858,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Nine Parchments.lnk</path>
-		<name>Nine Parchments</name>
-		<desc>Nine Parchments is a co-operative blast 'em up game of magical mayhem from Frozenbyte, creators of the Trine series! Runaway apprentice wizards seize the opportunity to complete their spellbooks by going after the lost Nine Parchments. As the would-be wizards rapidly acquire powerful new spells without learning proper safety measures, it's natural their hasty progress results in plenty of deadly accidents... Nine Parchments combines real-time spell-shooting action with RPG elements - level up your character and collect magical loot, filling your wardrobe with a myriad of wizard hats and powerful staves. Features - Dozens of spells for you to discover and master - Unlock new playable characters with quests - Find fashionable Hats and powerful Staves - Level up and improve your characters with their Skill Trees - Resurrection and Friendly Fire: Help and hinder your friends - Battle strange creatures and mighty bosses in the beautiful Trine world - Online and local co-op with 1-4 players.</desc>
-		<image>./mixart/Nine Parchments.jpg</image>
-		<video>./snap/Nine Parchments.mp4</video>
-		<marquee>./wheel/Nine Parchments.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20171201T000000</releasedate>
-		<developer>Frozenbyte</developer>
-		<publisher>Frozenbyte</publisher>
-		<genre>Action, Role-Playing</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Riptide GP Renegade.lnk</path>
 		<name>Riptide GP Renegade</name>
 		<desc>Experience the future of illicit hydrojet racing, where armored riders kick out death-defying stunts over massive waterfalls, dodge cops through public waterways, and boost at breakneck speeds across surging waves. You are a hydrojet rider, framed and cast out from the Riptide GP league, forced to race illegally through city waterways, flooded ruins, and churning factory machinery in an effort to reclaim your reputation and your title. Play through the single player career to unlock new vehicles, playable characters, and customization features as you take down bosses and build your crew. Then, take your skills online for the ultimate test as you battle opponents around the world in 8-player online matches.</desc>
@@ -3948,6 +3918,51 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<favorite>true</favorite>
 	</game>
 	<game>
+		<path>./Ghosts 'n Goblins Resurrection.lnk</path>
+		<name>Ghosts 'n Goblins Resurrection</name>
+		<desc>Watch as this nostalgic yet completely re-imagined storybook world unravels before your very eyes. Taking cues from both Ghosts 'n Goblins and Ghouls 'n Ghosts and giving birth to something entirely new, Resurrection is a title worthy of its name. Don't be fooled—this picturesque storybook world, while gorgeous, is a love-letter to the original titles and maintains the same punishing game play that fans have come to expect. So go on and test your mettle, for the gauntlet has been thrown!</desc>
+		<image>./mixart/Ghosts 'n Goblins Resurrection.jpg</image>
+		<video>./snap/Ghosts 'n Goblins Resurrection.mp4</video>
+		<marquee>./wheel/Ghosts 'n Goblins Resurrection.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20211201T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Mantis Burn Racing.lnk</path>
+		<name>Mantis Burn Racing</name>
+		<desc>The race is on in Mantis Burn Racing, where fast-paced bumper-to-bumper racing combines with intuitive, tactile gameplay and stunning visuals in one of the best-looking and most immersive top-down racers around. Drive incredible built-for-racing vehicles across highly detailed, visually stunning tracks, in high-risk, high-speed races where winning is everything. Prove your skills in an extensive career mode and take on friends with 4-player local split-screen racing and online modes for up to 8 players in ‘one-more-go’ style competitive racing. With a RPG-style upgrade system providing players with deep tactical choices and excellent replay-ability, this is racing at its rawest but most exciting!</desc>
+		<image>./mixart/Mantis Burn Racing.jpg</image>
+		<video>./snap/Mantis Burn Racing.mp4</video>
+		<marquee>./wheel/Mantis Burn Racing.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>201601T000000</releasedate>
+		<developer>VooFoo Studios</developer>
+		<publisher>VooFoo Studios</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Nine Parchments.lnk</path>
+		<name>Nine Parchments</name>
+		<desc>Nine Parchments is a co-operative blast 'em up game of magical mayhem from Frozenbyte, creators of the Trine series! Runaway apprentice wizards seize the opportunity to complete their spellbooks by going after the lost Nine Parchments. As the would-be wizards rapidly acquire powerful new spells without learning proper safety measures, it's natural their hasty progress results in plenty of deadly accidents... Nine Parchments combines real-time spell-shooting action with RPG elements - level up your character and collect magical loot, filling your wardrobe with a myriad of wizard hats and powerful staves. Features - Dozens of spells for you to discover and master - Unlock new playable characters with quests - Find fashionable Hats and powerful Staves - Level up and improve your characters with their Skill Trees - Resurrection and Friendly Fire: Help and hinder your friends - Battle strange creatures and mighty bosses in the beautiful Trine world - Online and local co-op with 1-4 players.</desc>
+		<image>./mixart/Nine Parchments.jpg</image>
+		<video>./snap/Nine Parchments.mp4</video>
+		<marquee>./wheel/Nine Parchments.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Frozenbyte</developer>
+		<publisher>Frozenbyte</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
 		<path>./Warhammer - Chaosbane.lnk</path>
 		<name>Warhammer - Chaosbane</name>
 		<desc>In a world ravaged by war and dominated by magic, you are the last hope for the Empire of Man against the Chaos hordes. Playing solo or with up to 4 in local or online co-op, choose a hero from 4 character classes with unique and complementary skills, and prepare for epic battles wielding some of the most powerful artefacts of the Old World. • THE FIRST HACK AND SLASH set in the Warhammer Fantasy world, told through an all-new story written by Mike Lee (a Black Library author) and featuring a soundtrack composed by Chance Thomas. • FEROCIOUS BATTLES: from the sewers of Nuln to the ruined streets of Praag, fight your way through monster hordes using over 180 different powers. Activate your bloodlust, a devastating skill, to escape the most perilous situations. • 4 CHARACTER CLASSES, each with unique skills and customisation: a soldier of the Empire who can take heavy damage, a Dwarf specialising in melee combat, a High Elf who deals ranged damage by manipulating magic or a Wood Elf who lays deadly traps and wields the bow like no other!</desc>
@@ -3963,18 +3978,19 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Ghosts 'n Goblins Resurrection.lnk</path>
-		<name>Ghosts 'n Goblins Resurrection</name>
-		<desc>Watch as this nostalgic yet completely re-imagined storybook world unravels before your very eyes. Taking cues from both Ghosts 'n Goblins and Ghouls 'n Ghosts and giving birth to something entirely new, Resurrection is a title worthy of its name. Don't be fooled—this picturesque storybook world, while gorgeous, is a love-letter to the original titles and maintains the same punishing game play that fans have come to expect. So go on and test your mettle, for the gauntlet has been thrown!</desc>
-		<image>./mixart/Ghosts 'n Goblins Resurrection.jpg</image>
-		<video>./snap/Ghosts 'n Goblins Resurrection.mp4</video>
-		<marquee>./wheel/Ghosts 'n Goblins Resurrection.png</marquee>
+		<path>./Anima - The Reign of Darkness.lnk</path>
+		<name>Anima - The Reign of Darkness</name>
+		<desc>Anima is an action RPG (hack’n slash) videogame inspired by the greatest old school games and made with passion by RPG lovers for RPG lovers.
+After the great success achieved on mobile devices, anima finally arrives on PC with brand new graphics and gameplay!
+Conquer the single player campaign with potentially infinite game difficulties, follow the storyline or simply go on, slash enemies, loot items and improve your character!</desc>
+		<image>./mixart/Anima - The Reign of Darkness.jpg</image>
+		<video>./snap/Anima - The Reign of Darkness.mp4</video>
+		<marquee>./wheel/Anima - The Reign of Darkness.png</marquee>
 		<rating>0.90</rating>
 		<releasedate>20211201T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
+		<developer>Redeev</developer>
+		<publisher>Redeev</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>1</players>
 	</game>
 </gameList>
