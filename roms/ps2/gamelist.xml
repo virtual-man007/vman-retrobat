@@ -2210,21 +2210,6 @@ Story written by comics authors Garth Ennis and Jimmy Palmiotti.</desc>
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./MotorStorm - Arctic Edge (USA).gz</path>
-		<name>MotorStorm : Arctic Edge</name>
-		<desc>Motorstorm: Arctic Edge is an arcade racer pitting you against 8 other racers, human or AI in a competition to win in The Festival. The backdrop for the game is Alaska where you have to race on icy tracks in mountainous regions. Beside the other racers you have to take into account avalanches, broken ice bridges and a lot of other dangers on the route to victory.    The game is very fast-paced and it sees you racing around in cars, snowmobiles and trucks. You can select different wheels, exhausts, spoilers and more for your vehicles.</desc>
-		<image>./mixart/MotorStorm - Arctic Edge (USA).png</image>
-		<video>./snap/MotorStorm - Arctic Edge (USA).mp4</video>
-		<marquee>./wheel/MotorStorm - Arctic Edge (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20091014T000000</releasedate>
-		<developer>Bigbig Studios</developer>
-		<publisher>Sony</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./God of War (USA).gz</path>
 		<name>God of War</name>
 		<desc>God of War is an action-oriented adventure game with a strong focus on fast-paced combat. Players take control of Kratos, a mystically powerful hero in the ancient Greece of classic mythology. Kratos can perform super-human leaps, agile dodges, and magically enhanced combo attacks, which all flow together in a stream of intense engagement. The fast-paced, over-the-top fighting, combined with the tense environments and computer-directed camera angles, give gameplay the feel of combat-adventures such as Devil May Cry or Otogi.   Unlike those earlier blends of survival-horror presentation and combat-minded control schemes, however, God of War is set in a world more immediately familiar to all fans of western fantasy. The ultimate goal of Kratos is a conclusive confrontation with Ares -- the god of war himself -- but the hero must face a deadly succession of monsters and villains from Greek mythology as he pursues this end. The Hydra, Medusa, the Cyclops, the Minotaur, and other legendary creatures will all have their chances to destroy Kratos before he meets his final destiny.</desc>
@@ -6473,5 +6458,20 @@ Combined Assault's campaign mode offers 18 missions. The game takes place solely
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./MotorStorm - Arctic Edge (USA).gz</path>
+		<name>MotorStorm : Arctic Edge</name>
+		<desc>Motorstorm: Arctic Edge is an arcade racer pitting you against 8 other racers, human or AI in a competition to win in The Festival. The backdrop for the game is Alaska where you have to race on icy tracks in mountainous regions. Beside the other racers you have to take into account avalanches, broken ice bridges and a lot of other dangers on the route to victory.    The game is very fast-paced and it sees you racing around in cars, snowmobiles and trucks. You can select different wheels, exhausts, spoilers and more for your vehicles.</desc>
+		<image>./mixart/MotorStorm - Arctic Edge (USA).png</image>
+		<video>./snap/MotorStorm - Arctic Edge (USA).mp4</video>
+		<marquee>./wheel/MotorStorm - Arctic Edge (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20091014T000000</releasedate>
+		<developer>Bigbig Studios</developer>
+		<publisher>Sony</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

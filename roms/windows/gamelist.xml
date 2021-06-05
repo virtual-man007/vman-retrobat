@@ -3368,21 +3368,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Renegade Ops Collection.lnk</path>
-		<name>Renegade Ops Collection</name>
-		<desc>Destruction just got awesome. In Renegade Ops you must defeat Inferno, a madman intent on global domination. Destroy enemies across a range of stunning environments using a wide variety of vehicles. Players have the choice to fight alone in single player mode, team up offline with two-player split screen or join the dynamic 4-player online co-op experience. Blast your way through enemy lines by working together, or compete for achievements as you and your friends aim to top the online leader boards.</desc>
-		<image>./mixart/Renegade Ops Collection.jpg</image>
-		<video>./snap/Renegade Ops Collection.mp4</video>
-		<marquee>./wheel/Renegade Ops Collection.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20111201T000000</releasedate>
-		<developer>Avalanche Studios</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Retrowave.lnk</path>
 		<name>Retrowave</name>
 		<desc>Neon lights, palm trees, synthwave, 80's supercars speeding down an endless highway... Welcome to the world of Retrowave!</desc>
@@ -3617,37 +3602,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./R-Type Dimensions.lnk</path>
-		<name>R-Type Dimensions EX</name>
-		<desc>The coin-op classics, R-Type &amp; R-Type II, are together on Steam! Fight through all 14 Bydo-infested stages in retro 2D graphics or shiny 3D graphics - and swap back and forth with the touch of a button 'on-the-fly'. The new 3D graphics are accompanied by fully re-imagined arrangements of the timeless R-Type music tracks! The classic game-play remains untouched while the new Infinite game mode allows continuous progression from game start to final boss... the Bydo will not evade you this time! Both game modes can be played as single player or local multiplayer. Pull yourself together, save the earth and strike down the Evil Bydo Empire!!</desc>
-		<image>./mixart/R-Type.jpg</image>
-		<video>./snap/R-Type.mp4</video>
-		<marquee>./wheel/R-Type.png</marquee>
-		<rating>0</rating>
-		<releasedate>20181128T010000</releasedate>
-		<developer>Tozai Games</developer>
-		<publisher>Tozai Games</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<md5>6b306021f667bf5fcb32145a2f45bbff</md5>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./R-Type Final 2.lnk</path>
-		<name>R-Type Final 2</name>
-		<desc>R-Type Final 2 is a horizontal-scrolling shooter video game developed and published by Granzella. Part of Irem's long-running R-Type series, it is a sequel to R-Type Final released in 2004, and the first R-Type game in over a decade, after the release of R-Type Tactics II: Operation Bitter Chocolate in 2009. The game was released for the Microsoft Windows, Nintendo Switch, PlayStation 4, Xbox One, and Xbox Series X/S on April 29, 2021. The western versions of the game are published by NIS America, and are set to release on April 30, 2021. R-Type Final 2 is the first game in the series to be released outside of Japan since R-Type Dimensions in 2009.</desc>
-		<image>./mixart/R-Type Final 2.jpg</image>
-		<video>./snap/R-Type Final 2.mp4</video>
-		<marquee>./wheel/R-Type Final 2.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20211201T000000</releasedate>
-		<developer>Granzella</developer>
-		<publisher>NIIS America Inc.</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Halo - Spartan Strike.lnk</path>
 		<name>Halo - Spartan Strike</name>
 		<desc>Halo: Spartan Strike makes you a Spartan supersoldier battling evil forces. Delve into 30 challenging missions through cities and jungles using a devastating arsenal of weapons, abilities and vehicles including the iconic Warthog against the Covenant and Promethean enemies. Be the Spartan and deny your foes the conquest of Earth.</desc>
@@ -3812,22 +3766,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Cuphead.lnk</path>
-		<name>Cuphead</name>
-		<desc>Cuphead is a run and gun platform indie video game developed and published by StudioMDHR Entertainment. As the titular character Cuphead, the player fights a series of bosses in order to repay a debt to the devil.</desc>
-		<image>./mixart/Cuphead.png</image>
-		<video>./snap/Cuphead.mp4</video>
-		<marquee>./wheel/Cuphead.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20171201T000000</releasedate>
-		<developer>StudioMDHR Entertainment</developer>
-		<publisher>StudioMDHR Entertainment</publisher>
-		<genre>Adventure, Platform</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Grim Dawn.lnk</path>
 		<name>Grim Dawn</name>
 		<desc>Delve deep into the oil rig city of Ravensdale. A medieval metropolis that went bonkers after the people discovered goop - a raw fluid that provided energy, skin cream, bread spread and powered diesel engines. And it turned the people of Ravensdale into raging, bloodthirsty monsters. Lucky for them they have you, leading a pack of lunatic knights on a killing spree to save the city. Rogue Stormers combines classic run 'n' gun gameplay with a modern art style, and twin stick shooter configuration. Your goal is to fight and beat the ultimate evil threatening Ravensdale...But in order to beat him, you need to fight your way through 7 increasingly challenging levels. If you die, you'll be back at square one. Earned perks are yours to keep, allowing your character to grow stronger with each new raid.</desc>
@@ -3840,36 +3778,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<publisher>Crate Entertainment</publisher>
 		<genre>Action, Role-Playing</genre>
 		<players>4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Minecraft Dungeons.lnk</path>
-		<name>Minecraft Dungeons</name>
-		<desc>Minecraft Dungeons is a dungeon crawler video game developed by Mojang Studios and Double Eleven and published by Xbox Game Studios. It is based on Minecraft and was released for Nintendo Switch, PlayStation 4, Windows, and Xbox One on May 26, 2020. The game received lukewarm reviews; many deemed the game fun and charming, with general praise directed at its visuals and music. However, its simple gameplay and use of procedural generation received more mixed reception, with its short story and lack of depth also being met with criticism.</desc>
-		<image>./mixart/Minecraft Dungeons.jpg</image>
-		<video>./snap/Minecraft Dungeons.mp4</video>
-		<marquee>./wheel/Minecraft Dungeons.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20201201T000000</releasedate>
-		<developer>Double Eleven, Mojang</developer>
-		<publisher>Microsoft Studios</publisher>
-		<genre>Action, Adventure</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Riptide GP Renegade.lnk</path>
-		<name>Riptide GP Renegade</name>
-		<desc>Experience the future of illicit hydrojet racing, where armored riders kick out death-defying stunts over massive waterfalls, dodge cops through public waterways, and boost at breakneck speeds across surging waves. You are a hydrojet rider, framed and cast out from the Riptide GP league, forced to race illegally through city waterways, flooded ruins, and churning factory machinery in an effort to reclaim your reputation and your title. Play through the single player career to unlock new vehicles, playable characters, and customization features as you take down bosses and build your crew. Then, take your skills online for the ultimate test as you battle opponents around the world in 8-player online matches.</desc>
-		<image>./mixart/Riptide GP Renegade.jpg</image>
-		<video>./snap/Riptide GP Renegade.mp4</video>
-		<marquee>./wheel/Riptide GP Renegade.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20161201T000000</releasedate>
-		<developer>Vector Unit</developer>
-		<publisher>Vector Unit</publisher>
-		<genre>Racing</genre>
-		<players>8</players>
 		<favorite>true</favorite>
 	</game>
 	<game>
@@ -3918,21 +3826,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Ghosts 'n Goblins Resurrection.lnk</path>
-		<name>Ghosts 'n Goblins Resurrection</name>
-		<desc>Watch as this nostalgic yet completely re-imagined storybook world unravels before your very eyes. Taking cues from both Ghosts 'n Goblins and Ghouls 'n Ghosts and giving birth to something entirely new, Resurrection is a title worthy of its name. Don't be fooled—this picturesque storybook world, while gorgeous, is a love-letter to the original titles and maintains the same punishing game play that fans have come to expect. So go on and test your mettle, for the gauntlet has been thrown!</desc>
-		<image>./mixart/Ghosts 'n Goblins Resurrection.jpg</image>
-		<video>./snap/Ghosts 'n Goblins Resurrection.mp4</video>
-		<marquee>./wheel/Ghosts 'n Goblins Resurrection.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20211201T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Mantis Burn Racing.lnk</path>
 		<name>Mantis Burn Racing</name>
 		<desc>The race is on in Mantis Burn Racing, where fast-paced bumper-to-bumper racing combines with intuitive, tactile gameplay and stunning visuals in one of the best-looking and most immersive top-down racers around. Drive incredible built-for-racing vehicles across highly detailed, visually stunning tracks, in high-risk, high-speed races where winning is everything. Prove your skills in an extensive career mode and take on friends with 4-player local split-screen racing and online modes for up to 8 players in ‘one-more-go’ style competitive racing. With a RPG-style upgrade system providing players with deep tactical choices and excellent replay-ability, this is racing at its rawest but most exciting!</desc>
@@ -3945,21 +3838,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<publisher>VooFoo Studios</publisher>
 		<genre>Racing</genre>
 		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Nine Parchments.lnk</path>
-		<name>Nine Parchments</name>
-		<desc>Nine Parchments is a co-operative blast 'em up game of magical mayhem from Frozenbyte, creators of the Trine series! Runaway apprentice wizards seize the opportunity to complete their spellbooks by going after the lost Nine Parchments. As the would-be wizards rapidly acquire powerful new spells without learning proper safety measures, it's natural their hasty progress results in plenty of deadly accidents... Nine Parchments combines real-time spell-shooting action with RPG elements - level up your character and collect magical loot, filling your wardrobe with a myriad of wizard hats and powerful staves. Features - Dozens of spells for you to discover and master - Unlock new playable characters with quests - Find fashionable Hats and powerful Staves - Level up and improve your characters with their Skill Trees - Resurrection and Friendly Fire: Help and hinder your friends - Battle strange creatures and mighty bosses in the beautiful Trine world - Online and local co-op with 1-4 players.</desc>
-		<image>./mixart/Nine Parchments.jpg</image>
-		<video>./snap/Nine Parchments.mp4</video>
-		<marquee>./wheel/Nine Parchments.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20171201T000000</releasedate>
-		<developer>Frozenbyte</developer>
-		<publisher>Frozenbyte</publisher>
-		<genre>Action, Role-Playing</genre>
-		<players>4</players>
 		<favorite>true</favorite>
 	</game>
 	<game>
@@ -3992,5 +3870,141 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<publisher>Redeev</publisher>
 		<genre>Action, Role-Playing</genre>
 		<players>1</players>
+	</game>
+	<game>
+		<path>./Cuphead.lnk</path>
+		<name>Cuphead</name>
+		<desc>Cuphead is a run and gun platform indie video game developed and published by StudioMDHR Entertainment. As the titular character Cuphead, the player fights a series of bosses in order to repay a debt to the devil.</desc>
+		<image>./mixart/Cuphead.png</image>
+		<video>./snap/Cuphead.mp4</video>
+		<marquee>./wheel/Cuphead.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>StudioMDHR Entertainment</developer>
+		<publisher>StudioMDHR Entertainment</publisher>
+		<genre>Adventure, Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Ghosts 'n Goblins Resurrection.lnk</path>
+		<name>Ghosts 'n Goblins Resurrection</name>
+		<desc>Watch as this nostalgic yet completely re-imagined storybook world unravels before your very eyes. Taking cues from both Ghosts 'n Goblins and Ghouls 'n Ghosts and giving birth to something entirely new, Resurrection is a title worthy of its name. Don't be fooled—this picturesque storybook world, while gorgeous, is a love-letter to the original titles and maintains the same punishing game play that fans have come to expect. So go on and test your mettle, for the gauntlet has been thrown!</desc>
+		<image>./mixart/Ghosts 'n Goblins Resurrection.jpg</image>
+		<video>./snap/Ghosts 'n Goblins Resurrection.mp4</video>
+		<marquee>./wheel/Ghosts 'n Goblins Resurrection.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20211201T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Minecraft Dungeons.lnk</path>
+		<name>Minecraft Dungeons</name>
+		<desc>Minecraft Dungeons is a dungeon crawler video game developed by Mojang Studios and Double Eleven and published by Xbox Game Studios. It is based on Minecraft and was released for Nintendo Switch, PlayStation 4, Windows, and Xbox One on May 26, 2020. The game received lukewarm reviews; many deemed the game fun and charming, with general praise directed at its visuals and music. However, its simple gameplay and use of procedural generation received more mixed reception, with its short story and lack of depth also being met with criticism.</desc>
+		<image>./mixart/Minecraft Dungeons.jpg</image>
+		<video>./snap/Minecraft Dungeons.mp4</video>
+		<marquee>./wheel/Minecraft Dungeons.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20201201T000000</releasedate>
+		<developer>Double Eleven, Mojang</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Action, Adventure</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Nine Parchments.lnk</path>
+		<name>Nine Parchments</name>
+		<desc>Nine Parchments is a co-operative blast 'em up game of magical mayhem from Frozenbyte, creators of the Trine series! Runaway apprentice wizards seize the opportunity to complete their spellbooks by going after the lost Nine Parchments. As the would-be wizards rapidly acquire powerful new spells without learning proper safety measures, it's natural their hasty progress results in plenty of deadly accidents... Nine Parchments combines real-time spell-shooting action with RPG elements - level up your character and collect magical loot, filling your wardrobe with a myriad of wizard hats and powerful staves. Features - Dozens of spells for you to discover and master - Unlock new playable characters with quests - Find fashionable Hats and powerful Staves - Level up and improve your characters with their Skill Trees - Resurrection and Friendly Fire: Help and hinder your friends - Battle strange creatures and mighty bosses in the beautiful Trine world - Online and local co-op with 1-4 players.</desc>
+		<image>./mixart/Nine Parchments.jpg</image>
+		<video>./snap/Nine Parchments.mp4</video>
+		<marquee>./wheel/Nine Parchments.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Frozenbyte</developer>
+		<publisher>Frozenbyte</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./R-Type Dimensions.lnk</path>
+		<name>R-Type Dimensions EX</name>
+		<desc>The coin-op classics, R-Type &amp; R-Type II, are together on Steam! Fight through all 14 Bydo-infested stages in retro 2D graphics or shiny 3D graphics - and swap back and forth with the touch of a button 'on-the-fly'. The new 3D graphics are accompanied by fully re-imagined arrangements of the timeless R-Type music tracks! The classic game-play remains untouched while the new Infinite game mode allows continuous progression from game start to final boss... the Bydo will not evade you this time! Both game modes can be played as single player or local multiplayer. Pull yourself together, save the earth and strike down the Evil Bydo Empire!!</desc>
+		<image>./mixart/R-Type.jpg</image>
+		<video>./snap/R-Type.mp4</video>
+		<marquee>./wheel/R-Type.png</marquee>
+		<rating>0</rating>
+		<releasedate>20181128T010000</releasedate>
+		<developer>Tozai Games</developer>
+		<publisher>Tozai Games</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>6b306021f667bf5fcb32145a2f45bbff</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./R-Type Final 2.lnk</path>
+		<name>R-Type Final 2</name>
+		<desc>R-Type Final 2 is a horizontal-scrolling shooter video game developed and published by Granzella. Part of Irem's long-running R-Type series, it is a sequel to R-Type Final released in 2004, and the first R-Type game in over a decade, after the release of R-Type Tactics II: Operation Bitter Chocolate in 2009. The game was released for the Microsoft Windows, Nintendo Switch, PlayStation 4, Xbox One, and Xbox Series X/S on April 29, 2021. The western versions of the game are published by NIS America, and are set to release on April 30, 2021. R-Type Final 2 is the first game in the series to be released outside of Japan since R-Type Dimensions in 2009.</desc>
+		<image>./mixart/R-Type Final 2.jpg</image>
+		<video>./snap/R-Type Final 2.mp4</video>
+		<marquee>./wheel/R-Type Final 2.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20211201T000000</releasedate>
+		<developer>Granzella</developer>
+		<publisher>NIIS America Inc.</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Renegade Ops Collection.lnk</path>
+		<name>Renegade Ops Collection</name>
+		<desc>Destruction just got awesome. In Renegade Ops you must defeat Inferno, a madman intent on global domination. Destroy enemies across a range of stunning environments using a wide variety of vehicles. Players have the choice to fight alone in single player mode, team up offline with two-player split screen or join the dynamic 4-player online co-op experience. Blast your way through enemy lines by working together, or compete for achievements as you and your friends aim to top the online leader boards.</desc>
+		<image>./mixart/Renegade Ops Collection.jpg</image>
+		<video>./snap/Renegade Ops Collection.mp4</video>
+		<marquee>./wheel/Renegade Ops Collection.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20111201T000000</releasedate>
+		<developer>Avalanche Studios</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Riptide GP Renegade.lnk</path>
+		<name>Riptide GP Renegade</name>
+		<desc>Experience the future of illicit hydrojet racing, where armored riders kick out death-defying stunts over massive waterfalls, dodge cops through public waterways, and boost at breakneck speeds across surging waves. You are a hydrojet rider, framed and cast out from the Riptide GP league, forced to race illegally through city waterways, flooded ruins, and churning factory machinery in an effort to reclaim your reputation and your title. Play through the single player career to unlock new vehicles, playable characters, and customization features as you take down bosses and build your crew. Then, take your skills online for the ultimate test as you battle opponents around the world in 8-player online matches.</desc>
+		<image>./mixart/Riptide GP Renegade.jpg</image>
+		<video>./snap/Riptide GP Renegade.mp4</video>
+		<marquee>./wheel/Riptide GP Renegade.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20161201T000000</releasedate>
+		<developer>Vector Unit</developer>
+		<publisher>Vector Unit</publisher>
+		<genre>Racing</genre>
+		<players>8</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Lara Croft and the Guardian of Light.lnk</path>
+		<name>Lara Croft and the Guardian of Light</name>
+		<desc>Lara Croft and the Guardian of Light is a fixed-camera 3D platform with an isometric viewpoint action video game developed by Crystal Dynamics and published by Square Enix for the PC, PlayStation Network, Xbox Live Arcade and the iOS as part of the Tomb Raider series for digital download. Unlike previous games in the series, the game does not carry the Tomb Raider brand and has a heavy emphasis on cooperative gameplay. In multiplayer, players take the role as either Lara Croft or a 2,000 year old Mayan warrior named Totec. They must work together in order to stop the evil spirit Xolotl and retrieve the Mirror of Smoke. A single-player campaign mode is available that does not include the non-playable character AI following or helping Lara.</desc>
+		<image>./mixart/Lara Croft and the Guardian of Light.jpg</image>
+		<video>./snap/Lara Croft and the Guardian of Light.mp4</video>
+		<marquee>./wheel/Lara Croft and the Guardian of Light.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20101201T000000</releasedate>
+		<developer>Crystal Dynamics</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

@@ -32,21 +32,6 @@
 		<hidden>true</hidden>
 		<md5>55514b38ac653752dabb762f323292d4</md5>
 	</game>
-	<game id="12119">
-		<path>./mlc01/usr/title/00050000/1010ec00/code/Turbo.rpx</path>
-		<name>Mario Kart 8</name>
-		<desc>Mario Kart 8 is the 8th installment of the Mario Kart series, for the Wii U console.nnnnThe gameplay includes thirty-two circuits (sixteen brand new ones and sixteen retro ones) on which the characters race riding a variety of vehicles like the returning motorcycles from Mario Kart Wii or the karts, which can be customized.</desc>
-		<image>./images/Turbo-image.png</image>
-		<video>./videos/Turbo-video.mp4</video>
-		<marquee>./images/Turbo-marquee.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20140530T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<players>4+</players>
-		<md5>1357c833acd98ec03218eb773296824a</md5>
-	</game>
 	<game id="241512">
 		<path>./mlc01/usr/title/00050000/101c9400/code/U-King.rpx</path>
 		<name>The Legend of Zelda: Breath of the Wild</name>
@@ -61,5 +46,20 @@
 		<genre>Adventure</genre>
 		<players>1</players>
 		<md5>f9f6f4f47bdcc98ba764c0e9960ae03f</md5>
+	</game>
+	<game id="12119">
+		<path>./mlc01/usr/title/00050000/1010ec00/code/Turbo.rpx</path>
+		<name>Mario Kart 8</name>
+		<desc>Mario Kart 8 is the 8th installment of the Mario Kart series, for the Wii U console.nnnnThe gameplay includes thirty-two circuits (sixteen brand new ones and sixteen retro ones) on which the characters race riding a variety of vehicles like the returning motorcycles from Mario Kart Wii or the karts, which can be customized.</desc>
+		<image>./images/Turbo-image.png</image>
+		<video>./videos/Turbo-video.mp4</video>
+		<marquee>./images/Turbo-marquee.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20140530T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>4+</players>
+		<md5>1357c833acd98ec03218eb773296824a</md5>
 	</game>
 </gameList>
