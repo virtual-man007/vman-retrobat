@@ -385,6 +385,7 @@ Slash through legions of enemies unleashing devastating blows worthy of Dynasty 
 		<desc>Bubble Bobble 4 Friends is the latest game in the legendary Bubble Bobble series from Taito. Play alone or with up to 3 friends in couch co-op mode and jump your bubble dragons through 100 levels to defy the wicked magician Bonner and his henchmen.</desc>
 		<image>./images/Bubble_Bobble_4_Friends-image.jpg</image>
 		<marquee>./images/Bubble_Bobble_4_Friends-marquee.png</marquee>
+		<video>./videos/Bubble_Bobble_4_Friends.mp4</video>
 		<releasedate>20191119T000000</releasedate>
 		<developer>Taito Corporation</developer>
 		<publisher>United Independent Entertainment GmbH</publisher>
@@ -398,6 +399,7 @@ Slash through legions of enemies unleashing devastating blows worthy of Dynasty 
 Slash through legions of enemies unleashing devastating blows worthy of Dynasty Warriors and dominate the battlefield as famous heroes from The Legend of Zelda series.</desc>
 		<image>./images/Hyrule_Warriors_Definitive_Edition-image.png</image>
 		<marquee>./images/Hyrule_Warriors_Definitive_Edition-marquee.png</marquee>
+		<video>./videos/Hyrule_Warriors_Definitive_Edition.mp4</video>
 		<releasedate>20180518T000000</releasedate>
 		<developer>Koei</developer>
 		<publisher>Nintendo</publisher>
@@ -411,6 +413,7 @@ Slash through legions of enemies unleashing devastating blows worthy of Dynasty 
 		<desc>When a new evil threatens Planet Popstar, Kirby will need a little help from his...enemies?! By making friends out of foes, up to three* players can drop in or out of the adventure at any time. With new and expanded copy abilities, classic Kirby action is deeper than ever: combine abilities with elements such as ice or fire to create new friend abilities!</desc>
 		<image>./images/Kirby_Star_Allies-image.png</image>
 		<marquee>./images/Kirby_Star_Allies-marquee.png</marquee>
+		<video>./videos/Kirby_Star_Allies.mp4</video>
 		<releasedate>20180316T000000</releasedate>
 		<developer>HAL Laboratory</developer>
 		<publisher>Nintendo</publisher>
@@ -440,6 +443,8 @@ Two games in one, for double the fun! Simple, straightforward controls, new play
 		<name>Rayman Legends - Definitive Edition</name>
 		<desc>Rayman, Globox, and the Teensies are off wandering through an enchanted forest when they discover a mysterious tent filled with a series of captivating paintings. As they look more closely, they notice each painting seems to tell the story of a mythical world. While focusing on a painting that shows a medieval land, they are suddenly sucked into the painting, entering the world, and the adventure begins. The gang must run, jump, and fight their way through each world to save the day and discover the secrets of every legendary painting.</desc>
 		<image>./images/Rayman_Legends_Definitive_Edition-image.png</image>
+		<marquee>./images/Rayman_Legends_Definitive_Edition-marquee.png</marquee>
+		<video>./videos/Rayman_Legends_Definitive_Edition.mp4</video>
 		<releasedate>20170912T000000</releasedate>
 		<developer>Ubisoft</developer>
 		<publisher>Ubisoft</publisher>
@@ -492,33 +497,6 @@ Team up with friends and combine your skills to battle your way through waves of
 		<publisher>Time Warner Interactive</publisher>
 		<genre>Race, Driving</genre>
 		<players>2</players>
-	</game>
-	<game id="198483">
-		<path>./The_Legend_of_Zelda_Links_Awakening.xci</path>
-		<name>Legend Of Zelda - Links Awakening, The</name>
-		<desc>As Link, you awaken in a strange land away from Hyrule, where animals talk and monsters roam. To uncover the truth behind your whereabouts and rouse the legendary Wind Fish, explore Koholint Island and all its trap-ridden dungeons, reimagined in stunning detail for this new release of one of the most beloved The Legend of Zelda games. Along the way, you'll meet a hilarious assortment of charming characters to which you'll never want to say goodbye.</desc>
-		<image>./images/The_Legend_of_Zelda_Links_Awakening-image.png</image>
-		<video>./videos/The_Legend_of_Zelda_Links_Awakening-video.mp4</video>
-		<marquee>./images/The_Legend_of_Zelda_Links_Awakening-marquee.png</marquee>
-		<releasedate>20190920T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action / Adventure</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game id="197817">
-		<path>./Diablo_III_Eternal_Collection.xci</path>
-		<name>Diablo 3 - Eternal Collection</name>
-		<desc>Ages ago, angels and demons birthed your world in a forbidden union. Now they've come to claim it. Stand tall among Sanctuary's meek and wicked to battle walking corpses, horrifying cultists, fallen seraphs, and the Lords of Hell. When the High Heavens and the Burning Hells war, humanity must be its own salvation.</desc>
-		<image>./images/Diablo_III_Eternal_Collection-image.png</image>
-		<marquee>./images/Diablo_III_Eternal_Collection-marquee.png</marquee>
-		<releasedate>20181102T000000</releasedate>
-		<developer>Blizzard Entertainment</developer>
-		<publisher>Blizzard Entertainment</publisher>
-		<genre>Adventure</genre>
-		<players>4</players>
-		<lang>en</lang>
 	</game>
 	<game>
 		<path>./content/updates/Diablo_III_Eternal_Collection_Update_v2.6.10.72837.nsp</path>
@@ -581,11 +559,27 @@ Race online with friends and Crash the competition with online leaderboards
 With Crash™ Team Racing Nitro-Fueled, the stakes are high and the competition is fierce. It's the CTR you love, now kicked into the highest gear.</desc>
 		<image>./images/Crash_Team_Racing_Nitro_Fueled-image.jpg</image>
 		<marquee>./images/Crash_Team_Racing_Nitro_Fueled-marquee.png</marquee>
+		<video>./videos/Crash_Team_Racing_Nitro_Fueled.mp4</video>
 		<releasedate>20190621T000000</releasedate>
 		<developer>Beenox Studios</developer>
 		<publisher>Activision</publisher>
 		<genre>Racing</genre>
 		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game id="197817">
+		<path>./Diablo_III_Eternal_Collection.xci</path>
+		<name>Diablo 3 - Eternal Collection</name>
+		<desc>Ages ago, angels and demons birthed your world in a forbidden union. Now they've come to claim it. Stand tall among Sanctuary's meek and wicked to battle walking corpses, horrifying cultists, fallen seraphs, and the Lords of Hell. When the High Heavens and the Burning Hells war, humanity must be its own salvation.</desc>
+		<image>./images/Diablo_III_Eternal_Collection-image.png</image>
+		<video>./videos/Diablo_III_Eternal_Collection.mp4</video>
+		<marquee>./images/Diablo_III_Eternal_Collection-marquee.png</marquee>
+		<releasedate>20181102T000000</releasedate>
+		<developer>Blizzard Entertainment</developer>
+		<publisher>Blizzard Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>4</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -609,13 +603,30 @@ In Bowser’s Fury, Mario arrives on Lake Lapcat and is confronted with a rampag
 
 Need some extra assistance bringing Bowser out of his frenzied, furious state? Another player can take control of Bowser Jr. and help out by attacking enemies and storing power-ups. Two sets of claws are better than one!</desc>
 		<image>./images/Super_Mario_3D_World_plus_Bowsers_Fury-image.jpg</image>
+		<video>./videos/Super_Mario_3D_World_plus_Bowsers_Fury.mp4</video>
 		<marquee>./images/Super_Mario_3D_World_plus_Bowsers_Fury-marquee.png</marquee>
 		<releasedate>20210212T000000</releasedate>
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Action, Platform, Family</genre>
 		<players>4</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>wr</region>
+	</game>
+	<game id="198483">
+		<path>./The_Legend_of_Zelda_Links_Awakening.xci</path>
+		<name>Legend Of Zelda - Links Awakening, The</name>
+		<desc>As Link, you awaken in a strange land away from Hyrule, where animals talk and monsters roam. To uncover the truth behind your whereabouts and rouse the legendary Wind Fish, explore Koholint Island and all its trap-ridden dungeons, reimagined in stunning detail for this new release of one of the most beloved The Legend of Zelda games. Along the way, you'll meet a hilarious assortment of charming characters to which you'll never want to say goodbye.</desc>
+		<image>./images/The_Legend_of_Zelda_Links_Awakening-image.png</image>
+		<video>./videos/The_Legend_of_Zelda_Links_Awakening-video.mp4</video>
+		<marquee>./images/The_Legend_of_Zelda_Links_Awakening-marquee.png</marquee>
+		<releasedate>20190920T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>
