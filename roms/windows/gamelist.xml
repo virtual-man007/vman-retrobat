@@ -4007,4 +4007,34 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<players>2</players>
 		<favorite>true</favorite>
 	</game>
+	<game>
+		<path>./Assault Android Cactus Plus.lnk</path>
+		<name>Assault Android Cactus Plus</name>
+		<desc>Assault Android Cactus is a twin stick shoot 'em up with an emphasis on high pressure and stylish action. Expect screens full of enemies, buckets of bullets and high scoring combo chains! Take on the role of Cactus, an enthusiastic police android, who responds to a stranded space freighter only to discover it under siege by its malfunctioning robot workers. Cut off from the outside and in over her head, Cactus and the androids she recruits along the way battle through the crippled Genki Star to reach the brain of the ship and put things right before it's too late. Key Features Multiple Playable Characters - Each android has a unique weapon set and play style, experiment to find which android suits you best.</desc>
+		<image>./mixart/Assault Android Cactus Plus.jpg</image>
+		<video>./snap/Assault Android Cactus Plus.mp4</video>
+		<marquee>./wheel/Assault Android Cactus Plus.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20151201T000000</releasedate>
+		<developer>Witch Beam</developer>
+		<publisher>Witch Beam</publisher>
+		<genre>Shooter</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./River City Girls.lnk</path>
+		<name>River City Girls</name>
+		<desc>Kick butt, take names, and pound punks in this all-new installment of the classic co-op beat-’em-up series! River City Girls stars Kyoko and Misako, two street-tough high-schoolers who must fight their way through the six regions of River City to rescue their kidnapped boyfriends, series mainstays Kunio and Riki. Along the way, they’ll utilize an arsenal of combos, counters, throws, and special attacks; battle an assortment of enemies; accept numerous side quests; level up with experience points; interact with NPCs (including guest stars from past River City games); and shop for a variety of items, food, and gear to boost stats and unlock new abilities. The girls can even wield weapons and recruit defeated foes to join them in combat! The one- or local two-player bare-knuckle brawling is complemented by spectacular 16-bit-style graphics and an epic synth-pop soundtrack.</desc>
+		<image>./mixart/River City Girls.png</image>
+		<video>./snap/River City Girls.mp4</video>
+		<marquee>./wheel/River City Girls.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>WayForward Tech</developer>
+		<publisher>Arc System Works</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
 </gameList>

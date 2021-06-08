@@ -583,22 +583,6 @@ Given its rule-bending recipe, Soccer Slam is an exciting and original game, in 
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./The Guy Game.cmd</path>
-		<name>The Guy Game</name>
-		<desc>The Guy Game is an adult video game for the PlayStation 2, Xbox and PC platforms published in 2004 by Gathering of Developers and developed by now-defunct Top Heavy Studios (it was the team's only game). Presented in a trivia gameshow style supporting up to four players, it consists of about 1,000 questions spread out over 20 episodes. Much of the game involves watching live-action video footage of young women in bikinis, and as the player succeeds in the game the women eventually expose their breasts. The game garnered much controversy and was the subject of a lawsuit.</desc>
-		<image>./mixart/The Guy Game.png</image>
-		<marquee>./wheel/The Guy Game.png</marquee>
-		<video>./snap/The Guy Game.mp4</video>
-		<rating>1</rating>
-		<releasedate>20040830T000000</releasedate>
-		<developer>Topheavy</developer>
-		<publisher>Gathering of Developers</publisher>
-		<genre>Puzzle</genre>
-		<players>1</players>
-		<md5>77f79c168f2d859aef09936ff708a15a</md5>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./The House Of The Dead 3.cmd</path>
 		<name>The House of the Dead III</name>
 		<desc>The House of the Dead III is a 2002 light gun arcade game with a horror zombie-survival theme, and the third installment to the House of the Dead series of video games, developed by Wow Entertainment and Sega. It was later ported to the Xbox in 2003, Microsoft Windows in 2005, the Wii in 2008 in a compilation with The House of the Dead 2, and PlayStation 3 in 2012 with PlayStation Move support. The game continues the story of the previous games and introduces new gameplay concepts such as story branching. The game's protagonist is Lisa Rogan, daughter of Thomas Rogan, the first game's main character, and players control Lisa, G, or Daniel Curien.</desc>
@@ -793,24 +777,6 @@ Library of artistic trick shots: or set up your own to become a true shark</desc
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Bruce Lee - Quest of the Dragon.cmd</path>
-		<name>Bruce Lee: Quest of the Dragon</name>
-		<desc>Bruce Lee: Quest of the Dragon is a beat 'em up video game featuring martial artist Bruce Lee. It was developed by Ronin Entertainment and published by Universal Interactive, and was released in Europe and the United States for the Xbox in 2002 to a negative critical reception.
-You are Bruce Lee, legendary martial arts master. Your father has been kidnapped, your monastery desecrated, and the mystical Golden Relic - keeper of the ancient martial arts secrets - has been stolen. Investigate the mysterious Black Lotus crime organization and the beautiful and deadly Dragon Lady. Use your mastery of Jeet Kune Do to punch, kick, block and combo as you fight hordes of thugs and crime bosses. In this compelling blend of epic adventure and intense fighting action you finally get the chance to be Bruce Lee.</desc>
-		<image>./mixart/Bruce Lee - Quest of the Dragon.png</image>
-		<video>./snap/Bruce Lee - Quest of the Dragon.mp4</video>
-		<marquee>./wheel/Bruce Lee - Quest of the Dragon.png</marquee>
-		<rating>0.55</rating>
-		<releasedate>20020701T000000</releasedate>
-		<developer>Ronin Entertainment</developer>
-		<publisher>Universal Interactive Inc.</publisher>
-		<genre>Fighting</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>77f79c168f2d859aef09936ff708a15a</md5>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Conker Live and Reloaded.cmd</path>
 		<name>Conker: Live &amp; Reloaded</name>
 		<desc>Conker, gaming’s notoriously naughty squirrel, arrives on the Xbox with a bang in an all-new Xbox Live-enabled team-based shooter, Conker: Live and Reloaded.
@@ -880,6 +846,54 @@ A sequel was later released for the Xbox 360, entitled Fuzion Frenzy 2.</desc>
 		<genre>Shooter</genre>
 		<players>4</players>
 		<favorite>true</favorite>
+		<md5>77f79c168f2d859aef09936ff708a15a</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Bruce Lee - Quest of the Dragon.cmd</path>
+		<name>Bruce Lee: Quest of the Dragon</name>
+		<desc>Bruce Lee: Quest of the Dragon is a beat 'em up video game featuring martial artist Bruce Lee. It was developed by Ronin Entertainment and published by Universal Interactive, and was released in Europe and the United States for the Xbox in 2002 to a negative critical reception.
+You are Bruce Lee, legendary martial arts master. Your father has been kidnapped, your monastery desecrated, and the mystical Golden Relic - keeper of the ancient martial arts secrets - has been stolen. Investigate the mysterious Black Lotus crime organization and the beautiful and deadly Dragon Lady. Use your mastery of Jeet Kune Do to punch, kick, block and combo as you fight hordes of thugs and crime bosses. In this compelling blend of epic adventure and intense fighting action you finally get the chance to be Bruce Lee.</desc>
+		<image>./mixart/Bruce Lee - Quest of the Dragon.png</image>
+		<video>./snap/Bruce Lee - Quest of the Dragon.mp4</video>
+		<marquee>./wheel/Bruce Lee - Quest of the Dragon.png</marquee>
+		<rating>0.55</rating>
+		<releasedate>20020701T000000</releasedate>
+		<developer>Ronin Entertainment</developer>
+		<publisher>Universal Interactive Inc.</publisher>
+		<genre>Fighting</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./The Bible Game.cmd</path>
+		<name>The Bible Game</name>
+		<desc>A trivia game to test gamers' biblical knowledge, The Bible Game casts players as contestants on a game show with fast-paced, "beat the buzzer" action and a comical off-screen announcer as emcee. 20 mini- and micro-games with 1,500 questions reinforce inspirational Old Testament teachings such as Jonah and the Whale, David and Goliath, The Tower of Babel, and many more. Multiplayer mode for up to 4 players encourages family members of all ages to play together, and provides a fun alternative for family game nights.</desc>
+		<image>./mixart/The Bible Game.jpg</image>
+		<video>./snap/The Bible Game.mp4</video>
+		<marquee>./wheel/The Bible Game.png</marquee>
+		<rating>0.55</rating>
+		<releasedate>20051018T000000</releasedate>
+		<developer>Mass Media, Inc.</developer>
+		<publisher>Crave Entertainment</publisher>
+		<genre>Strategy</genre>
+		<players>4</players>
+		<md5>77f79c168f2d859aef09936ff708a15a</md5>
+	</game>
+	<game>
+		<path>./The Guy Game.cmd</path>
+		<name>The Guy Game</name>
+		<desc>The Guy Game is an adult video game for the PlayStation 2, Xbox and PC platforms published in 2004 by Gathering of Developers and developed by now-defunct Top Heavy Studios (it was the team's only game). Presented in a trivia gameshow style supporting up to four players, it consists of about 1,000 questions spread out over 20 episodes. Much of the game involves watching live-action video footage of young women in bikinis, and as the player succeeds in the game the women eventually expose their breasts. The game garnered much controversy and was the subject of a lawsuit.</desc>
+		<image>./mixart/The Guy Game.png</image>
+		<video>./snap/The Guy Game.mp4</video>
+		<marquee>./wheel/The Guy Game.png</marquee>
+		<rating>1</rating>
+		<releasedate>20040830T000000</releasedate>
+		<developer>Topheavy</developer>
+		<publisher>Gathering of Developers</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<hidden>true</hidden>
 		<md5>77f79c168f2d859aef09936ff708a15a</md5>
 		<lang>en</lang>
 	</game>

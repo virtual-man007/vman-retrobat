@@ -320,22 +320,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./fotns.zip</path>
-		<name>Fist Of The North Star</name>
-		<desc>This was an arcade game released in 2000 by Konami (also known as Punch Mania: Hokuto no Ken)</desc>
-		<image>./mixart/fotns.png</image>
-		<video>./snap/fotns.mp4</video>
-		<marquee>./wheel/fotns.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20050101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Fight-Fight / Versus</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./mslug6.zip</path>
 		<name>Metal Slug 6</name>
 		<desc>Metal Slug 6 returns to the Rebel-Martian alliance featured in Metal Slugs 2, X, and 3, but on a much broader scale. Rather than repeating the previous games' events of the Martians breaking the alliance and the Rebels assisting the player in turn, the player now teams up with the Rebels and Martians to combat an even greater threat.    Metal Slug 6 introduces a new play mechanic dubbed the 'Weapon Stock System'. Two gun power-ups can now be carried at the same time. Players can switch between the two weapons, or simply put them both away in favor of the default weapon. When obtaining a new weapon power-up, it will automatically occupy the inactive slot, or, if both are holstered, replace the less recent weapon of the two.  The score is now multiplied by powers of 2. The faster the speed at which enemies are killed, the higher the power, as a meter at the bottom of the screen shows. When it says "Max" enemies and destructible objects will drop coins for an extra high score.</desc>
@@ -403,6 +387,22 @@
 		<developer>Sammy Studios</developer>
 		<publisher>Sammy Studios</publisher>
 		<genre>Beat'em Up-Fight-Fight / Versus</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./fotns.zip</path>
+		<name>Fist Of The North Star</name>
+		<desc>This was an arcade game released in 2000 by Konami (also known as Punch Mania: Hokuto no Ken)</desc>
+		<image>./mixart/fotns.png</image>
+		<video>./snap/fotns.mp4</video>
+		<marquee>./wheel/fotns.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight-Fight / Versus</genre>
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>

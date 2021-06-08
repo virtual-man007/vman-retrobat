@@ -2015,24 +2015,6 @@ Now, choose between 12 warriors (and 3 bonus characters) to fight for the honor 
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./shocktr2.zip</path>
-		<name>Shock Troopers - 2nd Squad</name>
-		<desc>As one of four playable characters each with unique methods of attack and power-ups, go through the level and destroy any enemies that get in your way, and defeat the boss at the end of that area. When you have completed the first area, you need to select a path to continue the game on.
-
-The second game in the Shock Troopers series enables shot locking, close proximity attacks, and evasive maneuvers allowing for flexible operation. In addition to the four characters, versatile modes of attack are featured using powerful vehicles and special shots. Letters that make up certain keywords can be collected throughout the game, and by collecting each letter in the keyword, you will receive a high score.
-</desc>
-		<image>./mixart/shocktr2.png</image>
-		<video>./snap/shocktr2.mp4</video>
-		<marquee>./wheel/shocktr2.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Saurus</developer>
-		<publisher>SNK</publisher>
-		<genre>Shoot'em Up-Shooter-Action-Beat'em Up-Shooter / Run and Shoot-Shooter / Run and Gun</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./2020bb.zip</path>
 		<name>2020 Super Baseball</name>
 		<desc>In the year 2020, baseball finally evolved. There is no longer conventional professional baseball in 2020. Baseball designed by the Super Baseball Association has been very popular and is the best sport.
@@ -2111,5 +2093,22 @@ The PlayStation port introduces some extra features: there is a combat school wh
 		<publisher>SNK</publisher>
 		<genre>Shooter-Plateform / Shooter Scrolling-Platform-Shooter / Run and Gun</genre>
 		<players>2</players>
+	</game>
+	<game>
+		<path>./shocktr2.zip</path>
+		<name>Shock Troopers - 2nd Squad</name>
+		<desc>As one of four playable characters each with unique methods of attack and power-ups, go through the level and destroy any enemies that get in your way, and defeat the boss at the end of that area. When you have completed the first area, you need to select a path to continue the game on.
+
+The second game in the Shock Troopers series enables shot locking, close proximity attacks, and evasive maneuvers allowing for flexible operation. In addition to the four characters, versatile modes of attack are featured using powerful vehicles and special shots. Letters that make up certain keywords can be collected throughout the game, and by collecting each letter in the keyword, you will receive a high score.</desc>
+		<image>./mixart/shocktr2.png</image>
+		<video>./snap/shocktr2.mp4</video>
+		<marquee>./wheel/shocktr2.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Saurus</developer>
+		<publisher>SNK</publisher>
+		<genre>Shoot'em Up-Shooter-Action-Beat'em Up-Shooter / Run and Shoot-Shooter / Run and Gun</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

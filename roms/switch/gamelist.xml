@@ -1,65 +1,5 @@
 <?xml version="1.0"?>
 <gameList>
-	<game id="198483">
-		<path>./The_Legend_of_Zelda_Links_Awakening.xci</path>
-		<name>Legend Of Zelda - Links Awakening, The</name>
-		<desc>As Link, you awaken in a strange land away from Hyrule, where animals talk and monsters roam. To uncover the truth behind your whereabouts and rouse the legendary Wind Fish, explore Koholint Island and all its trap-ridden dungeons, reimagined in stunning detail for this new release of one of the most beloved The Legend of Zelda games. Along the way, you'll meet a hilarious assortment of charming characters to which you'll never want to say goodbye.</desc>
-		<image>./images/The_Legend_of_Zelda_Links_Awakening-image.png</image>
-		<video>./videos/The_Legend_of_Zelda_Links_Awakening-video.mp4</video>
-		<marquee>./images/The_Legend_of_Zelda_Links_Awakening-marquee.png</marquee>
-		<releasedate>20190920T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action / Adventure</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Scott_Pilgrim_vs_The_World_The_Game.nsp</path>
-		<name>Scott Pilgrim vs. The World: The Game - Classic Edition (Limited Run #94)</name>
-		<desc>The Scott Pilgrim Vs. The World: The Game Classic Edition includes: 
-
-• Scott Pilgrim Vs. The World: The Game Complete Edition physical game for the Nintendo Switch
-
-• Full-color instruction booklet
-
-• Reversible cover sheet
-
-• Deluxe plastic clamshell case with reversible coversheet
-
-• Sticker sheet featuring art from the game
-
-• Physical soundtrack CD featuring music by Anamanaguchi.
-
-• The Clash at Demonhead commemorative concert ticket
-
-• Overworld map
-
-
-
-Rediscover the beloved 2D arcade-style beat'em up inspired by the iconic comic book series and movie Scott Pilgrim vs. The World in this Complete Edition!
-
-
-
-This Complete Edition includes the original Scott Pilgrim vs. The World: The Game, as well as it's original DLCs - the Knives Chau and Wallace Wells Add-On Packs.
-
-
-
-Play as your favorite characters - Scott Pilgrim, Ramona Flowers, Knives Chau, Stephen Stills, and more. Level-up and learn new awesome abilities, unlock secret items and modes, summon powerful allies, and more!
-
-
-
-Team up with friends and combine your skills to battle your way through waves of tough enemies, or compete with them in awesome mini-games like Dodgeball; all on your way to defeat the League of Ramona's Evil Exes!</desc>
-		<image>./images/Scott_Pilgrim_vs_The_World_The_Game-image.jpg</image>
-		<video>./videos/Scott_Pilgrim_vs_The_World_The_Game-video.mp4</video>
-		<marquee>./images/Scott_Pilgrim_vs_The_World_The_Game-marquee.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20210115T000000</releasedate>
-		<developer>Ubisoft Montreal</developer>
-		<publisher>Limited Run Games, Ubisoft</publisher>
-		<genre>Action, Adventure, Fighting</genre>
-		<players>4</players>
-	</game>
 	<game id="195745">
 		<path>./The_Legend_of_Zelda_Breath_of_the_Wild.xci</path>
 		<name>The Legend of Zelda: Breath of the Wild</name>
@@ -74,12 +14,504 @@ Team up with friends and combine your skills to battle your way through waves of
 		<players>1</players>
 		<lang>en</lang>
 	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000007/61c5e2bbf9ab8c546ba590f9637a0ca8.nca</path>
+		<name>61c5e2bbf9ab8c546ba590f9637a0ca8</name>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000018/942d67edcb9c39f05d6be064a928aa34.nca</path>
+		<name>942d67edcb9c39f05d6be064a928aa34</name>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000090/b201291d3e099872debd1c1870572cc3.nca</path>
+		<name>b201291d3e099872debd1c1870572cc3</name>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000001/ef0070f28bf75663939e467ca422d6b6.nca</path>
+		<name>ef0070f28bf75663939e467ca422d6b6</name>
+		<md5>c00d7a6cb1bc92b0a8b79af4203996c2</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000003/2e689d1bdcf80fd341d33eb30601b854.nca</path>
+		<name>2e689d1bdcf80fd341d33eb30601b854</name>
+		<md5>1e86edb69cb735d2340cd0c394bfc148</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000003/bc2dbc3ea38ae10374511406eb03c6a0.nca</path>
+		<name>bc2dbc3ea38ae10374511406eb03c6a0</name>
+		<md5>b1feda8e91c7a96751a5e262478d0a4a</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/0000000E/e2c511a2d1ab00550a48be100100d340.nca</path>
+		<name>e2c511a2d1ab00550a48be100100d340</name>
+		<md5>09058122bc2550e492cc9f8d3ff12a08</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000023/09ea55ca36f2afe456bb6acb0267ab95.nca</path>
+		<name>09ea55ca36f2afe456bb6acb0267ab95</name>
+		<md5>466f870019472fbf301eb4459c62cbff</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000027/ef0ced9f715e2a89aca48017aa34b771.nca</path>
+		<name>ef0ced9f715e2a89aca48017aa34b771</name>
+		<md5>e54a345514eb69835b9a07ef3e8bfb13</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000028/bbea5b906208418e22e23d5c446e8a8f.nca</path>
+		<name>bbea5b906208418e22e23d5c446e8a8f</name>
+		<md5>49b159eeceaa9721b888c8a810ffaa4d</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/0000002B/d48a3bfc2fad024a98e5584e6e0ec22f.nca</path>
+		<name>d48a3bfc2fad024a98e5584e6e0ec22f</name>
+		<md5>e3aad051d30e102f6e48bfc34b7cba09</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/0000002C/05a9073b925dca401493f8860d218a02.nca</path>
+		<name>05a9073b925dca401493f8860d218a02</name>
+		<md5>998cf98b2057bee4f44c80b80edba258</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000034/20b52065db773b29755f3b0fbe45cbd4.nca</path>
+		<name>20b52065db773b29755f3b0fbe45cbd4</name>
+		<md5>aa8e88b9cd957750b2b35328c203e3cb</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000035/a6ee60de4f804ac979f18fb68ced5857.nca</path>
+		<name>a6ee60de4f804ac979f18fb68ced5857</name>
+		<md5>dd2cb32ddc645567c88a8416a7f319fa</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000039/91339efa65328c44fda33ecba22508df.nca</path>
+		<name>91339efa65328c44fda33ecba22508df</name>
+		<md5>2c53caf706219bcf4150e3fc93096c80</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/0000003B/f0ed28849b8449a38e174ed40305dde8.nca</path>
+		<name>f0ed28849b8449a38e174ed40305dde8</name>
+		<md5>9c502df3a7ccdf52f46026d432e46c34</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/0000003E/53e6a1f9359591dd9f4ae7209d590121.nca</path>
+		<name>53e6a1f9359591dd9f4ae7209d590121</name>
+		<md5>7d565d0f528c0488ba89dda5c08b248f</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000043/bdae0d8f78560643b4183104450620ce.nca</path>
+		<name>bdae0d8f78560643b4183104450620ce</name>
+		<md5>7cfdb6cf15b3ea25713cb71ad45e307b</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000046/350de6a2affa2d788ec288e0e2d7b682.nca</path>
+		<name>350de6a2affa2d788ec288e0e2d7b682</name>
+		<md5>afe5fc07fa6e64c12d16842901367766</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000051/7126616edc8f3353ddaa68f4c7632fde.nca</path>
+		<name>7126616edc8f3353ddaa68f4c7632fde</name>
+		<md5>96d744392d917a93b7366d435a9a1a13</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000054/4388e225d9a0be8580eeeddbf2033adc.nca</path>
+		<name>4388e225d9a0be8580eeeddbf2033adc</name>
+		<md5>1331c17d4cc7a6e0494b07aed9a7718b</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000055/095101b9ba30652c1a32c96d815de280.nca</path>
+		<name>095101b9ba30652c1a32c96d815de280</name>
+		<md5>0aa2427efcc40450194beedab335c0f0</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000055/3443356ea567f49078d08097ae034983.nca</path>
+		<name>3443356ea567f49078d08097ae034983</name>
+		<md5>f4024deaf057091887ab6230b91d7fa8</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000057/951a60545218d3c0d903755f06ea0cab.nca</path>
+		<name>951a60545218d3c0d903755f06ea0cab</name>
+		<md5>b64345642f78fc0e7e934cba131350d1</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000076/8e795e0e52aea3360ac743505cc479f5.nca</path>
+		<name>8e795e0e52aea3360ac743505cc479f5</name>
+		<md5>08ca8119397590c9179ba3332084a8cf</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000081/568c0adb3d6f6d1d24637f2d26959dbf.nca</path>
+		<name>568c0adb3d6f6d1d24637f2d26959dbf</name>
+		<md5>809068990e29e1c82f49385525482dd3</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000081/be154a922d126fda2d7d64a5f01806b6.nca</path>
+		<name>be154a922d126fda2d7d64a5f01806b6</name>
+		<md5>defb3a1f28749ac7e83ec525127b964b</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000083/af9fae56b5c01e1b5765c16f80e4b02a.nca</path>
+		<name>af9fae56b5c01e1b5765c16f80e4b02a</name>
+		<md5>d46872585c6cfcb5a0341676af44660c</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000093/e2a35578a71aa55d5ef397ba93d60d16.nca</path>
+		<name>e2a35578a71aa55d5ef397ba93d60d16</name>
+		<md5>e26eb2eb58e85fb0d7ba766eddbec0d4</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000094/a9d3c9d62ec0ca557a5543f869cea2f4.nca</path>
+		<name>a9d3c9d62ec0ca557a5543f869cea2f4</name>
+		<md5>84e4581292186c71769588492e7a64e1</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/00000098/0958ce1d5d65a6a57ee2ef62c3dc4f1a.nca</path>
+		<name>0958ce1d5d65a6a57ee2ef62c3dc4f1a</name>
+		<md5>d2bc1b1998121c9dd76473c913987e0c</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000A0/079923558d285c105ba08afddded9b24.nca</path>
+		<name>079923558d285c105ba08afddded9b24</name>
+		<md5>238d5ac7712e5865819a96a843970722</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000A1/f18281e65da58311e6fd7185a9fd10d0.nca</path>
+		<name>f18281e65da58311e6fd7185a9fd10d0</name>
+		<md5>fe4be1c842620c8ac93ce61820706417</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000A2/481f67bae20163dfef064a5768fb96f7.nca</path>
+		<name>481f67bae20163dfef064a5768fb96f7</name>
+		<md5>5289132cf66ede5022c2af27663f1386</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000AA/d3ea239a8157c1bfccb571cd7df404cb.nca</path>
+		<name>d3ea239a8157c1bfccb571cd7df404cb</name>
+		<md5>d25b1d4c459eeb4aa872c90b58b378d0</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000BD/5b0b5c95d5ec8e123bd6eb8a5c4e1a1c.nca</path>
+		<name>5b0b5c95d5ec8e123bd6eb8a5c4e1a1c</name>
+		<md5>fc8fe80325e7637213ba295e48cc107c</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000BD/a29d8d0c04bb75da302890f5d1ff455c.nca</path>
+		<name>a29d8d0c04bb75da302890f5d1ff455c</name>
+		<md5>678fe61b357f39b885657063977e5b0d</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000C1/1fc0d3321d67371474f03f4796d59bfa.nca</path>
+		<name>1fc0d3321d67371474f03f4796d59bfa</name>
+		<md5>f45edaa34813f9f29a1a9ecacfdfe0f1</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000CC/eb2e571fb091ab4add499d5a0fa56785.nca</path>
+		<name>eb2e571fb091ab4add499d5a0fa56785</name>
+		<md5>27dcf93247cfdd17dbea08a7171eabe6</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000D0/e246ce53284d61df9f9af4d51223f277.nca</path>
+		<name>e246ce53284d61df9f9af4d51223f277</name>
+		<md5>4186bdfdcc75b14a117a91a8c1271228</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000D2/1bcc7e4b20fed14f4f56142b29fb8d01.nca</path>
+		<name>1bcc7e4b20fed14f4f56142b29fb8d01</name>
+		<md5>a2c5461bce26ecb17dc446181a8172c6</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000D2/eb02d229cad0bbd9d7e60979fb5e544b.nca</path>
+		<name>eb02d229cad0bbd9d7e60979fb5e544b</name>
+		<md5>100300de8054b6ca98b11b676d168d17</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000D4/9d687f8eeaae37c148666daaafb40e30.nca</path>
+		<name>9d687f8eeaae37c148666daaafb40e30</name>
+		<md5>c29824441a2cdf49faebb944058d315d</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000D8/922be0b458799142078a27f745d57d49.nca</path>
+		<name>922be0b458799142078a27f745d57d49</name>
+		<md5>51c30034143e9e4c927cd937de28d762</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000DA/e432b3e063596ace5cf35409d8befe1a.nca</path>
+		<name>e432b3e063596ace5cf35409d8befe1a</name>
+		<md5>4ab4595a9850973c77dcfdbd17e29105</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000DB/ba05d593b4ccb6f9e86a5a094daacae4.nca</path>
+		<name>ba05d593b4ccb6f9e86a5a094daacae4</name>
+		<md5>5ebcbdec7ebb4173e6a79e61f16aafb3</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000DD/d85a5cea6714d5ccd0a3392a3db31e1d.nca</path>
+		<name>d85a5cea6714d5ccd0a3392a3db31e1d</name>
+		<md5>a7c5f7591611804de51b74f24d36e7e7</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000E3/5a14155adeaa9fff325d13d535f35b6b.nca</path>
+		<name>5a14155adeaa9fff325d13d535f35b6b</name>
+		<md5>fef67d8ad704b2a756b94cb7756a62bc</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000E5/525f97b51a1b4386e27cee53c68df832.nca</path>
+		<name>525f97b51a1b4386e27cee53c68df832</name>
+		<md5>e5ffa58332e04f6b0bb29ce72d213523</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000E6/c833853cc494c95d7135903c6c4b6309.nca</path>
+		<name>c833853cc494c95d7135903c6c4b6309</name>
+		<md5>5e94754e50750f241648d39877a03895</md5>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000EA/133d5f3f1d2e1bba8d086975578e19cb.nca</path>
+		<name>133d5f3f1d2e1bba8d086975578e19cb</name>
+		<md5>a26d7f118295151d86956999e43633be</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000FD/7aec3973a45b4e5c307e98232f8c48ea.nca</path>
+		<name>7aec3973a45b4e5c307e98232f8c48ea</name>
+		<md5>e4f4a0ce7cac363baa51221b8c8c88f4</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/nand/user/Contents/registered/000000FE/ef01415c3c4d7c4115e1808b9ece8524.nca</path>
+		<name>ef01415c3c4d7c4115e1808b9ece8524</name>
+		<md5>36fbfd73960c62447c635d4c3e4faaf6</md5>
+		<lang>en</lang>
+	</game>
+	<game id="196015">
+		<path>./content/updates/Hyrule Warriors Definitive Edition [0100AE00096EA800][v65536].nsp</path>
+		<name>Hyrule Warriors - Definitive Edition</name>
+		<desc>Race into the thick of battle as the mightiest legends of Hyrule in Hyrule Warriors: Definitive Edition.
+Slash through legions of enemies unleashing devastating blows worthy of Dynasty Warriors and dominate the battlefield as famous heroes from The Legend of Zelda series.</desc>
+		<image>./images/Hyrule Warriors Definitive Edition [0100AE00096EA800][v65536]-image.png</image>
+		<marquee>./images/Hyrule Warriors Definitive Edition [0100AE00096EA800][v65536]-marquee.png</marquee>
+		<rating>0</rating>
+		<releasedate>20180518T000000</releasedate>
+		<developer>Koei</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>1-2</players>
+		<hidden>true</hidden>
+		<md5>17c21aafbb1510185ff2940f84198768</md5>
+		<lang>en</lang>
+	</game>
+	<game id="195855">
+		<path>./content/updates/Rayman Legends Definitive Edition [01005FF002E2A800][v131072].nsp</path>
+		<name>Rayman Legends - Definitive Edition</name>
+		<desc>Rayman, Globox, and the Teensies are off wandering through an enchanted forest when they discover a mysterious tent filled with a series of captivating paintings. As they look more closely, they notice each painting seems to tell the story of a mythical world. While focusing on a painting that shows a medieval land, they are suddenly sucked into the painting, entering the world, and the adventure begins. The gang must run, jump, and fight their way through each world to save the day and discover the secrets of every legendary painting.</desc>
+		<image>./images/Rayman Legends Definitive Edition [01005FF002E2A800][v131072]-image.png</image>
+		<rating>0</rating>
+		<releasedate>20170912T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Platform</genre>
+		<players>1-4</players>
+		<hidden>true</hidden>
+		<md5>a83003844d975dc4a7a5a59316647662</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./content/updates/sxs-kirby_star_allies_v327680.nsp</path>
+		<name>sxs-kirby_star_allies_v327680</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./content/updates/v-bb4f_v196608.nsp</path>
+		<name>v-bb4f_v196608</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./content/updates/v-ctrnf_electron_skins_dlc.nsp</path>
+		<name>v-ctrnf_electron_skins_dlc</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+		<md5>e1f864393e01d6ccf138a05f0ca2c901</md5>
+	</game>
+	<game>
+		<path>./content/updates/v-ctrnf_nitros_oxide_dlc.nsp</path>
+		<name>v-ctrnf_nitros_oxide_dlc</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+		<md5>c75573a8e0a02b2bb81b3f244dc9f05a</md5>
+	</game>
+	<game>
+		<path>./content/updates/v-ctrnf_v983040.nsp</path>
+		<name>v-ctrnf_v983040</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./content/updates/v-sega_ages_virtua_racing_v65536.nsp</path>
+		<name>v-sega_ages_virtua_racing_v65536</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+		<md5>efd26ca07536ea926033a41282de30eb</md5>
+	</game>
+	<game>
+		<path>./Bubble_Bobble_4_Friends.xci</path>
+		<name>Bubble Bobble 4 Friends</name>
+		<desc>Bubble Bobble 4 Friends is the latest game in the legendary Bubble Bobble series from Taito. Play alone or with up to 3 friends in couch co-op mode and jump your bubble dragons through 100 levels to defy the wicked magician Bonner and his henchmen.</desc>
+		<image>./images/Bubble_Bobble_4_Friends-image.jpg</image>
+		<marquee>./images/Bubble_Bobble_4_Friends-marquee.png</marquee>
+		<releasedate>20191119T000000</releasedate>
+		<developer>Taito Corporation</developer>
+		<publisher>United Independent Entertainment GmbH</publisher>
+		<genre>Puzzle, Platform</genre>
+		<players>4</players>
+	</game>
+	<game id="196015">
+		<path>./Hyrule_Warriors_Definitive_Edition.xci</path>
+		<name>Hyrule Warriors - Definitive Edition</name>
+		<desc>Race into the thick of battle as the mightiest legends of Hyrule in Hyrule Warriors: Definitive Edition.
+Slash through legions of enemies unleashing devastating blows worthy of Dynasty Warriors and dominate the battlefield as famous heroes from The Legend of Zelda series.</desc>
+		<image>./images/Hyrule_Warriors_Definitive_Edition-image.png</image>
+		<marquee>./images/Hyrule_Warriors_Definitive_Edition-marquee.png</marquee>
+		<releasedate>20180518T000000</releasedate>
+		<developer>Koei</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game id="195955">
+		<path>./Kirby_Star_Allies.xci</path>
+		<name>Kirby Star Allies</name>
+		<desc>When a new evil threatens Planet Popstar, Kirby will need a little help from his...enemies?! By making friends out of foes, up to three* players can drop in or out of the adventure at any time. With new and expanded copy abilities, classic Kirby action is deeper than ever: combine abilities with elements such as ice or fire to create new friend abilities!</desc>
+		<image>./images/Kirby_Star_Allies-image.png</image>
+		<marquee>./images/Kirby_Star_Allies-marquee.png</marquee>
+		<releasedate>20180316T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./New_Super_Mario_Bros._U_Deluxe.xci</path>
+		<name>New Super Mario Bros. U Deluxe</name>
+		<desc>Two Super Mario Bros. games in one, for double the fun!
+
+Join Mario, Luigi, and pals for single-player or multiplayer fun anytime, anywhere! Take on two family-friendly, side-scrolling adventures with up to three friends* as you try to save the Mushroom Kingdom. Includes the New Super Mario Bros. U and harder, faster New Super Luigi U games—both of which include Nabbit and Toadette as playable characters!
+
+Two games in one, for double the fun! Simple, straightforward controls, new playable characters optimized for younger and less-experienced players, and a wealth of bonus content—like a Hints gallery and helpful reference videos**—make this a perfect choice for anyone looking to introduce their family to the wonderful world of Mario. All a player needs is one Joy-Con™ controller, so two people can team up right out of the box! Tackle 164 platforming courses in the two main game modes and enjoy extra replayability with three additional game modes in which you can also play as a Mii™ character: Challenges, Boost Rush, and Coin Battle!</desc>
+		<image>./images/New_Super_Mario_Bros._U_Deluxe-image.jpg</image>
+		<releasedate>20190111T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Adventure, Platform</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="195855">
+		<path>./Rayman_Legends_Definitive_Edition.xci</path>
+		<name>Rayman Legends - Definitive Edition</name>
+		<desc>Rayman, Globox, and the Teensies are off wandering through an enchanted forest when they discover a mysterious tent filled with a series of captivating paintings. As they look more closely, they notice each painting seems to tell the story of a mythical world. While focusing on a painting that shows a medieval land, they are suddenly sucked into the painting, entering the world, and the adventure begins. The gang must run, jump, and fight their way through each world to save the day and discover the secrets of every legendary painting.</desc>
+		<image>./images/Rayman_Legends_Definitive_Edition-image.png</image>
+		<releasedate>20170912T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Platform</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Scott_Pilgrim_vs_The_World_The_Game.nsp</path>
+		<name>Scott Pilgrim vs. The World: The Game - Classic Edition (Limited Run #94)</name>
+		<desc>The Scott Pilgrim Vs. The World: The Game Classic Edition includes: 
+• Scott Pilgrim Vs. The World: The Game Complete Edition physical game for the Nintendo Switch
+• Full-color instruction booklet
+• Reversible cover sheet
+• Deluxe plastic clamshell case with reversible coversheet
+• Sticker sheet featuring art from the game
+• Physical soundtrack CD featuring music by Anamanaguchi.
+• The Clash at Demonhead commemorative concert ticket
+• Overworld map
+
+Rediscover the beloved 2D arcade-style beat'em up inspired by the iconic comic book series and movie Scott Pilgrim vs. The World in this Complete Edition!
+
+This Complete Edition includes the original Scott Pilgrim vs. The World: The Game, as well as it's original DLCs - the Knives Chau and Wallace Wells Add-On Packs.
+
+Play as your favorite characters - Scott Pilgrim, Ramona Flowers, Knives Chau, Stephen Stills, and more. Level-up and learn new awesome abilities, unlock secret items and modes, summon powerful allies, and more!
+
+Team up with friends and combine your skills to battle your way through waves of tough enemies, or compete with them in awesome mini-games like Dodgeball; all on your way to defeat the League of Ramona's Evil Exes!</desc>
+		<image>./images/Scott_Pilgrim_vs_The_World_The_Game-image.jpg</image>
+		<video>./videos/Scott_Pilgrim_vs_The_World_The_Game-video.mp4</video>
+		<marquee>./images/Scott_Pilgrim_vs_The_World_The_Game-marquee.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20210115T000000</releasedate>
+		<developer>Ubisoft Montreal</developer>
+		<publisher>Limited Run Games, Ubisoft</publisher>
+		<genre>Action, Adventure, Fighting</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game id="13282">
+		<path>./SEGA_AGES_Virtua_Racing.nsp</path>
+		<name>Virtua Racing</name>
+		<desc>Virtua Racing or V.R. for short, is a Formula One racing arcade game, developed by Sega AM2 and released in 1992. Virtua Racing was initially a proof-of-concept application for exercising a new 3D-graphics platform under development, the "Model 1". The results were so encouraging, that Virtua Racing was fully developed into a standalone arcade title. Though its use of 3D polygonal graphics was predated by arcade rivals Namco (Winning Run in 1988) and Atari (Hard Drivin' in 1989), Virtua Racing had vastly improved visuals in terms of polygon count, frame rate, and overall scene complexity, and displayed multiple camera angles and 3D human non-player characters, which all contributed to a greater sense of immersion. Virtua Racing is regarded as one of the most influential video games of all time, for laying the foundations for subsequent 3D racing games and for popularizing 3D polygonal graphics among a wider audience</desc>
+		<image>./images/SEGA_AGES_Virtua_Racing-image.png</image>
+		<video>./videos/SEGA_AGES_Virtua_Racing-video.mp4</video>
+		<marquee>./images/SEGA_AGES_Virtua_Racing-marquee.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19951106T000000</releasedate>
+		<developer>Time Warner Interactive</developer>
+		<publisher>Time Warner Interactive</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+	</game>
+	<game id="198483">
+		<path>./The_Legend_of_Zelda_Links_Awakening.xci</path>
+		<name>Legend Of Zelda - Links Awakening, The</name>
+		<desc>As Link, you awaken in a strange land away from Hyrule, where animals talk and monsters roam. To uncover the truth behind your whereabouts and rouse the legendary Wind Fish, explore Koholint Island and all its trap-ridden dungeons, reimagined in stunning detail for this new release of one of the most beloved The Legend of Zelda games. Along the way, you'll meet a hilarious assortment of charming characters to which you'll never want to say goodbye.</desc>
+		<image>./images/The_Legend_of_Zelda_Links_Awakening-image.png</image>
+		<video>./videos/The_Legend_of_Zelda_Links_Awakening-video.mp4</video>
+		<marquee>./images/The_Legend_of_Zelda_Links_Awakening-marquee.png</marquee>
+		<releasedate>20190920T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
 	<game id="197817">
 		<path>./Diablo_III_Eternal_Collection.xci</path>
 		<name>Diablo 3 - Eternal Collection</name>
 		<desc>Ages ago, angels and demons birthed your world in a forbidden union. Now they've come to claim it. Stand tall among Sanctuary's meek and wicked to battle walking corpses, horrifying cultists, fallen seraphs, and the Lords of Hell. When the High Heavens and the Burning Hells war, humanity must be its own salvation.</desc>
 		<image>./images/Diablo_III_Eternal_Collection-image.png</image>
-		<video>./videos/Diablo_III_Eternal_Collection-video.mp4</video>
 		<marquee>./images/Diablo_III_Eternal_Collection-marquee.png</marquee>
 		<releasedate>20181102T000000</releasedate>
 		<developer>Blizzard Entertainment</developer>
@@ -89,39 +521,91 @@ Team up with friends and combine your skills to battle your way through waves of
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./content/updates/Diablo_III_Eternal_Collection_Update_v2.6.10.72837.nsp</path>
+		<name>Diablo_III_Eternal_Collection_Update_v2.6.10.72837</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./content/updates/Mario Kart 8 Deluxe [0100152000022800][v393216].nsp</path>
+		<name>Mario Kart 8 Deluxe [0100152000022800][v393216]</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./content/updates/Mario Kart 8 Deluxe [0100152000022800][v524288].nsp</path>
+		<name>Mario Kart 8 Deluxe [0100152000022800][v524288]</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./content/updates/Scott_Pilgrim_vs_The_World_The_Game_Update_v1.0.1.nsp</path>
+		<name>Scott_Pilgrim_vs_The_World_The_Game_Update_v1.0.1</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./content/updates/Super_Mario_3D_World_plus_Bowsers_Fury_Update_v1.1.0.nsp</path>
+		<name>Super_Mario_3D_World_plus_Bowsers_Fury_Update_v1.1.0</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./content/updates/The Legend of Zelda Breath of the Wild [01007EF00011E800][v720896].nsp</path>
+		<name>The Legend of Zelda Breath of the Wild [01007EF00011E800][v720896]</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./content/updates/The_Legend_of_Zelda_Links_Awakening_Update_v1.0.1.nsp</path>
+		<name>The_Legend_of_Zelda_Links_Awakening_Update_v1.0.1</name>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<hidden>true</hidden>
+	</game>
+	<game>
+		<path>./Crash_Team_Racing_Nitro_Fueled.xci</path>
+		<name>Crash Team Racing: Nitro-Fueled</name>
+		<desc>Crash is back in the driver’s seat! Get ready to go fur-throttle with Crash™ Team Racing Nitro-Fueled. It’s the authentic CTR experience plus a whole lot more, now fully-remastered and revved up to the max:
+
+Start your engines with the original game modes, characters, tracks, power-ups, weapons and controls
+Power slide to glory in additional karts and tracks from beyond the original game
+Race online with friends and Crash the competition with online leaderboards
+
+With Crash™ Team Racing Nitro-Fueled, the stakes are high and the competition is fierce. It's the CTR you love, now kicked into the highest gear.</desc>
+		<image>./images/Crash_Team_Racing_Nitro_Fueled-image.jpg</image>
+		<marquee>./images/Crash_Team_Racing_Nitro_Fueled-marquee.png</marquee>
+		<releasedate>20190621T000000</releasedate>
+		<developer>Beenox Studios</developer>
+		<publisher>Activision</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Super_Mario_3D_World_plus_Bowsers_Fury.xci</path>
 		<name>Super Mario 3D World + Bowser's Fury</name>
 		<desc>Enjoy two Mario adventures solo or with friends!
 
-
-
 Pounce and climb through dozens of colorful courses! Mario (and his friends) can use a variety of power-ups like the Super Bell, which grants catlike abilities like climbing and scratching. Team up with up to three other players locally or online to reach the goal and see who can get a high score.
-
-
 
 Explore a seamless feline world in the new Bowser’s Fury adventure
 
-
-
 Free-roaming Super Mario gameplay makes a return in this brand-new adventure. Bowser has become gargantuan and lost all control! Explore Lake Lapcat and its islands, complete objectives to collect Cat Shines, and team up with Bowser Jr. to bring his big, bad dad back to normal. Just watch out for Bowser’s island-wide attacks.
-
-
 
 The Super Mario 3D World + Bowser’s Fury game features the same great co-op gameplay, creative levels and power-ups as the original game, but with added improvements. In the Super Mario 3D World part of the game, characters move faster and the dash powers up more quickly. Both adventures support the newly added Snapshot Mode—pause the action to get the perfect shot, apply filters, and decorate with stamps!
 
-
-
 In Super Mario 3D World, choose from Mario, Luigi, Peach, and Toad and set off to save the Sprixie Kingdom. Each character has a distinct playstyle—Luigi can jump extra high and Peach can float for a short time. Rosalina is also available as a playable character later in the game! Jump, dash, and pounce to reach the goal while collecting Green Stars, coins and power-ups.
-
-
 
 Collect stamps throughout your adventure in Super Mario 3D World and use them in Snapshot Mode (in both Super Mario 3D World and the Bowser’s Fury adventure) to create masterpieces to share with friends and family.
 
-
-
 In Bowser’s Fury, Mario arrives on Lake Lapcat and is confronted with a rampaging Bowser! Join forces with Bowser Jr. and venture through an interconnected world made of cat-themed…well, everything. Enemies, flowers, and even birds take on a feline form.
-
-
 
 Need some extra assistance bringing Bowser out of his frenzied, furious state? Another player can take control of Bowser Jr. and help out by attacking enemies and storing power-ups. Two sets of claws are better than one!</desc>
 		<image>./images/Super_Mario_3D_World_plus_Bowsers_Fury-image.jpg</image>
@@ -131,5 +615,7 @@ Need some extra assistance bringing Bowser out of his frenzied, furious state? A
 		<publisher>Nintendo</publisher>
 		<genre>Action, Platform, Family</genre>
 		<players>4</players>
+		<lang>en</lang>
+		<region>wr</region>
 	</game>
 </gameList>
