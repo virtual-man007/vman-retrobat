@@ -2523,22 +2523,6 @@ Nothing beats the competitive feel of racing. Feel the thrill as you race past y
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Cyber Shadow.lnk</path>
-		<name>Cyber Shadow</name>
-		<desc>The world has been taken over by synthetic lifeforms. A desperate plea for help sets Shadow on a journey to uncover what started the path to perpetual ruin. Slash through the techno hordes, leap past traps, and nimbly navigate the ruins of Mekacity. Only you can unlock the secrets to your clan’s ancient powers in Cyber Shadow, the quintessential Ninja Action game.</desc>
-		<image>./mixart/Cyber Shadow.png</image>
-		<video>./snap/Cyber Shadow.mp4</video>
-		<marquee>./wheel/Cyber Shadow.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20211201T000000</releasedate>
-		<developer>Mechanical Head-Studios</developer>
-		<publisher>Yacht Club-Games</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Moonlighter.lnk</path>
 		<name>Moonlighter</name>
 		<desc>Moonlighter is an Action RPG with rogue-lite elements following the everyday routines of Will, an adventurous shopkeeper that dreams of becoming a hero. Confront unfamiliar mini-bosses using brand-new weapons, armor, rings and amulets. Wander around 100 fresh room patterns, with the help of 9 brave Companions, and discover even more lore and story. Finish the main adventure to unlock New Game+ mode with additional challenges and options.</desc>
@@ -4034,6 +4018,36 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<developer>WayForward Tech</developer>
 		<publisher>Arc System Works</publisher>
 		<genre>Beat'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Cyber Shadow.lnk</path>
+		<name>Cyber Shadow</name>
+		<desc>The world has been taken over by synthetic lifeforms. A desperate plea for help sets Shadow on a journey to uncover what started the path to perpetual ruin. Slash through the techno hordes, leap past traps, and nimbly navigate the ruins of Mekacity. Only you can unlock the secrets to your clan’s ancient powers in Cyber Shadow, the quintessential Ninja Action game.</desc>
+		<image>./mixart/Cyber Shadow.png</image>
+		<video>./snap/Cyber Shadow.mp4</video>
+		<marquee>./wheel/Cyber Shadow.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20211201T000000</releasedate>
+		<developer>Mechanical Head-Studios</developer>
+		<publisher>Yacht Club-Games</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Mighty Goose.lnk</path>
+		<name>Mighty Goose</name>
+		<desc>Traveling the galaxy, hunting down evil. This is the life of Mighty Goose. One of the galaxy’s most credited bounty hunters! At the core Mighty Goose is a tight side scrolling run and gun shooter that will test your skill, timing, reflexes. Building upon that solid arcade base, the game adds a ton of crazy weapons, warmachines, upgrades and secrets.</desc>
+		<image>./mixart/Mighty Goose.jpg</image>
+		<video>./snap/Mighty Goose.mp4</video>
+		<marquee>./wheel/Mighty Goose.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20211201T000000</releasedate>
+		<developer>Blastmode</developer>
+		<publisher>Playism</publisher>
+		<genre>Action, Sci-Fi</genre>
 		<players>2</players>
 		<favorite>true</favorite>
 	</game>
