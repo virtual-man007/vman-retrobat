@@ -29,101 +29,6 @@
 		<video>./snap/Final Fantasy IV - The After Years (USA) (WiiWare).mp4</video>
 		<genreid>768</genreid>
 	</game>
-	<game id="9476" source="ScreenScraper.fr">
-		<path>./Mega Man 10 (USA) (WiiWare).wad</path>
-		<name>Mega Man 10</name>
-		<desc>20XX. A virus called Roboenza starts infecting robots, rendering them useless. Humankind would be helpless enough without the aid of their robot assistants - but the worst is yet to come! The second phase of the illness causes the infected robots to turn against their masters and try to take over the world! Dr. Wily claims to have built a medicine making machine to cure the epidemic, but it has been stolen by the berserk robots. Mega Man must fight eight violent robots to retrieve the machine and save the world.
-
-Mega Man 10 retains the 8-bitish graphical style and gameplay of its predecessor Mega Man 9 and the old NES titles. The player must again jump, run and shoot his way through 8 stages filled with robotic enemies, destroy the Robot Master at the end of the stage and take his weapon to be used against further enemies.
-
-Mega Man still can't slide or charge his weapon as he could in Mega Man 3 and 4, respectively, but you can also play as Proto Man who has both of these abilities as well as his trademark shield to block projectiles - however, Proto Man takes twice as much damage from enemy attacks. Bass will also be playable character via downloadable content, and will be able to aim his gun at 45-degree angles.
-
-Like Mega Man 9, this game also features a Time Attack mode and Challenges, where the player must race against the clock or beat the game under certain conditions, such as never dying or beating all the bosses using only the standard Mega Buster weapon. The game also has separate Challenge Rooms, where the player must clear a room under different conditions given at the beginning of the Challenge.</desc>
-		<rating>0.7</rating>
-		<releasedate>20100101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Action-Platform</genre>
-		<players>1</players>
-		<image>./mixart/Mega Man 10 (USA) (WiiWare).png</image>
-		<marquee>./wheel/Mega Man 10 (USA) (WiiWare).png</marquee>
-		<video>./snap/Mega Man 10 (USA) (WiiWare).mp4</video>
-		<genreid>257</genreid>
-	</game>
-	<game id="9440" source="ScreenScraper.fr">
-		<path>./Mega Man 9 (USA) (WiiWare).wad</path>
-		<name>Mega Man 9 : The Ambition's Revival</name>
-		<desc>Mega Man 9 brings the series back to its old school roots with retro gameplay, music and classic 8-bit style graphics! 
- 
-Mega Man fans, your wait is over! The classic Blue Bomber that debuted in 1987 is back with the ninth installment in the classic series. It s a new adventure for Mega Man all done in an 8-bit style -- graphics, music, and gameplay are all like you remember them!</desc>
-		<rating>0.85</rating>
-		<releasedate>20080922T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Platform</genre>
-		<image>./mixart/Mega Man 9 (USA) (WiiWare).png</image>
-		<marquee>./wheel/Mega Man 9 (USA) (WiiWare).png</marquee>
-		<video>./snap/Mega Man 9 (USA) (WiiWare).mp4</video>
-		<genreid>257</genreid>
-	</game>
-	<game id="8704" source="ScreenScraper.fr">
-		<path>./Monster Hunter Tri (USA).cc.rvz</path>
-		<name>Monster Hunter Tri</name>
-		<desc>Monster Hunter Tri depicts an ecosystem where man co-exists with fantastic beasts that roam both the land and the sea. Featuring both online and offline cooperative modes, players can join online hunting parties with up to four players or play with two players on a single TV for select quests. Players also have the option to face Monster Hunter Tri s quests as a single player experience accompanied by Cha-Cha, an AI hunting partner whose tracking and trapping skills will prove invaluable in the hunt.</desc>
-		<rating>0.9</rating>
-		<releasedate>20100423T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Role playing games</genre>
-		<image>./mixart/Monster Hunter Tri (USA).cc.png</image>
-		<marquee>./wheel/Monster Hunter Tri (USA).cc.png</marquee>
-		<video>./snap/Monster Hunter Tri (USA).cc.mp4</video>
-		<genreid>768</genreid>
-	</game>
-	<game id="8762" source="ScreenScraper.fr">
-		<path>./Muramasa - The Demon Blade (USA).cc.rvz</path>
-		<name>Muramasa: The Demon Blade</name>
-		<desc>Based on ancient Japanese lore, Muramasa: The Demon Blade plunges players into the mystical Genroku era, ruled by the skilled shogun Tsunayoshi Tokogawa. But this culture is threatened; Tokogawa's thirst for power leads to a conflict over the enormously powerful, though cursed, Demon Blades. Used in hatred, drenched in blood, the cursed blades condemn those who use them to tragedy, madness and ultimately deaths. As chaos spreads, denizens from the netherworld breach their realm as these malevolent swords summon evil spirits - and the Dragon and Demon Gods as well. Featuring hand-drawn 2D art reflecting the heritage and tone of the storyline, Muramasa transports plauers into a little known mythology, envisioned by the creators of the critically acclaimed Odin Sphere. Players take on the role of a male ninja or female kunoichi, utilising their ninja prowess to traverse the clever side-scrolling levels that feature vertical progression as well as the traditional horizontal stage advancement.Features:* From the subtle movements of a character's clothes to their explosive battle animations, every detail is expertly animated by hand for amazing visuals* Playing as a male ninja or female kunoichi, a wide variety of ninja skills are at your disposal as you progress through levels horizontally and vertically* Gameplay transitions seamlessly from player-controlled elements to story sequences to keep the player engaged within the world* Take a journey through a tale influenced by the lesser-told, but equally rich and mysterious, Japanese mythology</desc>
-		<rating>0.9</rating>
-		<releasedate>20091113T000000</releasedate>
-		<developer>Vanillaware</developer>
-		<publisher>Rising Star Games</publisher>
-		<genre>Adventure-Action-Beat'em Up</genre>
-		<players>1</players>
-		<image>./mixart/Muramasa - The Demon Blade (USA).cc.png</image>
-		<marquee>./wheel/Muramasa - The Demon Blade (USA).cc.png</marquee>
-		<video>./snap/Muramasa - The Demon Blade (USA).cc.mp4</video>
-		<genreid>263</genreid>
-	</game>
-	<game id="9141" source="ScreenScraper.fr">
-		<path>./Nights - Journey of Dreams (USA) (En,Ja,Fr,De,Es,It).cc.rvz</path>
-		<name>NiGHTS: Journey of Dreams</name>
-		<desc>This time around, however, Nights takes a bit of a different turn. Keeping in line with the "world of dreams" theme . it wouldn t be Nights without it . players will take control of Will and Helen, two young children each entering into Nightopia (the world of dreams) with their own back-story, emotional baggage, and inner demons that come to life though the forming of nightmares. It s a pretty simple concept overall, and with each child s five main levels you ll get a different piece of the story leading up to the same grand finale. Once they arrive in the land of dreams, each character meets up with a Nights almost instantaneously, and from there learns to meld with the mysterious creature and fly through the world of Nightopia. Along the way you ll learn of the quest to find the hidden Ideya (basically essences of the human spirit), and eventually attempt to defeat a powerful god-like creature named Wizeman and his right-hand man Reala.</desc>
-		<rating>0.75</rating>
-		<releasedate>20071218T000000</releasedate>
-		<developer>Sonic Team</developer>
-		<publisher>Sega</publisher>
-		<genre>Action-Platform</genre>
-		<players>2</players>
-		<image>./mixart/Nights - Journey of Dreams (USA) (En,Ja,Fr,De,Es,It).cc.png</image>
-		<marquee>./wheel/Nights - Journey of Dreams (USA) (En,Ja,Fr,De,Es,It).cc.png</marquee>
-		<video>./snap/Nights - Journey of Dreams (USA) (En,Ja,Fr,De,Es,It).cc.mp4</video>
-		<genreid>257</genreid>
-	</game>
-	<game id="10220" source="ScreenScraper.fr">
-		<path>./Pulseman.wad</path>
-		<name>Pulseman</name>
-		<desc>Pulseman is an electric hero who was created to fight cyber crime. Combat the galaxy gang throughout 7 stages with around 50 levels. Pulseman is best described as a fusion between the gameplay of Sonic the Hedgehog and Mega Man in ways of gameplay.</desc>
-		<rating>0.7</rating>
-		<releasedate>20090703T000000</releasedate>
-		<developer>Game Freak</developer>
-		<publisher>Sega</publisher>
-		<genre>Action-Platform</genre>
-		<image>./mixart/Pulseman.png</image>
-		<marquee>./wheel/Pulseman.png</marquee>
-		<video>./snap/Pulseman.mp4</video>
-		<genreid>257</genreid>
-	</game>
 	<game id="8753" source="ScreenScraper.fr">
 		<path>./Rayman Origins (USA) (En,Fr,Es).cc.rvz</path>
 		<name>Rayman Origins</name>
@@ -413,21 +318,6 @@ LostWinds: Winter of the Melodias follows on from the award-winning WiiWare laun
 		<developer>Frontier Developments</developer>
 		<publisher>Frontier Developments</publisher>
 		<genre>Action-Platform-Puzzle-Game</genre>
-	</game>
-	<game id="9288" source="ScreenScraper.fr">
-		<path>./Opoona (USA).cc.rvz</path>
-		<name>Opoona</name>
-		<desc>While on an interplanetary family vacation, the young boy Opoona crash lands on Planet Landroll after his spaceship is involved in a mysterious accident. Separated from his family, Opoona is forced to live alone. On the planet, Opoona must find a job, search for his siblings, and defend himself and the people of Landroll against creatures known as the Dark Rogues. Luckily for Opoona, he is the descendant of a long line of warriors known as the Cosmo Guards. Thus, Opoona?s adventure begins as he struggles to establish a new life and reunite his family.The game?s action-oriented battle system lets players use powerful ?Energy Bonbons? against their enemies. Using just the Nunchuk, players can manipulate an Energy Bonbon?s trajectory in a number of different ways. All of Opoona?s commands are also controlled by the Nunchuk, to allow a complete ?single-hand control? of the game.Opoona is not just about battling; it is a ?Lifestyle RPG.? As Opoona, players must adapt to a new environment, meet new people, and contribute to society through work, all while becoming aware of the precious world and people around him. As the game progresses, Opoona will develop relationships and uncover a broader range of activities including new jobs and clues to new adventures.</desc>
-		<rating>0.75</rating>
-		<releasedate>20080912T000000</releasedate>
-		<developer>Artepiazza</developer>
-		<publisher>Koei</publisher>
-		<genre>Role playing games-Adventure</genre>
-		<players>1</players>
-		<image>./mixart/Opoona (USA).cc.png</image>
-		<marquee>./wheel/Opoona (USA).cc.png</marquee>
-		<video>./snap/Opoona (USA).cc.mp4</video>
-		<genreid>768</genreid>
 	</game>
 	<game id="8935" source="ScreenScraper.fr">
 		<path>./Teenage Mutant Ninja Turtles - Smash-Up (USA) (En,Fr,De,Es,It).cc.rvz</path>
@@ -1411,42 +1301,6 @@ Your Sims change as they take on the challenges of island life and learn to surv
 		<lang>en,es,fr</lang>
 		<region>eu</region>
 	</game>
-	<game id="9099">
-		<path>./La-Mulana (USA) (WiiWare).wad</path>
-		<name>La-mulana</name>
-		<desc>Are you ready to survive all types of traps and discover all the secrets of LA-MULANA?
-
-LA-MULANA is the most complete "archaeology action and exploration" game ever created.
-
-Take control of Professor Lemeza and his inseparable whip to discover the mysteries of Humanity!
-
-Face all types of traps, enemies and Guardians in the greatest adventure every created for WiiWare.
-
-In LA-MULANA you will explore vast temples and, most importantly, you will have the feeling of total immersion.
-
-Each mechanism, trap or puzzle you solve will be a great achievement.
-
-Features:
-
-- The best "archaeology action and exploration" game.
-- Over 40 hours of play.
-- Hundreds of puzzles and secrets to be discovered.
-- Wide variety of weapons and objects you can use.
-- Use the "Mobile Super X" computer to run help software.
-- Large quantity of enemies with spectacular guardians.</desc>
-		<image>./mixart/La-Mulana (USA) (WiiWare).png</image>
-		<video>./snap/La-Mulana (USA) (WiiWare).mp4</video>
-		<marquee>./wheel/La-Mulana (USA) (WiiWare).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20110621T000000</releasedate>
-		<developer>EnjoyUp Games</developer>
-		<publisher>Nigoro</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<md5>022705c7952cc307b12526a5c8936303</md5>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="8691">
 		<path>./Legend of Zelda, The - Skyward Sword (USA) (En,Fr,Es) (Rev 2).rvz</path>
 		<name>The Legend of Zelda - Skyward Sword</name>
@@ -1489,124 +1343,6 @@ The game's art is similar to the naturalistic style of Ocarina of Time, rather t
 		<lang>en,es,fr</lang>
 		<region>eu</region>
 	</game>
-	<game id="8852">
-		<path>./Little King's Story (USA) (En,Fr,Es).rvz</path>
-		<name>Little King's Story</name>
-		<desc>Little King?s Story is an original title designed and developed by some of the most respected names in the gaming industry. Featuring the efforts of Yasuhiro Wada (Creator: Harvest Moon), Hideo Minaba (Art Director: Final Fantasy XII), and Youichi Kawaguchi (Main Programmer: Dragon Quest VIII), Little King?s Story combines life-simulation, real-time strategy, and adventure elements along with an enchanting storyline to offer a unique gaming experience.</desc>
-		<image>./mixart/Little King's Story (USA) (En,Fr,Es).png</image>
-		<video>./snap/Little King's Story (USA) (En,Fr,Es).mp4</video>
-		<marquee>./wheel/Little King's Story (USA) (En,Fr,Es).png</marquee>
-		<rating>1</rating>
-		<releasedate>20090424T000000</releasedate>
-		<developer>City Factory</developer>
-		<publisher>Rising Star Games</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<lang>en,es,fr</lang>
-		<region>eu</region>
-	</game>
-	<game id="8793">
-		<path>./MadWorld (USA) (En,Fr,Es).rvz</path>
-		<name>Madworld</name>
-		<desc>From renowned developer PlatinumGames comes a highly stylized, over-the-top brawler created exclusively for the Wii. A terrorist group known as the Organizers has taken over Varrigan City, forcing all citizens into their insane "Death Watch" game, where "kill or be killed" is the only rule. As Jack, a mysterious game participant, you will use imaginative tactics to pummel opponents and battle in vicious hand-to-hand combat with daggers, bats, chainsaws and more using the arcade-style controls of the Wii Remote. The bloodiest, most creative kills earn the most points and increase the chances that Jack can save the terrorized city ? let the games begin!</desc>
-		<image>./mixart/MadWorld (USA) (En,Fr,Es).png</image>
-		<video>./snap/MadWorld (USA) (En,Fr,Es).mp4</video>
-		<marquee>./wheel/MadWorld (USA) (En,Fr,Es).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20090320T000000</releasedate>
-		<developer>Platinum Games</developer>
-		<publisher>SEGA</publisher>
-		<genre>Beat'em Up</genre>
-		<players>2</players>
-		<lang>en,es,fr</lang>
-		<region>eu</region>
-	</game>
-	<game id="8779">
-		<path>./Mario Party 8 (USA, Asia) (Rev 2).rvz</path>
-		<name>Mario Party 8</name>
-		<desc>Mario and friends are invited to the Star Carnival. Of course, they are thrilled to join. Whoever wins the main event, the Star Battle, receives a year's supply of candy. To win they must play through board games against each other. Mario and pals can also choose to play a more traditional party (much like other Mario Party games).
-
-In the first Mario Party game for Wii, the basic rules are the same: players still compete to win stars. However, the mini-games have been completely revamped to take advantage of the Wii remote. For example, some have players point the remote at the screen to shoot guns or other such things. Other mini-games use the motion sensor to shake soda cans, cut logs in half, hammer nails in place, paint, fly planes, drive cars, etc. There are still others that are played more traditionally by holding the Wii remote on its side and using the control pad to move and the buttons to perform actions, such as jumping and/or punching.
-
-Players can choose between five different modes: Party Tent, Star Battle, Mini-games, Extras Zone, or Fun Bazaar. In Party Tent mode, players play on boards with a choice between battle royales, teams, or duels. In a Battle Royale, people compete for stars: the winner is determined by number of stars and/or coins after a certain amount of turns. In Team Battle, players split off into teams. And in a duel, two players compete against each other.
-
-Star Battle is basically a duel on each board against different characters (for one player). The player wins each board by completing a certain task. For instance, the player must collect so many stars on some boards. For other boards, he or she has to get to the star with a certain amount of coins.</desc>
-		<image>./mixart/Mario Party 8 (USA, Asia) (Rev 2).png</image>
-		<video>./snap/Mario Party 8 (USA, Asia) (Rev 2).mp4</video>
-		<marquee>./wheel/Mario Party 8 (USA, Asia) (Rev 2).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20070529T000000</releasedate>
-		<developer>Hudson</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Casual Game</genre>
-		<players>1-4</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game id="8728">
-		<path>./Mario Party 9 (USA, Asia) (En,Fr,Es).rvz</path>
-		<name>Mario Party 9</name>
-		<desc>Grab your friends and family and captain the crew to victory!The party is back and bigger than ever in the Mario Party? 9 game for Wii, featuring all-new ways to play! For the first time in the franchise, boss battles crash the party and challenge players to compete to defeat a common enemy. In addition, players now travel across stages together in a vehicle towards a common goal - overcoming obstacles, battling bosses, and collecting Mini Stars stolen by Bowser? and his minions. Featuring 80 new minigames, adventurous new stages, and all-new ways to play that blend cooperative and competitive action for up to four players, Mario Party 9 is the perfect way to get the party started.</desc>
-		<image>./mixart/Mario Party 9 (USA, Asia) (En,Fr,Es).png</image>
-		<video>./snap/Mario Party 9 (USA, Asia) (En,Fr,Es).mp4</video>
-		<marquee>./wheel/Mario Party 9 (USA, Asia) (En,Fr,Es).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20120302T000000</releasedate>
-		<developer>Nd Cube Co., Ltd</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Board game</genre>
-		<players>2-4</players>
-		<lang>en,es,fr</lang>
-		<region>eu</region>
-	</game>
-	<game id="8906">
-		<path>./Mario Power Tennis (USA) (En,Fr,Es).rvz</path>
-		<name>Mario Power Tennis</name>
-		<desc>Mario Power Tennis on Wii features characters from the mustachioed plumber universe. They are all back with always powerful blows and actions proper to each. Throw bananas like Donkey Kong-style boomerangs and send the ball back with Mario's hammer! In addition to classic matches, find a wide variety of mini-games related to tennis!</desc>
-		<image>./mixart/Mario Power Tennis (USA) (En,Fr,Es).png</image>
-		<video>./snap/Mario Power Tennis (USA) (En,Fr,Es).mp4</video>
-		<marquee>./wheel/Mario Power Tennis (USA) (En,Fr,Es).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20060101T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Sports</genre>
-		<players>1-4</players>
-		<lang>en,es,fr</lang>
-		<region>eu</region>
-	</game>
-	<game id="8777">
-		<path>./Mario Strikers Charged (USA) (En,Fr,Es) (Rev 1).rvz</path>
-		<name>Mario Strikers Charged Football</name>
-		<desc>Supercharged Characters! - The captains from Super Mario Strikers are back, joined by four new ones, and now you can create your own original team by mixing and matching your captain with an all-new cast of sidekicks. All characters have their own sets of special abilities, making each one play completely differently from one another. New captain super-abilities and sidekick skill-shots add a new level of depth to already crazy soccer battles on the most unpredictable and hazard-filled pitches in the Mario universe. Each field features its own set of interactive hazards that alter game play over the course of the game. **Nintendo Wi-Fi Connection Game Play! - There are tons of new single-player modes, from tournaments to challenges to tutorials, but the game truly shines in multiplayer. The game features a robust multiplayer mode?up to four players can battle locally, or they can go online in each specific sales territory for one-on-one matches. **Kickin' Wii Controls! - Building on the frantic fun of Super Mario Strikers, this game gets you into action only possible on the Wii. Primary game play controls use both the Wii Remote and Nunchuck controllers. Use the Nunchuk to control your characters and deploy items. Flick the Wii Remote to perform the defensive "Big Hit" move and flatten foes. To defend against a "Mega Strike" goal attempt, use the Wii Remote to point at the screen and manually defend against multiple balls as they rocket towards the screen!</desc>
-		<image>./mixart/Mario Strikers Charged (USA) (En,Fr,Es) (Rev 1).png</image>
-		<video>./snap/Mario Strikers Charged (USA) (En,Fr,Es) (Rev 1).mp4</video>
-		<marquee>./wheel/Mario Strikers Charged (USA) (En,Fr,Es) (Rev 1).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20070525T000000</releasedate>
-		<developer>Next Level Games</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Sports</genre>
-		<players>4</players>
-		<lang>en,es,fr</lang>
-		<region>eu</region>
-	</game>
-	<game id="9038">
-		<path>./Mario Super Sluggers (USA) (En,Fr,Es).rvz</path>
-		<name>Mario Super Sluggers</name>
-		<desc>Mario Super Sluggers stars the ever-lovable Mario and his crew of friends. Players make a throwing motion with the Wii Remote controller to pitch the Newcomers to gaming or sports titles will be up and running on Mario Super Sluggers in no time. Simply swing the Wii Remote to smack a home run, or use a pitching motion to toss the ball over the plate. Two, three or four players can pick up Wii Remote controllers and challenge one another to a full baseball game or compete in a host of baseball-themed mini-games. There?s even a home run hitting contest. Mario Super Sluggers boasts more than 40 playable characters, all Nintendo favorites. The single-player adventure mode allows the player to explore Baseball Kingdom, tackle dozens of fun baseball challenges and unlock new characters that can be used in any mode. You can also play with your Mii characters in Exhibition, Toy Field and Minigame modes.</desc>
-		<image>./mixart/Mario Super Sluggers (USA) (En,Fr,Es).png</image>
-		<video>./snap/Mario Super Sluggers (USA) (En,Fr,Es).mp4</video>
-		<marquee>./wheel/Mario Super Sluggers (USA) (En,Fr,Es).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20080825T000000</releasedate>
-		<developer>Thunder Mountain</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Sports</genre>
-		<players>1-4</players>
-		<lang>en,es,fr</lang>
-		<region>eu</region>
-	</game>
 	<game id="8724">
 		<path>./Metroid - Other M (USA) (En,Fr,Es) (Rev 1).rvz</path>
 		<name>Metroid: Other M</name>
@@ -1622,131 +1358,6 @@ This new approach uses a new control scheme in which players use the Wii Remote 
 		<publisher>Nintendo</publisher>
 		<genre>Platform</genre>
 		<players>1</players>
-		<lang>en,es,fr</lang>
-		<region>eu</region>
-	</game>
-	<game id="10389">
-		<path>./Mr. Driller W (USA) (WiiWare).wad</path>
-		<name>Mr. Driller World</name>
-		<desc>Classic Arcade Action! Take on the challenge to master nonstop frantic, drilling mayhem!
-
-Mr. Driller W is the new and updated installment of the exciting, classic game challenging you with level upon level of frantic, underground, drilling action! Experience more than 20 varied stages and missions! Drill through a seemingly endless onslaught of colored blocks while avoiding falling obstacles and strategically managing your air supply. Multiple degrees of difficulty now challenge everyone from the first-time novice to the most hardcore Mr. Driller veteran. A playable tutorial will even help first-time players learn the game s rules quickly and easily! Vibrant graphics, addictive gameplay and loads of characters make this a modern twist on a gaming masterpiece!</desc>
-		<image>./mixart/Mr. Driller W (USA) (WiiWare).png</image>
-		<video>./snap/Mr. Driller W (USA) (WiiWare).mp4</video>
-		<marquee>./wheel/Mr. Driller W (USA) (WiiWare).png</marquee>
-		<releasedate>20090224T000000</releasedate>
-		<developer>Bandai Namco</developer>
-		<publisher>Bandai Namco</publisher>
-		<genre>Puzzle-Game</genre>
-		<md5>3d2a3c19fcaa66fd9446cd3638a14568</md5>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game id="9084">
-		<path>./NBA Jam (USA).rvz</path>
-		<name>NBA Jam</name>
-		<desc>Boomshakalaka! It?s baaaaaaaaack? EA SPORTS NBA JAM? revives the classic franchise with vintage NBA JAM gameplay, and all-new features that deliver a fresh new take on the game. Featuring the sights and sounds that fans of the franchise will instantly recognize, EA SPORTS NBA JAM mixes the old school with the new, to deliver a one-of-a-kind sports presentation on the Wii. Shoves, spins and of course, backboard smashing dunks take centre stage with classic two vs. two gameplay that lies at the core of NBA JAM. - Choose from all new motion controls, flip the controller on its side, or plug in the Classic Controller or Classic Controller Pro and jump in using classic controls and play with a roster of current NBA players, NBA legends and a few special appearances on the hardwood. With a distinct art style, NBA JAM brings photo realism to the Wii. Unmatched player likeness and reactions exaggerate the outrageous moves that make up the core JAM experience, elevating the already intense gameplay to new heights. With modes aplenty, classic JAM gameplay, and loads of characters and unlockables, you?ll see why the revival of NBA JAM is a slam dunk.Classic NBA JAM Gameplay ? Fast paced two on two action is what lies at the core of the NBA JAM experience. Take on a defender one on one, and pull a last minute spin as he goes to shove you. Throw an alley-oop to your teammate as he comes down with an on fire, backboard smashing dunk.Multiple Control Schemes?Whether you prefer to shoot using the Wii?s motion controls, or by pressing a button, NBA JAM gives gamers the chance option when it comes to control schemes. - Choose from motion controls, classic controls or plug in the Classic Controller or Classic Controller Pro, and dominate the hardwood on your termsTwo Campaign modes??Want to experience some nostalgia? - Then pop into Classic campaign mode to get exactly what you remember from NBA Jam. Looking for something a little bit different? Jump into the Remix Tour and experience an all-new twist on Jam ? choose your own path to glory as you participate in game modes that you might not expect and face off against some of the biggest legends in the sport.Player Likeness?Witness as the past and future collide in the visuals of NBA Jam. A distinct art style that screams Jam from the moment you boot up the game is mashed with the most realistic player likeness ever seen on the Wii (or perhaps on any console), creating a presentation that is unlike anything you?ve seen but yet is strangely familiarUnlock this or Unlock that ? Complete Jam Challenges to unlock game modes to characters, to secret teams and Special Courts, NBA Jam will feature a whole lot of content for you to unlock as you progress thru the game..Boss Battles?They are some of the greatest players to have ever played the game of basketball. They are legends that will not go down easy. They are standing in your way and you need to get by them. Jump into a unique take on the Jam franchise with boss battles. The best players doing what they do best. They will frustrate you with their skills, but you have to beat the best to be the best.All 30 NBA Teams and more??- The top three players, as chosen by the fans, from every NBA team in the are featured in NBA Jam, but that?s not all. Over 100 unlockable teams, characters, privileges, and mascots will also be playable.Tim Kitzrow ? The original voice that captured the attention of a nation is back voicing all the classic lines you remember from the original NBA JAM, as well as a host of new ones, including some created by fansMultiplayer Goodness ? Go at it alone or jump into the multiple multiplayer options available in NBA JAM. With two on two co-op play throughout the campaign mode, as well as two on two head-to-head competition, there are lots of ways to share the NBA JAM love.</desc>
-		<image>./mixart/NBA Jam (USA).png</image>
-		<video>./snap/NBA Jam (USA).mp4</video>
-		<marquee>./wheel/NBA Jam (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20101012T000000</releasedate>
-		<publisher>Electronic Arts</publisher>
-		<genre>Sports</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game id="8790">
-		<path>./Need for Speed - The Run (USA) (En,Fr,Es).rvz</path>
-		<name>Need for Speed: The Run</name>
-		<desc>Need for Speed The Run lures players into an underground world of illicit, high-stakes racing. The heat is on - and it isn t just the fuzz who are after you. Entering the race is just the beginning as you blow across borders, weave through dense urban traffic, rocket down icy mountain passes and navigate narrow canyons at breakneck speeds. Powered by DICE s state-of-the-art Frostbite 2 engine, Need for Speed The Run takes the action racing genre to new heights with stunning visuals and car physics that hug the road even at top speeds all built around a gripping storyline. The cars are hot, the racing is intense and the story will have you at the edge of your seatâ€¦ all the way from the Golden Gate Bridge to the Empire State building.</desc>
-		<image>./mixart/Need for Speed - The Run (USA) (En,Fr,Es).png</image>
-		<video>./snap/Need for Speed - The Run (USA) (En,Fr,Es).mp4</video>
-		<marquee>./wheel/Need for Speed - The Run (USA) (En,Fr,Es).png</marquee>
-		<rating>0.55</rating>
-		<developer>Firebrand Games</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Race, Driving</genre>
-		<lang>en,es,fr</lang>
-		<region>eu</region>
-	</game>
-	<game id="8896">
-		<path>./No More Heroes (USA) (En,Fr,Es).rvz</path>
-		<name>No More Heroes</name>
-		<desc>No More Heroes is the story of Travis Touchdown. He has received orders to kill a vagabond. In front of him appears the handsome assassin Helter Skelter. After a fierce skirmish, Travis eliminates Skelter, upon which Silvia Christel arrives. She informs Travis that his victory was done without UAA permission, but he nonetheless becomes the 11th best assassin. And so Travis?s journey begins. Using the unique characteristics of Nintendo Wii, No More Heroes will offer an exhilarating action experience, a thrilling scenario written by Suda51, and stylish visuals and sounds created by Grasshopper Manufacture Inc. Hack and Smash Your Way Through Santa Destroy, California: Unleash a lethal combination of sword slashes and wrestling moves in this fast paced third-person action game. Easy to learn, but challenging to master. Roam a Sand Box Universe in Full 3D: Immerse yourself in a modern, highly stylized world. Roam the city on foot or slide around corners on your speed bike. An Action Experience Unlike Any Other on Wii: Bring the pain and let your plasma-beam katana do the talking. You control the action with two Wii remote sensitive attack stances and an arsenal of close combat wrestling moves. Interactive Special Attacks and Over-The-Top Finishing Moves: Complete special moves by matching your Wii remote's movements to the cues on screen. The crazier you finish off your opponent, the more cash you'll earn for your efforts. Side Missions and Mini-Games: Complete side jobs for extra cash or just play them for fun. Features games like Pizza Delivery, Graffiti Blaster and Speed Bike Racing. Highly Stylized Environments and Gameplay: Features environments that are both stunning and stylish. Gameplay gives a nod to the classic arcade games of the 80's, as well as the games of tomorrow.</desc>
-		<image>./mixart/No More Heroes (USA) (En,Fr,Es).png</image>
-		<video>./snap/No More Heroes (USA) (En,Fr,Es).mp4</video>
-		<marquee>./wheel/No More Heroes (USA) (En,Fr,Es).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20080122T000000</releasedate>
-		<developer>Grasshopper Manufacture</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Fight</genre>
-		<players>1</players>
-		<lang>en,es,fr</lang>
-		<region>eu</region>
-	</game>
-	<game id="8851">
-		<path>./No More Heroes 2 - Desperate Struggle (USA) (En,Fr,Es).rvz</path>
-		<name>No More Heroes 2: Desperate Struggle</name>
-		<desc>Travis is back!Dual beam katanas! Slammin' wrestling moves! Giant robots! Coconuts! Chicks with short skirts and bad attitudes!No More Heroes 2: Desperate Struggle continues the tale of punk anti-hero Travis Touchdown, the Japanese anime Otaku, and pro wrestling-obsessed assassin. Travis finds himself at the bottom of the United Assassins Association (UAA) rankings and must wage war to become the No. 1 assassin once again.The follow-up to the popular No More Heroes offers fans infectious, fun gameplay that allows you to wield not just one but two swords and face multiple bosses simultaneously in bigger-than-ever boss battles.Features:* Fight 50 of the most original, deadly and downright crazy assassins* Shred your enemies with six types of beam katana* Embrace your wild side with the outrageous tiger metamorphosis.* Earn your money old school style with classic 2D job missions* Grapple your opponents with bone-crunching wrestling moves</desc>
-		<image>./mixart/No More Heroes 2 - Desperate Struggle (USA) (En,Fr,Es).png</image>
-		<video>./snap/No More Heroes 2 - Desperate Struggle (USA) (En,Fr,Es).mp4</video>
-		<marquee>./wheel/No More Heroes 2 - Desperate Struggle (USA) (En,Fr,Es).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20100528T000000</releasedate>
-		<developer>Grasshopper Manufacture</developer>
-		<publisher>Marvelous Interactive</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<lang>en,es,fr</lang>
-		<region>eu</region>
-	</game>
-	<game id="8815">
-		<path>./Pikmin 2 (USA) (En,Fr,Es).rvz</path>
-		<name>Pikmin 2</name>
-		<desc>Pikmin 2 sees Captain Olimar, now joined by his assistant Louie, return to the planet of Pikmin, motivated by that noblest of goals . treasure! Additional species of Pikmin, randomly generated dungeons and an exciting two-player battle mode make this much more than just a sequel. Packed with deft creative touches, Pikmin 2 strikes a beautiful balance between challenge and fun, and is even more charming than its classic predecessor.</desc>
-		<image>./mixart/Pikmin 2 (USA) (En,Fr,Es).png</image>
-		<video>./snap/Pikmin 2 (USA) (En,Fr,Es).mp4</video>
-		<marquee>./wheel/Pikmin 2 (USA) (En,Fr,Es).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20090424T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Strategy</genre>
-		<players>1-2</players>
-		<lang>en,es,fr</lang>
-		<region>eu</region>
-	</game>
-	<game id="8970">
-		<path>./Pokemon Rumble.wad</path>
-		<name>Pokémon Rumble</name>
-		<desc>Introducing a new kind of Pokémon challenge ? exclusive to WiiWare! Pokémon Rumble is an action game in which you control Toy Pokémon and battle against waves of enemy Pokémon in order to be the last Pokémon standing!Defeated Toy Pokémon can be added to your collection. Switch between collected Pokémon and use their abilities to defeat stronger Pokémon, and even compete in the Battle Royale and test your skills against many Pokémon at once.Up to four people can play at the same time, working together to take down tough Bosses and win the Battle Royale! You can even save your favourite Pokémon to your Wii Remote and bring them to a friend's house for exchanges or for multiplayer mayhem!Combining beautiful cel-shaded graphics and exciting gameplay features with the world of Pokémon, this is one Rumble you won't want to miss out on!</desc>
-		<image>./mixart/Pokemon Rumble.png</image>
-		<video>./snap/Pokemon Rumble.mp4</video>
-		<marquee>./wheel/Pokemon Rumble.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20091120T000000</releasedate>
-		<developer>Ambrella</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Simulation</genre>
-		<players>4</players>
-		<md5>bdec566d3d7de5f6cf9ad129437e73b6</md5>
-		<lang>en</lang>
-	</game>
-	<game id="8774">
-		<path>./Prince of Persia - The Forgotten Sands (USA) (En,Fr,Es) (Rev 1).rvz</path>
-		<name>Prince of Persia: The Forgotten Sands</name>
-		<desc>Prince of Persia: The Forgotten Sands is the next chapter in the fan-favorite Sands of Time universe. Visiting his brother s kingdom following his adventure in Azad, the Prince finds the royal palace under siege from a mighty army bent on its destruction. When the decision is made to use the ancient power of the Sand in a desperate gamble to save the kingdom from total annihilation, the Prince will embark on an epic adventure in which he will learn to bear the mantle of true leadership, and discover that great power often comes with a great cost.</desc>
-		<image>./mixart/Prince of Persia - The Forgotten Sands (USA) (En,Fr,Es) (Rev 1).png</image>
-		<video>./snap/Prince of Persia - The Forgotten Sands (USA) (En,Fr,Es) (Rev 1).mp4</video>
-		<marquee>./wheel/Prince of Persia - The Forgotten Sands (USA) (En,Fr,Es) (Rev 1).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20100520T000000</releasedate>
-		<publisher>Ubisoft</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
 		<lang>en,es,fr</lang>
 		<region>eu</region>
 	</game>
@@ -1876,19 +1487,6 @@ Zack &amp; Wiki: Quest for Barbaros  Treasure is presented as a series of stages
 		<genre>Adventure</genre>
 		<lang>en</lang>
 		<region>us</region>
-	</game>
-	<game>
-		<path>./New Play Control! Pikmin (USA) (En,Fr,Es).rvz</path>
-		<name>Pikmin</name>
-		<desc>Life under a microscope fantasy world, Pikmin delivers a unique experience like few before it with a blend of real-time strategy, adventure, and puzzle elements. You control Captain Olimar, a lovable little astronaut, who crash-landed on a planet inhabited by even more lovable little plant creatures known as Pikmin. Olimar can command these creatures RTS-style, assign them tasks, make them attack foes, and gather resources. The ultimate task is to rebuild Olimar's space ship before a 30-day time window elapses. Command lovable little creatures RTS-style Rebuild Olimar's space ship before a 30-day time window elapses</desc>
-		<image>./mixart/New Play Control! Pikmin (USA) (En,Fr,Es).png</image>
-		<video>./snap/New Play Control! Pikmin (USA) (En,Fr,Es).mp4</video>
-		<marquee>./wheel/New Play Control! Pikmin (USA) (En,Fr,Es).png</marquee>
-		<releasedate>20090309T000000</releasedate>
-		<developer>Nintendo EAD</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Strategy</genre>
-		<players>1</players>
 	</game>
 	<game>
 		<path>./Silent Hill - Shattered Memories (USA) (En,Fr,Es).rvz</path>
@@ -2992,39 +2590,6 @@ Online multiplayer: GoldenEye also features online multiplayer for up to 8 playe
 		<lang>en,fr</lang>
 		<region>eu</region>
 	</game>
-	<game id="9801" source="ScreenScraper.fr">
-		<path>./NASCAR Kart Racing (USA).cc.rvz</path>
-		<name>Nascar Kart Racing</name>
-		<desc>The game features fourteen real world NASCAR drivers and ten fictional drivers. The cover drivers are, from left to right, Carl Edwards, Kyle Busch, Dale Earnhardt Jr., Jeff Gordon, Tony Stewart, and Jimmie Johnson.</desc>
-		<image>./mixart/NASCAR Kart Racing (USA).cc.png</image>
-		<video>./snap/NASCAR Kart Racing (USA).cc.mp4</video>
-		<marquee>./wheel/NASCAR Kart Racing (USA).cc.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20090210T000000</releasedate>
-		<developer>EA Sports</developer>
-		<publisher>EA Sports</publisher>
-		<genre>Race, Driving</genre>
-		<players>4</players>
-		<genreid>1537</genreid>
-	</game>
-	<game id="9092">
-		<path>./Need for Speed - Nitro (USA) (En,Fr,Es).rvz</path>
-		<name>Need for Speed: Nitro</name>
-		<desc>Need for Speed: Nitro is an arcade style racing game that emphasizes speed and excitement over realism or vehicle tuning. The Wii version allows up to 4 players to race, with a maximum of 8 racers at once. The Wii version lets up to 4 racers compete in a drag race.
-
-Events feature different modes, namely circuits, team circuts, elimination races, drift challenges, speed trap challenges, drag challenges and time attacks. Career mode allows players to compete in several cups and build up a roster of vehicles, while Arcade Mode lets players immediately jump into a race with customized difficulty and race conditions.
-
-During races, police will attempt to block and ram racers, causing damage that will reduce the players  top speed and amount of nitro available. The game features power-up icons in the race that immediately repair vehicle damage or increase your opponents heat level. During a race, players are awarded "style points" based on performing powerslides and drafting, and nitro is recharged over time.</desc>
-		<image>./mixart/Need for Speed - Nitro (USA) (En,Fr,Es).png</image>
-		<video>./snap/Need for Speed - Nitro (USA) (En,Fr,Es).mp4</video>
-		<marquee>./wheel/Need for Speed - Nitro (USA) (En,Fr,Es).png</marquee>
-		<rating>0.6</rating>
-		<developer>EA Games</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Race, Driving</genre>
-		<lang>en,es,fr</lang>
-		<region>eu</region>
-	</game>
 	<game id="8885" source="ScreenScraper.fr">
 		<path>./Sin &amp; Punishment - Star Successor (USA).cc.rvz</path>
 		<name>Sin and Punishment: Successor of the Skies</name>
@@ -3226,6 +2791,460 @@ Meanwhile, Yin-Yarn captures King Dedede and Meta Knight and places them under h
 		<publisher>SEGA</publisher>
 		<genre>Action-Lightgun Shooter</genre>
 		<players>2-4</players>
+		<favorite>true</favorite>
+	</game>
+	<game id="9099">
+		<path>./La-Mulana (USA) (WiiWare).wad</path>
+		<name>La-mulana</name>
+		<desc>Are you ready to survive all types of traps and discover all the secrets of LA-MULANA?
+
+LA-MULANA is the most complete "archaeology action and exploration" game ever created.
+
+Take control of Professor Lemeza and his inseparable whip to discover the mysteries of Humanity!
+
+Face all types of traps, enemies and Guardians in the greatest adventure every created for WiiWare.
+
+In LA-MULANA you will explore vast temples and, most importantly, you will have the feeling of total immersion.
+
+Each mechanism, trap or puzzle you solve will be a great achievement.
+
+Features:
+
+- The best "archaeology action and exploration" game.
+- Over 40 hours of play.
+- Hundreds of puzzles and secrets to be discovered.
+- Wide variety of weapons and objects you can use.
+- Use the "Mobile Super X" computer to run help software.
+- Large quantity of enemies with spectacular guardians.</desc>
+		<image>./mixart/La-Mulana (USA) (WiiWare).png</image>
+		<video>./snap/La-Mulana (USA) (WiiWare).mp4</video>
+		<marquee>./wheel/La-Mulana (USA) (WiiWare).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20110621T000000</releasedate>
+		<developer>EnjoyUp Games</developer>
+		<publisher>Nigoro</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>022705c7952cc307b12526a5c8936303</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="8852">
+		<path>./Little King's Story (USA) (En,Fr,Es).rvz</path>
+		<name>Little King's Story</name>
+		<desc>Little King?s Story is an original title designed and developed by some of the most respected names in the gaming industry. Featuring the efforts of Yasuhiro Wada (Creator: Harvest Moon), Hideo Minaba (Art Director: Final Fantasy XII), and Youichi Kawaguchi (Main Programmer: Dragon Quest VIII), Little King?s Story combines life-simulation, real-time strategy, and adventure elements along with an enchanting storyline to offer a unique gaming experience.</desc>
+		<image>./mixart/Little King's Story (USA) (En,Fr,Es).png</image>
+		<video>./snap/Little King's Story (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/Little King's Story (USA) (En,Fr,Es).png</marquee>
+		<rating>1</rating>
+		<releasedate>20090424T000000</releasedate>
+		<developer>City Factory</developer>
+		<publisher>Rising Star Games</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="8793">
+		<path>./MadWorld (USA) (En,Fr,Es).rvz</path>
+		<name>Madworld</name>
+		<desc>From renowned developer PlatinumGames comes a highly stylized, over-the-top brawler created exclusively for the Wii. A terrorist group known as the Organizers has taken over Varrigan City, forcing all citizens into their insane "Death Watch" game, where "kill or be killed" is the only rule. As Jack, a mysterious game participant, you will use imaginative tactics to pummel opponents and battle in vicious hand-to-hand combat with daggers, bats, chainsaws and more using the arcade-style controls of the Wii Remote. The bloodiest, most creative kills earn the most points and increase the chances that Jack can save the terrorized city ? let the games begin!</desc>
+		<image>./mixart/MadWorld (USA) (En,Fr,Es).png</image>
+		<video>./snap/MadWorld (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/MadWorld (USA) (En,Fr,Es).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20090320T000000</releasedate>
+		<developer>Platinum Games</developer>
+		<publisher>SEGA</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="8779">
+		<path>./Mario Party 8 (USA, Asia) (Rev 2).rvz</path>
+		<name>Mario Party 8</name>
+		<desc>Mario and friends are invited to the Star Carnival. Of course, they are thrilled to join. Whoever wins the main event, the Star Battle, receives a year's supply of candy. To win they must play through board games against each other. Mario and pals can also choose to play a more traditional party (much like other Mario Party games).
+
+In the first Mario Party game for Wii, the basic rules are the same: players still compete to win stars. However, the mini-games have been completely revamped to take advantage of the Wii remote. For example, some have players point the remote at the screen to shoot guns or other such things. Other mini-games use the motion sensor to shake soda cans, cut logs in half, hammer nails in place, paint, fly planes, drive cars, etc. There are still others that are played more traditionally by holding the Wii remote on its side and using the control pad to move and the buttons to perform actions, such as jumping and/or punching.
+
+Players can choose between five different modes: Party Tent, Star Battle, Mini-games, Extras Zone, or Fun Bazaar. In Party Tent mode, players play on boards with a choice between battle royales, teams, or duels. In a Battle Royale, people compete for stars: the winner is determined by number of stars and/or coins after a certain amount of turns. In Team Battle, players split off into teams. And in a duel, two players compete against each other.
+
+Star Battle is basically a duel on each board against different characters (for one player). The player wins each board by completing a certain task. For instance, the player must collect so many stars on some boards. For other boards, he or she has to get to the star with a certain amount of coins.</desc>
+		<image>./mixart/Mario Party 8 (USA, Asia) (Rev 2).png</image>
+		<video>./snap/Mario Party 8 (USA, Asia) (Rev 2).mp4</video>
+		<marquee>./wheel/Mario Party 8 (USA, Asia) (Rev 2).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20070529T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Casual Game</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="8728">
+		<path>./Mario Party 9 (USA, Asia) (En,Fr,Es).rvz</path>
+		<name>Mario Party 9</name>
+		<desc>Grab your friends and family and captain the crew to victory!The party is back and bigger than ever in the Mario Party? 9 game for Wii, featuring all-new ways to play! For the first time in the franchise, boss battles crash the party and challenge players to compete to defeat a common enemy. In addition, players now travel across stages together in a vehicle towards a common goal - overcoming obstacles, battling bosses, and collecting Mini Stars stolen by Bowser? and his minions. Featuring 80 new minigames, adventurous new stages, and all-new ways to play that blend cooperative and competitive action for up to four players, Mario Party 9 is the perfect way to get the party started.</desc>
+		<image>./mixart/Mario Party 9 (USA, Asia) (En,Fr,Es).png</image>
+		<video>./snap/Mario Party 9 (USA, Asia) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/Mario Party 9 (USA, Asia) (En,Fr,Es).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20120302T000000</releasedate>
+		<developer>Nd Cube Co., Ltd</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Board game</genre>
+		<players>2-4</players>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="8906">
+		<path>./Mario Power Tennis (USA) (En,Fr,Es).rvz</path>
+		<name>Mario Power Tennis</name>
+		<desc>Mario Power Tennis on Wii features characters from the mustachioed plumber universe. They are all back with always powerful blows and actions proper to each. Throw bananas like Donkey Kong-style boomerangs and send the ball back with Mario's hammer! In addition to classic matches, find a wide variety of mini-games related to tennis!</desc>
+		<image>./mixart/Mario Power Tennis (USA) (En,Fr,Es).png</image>
+		<video>./snap/Mario Power Tennis (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/Mario Power Tennis (USA) (En,Fr,Es).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>4</players>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="8777">
+		<path>./Mario Strikers Charged (USA) (En,Fr,Es) (Rev 1).rvz</path>
+		<name>Mario Strikers Charged Football</name>
+		<desc>Supercharged Characters! - The captains from Super Mario Strikers are back, joined by four new ones, and now you can create your own original team by mixing and matching your captain with an all-new cast of sidekicks. All characters have their own sets of special abilities, making each one play completely differently from one another. New captain super-abilities and sidekick skill-shots add a new level of depth to already crazy soccer battles on the most unpredictable and hazard-filled pitches in the Mario universe. Each field features its own set of interactive hazards that alter game play over the course of the game. **Nintendo Wi-Fi Connection Game Play! - There are tons of new single-player modes, from tournaments to challenges to tutorials, but the game truly shines in multiplayer. The game features a robust multiplayer mode?up to four players can battle locally, or they can go online in each specific sales territory for one-on-one matches. **Kickin' Wii Controls! - Building on the frantic fun of Super Mario Strikers, this game gets you into action only possible on the Wii. Primary game play controls use both the Wii Remote and Nunchuck controllers. Use the Nunchuk to control your characters and deploy items. Flick the Wii Remote to perform the defensive "Big Hit" move and flatten foes. To defend against a "Mega Strike" goal attempt, use the Wii Remote to point at the screen and manually defend against multiple balls as they rocket towards the screen!</desc>
+		<image>./mixart/Mario Strikers Charged (USA) (En,Fr,Es) (Rev 1).png</image>
+		<video>./snap/Mario Strikers Charged (USA) (En,Fr,Es) (Rev 1).mp4</video>
+		<marquee>./wheel/Mario Strikers Charged (USA) (En,Fr,Es) (Rev 1).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20070525T000000</releasedate>
+		<developer>Next Level Games</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>4</players>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="9038">
+		<path>./Mario Super Sluggers (USA) (En,Fr,Es).rvz</path>
+		<name>Mario Super Sluggers</name>
+		<desc>Mario Super Sluggers stars the ever-lovable Mario and his crew of friends. Players make a throwing motion with the Wii Remote controller to pitch the Newcomers to gaming or sports titles will be up and running on Mario Super Sluggers in no time. Simply swing the Wii Remote to smack a home run, or use a pitching motion to toss the ball over the plate. Two, three or four players can pick up Wii Remote controllers and challenge one another to a full baseball game or compete in a host of baseball-themed mini-games. There?s even a home run hitting contest. Mario Super Sluggers boasts more than 40 playable characters, all Nintendo favorites. The single-player adventure mode allows the player to explore Baseball Kingdom, tackle dozens of fun baseball challenges and unlock new characters that can be used in any mode. You can also play with your Mii characters in Exhibition, Toy Field and Minigame modes.</desc>
+		<image>./mixart/Mario Super Sluggers (USA) (En,Fr,Es).png</image>
+		<video>./snap/Mario Super Sluggers (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/Mario Super Sluggers (USA) (En,Fr,Es).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20080825T000000</releasedate>
+		<developer>Thunder Mountain</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>4</players>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="9476" source="ScreenScraper.fr">
+		<path>./Mega Man 10 (USA) (WiiWare).wad</path>
+		<name>Mega Man 10</name>
+		<desc>20XX. A virus called Roboenza starts infecting robots, rendering them useless. Humankind would be helpless enough without the aid of their robot assistants - but the worst is yet to come! The second phase of the illness causes the infected robots to turn against their masters and try to take over the world! Dr. Wily claims to have built a medicine making machine to cure the epidemic, but it has been stolen by the berserk robots. Mega Man must fight eight violent robots to retrieve the machine and save the world.
+
+Mega Man 10 retains the 8-bitish graphical style and gameplay of its predecessor Mega Man 9 and the old NES titles. The player must again jump, run and shoot his way through 8 stages filled with robotic enemies, destroy the Robot Master at the end of the stage and take his weapon to be used against further enemies.
+
+Mega Man still can't slide or charge his weapon as he could in Mega Man 3 and 4, respectively, but you can also play as Proto Man who has both of these abilities as well as his trademark shield to block projectiles - however, Proto Man takes twice as much damage from enemy attacks. Bass will also be playable character via downloadable content, and will be able to aim his gun at 45-degree angles.
+
+Like Mega Man 9, this game also features a Time Attack mode and Challenges, where the player must race against the clock or beat the game under certain conditions, such as never dying or beating all the bosses using only the standard Mega Buster weapon. The game also has separate Challenge Rooms, where the player must clear a room under different conditions given at the beginning of the Challenge.</desc>
+		<image>./mixart/Mega Man 10 (USA) (WiiWare).png</image>
+		<video>./snap/Mega Man 10 (USA) (WiiWare).mp4</video>
+		<marquee>./wheel/Mega Man 10 (USA) (WiiWare).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20100101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action-Platform</genre>
+		<players>1</players>
+		<genreid>257</genreid>
+	</game>
+	<game id="9440" source="ScreenScraper.fr">
+		<path>./Mega Man 9 (USA) (WiiWare).wad</path>
+		<name>Mega Man 9 : The Ambition's Revival</name>
+		<desc>Mega Man 9 brings the series back to its old school roots with retro gameplay, music and classic 8-bit style graphics! 
+ 
+Mega Man fans, your wait is over! The classic Blue Bomber that debuted in 1987 is back with the ninth installment in the classic series. It s a new adventure for Mega Man all done in an 8-bit style -- graphics, music, and gameplay are all like you remember them!</desc>
+		<image>./mixart/Mega Man 9 (USA) (WiiWare).png</image>
+		<video>./snap/Mega Man 9 (USA) (WiiWare).mp4</video>
+		<marquee>./wheel/Mega Man 9 (USA) (WiiWare).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20080922T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<genreid>257</genreid>
+	</game>
+	<game id="8704" source="ScreenScraper.fr">
+		<path>./Monster Hunter Tri (USA).cc.rvz</path>
+		<name>Monster Hunter Tri</name>
+		<desc>Monster Hunter Tri depicts an ecosystem where man co-exists with fantastic beasts that roam both the land and the sea. Featuring both online and offline cooperative modes, players can join online hunting parties with up to four players or play with two players on a single TV for select quests. Players also have the option to face Monster Hunter Tri s quests as a single player experience accompanied by Cha-Cha, an AI hunting partner whose tracking and trapping skills will prove invaluable in the hunt.</desc>
+		<image>./mixart/Monster Hunter Tri (USA).cc.png</image>
+		<video>./snap/Monster Hunter Tri (USA).cc.mp4</video>
+		<marquee>./wheel/Monster Hunter Tri (USA).cc.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20100423T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Role playing games</genre>
+		<genreid>768</genreid>
+	</game>
+	<game id="10389">
+		<path>./Mr. Driller W (USA) (WiiWare).wad</path>
+		<name>Mr. Driller World</name>
+		<desc>Classic Arcade Action! Take on the challenge to master nonstop frantic, drilling mayhem!
+
+Mr. Driller W is the new and updated installment of the exciting, classic game challenging you with level upon level of frantic, underground, drilling action! Experience more than 20 varied stages and missions! Drill through a seemingly endless onslaught of colored blocks while avoiding falling obstacles and strategically managing your air supply. Multiple degrees of difficulty now challenge everyone from the first-time novice to the most hardcore Mr. Driller veteran. A playable tutorial will even help first-time players learn the game s rules quickly and easily! Vibrant graphics, addictive gameplay and loads of characters make this a modern twist on a gaming masterpiece!</desc>
+		<image>./mixart/Mr. Driller W (USA) (WiiWare).png</image>
+		<video>./snap/Mr. Driller W (USA) (WiiWare).mp4</video>
+		<marquee>./wheel/Mr. Driller W (USA) (WiiWare).png</marquee>
+		<releasedate>20090224T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Puzzle-Game</genre>
+		<md5>3d2a3c19fcaa66fd9446cd3638a14568</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="8762" source="ScreenScraper.fr">
+		<path>./Muramasa - The Demon Blade (USA).cc.rvz</path>
+		<name>Muramasa: The Demon Blade</name>
+		<desc>Based on ancient Japanese lore, Muramasa: The Demon Blade plunges players into the mystical Genroku era, ruled by the skilled shogun Tsunayoshi Tokogawa. But this culture is threatened; Tokogawa's thirst for power leads to a conflict over the enormously powerful, though cursed, Demon Blades. Used in hatred, drenched in blood, the cursed blades condemn those who use them to tragedy, madness and ultimately deaths. As chaos spreads, denizens from the netherworld breach their realm as these malevolent swords summon evil spirits - and the Dragon and Demon Gods as well. Featuring hand-drawn 2D art reflecting the heritage and tone of the storyline, Muramasa transports plauers into a little known mythology, envisioned by the creators of the critically acclaimed Odin Sphere. Players take on the role of a male ninja or female kunoichi, utilising their ninja prowess to traverse the clever side-scrolling levels that feature vertical progression as well as the traditional horizontal stage advancement.Features:* From the subtle movements of a character's clothes to their explosive battle animations, every detail is expertly animated by hand for amazing visuals* Playing as a male ninja or female kunoichi, a wide variety of ninja skills are at your disposal as you progress through levels horizontally and vertically* Gameplay transitions seamlessly from player-controlled elements to story sequences to keep the player engaged within the world* Take a journey through a tale influenced by the lesser-told, but equally rich and mysterious, Japanese mythology</desc>
+		<image>./mixart/Muramasa - The Demon Blade (USA).cc.png</image>
+		<video>./snap/Muramasa - The Demon Blade (USA).cc.mp4</video>
+		<marquee>./wheel/Muramasa - The Demon Blade (USA).cc.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20091113T000000</releasedate>
+		<developer>Vanillaware</developer>
+		<publisher>Rising Star Games</publisher>
+		<genre>Adventure-Action-Beat'em Up</genre>
+		<players>1</players>
+		<genreid>263</genreid>
+	</game>
+	<game id="9801" source="ScreenScraper.fr">
+		<path>./NASCAR Kart Racing (USA).cc.rvz</path>
+		<name>Nascar Kart Racing</name>
+		<desc>The game features fourteen real world NASCAR drivers and ten fictional drivers. The cover drivers are, from left to right, Carl Edwards, Kyle Busch, Dale Earnhardt Jr., Jeff Gordon, Tony Stewart, and Jimmie Johnson.</desc>
+		<image>./mixart/NASCAR Kart Racing (USA).cc.png</image>
+		<video>./snap/NASCAR Kart Racing (USA).cc.mp4</video>
+		<marquee>./wheel/NASCAR Kart Racing (USA).cc.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20090210T000000</releasedate>
+		<developer>EA Sports</developer>
+		<publisher>EA Sports</publisher>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+		<genreid>1537</genreid>
+	</game>
+	<game id="9084">
+		<path>./NBA Jam (USA).rvz</path>
+		<name>NBA Jam</name>
+		<desc>Boomshakalaka! It?s baaaaaaaaack? EA SPORTS NBA JAM? revives the classic franchise with vintage NBA JAM gameplay, and all-new features that deliver a fresh new take on the game. Featuring the sights and sounds that fans of the franchise will instantly recognize, EA SPORTS NBA JAM mixes the old school with the new, to deliver a one-of-a-kind sports presentation on the Wii. Shoves, spins and of course, backboard smashing dunks take centre stage with classic two vs. two gameplay that lies at the core of NBA JAM. - Choose from all new motion controls, flip the controller on its side, or plug in the Classic Controller or Classic Controller Pro and jump in using classic controls and play with a roster of current NBA players, NBA legends and a few special appearances on the hardwood. With a distinct art style, NBA JAM brings photo realism to the Wii. Unmatched player likeness and reactions exaggerate the outrageous moves that make up the core JAM experience, elevating the already intense gameplay to new heights. With modes aplenty, classic JAM gameplay, and loads of characters and unlockables, you?ll see why the revival of NBA JAM is a slam dunk.Classic NBA JAM Gameplay ? Fast paced two on two action is what lies at the core of the NBA JAM experience. Take on a defender one on one, and pull a last minute spin as he goes to shove you. Throw an alley-oop to your teammate as he comes down with an on fire, backboard smashing dunk.Multiple Control Schemes?Whether you prefer to shoot using the Wii?s motion controls, or by pressing a button, NBA JAM gives gamers the chance option when it comes to control schemes. - Choose from motion controls, classic controls or plug in the Classic Controller or Classic Controller Pro, and dominate the hardwood on your termsTwo Campaign modes??Want to experience some nostalgia? - Then pop into Classic campaign mode to get exactly what you remember from NBA Jam. Looking for something a little bit different? Jump into the Remix Tour and experience an all-new twist on Jam ? choose your own path to glory as you participate in game modes that you might not expect and face off against some of the biggest legends in the sport.Player Likeness?Witness as the past and future collide in the visuals of NBA Jam. A distinct art style that screams Jam from the moment you boot up the game is mashed with the most realistic player likeness ever seen on the Wii (or perhaps on any console), creating a presentation that is unlike anything you?ve seen but yet is strangely familiarUnlock this or Unlock that ? Complete Jam Challenges to unlock game modes to characters, to secret teams and Special Courts, NBA Jam will feature a whole lot of content for you to unlock as you progress thru the game..Boss Battles?They are some of the greatest players to have ever played the game of basketball. They are legends that will not go down easy. They are standing in your way and you need to get by them. Jump into a unique take on the Jam franchise with boss battles. The best players doing what they do best. They will frustrate you with their skills, but you have to beat the best to be the best.All 30 NBA Teams and more??- The top three players, as chosen by the fans, from every NBA team in the are featured in NBA Jam, but that?s not all. Over 100 unlockable teams, characters, privileges, and mascots will also be playable.Tim Kitzrow ? The original voice that captured the attention of a nation is back voicing all the classic lines you remember from the original NBA JAM, as well as a host of new ones, including some created by fansMultiplayer Goodness ? Go at it alone or jump into the multiple multiplayer options available in NBA JAM. With two on two co-op play throughout the campaign mode, as well as two on two head-to-head competition, there are lots of ways to share the NBA JAM love.</desc>
+		<image>./mixart/NBA Jam (USA).png</image>
+		<video>./snap/NBA Jam (USA).mp4</video>
+		<marquee>./wheel/NBA Jam (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20101012T000000</releasedate>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="9092">
+		<path>./Need for Speed - Nitro (USA) (En,Fr,Es).rvz</path>
+		<name>Need for Speed: Nitro</name>
+		<desc>Need for Speed: Nitro is an arcade style racing game that emphasizes speed and excitement over realism or vehicle tuning. The Wii version allows up to 4 players to race, with a maximum of 8 racers at once. The Wii version lets up to 4 racers compete in a drag race.
+
+Events feature different modes, namely circuits, team circuts, elimination races, drift challenges, speed trap challenges, drag challenges and time attacks. Career mode allows players to compete in several cups and build up a roster of vehicles, while Arcade Mode lets players immediately jump into a race with customized difficulty and race conditions.
+
+During races, police will attempt to block and ram racers, causing damage that will reduce the players  top speed and amount of nitro available. The game features power-up icons in the race that immediately repair vehicle damage or increase your opponents heat level. During a race, players are awarded "style points" based on performing powerslides and drafting, and nitro is recharged over time.</desc>
+		<image>./mixart/Need for Speed - Nitro (USA) (En,Fr,Es).png</image>
+		<video>./snap/Need for Speed - Nitro (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/Need for Speed - Nitro (USA) (En,Fr,Es).png</marquee>
+		<rating>0.6</rating>
+		<developer>EA Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Race, Driving</genre>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="8790">
+		<path>./Need for Speed - The Run (USA) (En,Fr,Es).rvz</path>
+		<name>Need for Speed: The Run</name>
+		<desc>Need for Speed The Run lures players into an underground world of illicit, high-stakes racing. The heat is on - and it isn t just the fuzz who are after you. Entering the race is just the beginning as you blow across borders, weave through dense urban traffic, rocket down icy mountain passes and navigate narrow canyons at breakneck speeds. Powered by DICE s state-of-the-art Frostbite 2 engine, Need for Speed The Run takes the action racing genre to new heights with stunning visuals and car physics that hug the road even at top speeds all built around a gripping storyline. The cars are hot, the racing is intense and the story will have you at the edge of your seatâ€¦ all the way from the Golden Gate Bridge to the Empire State building.</desc>
+		<image>./mixart/Need for Speed - The Run (USA) (En,Fr,Es).png</image>
+		<video>./snap/Need for Speed - The Run (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/Need for Speed - The Run (USA) (En,Fr,Es).png</marquee>
+		<rating>0.55</rating>
+		<developer>Firebrand Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Race, Driving</genre>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="9141" source="ScreenScraper.fr">
+		<path>./Nights - Journey of Dreams (USA) (En,Ja,Fr,De,Es,It).cc.rvz</path>
+		<name>NiGHTS: Journey of Dreams</name>
+		<desc>This time around, however, Nights takes a bit of a different turn. Keeping in line with the "world of dreams" theme . it wouldn t be Nights without it . players will take control of Will and Helen, two young children each entering into Nightopia (the world of dreams) with their own back-story, emotional baggage, and inner demons that come to life though the forming of nightmares. It s a pretty simple concept overall, and with each child s five main levels you ll get a different piece of the story leading up to the same grand finale. Once they arrive in the land of dreams, each character meets up with a Nights almost instantaneously, and from there learns to meld with the mysterious creature and fly through the world of Nightopia. Along the way you ll learn of the quest to find the hidden Ideya (basically essences of the human spirit), and eventually attempt to defeat a powerful god-like creature named Wizeman and his right-hand man Reala.</desc>
+		<image>./mixart/Nights - Journey of Dreams (USA) (En,Ja,Fr,De,Es,It).cc.png</image>
+		<video>./snap/Nights - Journey of Dreams (USA) (En,Ja,Fr,De,Es,It).cc.mp4</video>
+		<marquee>./wheel/Nights - Journey of Dreams (USA) (En,Ja,Fr,De,Es,It).cc.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20071218T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<genre>Action-Platform</genre>
+		<players>2</players>
+		<genreid>257</genreid>
+	</game>
+	<game id="8896">
+		<path>./No More Heroes (USA) (En,Fr,Es).rvz</path>
+		<name>No More Heroes</name>
+		<desc>No More Heroes is the story of Travis Touchdown. He has received orders to kill a vagabond. In front of him appears the handsome assassin Helter Skelter. After a fierce skirmish, Travis eliminates Skelter, upon which Silvia Christel arrives. She informs Travis that his victory was done without UAA permission, but he nonetheless becomes the 11th best assassin. And so Travis?s journey begins. Using the unique characteristics of Nintendo Wii, No More Heroes will offer an exhilarating action experience, a thrilling scenario written by Suda51, and stylish visuals and sounds created by Grasshopper Manufacture Inc. Hack and Smash Your Way Through Santa Destroy, California: Unleash a lethal combination of sword slashes and wrestling moves in this fast paced third-person action game. Easy to learn, but challenging to master. Roam a Sand Box Universe in Full 3D: Immerse yourself in a modern, highly stylized world. Roam the city on foot or slide around corners on your speed bike. An Action Experience Unlike Any Other on Wii: Bring the pain and let your plasma-beam katana do the talking. You control the action with two Wii remote sensitive attack stances and an arsenal of close combat wrestling moves. Interactive Special Attacks and Over-The-Top Finishing Moves: Complete special moves by matching your Wii remote's movements to the cues on screen. The crazier you finish off your opponent, the more cash you'll earn for your efforts. Side Missions and Mini-Games: Complete side jobs for extra cash or just play them for fun. Features games like Pizza Delivery, Graffiti Blaster and Speed Bike Racing. Highly Stylized Environments and Gameplay: Features environments that are both stunning and stylish. Gameplay gives a nod to the classic arcade games of the 80's, as well as the games of tomorrow.</desc>
+		<image>./mixart/No More Heroes (USA) (En,Fr,Es).png</image>
+		<video>./snap/No More Heroes (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/No More Heroes (USA) (En,Fr,Es).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20080122T000000</releasedate>
+		<developer>Grasshopper Manufacture</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Fight</genre>
+		<players>1</players>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./New Play Control! Pikmin (USA) (En,Fr,Es).rvz</path>
+		<name>Pikmin</name>
+		<desc>Life under a microscope fantasy world, Pikmin delivers a unique experience like few before it with a blend of real-time strategy, adventure, and puzzle elements. You control Captain Olimar, a lovable little astronaut, who crash-landed on a planet inhabited by even more lovable little plant creatures known as Pikmin. Olimar can command these creatures RTS-style, assign them tasks, make them attack foes, and gather resources. The ultimate task is to rebuild Olimar's space ship before a 30-day time window elapses. Command lovable little creatures RTS-style Rebuild Olimar's space ship before a 30-day time window elapses</desc>
+		<image>./mixart/New Play Control! Pikmin (USA) (En,Fr,Es).png</image>
+		<video>./snap/New Play Control! Pikmin (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/New Play Control! Pikmin (USA) (En,Fr,Es).png</marquee>
+		<releasedate>20090309T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+	</game>
+	<game id="8851">
+		<path>./No More Heroes 2 - Desperate Struggle (USA) (En,Fr,Es).rvz</path>
+		<name>No More Heroes 2: Desperate Struggle</name>
+		<desc>Travis is back!Dual beam katanas! Slammin' wrestling moves! Giant robots! Coconuts! Chicks with short skirts and bad attitudes!No More Heroes 2: Desperate Struggle continues the tale of punk anti-hero Travis Touchdown, the Japanese anime Otaku, and pro wrestling-obsessed assassin. Travis finds himself at the bottom of the United Assassins Association (UAA) rankings and must wage war to become the No. 1 assassin once again.The follow-up to the popular No More Heroes offers fans infectious, fun gameplay that allows you to wield not just one but two swords and face multiple bosses simultaneously in bigger-than-ever boss battles.Features:* Fight 50 of the most original, deadly and downright crazy assassins* Shred your enemies with six types of beam katana* Embrace your wild side with the outrageous tiger metamorphosis.* Earn your money old school style with classic 2D job missions* Grapple your opponents with bone-crunching wrestling moves</desc>
+		<image>./mixart/No More Heroes 2 - Desperate Struggle (USA) (En,Fr,Es).png</image>
+		<video>./snap/No More Heroes 2 - Desperate Struggle (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/No More Heroes 2 - Desperate Struggle (USA) (En,Fr,Es).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20100528T000000</releasedate>
+		<developer>Grasshopper Manufacture</developer>
+		<publisher>Marvelous Interactive</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="9288" source="ScreenScraper.fr">
+		<path>./Opoona (USA).cc.rvz</path>
+		<name>Opoona</name>
+		<desc>While on an interplanetary family vacation, the young boy Opoona crash lands on Planet Landroll after his spaceship is involved in a mysterious accident. Separated from his family, Opoona is forced to live alone. On the planet, Opoona must find a job, search for his siblings, and defend himself and the people of Landroll against creatures known as the Dark Rogues. Luckily for Opoona, he is the descendant of a long line of warriors known as the Cosmo Guards. Thus, Opoona?s adventure begins as he struggles to establish a new life and reunite his family.The game?s action-oriented battle system lets players use powerful ?Energy Bonbons? against their enemies. Using just the Nunchuk, players can manipulate an Energy Bonbon?s trajectory in a number of different ways. All of Opoona?s commands are also controlled by the Nunchuk, to allow a complete ?single-hand control? of the game.Opoona is not just about battling; it is a ?Lifestyle RPG.? As Opoona, players must adapt to a new environment, meet new people, and contribute to society through work, all while becoming aware of the precious world and people around him. As the game progresses, Opoona will develop relationships and uncover a broader range of activities including new jobs and clues to new adventures.</desc>
+		<image>./mixart/Opoona (USA).cc.png</image>
+		<video>./snap/Opoona (USA).cc.mp4</video>
+		<marquee>./wheel/Opoona (USA).cc.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20080912T000000</releasedate>
+		<developer>Artepiazza</developer>
+		<publisher>Koei</publisher>
+		<genre>Role playing games-Adventure</genre>
+		<players>1</players>
+		<genreid>768</genreid>
+	</game>
+	<game id="8815">
+		<path>./Pikmin 2 (USA) (En,Fr,Es).rvz</path>
+		<name>Pikmin 2</name>
+		<desc>Pikmin 2 sees Captain Olimar, now joined by his assistant Louie, return to the planet of Pikmin, motivated by that noblest of goals . treasure! Additional species of Pikmin, randomly generated dungeons and an exciting two-player battle mode make this much more than just a sequel. Packed with deft creative touches, Pikmin 2 strikes a beautiful balance between challenge and fun, and is even more charming than its classic predecessor.</desc>
+		<image>./mixart/Pikmin 2 (USA) (En,Fr,Es).png</image>
+		<video>./snap/Pikmin 2 (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/Pikmin 2 (USA) (En,Fr,Es).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20090424T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy</genre>
+		<players>2</players>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="8970">
+		<path>./Pokemon Rumble.wad</path>
+		<name>Pokémon Rumble</name>
+		<desc>Introducing a new kind of Pokémon challenge ? exclusive to WiiWare! Pokémon Rumble is an action game in which you control Toy Pokémon and battle against waves of enemy Pokémon in order to be the last Pokémon standing!Defeated Toy Pokémon can be added to your collection. Switch between collected Pokémon and use their abilities to defeat stronger Pokémon, and even compete in the Battle Royale and test your skills against many Pokémon at once.Up to four people can play at the same time, working together to take down tough Bosses and win the Battle Royale! You can even save your favourite Pokémon to your Wii Remote and bring them to a friend's house for exchanges or for multiplayer mayhem!Combining beautiful cel-shaded graphics and exciting gameplay features with the world of Pokémon, this is one Rumble you won't want to miss out on!</desc>
+		<image>./mixart/Pokemon Rumble.png</image>
+		<video>./snap/Pokemon Rumble.mp4</video>
+		<marquee>./wheel/Pokemon Rumble.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20091120T000000</releasedate>
+		<developer>Ambrella</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Simulation</genre>
+		<players>4</players>
+		<md5>bdec566d3d7de5f6cf9ad129437e73b6</md5>
+		<lang>en</lang>
+	</game>
+	<game id="8774">
+		<path>./Prince of Persia - The Forgotten Sands (USA) (En,Fr,Es) (Rev 1).rvz</path>
+		<name>Prince of Persia: The Forgotten Sands</name>
+		<desc>Prince of Persia: The Forgotten Sands is the next chapter in the fan-favorite Sands of Time universe. Visiting his brother s kingdom following his adventure in Azad, the Prince finds the royal palace under siege from a mighty army bent on its destruction. When the decision is made to use the ancient power of the Sand in a desperate gamble to save the kingdom from total annihilation, the Prince will embark on an epic adventure in which he will learn to bear the mantle of true leadership, and discover that great power often comes with a great cost.</desc>
+		<image>./mixart/Prince of Persia - The Forgotten Sands (USA) (En,Fr,Es) (Rev 1).png</image>
+		<video>./snap/Prince of Persia - The Forgotten Sands (USA) (En,Fr,Es) (Rev 1).mp4</video>
+		<marquee>./wheel/Prince of Persia - The Forgotten Sands (USA) (En,Fr,Es) (Rev 1).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20100520T000000</releasedate>
+		<publisher>Ubisoft</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="10220" source="ScreenScraper.fr">
+		<path>./Pulseman.wad</path>
+		<name>Pulseman</name>
+		<desc>Pulseman is an electric hero who was created to fight cyber crime. Combat the galaxy gang throughout 7 stages with around 50 levels. Pulseman is best described as a fusion between the gameplay of Sonic the Hedgehog and Mega Man in ways of gameplay.</desc>
+		<image>./mixart/Pulseman.png</image>
+		<video>./snap/Pulseman.mp4</video>
+		<marquee>./wheel/Pulseman.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20090703T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>Sega</publisher>
+		<genre>Action-Platform</genre>
+		<players>1</players>
+	</game>
+	<game id="8812" source="ScreenScraper.fr">
+		<path>./Fragile Dreams - Farewell Ruins of the Moon (USA) (En,Ja,Fr).rvz</path>
+		<name>Fragile Dreams : Farewell Ruins of the Moon</name>
+		<desc>Fragile Dreams takes place after an apocalyptic event that wiped out most of mankind. Young Seto finds a note from his deceased grandfather urging him to travel to the red tower that lights up the night sky. Along the way he finds a young, silver haired girl Ren who drives him to journey through the ruined world in search of companionship. 
+ 
+Fragile Dreams: Farewell Ruins of the Moon is an action-adventure game with light RPG elements and a focus on exploring the often desolate surroundings. Players are tasked with navigating the empty environments while fighting ghosts and obtaining items such as sketches and short stories that reveal the last moments of the lives of those lost in the great catastrophe. Seto is guided through a third-person perspective and the flashlight is one of his most important aids. Controlled through the Wii Remote it illuminates dark surroundings to interact with the environment and is needed to solve many puzzles. It can also uncover hidden enemies and often a sound through the mini speaker provides a hint about their location. 
+ 
+The Nunchuck is used to walk, sneak around, and crouch. It is possible to go into a first-person perspective to get a better view of the environment. Additional weapons that can be picked up during the course of the game are sticks, an iron pipe, a bow, a hammer, a bamboo sword, and a katana.</desc>
+		<image>./mixart/Fragile Dreams - Farewell Ruins of the Moon (USA) (En,Ja,Fr).png</image>
+		<video>./snap/Fragile Dreams - Farewell Ruins of the Moon (USA) (En,Ja,Fr).mp4</video>
+		<marquee>./wheel/Fragile Dreams - Farewell Ruins of the Moon (USA) (En,Ja,Fr).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20100316T000000</releasedate>
+		<developer>Xseed Games</developer>
+		<publisher>Rising Star Games</publisher>
+		<genre>Role playing games-Adventure-Action</genre>
+		<players>1</players>
 		<favorite>true</favorite>
 	</game>
 </gameList>
