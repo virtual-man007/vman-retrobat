@@ -1,241 +1,5 @@
 <?xml version="1.0"?>
 <gameList>
-	<game id="8701" source="ScreenScraper.fr">
-		<path>./Animal Crossing - City Folk [NTSC-U].cc.rvz</path>
-		<name>Animal Crossing: City Folk</name>
-		<desc>If life were an endless vacation, what would you do? Go fishing, collect shells or watch fireworks with friends? Build a snowman, exchange presents with family or decorate your house for the holidays? Take a trip to the city, go on a shopping spree or visit friends from all over the globe? In Animal Crossing: Let's Go to the City, life moves at a relaxed pace, but the world brims with endless possibilities.There?s always something new to do. In the living, breathing world of Animal Crossing: Let's Go to the City days and seasons pass in real time, so there?s always something to discover. Catch fireflies in the summer, go trick-or-treating on Halloween or hunt for eggs on Bunny Day. If you?re in the mood for something a little faster paced, take a bus to a new urban city area that?s unique to Animal Crossing: Let's Go to the City. There you can catch a show at the theatre or check out the sales at Gracie?s boutique. But if you don?t show your face back home for too long, your neighbours will miss you.</desc>
-		<rating>0.8</rating>
-		<releasedate>20081116T000000</releasedate>
-		<developer>Nintendo EAD</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Simulation</genre>
-		<players>1</players>
-		<image>./mixart/Animal Crossing - City Folk [NTSC-U].cc.png</image>
-		<marquee>./wheel/Animal Crossing - City Folk [NTSC-U].cc.png</marquee>
-		<video>./snap/Animal Crossing - City Folk [NTSC-U].cc.mp4</video>
-		<genreid>1024</genreid>
-	</game>
-	<game id="9061" source="ScreenScraper.fr">
-		<path>./Arc Rise Fantasia [NTSC-U].cc.rvz</path>
-		<name>Arc Rise Fantasia</name>
-		<desc>From Image Epoch, the team that created the strategy RPG Luminous Arc, comesan epic RPG exclusively developed for the Wii. Arc Rise Fantasia is a product of old and new, combining gorgeous graphics with modern gameplay while bringing classic Japanese high fantasy role-playing action involving airships and dragons, exclusively to the platform.Players will jump into the shoes of L'Arc, a calm and composed mercenary, who sets out to defend the Meridian Empire from an impending invasion of ferocious creatures. After assembling a party of friends, each with a unique set of abilities, players will embark on a perilous journey across an overworld filled with deadly enemies and treacherous dungeons. While strategically queuing up attacks, players can summon mystical creatures and work with their party members to execute massive attacks.</desc>
-		<rating>0.75</rating>
-		<releasedate>20090604T000000</releasedate>
-		<developer>Image Epoch</developer>
-		<publisher>Ignition Entertainment</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-		<image>./mixart/Arc Rise Fantasia [NTSC-U].cc.png</image>
-		<marquee>./wheel/Arc Rise Fantasia [NTSC-U].cc.png</marquee>
-		<video>./snap/Arc Rise Fantasia [NTSC-U].cc.mp4</video>
-		<genreid>768</genreid>
-	</game>
-	<game id="9454" source="ScreenScraper.fr">
-		<path>./Baroque (USA).cc.rvz</path>
-		<name>Baroque</name>
-		<desc>A World Affected by Death and Reincarnation. Step into a dark action-RPG featuring twisted characters presented in a disturbing world of pain and suffering. After a cataclysmic event, the land and its inhabitants are warped into a nightmare only you can solve. Battle merciless foes as you travel deeper into the shifting Neuro Tower in search of absolution. Experience a never-before-seen dungeon structure where levels are forever-changing. Engage yourself in a unique propgression system where death merely serves to advance the storyline. Descend through the darkness to unveil more secrets of a broken world.</desc>
-		<rating>0.9</rating>
-		<releasedate>20080408T000000</releasedate>
-		<developer>Sting Entertainment</developer>
-		<publisher>Rising Star Games</publisher>
-		<genre>Action-Role playing games</genre>
-		<players>1</players>
-		<image>./mixart/Baroque (USA).cc.png</image>
-		<marquee>./wheel/Baroque (USA).cc.png</marquee>
-		<video>./snap/Baroque (USA).cc.mp4</video>
-		<genreid>768</genreid>
-	</game>
-	<game id="152802" source="ScreenScraper.fr">
-		<path>./Battalion Wars 2 [NTSC-U].cc.rvz</path>
-		<name>Battalion Wars 2</name>
-		<desc>This sequel to Battalion Wars plays much like its predecessor, blending real-time strategy with third-person shooting. The game's plot traces decades of war among six factions (Solar Empire, Western Frontier, Anglo Isles, Iron Legion, Tundran Territories, Xylvania), and unfolds through contemporary missions that advance the conflict and flashback missions that reveal its history. 
- 
-Players control a soldier or a land, sea, or air vehicle to engage in combat directly and to command other units. The Wii Remote is used to target and fire, but selecting and ordering units is performed through conventional button presses. The Wii Nunchuk's thumbstick controls player movement, and evasive maneuvers are handled through gestures. 
- 
-In the single-player campaign mode, the player assumes control of the various factions at different points in the conflict's history. The game also features three online multiplayer modes. Skirmish mode is a timed two-player match to score more points than the other player by destroying opposing units. Assault mode is a timed two-player match in which one player attempts to destroy the other player's resources and fortifications while the other defends. Co-Op mode is an untimed two-player match in which both players work together to complete special online missions that are not part of the single-player campaign. Offline local multiplayer is not supported.</desc>
-		<rating>0.9</rating>
-		<releasedate>20071029T000000</releasedate>
-		<developer>Kuju Entertainment</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action-Strategy</genre>
-		<players>2</players>
-		<image>./mixart/Battalion Wars 2 [NTSC-U].cc.png</image>
-		<marquee>./wheel/Battalion Wars 2 [NTSC-U].cc.png</marquee>
-		<video>./snap/Battalion Wars 2 [NTSC-U].cc.mp4</video>
-		<genreid>1280</genreid>
-	</game>
-	<game id="9037" source="ScreenScraper.fr">
-		<path>./Bit.Trip Complete [NTSC-U].cc.rvz</path>
-		<name>Bit.trip Complete</name>
-		<desc>Retro-classic meets modern-cool in this collection of games built on a creative combination of 8-bit graphics and addictive, quick-hit, arcade-style play that dares you to escape its gravitational pull. Bit.Trip Complete brings together six Bit.Trip games: Bit.Trip Beat, Core, Void, Runner, Fate, and Flux. Together, they tell the epic story of CommaderVideo. Beat, Core, and Void are all rhythm-based challenges. Runner moves to 2600-style platforming, Fate turns on the shooter explosiveness, while Flux returns to Bit.Trip's rhythm roots. Each game features a classic chiptune soundtrack and one-of-a-kind visuals that look like they leaked out of an Atari that spent the last 30 years cooking in the microwave.Features:- 6 Complete Games- Online Leaderboards- 120 New Gameplay Challenges- New Difficulty Modes- Unlockable Audio, Video, and Art Galleries</desc>
-		<rating>0.85</rating>
-		<releasedate>20120316T000000</releasedate>
-		<developer>Gaijin Games</developer>
-		<publisher>Marvelous Interactive</publisher>
-		<genre>Various-Compilation-Music and Dance-Action-Shoot'em Up</genre>
-		<players>1</players>
-		<image>./mixart/Bit.Trip Complete [NTSC-U].cc.png</image>
-		<marquee>./wheel/Bit.Trip Complete [NTSC-U].cc.png</marquee>
-		<video>./snap/Bit.Trip Complete [NTSC-U].cc.mp4</video>
-		<genreid>266</genreid>
-	</game>
-	<game id="9396" source="ScreenScraper.fr">
-		<path>./Bomberman Blast.wad</path>
-		<name>Bomberman Blast</name>
-		<desc>A brand new addition to the "Bomberman" series is available on WiiWare! Up to 8 players can battle online at once via Nintendo Wi-Fi Connection! Simple controls make this a great game for family and friends to enjoy at anytime!New items can be triggered by shaking the Wii Remote for excitement never before experienced in a Bomberman title! You can even take the intensity up another notch by adding your own Miis to the mix!Battle results can be recorded on the Nintendo Wi-Fi Connection Ranking, so see how you stack up against others around the globe! This title will prove to be a blast for everyone--from those who've never touched a Bomberman game, to the Bomberman masters!</desc>
-		<rating>0.85</rating>
-		<releasedate>20080101T000000</releasedate>
-		<developer>Hudson</developer>
-		<publisher>Hudson</publisher>
-		<genre>Action</genre>
-		<players>4+</players>
-		<image>./mixart/Bomberman Blast.png</image>
-		<marquee>./wheel/Bomberman Blast.png</marquee>
-		<video>./snap/Bomberman Blast.mp4</video>
-		<genreid>256</genreid>
-	</game>
-	<game id="9810" source="ScreenScraper.fr">
-		<path>./Castle of Shikigami III [NTSC-U].cc.rvz</path>
-		<name>Castle of Shikigami III</name>
-		<desc>A continuation of the Shikigami series, CoS III is a standard vertical-scrolling sci-fi shooter, featuring ten different characters each with their own special weapons and abilities.
-
-There are five different stages to play in, each of them divided into two chapters and has the standard huge, wild-looking bosses to destroy. The player also has the option to switch between aircraft in mid-flight in one-player games or you can play with a friend in co-op.  There are fifty-five possible story elements and a Tension Bonus system that rewards the player by putting themselves in danger by getting close to enemies and dodging enemy fire and it also has a gallery mode.</desc>
-		<rating>0.65</rating>
-		<releasedate>20080513T000000</releasedate>
-		<developer>PQube</developer>
-		<publisher>Alfa System</publisher>
-		<genre>Action-Shoot'em Up</genre>
-		<players>2</players>
-		<image>./mixart/Castle of Shikigami III [NTSC-U].cc.png</image>
-		<marquee>./wheel/Castle of Shikigami III [NTSC-U].cc.png</marquee>
-		<video>./snap/Castle of Shikigami III [NTSC-U].cc.mp4</video>
-		<genreid>260</genreid>
-	</game>
-	<game id="8891" source="ScreenScraper.fr">
-		<path>./Castlevania Judgment [NTSC-U].cc.rvz</path>
-		<name>Castlevania Judgment</name>
-		<desc>Castlevania Judgement is a first in many: it s the first Castlevania beat em up. It s also the first time old friends of the Belmont clan meet together in a full 3D environment. 
- 
-Galamoth pursues to change the course of fate by resurrecting a 10,000 year old demon, Time Reaper, to destroy Dracula. Aeon, a magician who discovers Galamoth s plan, summons past and present Castlevania heroes through a time rift to stop Galamoth. 
- 
-Castlevania Judgement is a 3D beat em up where you go one-on-one against friends or computer foes. Several different game modes like the usual beat em up modes of story, training and versus. In addition there s a Castle mode, where you must venture through Dracula s Castle before going face to face with Time Reaper. Survival mode has you fighting for time as there are no continues.</desc>
-		<rating>0.85</rating>
-		<releasedate>20090319T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action-Fight</genre>
-		<players>2</players>
-		<image>./mixart/Castlevania Judgment [NTSC-U].cc.png</image>
-		<marquee>./wheel/Castlevania Judgment [NTSC-U].cc.png</marquee>
-		<video>./snap/Castlevania Judgment [NTSC-U].cc.mp4</video>
-		<genreid>262</genreid>
-	</game>
-	<game id="10088" source="ScreenScraper.fr">
-		<path>./Cho Aniki.wad</path>
-		<name>Cho Aniki : Super Big Brothers</name>
-		<desc>In Cho Aniki - Super Big Brothers despite having dominated the Galactic Bodybuilding Contest for the past 10 years, the emperor of Planet Builder felt ill at ease. His home planet's supply of PROTEIN was running out. Holding muscular prowess to be the supreme virtue of the universe, the forces of Planet Builder indiscriminately invaded nearby planets. Unwilling to stand by and let their celestial home be laid to waste, "IDATEN" and "BENTEN" set forth to drive out the invading Builder forces, destroy their PROTEIN mining facilities, and make their way to Planet Builder itself to annihilate this galactic menace!</desc>
-		<releasedate>20080509T000000</releasedate>
-		<developer>Masaya Games</developer>
-		<publisher>Masaya Games</publisher>
-		<genre>Shoot'em Up</genre>
-		<image>./mixart/Cho Aniki.png</image>
-		<marquee>./wheel/Cho Aniki.png</marquee>
-		<video>./snap/Cho Aniki.mp4</video>
-		<genreid>260</genreid>
-	</game>
-	<game id="9797" source="ScreenScraper.fr">
-		<path>./Club Penguin - Game Day [NTSC-U].cc.rvz</path>
-		<name>Club Penguin Game Day!</name>
-		<desc>Play in the first ever Club Penguin island-wide Game Day challenge only on the Nintendo Wii. Create your own penguin, join a team and compete against other penguin teams in Dance Off!, Puffle Paddle, Sumo Smash, Fast Freeze and more. Compete to see who is the best team once and for all!</desc>
-		<rating>0.8</rating>
-		<releasedate>20100916T000000</releasedate>
-		<developer>Disney Interactive</developer>
-		<publisher>Disney Interactive</publisher>
-		<genre>Casual Game</genre>
-		<image>./mixart/Club Penguin - Game Day [NTSC-U].cc.png</image>
-		<marquee>./wheel/Club Penguin - Game Day [NTSC-U].cc.png</marquee>
-		<video>./snap/Club Penguin - Game Day [NTSC-U].cc.mp4</video>
-		<genreid>2304</genreid>
-	</game>
-	<game id="9211" source="ScreenScraper.fr">
-		<path>./Dokapon Kingdom (USA).cc.rvz</path>
-		<name>Dokapon Kingdom</name>
-		<desc>The Kingdom of Dokapon is a land of wealth and riches ruled by a gold-loving King and his daughter Princess Penny. One day, monsters begin appearing all over the realm, assaulting the towns and stealing all of the empire¿s wealth. The King, unable to collect taxes from his impoverished citizens, calls for heroes from across the land to come and rid his monarchy of these monsters. The prize for the hero who is able to free the land: The hand of Princess Penny and rule of the Kingdom itself! Warning : relationship counseling not included!</desc>
-		<rating>0.65</rating>
-		<releasedate>20081014T000000</releasedate>
-		<developer>Sting</developer>
-		<publisher>Bigben Interactive</publisher>
-		<genre>Casual Game-Role playing games</genre>
-		<players>2-4</players>
-		<image>./mixart/Dokapon Kingdom (USA).cc.png</image>
-		<marquee>./wheel/Dokapon Kingdom (USA).cc.png</marquee>
-		<video>./snap/Dokapon Kingdom (USA).cc.mp4</video>
-		<genreid>2304</genreid>
-	</game>
-	<game id="9664" source="ScreenScraper.fr">
-		<path>./Dr Mario Online Rx.wad</path>
-		<name>Dr. Mario Online RX</name>
-		<desc>The all-time puzzle classic returns for the Wii generation, featuring online gameplay and a new Germ Buster mode! Destroy all the viruses trapped in the bottle by dropping and slotting capsules to create lines of matching colours. The more viruses you clear, the faster the capsules drop.nnnnIn Dr. Mario, challenge the computer in 1 Player mode, go head-to-head with a friend in 2 Player mode, or prove your skills against the world via Nintendo Wi-Fi Connection. You can also send a demo version of the game to a friend (within your region) using WiiConnect24.nnnnIn Germ Buster (based on the relaxation game in More Brain Training from Dr Kawashima), up to four players can use their Wii Remotes to grab, spin and slot capsules as your Miis try to keep the nasty bugs at bay. Who thought that catching germs could be so much fun?</desc>
-		<rating>0.7</rating>
-		<releasedate>20080325T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Compilation-Puzzle-Game</genre>
-		<players>1-2</players>
-		<image>./mixart/Dr Mario Online Rx.png</image>
-		<marquee>./wheel/Dr Mario Online Rx.png</marquee>
-		<video>./snap/Dr Mario Online Rx.mp4</video>
-		<genreid>3840</genreid>
-	</game>
-	<game id="9951" source="ScreenScraper.fr">
-		<path>./Dracula - Undead Awakening.wad</path>
-		<name>Dracula : Undead Awakening</name>
-		<desc>Are you a Vampire Hunter, ready to battle legions of undead foes; zombies, ghouls, werewolves and Dracula himself? 
- 
-Are you a vampire hunter? Are you ready to battle legions of undead foes including zombies, ghouls, werewolves, and more? You will need to wield an arsenal of jaw-droppingly powerful weaponry with skill and intelligence. Uncover devastating firepower such as machine guns, buzz-saws and flamethrowers, choosing upgrades for them as well as unique new perks for your character as your enemies increase in number and ferocity. You are a tough customer, but bewareâ€”Lord Dracula is always on the hunt and you are his prey! Enemies in Dracula have one thing in common. Undead, lycanthrope, mutant, and many moreâ€”they re all after your flesh. Not to worry thoughâ€”you come bearing â€œgifts.â€  Well, as long as you think of sharp, explosive, devastatingly destructive weaponry and ammo as â€œgifts.â€ </desc>
-		<rating>0.85</rating>
-		<releasedate>20100226T000000</releasedate>
-		<developer>Chillingo</developer>
-		<publisher>Chillingo</publisher>
-		<genre>Adventure</genre>
-		<image>./mixart/Dracula - Undead Awakening.png</image>
-		<marquee>./wheel/Dracula - Undead Awakening.png</marquee>
-		<video>./snap/Dracula - Undead Awakening.mp4</video>
-		<genreid>512</genreid>
-	</game>
-	<game id="9636" source="ScreenScraper.fr">
-		<path>./FAST - Racing League.wad</path>
-		<name>FAST : Racing League</name>
-		<desc>Prepare yourself for a whole new racing experience at breakneck speeds. 
- 
-In the year 2112 the masses are fascinated by extreme high speed races. The latest antigrav racing technology introduced phase shifting. Perfect phase matching of track and racing machine is the key to stay alive. 
- 
-Prepare yourself for a whole new racing experience at breakneck speeds. Push your skills to the limit to win races and beat records. Challenge your friends to an all-out split-screen competition. Compete against ruthless opponents and race to the top of all leagues. Warm up your engines, the future is now...</desc>
-		<rating>0.8</rating>
-		<releasedate>20110527T000000</releasedate>
-		<developer>Shin'en</developer>
-		<publisher>Shin'en</publisher>
-		<genre>Race, Driving</genre>
-		<players>1-4</players>
-		<image>./mixart/FAST - Racing League.png</image>
-		<marquee>./wheel/FAST - Racing League.png</marquee>
-		<video>./snap/FAST - Racing League.mp4</video>
-		<genreid>1537</genreid>
-	</game>
-	<game id="8799" source="ScreenScraper.fr">
-		<path>./FIFA Soccer 10 (USA) (En,Es).cc.rvz</path>
-		<name>FIFA 10 World Class Soccer</name>
-		<desc>Listening to feedback and addressing gamer frustrations has become a key part of the EA SPORTS strategy to improve the FIFA franchise on an annual basis.Better balance on lofted through balls, improved goalkeeper intelligence, more realistic shooting mechanics with less shots hitting the goal posts, a practice arena to perfect skills, and a more immersive football experience through continuous play and quick free kicks are just a few of the issues raised by fans and addressed in FIFA 10. Three new innovations revealed today have been developed to change the player control experience in FIFA 10. The first-ever true 360° dribbling system gives players finer control of the ball, enabling them to find spaces between defenders that previously were not possible. Using an all-new animation technology, skilled dribblers now have the ability to face the defender and use highly responsive lateral dribbling to skip past him. An innovative concept called Freedom in Physical Play enables players to perform wider dribble touches and new collision sharing creates a varied, less predictable, and extended fight for possession between the dribbler and a defender.FIFA 10 also features a deeper iteration of the ever-popular Manager Mode with more than 50 major improvements, including new match realism, realistic player transfers based on multiple decision points, and true-to-life player growth curves.</desc>
-		<rating>0.65</rating>
-		<releasedate>20091001T000000</releasedate>
-		<publisher>Electronic Arts</publisher>
-		<genre>Sports</genre>
-		<players>4</players>
-		<image>./mixart/FIFA Soccer 10 (USA) (En,Es).cc.png</image>
-		<marquee>./wheel/FIFA Soccer 10 (USA) (En,Es).cc.png</marquee>
-		<video>./snap/FIFA Soccer 10 (USA) (En,Es).cc.mp4</video>
-		<genreid>1536</genreid>
-	</game>
 	<game id="8856" source="ScreenScraper.fr">
 		<path>./Final Fantasy Crystal Chronicles - Echoes of Time (USA) (En,Fr,Es).cc.rvz</path>
 		<name>Final Fantasy Crystal Chronicles: Echoes of Time</name>
@@ -264,132 +28,6 @@ Prepare yourself for a whole new racing experience at breakneck speeds. Push you
 		<marquee>./wheel/Final Fantasy IV - The After Years (USA) (WiiWare).png</marquee>
 		<video>./snap/Final Fantasy IV - The After Years (USA) (WiiWare).mp4</video>
 		<genreid>768</genreid>
-	</game>
-	<game id="8714" source="ScreenScraper.fr">
-		<path>./Fire Emblem - Radiant Dawn (USA) (Rev 1).cc.rvz</path>
-		<name>Fire Emblem: Radiant Dawn</name>
-		<desc>The sequel to 2005 s Path of Radiance and the tenth game in the Fire Emblem series, Radiant Dawn takes place three years after the defeat of the Daein kingdom by Crimea. 
- 
-Unlike other Wii games, the main method of control is either through the classic controller or GameCube controller, since the action is wholly turn-based tactical combat, largely the same as the previous nine games. The game consists of 44 chapters and uses the same engine as Path of Radiance. There are three new weapon and magic types: Knife, Dark Magic and Strike. 
- 
-The player must lead a band of heroes against the Begnion Empire s oppression of the defeated Daein, along with help from many of the heroes from Path of Radiance. The members of the Dawn group are the main heroes of the game, with a major role for Sothe, who was a child thief from the previous Fire Emblem game.</desc>
-		<rating>0.9</rating>
-		<releasedate>20071105T000000</releasedate>
-		<developer>Intelligent Systems</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Strategy-Role playing games</genre>
-		<players>1</players>
-		<image>./mixart/Fire Emblem - Radiant Dawn (USA) (Rev 1).cc.png</image>
-		<marquee>./wheel/Fire Emblem - Radiant Dawn (USA) (Rev 1).cc.png</marquee>
-		<video>./snap/Fire Emblem - Radiant Dawn (USA) (Rev 1).cc.mp4</video>
-		<genreid>1280</genreid>
-	</game>
-	<game id="10440" source="ScreenScraper.fr">
-		<path>./Frogger Returns.wad</path>
-		<name>Frogger Returns</name>
-		<desc>Your favorite street-hopping amphibian is back!  
- 
-Frogger Returns takes the heart-pounding challenge of arcade Frogger and takes it into the next dimension! Classic top-down 2D gameplay is updated with colorful 3D graphics, a new perspective, all-new levels, new enemies and game-changing power-ups to dodge and use! Local multiplayer lets you race a friend to victory</desc>
-		<rating>0.85</rating>
-		<releasedate>20100212T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Various</genre>
-		<image>./mixart/Frogger Returns.png</image>
-		<marquee>./wheel/Frogger Returns.png</marquee>
-		<video>./snap/Frogger Returns.mp4</video>
-	</game>
-	<game id="9140" source="ScreenScraper.fr">
-		<path>./Geometry Wars - Galaxies (USA).cc.rvz</path>
-		<name>Geometry Wars Galaxies</name>
-		<desc>Blast your way through all-new battle grids, upgrade your new Battle Drone and blast through relentless waves of enemies in the first-ever Geometry Wars single-player campaign. Then join a friend for fast-paced multiplayer that's out of this world. Geometry Wars: Galaxies also includes the full version of Bizarre Creations' Geometry Wars: Retro Evolved, winner of IGN's Best Xbox Live Arcade Title of the Year.</desc>
-		<rating>0.85</rating>
-		<releasedate>20071120T000000</releasedate>
-		<developer>Kuju Entertainment</developer>
-		<publisher>Sierra</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<image>./mixart/Geometry Wars - Galaxies (USA).cc.png</image>
-		<marquee>./wheel/Geometry Wars - Galaxies (USA).cc.png</marquee>
-		<video>./snap/Geometry Wars - Galaxies (USA).cc.mp4</video>
-		<genreid>260</genreid>
-	</game>
-	<game id="10075" source="ScreenScraper.fr">
-		<path>./Gradius ReBirth.wad</path>
-		<name>Gradius Rebirth</name>
-		<desc>Blast your way through levels filled with alien spaceships and otherworldly creatures in this retro side-scrolling shooter. Pick your weapons carefully and upgrade them to create a devastating arsenal of space-aged weapons that will aid you in your challenging mission. Players can post their high scores to worldwide leader boards via Nintendo Wi-Fi Connection and see where they rank against all the other Gradius ReBirth players. Test your skills with Gradius ReBirth and see if you have what it takes to beat this action-packed arcade shooter.</desc>
-		<rating>0.85</rating>
-		<releasedate>20090309T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-		<image>./mixart/Gradius ReBirth.png</image>
-		<marquee>./wheel/Gradius ReBirth.png</marquee>
-		<video>./snap/Gradius ReBirth.mp4</video>
-		<genreid>260</genreid>
-	</game>
-	<game id="10458" source="ScreenScraper.fr">
-		<path>./Gyrostarr.wad</path>
-		<name>Gyrostarr</name>
-		<desc>Killer arcade shooter with 50 levels of intense action and 1-4 player mayhem. Master the warp gate! 
- 
-Gyrostarr challenges you and up to three additional players to pilot your ships through a series of twisting, turning technoplasma tracks while battling a variety of deadly alien foes at ever-increasing speeds. While fighting and maneuvering, you must collect enough energy to activate the ancient warpgate at the end of each track. Succeed, and you can journey to the next, even deadlier track. Fail, and the gate will slam shut, destroying your ship. Enhance your ship with weapon pickups, coordinate attacks with your friends to fire powerful combined blasts and use your grapple to snag energy and pickups in the midst of combat. Control your ship with the Wii Remote controller, Nunchuk controller or Classic Controller, or use the "paired" control system that allows two players to use a connected Wii Remote and Nunchuk or Classic Controller at the same time. Offering 50 levels of intense action, powerful pickups, high-speed bonus levels and mayhem for up to four players, Gyrostarr is a killer arcade challenge.</desc>
-		<releasedate>20080602T000000</releasedate>
-		<developer>High Voltage</developer>
-		<publisher>High Voltage</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2-4</players>
-		<image>./mixart/Gyrostarr.png</image>
-		<marquee>./wheel/Gyrostarr.png</marquee>
-		<video>./snap/Gyrostarr.mp4</video>
-		<genreid>260</genreid>
-	</game>
-	<game id="9916" source="ScreenScraper.fr">
-		<path>./Fluidity.wad</path>
-		<name>Hydroventure</name>
-		<desc>Fluidity sur Wii est un jeu original qui nous propose de faire évoluer une flaque d'eau à travers des niveaux de plus en plus tortueux. Le joueur devra incliner les décors à l'aide de sa Wiimote pour diriger la flaque dans la direction de son choix et éviter les nombreuses embûches qui se dresseront sur son parcours.</desc>
-		<rating>0.95</rating>
-		<releasedate>20101224T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<image>./mixart/Fluidity.png</image>
-		<marquee>./wheel/Fluidity.png</marquee>
-		<video>./snap/Fluidity.mp4</video>
-		<genreid>256</genreid>
-	</game>
-	<game id="8861" source="ScreenScraper.fr">
-		<path>./Kirby's Epic Yarn (USA) (En,Fr,Es).cc.rvz</path>
-		<name>Kirby's Epic Yarn</name>
-		<desc>While walking through Dream Land, Kirby discovers a tomato and decides to eat it. Yin-Yarn, the evil sorceror who possessed the tomato (revealed to be a Metamato), appears and magically banishes Kirby into Patch Land, a world completely made of fabric, via the sock carried around his neck. In Patch Land, Kirby s body transforms into yarn, rendering his power to inhale useless. Instead, Kirby is granted the ability to transform by the magic of the Metamato, which he uses to rescue a boy being attacked by a monster. The boy, named Prince Fluff, explains that Yin-Yarn has separated Patch Land into pieces, which was tied together by magic yarn. Kirby decides to help Prince Fluff collect all seven pieces of the yarn and restore Patch Land. 
- 
-Meanwhile, Yin-Yarn captures King Dedede and Meta Knight and places them under his control. Kirby is forced to fight Dedede and Meta Knight after they ambush him in Patch Land. When Kirby and Prince Fluff finally collect all the Magic Yarn, Meta Knight, no longer under the sorceror s influence, informs Kirby that Yin-Yarn is turning Dream Land into fabric. Prince Fluff produces the second sock, its magic fully restored, and uses it to transport Kirby and himself to Dream Land; now completely made of yarn. Kirby confronts and defeats Yin-Yarn, breaking the spell and returning Dream Land and himself back to normal. Prince Fluff parts with Kirby, stating that he can visit Patch Land anytime via Yin-Yarn s magic sock.</desc>
-		<rating>0.8</rating>
-		<releasedate>20101017T000000</releasedate>
-		<developer>Good-Feel</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Adventure-Action-Platform</genre>
-		<players>2</players>
-		<image>./mixart/Kirby's Epic Yarn (USA) (En,Fr,Es).cc.png</image>
-		<marquee>./wheel/Kirby's Epic Yarn (USA) (En,Fr,Es).cc.png</marquee>
-		<video>./snap/Kirby's Epic Yarn (USA) (En,Fr,Es).cc.mp4</video>
-		<genreid>257</genreid>
-	</game>
-	<game id="8773" source="ScreenScraper.fr">
-		<path>./Kirby's Return to Dream Land (USA) (En,Fr,Es).cc.rvz</path>
-		<name>Kirby's Return to Dream Land</name>
-		<desc>Kirby and his friends are back in an adventure designed to satisfy longtime Kirby fans and beginners alike. When an alien spaceship crashes in the otherwise peaceful realm of Pop Star, its pieces are scattered throughout the land. Players must guide Kirby as he retrieves the ship's parts and helps the aliens return to their home planet. This time, however, he's not alone. At any time, up to three more players can join in the fun and play as Meta Knight, King Dedede and Waddle Dee to help Kirby in his quest.Kirby's powerful Copy Ability returns, allowing him to inhale, spit and transform as he encounters enemies.The game also introduces new Super Abilities, which are activated when Kirby inhales special enemy characters. For example, the "Super Sword" Super Ability allows Kirby to swing a giant sword and wipe out an entire screen's worth of foes.Up to four players can enjoy the action together. They play cooperatively to progress through the game and collect Point Stars and Ability Stars. Players can join and leave the game at any time.</desc>
-		<rating>0.85</rating>
-		<releasedate>20111024T000000</releasedate>
-		<developer>HAL Laboratory</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Adventure-Action-Platform</genre>
-		<players>2-4</players>
-		<image>./mixart/Kirby's Return to Dream Land (USA) (En,Fr,Es).cc.png</image>
-		<marquee>./wheel/Kirby's Return to Dream Land (USA) (En,Fr,Es).cc.png</marquee>
-		<video>./snap/Kirby's Return to Dream Land (USA) (En,Fr,Es).cc.mp4</video>
-		<genreid>257</genreid>
 	</game>
 	<game id="9476" source="ScreenScraper.fr">
 		<path>./Mega Man 10 (USA) (WiiWare).wad</path>
@@ -456,21 +94,6 @@ Mega Man fans, your wait is over! The classic Blue Bomber that debuted in 1987 i
 		<marquee>./wheel/Muramasa - The Demon Blade (USA).cc.png</marquee>
 		<video>./snap/Muramasa - The Demon Blade (USA).cc.mp4</video>
 		<genreid>263</genreid>
-	</game>
-	<game id="9801" source="ScreenScraper.fr">
-		<path>./NASCAR Kart Racing (USA).cc.rvz</path>
-		<name>Nascar Kart Racing</name>
-		<desc>The game features fourteen real world NASCAR drivers and ten fictional drivers. The cover drivers are, from left to right, Carl Edwards, Kyle Busch, Dale Earnhardt Jr., Jeff Gordon, Tony Stewart, and Jimmie Johnson.</desc>
-		<rating>0.75</rating>
-		<releasedate>20090210T000000</releasedate>
-		<developer>EA Sports</developer>
-		<publisher>EA Sports</publisher>
-		<genre>Race, Driving</genre>
-		<players>4</players>
-		<image>./mixart/NASCAR Kart Racing (USA).cc.png</image>
-		<marquee>./wheel/NASCAR Kart Racing (USA).cc.png</marquee>
-		<video>./snap/NASCAR Kart Racing (USA).cc.mp4</video>
-		<genreid>1537</genreid>
 	</game>
 	<game id="9141" source="ScreenScraper.fr">
 		<path>./Nights - Journey of Dreams (USA) (En,Ja,Fr,De,Es,It).cc.rvz</path>
@@ -546,21 +169,6 @@ Mega Man fans, your wait is over! The classic Blue Bomber that debuted in 1987 i
 		<video>./snap/Sengoku Basara - Samurai Heroes (USA) (En,Fr,Es).cc.mp4</video>
 		<genreid>263</genreid>
 	</game>
-	<game id="8885" source="ScreenScraper.fr">
-		<path>./Sin &amp; Punishment - Star Successor (USA).cc.rvz</path>
-		<name>Sin and Punishment: Successor of the Skies</name>
-		<desc>Sin and Punishment: Star Successor is a Rail Shooting game, developed by Treasure and published by Nintendo. The game can be controlled using one of four control methods: Wii Remote with Nunchuk, Wii Zapper, Classic Controller (as well as the Classic Controller Pro) and the Nintendo GameCube Controller. Playing as either Isa or Kachi, the player traverses through on-rail levels, moving and shooting independently. Attacking enemies can either be shot at from afar, or melee attacked when they are close enough. Some missiles can be melee attacked to turn them against enemies. Getting successive enemy hits whilst remaining unscathed increases the score multiplier.</desc>
-		<rating>0.8</rating>
-		<releasedate>20100627T000000</releasedate>
-		<developer>Treasure</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action-Lightgun Shooter</genre>
-		<players>2</players>
-		<image>./mixart/Sin &amp; Punishment - Star Successor (USA).cc.png</image>
-		<marquee>./wheel/Sin &amp; Punishment - Star Successor (USA).cc.png</marquee>
-		<video>./snap/Sin &amp; Punishment - Star Successor (USA).cc.mp4</video>
-		<genreid>261</genreid>
-	</game>
 	<game id="8731" source="ScreenScraper.fr">
 		<path>./Sonic Colors (USA) (En,Ja,Fr,De,Es,It).cc.rvz</path>
 		<name>Sonic Colours</name>
@@ -623,27 +231,6 @@ The Space Invaders are back, and this time they re out to get even! Take control
 		<marquee>./wheel/Star Soldier R.png</marquee>
 		<video>./snap/Star Soldier R.mp4</video>
 		<genreid>261</genreid>
-	</game>
-	<game id="8708" source="ScreenScraper.fr">
-		<path>./Super Mario Galaxy (USA) (En,Fr,Es).cc.rvz</path>
-		<name>Super Mario Galaxy</name>
-		<desc>Mario takes to the skies and beyond in another outing to save the Princess. As the Mushroom Kingdom prepares to celebrate the arrival of a comet that appears in the skies every hundred years, Princess Peach sends Mario an invitation to attend. As Mario arrives, Bowser and minions attack the Kingdom and once again kidnap the Princess... and her entire castle. Mario gives chase but is lost as the ship leaves the atmosphere and ends up on a space station built on the visiting comet overseen by the mysterious Rosalina. It's up to Mario to brave new galaxies, find the elusive Power Stars, and bring his friends home.
-
-Super Mario Galaxy plays similarly to Super Mario 64, as Mario explores his latest 3D world defying gravity, crossing various terrains, and even running upside down across the planet surfaces. Bouncing from planet to planet, Mario must collect Star Bits and coins, using his usual jump attacks and spins (now controlled with movement from the Wii Remote). The Wii Remote is also used to collect out of reach Star Bits and also can be controlled by a second player.
-
-In addition, Mario can find new suits (similar to Super Mario Bros. 3) that give him the ability to turn into the ghostly Boo Mario, the high-flying Bee Mario, launch fireballs as Fire Mario and skate across frozen lakes as Ice Mario. New challenges also await Mario including ray surfing, balancing on a high-speed ball, floating inside bubbles, and other challenges in his quest to get all 120 stars. Even Luigi lends a hand in the search, making valuable contributions to the adventure.
-
-Players can also take a snapshot of the worlds they've completed along with their best record times and send them to their friends via Wi-Fi.</desc>
-		<rating>0.85</rating>
-		<releasedate>20071112T000000</releasedate>
-		<developer>Nintendo EAD</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action-Platform</genre>
-		<players>2</players>
-		<image>./mixart/Super Mario Galaxy (USA) (En,Fr,Es).cc.png</image>
-		<marquee>./wheel/Super Mario Galaxy (USA) (En,Fr,Es).cc.png</marquee>
-		<video>./snap/Super Mario Galaxy (USA) (En,Fr,Es).cc.mp4</video>
-		<genreid>257</genreid>
 	</game>
 	<game id="8713" source="ScreenScraper.fr">
 		<path>./Super Paper Mario.wbfs</path>
@@ -815,35 +402,6 @@ LostWinds: Winter of the Melodias follows on from the award-winning WiiWare laun
 		<genre>Platform-Puzzle-Game</genre>
 	</game>
 	<game>
-		<path>./Donkey Kong Country Returns (USA) (En,Fr,Es) (Rev 1).cc.rvz</path>
-		<name>Donkey Kong Country Returns</name>
-		<desc>Under the influence of a group of evil Tikis, the animals of Donkey Kong Island have raided Donkey Kong's banana hoard and stolen his stash of bananas - and being an ape of large appetites he understandably wants them back. Good thing that you are along for the ride. With Donkey Kong Country Returns, Retro Studios brings Donkey Kong back to a banana and platforming hungry public in a new side-scrolling adventure with familiar characters and new levels that reignite the passion players had for the Super NES original and all things Donkey Kong.</desc>
-		<image>./mixart/Donkey Kong Country Returns (USA) (En,Fr,Es) (Rev 1).cc.png</image>
-		<video>./snap/Donkey Kong Country Returns (USA) (En,Fr,Es) (Rev 1).cc.mp4</video>
-		<marquee>./wheel/Donkey Kong Country Returns (USA) (En,Fr,Es) (Rev 1).cc.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20101203T000000</releasedate>
-		<developer>Retro Studios</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action-Platform</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Castlevania ReBirth.wad</path>
-		<name>Castlevania : The Adventure Rebirth</name>
-		<desc>The classic Castlevania game is reborn for the Wii with all-new upgrades. 
- 
-Another 100 years has passed since the death of Count Dracula, but the revival of his curse has emerged once again within the realms of Transylvania. Play the role of the ultimate gothic hero from the long lineage of vampire hunters, the Belmont clan, and rid the universe of Dracula s legion of darkness and doom. Based on the classic 1989 original Castlevania: The Adventure, the WiiWare version will allow players of a new generation and older fans to experience one of the most popular games within the storied Castlevania timeline from a new perspective.</desc>
-		<image>./mixart/Castlevania ReBirth.png</image>
-		<video>./snap/Castlevania ReBirth.mp4</video>
-		<marquee>./wheel/Castlevania ReBirth.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20091228T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
 		<path>./LostWinds.wad</path>
 		<name>LostWinds</name>
 		<desc>Little time has passed since the events which unfolded between Toku, Enril, Deo and Magmok in ?LostWinds?.The famous explorer Notéa's sudden return from an expedition brings with it saddening news. Whilst searching for the ruins of the Melodia City, Toku's mother Magdi has mysteriously disappeared. The only clues to her whereabouts lie within the tattered remains of her treasured journal.As repayment for saving his life, the ancient Guardian Magmok pledges his assistance to Toku and Enril as they head up into the mountains in search of Magdi.Toku and Enril arrive at Summerfalls Village, a picturesque location that has been beset by an eternal winter. Even more worryingly, its people now live in fear of ferocious monsters who hide in the snow.Fearing the worst, and with the chilling cold taking its toll, Toku and Enril seek the help of Sonté the Spirit of Seasons. Sonté's season-changing powers will provide the key to unravelling the plight of Summerfalls, and unearth an ancient curse that haunts the Melodia City.As events continue to take unexpected turns Toku and Enril venture onward. Wielding their new powers with care in the face of potentially fatal dilemmas, Toku and Enril are plunged into a race against time to save not only the life of Toku's mother but also the future of Mistralis...</desc>
@@ -855,21 +413,6 @@ Another 100 years has passed since the death of Count Dracula, but the revival o
 		<developer>Frontier Developments</developer>
 		<publisher>Frontier Developments</publisher>
 		<genre>Action-Platform-Puzzle-Game</genre>
-	</game>
-	<game>
-		<path>./Punch-Out!! (USA) (En,Fr,Es).cc.rvz</path>
-		<name>Punch-Out!!</name>
-		<desc>One of the biggest names in boxing returns after a 15-year hiatus. In Punch-Out!! you play as young up-and-coming fighter Little Mac who, with the help of his ringside trainer Doc Lewis, is working his way through the ranks of a wide variety of boxing caricatures, each with their own patterns of attacks. Grab a Wii Remote controller in one hand and a Nunchuk controller in the other and step back into the ring with a modern update of the classic Punch-Out!!Little Mac Is BackEveryone?s favorite underdog from the 1980s joins the best of the original Punch-Out!! cast in a modern re-imagining of the series. Players will find familiar names like Glass Joe, King Hippo and trainer Doc Louis. These boxers come to life again in cell-shaded 3-D, complete with hilarious fighting animations and back stories that capture all the fun and flair of the original Punch-Out!! games.The Wii's Motion SensitivityThe motion-sensitive controls of the Wii console mean that when players throw punches, Little Mac throws punches as well. Additionally, you can control hooks and jabs by combining motion control with control-stick movement. The motion-sensing Wii Remote and Nunchuk controllers turn real-life swings into on-screen punches, so anyone can play. The game can also be played with classic NES-style controls by turning the Wii Remote sideways.CharactersPunch-Out!! features a total of 13 opponents for Little Mac to step into the ring with. 12 of which are returning from previous games in the Punch-Out!! series. Each has their own back story and patterns of attacks to learn and learns to counter. Just a few of the characters you can expect to see are:Little MacSmall but extremely game, Little Mac is a young, up-and-coming fighter, who with the help of his trainer, ex-champion Doc Lewis, has set his sights on working his way through the ranks.Glass JoeA fearful French fighter due to his extremely weak chin, Glass Joe will crumple to the mat quickly with just a few well-placed shots, making him an easy mark and a good warm-up for the fighters to follow.King HippoKing Hippo is both huge and an immensely powerful fighter, but can be weakened with the right combinations to the head and body, giving you time to go for the knockout if you can survive his onslaught.Von KaiserAn old-timey fighter whose rumored childhood difficulties have left him eager to dish out punishment in the ring, Von Kaiser is a dangerous opponent, but one who will turn tail if you can find his weakness.Special AttacksPlayers can obtain special 'Star Punches,' which allow Little Mac to take more health from his rival in a single punch. Players can now use multiple stars in a single punch for an extra-powerful attack.Controller OptionsPunch-Out!! features multiple controller options. For players looking to take advantage of the Wii's motion control capabilities, Punch-Out!! uses the Wii Remote and Nunchuck controllers to simulate throwing punches. Use the Nunchuck to throw a left punch and the Wii Remote to throw a right punch. Fans of the NES version and core gamers will be excited to see Nintendo has also included the option to play Punch-Out!! using the classic layout from the original NES controller. Use the 1 and 2 buttons along with the cross pad to throw hooks and jabs or to dodge.</desc>
-		<image>./mixart/Punch-Out!! (USA) (En,Fr,Es).cc.png</image>
-		<video>./snap/Punch-Out!! (USA) (En,Fr,Es).cc.mp4</video>
-		<marquee>./wheel/Punch-Out!! (USA) (En,Fr,Es).cc.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20090518T000000</releasedate>
-		<developer>Next Level Games</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Sports-Fight</genre>
-		<players>2</players>
-		<favorite>true</favorite>
 	</game>
 	<game id="9288" source="ScreenScraper.fr">
 		<path>./Opoona (USA).cc.rvz</path>
@@ -1632,25 +1175,6 @@ Mr. Driller W is the new and updated installment of the exciting, classic game c
 		<players>2</players>
 		<genreid>1280</genreid>
 	</game>
-	<game id="9039" source="ScreenScraper.fr">
-		<path>./A Boy and his Blob [NTSC-U].cc.rvz</path>
-		<name>Boy And His Blob, A</name>
-		<desc>The far-off kingdom of Blobolonia is threatened by an evil emperor.  An alien blob escapes from Blobolonia, searching for help, and he crash lands on planet Earth.  There he finds a young boy.  Help the pair save Blobolonia from the Emperor's tyrannical reign!
-
-A Boy and his Blob is based on David Crane's Nintendo game of the same name.  As the nameless Boy, you have control over an alien blob who can transform into different objects when you feed him different flavored jellybeans.  The transformations are usually based on puns (for example, punch is a hole, apple is a jack and licorice is a ladder) or similar sounding names (such as tangerine trampoline and pear parachute).  Using the different tools that Blob can transform into, it's up to the player to reach the exit door at the end of each level.
-
-Each level also has three hidden treasure chests in it.  If all three are found, a bonus level is unlocked.  The bonus levels are Challenge Levels, which are more difficult, and often based around using a specific skill or jellybean flavor.  Completing these levels unlocks special rewards such as concept art, videos and new game modes.</desc>
-		<image>./mixart/A Boy and his Blob [NTSC-U].cc.png</image>
-		<video>./snap/A Boy and his Blob [NTSC-U].cc.mp4</video>
-		<marquee>./wheel/A Boy and his Blob [NTSC-U].cc.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20091013T000000</releasedate>
-		<developer>Wayforward Technologies</developer>
-		<publisher>Majesco</publisher>
-		<genre>Action-Platform-Puzzle-Game</genre>
-		<players>1</players>
-		<genreid>257</genreid>
-	</game>
 	<game>
 		<path>./Metroid Prime Trilogy (USA).rvz</path>
 		<name>Metroid Prime: Trilogy</name>
@@ -1870,116 +1394,6 @@ Your Sims change as they take on the challenges of island life and learn to surv
 		<players>2-12</players>
 		<lang>en,es,fr</lang>
 		<region>eu</region>
-	</game>
-	<game id="142989">
-		<path>./Disney Epic Mickey 2 - The Power of Two (USA) (En,Fr,Es,Pt).rvz</path>
-		<name>Disney Epic Mickey 2: The Power Of Two</name>
-		<desc>Epic Mickey 2 takes place in a world based on classic and retired Disney characters and attractions. The story begins sometime after the conclusion of the original Epic Mickey, with Oswald and the other Wasteland characters starting to rebuild their world. A series of earthquakes threaten to undo the work, but the Mad Doctor appears and convinces Oswald to join forces and combat the new menace. Ortensia, Oswald s girlfriend, doesn t trust the Doctor, so she and Gus, Oswald s gremlin assistant, bring Mickey Mouse back to Wasteland to help.</desc>
-		<image>./mixart/Disney Epic Mickey 2 - The Power of Two (USA) (En,Fr,Es,Pt).png</image>
-		<video>./snap/Disney Epic Mickey 2 - The Power of Two (USA) (En,Fr,Es,Pt).mp4</video>
-		<marquee>./wheel/Disney Epic Mickey 2 - The Power of Two (USA) (En,Fr,Es,Pt).png</marquee>
-		<releasedate>20121123T000000</releasedate>
-		<developer>Junction Point Studios</developer>
-		<publisher>Disney Interactive</publisher>
-		<genre>Action / Adventure</genre>
-		<players>1-2</players>
-		<lang>en,pt,es,fr</lang>
-		<region>eu</region>
-	</game>
-	<game id="8806">
-		<path>./Driver - San Francisco (USA) (En,Fr,Es).rvz</path>
-		<name>Driver: San Francisco</name>
-		<desc>Save the city of San Francisco as detective hero John Tanner in Driver: San Francisco.A ruthless crime lord, Charles Jericho, is lurking in the streets of the City by the Bay. John Tanner is on a mission to stop the threat of this crime lord. Step into the driver's seat as this hardened detective and get ready for a relentless manhunt. Driver: San Francisco puts the wheels back into the hands of the player in this next installation in the classic racing saga. In this battle of good and evil, your car is your main weapon, and there are more than 130 vehicles to choose from. Tear through more than 200 square miles of road in San Francisco, including many iconic locations. Instantly swap to the exact car you need the moment you need it. In addition, you will get to experience six online game modes.</desc>
-		<image>./mixart/Driver - San Francisco (USA) (En,Fr,Es).png</image>
-		<video>./snap/Driver - San Francisco (USA) (En,Fr,Es).mp4</video>
-		<marquee>./wheel/Driver - San Francisco (USA) (En,Fr,Es).png</marquee>
-		<rating>0.55</rating>
-		<releasedate>20110906T000000</releasedate>
-		<developer>Ubisoft</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Race, Driving</genre>
-		<players>1-4</players>
-		<lang>en,es,fr</lang>
-		<region>eu</region>
-	</game>
-	<game id="9817">
-		<path>./ExciteBots - Trick Racing (USA).rvz</path>
-		<name>Excitebots : Trick Racing</name>
-		<desc>Excitebots is controlled with the Wii remote horizontally or optionally with the Wii Wheel. Most of the games are played on courses large in size with many opportunities to take meandering paths. The 25 different courses offered are modeled after real locations on Earth. Because of the size of each course, most races are two laps long and offer opportunities to gain massive altitude, perform various maneuvers, and obtain various items.</desc>
-		<image>./mixart/ExciteBots - Trick Racing (USA).png</image>
-		<video>./snap/ExciteBots - Trick Racing (USA).mp4</video>
-		<marquee>./wheel/ExciteBots - Trick Racing (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20090420T000000</releasedate>
-		<developer>Monster Games</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game id="9238">
-		<path>./Final Fantasy Crystal Chronicles - My Life as a Darklord (USA) (WiiWare).wad</path>
-		<name>Final Fantasy Crystal Chronicles : My Life as a Da</name>
-		<desc>My Life as a Darklord puts players in the highly fashionable shoes of the Darklord s daughter, a malevolent little Miss, charged with dispatching intruding do-gooders by strategically placing traps and monsters around the tower she calls home.</desc>
-		<image>./mixart/Final Fantasy Crystal Chronicles - My Life as a Darklord (USA) (WiiWare).png</image>
-		<video>./snap/Final Fantasy Crystal Chronicles - My Life as a Darklord (USA) (WiiWare).mp4</video>
-		<marquee>./wheel/Final Fantasy Crystal Chronicles - My Life as a Darklord (USA) (WiiWare).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20090630T000000</releasedate>
-		<developer>Square Enix</developer>
-		<publisher>Square Enix</publisher>
-		<genre>Simulation</genre>
-		<players>1</players>
-		<md5>de610d0cf551bcd8e5ec160714ec5b0d</md5>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game id="9027">
-		<path>./Ghostbusters - The Video Game (USA) (En,Fr,Es) (Rev 1).rvz</path>
-		<name>Ghostbusters: The Video Game</name>
-		<desc>Ghostbusters: The Video Game was penned by original Ghostbusters writers Harold Ramis and Dan Aykroyd and reunites members of the original cast for the first time in 20 years. Bill Murray, Dan Aykroyd, Harold Ramis, and Ernie Hudson lend their voices and in-game likenesses to the original story set two years after Ghostbusters II, with Manhattan once again overrun by ghosts and supernatural forces. The team work as ghost hunters for hire, cleaning up Manhattan's buildings of slime-spewing spooks. The game also features performances from fan favourites such as William Atherton (Walter Peck), Annie Potts (Janine Melnitz) and Brian Doyle-Murray (portraying Mayor Jock Mulligan). 2009 also marks the 25th Anniversary of the original theatrical release of Ghostbusters. The film spawned some of the most memorable comedic catch-phrases and scenes in motion picture history. When Manhattan is once again overrun by ghosts and other supernatural creatures, players will take on the role of a new recruit joining the famous Ghostbusters team.</desc>
-		<image>./mixart/Ghostbusters - The Video Game (USA) (En,Fr,Es) (Rev 1).png</image>
-		<video>./snap/Ghostbusters - The Video Game (USA) (En,Fr,Es) (Rev 1).mp4</video>
-		<marquee>./wheel/Ghostbusters - The Video Game (USA) (En,Fr,Es) (Rev 1).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20110923T000000</releasedate>
-		<developer>Red Fly Studios</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-		<lang>en,es,fr</lang>
-		<region>eu</region>
-	</game>
-	<game id="9721">
-		<path>./Jett Rocket.wad</path>
-		<name>Jett Rocket</name>
-		<desc>The player takes on the role of the eponymous Jett Rocket, a planetary inspector who is tasked with stopping the Power Plant Posse (PPP) from polluting the Earth-like planet Yoroppa. The objective is to clear each stage within the planet's three areas: the lush and tropical Atoll, the glacial and snowy Northpole, and the toxic and jungle-like Swamps. Within each stage lies a set number of solar cells, many of which are scattered about and some of which are hidden, that Jett must collect in order to unlock each stage and gain access to the subsequent areas. Additionally, Jett must defeat a general of the PPP at the end of each area. As with standard platforming games, Jett is capable of jumping, but can briefly hover when using his jet pack. Within certain stages, he can also paraglide as well as either ride a hoverboard or a jetboat. In addition, Jett can defeat enemies, clear obstacles and activate switches with his "Dash" attack, which can be executed by shaking the Wii Remote while he is standing (which sees him perform a somersaulting tackle) or after a jump (which sees him perform a diving hammer fist). The game also features an achievement system that can be completed either during or after completion of the main story.</desc>
-		<image>./mixart/Jett Rocket.png</image>
-		<video>./snap/Jett Rocket.mp4</video>
-		<marquee>./wheel/Jett Rocket.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20100101T000000</releasedate>
-		<developer>Shin'en</developer>
-		<publisher>Shin'en</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<md5>2ee0c6af7e88ba092ce374db55dfd462</md5>
-		<lang>en</lang>
-	</game>
-	<game id="9076">
-		<path>./King of Fighters Collection, The - The Orochi Saga (USA).rvz</path>
-		<name>King of Fighters Collection: The Orochi Saga</name>
-		<desc>The most extensive King of Fighters Collection collection, The King of Fighters Collection: The Orochi Saga contains five complete games, including the Orochi Saga trilogy ('95-'97) as well as KOF '94 and KOF '98: Dream Match Never Ends. Also featured are a variety of unlockable bonus features.</desc>
-		<image>./mixart/King of Fighters Collection, The - The Orochi Saga (USA).png</image>
-		<video>./snap/King of Fighters Collection, The - The Orochi Saga (USA).mp4</video>
-		<marquee>./wheel/King of Fighters Collection, The - The Orochi Saga (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20081208T000000</releasedate>
-		<genre>Fight</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
 	</game>
 	<game id="9051">
 		<path>./Klonoa (USA) (En,Fr,Es).rvz</path>
@@ -2211,22 +1625,6 @@ This new approach uses a new control scheme in which players use the Wii Remote 
 		<lang>en,es,fr</lang>
 		<region>eu</region>
 	</game>
-	<game id="8782">
-		<path>./Metroid Prime Trilogy (USA).rvz</path>
-		<name>Metroid Prime: Trilogy</name>
-		<desc>Metroid Prime 3: Corruption set a new standard for first-person motion controls in video games. Now it's bringing those controls to the rest of the celebrated series, allowing players to experience the entire Metroid Prime story arc with the peerless precision of the Wii Remote. Nintendo announces Metroid Prime Trilogy, a new premium three-game collection for the Wii console that bundles all three landmark Metroid Prime games onto one disc and revamps the first two installments with intuitive Wii Remote controls, wide-screen presentation and other enhancements. Each game maintains its original storyline and settings, but now Metroid Prime and Metroid Prime 2: Echoes lets you use your Wii Remote to aim with precision as heroine Samus Aran. Based on the breakthrough control system that debuted in Metroid Prime 3: Corruption, these new Wii controls bring an entirely new level of immersion and freedom to these milestone games.</desc>
-		<image>./mixart/Metroid Prime Trilogy (USA).png</image>
-		<video>./snap/Metroid Prime Trilogy (USA).mp4</video>
-		<marquee>./wheel/Metroid Prime Trilogy (USA).png</marquee>
-		<rating>1</rating>
-		<releasedate>20090904T000000</releasedate>
-		<developer>Retro Studios</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="10389">
 		<path>./Mr. Driller W (USA) (WiiWare).wad</path>
 		<name>Mr. Driller World</name>
@@ -2258,24 +1656,6 @@ Mr. Driller W is the new and updated installment of the exciting, classic game c
 		<players>4</players>
 		<lang>en</lang>
 		<region>us</region>
-	</game>
-	<game id="9092">
-		<path>./Need for Speed - Nitro (USA) (En,Fr,Es).rvz</path>
-		<name>Need for Speed: Nitro</name>
-		<desc>Need for Speed: Nitro is an arcade style racing game that emphasizes speed and excitement over realism or vehicle tuning. The Wii version allows up to 4 players to race, with a maximum of 8 racers at once. The Wii version lets up to 4 racers compete in a drag race.
-
-Events feature different modes, namely circuits, team circuts, elimination races, drift challenges, speed trap challenges, drag challenges and time attacks. Career mode allows players to compete in several cups and build up a roster of vehicles, while Arcade Mode lets players immediately jump into a race with customized difficulty and race conditions.
-
-During races, police will attempt to block and ram racers, causing damage that will reduce the players  top speed and amount of nitro available. The game features power-up icons in the race that immediately repair vehicle damage or increase your opponents heat level. During a race, players are awarded "style points" based on performing powerslides and drafting, and nitro is recharged over time.</desc>
-		<image>./mixart/Need for Speed - Nitro (USA) (En,Fr,Es).png</image>
-		<video>./snap/Need for Speed - Nitro (USA) (En,Fr,Es).mp4</video>
-		<marquee>./wheel/Need for Speed - Nitro (USA) (En,Fr,Es).png</marquee>
-		<rating>0.6</rating>
-		<developer>EA Games</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Race, Driving</genre>
-		<lang>en,es,fr</lang>
-		<region>eu</region>
 	</game>
 	<game id="8790">
 		<path>./Need for Speed - The Run (USA) (En,Fr,Es).rvz</path>
@@ -2530,21 +1910,6 @@ As you search for Cheryl, you will come across objects and recordings that tell 
 		<lang>en,es,fr</lang>
 		<region>eu</region>
 	</game>
-	<game id="8803">
-		<path>./Far Cry Vengeance (USA) (En,Fr,Es).rvz</path>
-		<name>Far Cry Vengeance</name>
-		<desc>The game takes full advantage of the Wii Remote and its Nunchuk attachment. For example, the player can make the character jump by lifting the nunchuk. Weapons are aimed by pointing the Wii Remote at the screen, and melee attacks are carried out by making a slashing motion with it. The zoom on sniper rifles will similarly be controlled by moving the Wii Remote towards the television. Split screen Chaos mode (standard deathmatch) is included.</desc>
-		<image>./mixart/Far Cry Vengeance (USA) (En,Fr,Es).png</image>
-		<video>./snap/Far Cry Vengeance (USA) (En,Fr,Es).mp4</video>
-		<marquee>./wheel/Far Cry Vengeance (USA) (En,Fr,Es).png</marquee>
-		<rating>0.35</rating>
-		<developer>Ubisoft</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<lang>en,es,fr</lang>
-		<region>eu</region>
-	</game>
 	<game id="8817">
 		<path>./Final Fantasy Crystal Chronicles - The Crystal Bearers (USA) (En,Fr,Es).rvz</path>
 		<name>Final Fantasy Crystal Chronicles: The Crystal Bearers</name>
@@ -2562,35 +1927,6 @@ In Layle's case, that magic involves the power to manipulate his surroundings to
 		<publisher>Square Enix</publisher>
 		<genre>Role playing games</genre>
 		<players>1-2</players>
-		<lang>en,es,fr</lang>
-		<region>eu</region>
-	</game>
-	<game id="9903">
-		<path>./Kamen Rider - Dragon Knight (USA) (En,Fr,Es).rvz</path>
-		<name>Kamen Rider : Dragon Knight</name>
-		<desc>Play as all 13 Kamen Riders from the Kamen Rider Dragon Knight TV series, each with their own unique Contract Beasts, Advent cards, and special abilities. More than 65 exciting missions on Ventara will test the skill of your Kamen Riders. Battle head to head with your favorite Kamen Riders in a unique battle system utilizing Contract Beasts and Advent cards. Earn extra Advent cards and unlock additional special abilities that could be used on multiple game modes. Simple but versatile controls allow players of all skill levels to pull off their favorite Kamen Rider moves from the show.
-
-This game was released only in USA.</desc>
-		<image>./mixart/Kamen Rider - Dragon Knight (USA) (En,Fr,Es).png</image>
-		<video>./snap/Kamen Rider - Dragon Knight (USA) (En,Fr,Es).mp4</video>
-		<marquee>./wheel/Kamen Rider - Dragon Knight (USA) (En,Fr,Es).png</marquee>
-		<releasedate>20091201T000000</releasedate>
-		<developer>D3 Publisher</developer>
-		<publisher>D3 Publisher</publisher>
-		<lang>en,es,fr</lang>
-		<region>eu</region>
-	</game>
-	<game id="10100">
-		<path>./Monster 4x4 - Stunt Racer (USA) (En,Fr,Es).rvz</path>
-		<name>Monster 4x4 : Stunt Racer</name>
-		<desc>Monster 4x4: Stunt Racer picks up where Monster 4x4: World Circuit finished and delivers bigger wheels, faster trucks and crazier stunts. But this time, there s an extra twist: an exclusive wall-driving feature. Players will be able to perform vertical stunts and find shortcuts as they take on their friends and family in 4-player split screen modes.</desc>
-		<image>./mixart/Monster 4x4 - Stunt Racer (USA) (En,Fr,Es).png</image>
-		<video>./snap/Monster 4x4 - Stunt Racer (USA) (En,Fr,Es).mp4</video>
-		<marquee>./wheel/Monster 4x4 - Stunt Racer (USA) (En,Fr,Es).png</marquee>
-		<rating>0.4</rating>
-		<publisher>Ubisoft</publisher>
-		<genre>Race, Driving</genre>
-		<players>2-4</players>
 		<lang>en,es,fr</lang>
 		<region>eu</region>
 	</game>
@@ -2735,54 +2071,150 @@ Your Sims change as they take on the challenges of island life and learn to surv
 		<lang>en,es,fr</lang>
 		<region>eu</region>
 	</game>
-	<game id="203542">
-		<path>./Harvest Moon - My Little Shop (USA) (WiiWare).wad</path>
-		<name>Harvest Moon : My Little Shop</name>
-		<desc>Welcome to Clover Town! You've just taken over your grandparents' farm and shop. The town has fallen on hard times, though. People are leaving, businesses are struggling, and the magic of the Harvest Sprites is gone. Can you turn Clover Town's fortunes around and restore its missing magic? Raise crops and animals, then use what you farm at your shop! Keep your customers happy by making wild fruit juices, towering ice cream cones, and extravagantly decorated eggs in a series of fun and fast-paced activities that use the Wii Remote controller to its fullest potential. </desc>
-		<image>./mixart/Harvest Moon - My Little Shop (USA) (WiiWare).png</image>
-		<video>./snap/Harvest Moon - My Little Shop (USA) (WiiWare).mp4</video>
-		<marquee>./wheel/Harvest Moon - My Little Shop (USA) (WiiWare).png</marquee>
-		<releasedate>20091123T000000</releasedate>
+	<game id="8986">
+		<path>./Final Fantasy Fables - Chocobo's Dungeon (USA).rvz</path>
+		<name>Final Fantasy Fables: Chocobo's Dungeon</name>
+		<desc>In the town of Lostime, memories are fluttering away with every toll of the local clock tower?s bell. If things go on like this, the residents won?t know their beaks from their bills! But who?s got the pluck to peck up their missing memories, and save them from a fate worse than forgetfulness? Chocobo, that?s who! With cute characters, great graphics and user-friendly controls, Chocobo?s Dungeon is fully-fledged FINAL FANTASY® fun for all the family! Chocobo Dungeon for the Nintendo Wii Features:User-friendly gameplay and controls get you into the game straight away Charming storyline and characters that are suitable for all As in other FINAL FANTASY titles, customise your character from a range of different jobs, each of which have unique special abilities and outfits to try out! Awe-inspiring summon beasts from FINAL FANTASY titles also make their appearances and can defeat enemies with amazing special attacks! Enjoy the fun-packed Pop-Up Duel card battle game with a friend over Nintendo Wi-Fi Connection!</desc>
+		<image>./mixart/Final Fantasy Fables - Chocobo's Dungeon (USA).png</image>
+		<video>./snap/Final Fantasy Fables - Chocobo's Dungeon (USA).mp4</video>
+		<marquee>./wheel/Final Fantasy Fables - Chocobo's Dungeon (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20080608T000000</releasedate>
 		<developer>h.a.n.d.</developer>
-		<publisher>Natsume</publisher>
-		<genre>Simulation / Build And Management</genre>
+		<publisher>Square Enix</publisher>
+		<genre>Role playing games</genre>
 		<players>1</players>
-		<md5>4636c0400d88bde1e4d573c84bf8b832</md5>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="9206">
-		<path>./Destroy All Humans! Big Willy Unleashed (USA) (En,Fr).rvz</path>
-		<name>Destroy All Humans! Big Willy Unleashed</name>
-		<desc>Crypto is back in the franchise that turns the tables on sci-fi action games. Destroy All Humans! Big Willy Unleashed allows you to play as the alien and take on the most feared enemy in the galaxy ? mankind!
-
-Destroy All Humans! Big Willy Unleashed takes players around the world, lampooning hallmarks of the funkiest decade ? the ?70's. Take on humans and other enemies with a devastating arsenal of weapons and mental abilities on foot, in your UFO, or behind the controls of your 25 foot-tall Big Willy mech!</desc>
-		<image>./mixart/Destroy All Humans! Big Willy Unleashed (USA) (En,Fr).png</image>
-		<video>./snap/Destroy All Humans! Big Willy Unleashed (USA) (En,Fr).mp4</video>
-		<marquee>./wheel/Destroy All Humans! Big Willy Unleashed (USA) (En,Fr).png</marquee>
-		<rating>0.7</rating>
-		<developer>Locomotive Games</developer>
-		<publisher>THQ</publisher>
-		<genre>Shooter / 3rd person</genre>
-		<players>2</players>
-		<lang>en,fr</lang>
-		<region>eu</region>
+	<game id="8864">
+		<path>./Harvest Moon - Animal Parade (USA).rvz</path>
+		<name>Harvest Moon: Animal Parade</name>
+		<desc>A divine tree which once stood in the middle of the Harvest Goddess  pond has begun to weaken, the creatures are beginning to leave the land, and the five bells have lost their power. Only the strength of the Harvest King can revive the earth and bring the tree back to life, but he is nowhere to be found. You must ring the five bells, bring the Harvest King back to the island, and help revive the Goddess  Tree, while at the same time running a large farm plantation. The release of this game for Wii allows the player to use the Wii Remote as an axe, shovel, watering can, fishing pole, milking the animals, and has many other uses. The player must grow and sell their crops to make money to buy things and furnish your ranch house. There are lots of crops to grow, including beans, tomatoes, potatoes, and many more.</desc>
+		<image>./mixart/Harvest Moon - Animal Parade (USA).png</image>
+		<video>./snap/Harvest Moon - Animal Parade (USA).mp4</video>
+		<marquee>./wheel/Harvest Moon - Animal Parade (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20091110T000000</releasedate>
+		<developer>Marvelous Interactive</developer>
+		<publisher>Natsume</publisher>
+		<genre>Simulation</genre>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
-	<game id="8750">
-		<path>./Disney Epic Mickey (USA) (En,Fr,Es).rvz</path>
-		<name>Disney Epic Mickey</name>
-		<desc>The Collector s Edition of Epic Mickey includes the game disc, a bonus disc, a Mickey figurine, a Wii console skin set, and a Wii Remote skin.</desc>
-		<image>./mixart/Disney Epic Mickey (USA) (En,Fr,Es).png</image>
-		<video>./snap/Disney Epic Mickey (USA) (En,Fr,Es).mp4</video>
-		<marquee>./wheel/Disney Epic Mickey (USA) (En,Fr,Es).png</marquee>
+	<game id="9759" source="ScreenScraper.fr">
+		<path>./Contra ReBirth (USA) (WiiWare).wad</path>
+		<name>Contra Rebirth</name>
+		<desc>Experience fast paced 2D side scrolling action from the series that pioneered the run-and-gun genre.
+
+Chief Salamander and his Neo-Salamander Force travel back to 1973 AD to invade Earth. They land in Central America and take control of the Shizuoka ruins on the Yucatan Peninsula. There, the aliens plan the destruction of all the ?Contra" on Earth. The Galactic President calls on Lance Bean, a member of the elite "Contra" warriors to save the Earth, but his sudden disappearance jeopardizes the safety of the planet. Now, Bill Rizer and the samurai, Genbei Yagyu are the last hope for Earth and must pick up their weapons and defeat the evil Neo-Salamander Army before all is lost. Experience the fast paced action packed 2D side-scrolling adventure that pioneered the run-and-gun genre.</desc>
+		<image>./mixart/Contra ReBirth (USA) (WiiWare).png</image>
+		<video>./snap/Contra ReBirth (USA) (WiiWare).mp4</video>
+		<marquee>./wheel/Contra ReBirth (USA) (WiiWare).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20090512T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<genreid>256</genreid>
+	</game>
+	<game>
+		<path>./Excitebike - World Rally (USA) (WiiWare).wad</path>
+		<name>Excitebike : World Rally</name>
+		<desc>The classic game play of Excitebike is combined with new controls and features in this exclusive WiiWare title! 
+Prepare to face daredevil jumps, crazy obstacles, and other racers in the newest member of the venerable Excitebike franchise, exclusively available on the WiiWare service. Choose from multiple camera angles as you tilt your way to smooth landings using the motion-sensitive controls and compete in races around the world in four championship circuits. Better yet, use Nintendo Wi-Fi Connection to invite friends to a race, or if you re feeling brave, take on anyone else looking for a match. Feel like tackling a challenge of your own design? Use the intuitive Track Editor to choose from the available obstacles and put together your dream course, then share your masterpiece with friends (and vice versa) to see whose creation skills reign supreme. After all, you know what they say about riding a bikeâ€”once you ve learned how, you never forget...</desc>
+		<image>./mixart/Excitebike - World Rally (USA) (WiiWare).png</image>
+		<video>./snap/Excitebike - World Rally (USA) (WiiWare).mp4</video>
+		<marquee>./wheel/Excitebike - World Rally (USA) (WiiWare).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20091109T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<favorite>true</favorite>
+	</game>
+	<game id="8694" source="ScreenScraper.fr">
+		<path>./Mario Kart Wii (USA) (En,Fr,Es).cc.rvz</path>
+		<name>Mario Kart Wii</name>
+		<desc>Mario Kart Wii is an installment of the long-running Mario Kart series, but here for the Nintendo Wii, where you take control of various Nintendo characters to race through different tracks and win the Grand Prix, using a variety of vehicles and items spread through the track to help you.
+
+There are various additions to the series. Players can now also play with motorbikes, which can do wheelies but are lighter and can't super boost, in contrast with karts. There's 6 varieties of each for each character class to choose from, and 4 new characters have been added as well as being able to drive with your Mii. Finally, there's 16 new tracks as well as 16 returning from previous games.
+
+Gameplay has also been modified. Drifting has been tweaked so that it's easier to use and players only get a turbo boost based on how well they perform the drift. It can be set to Manual, where players press a button to drift, or Automatic, where it's automatically triggered on curves but provides no turbo boost. Stunts can also be performed in the air to gain turbo boosts. Races have also been bolstered to support up to 12 players now.
+
+There's 4 modes of play to choose from: Grand Prix, where you race through series of tracks in the 50cc (karts only), 100cc (bikes only) and 150cc (karts and bikes) cups; Time Trial, where you take on ghost replays and try to finish in the least time; Versus, where you race against opponents on a single track; and Battle, where you can compete against your foes in either hitting them with weapons or collecting coins.
+
+Multiplayer is also supported, allowing up to 4 players in hotseat and 12 online on Nintendo Wi-Fi, where you can take on strangers and friends (with Friend Codes) in any game mode, play in competitions, beat other's ghost replays or check online rankings. The game can be played using a Wii Wheel (included), Wii Remote, Nunchuck, Classic Controller, or Gamecube Controller.</desc>
+		<image>./mixart/Mario Kart Wii (USA) (En,Fr,Es).cc.png</image>
+		<video>./snap/Mario Kart Wii (USA) (En,Fr,Es).cc.mp4</video>
+		<marquee>./wheel/Mario Kart Wii (USA) (En,Fr,Es).cc.png</marquee>
 		<rating>0.8</rating>
-		<releasedate>20101130T000000</releasedate>
-		<developer>Junction Point</developer>
-		<publisher>Disney Interactive</publisher>
-		<genre>Adventure</genre>
+		<releasedate>20080427T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<genreid>1537</genreid>
+	</game>
+	<game id="8692" source="ScreenScraper.fr">
+		<path>./Super Smash Bros. Brawl.cc.rvz</path>
+		<name>Super Smash Bros. Brawl</name>
+		<desc>Welcome to a brawl for the ages, where anything can happen, anyone can show up and all bets are off.Game storyline: In multiplayer games, characters from all Nintendo universes meet up in Nintendo locales to duke it out. In the solo mode called "The Subspace Emissary," the world of Smash Bros. is invaded by an entity called the Ancient Minister and his army of creatures, called "The Primid." Normally, characters come alive in the world of Smash Bros. to do battle, then turn back into trophies when defeated. However, the Ancient Minister starts turning characters into trophies to harness their power, then detonates bombs that suck pieces of the world back into his realm of Subspace. Eventually, all the characters must work together to defeat the invading creatures from Subspace - this is accomplished by playing through side-scrolling levels.How to progress through the game: For multiplayer games, players pick characters, set rules and locations for where they want to play and then duke it out. In Solo Mode, characters play through a long, side-scrolling adventure, beating up enemies along the way as they watch short cinematics starring their favorite characters.Characters: Mario, Samus, Bowser, Donkey Kong, Solid Snake, Meta Knight, Kirby, Pikachu, Zero Suit Samus, Link, Zelda, Pit and Wario, to name just a few. Anyone and anything from a Nintendo universe could appear in this game in one form or another.Special powers/weapons/moves/features: Anything from a Nintendo game could conceivably be in this game, whether it's a musical score, an obscure item or a character that shows up to help the fighters. Super Smash Bros. Brawl is eminently customizable, so players can choose the frequency of items appearing, adjust musical scores and basically play the game however they'd like. Items range from baseball bats to proximity mines to Poké Balls to Assist Trophies, which spawn characters like Hammer Bros. and Sim City's Dr. Wright to attack others.Super Smash Brawl Tournament WinnersLA Region Winner - David SegalSF Region Winner - Jason CaroMA Region Winner - Daniel JungNY Region Winner - Jensen SantiagoTournament National ChampionDaniel Jung * This action-packed fighting game features a ridiculous number of characters that have appeared on Nintendo platforms, from Mario to Link to Pikachu ... to Solid Snake! As they square off in famous locales drawn from the rich history of Nintendo, literally anything can happen - and usually does. With limitless customizing options, items and weapons that boggle the mind and a wealth of modes, this game has truly infinite replayability. * Super Smash Bros. Brawl features a sprawling adventure mode called "The Subspace Emissary" that's a full game in and of itself. Players jump and brawl their way through enemy-packed side-scrolling levels, meeting up with other characters, watching incredible cinematics and taking on massive bosses. * For the first time, this celebrated series is going Wi-Fi, allowing up to four players to brawl, no matter where they may be.</desc>
+		<image>./mixart/Super Smash Bros. Brawl.cc.png</image>
+		<video>./snap/Super Smash Bros. Brawl.cc.mp4</video>
+		<marquee>./wheel/Super Smash Bros. Brawl.cc.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20080309T000000</releasedate>
+		<developer>Game Arts</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Fight</genre>
+		<players>2-4</players>
+		<favorite>true</favorite>
+		<genreid>262</genreid>
+	</game>
+	<game id="10305">
+		<path>./Alien Crush Returns (USA) (WiiWare).wad</path>
+		<name>Alien Crush Returns</name>
+		<desc>Sci-Fi Pinball Action! Defeat an alien army and go online to compete for a high score!
+
+
+
+Alien Crush Returns is the ultimate incarnation of the popular TurboGrafx pinball classic, Alien Crush. Boasting innovative game play and control features, this is one Wii experience that you don t want to miss! With all the ball-blazing simplicity and flipper-action thrills of standard pinball, Alien Crush Returns has all the visual and digital elements that you ve come to expect in a video game, including grotesque, eye-stunning playfields as well as unique Action Ball gimmicks that redefine the fun and excitement of pinball. You can even nudge the machine with your Wii Remote controller. What s more, you can connect via Nintendo Wi-Fi Connection to enjoy a variety of features, such as four-player head-to-head action, high-score competitions, and Extra Stage downloads.</desc>
+		<image>./mixart/Alien Crush Returns (USA) (WiiWare).png</image>
+		<video>./snap/Alien Crush Returns (USA) (WiiWare).mp4</video>
+		<marquee>./wheel/Alien Crush Returns (USA) (WiiWare).png</marquee>
+		<rating>0.45</rating>
+		<releasedate>20081107T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Pinball</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<md5>26856a830782bcba2faba2f19f15116f</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="9039" source="ScreenScraper.fr">
+		<path>./A Boy and his Blob [NTSC-U].cc.rvz</path>
+		<name>Boy And His Blob, A</name>
+		<desc>The far-off kingdom of Blobolonia is threatened by an evil emperor.  An alien blob escapes from Blobolonia, searching for help, and he crash lands on planet Earth.  There he finds a young boy.  Help the pair save Blobolonia from the Emperor's tyrannical reign!
+
+A Boy and his Blob is based on David Crane's Nintendo game of the same name.  As the nameless Boy, you have control over an alien blob who can transform into different objects when you feed him different flavored jellybeans.  The transformations are usually based on puns (for example, punch is a hole, apple is a jack and licorice is a ladder) or similar sounding names (such as tangerine trampoline and pear parachute).  Using the different tools that Blob can transform into, it's up to the player to reach the exit door at the end of each level.
+
+Each level also has three hidden treasure chests in it.  If all three are found, a bonus level is unlocked.  The bonus levels are Challenge Levels, which are more difficult, and often based around using a specific skill or jellybean flavor.  Completing these levels unlocks special rewards such as concept art, videos and new game modes.</desc>
+		<image>./mixart/A Boy and his Blob [NTSC-U].cc.png</image>
+		<video>./snap/A Boy and his Blob [NTSC-U].cc.mp4</video>
+		<marquee>./wheel/A Boy and his Blob [NTSC-U].cc.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20091013T000000</releasedate>
+		<developer>Wayforward Technologies</developer>
+		<publisher>Majesco</publisher>
+		<genre>Action-Platform-Puzzle-Game</genre>
 		<players>1</players>
-		<lang>en,es,fr</lang>
-		<region>eu</region>
+		<genreid>257</genreid>
 	</game>
 	<game id="9448">
 		<path>./Alien Syndrome (USA).rvz</path>
@@ -2802,6 +2234,36 @@ The story of Alien Syndrome (2007) picks up approximately 20 years after the ori
 		<lang>en</lang>
 		<region>us</region>
 	</game>
+	<game id="8701" source="ScreenScraper.fr">
+		<path>./Animal Crossing - City Folk [NTSC-U].cc.rvz</path>
+		<name>Animal Crossing: City Folk</name>
+		<desc>If life were an endless vacation, what would you do? Go fishing, collect shells or watch fireworks with friends? Build a snowman, exchange presents with family or decorate your house for the holidays? Take a trip to the city, go on a shopping spree or visit friends from all over the globe? In Animal Crossing: Let's Go to the City, life moves at a relaxed pace, but the world brims with endless possibilities.There?s always something new to do. In the living, breathing world of Animal Crossing: Let's Go to the City days and seasons pass in real time, so there?s always something to discover. Catch fireflies in the summer, go trick-or-treating on Halloween or hunt for eggs on Bunny Day. If you?re in the mood for something a little faster paced, take a bus to a new urban city area that?s unique to Animal Crossing: Let's Go to the City. There you can catch a show at the theatre or check out the sales at Gracie?s boutique. But if you don?t show your face back home for too long, your neighbours will miss you.</desc>
+		<image>./mixart/Animal Crossing - City Folk [NTSC-U].cc.png</image>
+		<video>./snap/Animal Crossing - City Folk [NTSC-U].cc.mp4</video>
+		<marquee>./wheel/Animal Crossing - City Folk [NTSC-U].cc.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20081116T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<genreid>1024</genreid>
+	</game>
+	<game id="9061" source="ScreenScraper.fr">
+		<path>./Arc Rise Fantasia [NTSC-U].cc.rvz</path>
+		<name>Arc Rise Fantasia</name>
+		<desc>From Image Epoch, the team that created the strategy RPG Luminous Arc, comesan epic RPG exclusively developed for the Wii. Arc Rise Fantasia is a product of old and new, combining gorgeous graphics with modern gameplay while bringing classic Japanese high fantasy role-playing action involving airships and dragons, exclusively to the platform.Players will jump into the shoes of L'Arc, a calm and composed mercenary, who sets out to defend the Meridian Empire from an impending invasion of ferocious creatures. After assembling a party of friends, each with a unique set of abilities, players will embark on a perilous journey across an overworld filled with deadly enemies and treacherous dungeons. While strategically queuing up attacks, players can summon mystical creatures and work with their party members to execute massive attacks.</desc>
+		<image>./mixart/Arc Rise Fantasia [NTSC-U].cc.png</image>
+		<video>./snap/Arc Rise Fantasia [NTSC-U].cc.mp4</video>
+		<marquee>./wheel/Arc Rise Fantasia [NTSC-U].cc.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20090604T000000</releasedate>
+		<developer>Image Epoch</developer>
+		<publisher>Ignition Entertainment</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<genreid>768</genreid>
+	</game>
 	<game id="10336">
 		<path>./Arkanoid Plus! (USA) (WiiWare).wad</path>
 		<name>Arkanoid Plus!</name>
@@ -2819,6 +2281,40 @@ ARKANOID Plus! is an updated version of the original arcade blockbuster. Players
 		<md5>928add468533717a4a0d98bd2bb8795f</md5>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="9454" source="ScreenScraper.fr">
+		<path>./Baroque (USA).cc.rvz</path>
+		<name>Baroque</name>
+		<desc>A World Affected by Death and Reincarnation. Step into a dark action-RPG featuring twisted characters presented in a disturbing world of pain and suffering. After a cataclysmic event, the land and its inhabitants are warped into a nightmare only you can solve. Battle merciless foes as you travel deeper into the shifting Neuro Tower in search of absolution. Experience a never-before-seen dungeon structure where levels are forever-changing. Engage yourself in a unique propgression system where death merely serves to advance the storyline. Descend through the darkness to unveil more secrets of a broken world.</desc>
+		<image>./mixart/Baroque (USA).cc.png</image>
+		<video>./snap/Baroque (USA).cc.mp4</video>
+		<marquee>./wheel/Baroque (USA).cc.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20080408T000000</releasedate>
+		<developer>Sting Entertainment</developer>
+		<publisher>Rising Star Games</publisher>
+		<genre>Action-Role playing games</genre>
+		<players>1</players>
+		<genreid>768</genreid>
+	</game>
+	<game id="152802" source="ScreenScraper.fr">
+		<path>./Battalion Wars 2 [NTSC-U].cc.rvz</path>
+		<name>Battalion Wars 2</name>
+		<desc>This sequel to Battalion Wars plays much like its predecessor, blending real-time strategy with third-person shooting. The game's plot traces decades of war among six factions (Solar Empire, Western Frontier, Anglo Isles, Iron Legion, Tundran Territories, Xylvania), and unfolds through contemporary missions that advance the conflict and flashback missions that reveal its history. 
+ 
+Players control a soldier or a land, sea, or air vehicle to engage in combat directly and to command other units. The Wii Remote is used to target and fire, but selecting and ordering units is performed through conventional button presses. The Wii Nunchuk's thumbstick controls player movement, and evasive maneuvers are handled through gestures. 
+ 
+In the single-player campaign mode, the player assumes control of the various factions at different points in the conflict's history. The game also features three online multiplayer modes. Skirmish mode is a timed two-player match to score more points than the other player by destroying opposing units. Assault mode is a timed two-player match in which one player attempts to destroy the other player's resources and fortifications while the other defends. Co-Op mode is an untimed two-player match in which both players work together to complete special online missions that are not part of the single-player campaign. Offline local multiplayer is not supported.</desc>
+		<image>./mixart/Battalion Wars 2 [NTSC-U].cc.png</image>
+		<video>./snap/Battalion Wars 2 [NTSC-U].cc.mp4</video>
+		<marquee>./wheel/Battalion Wars 2 [NTSC-U].cc.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20071029T000000</releasedate>
+		<developer>Kuju Entertainment</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Strategy</genre>
+		<players>2</players>
+		<genreid>1280</genreid>
 	</game>
 	<game id="10013">
 		<path>./Bit Boy!! (USA) (WiiWare).wad</path>
@@ -2865,6 +2361,21 @@ The Wii Remote is your joystick - let the arcade adventure begin!!</desc>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
+	<game id="9037" source="ScreenScraper.fr">
+		<path>./Bit.Trip Complete [NTSC-U].cc.rvz</path>
+		<name>Bit.trip Complete</name>
+		<desc>Retro-classic meets modern-cool in this collection of games built on a creative combination of 8-bit graphics and addictive, quick-hit, arcade-style play that dares you to escape its gravitational pull. Bit.Trip Complete brings together six Bit.Trip games: Bit.Trip Beat, Core, Void, Runner, Fate, and Flux. Together, they tell the epic story of CommaderVideo. Beat, Core, and Void are all rhythm-based challenges. Runner moves to 2600-style platforming, Fate turns on the shooter explosiveness, while Flux returns to Bit.Trip's rhythm roots. Each game features a classic chiptune soundtrack and one-of-a-kind visuals that look like they leaked out of an Atari that spent the last 30 years cooking in the microwave.Features:- 6 Complete Games- Online Leaderboards- 120 New Gameplay Challenges- New Difficulty Modes- Unlockable Audio, Video, and Art Galleries</desc>
+		<image>./mixart/Bit.Trip Complete [NTSC-U].cc.png</image>
+		<video>./snap/Bit.Trip Complete [NTSC-U].cc.mp4</video>
+		<marquee>./wheel/Bit.Trip Complete [NTSC-U].cc.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20120316T000000</releasedate>
+		<developer>Gaijin Games</developer>
+		<publisher>Marvelous Interactive</publisher>
+		<genre>Various-Compilation-Music and Dance-Action-Shoot'em Up</genre>
+		<players>1</players>
+		<genreid>266</genreid>
+	</game>
 	<game id="9663">
 		<path>./Blast Works - Build, Trade, Destroy (USA).rvz</path>
 		<name>Blast Works : Build Trade Destroy</name>
@@ -2880,6 +2391,21 @@ The Wii Remote is your joystick - let the arcade adventure begin!!</desc>
 		<players>2-4</players>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="9396" source="ScreenScraper.fr">
+		<path>./Bomberman Blast.wad</path>
+		<name>Bomberman Blast</name>
+		<desc>A brand new addition to the "Bomberman" series is available on WiiWare! Up to 8 players can battle online at once via Nintendo Wi-Fi Connection! Simple controls make this a great game for family and friends to enjoy at anytime!New items can be triggered by shaking the Wii Remote for excitement never before experienced in a Bomberman title! You can even take the intensity up another notch by adding your own Miis to the mix!Battle results can be recorded on the Nintendo Wi-Fi Connection Ranking, so see how you stack up against others around the globe! This title will prove to be a blast for everyone--from those who've never touched a Bomberman game, to the Bomberman masters!</desc>
+		<image>./mixart/Bomberman Blast.png</image>
+		<video>./snap/Bomberman Blast.mp4</video>
+		<marquee>./wheel/Bomberman Blast.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action</genre>
+		<players>4+</players>
+		<genreid>256</genreid>
 	</game>
 	<game id="8696">
 		<path>./Call of Duty - Black Ops (USA).rvz</path>
@@ -2897,6 +2423,133 @@ The Wii Remote is your joystick - let the arcade adventure begin!!</desc>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
+	<game id="9810" source="ScreenScraper.fr">
+		<path>./Castle of Shikigami III [NTSC-U].cc.rvz</path>
+		<name>Castle of Shikigami III</name>
+		<desc>A continuation of the Shikigami series, CoS III is a standard vertical-scrolling sci-fi shooter, featuring ten different characters each with their own special weapons and abilities.
+
+There are five different stages to play in, each of them divided into two chapters and has the standard huge, wild-looking bosses to destroy. The player also has the option to switch between aircraft in mid-flight in one-player games or you can play with a friend in co-op.  There are fifty-five possible story elements and a Tension Bonus system that rewards the player by putting themselves in danger by getting close to enemies and dodging enemy fire and it also has a gallery mode.</desc>
+		<image>./mixart/Castle of Shikigami III [NTSC-U].cc.png</image>
+		<video>./snap/Castle of Shikigami III [NTSC-U].cc.mp4</video>
+		<marquee>./wheel/Castle of Shikigami III [NTSC-U].cc.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20080513T000000</releasedate>
+		<developer>PQube</developer>
+		<publisher>Alfa System</publisher>
+		<genre>Action-Shoot'em Up</genre>
+		<players>2</players>
+		<genreid>260</genreid>
+	</game>
+	<game id="8891" source="ScreenScraper.fr">
+		<path>./Castlevania Judgment [NTSC-U].cc.rvz</path>
+		<name>Castlevania Judgment</name>
+		<desc>Castlevania Judgement is a first in many: it s the first Castlevania beat em up. It s also the first time old friends of the Belmont clan meet together in a full 3D environment. 
+ 
+Galamoth pursues to change the course of fate by resurrecting a 10,000 year old demon, Time Reaper, to destroy Dracula. Aeon, a magician who discovers Galamoth s plan, summons past and present Castlevania heroes through a time rift to stop Galamoth. 
+ 
+Castlevania Judgement is a 3D beat em up where you go one-on-one against friends or computer foes. Several different game modes like the usual beat em up modes of story, training and versus. In addition there s a Castle mode, where you must venture through Dracula s Castle before going face to face with Time Reaper. Survival mode has you fighting for time as there are no continues.</desc>
+		<image>./mixart/Castlevania Judgment [NTSC-U].cc.png</image>
+		<video>./snap/Castlevania Judgment [NTSC-U].cc.mp4</video>
+		<marquee>./wheel/Castlevania Judgment [NTSC-U].cc.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20090319T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action-Fight</genre>
+		<players>2</players>
+		<genreid>262</genreid>
+	</game>
+	<game>
+		<path>./Castlevania ReBirth.wad</path>
+		<name>Castlevania : The Adventure Rebirth</name>
+		<desc>The classic Castlevania game is reborn for the Wii with all-new upgrades. 
+ 
+Another 100 years has passed since the death of Count Dracula, but the revival of his curse has emerged once again within the realms of Transylvania. Play the role of the ultimate gothic hero from the long lineage of vampire hunters, the Belmont clan, and rid the universe of Dracula s legion of darkness and doom. Based on the classic 1989 original Castlevania: The Adventure, the WiiWare version will allow players of a new generation and older fans to experience one of the most popular games within the storied Castlevania timeline from a new perspective.</desc>
+		<image>./mixart/Castlevania ReBirth.png</image>
+		<video>./snap/Castlevania ReBirth.mp4</video>
+		<marquee>./wheel/Castlevania ReBirth.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20091228T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+	</game>
+	<game id="10088" source="ScreenScraper.fr">
+		<path>./Cho Aniki.wad</path>
+		<name>Cho Aniki : Super Big Brothers</name>
+		<desc>In Cho Aniki - Super Big Brothers despite having dominated the Galactic Bodybuilding Contest for the past 10 years, the emperor of Planet Builder felt ill at ease. His home planet's supply of PROTEIN was running out. Holding muscular prowess to be the supreme virtue of the universe, the forces of Planet Builder indiscriminately invaded nearby planets. Unwilling to stand by and let their celestial home be laid to waste, "IDATEN" and "BENTEN" set forth to drive out the invading Builder forces, destroy their PROTEIN mining facilities, and make their way to Planet Builder itself to annihilate this galactic menace!</desc>
+		<image>./mixart/Cho Aniki.png</image>
+		<video>./snap/Cho Aniki.mp4</video>
+		<marquee>./wheel/Cho Aniki.png</marquee>
+		<releasedate>20080509T000000</releasedate>
+		<developer>Masaya Games</developer>
+		<publisher>Masaya Games</publisher>
+		<genre>Shoot'em Up</genre>
+		<genreid>260</genreid>
+	</game>
+	<game id="9797" source="ScreenScraper.fr">
+		<path>./Club Penguin - Game Day [NTSC-U].cc.rvz</path>
+		<name>Club Penguin Game Day!</name>
+		<desc>Play in the first ever Club Penguin island-wide Game Day challenge only on the Nintendo Wii. Create your own penguin, join a team and compete against other penguin teams in Dance Off!, Puffle Paddle, Sumo Smash, Fast Freeze and more. Compete to see who is the best team once and for all!</desc>
+		<image>./mixart/Club Penguin - Game Day [NTSC-U].cc.png</image>
+		<video>./snap/Club Penguin - Game Day [NTSC-U].cc.mp4</video>
+		<marquee>./wheel/Club Penguin - Game Day [NTSC-U].cc.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20100916T000000</releasedate>
+		<developer>Disney Interactive</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Casual Game</genre>
+		<genreid>2304</genreid>
+	</game>
+	<game id="8857">
+		<path>./Conduit 2 (USA) (En,Fr,Es).rvz</path>
+		<name>Conduit 2</name>
+		<desc>Conduit? 2 is the epic sequel to last year?s award-winning Wii-exclusive, The Conduit. Picking up on the heels of its predecessor, Conduit 2 puts you on the embattled front lines of the war to save humanity from the alien onslaught.Travel to the far ends of the earth to put an end to the struggle. The enemy is everywhere and the deck is stacked - trust no one. Turn the tide with the most powerful arsenal ever assembled and bring the alien menace to its knees.Key Features:? TEAM INVASION MODENew co-op mode where up to four player players battle side-by-side against waves of enemies. Fight online over the Nintendo® Wi-Fi Connection or on the same console via splitscreen mode.? THE BEST ONLINE MULTIPLAYER EXPERIENCE ON THE Wii?Take the battle online with up to 12-players or play locally via 4-player splitscreen. Features new modes and more expansive battlefields from around the globe.? PLAY IT YOUR WAYCreate your character?s unique look with the modular armour system and selectable skins. Class system with pre-mission weapon load-out and suit upgrades. Gain currency to purchase new weaponry, armour, upgrades, and additional content.? ADVANCED WEAPONS AND TECHNOLOGYFeatures an arsenal of over 20 weapons, including wall-penetrating sniper rifles, remotely-controlled deployable turrets, and alien technology that captures incoming fire and unleashes it back on the enemy. Man fixed emplacements at fortified positions and on drop ships. Use the alien ASE device to hack electronics and uncover hidden traps and enemies.</desc>
+		<image>./mixart/Conduit 2 (USA) (En,Fr,Es).png</image>
+		<video>./snap/Conduit 2 (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/Conduit 2 (USA) (En,Fr,Es).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20110422T000000</releasedate>
+		<developer>High Voltage</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<players>2-4</players>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="8936">
+		<path>./Dawn of Discovery (USA).rvz</path>
+		<name>Dawn of Discovery</name>
+		<desc>Anno: Create a New World, takes place in year 1404, where King George's land suffers from drought and famine. Aware of the distress of his citizens, he decides to remedy the situation by sending his two sons, William and Edward, to explore new fertile territories that could produce enough goods to satisfy his people. Despite being brothers, both sons have very different personalities; where Edward suggests fighting to collect the resources they need, his brother William offers a more peaceful approach, suggesting they explore new and unsettled lands to the south.With the agreement of his father, William heads south, where he discovers the Oriental culture. He befriends the locals and, in return, they teach William new technologies and secrets to take back to his father's kingdom. However, the Sultan is suddenly kidnapped, and his aggressive sister takes over control of the Orient. She cuts all friendly relations with George's empire and expresses a desire to attack. Having not totally met his needs for resources, George sends both of his sons abroad to procure more goods for his empire in whatever manner possible, in order to be prepared for imminent battle.</desc>
+		<image>./mixart/Dawn of Discovery (USA).png</image>
+		<video>./snap/Dawn of Discovery (USA).mp4</video>
+		<marquee>./wheel/Dawn of Discovery (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20090522T000000</releasedate>
+		<developer>Keen Entertainment</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Simulation</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="9206">
+		<path>./Destroy All Humans! Big Willy Unleashed (USA) (En,Fr).rvz</path>
+		<name>Destroy All Humans! Big Willy Unleashed</name>
+		<desc>Crypto is back in the franchise that turns the tables on sci-fi action games. Destroy All Humans! Big Willy Unleashed allows you to play as the alien and take on the most feared enemy in the galaxy ? mankind!
+
+Destroy All Humans! Big Willy Unleashed takes players around the world, lampooning hallmarks of the funkiest decade ? the ?70's. Take on humans and other enemies with a devastating arsenal of weapons and mental abilities on foot, in your UFO, or behind the controls of your 25 foot-tall Big Willy mech!</desc>
+		<image>./mixart/Destroy All Humans! Big Willy Unleashed (USA) (En,Fr).png</image>
+		<video>./snap/Destroy All Humans! Big Willy Unleashed (USA) (En,Fr).mp4</video>
+		<marquee>./wheel/Destroy All Humans! Big Willy Unleashed (USA) (En,Fr).png</marquee>
+		<rating>0.7</rating>
+		<developer>Locomotive Games</developer>
+		<publisher>THQ</publisher>
+		<genre>Shooter / 3rd person</genre>
+		<players>2</players>
+		<lang>en,fr</lang>
+		<region>eu</region>
+	</game>
 	<game id="8928">
 		<path>./DiRT 2 (USA) (En,Fr,Es).rvz</path>
 		<name>Colin McRae: DiRT 2</name>
@@ -2912,6 +2565,145 @@ The Wii Remote is your joystick - let the arcade adventure begin!!</desc>
 		<players>2-4</players>
 		<lang>en,es,fr</lang>
 		<region>eu</region>
+	</game>
+	<game id="8750">
+		<path>./Disney Epic Mickey (USA) (En,Fr,Es).rvz</path>
+		<name>Disney Epic Mickey</name>
+		<desc>The Collector s Edition of Epic Mickey includes the game disc, a bonus disc, a Mickey figurine, a Wii console skin set, and a Wii Remote skin.</desc>
+		<image>./mixart/Disney Epic Mickey (USA) (En,Fr,Es).png</image>
+		<video>./snap/Disney Epic Mickey (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/Disney Epic Mickey (USA) (En,Fr,Es).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20101130T000000</releasedate>
+		<developer>Junction Point</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="142989">
+		<path>./Disney Epic Mickey 2 - The Power of Two (USA) (En,Fr,Es,Pt).rvz</path>
+		<name>Disney Epic Mickey 2: The Power Of Two</name>
+		<desc>Epic Mickey 2 takes place in a world based on classic and retired Disney characters and attractions. The story begins sometime after the conclusion of the original Epic Mickey, with Oswald and the other Wasteland characters starting to rebuild their world. A series of earthquakes threaten to undo the work, but the Mad Doctor appears and convinces Oswald to join forces and combat the new menace. Ortensia, Oswald s girlfriend, doesn t trust the Doctor, so she and Gus, Oswald s gremlin assistant, bring Mickey Mouse back to Wasteland to help.</desc>
+		<image>./mixart/Disney Epic Mickey 2 - The Power of Two (USA) (En,Fr,Es,Pt).png</image>
+		<video>./snap/Disney Epic Mickey 2 - The Power of Two (USA) (En,Fr,Es,Pt).mp4</video>
+		<marquee>./wheel/Disney Epic Mickey 2 - The Power of Two (USA) (En,Fr,Es,Pt).png</marquee>
+		<releasedate>20121123T000000</releasedate>
+		<developer>Junction Point Studios</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Action / Adventure</genre>
+		<players>2</players>
+		<lang>en,pt,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="9211" source="ScreenScraper.fr">
+		<path>./Dokapon Kingdom (USA).cc.rvz</path>
+		<name>Dokapon Kingdom</name>
+		<desc>The Kingdom of Dokapon is a land of wealth and riches ruled by a gold-loving King and his daughter Princess Penny. One day, monsters begin appearing all over the realm, assaulting the towns and stealing all of the empire¿s wealth. The King, unable to collect taxes from his impoverished citizens, calls for heroes from across the land to come and rid his monarchy of these monsters. The prize for the hero who is able to free the land: The hand of Princess Penny and rule of the Kingdom itself! Warning : relationship counseling not included!</desc>
+		<image>./mixart/Dokapon Kingdom (USA).cc.png</image>
+		<video>./snap/Dokapon Kingdom (USA).cc.mp4</video>
+		<marquee>./wheel/Dokapon Kingdom (USA).cc.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20081014T000000</releasedate>
+		<developer>Sting</developer>
+		<publisher>Bigben Interactive</publisher>
+		<genre>Casual Game-Role playing games</genre>
+		<players>2-4</players>
+		<genreid>2304</genreid>
+	</game>
+	<game>
+		<path>./Donkey Kong Country Returns (USA) (En,Fr,Es) (Rev 1).cc.rvz</path>
+		<name>Donkey Kong Country Returns</name>
+		<desc>Under the influence of a group of evil Tikis, the animals of Donkey Kong Island have raided Donkey Kong's banana hoard and stolen his stash of bananas - and being an ape of large appetites he understandably wants them back. Good thing that you are along for the ride. With Donkey Kong Country Returns, Retro Studios brings Donkey Kong back to a banana and platforming hungry public in a new side-scrolling adventure with familiar characters and new levels that reignite the passion players had for the Super NES original and all things Donkey Kong.</desc>
+		<image>./mixart/Donkey Kong Country Returns (USA) (En,Fr,Es) (Rev 1).cc.png</image>
+		<video>./snap/Donkey Kong Country Returns (USA) (En,Fr,Es) (Rev 1).cc.mp4</video>
+		<marquee>./wheel/Donkey Kong Country Returns (USA) (En,Fr,Es) (Rev 1).cc.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20101203T000000</releasedate>
+		<developer>Retro Studios</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Platform</genre>
+		<players>2</players>
+	</game>
+	<game id="9664" source="ScreenScraper.fr">
+		<path>./Dr Mario Online Rx.wad</path>
+		<name>Dr. Mario Online RX</name>
+		<desc>The all-time puzzle classic returns for the Wii generation, featuring online gameplay and a new Germ Buster mode! Destroy all the viruses trapped in the bottle by dropping and slotting capsules to create lines of matching colours. The more viruses you clear, the faster the capsules drop.nnnnIn Dr. Mario, challenge the computer in 1 Player mode, go head-to-head with a friend in 2 Player mode, or prove your skills against the world via Nintendo Wi-Fi Connection. You can also send a demo version of the game to a friend (within your region) using WiiConnect24.nnnnIn Germ Buster (based on the relaxation game in More Brain Training from Dr Kawashima), up to four players can use their Wii Remotes to grab, spin and slot capsules as your Miis try to keep the nasty bugs at bay. Who thought that catching germs could be so much fun?</desc>
+		<image>./mixart/Dr Mario Online Rx.png</image>
+		<video>./snap/Dr Mario Online Rx.mp4</video>
+		<marquee>./wheel/Dr Mario Online Rx.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20080325T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Compilation-Puzzle-Game</genre>
+		<players>2</players>
+		<genreid>3840</genreid>
+	</game>
+	<game id="9951" source="ScreenScraper.fr">
+		<path>./Dracula - Undead Awakening.wad</path>
+		<name>Dracula : Undead Awakening</name>
+		<desc>Are you a Vampire Hunter, ready to battle legions of undead foes; zombies, ghouls, werewolves and Dracula himself? 
+ 
+Are you a vampire hunter? Are you ready to battle legions of undead foes including zombies, ghouls, werewolves, and more? You will need to wield an arsenal of jaw-droppingly powerful weaponry with skill and intelligence. Uncover devastating firepower such as machine guns, buzz-saws and flamethrowers, choosing upgrades for them as well as unique new perks for your character as your enemies increase in number and ferocity. You are a tough customer, but bewareâ€”Lord Dracula is always on the hunt and you are his prey! Enemies in Dracula have one thing in common. Undead, lycanthrope, mutant, and many moreâ€”they re all after your flesh. Not to worry thoughâ€”you come bearing â€œgifts.â€  Well, as long as you think of sharp, explosive, devastatingly destructive weaponry and ammo as â€œgifts.â€</desc>
+		<image>./mixart/Dracula - Undead Awakening.png</image>
+		<video>./snap/Dracula - Undead Awakening.mp4</video>
+		<marquee>./wheel/Dracula - Undead Awakening.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20100226T000000</releasedate>
+		<developer>Chillingo</developer>
+		<publisher>Chillingo</publisher>
+		<genre>Adventure</genre>
+		<genreid>512</genreid>
+	</game>
+	<game id="8806">
+		<path>./Driver - San Francisco (USA) (En,Fr,Es).rvz</path>
+		<name>Driver: San Francisco</name>
+		<desc>Save the city of San Francisco as detective hero John Tanner in Driver: San Francisco.A ruthless crime lord, Charles Jericho, is lurking in the streets of the City by the Bay. John Tanner is on a mission to stop the threat of this crime lord. Step into the driver's seat as this hardened detective and get ready for a relentless manhunt. Driver: San Francisco puts the wheels back into the hands of the player in this next installation in the classic racing saga. In this battle of good and evil, your car is your main weapon, and there are more than 130 vehicles to choose from. Tear through more than 200 square miles of road in San Francisco, including many iconic locations. Instantly swap to the exact car you need the moment you need it. In addition, you will get to experience six online game modes.</desc>
+		<image>./mixart/Driver - San Francisco (USA) (En,Fr,Es).png</image>
+		<video>./snap/Driver - San Francisco (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/Driver - San Francisco (USA) (En,Fr,Es).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>20110906T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="9162">
+		<path>./Excite Truck (USA).rvz</path>
+		<name>Excite Truck</name>
+		<desc>In the grand racing tradition of Excitebike, get ready for a big-air experience like no other! Players rocket their trucks across dynamically changing terrain in this nitrous-injected, high-flying racer for speed junkies. Showing the Wii Remote's versatility, players tilt the controller on its side to turn it into a wireless steering wheel!* Body English: Remember tilting your arms while playing Excitebike to try to make your character land a huge jump? Now that move will actually affect the game in Excite Truck.* Controller as a Steering Wheel: Players hold the Wii Remote like an NES controller to control the truck. The 2 Button is the accelerator, the 1 Button is the brake, the +Control Pad is the turbo... but that's just the beginning. Tilt the Wii Remote controller right and left like a steering wheel to steer. Once the truck goes airborne, tilt the Wii Remote controller every which way to line up the wheels for landing boosts.* Dynamic Terrain: Pick up items on the courses to make the terrain deform in real time, turning innocent bumps into massive launch pads that affect not only the player's route, but that of his or her rivals. Players jump and bump their way to the highest score and highest finish.</desc>
+		<image>./mixart/Excite Truck (USA).png</image>
+		<video>./snap/Excite Truck (USA).mp4</video>
+		<marquee>./wheel/Excite Truck (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20070216T000000</releasedate>
+		<developer>Monster Games</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="9817">
+		<path>./ExciteBots - Trick Racing (USA).rvz</path>
+		<name>Excitebots : Trick Racing</name>
+		<desc>Excitebots is controlled with the Wii remote horizontally or optionally with the Wii Wheel. Most of the games are played on courses large in size with many opportunities to take meandering paths. The 25 different courses offered are modeled after real locations on Earth. Because of the size of each course, most races are two laps long and offer opportunities to gain massive altitude, perform various maneuvers, and obtain various items.</desc>
+		<image>./mixart/ExciteBots - Trick Racing (USA).png</image>
+		<video>./snap/ExciteBots - Trick Racing (USA).mp4</video>
+		<marquee>./wheel/ExciteBots - Trick Racing (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20090420T000000</releasedate>
+		<developer>Monster Games</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 	<game id="140695">
 		<path>./Lost in Shadow (USA) (En,Fr,Es) (Rev 1).rvz</path>
@@ -2929,21 +2721,86 @@ The Wii Remote is your joystick - let the arcade adventure begin!!</desc>
 		<lang>en,es,fr</lang>
 		<region>eu</region>
 	</game>
-	<game id="8857">
-		<path>./Conduit 2 (USA) (En,Fr,Es).rvz</path>
-		<name>Conduit 2</name>
-		<desc>Conduit? 2 is the epic sequel to last year?s award-winning Wii-exclusive, The Conduit. Picking up on the heels of its predecessor, Conduit 2 puts you on the embattled front lines of the war to save humanity from the alien onslaught.Travel to the far ends of the earth to put an end to the struggle. The enemy is everywhere and the deck is stacked - trust no one. Turn the tide with the most powerful arsenal ever assembled and bring the alien menace to its knees.Key Features:? TEAM INVASION MODENew co-op mode where up to four player players battle side-by-side against waves of enemies. Fight online over the Nintendo® Wi-Fi Connection or on the same console via splitscreen mode.? THE BEST ONLINE MULTIPLAYER EXPERIENCE ON THE Wii?Take the battle online with up to 12-players or play locally via 4-player splitscreen. Features new modes and more expansive battlefields from around the globe.? PLAY IT YOUR WAYCreate your character?s unique look with the modular armour system and selectable skins. Class system with pre-mission weapon load-out and suit upgrades. Gain currency to purchase new weaponry, armour, upgrades, and additional content.? ADVANCED WEAPONS AND TECHNOLOGYFeatures an arsenal of over 20 weapons, including wall-penetrating sniper rifles, remotely-controlled deployable turrets, and alien technology that captures incoming fire and unleashes it back on the enemy. Man fixed emplacements at fortified positions and on drop ships. Use the alien ASE device to hack electronics and uncover hidden traps and enemies.</desc>
-		<image>./mixart/Conduit 2 (USA) (En,Fr,Es).png</image>
-		<video>./snap/Conduit 2 (USA) (En,Fr,Es).mp4</video>
-		<marquee>./wheel/Conduit 2 (USA) (En,Fr,Es).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20110422T000000</releasedate>
-		<developer>High Voltage</developer>
-		<publisher>SEGA</publisher>
+	<game id="8782">
+		<path>./Metroid Prime Trilogy (USA).rvz</path>
+		<name>Metroid Prime: Trilogy</name>
+		<desc>Metroid Prime 3: Corruption set a new standard for first-person motion controls in video games. Now it's bringing those controls to the rest of the celebrated series, allowing players to experience the entire Metroid Prime story arc with the peerless precision of the Wii Remote. Nintendo announces Metroid Prime Trilogy, a new premium three-game collection for the Wii console that bundles all three landmark Metroid Prime games onto one disc and revamps the first two installments with intuitive Wii Remote controls, wide-screen presentation and other enhancements. Each game maintains its original storyline and settings, but now Metroid Prime and Metroid Prime 2: Echoes lets you use your Wii Remote to aim with precision as heroine Samus Aran. Based on the breakthrough control system that debuted in Metroid Prime 3: Corruption, these new Wii controls bring an entirely new level of immersion and freedom to these milestone games.</desc>
+		<image>./mixart/Metroid Prime Trilogy (USA).png</image>
+		<video>./snap/Metroid Prime Trilogy (USA).mp4</video>
+		<marquee>./wheel/Metroid Prime Trilogy (USA).png</marquee>
+		<rating>1</rating>
+		<releasedate>20090904T000000</releasedate>
+		<developer>Retro Studios</developer>
+		<publisher>Nintendo</publisher>
 		<genre>Action</genre>
-		<players>2-4</players>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="8803">
+		<path>./Far Cry Vengeance (USA) (En,Fr,Es).rvz</path>
+		<name>Far Cry Vengeance</name>
+		<desc>The game takes full advantage of the Wii Remote and its Nunchuk attachment. For example, the player can make the character jump by lifting the nunchuk. Weapons are aimed by pointing the Wii Remote at the screen, and melee attacks are carried out by making a slashing motion with it. The zoom on sniper rifles will similarly be controlled by moving the Wii Remote towards the television. Split screen Chaos mode (standard deathmatch) is included.</desc>
+		<image>./mixart/Far Cry Vengeance (USA) (En,Fr,Es).png</image>
+		<video>./snap/Far Cry Vengeance (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/Far Cry Vengeance (USA) (En,Fr,Es).png</marquee>
+		<rating>0.35</rating>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Action</genre>
+		<players>2</players>
 		<lang>en,es,fr</lang>
 		<region>eu</region>
+	</game>
+	<game id="9636" source="ScreenScraper.fr">
+		<path>./FAST - Racing League.wad</path>
+		<name>FAST : Racing League</name>
+		<desc>Prepare yourself for a whole new racing experience at breakneck speeds. 
+ 
+In the year 2112 the masses are fascinated by extreme high speed races. The latest antigrav racing technology introduced phase shifting. Perfect phase matching of track and racing machine is the key to stay alive. 
+ 
+Prepare yourself for a whole new racing experience at breakneck speeds. Push your skills to the limit to win races and beat records. Challenge your friends to an all-out split-screen competition. Compete against ruthless opponents and race to the top of all leagues. Warm up your engines, the future is now...</desc>
+		<image>./mixart/FAST - Racing League.png</image>
+		<video>./snap/FAST - Racing League.mp4</video>
+		<marquee>./wheel/FAST - Racing League.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20110527T000000</releasedate>
+		<developer>Shin'en</developer>
+		<publisher>Shin'en</publisher>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+		<genreid>1537</genreid>
+	</game>
+	<game id="8799" source="ScreenScraper.fr">
+		<path>./FIFA Soccer 10 (USA) (En,Es).cc.rvz</path>
+		<name>FIFA 10 World Class Soccer</name>
+		<desc>Listening to feedback and addressing gamer frustrations has become a key part of the EA SPORTS strategy to improve the FIFA franchise on an annual basis.Better balance on lofted through balls, improved goalkeeper intelligence, more realistic shooting mechanics with less shots hitting the goal posts, a practice arena to perfect skills, and a more immersive football experience through continuous play and quick free kicks are just a few of the issues raised by fans and addressed in FIFA 10. Three new innovations revealed today have been developed to change the player control experience in FIFA 10. The first-ever true 360° dribbling system gives players finer control of the ball, enabling them to find spaces between defenders that previously were not possible. Using an all-new animation technology, skilled dribblers now have the ability to face the defender and use highly responsive lateral dribbling to skip past him. An innovative concept called Freedom in Physical Play enables players to perform wider dribble touches and new collision sharing creates a varied, less predictable, and extended fight for possession between the dribbler and a defender.FIFA 10 also features a deeper iteration of the ever-popular Manager Mode with more than 50 major improvements, including new match realism, realistic player transfers based on multiple decision points, and true-to-life player growth curves.</desc>
+		<image>./mixart/FIFA Soccer 10 (USA) (En,Es).cc.png</image>
+		<video>./snap/FIFA Soccer 10 (USA) (En,Es).cc.mp4</video>
+		<marquee>./wheel/FIFA Soccer 10 (USA) (En,Es).cc.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20091001T000000</releasedate>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>4</players>
+		<genreid>1536</genreid>
+	</game>
+	<game id="9238">
+		<path>./Final Fantasy Crystal Chronicles - My Life as a Darklord (USA) (WiiWare).wad</path>
+		<name>Final Fantasy Crystal Chronicles : My Life as a Da</name>
+		<desc>My Life as a Darklord puts players in the highly fashionable shoes of the Darklord s daughter, a malevolent little Miss, charged with dispatching intruding do-gooders by strategically placing traps and monsters around the tower she calls home.</desc>
+		<image>./mixart/Final Fantasy Crystal Chronicles - My Life as a Darklord (USA) (WiiWare).png</image>
+		<video>./snap/Final Fantasy Crystal Chronicles - My Life as a Darklord (USA) (WiiWare).mp4</video>
+		<marquee>./wheel/Final Fantasy Crystal Chronicles - My Life as a Darklord (USA) (WiiWare).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20090630T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<md5>de610d0cf551bcd8e5ec160714ec5b0d</md5>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 	<game id="9112">
 		<path>./Final Fantasy Crystal Chronicles - My Life as a King (USA) (WiiWare).wad</path>
@@ -2962,186 +2819,39 @@ The Wii Remote is your joystick - let the arcade adventure begin!!</desc>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="8986">
-		<path>./Final Fantasy Fables - Chocobo's Dungeon (USA).rvz</path>
-		<name>Final Fantasy Fables: Chocobo's Dungeon</name>
-		<desc>In the town of Lostime, memories are fluttering away with every toll of the local clock tower?s bell. If things go on like this, the residents won?t know their beaks from their bills! But who?s got the pluck to peck up their missing memories, and save them from a fate worse than forgetfulness? Chocobo, that?s who! With cute characters, great graphics and user-friendly controls, Chocobo?s Dungeon is fully-fledged FINAL FANTASY® fun for all the family! Chocobo Dungeon for the Nintendo Wii Features:User-friendly gameplay and controls get you into the game straight away Charming storyline and characters that are suitable for all As in other FINAL FANTASY titles, customise your character from a range of different jobs, each of which have unique special abilities and outfits to try out! Awe-inspiring summon beasts from FINAL FANTASY titles also make their appearances and can defeat enemies with amazing special attacks! Enjoy the fun-packed Pop-Up Duel card battle game with a friend over Nintendo Wi-Fi Connection!</desc>
-		<image>./mixart/Final Fantasy Fables - Chocobo's Dungeon (USA).png</image>
-		<video>./snap/Final Fantasy Fables - Chocobo's Dungeon (USA).mp4</video>
-		<marquee>./wheel/Final Fantasy Fables - Chocobo's Dungeon (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20080608T000000</releasedate>
-		<developer>h.a.n.d.</developer>
-		<publisher>Square Enix</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game id="8738">
-		<path>./GoldenEye 007 (USA) (En,Fr).rvz</path>
-		<name>GoldenEye 007</name>
-		<desc>The GoldenEye story comes to life once again with an updated single player storyline featuring Daniel Craig as Bond and written by Bruce Feirstein, the screenwriter for the original movie. Surprise enemies covertly or engage in a full on firefight and use Bond s latest gadget to uncover intel in augmented reality as you relive all the classic GoldenEye movie moments. Infiltrate the dam and destroy the facility; chase Ourumov in the tank through the streets of St. Petersburgh; and investigate the secret jungle base.
-Key Game Features
-BRINGING MULTIPLAYER BACK TO ITS ROOTS. . Splitscreen returns to the first person shooter in GoldenEye . 4 players in the same room, on the same screen. The extensive variety of characters, game modes and weapons lets you customize the perfect experience from over 500 split screen game combinations
-40 unique characters: Play as your favorite Bond characters and villains, including 8 classic characters . Oddjob, Jaws, Scaramanga, Baron Samedi, Dr. No, Rosa Klebb, Red Grant, and Blofeld
-17 special game modifiers: Mix and match to create a unique gaming experience every time you play. Put a twist on standard game types with special modes like Paintball, Melee Only and You Only Live Twice
-A vast arsenal of weapons and gadgets: Eliminate adversaries with Bond s signature P99 and an assortment of automatic and sniper rifles, or ensure a surprise attack with proximity mines
-Online multiplayer: GoldenEye also features online multiplayer for up to 8 players designed for seasoned FPS online gamers with unique modes and a robust XP system for unlockables and achievements</desc>
-		<image>./mixart/GoldenEye 007 (USA) (En,Fr).png</image>
-		<video>./snap/GoldenEye 007 (USA) (En,Fr).mp4</video>
-		<marquee>./wheel/GoldenEye 007 (USA) (En,Fr).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20101105T000000</releasedate>
-		<developer>Eurocom</developer>
-		<publisher>Activision</publisher>
-		<genre>Shooter / 1st person</genre>
-		<players>4</players>
-		<lang>en,fr</lang>
-		<region>eu</region>
-	</game>
-	<game id="8864">
-		<path>./Harvest Moon - Animal Parade (USA).rvz</path>
-		<name>Harvest Moon: Animal Parade</name>
-		<desc>A divine tree which once stood in the middle of the Harvest Goddess  pond has begun to weaken, the creatures are beginning to leave the land, and the five bells have lost their power. Only the strength of the Harvest King can revive the earth and bring the tree back to life, but he is nowhere to be found. You must ring the five bells, bring the Harvest King back to the island, and help revive the Goddess  Tree, while at the same time running a large farm plantation. The release of this game for Wii allows the player to use the Wii Remote as an axe, shovel, watering can, fishing pole, milking the animals, and has many other uses. The player must grow and sell their crops to make money to buy things and furnish your ranch house. There are lots of crops to grow, including beans, tomatoes, potatoes, and many more.</desc>
-		<image>./mixart/Harvest Moon - Animal Parade (USA).png</image>
-		<video>./snap/Harvest Moon - Animal Parade (USA).mp4</video>
-		<marquee>./wheel/Harvest Moon - Animal Parade (USA).png</marquee>
+	<game id="8714" source="ScreenScraper.fr">
+		<path>./Fire Emblem - Radiant Dawn (USA) (Rev 1).cc.rvz</path>
+		<name>Fire Emblem: Radiant Dawn</name>
+		<desc>The sequel to 2005 s Path of Radiance and the tenth game in the Fire Emblem series, Radiant Dawn takes place three years after the defeat of the Daein kingdom by Crimea. 
+ 
+Unlike other Wii games, the main method of control is either through the classic controller or GameCube controller, since the action is wholly turn-based tactical combat, largely the same as the previous nine games. The game consists of 44 chapters and uses the same engine as Path of Radiance. There are three new weapon and magic types: Knife, Dark Magic and Strike. 
+ 
+The player must lead a band of heroes against the Begnion Empire s oppression of the defeated Daein, along with help from many of the heroes from Path of Radiance. The members of the Dawn group are the main heroes of the game, with a major role for Sothe, who was a child thief from the previous Fire Emblem game.</desc>
+		<image>./mixart/Fire Emblem - Radiant Dawn (USA) (Rev 1).cc.png</image>
+		<video>./snap/Fire Emblem - Radiant Dawn (USA) (Rev 1).cc.mp4</video>
+		<marquee>./wheel/Fire Emblem - Radiant Dawn (USA) (Rev 1).cc.png</marquee>
 		<rating>0.9</rating>
-		<releasedate>20091110T000000</releasedate>
-		<developer>Marvelous Interactive</developer>
-		<publisher>Natsume</publisher>
-		<genre>Simulation</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game id="8936">
-		<path>./Dawn of Discovery (USA).rvz</path>
-		<name>Dawn of Discovery</name>
-		<desc>Anno: Create a New World, takes place in year 1404, where King George's land suffers from drought and famine. Aware of the distress of his citizens, he decides to remedy the situation by sending his two sons, William and Edward, to explore new fertile territories that could produce enough goods to satisfy his people. Despite being brothers, both sons have very different personalities; where Edward suggests fighting to collect the resources they need, his brother William offers a more peaceful approach, suggesting they explore new and unsettled lands to the south.With the agreement of his father, William heads south, where he discovers the Oriental culture. He befriends the locals and, in return, they teach William new technologies and secrets to take back to his father's kingdom. However, the Sultan is suddenly kidnapped, and his aggressive sister takes over control of the Orient. She cuts all friendly relations with George's empire and expresses a desire to attack. Having not totally met his needs for resources, George sends both of his sons abroad to procure more goods for his empire in whatever manner possible, in order to be prepared for imminent battle.</desc>
-		<image>./mixart/Dawn of Discovery (USA).png</image>
-		<video>./snap/Dawn of Discovery (USA).mp4</video>
-		<marquee>./wheel/Dawn of Discovery (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20090522T000000</releasedate>
-		<developer>Keen Entertainment</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Simulation</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game id="9162">
-		<path>./Excite Truck (USA).rvz</path>
-		<name>Excite Truck</name>
-		<desc>In the grand racing tradition of Excitebike, get ready for a big-air experience like no other! Players rocket their trucks across dynamically changing terrain in this nitrous-injected, high-flying racer for speed junkies. Showing the Wii Remote's versatility, players tilt the controller on its side to turn it into a wireless steering wheel!* Body English: Remember tilting your arms while playing Excitebike to try to make your character land a huge jump? Now that move will actually affect the game in Excite Truck.* Controller as a Steering Wheel: Players hold the Wii Remote like an NES controller to control the truck. The 2 Button is the accelerator, the 1 Button is the brake, the +Control Pad is the turbo... but that's just the beginning. Tilt the Wii Remote controller right and left like a steering wheel to steer. Once the truck goes airborne, tilt the Wii Remote controller every which way to line up the wheels for landing boosts.* Dynamic Terrain: Pick up items on the courses to make the terrain deform in real time, turning innocent bumps into massive launch pads that affect not only the player's route, but that of his or her rivals. Players jump and bump their way to the highest score and highest finish.</desc>
-		<image>./mixart/Excite Truck (USA).png</image>
-		<video>./snap/Excite Truck (USA).mp4</video>
-		<marquee>./wheel/Excite Truck (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20070216T000000</releasedate>
-		<developer>Monster Games</developer>
+		<releasedate>20071105T000000</releasedate>
+		<developer>Intelligent Systems</developer>
 		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
+		<genre>Strategy-Role playing games</genre>
+		<players>1</players>
+		<genreid>1280</genreid>
 	</game>
-	<game id="10305">
-		<path>./Alien Crush Returns (USA) (WiiWare).wad</path>
-		<name>Alien Crush Returns</name>
-		<desc>Sci-Fi Pinball Action! Defeat an alien army and go online to compete for a high score!
-
-
-
-Alien Crush Returns is the ultimate incarnation of the popular TurboGrafx pinball classic, Alien Crush. Boasting innovative game play and control features, this is one Wii experience that you don t want to miss! With all the ball-blazing simplicity and flipper-action thrills of standard pinball, Alien Crush Returns has all the visual and digital elements that you ve come to expect in a video game, including grotesque, eye-stunning playfields as well as unique Action Ball gimmicks that redefine the fun and excitement of pinball. You can even nudge the machine with your Wii Remote controller. What s more, you can connect via Nintendo Wi-Fi Connection to enjoy a variety of features, such as four-player head-to-head action, high-score competitions, and Extra Stage downloads.</desc>
-		<image>./mixart/Alien Crush Returns (USA) (WiiWare).png</image>
-		<video>./snap/Alien Crush Returns (USA) (WiiWare).mp4</video>
-		<marquee>./wheel/Alien Crush Returns (USA) (WiiWare).png</marquee>
-		<rating>0.45</rating>
-		<releasedate>20081107T000000</releasedate>
-		<developer>Hudson</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Pinball</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<md5>26856a830782bcba2faba2f19f15116f</md5>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game id="9759" source="ScreenScraper.fr">
-		<path>./Contra ReBirth (USA) (WiiWare).wad</path>
-		<name>Contra Rebirth</name>
-		<desc>Experience fast paced 2D side scrolling action from the series that pioneered the run-and-gun genre.
-
-Chief Salamander and his Neo-Salamander Force travel back to 1973 AD to invade Earth. They land in Central America and take control of the Shizuoka ruins on the Yucatan Peninsula. There, the aliens plan the destruction of all the ?Contra" on Earth. The Galactic President calls on Lance Bean, a member of the elite "Contra" warriors to save the Earth, but his sudden disappearance jeopardizes the safety of the planet. Now, Bill Rizer and the samurai, Genbei Yagyu are the last hope for Earth and must pick up their weapons and defeat the evil Neo-Salamander Army before all is lost. Experience the fast paced action packed 2D side-scrolling adventure that pioneered the run-and-gun genre.</desc>
-		<image>./mixart/Contra ReBirth (USA) (WiiWare).png</image>
-		<video>./snap/Contra ReBirth (USA) (WiiWare).mp4</video>
-		<marquee>./wheel/Contra ReBirth (USA) (WiiWare).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20090512T000000</releasedate>
+	<game id="10440" source="ScreenScraper.fr">
+		<path>./Frogger Returns.wad</path>
+		<name>Frogger Returns</name>
+		<desc>Your favorite street-hopping amphibian is back!  
+ 
+Frogger Returns takes the heart-pounding challenge of arcade Frogger and takes it into the next dimension! Classic top-down 2D gameplay is updated with colorful 3D graphics, a new perspective, all-new levels, new enemies and game-changing power-ups to dodge and use! Local multiplayer lets you race a friend to victory</desc>
+		<image>./mixart/Frogger Returns.png</image>
+		<video>./snap/Frogger Returns.mp4</video>
+		<marquee>./wheel/Frogger Returns.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20100212T000000</releasedate>
 		<developer>Konami</developer>
 		<publisher>Konami</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<genreid>256</genreid>
-	</game>
-	<game>
-		<path>./Excitebike - World Rally (USA) (WiiWare).wad</path>
-		<name>Excitebike : World Rally</name>
-		<desc>The classic game play of Excitebike is combined with new controls and features in this exclusive WiiWare title! 
-Prepare to face daredevil jumps, crazy obstacles, and other racers in the newest member of the venerable Excitebike franchise, exclusively available on the WiiWare service. Choose from multiple camera angles as you tilt your way to smooth landings using the motion-sensitive controls and compete in races around the world in four championship circuits. Better yet, use Nintendo Wi-Fi Connection to invite friends to a race, or if you re feeling brave, take on anyone else looking for a match. Feel like tackling a challenge of your own design? Use the intuitive Track Editor to choose from the available obstacles and put together your dream course, then share your masterpiece with friends (and vice versa) to see whose creation skills reign supreme. After all, you know what they say about riding a bikeâ€”once you ve learned how, you never forget...</desc>
-		<image>./mixart/Excitebike - World Rally (USA) (WiiWare).png</image>
-		<video>./snap/Excitebike - World Rally (USA) (WiiWare).mp4</video>
-		<marquee>./wheel/Excitebike - World Rally (USA) (WiiWare).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20091109T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<favorite>true</favorite>
-	</game>
-	<game id="10249" source="ScreenScraper.fr">
-		<path>./Indianapolis 500 Legends (USA).cc.rvz</path>
-		<name>Indianapolis 500 Legends</name>
-		<desc>Indianapolis 500 Legends transports us back to the famous race during the Golden Racing era from 1961 to 1971. Race in open-wheel Indy cars and play a role in the story that characterized each Indy 500 event. Experience the personal rivalries, technological breakthroughs, race track changes and dramas that shaped the evolution of an epic international motor sport event. 
-
-Indy 500 features mission based racing that includes challenging famous rivals to re-live key moments in Indy 500 history. The game also showcases the innovative control system of the Wii - Steer your race car with the Wii Remote and perform pit stop min-games using gesture games.</desc>
-		<image>./mixart/Indianapolis 500 Legends (USA).cc.png</image>
-		<video>./snap/Indianapolis 500 Legends (USA).cc.mp4</video>
-		<marquee>./wheel/Indianapolis 500 Legends (USA).cc.png</marquee>
-		<releasedate>20071002T000000</releasedate>
-		<developer>Torus Games</developer>
-		<publisher>Torus Games</publisher>
-		<genre>Sports-Race, Driving</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<genreid>1537</genreid>
-	</game>
-	<game id="8694" source="ScreenScraper.fr">
-		<path>./Mario Kart Wii (USA) (En,Fr,Es).cc.rvz</path>
-		<name>Mario Kart Wii</name>
-		<desc>Mario Kart Wii is an installment of the long-running Mario Kart series, but here for the Nintendo Wii, where you take control of various Nintendo characters to race through different tracks and win the Grand Prix, using a variety of vehicles and items spread through the track to help you.
-
-There are various additions to the series. Players can now also play with motorbikes, which can do wheelies but are lighter and can't super boost, in contrast with karts. There's 6 varieties of each for each character class to choose from, and 4 new characters have been added as well as being able to drive with your Mii. Finally, there's 16 new tracks as well as 16 returning from previous games.
-
-Gameplay has also been modified. Drifting has been tweaked so that it's easier to use and players only get a turbo boost based on how well they perform the drift. It can be set to Manual, where players press a button to drift, or Automatic, where it's automatically triggered on curves but provides no turbo boost. Stunts can also be performed in the air to gain turbo boosts. Races have also been bolstered to support up to 12 players now.
-
-There's 4 modes of play to choose from: Grand Prix, where you race through series of tracks in the 50cc (karts only), 100cc (bikes only) and 150cc (karts and bikes) cups; Time Trial, where you take on ghost replays and try to finish in the least time; Versus, where you race against opponents on a single track; and Battle, where you can compete against your foes in either hitting them with weapons or collecting coins.
-
-Multiplayer is also supported, allowing up to 4 players in hotseat and 12 online on Nintendo Wi-Fi, where you can take on strangers and friends (with Friend Codes) in any game mode, play in competitions, beat other's ghost replays or check online rankings. The game can be played using a Wii Wheel (included), Wii Remote, Nunchuck, Classic Controller, or Gamecube Controller.</desc>
-		<image>./mixart/Mario Kart Wii (USA) (En,Fr,Es).cc.png</image>
-		<video>./snap/Mario Kart Wii (USA) (En,Fr,Es).cc.mp4</video>
-		<marquee>./wheel/Mario Kart Wii (USA) (En,Fr,Es).cc.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20080427T000000</releasedate>
-		<developer>Nintendo EAD</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<genreid>1537</genreid>
+		<genre>Various</genre>
 	</game>
 	<game id="8698" source="ScreenScraper.fr">
 		<path>./New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2).cc.rvz</path>
@@ -3167,20 +2877,355 @@ Up to four players can play simultaneously.  When playing together, as long as o
 		<favorite>true</favorite>
 		<genreid>257</genreid>
 	</game>
-	<game id="8692" source="ScreenScraper.fr">
-		<path>./Super Smash Bros. Brawl.cc.rvz</path>
-		<name>Super Smash Bros. Brawl</name>
-		<desc>Welcome to a brawl for the ages, where anything can happen, anyone can show up and all bets are off.Game storyline: In multiplayer games, characters from all Nintendo universes meet up in Nintendo locales to duke it out. In the solo mode called "The Subspace Emissary," the world of Smash Bros. is invaded by an entity called the Ancient Minister and his army of creatures, called "The Primid." Normally, characters come alive in the world of Smash Bros. to do battle, then turn back into trophies when defeated. However, the Ancient Minister starts turning characters into trophies to harness their power, then detonates bombs that suck pieces of the world back into his realm of Subspace. Eventually, all the characters must work together to defeat the invading creatures from Subspace - this is accomplished by playing through side-scrolling levels.How to progress through the game: For multiplayer games, players pick characters, set rules and locations for where they want to play and then duke it out. In Solo Mode, characters play through a long, side-scrolling adventure, beating up enemies along the way as they watch short cinematics starring their favorite characters.Characters: Mario, Samus, Bowser, Donkey Kong, Solid Snake, Meta Knight, Kirby, Pikachu, Zero Suit Samus, Link, Zelda, Pit and Wario, to name just a few. Anyone and anything from a Nintendo universe could appear in this game in one form or another.Special powers/weapons/moves/features: Anything from a Nintendo game could conceivably be in this game, whether it's a musical score, an obscure item or a character that shows up to help the fighters. Super Smash Bros. Brawl is eminently customizable, so players can choose the frequency of items appearing, adjust musical scores and basically play the game however they'd like. Items range from baseball bats to proximity mines to Poké Balls to Assist Trophies, which spawn characters like Hammer Bros. and Sim City's Dr. Wright to attack others.Super Smash Brawl Tournament WinnersLA Region Winner - David SegalSF Region Winner - Jason CaroMA Region Winner - Daniel JungNY Region Winner - Jensen SantiagoTournament National ChampionDaniel Jung * This action-packed fighting game features a ridiculous number of characters that have appeared on Nintendo platforms, from Mario to Link to Pikachu ... to Solid Snake! As they square off in famous locales drawn from the rich history of Nintendo, literally anything can happen - and usually does. With limitless customizing options, items and weapons that boggle the mind and a wealth of modes, this game has truly infinite replayability. * Super Smash Bros. Brawl features a sprawling adventure mode called "The Subspace Emissary" that's a full game in and of itself. Players jump and brawl their way through enemy-packed side-scrolling levels, meeting up with other characters, watching incredible cinematics and taking on massive bosses. * For the first time, this celebrated series is going Wi-Fi, allowing up to four players to brawl, no matter where they may be.</desc>
-		<image>./mixart/Super Smash Bros. Brawl.cc.png</image>
-		<video>./snap/Super Smash Bros. Brawl.cc.mp4</video>
-		<marquee>./wheel/Super Smash Bros. Brawl.cc.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20080309T000000</releasedate>
-		<developer>Game Arts</developer>
+	<game id="10100">
+		<path>./Monster 4x4 - Stunt Racer (USA) (En,Fr,Es).rvz</path>
+		<name>Monster 4x4 : Stunt Racer</name>
+		<desc>Monster 4x4: Stunt Racer picks up where Monster 4x4: World Circuit finished and delivers bigger wheels, faster trucks and crazier stunts. But this time, there s an extra twist: an exclusive wall-driving feature. Players will be able to perform vertical stunts and find shortcuts as they take on their friends and family in 4-player split screen modes.</desc>
+		<image>./mixart/Monster 4x4 - Stunt Racer (USA) (En,Fr,Es).png</image>
+		<video>./snap/Monster 4x4 - Stunt Racer (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/Monster 4x4 - Stunt Racer (USA) (En,Fr,Es).png</marquee>
+		<rating>0.4</rating>
+		<publisher>Ubisoft</publisher>
+		<genre>Race, Driving</genre>
+		<players>2-4</players>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="9140" source="ScreenScraper.fr">
+		<path>./Geometry Wars - Galaxies (USA).cc.rvz</path>
+		<name>Geometry Wars Galaxies</name>
+		<desc>Blast your way through all-new battle grids, upgrade your new Battle Drone and blast through relentless waves of enemies in the first-ever Geometry Wars single-player campaign. Then join a friend for fast-paced multiplayer that's out of this world. Geometry Wars: Galaxies also includes the full version of Bizarre Creations' Geometry Wars: Retro Evolved, winner of IGN's Best Xbox Live Arcade Title of the Year.</desc>
+		<image>./mixart/Geometry Wars - Galaxies (USA).cc.png</image>
+		<video>./snap/Geometry Wars - Galaxies (USA).cc.mp4</video>
+		<marquee>./wheel/Geometry Wars - Galaxies (USA).cc.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20071120T000000</releasedate>
+		<developer>Kuju Entertainment</developer>
+		<publisher>Sierra</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<genreid>260</genreid>
+	</game>
+	<game id="9027">
+		<path>./Ghostbusters - The Video Game (USA) (En,Fr,Es) (Rev 1).rvz</path>
+		<name>Ghostbusters: The Video Game</name>
+		<desc>Ghostbusters: The Video Game was penned by original Ghostbusters writers Harold Ramis and Dan Aykroyd and reunites members of the original cast for the first time in 20 years. Bill Murray, Dan Aykroyd, Harold Ramis, and Ernie Hudson lend their voices and in-game likenesses to the original story set two years after Ghostbusters II, with Manhattan once again overrun by ghosts and supernatural forces. The team work as ghost hunters for hire, cleaning up Manhattan's buildings of slime-spewing spooks. The game also features performances from fan favourites such as William Atherton (Walter Peck), Annie Potts (Janine Melnitz) and Brian Doyle-Murray (portraying Mayor Jock Mulligan). 2009 also marks the 25th Anniversary of the original theatrical release of Ghostbusters. The film spawned some of the most memorable comedic catch-phrases and scenes in motion picture history. When Manhattan is once again overrun by ghosts and other supernatural creatures, players will take on the role of a new recruit joining the famous Ghostbusters team.</desc>
+		<image>./mixart/Ghostbusters - The Video Game (USA) (En,Fr,Es) (Rev 1).png</image>
+		<video>./snap/Ghostbusters - The Video Game (USA) (En,Fr,Es) (Rev 1).mp4</video>
+		<marquee>./wheel/Ghostbusters - The Video Game (USA) (En,Fr,Es) (Rev 1).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20110923T000000</releasedate>
+		<developer>Red Fly Studios</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="10075" source="ScreenScraper.fr">
+		<path>./Gradius ReBirth.wad</path>
+		<name>Gradius Rebirth</name>
+		<desc>Blast your way through levels filled with alien spaceships and otherworldly creatures in this retro side-scrolling shooter. Pick your weapons carefully and upgrade them to create a devastating arsenal of space-aged weapons that will aid you in your challenging mission. Players can post their high scores to worldwide leader boards via Nintendo Wi-Fi Connection and see where they rank against all the other Gradius ReBirth players. Test your skills with Gradius ReBirth and see if you have what it takes to beat this action-packed arcade shooter.</desc>
+		<image>./mixart/Gradius ReBirth.png</image>
+		<video>./snap/Gradius ReBirth.mp4</video>
+		<marquee>./wheel/Gradius ReBirth.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20090309T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<genreid>260</genreid>
+	</game>
+	<game id="10458" source="ScreenScraper.fr">
+		<path>./Gyrostarr.wad</path>
+		<name>Gyrostarr</name>
+		<desc>Killer arcade shooter with 50 levels of intense action and 1-4 player mayhem. Master the warp gate! 
+ 
+Gyrostarr challenges you and up to three additional players to pilot your ships through a series of twisting, turning technoplasma tracks while battling a variety of deadly alien foes at ever-increasing speeds. While fighting and maneuvering, you must collect enough energy to activate the ancient warpgate at the end of each track. Succeed, and you can journey to the next, even deadlier track. Fail, and the gate will slam shut, destroying your ship. Enhance your ship with weapon pickups, coordinate attacks with your friends to fire powerful combined blasts and use your grapple to snag energy and pickups in the midst of combat. Control your ship with the Wii Remote controller, Nunchuk controller or Classic Controller, or use the "paired" control system that allows two players to use a connected Wii Remote and Nunchuk or Classic Controller at the same time. Offering 50 levels of intense action, powerful pickups, high-speed bonus levels and mayhem for up to four players, Gyrostarr is a killer arcade challenge.</desc>
+		<image>./mixart/Gyrostarr.png</image>
+		<video>./snap/Gyrostarr.mp4</video>
+		<marquee>./wheel/Gyrostarr.png</marquee>
+		<releasedate>20080602T000000</releasedate>
+		<developer>High Voltage</developer>
+		<publisher>High Voltage</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2-4</players>
+		<genreid>260</genreid>
+	</game>
+	<game id="10249" source="ScreenScraper.fr">
+		<path>./Indianapolis 500 Legends (USA).cc.rvz</path>
+		<name>Indianapolis 500 Legends</name>
+		<desc>Indianapolis 500 Legends transports us back to the famous race during the Golden Racing era from 1961 to 1971. Race in open-wheel Indy cars and play a role in the story that characterized each Indy 500 event. Experience the personal rivalries, technological breakthroughs, race track changes and dramas that shaped the evolution of an epic international motor sport event. 
+
+Indy 500 features mission based racing that includes challenging famous rivals to re-live key moments in Indy 500 history. The game also showcases the innovative control system of the Wii - Steer your race car with the Wii Remote and perform pit stop min-games using gesture games.</desc>
+		<image>./mixart/Indianapolis 500 Legends (USA).cc.png</image>
+		<video>./snap/Indianapolis 500 Legends (USA).cc.mp4</video>
+		<marquee>./wheel/Indianapolis 500 Legends (USA).cc.png</marquee>
+		<releasedate>20071002T000000</releasedate>
+		<developer>Torus Games</developer>
+		<publisher>Torus Games</publisher>
+		<genre>Sports-Race, Driving</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<genreid>1537</genreid>
+	</game>
+	<game id="8738">
+		<path>./GoldenEye 007 (USA) (En,Fr).rvz</path>
+		<name>GoldenEye 007</name>
+		<desc>The GoldenEye story comes to life once again with an updated single player storyline featuring Daniel Craig as Bond and written by Bruce Feirstein, the screenwriter for the original movie. Surprise enemies covertly or engage in a full on firefight and use Bond s latest gadget to uncover intel in augmented reality as you relive all the classic GoldenEye movie moments. Infiltrate the dam and destroy the facility; chase Ourumov in the tank through the streets of St. Petersburgh; and investigate the secret jungle base.
+Key Game Features
+BRINGING MULTIPLAYER BACK TO ITS ROOTS. . Splitscreen returns to the first person shooter in GoldenEye . 4 players in the same room, on the same screen. The extensive variety of characters, game modes and weapons lets you customize the perfect experience from over 500 split screen game combinations
+40 unique characters: Play as your favorite Bond characters and villains, including 8 classic characters . Oddjob, Jaws, Scaramanga, Baron Samedi, Dr. No, Rosa Klebb, Red Grant, and Blofeld
+17 special game modifiers: Mix and match to create a unique gaming experience every time you play. Put a twist on standard game types with special modes like Paintball, Melee Only and You Only Live Twice
+A vast arsenal of weapons and gadgets: Eliminate adversaries with Bond s signature P99 and an assortment of automatic and sniper rifles, or ensure a surprise attack with proximity mines
+Online multiplayer: GoldenEye also features online multiplayer for up to 8 players designed for seasoned FPS online gamers with unique modes and a robust XP system for unlockables and achievements</desc>
+		<image>./mixart/GoldenEye 007 (USA) (En,Fr).png</image>
+		<video>./snap/GoldenEye 007 (USA) (En,Fr).mp4</video>
+		<marquee>./wheel/GoldenEye 007 (USA) (En,Fr).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20101105T000000</releasedate>
+		<developer>Eurocom</developer>
+		<publisher>Activision</publisher>
+		<genre>Shooter / 1st person</genre>
+		<players>4</players>
+		<lang>en,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="9801" source="ScreenScraper.fr">
+		<path>./NASCAR Kart Racing (USA).cc.rvz</path>
+		<name>Nascar Kart Racing</name>
+		<desc>The game features fourteen real world NASCAR drivers and ten fictional drivers. The cover drivers are, from left to right, Carl Edwards, Kyle Busch, Dale Earnhardt Jr., Jeff Gordon, Tony Stewart, and Jimmie Johnson.</desc>
+		<image>./mixart/NASCAR Kart Racing (USA).cc.png</image>
+		<video>./snap/NASCAR Kart Racing (USA).cc.mp4</video>
+		<marquee>./wheel/NASCAR Kart Racing (USA).cc.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20090210T000000</releasedate>
+		<developer>EA Sports</developer>
+		<publisher>EA Sports</publisher>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+		<genreid>1537</genreid>
+	</game>
+	<game id="9092">
+		<path>./Need for Speed - Nitro (USA) (En,Fr,Es).rvz</path>
+		<name>Need for Speed: Nitro</name>
+		<desc>Need for Speed: Nitro is an arcade style racing game that emphasizes speed and excitement over realism or vehicle tuning. The Wii version allows up to 4 players to race, with a maximum of 8 racers at once. The Wii version lets up to 4 racers compete in a drag race.
+
+Events feature different modes, namely circuits, team circuts, elimination races, drift challenges, speed trap challenges, drag challenges and time attacks. Career mode allows players to compete in several cups and build up a roster of vehicles, while Arcade Mode lets players immediately jump into a race with customized difficulty and race conditions.
+
+During races, police will attempt to block and ram racers, causing damage that will reduce the players  top speed and amount of nitro available. The game features power-up icons in the race that immediately repair vehicle damage or increase your opponents heat level. During a race, players are awarded "style points" based on performing powerslides and drafting, and nitro is recharged over time.</desc>
+		<image>./mixart/Need for Speed - Nitro (USA) (En,Fr,Es).png</image>
+		<video>./snap/Need for Speed - Nitro (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/Need for Speed - Nitro (USA) (En,Fr,Es).png</marquee>
+		<rating>0.6</rating>
+		<developer>EA Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Race, Driving</genre>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="8885" source="ScreenScraper.fr">
+		<path>./Sin &amp; Punishment - Star Successor (USA).cc.rvz</path>
+		<name>Sin and Punishment: Successor of the Skies</name>
+		<desc>Sin and Punishment: Star Successor is a Rail Shooting game, developed by Treasure and published by Nintendo. The game can be controlled using one of four control methods: Wii Remote with Nunchuk, Wii Zapper, Classic Controller (as well as the Classic Controller Pro) and the Nintendo GameCube Controller. Playing as either Isa or Kachi, the player traverses through on-rail levels, moving and shooting independently. Attacking enemies can either be shot at from afar, or melee attacked when they are close enough. Some missiles can be melee attacked to turn them against enemies. Getting successive enemy hits whilst remaining unscathed increases the score multiplier.</desc>
+		<image>./mixart/Sin &amp; Punishment - Star Successor (USA).cc.png</image>
+		<video>./snap/Sin &amp; Punishment - Star Successor (USA).cc.mp4</video>
+		<marquee>./wheel/Sin &amp; Punishment - Star Successor (USA).cc.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20100627T000000</releasedate>
+		<developer>Treasure</developer>
 		<publisher>Nintendo</publisher>
+		<genre>Action-Lightgun Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<genreid>261</genreid>
+	</game>
+	<game id="8708" source="ScreenScraper.fr">
+		<path>./Super Mario Galaxy (USA) (En,Fr,Es).cc.rvz</path>
+		<name>Super Mario Galaxy</name>
+		<desc>Mario takes to the skies and beyond in another outing to save the Princess. As the Mushroom Kingdom prepares to celebrate the arrival of a comet that appears in the skies every hundred years, Princess Peach sends Mario an invitation to attend. As Mario arrives, Bowser and minions attack the Kingdom and once again kidnap the Princess... and her entire castle. Mario gives chase but is lost as the ship leaves the atmosphere and ends up on a space station built on the visiting comet overseen by the mysterious Rosalina. It's up to Mario to brave new galaxies, find the elusive Power Stars, and bring his friends home.
+
+Super Mario Galaxy plays similarly to Super Mario 64, as Mario explores his latest 3D world defying gravity, crossing various terrains, and even running upside down across the planet surfaces. Bouncing from planet to planet, Mario must collect Star Bits and coins, using his usual jump attacks and spins (now controlled with movement from the Wii Remote). The Wii Remote is also used to collect out of reach Star Bits and also can be controlled by a second player.
+
+In addition, Mario can find new suits (similar to Super Mario Bros. 3) that give him the ability to turn into the ghostly Boo Mario, the high-flying Bee Mario, launch fireballs as Fire Mario and skate across frozen lakes as Ice Mario. New challenges also await Mario including ray surfing, balancing on a high-speed ball, floating inside bubbles, and other challenges in his quest to get all 120 stars. Even Luigi lends a hand in the search, making valuable contributions to the adventure.
+
+Players can also take a snapshot of the worlds they've completed along with their best record times and send them to their friends via Wi-Fi.</desc>
+		<image>./mixart/Super Mario Galaxy (USA) (En,Fr,Es).cc.png</image>
+		<video>./snap/Super Mario Galaxy (USA) (En,Fr,Es).cc.mp4</video>
+		<marquee>./wheel/Super Mario Galaxy (USA) (En,Fr,Es).cc.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20071112T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Platform</genre>
+		<players>2</players>
+		<genreid>257</genreid>
+	</game>
+	<game id="203542">
+		<path>./Harvest Moon - My Little Shop (USA) (WiiWare).wad</path>
+		<name>Harvest Moon : My Little Shop</name>
+		<desc>Welcome to Clover Town! You've just taken over your grandparents' farm and shop. The town has fallen on hard times, though. People are leaving, businesses are struggling, and the magic of the Harvest Sprites is gone. Can you turn Clover Town's fortunes around and restore its missing magic? Raise crops and animals, then use what you farm at your shop! Keep your customers happy by making wild fruit juices, towering ice cream cones, and extravagantly decorated eggs in a series of fun and fast-paced activities that use the Wii Remote controller to its fullest potential.</desc>
+		<image>./mixart/Harvest Moon - My Little Shop (USA) (WiiWare).png</image>
+		<video>./snap/Harvest Moon - My Little Shop (USA) (WiiWare).mp4</video>
+		<marquee>./wheel/Harvest Moon - My Little Shop (USA) (WiiWare).png</marquee>
+		<releasedate>20091123T000000</releasedate>
+		<developer>h.a.n.d.</developer>
+		<publisher>Natsume</publisher>
+		<genre>Simulation / Build And Management</genre>
+		<players>1</players>
+		<md5>4636c0400d88bde1e4d573c84bf8b832</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Punch-Out!! (USA) (En,Fr,Es).cc.rvz</path>
+		<name>Punch-Out!!</name>
+		<desc>One of the biggest names in boxing returns after a 15-year hiatus. In Punch-Out!! you play as young up-and-coming fighter Little Mac who, with the help of his ringside trainer Doc Lewis, is working his way through the ranks of a wide variety of boxing caricatures, each with their own patterns of attacks. Grab a Wii Remote controller in one hand and a Nunchuk controller in the other and step back into the ring with a modern update of the classic Punch-Out!!Little Mac Is BackEveryone?s favorite underdog from the 1980s joins the best of the original Punch-Out!! cast in a modern re-imagining of the series. Players will find familiar names like Glass Joe, King Hippo and trainer Doc Louis. These boxers come to life again in cell-shaded 3-D, complete with hilarious fighting animations and back stories that capture all the fun and flair of the original Punch-Out!! games.The Wii's Motion SensitivityThe motion-sensitive controls of the Wii console mean that when players throw punches, Little Mac throws punches as well. Additionally, you can control hooks and jabs by combining motion control with control-stick movement. The motion-sensing Wii Remote and Nunchuk controllers turn real-life swings into on-screen punches, so anyone can play. The game can also be played with classic NES-style controls by turning the Wii Remote sideways.CharactersPunch-Out!! features a total of 13 opponents for Little Mac to step into the ring with. 12 of which are returning from previous games in the Punch-Out!! series. Each has their own back story and patterns of attacks to learn and learns to counter. Just a few of the characters you can expect to see are:Little MacSmall but extremely game, Little Mac is a young, up-and-coming fighter, who with the help of his trainer, ex-champion Doc Lewis, has set his sights on working his way through the ranks.Glass JoeA fearful French fighter due to his extremely weak chin, Glass Joe will crumple to the mat quickly with just a few well-placed shots, making him an easy mark and a good warm-up for the fighters to follow.King HippoKing Hippo is both huge and an immensely powerful fighter, but can be weakened with the right combinations to the head and body, giving you time to go for the knockout if you can survive his onslaught.Von KaiserAn old-timey fighter whose rumored childhood difficulties have left him eager to dish out punishment in the ring, Von Kaiser is a dangerous opponent, but one who will turn tail if you can find his weakness.Special AttacksPlayers can obtain special 'Star Punches,' which allow Little Mac to take more health from his rival in a single punch. Players can now use multiple stars in a single punch for an extra-powerful attack.Controller OptionsPunch-Out!! features multiple controller options. For players looking to take advantage of the Wii's motion control capabilities, Punch-Out!! uses the Wii Remote and Nunchuck controllers to simulate throwing punches. Use the Nunchuck to throw a left punch and the Wii Remote to throw a right punch. Fans of the NES version and core gamers will be excited to see Nintendo has also included the option to play Punch-Out!! using the classic layout from the original NES controller. Use the 1 and 2 buttons along with the cross pad to throw hooks and jabs or to dodge.</desc>
+		<image>./mixart/Punch-Out!! (USA) (En,Fr,Es).cc.png</image>
+		<video>./snap/Punch-Out!! (USA) (En,Fr,Es).cc.mp4</video>
+		<marquee>./wheel/Punch-Out!! (USA) (En,Fr,Es).cc.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20090518T000000</releasedate>
+		<developer>Next Level Games</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports-Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game id="9916" source="ScreenScraper.fr">
+		<path>./Fluidity.wad</path>
+		<name>Hydroventure</name>
+		<desc>Fluidity sur Wii est un jeu original qui nous propose de faire évoluer une flaque d'eau à travers des niveaux de plus en plus tortueux. Le joueur devra incliner les décors à l'aide de sa Wiimote pour diriger la flaque dans la direction de son choix et éviter les nombreuses embûches qui se dresseront sur son parcours.</desc>
+		<image>./mixart/Fluidity.png</image>
+		<video>./snap/Fluidity.mp4</video>
+		<marquee>./wheel/Fluidity.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20101224T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<genreid>256</genreid>
+	</game>
+	<game id="9721">
+		<path>./Jett Rocket.wad</path>
+		<name>Jett Rocket</name>
+		<desc>The player takes on the role of the eponymous Jett Rocket, a planetary inspector who is tasked with stopping the Power Plant Posse (PPP) from polluting the Earth-like planet Yoroppa. The objective is to clear each stage within the planet's three areas: the lush and tropical Atoll, the glacial and snowy Northpole, and the toxic and jungle-like Swamps. Within each stage lies a set number of solar cells, many of which are scattered about and some of which are hidden, that Jett must collect in order to unlock each stage and gain access to the subsequent areas. Additionally, Jett must defeat a general of the PPP at the end of each area. As with standard platforming games, Jett is capable of jumping, but can briefly hover when using his jet pack. Within certain stages, he can also paraglide as well as either ride a hoverboard or a jetboat. In addition, Jett can defeat enemies, clear obstacles and activate switches with his "Dash" attack, which can be executed by shaking the Wii Remote while he is standing (which sees him perform a somersaulting tackle) or after a jump (which sees him perform a diving hammer fist). The game also features an achievement system that can be completed either during or after completion of the main story.</desc>
+		<image>./mixart/Jett Rocket.png</image>
+		<video>./snap/Jett Rocket.mp4</video>
+		<marquee>./wheel/Jett Rocket.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20100101T000000</releasedate>
+		<developer>Shin'en</developer>
+		<publisher>Shin'en</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>2ee0c6af7e88ba092ce374db55dfd462</md5>
+		<lang>en</lang>
+	</game>
+	<game id="9903">
+		<path>./Kamen Rider - Dragon Knight (USA) (En,Fr,Es).rvz</path>
+		<name>Kamen Rider : Dragon Knight</name>
+		<desc>Play as all 13 Kamen Riders from the Kamen Rider Dragon Knight TV series, each with their own unique Contract Beasts, Advent cards, and special abilities. More than 65 exciting missions on Ventara will test the skill of your Kamen Riders. Battle head to head with your favorite Kamen Riders in a unique battle system utilizing Contract Beasts and Advent cards. Earn extra Advent cards and unlock additional special abilities that could be used on multiple game modes. Simple but versatile controls allow players of all skill levels to pull off their favorite Kamen Rider moves from the show.
+
+This game was released only in USA.</desc>
+		<image>./mixart/Kamen Rider - Dragon Knight (USA) (En,Fr,Es).png</image>
+		<video>./snap/Kamen Rider - Dragon Knight (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/Kamen Rider - Dragon Knight (USA) (En,Fr,Es).png</marquee>
+		<releasedate>20091201T000000</releasedate>
+		<developer>D3 Publisher</developer>
+		<publisher>D3 Publisher</publisher>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="9076">
+		<path>./King of Fighters Collection, The - The Orochi Saga (USA).rvz</path>
+		<name>King of Fighters Collection: The Orochi Saga</name>
+		<desc>The most extensive King of Fighters Collection collection, The King of Fighters Collection: The Orochi Saga contains five complete games, including the Orochi Saga trilogy ('95-'97) as well as KOF '94 and KOF '98: Dream Match Never Ends. Also featured are a variety of unlockable bonus features.</desc>
+		<image>./mixart/King of Fighters Collection, The - The Orochi Saga (USA).png</image>
+		<video>./snap/King of Fighters Collection, The - The Orochi Saga (USA).mp4</video>
+		<marquee>./wheel/King of Fighters Collection, The - The Orochi Saga (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20081208T000000</releasedate>
 		<genre>Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="8861" source="ScreenScraper.fr">
+		<path>./Kirby's Epic Yarn (USA) (En,Fr,Es).cc.rvz</path>
+		<name>Kirby's Epic Yarn</name>
+		<desc>While walking through Dream Land, Kirby discovers a tomato and decides to eat it. Yin-Yarn, the evil sorceror who possessed the tomato (revealed to be a Metamato), appears and magically banishes Kirby into Patch Land, a world completely made of fabric, via the sock carried around his neck. In Patch Land, Kirby s body transforms into yarn, rendering his power to inhale useless. Instead, Kirby is granted the ability to transform by the magic of the Metamato, which he uses to rescue a boy being attacked by a monster. The boy, named Prince Fluff, explains that Yin-Yarn has separated Patch Land into pieces, which was tied together by magic yarn. Kirby decides to help Prince Fluff collect all seven pieces of the yarn and restore Patch Land. 
+ 
+Meanwhile, Yin-Yarn captures King Dedede and Meta Knight and places them under his control. Kirby is forced to fight Dedede and Meta Knight after they ambush him in Patch Land. When Kirby and Prince Fluff finally collect all the Magic Yarn, Meta Knight, no longer under the sorceror s influence, informs Kirby that Yin-Yarn is turning Dream Land into fabric. Prince Fluff produces the second sock, its magic fully restored, and uses it to transport Kirby and himself to Dream Land; now completely made of yarn. Kirby confronts and defeats Yin-Yarn, breaking the spell and returning Dream Land and himself back to normal. Prince Fluff parts with Kirby, stating that he can visit Patch Land anytime via Yin-Yarn s magic sock.</desc>
+		<image>./mixart/Kirby's Epic Yarn (USA) (En,Fr,Es).cc.png</image>
+		<video>./snap/Kirby's Epic Yarn (USA) (En,Fr,Es).cc.mp4</video>
+		<marquee>./wheel/Kirby's Epic Yarn (USA) (En,Fr,Es).cc.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20101017T000000</releasedate>
+		<developer>Good-Feel</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure-Action-Platform</genre>
+		<players>2</players>
+		<genreid>257</genreid>
+	</game>
+	<game id="8773" source="ScreenScraper.fr">
+		<path>./Kirby's Return to Dream Land (USA) (En,Fr,Es).cc.rvz</path>
+		<name>Kirby's Return to Dream Land</name>
+		<desc>Kirby and his friends are back in an adventure designed to satisfy longtime Kirby fans and beginners alike. When an alien spaceship crashes in the otherwise peaceful realm of Pop Star, its pieces are scattered throughout the land. Players must guide Kirby as he retrieves the ship's parts and helps the aliens return to their home planet. This time, however, he's not alone. At any time, up to three more players can join in the fun and play as Meta Knight, King Dedede and Waddle Dee to help Kirby in his quest.Kirby's powerful Copy Ability returns, allowing him to inhale, spit and transform as he encounters enemies.The game also introduces new Super Abilities, which are activated when Kirby inhales special enemy characters. For example, the "Super Sword" Super Ability allows Kirby to swing a giant sword and wipe out an entire screen's worth of foes.Up to four players can enjoy the action together. They play cooperatively to progress through the game and collect Point Stars and Ability Stars. Players can join and leave the game at any time.</desc>
+		<image>./mixart/Kirby's Return to Dream Land (USA) (En,Fr,Es).cc.png</image>
+		<video>./snap/Kirby's Return to Dream Land (USA) (En,Fr,Es).cc.mp4</video>
+		<marquee>./wheel/Kirby's Return to Dream Land (USA) (En,Fr,Es).cc.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20111024T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure-Action-Platform</genre>
+		<players>2-4</players>
+		<genreid>257</genreid>
+	</game>
+	<game id="8916" source="ScreenScraper.fr">
+		<path>./Dead Space - Extraction (USA) (En,Fr).rvz</path>
+		<name>Dead Space Extraction</name>
+		<desc>Dead Space Extraction tells the untold story of the Aegis VII Colony through a handful of survivors battling to reach the orbiting USG Ishimura amidst a horrific infection and the initial invasion by a violent alien race known as Necromorphs. As these survivors' allies mysteriously fall victim to dementia, it becomes clear that protecting a young girl granting them a bizarre immunity may be their only hope for survival in a struggle that could have implications for all of humanity.</desc>
+		<image>./mixart/Dead Space - Extraction (USA) (En,Fr).png</image>
+		<video>./snap/Dead Space - Extraction (USA) (En,Fr).mp4</video>
+		<marquee>./wheel/Dead Space - Extraction (USA) (En,Fr).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20090929T000000</releasedate>
+		<developer>Visceral Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<genreid>261</genreid>
+	</game>
+	<game id="8826" source="ScreenScraper.fr">
+		<path>./Red Steel 2 (USA) (En,Fr,Es).rvz</path>
+		<name>Red Steel 2</name>
+		<desc>The game begins as an unnamed Hero, the last member of the Kusagari Clan, is being dragged across the desert, tied to the back of a motorcycle. He manages to break free, but Payne, the leader of the Jackals - a vast gang of thugs, murderers and thieves - steals the Hero's katana. While running from the Jackals, the Hero rescues his old swordsmaster Jian who was to soon be executed by the Jackals. After the rescue, Jian allows the Hero to borrow his sword until the Hero can recover his own from Payne.</desc>
+		<image>./mixart/Red Steel 2 (USA) (En,Fr,Es).png</image>
+		<video>./snap/Red Steel 2 (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/Red Steel 2 (USA) (En,Fr,Es).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20100325T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Shooter / 1st person-Shooter-Action</genre>
+		<players>4+</players>
+	</game>
+	<game id="9250" source="ScreenScraper.fr">
+		<path>./Ghost Squad (USA).rvz</path>
+		<name>Ghost Squad</name>
+		<desc>Sega?s top-grossing light-gun game, Ghost Squad, comes to the Wii system and replicates the excitement of the arcade experience in your home!.The Ghost Squad is a Special Forces unit established in strict secrecy by the U.N. to combat terrorism and carry out special highly-classified missions without leaving a trace. As an elite member of the Ghost Squad, players will complete dangerous missions such as eliminating terrorist groups, releasing hostages, deactivating bombs, and even rescuing the US President when terrorists hijack Air Force One!Using the Wii Remote or Nintendo?s new Wii Zapper peripheral, players will utilize revolutionary selectable weapons including a high powered rifle, sub machine and shot gun, or even engage in hand-to-hand combat.</desc>
+		<image>./mixart/Ghost Squad (USA).png</image>
+		<video>./snap/Ghost Squad (USA).mp4</video>
+		<marquee>./wheel/Ghost Squad (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20071120T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action-Lightgun Shooter</genre>
 		<players>2-4</players>
 		<favorite>true</favorite>
-		<genreid>262</genreid>
 	</game>
 </gameList>
