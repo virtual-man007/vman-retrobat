@@ -3755,22 +3755,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Retro Gamer Adventure.pak</path>
-		<name>Retro Gamer Adventure 2.0</name>
-		<desc>A 2D fighting forces with all great characeters Retro Glory Day's</desc>
-		<image>./mixart/Retro Gamer Adventure [Ver. 1.0.3][v.3.0 Build 405X].png</image>
-		<video>./snap/Retro Gamer Adventure [Ver. 1.0.3][v.3.0 Build 405X].mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./HE-MAN.pak</path>
 		<name>HE-MAN</name>
 		<desc>He-Man and the Masters of the Universe is a beat 'em up developed with the OpenBOR engine that allows you to control He-Man, Man-at-Arms, Orko, and the rest of the gang to fight against the terrible forces of evil led by Skeletor.</desc>
@@ -3811,5 +3795,21 @@
 		<rating>0.8</rating>
 		<releasedate>20100101T000000</releasedate>
 		<developer>Madgear</developer>
+	</game>
+	<game>
+		<path>./Retro Gamer Adventure.pak</path>
+		<name>Retro Gamer Adventure 2.0</name>
+		<desc>A 2D fighting forces with all great characeters Retro Glory Day's</desc>
+		<image>./mixart/Retro Gamer Adventure [Ver. 1.0.3][v.3.0 Build 405X].png</image>
+		<video>./snap/Retro Gamer Adventure [Ver. 1.0.3][v.3.0 Build 405X].mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

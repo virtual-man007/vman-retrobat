@@ -4,174 +4,6 @@
 		<System>Singe 2</System>
 	</provider>
 	<game>
-		<path>./Dragon's Lair TV.cmd</path>
-		<name>Dragon's Lair TV</name>
-		<desc>The series chronicles the adventures of Dirk the Daring, who is the best knight in the kingdom of King Ethelred. Dirk performs all sorts of great deeds while protecting the kingdom and his love Princess Daphne from the forces of the evil dragon Singe.</desc>
-		<image>./content/dragon_s_lair_tv_show_singe_2/Overlay/menu-poster.png</image>
-		<video>./content/dragon_s_lair_tv_show_singe_2/video/menu-attract.mp4</video>
-		<marquee>./content/dragon_s_lair_tv_show_singe_2/Overlay/menu-marquee.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>20200101T000000</releasedate>
-		<developer>Poiu</developer>
-		<publisher>Poiu</publisher>
-		<genre>Quick Time Event (QTE)</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Hydrosub 2021.cmd</path>
-		<name>Hydrosub: 2021</name>
-		<desc>Shootout beneath the ocean!</desc>
-		<image>./mixart/Hydrosub 2021.png</image>
-		<video>./snap/Hydrosub 2021.mp4</video>
-		<marquee>./wheel/Hydrosub 2021.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Sourcing International, Ltd.</developer>
-		<publisher>Worlds of Wonder, Inc.</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Maddog McCree 2.cmd</path>
-		<name>Maddog McCree 2</name>
-		<desc>Mad Dog II was a laserdisc game created by American Laser Games in 1992.  In this game, Mad Dog is back, but this time it's a race to get to the Spanish Treasure.  Shooting Beaver, Buckskin Bonnie, and The Professor are three different guides that can help you find your way to the gold.  You must fight your way across the countryside coming face to face with Indians, Latinos, and of course Mad Dog's men.  Get the treasure before Mad Dog, and win the game!</desc>
-		<image>./mixart/Maddog McCree 2.png</image>
-		<video>./content/Maddog_McCree_2_The_lost_gold_Singe_2/Video/menu-attract.mp4</video>
-		<marquee>./wheel/Maddog McCree 2.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>American Laser Games</developer>
-		<publisher>American Laser Games</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Mononoke.cmd</path>
-		<name>Mononoke</name>
-		<desc>Based on the Hayao Miyazaki Masterpiece. In Japan, an Emishi village is attacked by a demon. The last Emishi prince, Ashitaka, kills it before it reaches the village, but its corruption curses his right arm. The curse gives him superhuman strength, but will eventually spread through his body and kill him. Heading west, Ashitaka learns that he may find help from the Great Forest Spirit, a deer-like animal god by day and a giant Daidarabotchi by night.</desc>
-		<image>./mixart/Mononoke.png</image>
-		<video>./snap/Mononoke.mp4</video>
-		<marquee>./wheel/Mononoke.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>20200101T000000</releasedate>
-		<developer>Fan Made</developer>
-		<publisher>Fan Made</publisher>
-		<genre>Quick Time Event (QTE)</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Ninja Hayate.cmd</path>
-		<name>Ninja Hayate</name>
-		<desc>Ninja Hayate is a 1984 laserdisc video game first developed and released by Taito and Malone Films for arcades in Japan and the United States. The game was later ported to the Sega CD video game console as Revenge of the Ninja in 1994.</desc>
-		<image>./mixart/Ninja Hayate.png</image>
-		<video>./snap/Ninja Hayate.mp4</video>
-		<marquee>./wheel/Ninja Hayate.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Quick Time Event (QTE)</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Platoon.cmd</path>
-		<name>Platoon</name>
-		<desc>American laser games style prototype produced by NOVA</desc>
-		<image>./content/platoon/Overlay/menu-poster.jpg</image>
-		<video>./content/platoon/Script/Video/menu-attract.mp4</video>
-		<marquee>./content/platoon/Overlay/menu-marquee.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>20200101T000000</releasedate>
-		<developer>NOVA</developer>
-		<publisher>NOVA</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Puss in Boots.cmd</path>
-		<name>Puss in Boots</name>
-		<desc>An outlaw cat, his childhood egg-friend and a seductive thief kitty set out in search for the eggs of the fabled Golden Goose to clear his name, restore his lost honor and regain the trust of his mother and town.</desc>
-		<image>./content/Puss_in_Boots_english_singe_2/Overlay/menu-poster.png</image>
-		<video>./content/Puss_in_Boots_english_singe_2/video/menu-attract.mp4</video>
-		<marquee>./content/Puss_in_Boots_english_singe_2/Overlay/menu-marquee.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>20200101T000000</releasedate>
-		<developer>Poiu</developer>
-		<publisher>Poiu</publisher>
-		<genre>Quick Time Event (QTE)</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Rescue of Pops Ghostly.cmd</path>
-		<name>Rescue of Pops Ghostly, The</name>
-		<desc>Help Pops Ghostly and his family get rid of the bad spirits who have taken over the house.</desc>
-		<image>./mixart/Rescue of Pops Ghostly.png</image>
-		<video>./content/ActionMax/video_PopsGhostly.mkv</video>
-		<marquee>./wheel/Rescue of Pops Ghostly.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Sourcing International, Ltd.</developer>
-		<publisher>Worlds of Wonder, Inc.</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Samurai Jack.cmd</path>
-		<name>Samurai Jack</name>
-		<desc>Long ago in a distant land, Aku the shape-shifting master of darkness unleashed an unspeakable evil, but a brave samurai warrior wielding a magic sword stepped forth to oppose him. Before the final blow was struck, Aku threw open a portal in time and flung the samurai into the future, where Aku's evil is law. Now the samurai seeks to return to the past and undo the future that is Aku.</desc>
-		<image>./content/jack_english_singe_2/Overlay/menu-poster.jpg</image>
-		<video>./content/jack_english_singe_2/video/menu-attract.mp4</video>
-		<marquee>./content/jack_english_singe_2/Overlay/menu-marquee.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>20200101T000000</releasedate>
-		<developer>Poiu</developer>
-		<publisher>Poiu</publisher>
-		<genre>Quick Time Event (QTE)</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Sonic Fury.cmd</path>
-		<name>Sonic Fury</name>
-		<desc>Shoot it out with the bad guys in your fighter jet!</desc>
-		<image>./mixart/Sonic Fury.png</image>
-		<video>./snap/Sonic Fury.mp4</video>
-		<marquee>./wheel/Sonic Fury.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Sourcing International, Ltd.</developer>
-		<publisher>Worlds of Wonder, Inc.</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./The Last Bounty Hunter.cmd</path>
-		<name>The Last Bounty Hunter</name>
-		<desc>The Last Bounty Hunter was a laserdisc game created by American Laser Games in 1994.  In this game, four outlaws have been terrorizing the county.   You must search the area for Handsome Harry, Nasty Dan, El Loco, and Cactus Kid.   You don't shoot to kill though.... you have to take them alive and bring them to justice!</desc>
-		<image>./mixart/The Last Bounty Hunter.png</image>
-		<video>./content/The_last_bounty_hunter_Singe_2/Video/menu-attract.mp4</video>
-		<marquee>./wheel/The Last Bounty Hunter.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>American Laser Games</developer>
-		<publisher>American Laser Games</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Titan AE.cmd</path>
-		<name>Titan A.E.</name>
-		<desc>Save the last humans from the Drej threat. Adapted from Don Bluth.</desc>
-		<image>./mixart/Titan AE.png</image>
-		<video>./content/Titan_AE/Movie/menu-attract.mp4</video>
-		<marquee>./wheel/Titan AE.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>20190101T000000</releasedate>
-		<developer>Karis</developer>
-		<publisher>Karis</publisher>
-		<genre>Quick Time Event (QTE)</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Asterix.cmd</path>
 		<name>Asterix</name>
 		<desc>Frustrated with the ongoing rebellion of the Gauls, Julius Caesar devises a new scheme to conquer them: the construction of a city of luxury apartments dubbed -The Mansions Of The Gods- in the forest near the Gauls village as a means to absorb them into Roman civilization. During a boar hunt, Asterix and Obelix discover the Mansions construction site. This game is an HD adaptation of the work of Dano.</desc>
@@ -201,20 +33,6 @@
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Fire and Ice.cmd</path>
-		<name>Fire and Ice</name>
-		<desc>Defeat the evil Nekron in this adaptation of the 1983 movie.</desc>
-		<image>./mixart/Fire and Ice.png</image>
-		<video>./content/Fire_and_Ice/Movie/menu-attract.mp4</video>
-		<marquee>./wheel/Fire and Ice.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>20190101T000000</releasedate>
-		<developer>Karis</developer>
-		<publisher>Karis</publisher>
-		<genre>Quick Time Event (QTE)</genre>
-		<players>1</players>
 	</game>
 	<game>
 		<path>./Hologram Time Traveler.cmd</path>
@@ -257,50 +75,6 @@
 		<marquee>./wheel/Space Pirates.png</marquee>
 		<rating>0.85</rating>
 		<releasedate>19920101T000000</releasedate>
-		<developer>American Laser Games</developer>
-		<publisher>American Laser Games</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Sucker Punch.cmd</path>
-		<name>Sucker Punch</name>
-		<desc>Based on the Sucker Punch Movie.</desc>
-		<image>./mixart/Sucker Punch.png</image>
-		<video>./snap/Sucker Punch.mp4</video>
-		<marquee>./wheel/Sucker Punch.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>20200101T000000</releasedate>
-		<developer>Fan Made</developer>
-		<publisher>Fan Made</publisher>
-		<genre>Quick Time Event (QTE)</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Timegal.cmd</path>
-		<name>Timegal HD</name>
-		<desc>The classic Taito game restored in HD.</desc>
-		<image>./mixart/Timegal.png</image>
-		<video>./content/Timegal/Movie/menu-attract.mp4</video>
-		<marquee>./wheel/Timegal.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19850101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Quick Time Event (QTE)</genre>
-		<players>1</players>
-	</game>
-	<game>
-		<path>./Who Shot Johnny Rock.cmd</path>
-		<name>Who Shot Johnny Rock?</name>
-		<desc>Who Shot Johnny Rock was a laserdisc game created by American Laser Games in 1991.  In this game, you play a private detective trying to solve one of your toughest cases.  Singer / performer, Johnny Rock, was murdered and it's up to you to bring the killer to justice.   You must travel around the city to gather clues, while taking care of any gangsters that get in your way.  Solve the case, and win the game!</desc>
-		<image>./mixart/Who Shot Johnny Rock.png</image>
-		<video>./content/Who_shot_johnny_rock_Singe_2/Video/menu-attract.mp4</video>
-		<marquee>./wheel/Who Shot Johnny Rock.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19910101T000000</releasedate>
 		<developer>American Laser Games</developer>
 		<publisher>American Laser Games</publisher>
 		<genre>Shooter</genre>
@@ -411,6 +185,247 @@
 		<developer>LeLand Corporation</developer>
 		<publisher>Digital Leisure</publisher>
 		<genre>Action</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Dragon's Lair TV.cmd</path>
+		<name>Dragon's Lair TV</name>
+		<desc>The series chronicles the adventures of Dirk the Daring, who is the best knight in the kingdom of King Ethelred. Dirk performs all sorts of great deeds while protecting the kingdom and his love Princess Daphne from the forces of the evil dragon Singe.</desc>
+		<image>./content/dragon_s_lair_tv_show_singe_2/Overlay/menu-poster.png</image>
+		<video>./content/dragon_s_lair_tv_show_singe_2/video/menu-attract.mp4</video>
+		<marquee>./content/dragon_s_lair_tv_show_singe_2/Overlay/menu-marquee.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20200101T000000</releasedate>
+		<developer>Poiu</developer>
+		<publisher>Poiu</publisher>
+		<genre>Quick Time Event (QTE)</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Fire and Ice.cmd</path>
+		<name>Fire and Ice</name>
+		<desc>Defeat the evil Nekron in this adaptation of the 1983 movie.</desc>
+		<image>./mixart/Fire and Ice.png</image>
+		<video>./content/Fire_and_Ice/Movie/menu-attract.mp4</video>
+		<marquee>./wheel/Fire and Ice.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20190101T000000</releasedate>
+		<developer>Karis</developer>
+		<publisher>Karis</publisher>
+		<genre>Quick Time Event (QTE)</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Hydrosub 2021.cmd</path>
+		<name>Hydrosub: 2021</name>
+		<desc>Shootout beneath the ocean!</desc>
+		<image>./mixart/Hydrosub 2021.png</image>
+		<video>./snap/Hydrosub 2021.mp4</video>
+		<marquee>./wheel/Hydrosub 2021.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sourcing International, Ltd.</developer>
+		<publisher>Worlds of Wonder, Inc.</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Maddog McCree 2.cmd</path>
+		<name>Maddog McCree 2</name>
+		<desc>Mad Dog II was a laserdisc game created by American Laser Games in 1992.  In this game, Mad Dog is back, but this time it's a race to get to the Spanish Treasure.  Shooting Beaver, Buckskin Bonnie, and The Professor are three different guides that can help you find your way to the gold.  You must fight your way across the countryside coming face to face with Indians, Latinos, and of course Mad Dog's men.  Get the treasure before Mad Dog, and win the game!</desc>
+		<image>./mixart/Maddog McCree 2.png</image>
+		<video>./content/Maddog_McCree_2_The_lost_gold_Singe_2/Video/menu-attract.mp4</video>
+		<marquee>./wheel/Maddog McCree 2.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>American Laser Games</developer>
+		<publisher>American Laser Games</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Mononoke.cmd</path>
+		<name>Mononoke</name>
+		<desc>Based on the Hayao Miyazaki Masterpiece. In Japan, an Emishi village is attacked by a demon. The last Emishi prince, Ashitaka, kills it before it reaches the village, but its corruption curses his right arm. The curse gives him superhuman strength, but will eventually spread through his body and kill him. Heading west, Ashitaka learns that he may find help from the Great Forest Spirit, a deer-like animal god by day and a giant Daidarabotchi by night.</desc>
+		<image>./mixart/Mononoke.png</image>
+		<video>./snap/Mononoke.mp4</video>
+		<marquee>./wheel/Mononoke.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20200101T000000</releasedate>
+		<developer>Fan Made</developer>
+		<publisher>Fan Made</publisher>
+		<genre>Quick Time Event (QTE)</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Ninja Hayate.cmd</path>
+		<name>Ninja Hayate</name>
+		<desc>Ninja Hayate is a 1984 laserdisc video game first developed and released by Taito and Malone Films for arcades in Japan and the United States. The game was later ported to the Sega CD video game console as Revenge of the Ninja in 1994.</desc>
+		<image>./mixart/Ninja Hayate.png</image>
+		<video>./snap/Ninja Hayate.mp4</video>
+		<marquee>./wheel/Ninja Hayate.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Quick Time Event (QTE)</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Platoon.cmd</path>
+		<name>Platoon</name>
+		<desc>American laser games style prototype produced by NOVA</desc>
+		<image>./content/platoon/Overlay/menu-poster.jpg</image>
+		<video>./content/platoon/Script/Video/menu-attract.mp4</video>
+		<marquee>./content/platoon/Overlay/menu-marquee.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20200101T000000</releasedate>
+		<developer>NOVA</developer>
+		<publisher>NOVA</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Puss in Boots.cmd</path>
+		<name>Puss in Boots</name>
+		<desc>An outlaw cat, his childhood egg-friend and a seductive thief kitty set out in search for the eggs of the fabled Golden Goose to clear his name, restore his lost honor and regain the trust of his mother and town.</desc>
+		<image>./content/Puss_in_Boots_english_singe_2/Overlay/menu-poster.png</image>
+		<video>./content/Puss_in_Boots_english_singe_2/video/menu-attract.mp4</video>
+		<marquee>./content/Puss_in_Boots_english_singe_2/Overlay/menu-marquee.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20200101T000000</releasedate>
+		<developer>Poiu</developer>
+		<publisher>Poiu</publisher>
+		<genre>Quick Time Event (QTE)</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Rescue of Pops Ghostly.cmd</path>
+		<name>Rescue of Pops Ghostly, The</name>
+		<desc>Help Pops Ghostly and his family get rid of the bad spirits who have taken over the house.</desc>
+		<image>./mixart/Rescue of Pops Ghostly.png</image>
+		<video>./content/ActionMax/video_PopsGhostly.mkv</video>
+		<marquee>./wheel/Rescue of Pops Ghostly.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sourcing International, Ltd.</developer>
+		<publisher>Worlds of Wonder, Inc.</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Samurai Jack.cmd</path>
+		<name>Samurai Jack</name>
+		<desc>Long ago in a distant land, Aku the shape-shifting master of darkness unleashed an unspeakable evil, but a brave samurai warrior wielding a magic sword stepped forth to oppose him. Before the final blow was struck, Aku threw open a portal in time and flung the samurai into the future, where Aku's evil is law. Now the samurai seeks to return to the past and undo the future that is Aku.</desc>
+		<image>./content/jack_english_singe_2/Overlay/menu-poster.jpg</image>
+		<video>./content/jack_english_singe_2/video/menu-attract.mp4</video>
+		<marquee>./content/jack_english_singe_2/Overlay/menu-marquee.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20200101T000000</releasedate>
+		<developer>Poiu</developer>
+		<publisher>Poiu</publisher>
+		<genre>Quick Time Event (QTE)</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Sonic Fury.cmd</path>
+		<name>Sonic Fury</name>
+		<desc>Shoot it out with the bad guys in your fighter jet!</desc>
+		<image>./mixart/Sonic Fury.png</image>
+		<video>./snap/Sonic Fury.mp4</video>
+		<marquee>./wheel/Sonic Fury.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sourcing International, Ltd.</developer>
+		<publisher>Worlds of Wonder, Inc.</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Sucker Punch.cmd</path>
+		<name>Sucker Punch</name>
+		<desc>Based on the Sucker Punch Movie.</desc>
+		<image>./mixart/Sucker Punch.png</image>
+		<video>./snap/Sucker Punch.mp4</video>
+		<marquee>./wheel/Sucker Punch.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20200101T000000</releasedate>
+		<developer>Fan Made</developer>
+		<publisher>Fan Made</publisher>
+		<genre>Quick Time Event (QTE)</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./The Last Bounty Hunter.cmd</path>
+		<name>The Last Bounty Hunter</name>
+		<desc>The Last Bounty Hunter was a laserdisc game created by American Laser Games in 1994.  In this game, four outlaws have been terrorizing the county.   You must search the area for Handsome Harry, Nasty Dan, El Loco, and Cactus Kid.   You don't shoot to kill though.... you have to take them alive and bring them to justice!</desc>
+		<image>./mixart/The Last Bounty Hunter.png</image>
+		<video>./content/The_last_bounty_hunter_Singe_2/Video/menu-attract.mp4</video>
+		<marquee>./wheel/The Last Bounty Hunter.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>American Laser Games</developer>
+		<publisher>American Laser Games</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Timegal.cmd</path>
+		<name>Timegal HD</name>
+		<desc>The classic Taito game restored in HD.</desc>
+		<image>./mixart/Timegal.png</image>
+		<video>./content/Timegal/Movie/menu-attract.mp4</video>
+		<marquee>./wheel/Timegal.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Quick Time Event (QTE)</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Titan AE.cmd</path>
+		<name>Titan A.E.</name>
+		<desc>Save the last humans from the Drej threat. Adapted from Don Bluth.</desc>
+		<image>./mixart/Titan AE.png</image>
+		<video>./content/Titan_AE/Movie/menu-attract.mp4</video>
+		<marquee>./wheel/Titan AE.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20190101T000000</releasedate>
+		<developer>Karis</developer>
+		<publisher>Karis</publisher>
+		<genre>Quick Time Event (QTE)</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Who Shot Johnny Rock.cmd</path>
+		<name>Who Shot Johnny Rock?</name>
+		<desc>Who Shot Johnny Rock was a laserdisc game created by American Laser Games in 1991.  In this game, you play a private detective trying to solve one of your toughest cases.  Singer / performer, Johnny Rock, was murdered and it's up to you to bring the killer to justice.   You must travel around the city to gather clues, while taking care of any gangsters that get in your way.  Solve the case, and win the game!</desc>
+		<image>./mixart/Who Shot Johnny Rock.png</image>
+		<video>./content/Who_shot_johnny_rock_Singe_2/Video/menu-attract.mp4</video>
+		<marquee>./wheel/Who Shot Johnny Rock.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>American Laser Games</developer>
+		<publisher>American Laser Games</publisher>
+		<genre>Shooter</genre>
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>

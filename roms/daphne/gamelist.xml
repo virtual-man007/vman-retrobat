@@ -29,19 +29,6 @@
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./tq.daphne</path>
-		<name>Thayer's Quest</name>
-		<desc>Thayer Alconred, last of the bloodline of the Elder Kings, searches five kingdoms in search of five relics which combine to form the Hand of Quoid. Thayer's adversary, Sorsabal The Twisted assisted by his henchman, The Black Magician, seeks to use the Hand's power to take control of the land.</desc>
-		<image>./mixart/tq.png</image>
-		<video>./snap/tq.mp4</video>
-		<marquee>./wheel/tq.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>RDI Video Systems</developer>
-		<publisher>RDI Video Systems</publisher>
-		<genre>Platform-Plateform / Run Jump</genre>
-	</game>
-	<game>
 		<path>./cliff.daphne</path>
 		<name>Cliff Hanger</name>
 		<desc>Cliff Hanger is a laserdisc video game that was released by Stern Electronics in 1983. It used animation from Lupin III films, mostly from The Castle of Cagliostro and a couple of scenes from The Mystery of Mamo.</desc>
@@ -249,11 +236,25 @@
 		<image>./mixart/lair.png</image>
 		<video>./snap/lair.mp4</video>
 		<marquee>./wheel/lair.png</marquee>
-		<rating></rating>
+		<rating />
 		<releasedate>19830623T000000</releasedate>
 		<publisher>Cinematronics</publisher>
 		<genre>Action</genre>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tq.daphne</path>
+		<name>Thayer's Quest</name>
+		<desc>Thayer Alconred, last of the bloodline of the Elder Kings, searches five kingdoms in search of five relics which combine to form the Hand of Quoid. Thayer's adversary, Sorsabal The Twisted assisted by his henchman, The Black Magician, seeks to use the Hand's power to take control of the land.</desc>
+		<image>./mixart/tq.png</image>
+		<video>./snap/tq.mp4</video>
+		<marquee>./wheel/tq.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>RDI Video Systems</developer>
+		<publisher>RDI Video Systems</publisher>
+		<genre>Platform-Plateform / Run Jump</genre>
 		<lang>en</lang>
 	</game>
 </gameList>

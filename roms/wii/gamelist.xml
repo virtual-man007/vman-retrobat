@@ -74,21 +74,6 @@
 		<video>./snap/Ultimate Shooting Collection (USA).cc.mp4</video>
 		<genreid>260</genreid>
 	</game>
-	<game id="9097" source="ScreenScraper.fr">
-		<path>./Victorious Boxers - Revolution (USA).cc.rvz</path>
-		<name>Victorious Boxers Challenge</name>
-		<desc>Victorious Boxers takes full advantage of the unique capabilities of the Wii Remote and Nunchuk to give players an authentic, real-life boxing experience. The various moves include punches like jabs, straights, uppercuts and hooks, as well as defensive maneuvers like ducks and sways.Players can enjoy several rounds with their friends or play through the deep and compelling Story Mode as they follow the story of Ippo Makunouchi, a high school student who is bullied by his classmates, as he rises to the top of the professional boxing ranks.</desc>
-		<rating>0.65</rating>
-		<releasedate>20071017T000000</releasedate>
-		<developer>Grand Master Design</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Sports-Fight</genre>
-		<players>2</players>
-		<image>./mixart/Victorious Boxers - Revolution (USA).cc.png</image>
-		<marquee>./wheel/Victorious Boxers - Revolution (USA).cc.png</marquee>
-		<video>./snap/Victorious Boxers - Revolution (USA).cc.mp4</video>
-		<genreid>262</genreid>
-	</game>
 	<game id="8833" source="ScreenScraper.fr">
 		<path>./WWE SmackDown vs. Raw 2010 (USA) (En,Fr,Es).cc.rvz</path>
 		<name>Wwe Smackdown Vs Raw 2010</name>
@@ -1320,63 +1305,6 @@ Your Sims change as they take on the challenges of island life and learn to surv
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="9759" source="ScreenScraper.fr">
-		<path>./Contra ReBirth (USA) (WiiWare).wad</path>
-		<name>Contra Rebirth</name>
-		<desc>Experience fast paced 2D side scrolling action from the series that pioneered the run-and-gun genre.
-
-Chief Salamander and his Neo-Salamander Force travel back to 1973 AD to invade Earth. They land in Central America and take control of the Shizuoka ruins on the Yucatan Peninsula. There, the aliens plan the destruction of all the ?Contra" on Earth. The Galactic President calls on Lance Bean, a member of the elite "Contra" warriors to save the Earth, but his sudden disappearance jeopardizes the safety of the planet. Now, Bill Rizer and the samurai, Genbei Yagyu are the last hope for Earth and must pick up their weapons and defeat the evil Neo-Salamander Army before all is lost. Experience the fast paced action packed 2D side-scrolling adventure that pioneered the run-and-gun genre.</desc>
-		<image>./mixart/Contra ReBirth (USA) (WiiWare).png</image>
-		<video>./snap/Contra ReBirth (USA) (WiiWare).mp4</video>
-		<marquee>./wheel/Contra ReBirth (USA) (WiiWare).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20090512T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<genreid>256</genreid>
-	</game>
-	<game>
-		<path>./Excitebike - World Rally (USA) (WiiWare).wad</path>
-		<name>Excitebike : World Rally</name>
-		<desc>The classic game play of Excitebike is combined with new controls and features in this exclusive WiiWare title! 
-Prepare to face daredevil jumps, crazy obstacles, and other racers in the newest member of the venerable Excitebike franchise, exclusively available on the WiiWare service. Choose from multiple camera angles as you tilt your way to smooth landings using the motion-sensitive controls and compete in races around the world in four championship circuits. Better yet, use Nintendo Wi-Fi Connection to invite friends to a race, or if you re feeling brave, take on anyone else looking for a match. Feel like tackling a challenge of your own design? Use the intuitive Track Editor to choose from the available obstacles and put together your dream course, then share your masterpiece with friends (and vice versa) to see whose creation skills reign supreme. After all, you know what they say about riding a bikeâ€”once you ve learned how, you never forget...</desc>
-		<image>./mixart/Excitebike - World Rally (USA) (WiiWare).png</image>
-		<video>./snap/Excitebike - World Rally (USA) (WiiWare).mp4</video>
-		<marquee>./wheel/Excitebike - World Rally (USA) (WiiWare).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20091109T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<favorite>true</favorite>
-	</game>
-	<game id="8694" source="ScreenScraper.fr">
-		<path>./Mario Kart Wii (USA) (En,Fr,Es).cc.rvz</path>
-		<name>Mario Kart Wii</name>
-		<desc>Mario Kart Wii is an installment of the long-running Mario Kart series, but here for the Nintendo Wii, where you take control of various Nintendo characters to race through different tracks and win the Grand Prix, using a variety of vehicles and items spread through the track to help you.
-
-There are various additions to the series. Players can now also play with motorbikes, which can do wheelies but are lighter and can't super boost, in contrast with karts. There's 6 varieties of each for each character class to choose from, and 4 new characters have been added as well as being able to drive with your Mii. Finally, there's 16 new tracks as well as 16 returning from previous games.
-
-Gameplay has also been modified. Drifting has been tweaked so that it's easier to use and players only get a turbo boost based on how well they perform the drift. It can be set to Manual, where players press a button to drift, or Automatic, where it's automatically triggered on curves but provides no turbo boost. Stunts can also be performed in the air to gain turbo boosts. Races have also been bolstered to support up to 12 players now.
-
-There's 4 modes of play to choose from: Grand Prix, where you race through series of tracks in the 50cc (karts only), 100cc (bikes only) and 150cc (karts and bikes) cups; Time Trial, where you take on ghost replays and try to finish in the least time; Versus, where you race against opponents on a single track; and Battle, where you can compete against your foes in either hitting them with weapons or collecting coins.
-
-Multiplayer is also supported, allowing up to 4 players in hotseat and 12 online on Nintendo Wi-Fi, where you can take on strangers and friends (with Friend Codes) in any game mode, play in competitions, beat other's ghost replays or check online rankings. The game can be played using a Wii Wheel (included), Wii Remote, Nunchuck, Classic Controller, or Gamecube Controller.</desc>
-		<image>./mixart/Mario Kart Wii (USA) (En,Fr,Es).cc.png</image>
-		<video>./snap/Mario Kart Wii (USA) (En,Fr,Es).cc.mp4</video>
-		<marquee>./wheel/Mario Kart Wii (USA) (En,Fr,Es).cc.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20080427T000000</releasedate>
-		<developer>Nintendo EAD</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<genreid>1537</genreid>
-	</game>
 	<game id="8692" source="ScreenScraper.fr">
 		<path>./Super Smash Bros. Brawl.cc.rvz</path>
 		<name>Super Smash Bros. Brawl</name>
@@ -2071,30 +1999,6 @@ Frogger Returns takes the heart-pounding challenge of arcade Frogger and takes i
 		<publisher>Konami</publisher>
 		<genre>Various</genre>
 	</game>
-	<game id="8698" source="ScreenScraper.fr">
-		<path>./New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2).cc.rvz</path>
-		<name>New Super Mario Bros. Wii</name>
-		<desc>Princess Peach has been kidnapped!  Again!  Everyone was celebrating the Princess' birthday when a giant birthday cake arrived... but then Bowser Jr. and the seven Koopalings popped out and kidnapped her!  Mario, Luigi and two Toads make chase to rescue her once more.  Will they succeed?
-
-New Super Mario Bros. Wii is a continuation of the Super Mario Bros. games.  As with the original, players jump, dash and grab power ups such as the Super Mushroom and the the Fire Flower, which lets them throw fireballs at their foes.  New powerups have been added too - the Propeller Hat allows players to zoom vertically up in the air, and then glide back down, the Ice Flower lets players freeze enemies into icy blocks, and the Penguin Suit gives them traction on ice as well as allowing them to belly slide.  Yoshi, from Super Mario World makes a return, as well - players can ride him and he'll eat enemies and berries in levels.
-
-The Wii Remote's tilting feature is used to activate certain parts of levels - for example, jumping onto specific platforms and tilting the Wii Remote will angle the platform too.  Another level has players aiming a light on a boat by using the Wii Remote so that they're not lost in the dark.  Shaking the Wii Remote while wearing the Propeller Hat causes the player to fly straight up, while shaking it near objects picks them up or throws them.
-
-The game has a special feature known as a 'Super Guide' - when a player dies eight times in total in a level, a special block appears at the start of the stage the next time they play.  If the player hits this block, Luigi will take over and play through the level, showing them how to complete it.  This allows players to progress through the game even if they are having trouble on a particularly difficult level.
-
-Up to four players can play simultaneously.  When playing together, as long as one person is on-screen in a level, players can keep returning in-game after they die by floating in a bubble which is then popped.  If all players lose their lives, they are sent back to the map screen.  Another mode, Coin Battle, has all players versus each other, with the aim being to pick up the most coins while heading toward the goal.</desc>
-		<image>./mixart/New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2).cc.png</image>
-		<video>./snap/New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2).cc.mp4</video>
-		<marquee>./wheel/New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2).cc.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20091115T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Shooter Small-Action-Platform</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<genreid>257</genreid>
-	</game>
 	<game id="10100">
 		<path>./Monster 4x4 - Stunt Racer (USA) (En,Fr,Es).rvz</path>
 		<name>Monster 4x4 : Stunt Racer</name>
@@ -2171,23 +2075,6 @@ Gyrostarr challenges you and up to three additional players to pilot your ships 
 		<players>2-4</players>
 		<genreid>260</genreid>
 	</game>
-	<game id="10249" source="ScreenScraper.fr">
-		<path>./Indianapolis 500 Legends (USA).cc.rvz</path>
-		<name>Indianapolis 500 Legends</name>
-		<desc>Indianapolis 500 Legends transports us back to the famous race during the Golden Racing era from 1961 to 1971. Race in open-wheel Indy cars and play a role in the story that characterized each Indy 500 event. Experience the personal rivalries, technological breakthroughs, race track changes and dramas that shaped the evolution of an epic international motor sport event. 
-
-Indy 500 features mission based racing that includes challenging famous rivals to re-live key moments in Indy 500 history. The game also showcases the innovative control system of the Wii - Steer your race car with the Wii Remote and perform pit stop min-games using gesture games.</desc>
-		<image>./mixart/Indianapolis 500 Legends (USA).cc.png</image>
-		<video>./snap/Indianapolis 500 Legends (USA).cc.mp4</video>
-		<marquee>./wheel/Indianapolis 500 Legends (USA).cc.png</marquee>
-		<releasedate>20071002T000000</releasedate>
-		<developer>Torus Games</developer>
-		<publisher>Torus Games</publisher>
-		<genre>Sports-Race, Driving</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<genreid>1537</genreid>
-	</game>
 	<game id="8738">
 		<path>./GoldenEye 007 (USA) (En,Fr).rvz</path>
 		<name>GoldenEye 007</name>
@@ -2210,22 +2097,6 @@ Online multiplayer: GoldenEye also features online multiplayer for up to 8 playe
 		<lang>en,fr</lang>
 		<region>eu</region>
 	</game>
-	<game id="8885" source="ScreenScraper.fr">
-		<path>./Sin &amp; Punishment - Star Successor (USA).cc.rvz</path>
-		<name>Sin and Punishment: Successor of the Skies</name>
-		<desc>Sin and Punishment: Star Successor is a Rail Shooting game, developed by Treasure and published by Nintendo. The game can be controlled using one of four control methods: Wii Remote with Nunchuk, Wii Zapper, Classic Controller (as well as the Classic Controller Pro) and the Nintendo GameCube Controller. Playing as either Isa or Kachi, the player traverses through on-rail levels, moving and shooting independently. Attacking enemies can either be shot at from afar, or melee attacked when they are close enough. Some missiles can be melee attacked to turn them against enemies. Getting successive enemy hits whilst remaining unscathed increases the score multiplier.</desc>
-		<image>./mixart/Sin &amp; Punishment - Star Successor (USA).cc.png</image>
-		<video>./snap/Sin &amp; Punishment - Star Successor (USA).cc.mp4</video>
-		<marquee>./wheel/Sin &amp; Punishment - Star Successor (USA).cc.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20100627T000000</releasedate>
-		<developer>Treasure</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action-Lightgun Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<genreid>261</genreid>
-	</game>
 	<game id="203542">
 		<path>./Harvest Moon - My Little Shop (USA) (WiiWare).wad</path>
 		<name>Harvest Moon : My Little Shop</name>
@@ -2241,21 +2112,6 @@ Online multiplayer: GoldenEye also features online multiplayer for up to 8 playe
 		<md5>4636c0400d88bde1e4d573c84bf8b832</md5>
 		<lang>en</lang>
 		<region>us</region>
-	</game>
-	<game>
-		<path>./Punch-Out!! (USA) (En,Fr,Es).cc.rvz</path>
-		<name>Punch-Out!!</name>
-		<desc>One of the biggest names in boxing returns after a 15-year hiatus. In Punch-Out!! you play as young up-and-coming fighter Little Mac who, with the help of his ringside trainer Doc Lewis, is working his way through the ranks of a wide variety of boxing caricatures, each with their own patterns of attacks. Grab a Wii Remote controller in one hand and a Nunchuk controller in the other and step back into the ring with a modern update of the classic Punch-Out!!Little Mac Is BackEveryone?s favorite underdog from the 1980s joins the best of the original Punch-Out!! cast in a modern re-imagining of the series. Players will find familiar names like Glass Joe, King Hippo and trainer Doc Louis. These boxers come to life again in cell-shaded 3-D, complete with hilarious fighting animations and back stories that capture all the fun and flair of the original Punch-Out!! games.The Wii's Motion SensitivityThe motion-sensitive controls of the Wii console mean that when players throw punches, Little Mac throws punches as well. Additionally, you can control hooks and jabs by combining motion control with control-stick movement. The motion-sensing Wii Remote and Nunchuk controllers turn real-life swings into on-screen punches, so anyone can play. The game can also be played with classic NES-style controls by turning the Wii Remote sideways.CharactersPunch-Out!! features a total of 13 opponents for Little Mac to step into the ring with. 12 of which are returning from previous games in the Punch-Out!! series. Each has their own back story and patterns of attacks to learn and learns to counter. Just a few of the characters you can expect to see are:Little MacSmall but extremely game, Little Mac is a young, up-and-coming fighter, who with the help of his trainer, ex-champion Doc Lewis, has set his sights on working his way through the ranks.Glass JoeA fearful French fighter due to his extremely weak chin, Glass Joe will crumple to the mat quickly with just a few well-placed shots, making him an easy mark and a good warm-up for the fighters to follow.King HippoKing Hippo is both huge and an immensely powerful fighter, but can be weakened with the right combinations to the head and body, giving you time to go for the knockout if you can survive his onslaught.Von KaiserAn old-timey fighter whose rumored childhood difficulties have left him eager to dish out punishment in the ring, Von Kaiser is a dangerous opponent, but one who will turn tail if you can find his weakness.Special AttacksPlayers can obtain special 'Star Punches,' which allow Little Mac to take more health from his rival in a single punch. Players can now use multiple stars in a single punch for an extra-powerful attack.Controller OptionsPunch-Out!! features multiple controller options. For players looking to take advantage of the Wii's motion control capabilities, Punch-Out!! uses the Wii Remote and Nunchuck controllers to simulate throwing punches. Use the Nunchuck to throw a left punch and the Wii Remote to throw a right punch. Fans of the NES version and core gamers will be excited to see Nintendo has also included the option to play Punch-Out!! using the classic layout from the original NES controller. Use the 1 and 2 buttons along with the cross pad to throw hooks and jabs or to dodge.</desc>
-		<image>./mixart/Punch-Out!! (USA) (En,Fr,Es).cc.png</image>
-		<video>./snap/Punch-Out!! (USA) (En,Fr,Es).cc.mp4</video>
-		<marquee>./wheel/Punch-Out!! (USA) (En,Fr,Es).cc.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20090518T000000</releasedate>
-		<developer>Next Level Games</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Sports-Fight</genre>
-		<players>2</players>
-		<favorite>true</favorite>
 	</game>
 	<game id="9916" source="ScreenScraper.fr">
 		<path>./Fluidity.wad</path>
@@ -2376,21 +2232,6 @@ Meanwhile, Yin-Yarn captures King Dedede and Meta Knight and places them under h
 		<publisher>Ubisoft</publisher>
 		<genre>Shooter / 1st person-Shooter-Action</genre>
 		<players>4+</players>
-	</game>
-	<game id="9250" source="ScreenScraper.fr">
-		<path>./Ghost Squad (USA).rvz</path>
-		<name>Ghost Squad</name>
-		<desc>Sega?s top-grossing light-gun game, Ghost Squad, comes to the Wii system and replicates the excitement of the arcade experience in your home!.The Ghost Squad is a Special Forces unit established in strict secrecy by the U.N. to combat terrorism and carry out special highly-classified missions without leaving a trace. As an elite member of the Ghost Squad, players will complete dangerous missions such as eliminating terrorist groups, releasing hostages, deactivating bombs, and even rescuing the US President when terrorists hijack Air Force One!Using the Wii Remote or Nintendo?s new Wii Zapper peripheral, players will utilize revolutionary selectable weapons including a high powered rifle, sub machine and shot gun, or even engage in hand-to-hand combat.</desc>
-		<image>./mixart/Ghost Squad (USA).png</image>
-		<video>./snap/Ghost Squad (USA).mp4</video>
-		<marquee>./wheel/Ghost Squad (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20071120T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Action-Lightgun Shooter</genre>
-		<players>2-4</players>
-		<favorite>true</favorite>
 	</game>
 	<game id="9099">
 		<path>./La-Mulana (USA) (WiiWare).wad</path>
@@ -2827,25 +2668,6 @@ During races, police will attempt to block and ram racers, causing damage that w
 		<genre>Action-Platform</genre>
 		<players>1</players>
 	</game>
-	<game id="8812" source="ScreenScraper.fr">
-		<path>./Fragile Dreams - Farewell Ruins of the Moon (USA) (En,Ja,Fr).rvz</path>
-		<name>Fragile Dreams : Farewell Ruins of the Moon</name>
-		<desc>Fragile Dreams takes place after an apocalyptic event that wiped out most of mankind. Young Seto finds a note from his deceased grandfather urging him to travel to the red tower that lights up the night sky. Along the way he finds a young, silver haired girl Ren who drives him to journey through the ruined world in search of companionship. 
- 
-Fragile Dreams: Farewell Ruins of the Moon is an action-adventure game with light RPG elements and a focus on exploring the often desolate surroundings. Players are tasked with navigating the empty environments while fighting ghosts and obtaining items such as sketches and short stories that reveal the last moments of the lives of those lost in the great catastrophe. Seto is guided through a third-person perspective and the flashlight is one of his most important aids. Controlled through the Wii Remote it illuminates dark surroundings to interact with the environment and is needed to solve many puzzles. It can also uncover hidden enemies and often a sound through the mini speaker provides a hint about their location. 
- 
-The Nunchuck is used to walk, sneak around, and crouch. It is possible to go into a first-person perspective to get a better view of the environment. Additional weapons that can be picked up during the course of the game are sticks, an iron pipe, a bow, a hammer, a bamboo sword, and a katana.</desc>
-		<image>./mixart/Fragile Dreams - Farewell Ruins of the Moon (USA) (En,Ja,Fr).png</image>
-		<video>./snap/Fragile Dreams - Farewell Ruins of the Moon (USA) (En,Ja,Fr).mp4</video>
-		<marquee>./wheel/Fragile Dreams - Farewell Ruins of the Moon (USA) (En,Ja,Fr).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20100316T000000</releasedate>
-		<developer>Xseed Games</developer>
-		<publisher>Rising Star Games</publisher>
-		<genre>Role playing games-Adventure-Action</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
 	<game id="9467">
 		<path>./Rage of the Gladiator (USA) (WiiWare).wad</path>
 		<name>Rage Of The Gladiator</name>
@@ -2872,22 +2694,6 @@ Also supports the Wii MotionPlus accessory!</desc>
 		<md5>ec934314c2fd5cbe1f618e646e511592</md5>
 		<lang>en</lang>
 		<region>us</region>
-	</game>
-	<game id="8897" source="ScreenScraper.fr">
-		<path>./Sengoku Basara - Samurai Heroes (USA) (En,Fr,Es).cc.rvz</path>
-		<name>Sengoku Basara Samurai Heroes</name>
-		<desc>Featuring unique playable characters, as well as supporting generals who will make it easier to command and lead armies, players will see the battle from the perspective of each military commander with the ultimate goal of re-writing history to rule all of 16th century Japan. In the dynamic new "Hero s Story" mode, the player s decisions impact history with a redesigned story mode. Based on choices made by the player, new drama unfolds as friends become enemies, enemies become friends, and a new Sengoku story unfolds. Adding a new strategic element to the game, forces can fight for control/taking over of camps and ultimately entire battlefields.</desc>
-		<image>./mixart/Sengoku Basara - Samurai Heroes (USA) (En,Fr,Es).cc.png</image>
-		<video>./snap/Sengoku Basara - Samurai Heroes (USA) (En,Fr,Es).cc.mp4</video>
-		<marquee>./wheel/Sengoku Basara - Samurai Heroes (USA) (En,Fr,Es).cc.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20100729T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Beat'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<genreid>263</genreid>
 	</game>
 	<game id="9029">
 		<path>./Shaun White Snowboarding - Road Trip (USA) (En,Fr,Es).rvz</path>
@@ -2943,22 +2749,6 @@ As you search for Cheryl, you will come across objects and recordings that tell 
 		<lang>en,es,fr</lang>
 		<region>eu</region>
 	</game>
-	<game id="8731" source="ScreenScraper.fr">
-		<path>./Sonic Colors (USA) (En,Ja,Fr,De,Es,It).cc.rvz</path>
-		<name>Sonic Colours</name>
-		<desc>A brand new high speed action adventure in which Sonic the Hedgehog races through incredible theme park inspired worlds to rescue a colourful alien race from the clutches of Dr Eggman. An extraordinary amusement park has been seen orbiting around the home planet of Sonic the Hedgehog, and rumours are spreading that an alien race of Wisps, who have a unique colourful energy, are being held captive there by the evil Dr Eggman. Soon after arriving at the amusement park Sonic discovers he is able to use these mysterious alien forces to help the Wisps escape! Sonic Colours for the Wii seamlessly combines both 3D and classic 2D game play perspectives.</desc>
-		<image>./mixart/Sonic Colors (USA) (En,Ja,Fr,De,Es,It).cc.png</image>
-		<video>./snap/Sonic Colors (USA) (En,Ja,Fr,De,Es,It).cc.mp4</video>
-		<marquee>./wheel/Sonic Colors (USA) (En,Ja,Fr,De,Es,It).cc.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20101112T000000</releasedate>
-		<developer>Sonic Team</developer>
-		<publisher>Sega</publisher>
-		<genre>Action-Platform</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<genreid>257</genreid>
-	</game>
 	<game id="9436">
 		<path>./Rygar - The Battle of Argus (USA).rvz</path>
 		<name>Rygar : The Battle of Argus</name>
@@ -2974,24 +2764,6 @@ As you search for Cheryl, you will come across objects and recordings that tell 
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
-	</game>
-	<game id="9202" source="ScreenScraper.fr">
-		<path>./Sonic the Hedgehog 4 - Episode I (USA) (WiiWare).wad</path>
-		<name>Sonic the Hedgehog 4 : Episode I</name>
-		<desc>Sonic the Hedgehog 4is an episodic platform video game as part of the Sonic the Hedgehog series. The game was developed by Dimps alongside members of Sonic Team[7] and is intended to be a return to the roots of the Sonic the Hedgehog series. 
- 
-Episode 1 was released in October 2010 with slight variations in exact date and price amongst its four platforms, iOS, PlayStation Network, WiiWare, and Xbox Live Arcade.</desc>
-		<image>./mixart/Sonic the Hedgehog 4 - Episode I (USA) (WiiWare).png</image>
-		<video>./snap/Sonic the Hedgehog 4 - Episode I (USA) (WiiWare).mp4</video>
-		<marquee>./wheel/Sonic the Hedgehog 4 - Episode I (USA) (WiiWare).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20101015T000000</releasedate>
-		<developer>Dimps</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<genreid>257</genreid>
 	</game>
 	<game id="8923">
 		<path>./Soulcalibur Legends (USA).rvz</path>
@@ -3070,28 +2842,6 @@ The Space Invaders are back, and this time they re out to get even! Take control
 		<genre>Action-Lightgun Shooter</genre>
 		<players>1</players>
 		<genreid>261</genreid>
-	</game>
-	<game id="8708" source="ScreenScraper.fr">
-		<path>./Super Mario Galaxy (USA) (En,Fr,Es).cc.rvz</path>
-		<name>Super Mario Galaxy</name>
-		<desc>Mario takes to the skies and beyond in another outing to save the Princess. As the Mushroom Kingdom prepares to celebrate the arrival of a comet that appears in the skies every hundred years, Princess Peach sends Mario an invitation to attend. As Mario arrives, Bowser and minions attack the Kingdom and once again kidnap the Princess... and her entire castle. Mario gives chase but is lost as the ship leaves the atmosphere and ends up on a space station built on the visiting comet overseen by the mysterious Rosalina. It's up to Mario to brave new galaxies, find the elusive Power Stars, and bring his friends home.
-
-Super Mario Galaxy plays similarly to Super Mario 64, as Mario explores his latest 3D world defying gravity, crossing various terrains, and even running upside down across the planet surfaces. Bouncing from planet to planet, Mario must collect Star Bits and coins, using his usual jump attacks and spins (now controlled with movement from the Wii Remote). The Wii Remote is also used to collect out of reach Star Bits and also can be controlled by a second player.
-
-In addition, Mario can find new suits (similar to Super Mario Bros. 3) that give him the ability to turn into the ghostly Boo Mario, the high-flying Bee Mario, launch fireballs as Fire Mario and skate across frozen lakes as Ice Mario. New challenges also await Mario including ray surfing, balancing on a high-speed ball, floating inside bubbles, and other challenges in his quest to get all 120 stars. Even Luigi lends a hand in the search, making valuable contributions to the adventure.
-
-Players can also take a snapshot of the worlds they've completed along with their best record times and send them to their friends via Wi-Fi.</desc>
-		<image>./mixart/Super Mario Galaxy (USA) (En,Fr,Es).cc.png</image>
-		<video>./snap/Super Mario Galaxy (USA) (En,Fr,Es).cc.mp4</video>
-		<marquee>./wheel/Super Mario Galaxy (USA) (En,Fr,Es).cc.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20071112T000000</releasedate>
-		<developer>Nintendo EAD</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action-Platform</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<genreid>257</genreid>
 	</game>
 	<game id="9085">
 		<path>./Super Monkey Ball - Banana Blitz (USA) (En,Fr,Es).rvz</path>
@@ -3253,5 +3003,281 @@ The game is structured very similar to previous Zelda games: you travel through 
 		<players>1</players>
 		<lang>en,es,fr</lang>
 		<region>eu</region>
+	</game>
+	<game id="9097" source="ScreenScraper.fr">
+		<path>./Victorious Boxers - Revolution (USA).cc.rvz</path>
+		<name>Victorious Boxers Challenge</name>
+		<desc>Victorious Boxers takes full advantage of the unique capabilities of the Wii Remote and Nunchuk to give players an authentic, real-life boxing experience. The various moves include punches like jabs, straights, uppercuts and hooks, as well as defensive maneuvers like ducks and sways.Players can enjoy several rounds with their friends or play through the deep and compelling Story Mode as they follow the story of Ippo Makunouchi, a high school student who is bullied by his classmates, as he rises to the top of the professional boxing ranks.</desc>
+		<image>./mixart/Victorious Boxers - Revolution (USA).cc.png</image>
+		<video>./snap/Victorious Boxers - Revolution (USA).cc.mp4</video>
+		<marquee>./wheel/Victorious Boxers - Revolution (USA).cc.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20071017T000000</releasedate>
+		<developer>Grand Master Design</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Sports-Fight</genre>
+		<players>2</players>
+		<genreid>262</genreid>
+	</game>
+	<game id="9759" source="ScreenScraper.fr">
+		<path>./Contra ReBirth (USA) (WiiWare).wad</path>
+		<name>Contra Rebirth</name>
+		<desc>Experience fast paced 2D side scrolling action from the series that pioneered the run-and-gun genre.
+
+Chief Salamander and his Neo-Salamander Force travel back to 1973 AD to invade Earth. They land in Central America and take control of the Shizuoka ruins on the Yucatan Peninsula. There, the aliens plan the destruction of all the ?Contra" on Earth. The Galactic President calls on Lance Bean, a member of the elite "Contra" warriors to save the Earth, but his sudden disappearance jeopardizes the safety of the planet. Now, Bill Rizer and the samurai, Genbei Yagyu are the last hope for Earth and must pick up their weapons and defeat the evil Neo-Salamander Army before all is lost. Experience the fast paced action packed 2D side-scrolling adventure that pioneered the run-and-gun genre.</desc>
+		<image>./mixart/Contra ReBirth (USA) (WiiWare).png</image>
+		<video>./snap/Contra ReBirth (USA) (WiiWare).mp4</video>
+		<marquee>./wheel/Contra ReBirth (USA) (WiiWare).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20090512T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>256</genreid>
+	</game>
+	<game>
+		<path>./Excitebike - World Rally (USA) (WiiWare).wad</path>
+		<name>Excitebike : World Rally</name>
+		<desc>The classic game play of Excitebike is combined with new controls and features in this exclusive WiiWare title! 
+Prepare to face daredevil jumps, crazy obstacles, and other racers in the newest member of the venerable Excitebike franchise, exclusively available on the WiiWare service. Choose from multiple camera angles as you tilt your way to smooth landings using the motion-sensitive controls and compete in races around the world in four championship circuits. Better yet, use Nintendo Wi-Fi Connection to invite friends to a race, or if you re feeling brave, take on anyone else looking for a match. Feel like tackling a challenge of your own design? Use the intuitive Track Editor to choose from the available obstacles and put together your dream course, then share your masterpiece with friends (and vice versa) to see whose creation skills reign supreme. After all, you know what they say about riding a bikeâ€”once you ve learned how, you never forget...</desc>
+		<image>./mixart/Excitebike - World Rally (USA) (WiiWare).png</image>
+		<video>./snap/Excitebike - World Rally (USA) (WiiWare).mp4</video>
+		<marquee>./wheel/Excitebike - World Rally (USA) (WiiWare).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20091109T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="8812" source="ScreenScraper.fr">
+		<path>./Fragile Dreams - Farewell Ruins of the Moon (USA) (En,Ja,Fr).rvz</path>
+		<name>Fragile Dreams : Farewell Ruins of the Moon</name>
+		<desc>Fragile Dreams takes place after an apocalyptic event that wiped out most of mankind. Young Seto finds a note from his deceased grandfather urging him to travel to the red tower that lights up the night sky. Along the way he finds a young, silver haired girl Ren who drives him to journey through the ruined world in search of companionship. 
+ 
+Fragile Dreams: Farewell Ruins of the Moon is an action-adventure game with light RPG elements and a focus on exploring the often desolate surroundings. Players are tasked with navigating the empty environments while fighting ghosts and obtaining items such as sketches and short stories that reveal the last moments of the lives of those lost in the great catastrophe. Seto is guided through a third-person perspective and the flashlight is one of his most important aids. Controlled through the Wii Remote it illuminates dark surroundings to interact with the environment and is needed to solve many puzzles. It can also uncover hidden enemies and often a sound through the mini speaker provides a hint about their location. 
+ 
+The Nunchuck is used to walk, sneak around, and crouch. It is possible to go into a first-person perspective to get a better view of the environment. Additional weapons that can be picked up during the course of the game are sticks, an iron pipe, a bow, a hammer, a bamboo sword, and a katana.</desc>
+		<image>./mixart/Fragile Dreams - Farewell Ruins of the Moon (USA) (En,Ja,Fr).png</image>
+		<video>./snap/Fragile Dreams - Farewell Ruins of the Moon (USA) (En,Ja,Fr).mp4</video>
+		<marquee>./wheel/Fragile Dreams - Farewell Ruins of the Moon (USA) (En,Ja,Fr).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20100316T000000</releasedate>
+		<developer>Xseed Games</developer>
+		<publisher>Rising Star Games</publisher>
+		<genre>Role playing games-Adventure-Action</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en,jp,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="9250" source="ScreenScraper.fr">
+		<path>./Ghost Squad (USA).rvz</path>
+		<name>Ghost Squad</name>
+		<desc>Sega?s top-grossing light-gun game, Ghost Squad, comes to the Wii system and replicates the excitement of the arcade experience in your home!.The Ghost Squad is a Special Forces unit established in strict secrecy by the U.N. to combat terrorism and carry out special highly-classified missions without leaving a trace. As an elite member of the Ghost Squad, players will complete dangerous missions such as eliminating terrorist groups, releasing hostages, deactivating bombs, and even rescuing the US President when terrorists hijack Air Force One!Using the Wii Remote or Nintendo?s new Wii Zapper peripheral, players will utilize revolutionary selectable weapons including a high powered rifle, sub machine and shot gun, or even engage in hand-to-hand combat.</desc>
+		<image>./mixart/Ghost Squad (USA).png</image>
+		<video>./snap/Ghost Squad (USA).mp4</video>
+		<marquee>./wheel/Ghost Squad (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20071120T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action-Lightgun Shooter</genre>
+		<players>2-4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="10249" source="ScreenScraper.fr">
+		<path>./Indianapolis 500 Legends (USA).cc.rvz</path>
+		<name>Indianapolis 500 Legends</name>
+		<desc>Indianapolis 500 Legends transports us back to the famous race during the Golden Racing era from 1961 to 1971. Race in open-wheel Indy cars and play a role in the story that characterized each Indy 500 event. Experience the personal rivalries, technological breakthroughs, race track changes and dramas that shaped the evolution of an epic international motor sport event. 
+
+Indy 500 features mission based racing that includes challenging famous rivals to re-live key moments in Indy 500 history. The game also showcases the innovative control system of the Wii - Steer your race car with the Wii Remote and perform pit stop min-games using gesture games.</desc>
+		<image>./mixart/Indianapolis 500 Legends (USA).cc.png</image>
+		<video>./snap/Indianapolis 500 Legends (USA).cc.mp4</video>
+		<marquee>./wheel/Indianapolis 500 Legends (USA).cc.png</marquee>
+		<releasedate>20071002T000000</releasedate>
+		<developer>Torus Games</developer>
+		<publisher>Torus Games</publisher>
+		<genre>Sports-Race, Driving</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>1537</genreid>
+	</game>
+	<game id="8694" source="ScreenScraper.fr">
+		<path>./Mario Kart Wii (USA) (En,Fr,Es).cc.rvz</path>
+		<name>Mario Kart Wii</name>
+		<desc>Mario Kart Wii is an installment of the long-running Mario Kart series, but here for the Nintendo Wii, where you take control of various Nintendo characters to race through different tracks and win the Grand Prix, using a variety of vehicles and items spread through the track to help you.
+
+There are various additions to the series. Players can now also play with motorbikes, which can do wheelies but are lighter and can't super boost, in contrast with karts. There's 6 varieties of each for each character class to choose from, and 4 new characters have been added as well as being able to drive with your Mii. Finally, there's 16 new tracks as well as 16 returning from previous games.
+
+Gameplay has also been modified. Drifting has been tweaked so that it's easier to use and players only get a turbo boost based on how well they perform the drift. It can be set to Manual, where players press a button to drift, or Automatic, where it's automatically triggered on curves but provides no turbo boost. Stunts can also be performed in the air to gain turbo boosts. Races have also been bolstered to support up to 12 players now.
+
+There's 4 modes of play to choose from: Grand Prix, where you race through series of tracks in the 50cc (karts only), 100cc (bikes only) and 150cc (karts and bikes) cups; Time Trial, where you take on ghost replays and try to finish in the least time; Versus, where you race against opponents on a single track; and Battle, where you can compete against your foes in either hitting them with weapons or collecting coins.
+
+Multiplayer is also supported, allowing up to 4 players in hotseat and 12 online on Nintendo Wi-Fi, where you can take on strangers and friends (with Friend Codes) in any game mode, play in competitions, beat other's ghost replays or check online rankings. The game can be played using a Wii Wheel (included), Wii Remote, Nunchuck, Classic Controller, or Gamecube Controller.</desc>
+		<image>./mixart/Mario Kart Wii (USA) (En,Fr,Es).cc.png</image>
+		<video>./snap/Mario Kart Wii (USA) (En,Fr,Es).cc.mp4</video>
+		<marquee>./wheel/Mario Kart Wii (USA) (En,Fr,Es).cc.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20080427T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+		<genreid>1537</genreid>
+	</game>
+	<game id="8698" source="ScreenScraper.fr">
+		<path>./New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2).cc.rvz</path>
+		<name>New Super Mario Bros. Wii</name>
+		<desc>Princess Peach has been kidnapped!  Again!  Everyone was celebrating the Princess' birthday when a giant birthday cake arrived... but then Bowser Jr. and the seven Koopalings popped out and kidnapped her!  Mario, Luigi and two Toads make chase to rescue her once more.  Will they succeed?
+
+New Super Mario Bros. Wii is a continuation of the Super Mario Bros. games.  As with the original, players jump, dash and grab power ups such as the Super Mushroom and the the Fire Flower, which lets them throw fireballs at their foes.  New powerups have been added too - the Propeller Hat allows players to zoom vertically up in the air, and then glide back down, the Ice Flower lets players freeze enemies into icy blocks, and the Penguin Suit gives them traction on ice as well as allowing them to belly slide.  Yoshi, from Super Mario World makes a return, as well - players can ride him and he'll eat enemies and berries in levels.
+
+The Wii Remote's tilting feature is used to activate certain parts of levels - for example, jumping onto specific platforms and tilting the Wii Remote will angle the platform too.  Another level has players aiming a light on a boat by using the Wii Remote so that they're not lost in the dark.  Shaking the Wii Remote while wearing the Propeller Hat causes the player to fly straight up, while shaking it near objects picks them up or throws them.
+
+The game has a special feature known as a 'Super Guide' - when a player dies eight times in total in a level, a special block appears at the start of the stage the next time they play.  If the player hits this block, Luigi will take over and play through the level, showing them how to complete it.  This allows players to progress through the game even if they are having trouble on a particularly difficult level.
+
+Up to four players can play simultaneously.  When playing together, as long as one person is on-screen in a level, players can keep returning in-game after they die by floating in a bubble which is then popped.  If all players lose their lives, they are sent back to the map screen.  Another mode, Coin Battle, has all players versus each other, with the aim being to pick up the most coins while heading toward the goal.</desc>
+		<image>./mixart/New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2).cc.png</image>
+		<video>./snap/New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2).cc.mp4</video>
+		<marquee>./wheel/New Super Mario Bros. Wii (USA) (En,Fr,Es) (Rev 2).cc.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20091115T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shooter Small-Action-Platform</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+		<genreid>257</genreid>
+	</game>
+	<game>
+		<path>./Punch-Out!! (USA) (En,Fr,Es).cc.rvz</path>
+		<name>Punch-Out!!</name>
+		<desc>One of the biggest names in boxing returns after a 15-year hiatus. In Punch-Out!! you play as young up-and-coming fighter Little Mac who, with the help of his ringside trainer Doc Lewis, is working his way through the ranks of a wide variety of boxing caricatures, each with their own patterns of attacks. Grab a Wii Remote controller in one hand and a Nunchuk controller in the other and step back into the ring with a modern update of the classic Punch-Out!!Little Mac Is BackEveryone?s favorite underdog from the 1980s joins the best of the original Punch-Out!! cast in a modern re-imagining of the series. Players will find familiar names like Glass Joe, King Hippo and trainer Doc Louis. These boxers come to life again in cell-shaded 3-D, complete with hilarious fighting animations and back stories that capture all the fun and flair of the original Punch-Out!! games.The Wii's Motion SensitivityThe motion-sensitive controls of the Wii console mean that when players throw punches, Little Mac throws punches as well. Additionally, you can control hooks and jabs by combining motion control with control-stick movement. The motion-sensing Wii Remote and Nunchuk controllers turn real-life swings into on-screen punches, so anyone can play. The game can also be played with classic NES-style controls by turning the Wii Remote sideways.CharactersPunch-Out!! features a total of 13 opponents for Little Mac to step into the ring with. 12 of which are returning from previous games in the Punch-Out!! series. Each has their own back story and patterns of attacks to learn and learns to counter. Just a few of the characters you can expect to see are:Little MacSmall but extremely game, Little Mac is a young, up-and-coming fighter, who with the help of his trainer, ex-champion Doc Lewis, has set his sights on working his way through the ranks.Glass JoeA fearful French fighter due to his extremely weak chin, Glass Joe will crumple to the mat quickly with just a few well-placed shots, making him an easy mark and a good warm-up for the fighters to follow.King HippoKing Hippo is both huge and an immensely powerful fighter, but can be weakened with the right combinations to the head and body, giving you time to go for the knockout if you can survive his onslaught.Von KaiserAn old-timey fighter whose rumored childhood difficulties have left him eager to dish out punishment in the ring, Von Kaiser is a dangerous opponent, but one who will turn tail if you can find his weakness.Special AttacksPlayers can obtain special 'Star Punches,' which allow Little Mac to take more health from his rival in a single punch. Players can now use multiple stars in a single punch for an extra-powerful attack.Controller OptionsPunch-Out!! features multiple controller options. For players looking to take advantage of the Wii's motion control capabilities, Punch-Out!! uses the Wii Remote and Nunchuck controllers to simulate throwing punches. Use the Nunchuck to throw a left punch and the Wii Remote to throw a right punch. Fans of the NES version and core gamers will be excited to see Nintendo has also included the option to play Punch-Out!! using the classic layout from the original NES controller. Use the 1 and 2 buttons along with the cross pad to throw hooks and jabs or to dodge.</desc>
+		<image>./mixart/Punch-Out!! (USA) (En,Fr,Es).cc.png</image>
+		<video>./snap/Punch-Out!! (USA) (En,Fr,Es).cc.mp4</video>
+		<marquee>./wheel/Punch-Out!! (USA) (En,Fr,Es).cc.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20090518T000000</releasedate>
+		<developer>Next Level Games</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports-Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="8897" source="ScreenScraper.fr">
+		<path>./Sengoku Basara - Samurai Heroes (USA) (En,Fr,Es).cc.rvz</path>
+		<name>Sengoku Basara Samurai Heroes</name>
+		<desc>Featuring unique playable characters, as well as supporting generals who will make it easier to command and lead armies, players will see the battle from the perspective of each military commander with the ultimate goal of re-writing history to rule all of 16th century Japan. In the dynamic new "Hero s Story" mode, the player s decisions impact history with a redesigned story mode. Based on choices made by the player, new drama unfolds as friends become enemies, enemies become friends, and a new Sengoku story unfolds. Adding a new strategic element to the game, forces can fight for control/taking over of camps and ultimately entire battlefields.</desc>
+		<image>./mixart/Sengoku Basara - Samurai Heroes (USA) (En,Fr,Es).cc.png</image>
+		<video>./snap/Sengoku Basara - Samurai Heroes (USA) (En,Fr,Es).cc.mp4</video>
+		<marquee>./wheel/Sengoku Basara - Samurai Heroes (USA) (En,Fr,Es).cc.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20100729T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+		<genreid>263</genreid>
+	</game>
+	<game id="8885" source="ScreenScraper.fr">
+		<path>./Sin &amp; Punishment - Star Successor (USA).cc.rvz</path>
+		<name>Sin and Punishment: Successor of the Skies</name>
+		<desc>Sin and Punishment: Star Successor is a Rail Shooting game, developed by Treasure and published by Nintendo. The game can be controlled using one of four control methods: Wii Remote with Nunchuk, Wii Zapper, Classic Controller (as well as the Classic Controller Pro) and the Nintendo GameCube Controller. Playing as either Isa or Kachi, the player traverses through on-rail levels, moving and shooting independently. Attacking enemies can either be shot at from afar, or melee attacked when they are close enough. Some missiles can be melee attacked to turn them against enemies. Getting successive enemy hits whilst remaining unscathed increases the score multiplier.</desc>
+		<image>./mixart/Sin &amp; Punishment - Star Successor (USA).cc.png</image>
+		<video>./snap/Sin &amp; Punishment - Star Successor (USA).cc.mp4</video>
+		<marquee>./wheel/Sin &amp; Punishment - Star Successor (USA).cc.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20100627T000000</releasedate>
+		<developer>Treasure</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Lightgun Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>261</genreid>
+	</game>
+	<game id="8731" source="ScreenScraper.fr">
+		<path>./Sonic Colors (USA) (En,Ja,Fr,De,Es,It).cc.rvz</path>
+		<name>Sonic Colours</name>
+		<desc>A brand new high speed action adventure in which Sonic the Hedgehog races through incredible theme park inspired worlds to rescue a colourful alien race from the clutches of Dr Eggman. An extraordinary amusement park has been seen orbiting around the home planet of Sonic the Hedgehog, and rumours are spreading that an alien race of Wisps, who have a unique colourful energy, are being held captive there by the evil Dr Eggman. Soon after arriving at the amusement park Sonic discovers he is able to use these mysterious alien forces to help the Wisps escape! Sonic Colours for the Wii seamlessly combines both 3D and classic 2D game play perspectives.</desc>
+		<image>./mixart/Sonic Colors (USA) (En,Ja,Fr,De,Es,It).cc.png</image>
+		<video>./snap/Sonic Colors (USA) (En,Ja,Fr,De,Es,It).cc.mp4</video>
+		<marquee>./wheel/Sonic Colors (USA) (En,Ja,Fr,De,Es,It).cc.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20101112T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<genre>Action-Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>de,en,jp,es,fr,it</lang>
+		<region>eu</region>
+		<genreid>257</genreid>
+	</game>
+	<game id="9202" source="ScreenScraper.fr">
+		<path>./Sonic the Hedgehog 4 - Episode I (USA) (WiiWare).wad</path>
+		<name>Sonic the Hedgehog 4 : Episode I</name>
+		<desc>Sonic the Hedgehog 4is an episodic platform video game as part of the Sonic the Hedgehog series. The game was developed by Dimps alongside members of Sonic Team[7] and is intended to be a return to the roots of the Sonic the Hedgehog series. 
+ 
+Episode 1 was released in October 2010 with slight variations in exact date and price amongst its four platforms, iOS, PlayStation Network, WiiWare, and Xbox Live Arcade.</desc>
+		<image>./mixart/Sonic the Hedgehog 4 - Episode I (USA) (WiiWare).png</image>
+		<video>./snap/Sonic the Hedgehog 4 - Episode I (USA) (WiiWare).mp4</video>
+		<marquee>./wheel/Sonic the Hedgehog 4 - Episode I (USA) (WiiWare).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20101015T000000</releasedate>
+		<developer>Dimps</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>257</genreid>
+	</game>
+	<game id="8708" source="ScreenScraper.fr">
+		<path>./Super Mario Galaxy (USA) (En,Fr,Es).cc.rvz</path>
+		<name>Super Mario Galaxy</name>
+		<desc>Mario takes to the skies and beyond in another outing to save the Princess. As the Mushroom Kingdom prepares to celebrate the arrival of a comet that appears in the skies every hundred years, Princess Peach sends Mario an invitation to attend. As Mario arrives, Bowser and minions attack the Kingdom and once again kidnap the Princess... and her entire castle. Mario gives chase but is lost as the ship leaves the atmosphere and ends up on a space station built on the visiting comet overseen by the mysterious Rosalina. It's up to Mario to brave new galaxies, find the elusive Power Stars, and bring his friends home.
+
+Super Mario Galaxy plays similarly to Super Mario 64, as Mario explores his latest 3D world defying gravity, crossing various terrains, and even running upside down across the planet surfaces. Bouncing from planet to planet, Mario must collect Star Bits and coins, using his usual jump attacks and spins (now controlled with movement from the Wii Remote). The Wii Remote is also used to collect out of reach Star Bits and also can be controlled by a second player.
+
+In addition, Mario can find new suits (similar to Super Mario Bros. 3) that give him the ability to turn into the ghostly Boo Mario, the high-flying Bee Mario, launch fireballs as Fire Mario and skate across frozen lakes as Ice Mario. New challenges also await Mario including ray surfing, balancing on a high-speed ball, floating inside bubbles, and other challenges in his quest to get all 120 stars. Even Luigi lends a hand in the search, making valuable contributions to the adventure.
+
+Players can also take a snapshot of the worlds they've completed along with their best record times and send them to their friends via Wi-Fi.</desc>
+		<image>./mixart/Super Mario Galaxy (USA) (En,Fr,Es).cc.png</image>
+		<video>./snap/Super Mario Galaxy (USA) (En,Fr,Es).cc.mp4</video>
+		<marquee>./wheel/Super Mario Galaxy (USA) (En,Fr,Es).cc.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20071112T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+		<genreid>257</genreid>
 	</game>
 </gameList>

@@ -453,52 +453,6 @@ Two games in one, for double the fun! Simple, straightforward controls, new play
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Scott_Pilgrim_vs_The_World_The_Game.nsp</path>
-		<name>Scott Pilgrim vs. The World: The Game - Classic Edition (Limited Run #94)</name>
-		<desc>The Scott Pilgrim Vs. The World: The Game Classic Edition includes: 
-• Scott Pilgrim Vs. The World: The Game Complete Edition physical game for the Nintendo Switch
-• Full-color instruction booklet
-• Reversible cover sheet
-• Deluxe plastic clamshell case with reversible coversheet
-• Sticker sheet featuring art from the game
-• Physical soundtrack CD featuring music by Anamanaguchi.
-• The Clash at Demonhead commemorative concert ticket
-• Overworld map
-
-Rediscover the beloved 2D arcade-style beat'em up inspired by the iconic comic book series and movie Scott Pilgrim vs. The World in this Complete Edition!
-
-This Complete Edition includes the original Scott Pilgrim vs. The World: The Game, as well as it's original DLCs - the Knives Chau and Wallace Wells Add-On Packs.
-
-Play as your favorite characters - Scott Pilgrim, Ramona Flowers, Knives Chau, Stephen Stills, and more. Level-up and learn new awesome abilities, unlock secret items and modes, summon powerful allies, and more!
-
-Team up with friends and combine your skills to battle your way through waves of tough enemies, or compete with them in awesome mini-games like Dodgeball; all on your way to defeat the League of Ramona's Evil Exes!</desc>
-		<image>./images/Scott_Pilgrim_vs_The_World_The_Game-image.jpg</image>
-		<video>./videos/Scott_Pilgrim_vs_The_World_The_Game-video.mp4</video>
-		<marquee>./images/Scott_Pilgrim_vs_The_World_The_Game-marquee.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20210115T000000</releasedate>
-		<developer>Ubisoft Montreal</developer>
-		<publisher>Limited Run Games, Ubisoft</publisher>
-		<genre>Action, Adventure, Fighting</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game id="13282">
-		<path>./SEGA_AGES_Virtua_Racing.nsp</path>
-		<name>Virtua Racing</name>
-		<desc>Virtua Racing or V.R. for short, is a Formula One racing arcade game, developed by Sega AM2 and released in 1992. Virtua Racing was initially a proof-of-concept application for exercising a new 3D-graphics platform under development, the "Model 1". The results were so encouraging, that Virtua Racing was fully developed into a standalone arcade title. Though its use of 3D polygonal graphics was predated by arcade rivals Namco (Winning Run in 1988) and Atari (Hard Drivin' in 1989), Virtua Racing had vastly improved visuals in terms of polygon count, frame rate, and overall scene complexity, and displayed multiple camera angles and 3D human non-player characters, which all contributed to a greater sense of immersion. Virtua Racing is regarded as one of the most influential video games of all time, for laying the foundations for subsequent 3D racing games and for popularizing 3D polygonal graphics among a wider audience</desc>
-		<image>./images/SEGA_AGES_Virtua_Racing-image.png</image>
-		<video>./videos/SEGA_AGES_Virtua_Racing-video.mp4</video>
-		<marquee>./images/SEGA_AGES_Virtua_Racing-marquee.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19951106T000000</releasedate>
-		<developer>Time Warner Interactive</developer>
-		<publisher>Time Warner Interactive</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./content/updates/Diablo_III_Eternal_Collection_Update_v2.6.10.72837.nsp</path>
 		<name>Diablo_III_Eternal_Collection_Update_v2.6.10.72837</name>
 		<rating>0</rating>
@@ -548,41 +502,6 @@ Team up with friends and combine your skills to battle your way through waves of
 		<hidden>true</hidden>
 	</game>
 	<game>
-		<path>./Crash_Team_Racing_Nitro_Fueled.xci</path>
-		<name>Crash Team Racing: Nitro-Fueled</name>
-		<desc>Crash is back in the driver’s seat! Get ready to go fur-throttle with Crash™ Team Racing Nitro-Fueled. It’s the authentic CTR experience plus a whole lot more, now fully-remastered and revved up to the max:
-
-Start your engines with the original game modes, characters, tracks, power-ups, weapons and controls
-Power slide to glory in additional karts and tracks from beyond the original game
-Race online with friends and Crash the competition with online leaderboards
-
-With Crash™ Team Racing Nitro-Fueled, the stakes are high and the competition is fierce. It's the CTR you love, now kicked into the highest gear.</desc>
-		<image>./images/Crash_Team_Racing_Nitro_Fueled-image.jpg</image>
-		<marquee>./images/Crash_Team_Racing_Nitro_Fueled-marquee.png</marquee>
-		<video>./videos/Crash_Team_Racing_Nitro_Fueled.mp4</video>
-		<releasedate>20190621T000000</releasedate>
-		<developer>Beenox Studios</developer>
-		<publisher>Activision</publisher>
-		<genre>Racing</genre>
-		<players>4</players>
-		<lang>en</lang>
-	</game>
-	<game id="197817">
-		<path>./Diablo_III_Eternal_Collection.xci</path>
-		<name>Diablo 3 - Eternal Collection</name>
-		<desc>Ages ago, angels and demons birthed your world in a forbidden union. Now they've come to claim it. Stand tall among Sanctuary's meek and wicked to battle walking corpses, horrifying cultists, fallen seraphs, and the Lords of Hell. When the High Heavens and the Burning Hells war, humanity must be its own salvation.</desc>
-		<image>./images/Diablo_III_Eternal_Collection-image.png</image>
-		<video>./videos/Diablo_III_Eternal_Collection.mp4</video>
-		<marquee>./images/Diablo_III_Eternal_Collection-marquee.png</marquee>
-		<releasedate>20181102T000000</releasedate>
-		<developer>Blizzard Entertainment</developer>
-		<publisher>Blizzard Entertainment</publisher>
-		<genre>Adventure</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Super_Mario_3D_World_plus_Bowsers_Fury.xci</path>
 		<name>Super Mario 3D World + Bowser's Fury</name>
 		<desc>Enjoy two Mario adventures solo or with friends!
@@ -628,5 +547,86 @@ Need some extra assistance bringing Bowser out of his frenzied, furious state? A
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Crash_Team_Racing_Nitro_Fueled.xci</path>
+		<name>Crash Team Racing: Nitro-Fueled</name>
+		<desc>Crash is back in the driver’s seat! Get ready to go fur-throttle with Crash™ Team Racing Nitro-Fueled. It’s the authentic CTR experience plus a whole lot more, now fully-remastered and revved up to the max:
+
+Start your engines with the original game modes, characters, tracks, power-ups, weapons and controls
+Power slide to glory in additional karts and tracks from beyond the original game
+Race online with friends and Crash the competition with online leaderboards
+
+With Crash™ Team Racing Nitro-Fueled, the stakes are high and the competition is fierce. It's the CTR you love, now kicked into the highest gear.</desc>
+		<image>./images/Crash_Team_Racing_Nitro_Fueled-image.jpg</image>
+		<video>./videos/Crash_Team_Racing_Nitro_Fueled.mp4</video>
+		<marquee>./images/Crash_Team_Racing_Nitro_Fueled-marquee.png</marquee>
+		<releasedate>20190621T000000</releasedate>
+		<developer>Beenox Studios</developer>
+		<publisher>Activision</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game id="13282">
+		<path>./SEGA_AGES_Virtua_Racing.nsp</path>
+		<name>Virtua Racing</name>
+		<desc>Virtua Racing or V.R. for short, is a Formula One racing arcade game, developed by Sega AM2 and released in 1992. Virtua Racing was initially a proof-of-concept application for exercising a new 3D-graphics platform under development, the "Model 1". The results were so encouraging, that Virtua Racing was fully developed into a standalone arcade title. Though its use of 3D polygonal graphics was predated by arcade rivals Namco (Winning Run in 1988) and Atari (Hard Drivin' in 1989), Virtua Racing had vastly improved visuals in terms of polygon count, frame rate, and overall scene complexity, and displayed multiple camera angles and 3D human non-player characters, which all contributed to a greater sense of immersion. Virtua Racing is regarded as one of the most influential video games of all time, for laying the foundations for subsequent 3D racing games and for popularizing 3D polygonal graphics among a wider audience</desc>
+		<image>./images/SEGA_AGES_Virtua_Racing-image.png</image>
+		<video>./videos/SEGA_AGES_Virtua_Racing-video.mp4</video>
+		<marquee>./images/SEGA_AGES_Virtua_Racing-marquee.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19951106T000000</releasedate>
+		<developer>Time Warner Interactive</developer>
+		<publisher>Time Warner Interactive</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+	</game>
+	<game id="197817">
+		<path>./Diablo_III_Eternal_Collection.xci</path>
+		<name>Diablo 3 - Eternal Collection</name>
+		<desc>Ages ago, angels and demons birthed your world in a forbidden union. Now they've come to claim it. Stand tall among Sanctuary's meek and wicked to battle walking corpses, horrifying cultists, fallen seraphs, and the Lords of Hell. When the High Heavens and the Burning Hells war, humanity must be its own salvation.</desc>
+		<image>./images/Diablo_III_Eternal_Collection-image.png</image>
+		<video>./videos/Diablo_III_Eternal_Collection.mp4</video>
+		<marquee>./images/Diablo_III_Eternal_Collection-marquee.png</marquee>
+		<releasedate>20181102T000000</releasedate>
+		<developer>Blizzard Entertainment</developer>
+		<publisher>Blizzard Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Scott_Pilgrim_vs_The_World_The_Game.nsp</path>
+		<name>Scott Pilgrim vs. The World: The Game - Classic Edition (Limited Run #94)</name>
+		<desc>The Scott Pilgrim Vs. The World: The Game Classic Edition includes: 
+• Scott Pilgrim Vs. The World: The Game Complete Edition physical game for the Nintendo Switch
+• Full-color instruction booklet
+• Reversible cover sheet
+• Deluxe plastic clamshell case with reversible coversheet
+• Sticker sheet featuring art from the game
+• Physical soundtrack CD featuring music by Anamanaguchi.
+• The Clash at Demonhead commemorative concert ticket
+• Overworld map
+
+Rediscover the beloved 2D arcade-style beat'em up inspired by the iconic comic book series and movie Scott Pilgrim vs. The World in this Complete Edition!
+
+This Complete Edition includes the original Scott Pilgrim vs. The World: The Game, as well as it's original DLCs - the Knives Chau and Wallace Wells Add-On Packs.
+
+Play as your favorite characters - Scott Pilgrim, Ramona Flowers, Knives Chau, Stephen Stills, and more. Level-up and learn new awesome abilities, unlock secret items and modes, summon powerful allies, and more!
+
+Team up with friends and combine your skills to battle your way through waves of tough enemies, or compete with them in awesome mini-games like Dodgeball; all on your way to defeat the League of Ramona's Evil Exes!</desc>
+		<image>./images/Scott_Pilgrim_vs_The_World_The_Game-image.jpg</image>
+		<video>./videos/Scott_Pilgrim_vs_The_World_The_Game-video.mp4</video>
+		<marquee>./images/Scott_Pilgrim_vs_The_World_The_Game-marquee.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20210115T000000</releasedate>
+		<developer>Ubisoft Montreal</developer>
+		<publisher>Limited Run Games, Ubisoft</publisher>
+		<genre>Action, Adventure, Fighting</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>wr</region>
 	</game>
 </gameList>

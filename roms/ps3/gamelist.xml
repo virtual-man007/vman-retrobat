@@ -703,27 +703,6 @@ Gather a team of two, thrust into battle, and go crazy with your attacks! From b
 		<players>2</players>
 		<genreid>262</genreid>
 	</game>
-	<game id="25507" source="ScreenScraper.fr">
-		<path>./3D Dot Game Heroes.m3u</path>
-		<name>3d Dot Game Heroes</name>
-		<desc>The gameplay strongly resembles that of 8-bit action-adventure games from the 1980s, particularly that of The Legend of Zelda. 
- 
-Players move characters from screen to screen exploring dungeons, battling enemies, collecting items and solving puzzles reminiscent of the past.  
- 
-When the player's health bar is full, the player's sword will grow to tremendous sizes whenever swung.  
- 
-Swords in game can be customized and leveled up to increase its length, width, as well as magical power, other special items that can also be used include boomerangs, lanterns, candles, and bows.</desc>
-		<image>./mixart/3D Dot Game Heroes.png</image>
-		<video>./snap/3D Dot Game Heroes.mp4</video>
-		<marquee>./wheel/3D Dot Game Heroes.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20091105T000000</releasedate>
-		<developer>Southpeak Interactive</developer>
-		<publisher>Silicon Studio</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-		<genreid>768</genreid>
-	</game>
 	<game id="0" source="ScreenScraper.fr">
 		<path>./Bomberman Ultra.m3u</path>
 		<name>Bomberman Ultra</name>
@@ -1228,10 +1207,28 @@ Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or
 		<video>./snap/1942 Joint Strike.mp4</video>
 		<marquee>./wheel/1942 Joint Strike.png</marquee>
 		<rating>0.69</rating>
-		<releasedate></releasedate>
-		<playcount>1</playcount>
-		<lastplayed>20210611T175106</lastplayed>
-		<gametime>174</gametime>
+		<releasedate />
 		<lang>en</lang>
+	</game>
+	<game id="25507" source="ScreenScraper.fr">
+		<path>./3D Dot Game Heroes.m3u</path>
+		<name>3d Dot Game Heroes</name>
+		<desc>The gameplay strongly resembles that of 8-bit action-adventure games from the 1980s, particularly that of The Legend of Zelda. 
+ 
+Players move characters from screen to screen exploring dungeons, battling enemies, collecting items and solving puzzles reminiscent of the past.  
+ 
+When the player's health bar is full, the player's sword will grow to tremendous sizes whenever swung.  
+ 
+Swords in game can be customized and leveled up to increase its length, width, as well as magical power, other special items that can also be used include boomerangs, lanterns, candles, and bows.</desc>
+		<image>./mixart/3D Dot Game Heroes.png</image>
+		<video>./snap/3D Dot Game Heroes.mp4</video>
+		<marquee>./wheel/3D Dot Game Heroes.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20091105T000000</releasedate>
+		<developer>Southpeak Interactive</developer>
+		<publisher>Silicon Studio</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<genreid>768</genreid>
 	</game>
 </gameList>

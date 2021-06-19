@@ -1545,17 +1545,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Avatar Collector's Edition 1.05.fpt</path>
-		<name>Avatar Collector's Edition 1.05</name>
-		<desc>Flipper Avatar Collector's Edition</desc>
-		<image>./mixart/Avatar Collector's Edition 1.05.png</image>
-		<video>./snap/Avatar Collector's Edition 1.05.mp4</video>
-		<marquee>./wheel/Avatar Collector's Edition 1.05.png</marquee>
-		<releasedate>19940101T000000</releasedate>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./GREMLINS MOD 2.0.fpt</path>
 		<name>Gremlins</name>
 		<desc>Flipper GREMLINS MOD 2.0</desc>
@@ -1664,22 +1653,6 @@
 		<video>./snap/Knight Rider Phys 2_5.mp4</video>
 		<marquee>./wheel/Knight Rider Phys 2_5.png</marquee>
 		<releasedate>19940101T000000</releasedate>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Blue Vs Pink V1.0(DOFLinx).fpt</path>
-		<name>Blue Vs Pink V1.0(DOFLinx)</name>
-		<desc>Flipper Blue Vs Pink V1.0(DOFLinx)</desc>
-		<image>./mixart/Blue Vs Pink V1.0(DOFLinx).png</image>
-		<video>./snap/Blue Vs Pink V1.0(DOFLinx).mp4</video>
-		<marquee>./wheel/Blue Vs Pink V1.0(DOFLinx).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
@@ -1840,21 +1813,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Michael Jackson Bam 1.0.fpt</path>
-		<name>King of Pop - Michael Jackson</name>
-		<desc>Flipper Michael Jackson Bam 1.0</desc>
-		<image>./mixart/Michael Jackson Bam 1.0.png</image>
-		<video>./snap/Michael Jackson Bam 1.0.mp4</video>
-		<marquee>./wheel/Michael Jackson Bam 1.0.png</marquee>
-		<rating>4</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Streets_of_Fire_V2_0.fpt</path>
 		<name>Streets of Fire</name>
 		<desc>Flipper Streets_of_Fire_V2_0</desc>
@@ -1980,37 +1938,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Blade Runner ULTIMATE Pro 1.04.fpt</path>
-		<name>Blade Runner ULTIMATE Pro 1.04</name>
-		<desc>Flipper Blade Runner ULTIMATE Pro 1.04</desc>
-		<image>./mixart/Blade Runner ULTIMATE Pro 1.04.jpg</image>
-		<video>./snap/Blade Runner ULTIMATE Pro 1.04.mp4</video>
-		<marquee>./wheel/Blade Runner ULTIMATE Pro 1.04.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./jungle_girl_fpx_v1.fpt</path>
-		<name>Jungle Girl</name>
-		<desc>Flipper jungle_girl_fpx_v1.1</desc>
-		<image>./mixart/jungle_girl_fpx_v1.jpg</image>
-		<video>./snap/jungle_girl_fpx_v1.mp4</video>
-		<marquee>./wheel/jungle_girl_fpx_v1.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./BIG LEBOWSKI.fpt</path>
 		<name>The BIG LEBOWSKI</name>
 		<desc>Flipper BIG LEBOWSKI</desc>
@@ -2071,6 +1998,79 @@
 		<image>./mixart/Aliens Legacy ULTIMATE Pro 1.03.jpg</image>
 		<video>./snap/Aliens Legacy ULTIMATE Pro 1.03.mp4</video>
 		<marquee>./wheel/Aliens Legacy ULTIMATE Pro 1.03.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Avatar Collector's Edition 1.05.fpt</path>
+		<name>Avatar Collector's Edition 1.05</name>
+		<desc>Flipper Avatar Collector's Edition</desc>
+		<image>./mixart/Avatar Collector's Edition 1.05.png</image>
+		<video>./snap/Avatar Collector's Edition 1.05.mp4</video>
+		<marquee>./wheel/Avatar Collector's Edition 1.05.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Blue Vs Pink V1.0(DOFLinx).fpt</path>
+		<name>Blue Vs Pink V1.0(DOFLinx)</name>
+		<desc>Flipper Blue Vs Pink V1.0(DOFLinx)</desc>
+		<image>./mixart/Blue Vs Pink V1.0(DOFLinx).png</image>
+		<video>./snap/Blue Vs Pink V1.0(DOFLinx).mp4</video>
+		<marquee>./wheel/Blue Vs Pink V1.0(DOFLinx).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./jungle_girl_fpx_v1.fpt</path>
+		<name>Jungle Girl</name>
+		<desc>Flipper jungle_girl_fpx_v1.1</desc>
+		<image>./mixart/jungle_girl_fpx_v1.jpg</image>
+		<video>./snap/jungle_girl_fpx_v1.mp4</video>
+		<marquee>./wheel/jungle_girl_fpx_v1.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Michael Jackson Bam 1.0.fpt</path>
+		<name>King of Pop - Michael Jackson</name>
+		<desc>Flipper Michael Jackson Bam 1.0</desc>
+		<image>./mixart/Michael Jackson Bam 1.0.png</image>
+		<video>./snap/Michael Jackson Bam 1.0.mp4</video>
+		<marquee>./wheel/Michael Jackson Bam 1.0.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Blade Runner ULTIMATE Pro 1.04.fpt</path>
+		<name>Blade Runner ULTIMATE Pro 1.04</name>
+		<desc>Flipper Blade Runner ULTIMATE Pro 1.04</desc>
+		<image>./mixart/Blade Runner ULTIMATE Pro 1.04.jpg</image>
+		<video>./snap/Blade Runner ULTIMATE Pro 1.04.mp4</video>
+		<marquee>./wheel/Blade Runner ULTIMATE Pro 1.04.png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>

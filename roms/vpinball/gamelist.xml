@@ -343,36 +343,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Legend of Zelda.vpx</path>
-		<name>Legend of Zelda</name>
-		<desc>Flipper Legend of Zelda</desc>
-		<image>./mixart/Legend of Zelda.jpg</image>
-		<video>./snap/Legend of Zelda.mp4</video>
-		<marquee>./wheel/Legend of Zelda.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Lord Of The Rings (Stern - 2003) Siggi's Mod 1.2.vpx</path>
-		<name>Lord Of The Rings (Stern - 2003) Siggi's Mod 1.2</name>
-		<desc>Flipper Lord Of The Rings (Stern - 2003) Siggi's Mod 1.2</desc>
-		<image>./mixart/Lord Of The Rings (Stern - 2003) Siggi's Mod 1.2.jpg</image>
-		<video>./snap/Lord Of The Rings (Stern - 2003) Siggi's Mod 1.2.mp4</video>
-		<marquee>./wheel/Lord Of The Rings (Stern - 2003) Siggi's Mod 1.2.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Masters of the Universe 1_0b.vpx</path>
 		<name>Masters of the Universe 1_0b</name>
 		<desc>Flipper Masters of the Universe 1_0b</desc>
@@ -2519,21 +2489,6 @@
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Highlander (TBA 2019).vpx</path>
-		<name>Highlander (TBA 2019)</name>
-		<desc>Flipper Highlander (TBA 2019)</desc>
-		<image>./mixart/Highlander (TBA 2019).png</image>
-		<video>./snap/Highlander (TBA 2019).mp4</video>
-		<marquee>./wheel/Highlander (TBA 2019).png</marquee>
-		<rating>4</rating>
-		<releasedate>2019</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Super Mario Bros. (Premier 1992).vpx</path>
 		<name>Super Mario Bros. (Premier 1992)</name>
 		<desc>Flipper Super Mario Bros. (Premier 1992)</desc>
@@ -2620,21 +2575,6 @@
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
-	</game>
-	<game>
-		<path>./Predator (TBA 2019).vpx</path>
-		<name>Predator (TBA 2019)</name>
-		<desc>Flipper Predator (TBA 2019)</desc>
-		<image>./mixart/Predator (TBA 2019).png</image>
-		<video>./snap/Predator (TBA 2019).mp4</video>
-		<marquee>./wheel/Predator (TBA 2019).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Serious Sam Pinball 3.0.vpx</path>
@@ -2784,12 +2724,72 @@
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Black Tiger Pinball (Williams 1981).vpx</path>
-		<name>Black Tiger Pinball (Williams 1981)</name>
-		<desc>Flipper Black Tiger Pinball (Williams 1981)</desc>
-		<image>./mixart/Black Tiger Pinball (Williams 1981).png</image>
-		<video>./snap/Black Tiger Pinball (Williams 1981).mp4</video>
-		<marquee>./wheel/Black Tiger Pinball (Williams 1981).png</marquee>
+		<path>./Tron Legacy (Stern 2011) (1.6, SSF, Lightmod 1.2, NPC).vpx</path>
+		<name>Tron Legacy</name>
+		<desc>The Ultimate Tron Legacy virtual pinball cabinet experience!</desc>
+		<image>./mixart/Tron Legacy (Stern 2011) (1.6, SSF, Lightmod 1.2, NPC).jpg</image>
+		<video>./snap/Tron Legacy (Stern 2011) (1.6, SSF, Lightmod 1.2, NPC).mp4</video>
+		<marquee>./wheel/Tron Legacy (Stern 2011) (1.6, SSF, Lightmod 1.2, NPC).png</marquee>
+		<rating>4.12</rating>
+		<releasedate>20110924T000000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>Stern</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Highlander (TBA 2019).vpx</path>
+		<name>Highlander (TBA 2019)</name>
+		<desc>Flipper Highlander (TBA 2019)</desc>
+		<image>./mixart/Highlander (TBA 2019).png</image>
+		<video>./snap/Highlander (TBA 2019).mp4</video>
+		<marquee>./wheel/Highlander (TBA 2019).png</marquee>
+		<rating>4</rating>
+		<releasedate>2019</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Legend of Zelda.vpx</path>
+		<name>Legend of Zelda</name>
+		<desc>Flipper Legend of Zelda</desc>
+		<image>./mixart/Legend of Zelda.jpg</image>
+		<video>./snap/Legend of Zelda.mp4</video>
+		<marquee>./wheel/Legend of Zelda.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Lord Of The Rings (Stern - 2003) Siggi's Mod 1.2.vpx</path>
+		<name>Lord Of The Rings (Stern - 2003) Siggi's Mod 1.2</name>
+		<desc>Flipper Lord Of The Rings (Stern - 2003) Siggi's Mod 1.2</desc>
+		<image>./mixart/Lord Of The Rings (Stern - 2003) Siggi's Mod 1.2.jpg</image>
+		<video>./snap/Lord Of The Rings (Stern - 2003) Siggi's Mod 1.2.mp4</video>
+		<marquee>./wheel/Lord Of The Rings (Stern - 2003) Siggi's Mod 1.2.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Predator (TBA 2019).vpx</path>
+		<name>Predator (TBA 2019)</name>
+		<desc>Flipper Predator (TBA 2019)</desc>
+		<image>./mixart/Predator (TBA 2019).png</image>
+		<video>./snap/Predator (TBA 2019).mp4</video>
+		<marquee>./wheel/Predator (TBA 2019).png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
@@ -2809,21 +2809,6 @@
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
 		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Tron Legacy (Stern 2011) (1.6, SSF, Lightmod 1.2, NPC).vpx</path>
-		<name>Tron Legacy</name>
-		<desc>The Ultimate Tron Legacy virtual pinball cabinet experience!</desc>
-		<image>./mixart/Tron Legacy (Stern 2011) (1.6, SSF, Lightmod 1.2, NPC).jpg</image>
-		<video>./snap/Tron Legacy (Stern 2011) (1.6, SSF, Lightmod 1.2, NPC).mp4</video>
-		<marquee>./wheel/Tron Legacy (Stern 2011) (1.6, SSF, Lightmod 1.2, NPC).png</marquee>
-		<rating>4.12</rating>
-		<releasedate>20110924T000000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>Stern</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
 		<favorite>true</favorite>
@@ -2859,5 +2844,20 @@
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Black Tiger Pinball (Williams 1981).vpx</path>
+		<name>Black Tiger Pinball (Williams 1981)</name>
+		<desc>Flipper Black Tiger Pinball (Williams 1981)</desc>
+		<image>./mixart/Black Tiger Pinball (Williams 1981).png</image>
+		<video>./snap/Black Tiger Pinball (Williams 1981).mp4</video>
+		<marquee>./wheel/Black Tiger Pinball (Williams 1981).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

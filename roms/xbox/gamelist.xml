@@ -833,23 +833,6 @@ A sequel was later released for the Xbox 360, entitled Fuzion Frenzy 2.</desc>
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Halo - Combat Evolved.cmd</path>
-		<name>Halo: Combat Evolved (PAL)</name>
-		<desc>Halo: Combat Evolved is a 2001 first-person shooter science-fiction video game developed by Bungie Studios and the first game in the Halo series. It focuses on John-117 and the crew of the UNSC Pillar of Autumn who, fleeing from the Fall of Reach, stumble on the Forerunner Halo Installation 04, only to be forced into a desperate battle against the Covenant and the Flood. Considered a classic, Combat Evolved is one of the most popular video games for the Xbox with eight million copies sold. Its sales are rivaled only by its sequels, Halo 2 and Halo 3.</desc>
-		<image>./mixart/Halo - Combat Evolved.png</image>
-		<video>./snap/Halo - Combat Evolved.mp4</video>
-		<marquee>./wheel/Halo - Combat Evolved.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20020314T000000</releasedate>
-		<developer>Bungie</developer>
-		<publisher>Microsoft Studios</publisher>
-		<genre>Shooter</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<md5>77f79c168f2d859aef09936ff708a15a</md5>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Bruce Lee - Quest of the Dragon.cmd</path>
 		<name>Bruce Lee: Quest of the Dragon</name>
 		<desc>Bruce Lee: Quest of the Dragon is a beat 'em up video game featuring martial artist Bruce Lee. It was developed by Ronin Entertainment and published by Universal Interactive, and was released in Europe and the United States for the Xbox in 2002 to a negative critical reception.
@@ -894,6 +877,23 @@ You are Bruce Lee, legendary martial arts master. Your father has been kidnapped
 		<genre>Puzzle</genre>
 		<players>1</players>
 		<hidden>true</hidden>
+		<md5>77f79c168f2d859aef09936ff708a15a</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Halo - Combat Evolved.cmd</path>
+		<name>Halo: Combat Evolved (PAL)</name>
+		<desc>Halo: Combat Evolved is a 2001 first-person shooter science-fiction video game developed by Bungie Studios and the first game in the Halo series. It focuses on John-117 and the crew of the UNSC Pillar of Autumn who, fleeing from the Fall of Reach, stumble on the Forerunner Halo Installation 04, only to be forced into a desperate battle against the Covenant and the Flood. Considered a classic, Combat Evolved is one of the most popular video games for the Xbox with eight million copies sold. Its sales are rivaled only by its sequels, Halo 2 and Halo 3.</desc>
+		<image>./mixart/Halo - Combat Evolved.png</image>
+		<video>./snap/Halo - Combat Evolved.mp4</video>
+		<marquee>./wheel/Halo - Combat Evolved.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20020314T000000</releasedate>
+		<developer>Bungie</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Shooter</genre>
+		<players>4</players>
+		<favorite>true</favorite>
 		<md5>77f79c168f2d859aef09936ff708a15a</md5>
 		<lang>en</lang>
 	</game>

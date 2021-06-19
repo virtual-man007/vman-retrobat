@@ -476,22 +476,6 @@ The arena size could be adjusted up to a very small platform or all the way to 8
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./srallyc.zip</path>
-		<name>Sega Rally Championship</name>
-		<desc>Sega Rally Championship gameplay is both accessible and technical. The game provides 4 tracks of increasing difficulty, and 3 rally cars. The tracks are very detailed, and provide numerous challenges, as well as various track surfaces, side animations, and environments.</desc>
-		<image>./mixart/srallyc.png</image>
-		<video>./snap/srallyc.mp4</video>
-		<marquee>./wheel/srallyc.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./daytona.zip</path>
 		<name>Daytona USA</name>
 		<desc>Daytona USA is an excellent checkpoint-style racing game.</desc>
@@ -503,6 +487,22 @@ The arena size could be adjusted up to a very small platform or all the way to 8
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
 		<genre>Race 3rd Pers. view-Race, Driving</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./srallyc.zip</path>
+		<name>Sega Rally Championship</name>
+		<desc>Sega Rally Championship gameplay is both accessible and technical. The game provides 4 tracks of increasing difficulty, and 3 rally cars. The tracks are very detailed, and provide numerous challenges, as well as various track surfaces, side animations, and environments.</desc>
+		<image>./mixart/srallyc.png</image>
+		<video>./snap/srallyc.mp4</video>
+		<marquee>./wheel/srallyc.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>

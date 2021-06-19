@@ -17514,21 +17514,6 @@ Featuring a motion-captured, cyberscanned Bruce Willis, multiple levels, explosi
 		<genre>Sports-Sports / Soccer</genre>
 		<players>2-8</players>
 	</game>
-	<game id="19462" source="ScreenScraper.fr">
-		<path>./FoxKids.com - Micro Maniacs Racing (USA).chd</path>
-		<name>FoxKids.com : Micro Maniacs Racing</name>
-		<desc>Since saving the world from the impending food shortage is a tall order, our good friend Dr. Minimizer sets out to cajole, blackmail and create participants to compete for the right to lead the colonization of Earth once everyone's been shrunk to 1/30th their original size.   The mad doctor has therefore created an obstacle course in his home to find the ultimate soldier through a Darwinian style survival-of-the-fittest competition. But he's lacking participants. Once he collects eight such participants, it's off to the races to find the Earth's savior. Who'd have thought that slipping in the bathtub could potentially hold the fate of 7 billion people in its balance?</desc>
-		<image>./mixart/FoxKids.com - Micro Maniacs Racing (USA).png</image>
-		<video>./snap/FoxKids.com - Micro Maniacs Racing (USA).mp4</video>
-		<marquee>./wheel/FoxKids.com - Micro Maniacs Racing (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20000815T000000</releasedate>
-		<developer>Codemasters</developer>
-		<publisher>Codemasters</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
 	<game>
 		<path>./Heart of Darkness (USA).m3u</path>
 		<name>Heart of Darkness</name>
@@ -17647,6 +17632,21 @@ A free track add-on extends the game with one additional course for sportbikes a
 		<releasedate>19971130T000000</releasedate>
 		<developer>Delphine Software International</developer>
 		<publisher>Electronic Arts</publisher>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game id="19462" source="ScreenScraper.fr">
+		<path>./FoxKids.com - Micro Maniacs Racing (USA).chd</path>
+		<name>FoxKids.com : Micro Maniacs Racing</name>
+		<desc>Since saving the world from the impending food shortage is a tall order, our good friend Dr. Minimizer sets out to cajole, blackmail and create participants to compete for the right to lead the colonization of Earth once everyone's been shrunk to 1/30th their original size.   The mad doctor has therefore created an obstacle course in his home to find the ultimate soldier through a Darwinian style survival-of-the-fittest competition. But he's lacking participants. Once he collects eight such participants, it's off to the races to find the Earth's savior. Who'd have thought that slipping in the bathtub could potentially hold the fate of 7 billion people in its balance?</desc>
+		<image>./mixart/FoxKids.com - Micro Maniacs Racing (USA).png</image>
+		<video>./snap/FoxKids.com - Micro Maniacs Racing (USA).mp4</video>
+		<marquee>./wheel/FoxKids.com - Micro Maniacs Racing (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20000815T000000</releasedate>
+		<developer>Codemasters</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Race, Driving</genre>
 		<players>2</players>
 		<favorite>true</favorite>
 	</game>

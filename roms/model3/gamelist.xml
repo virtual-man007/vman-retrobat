@@ -123,22 +123,6 @@
 		<genre>Motorcycle Race, 3rd Pers.-Race, Driving</genre>
 	</game>
 	<game>
-		<path>./Daytona USA 2 Power Edition.zip</path>
-		<name>Daytona USA 2: Power Edition</name>
-		<desc>Daytona USA 2 grades up! Experience the force and the excitement of the stock cars. This time, the player can use the Hornet Classic, the car from "Daytona USA". There are new features such as the Mix Course, the combination of Medium, Expert, and Beginners, and the player can drive the reverse direction.</desc>
-		<image>./mixart/Daytona USA 2 Power Edition.png</image>
-		<video>./snap/Daytona USA 2 Power Edition.mp4</video>
-		<marquee>./wheel/Daytona USA 2 Power Edition.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race 3rd Pers. view-Race, Driving</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<path>./dayto2pe.zip</path>
-	</game>
-	<game>
 		<path>./Magical Truck Adventure.zip</path>
 		<name>Magical Truck Adventure</name>
 		<desc>Magical Truck Adventure gives the player the feel of actually riding a rail car. An action-pedal and truck lever assists the player in chasing, jumping, and dodging the evil villains that threaten to steal Alma's precious stone. 
@@ -181,14 +165,6 @@ All this excitement takes place on a railroad track with 6 amazingly detailed sc
 		<genre>Fight / 3D-Fight</genre>
 		<players>2</players>
 		<genreid>262</genreid>
-	</game>
-	<game>
-		<path>./Dirt Devils.zip</path>
-		<name>Dirt Devils</name>
-		<image>./mixart/Dirt Devils.png</image>
-		<video>./snap/Dirt Devils.mp4</video>
-		<marquee>./wheel/Dirt Devils.png</marquee>
-		<md5>866edf08e552185d411602d8da01b36d</md5>
 	</game>
 	<game id="37511" source="ScreenScraper.fr">
 		<path>./Emergency Call Ambulance.zip</path>
@@ -258,26 +234,6 @@ All this excitement takes place on a railroad track with 6 amazingly detailed sc
 		<genre>Shooter-Lightgun Shooter</genre>
 		<players>2</players>
 	</game>
-	<game>
-		<path>./Star Wars Trilogy.zip</path>
-		<name>Star Wars Trilogy</name>
-		<desc>Star Wars Trilogy Arcade is a Model 3 shooter allowing the player to ride, fly, and shoot in galactic vehicles. 
- 
-Players will travel through 6 incredibly detailed intergalactic stages, featuring scenes from A New Hope, Empire Strikes Back, and Return of the Jedi, both challenging the players shooting accuracy as well as vehicle maneuvering capabilities. 
- 
-Hidden secrets, located in all stages, allow the player to alter the course of the stage, making each game an unconventional and thrilling experience.</desc>
-		<image>./mixart/Star Wars Trilogy.png</image>
-		<video>./snap/Star Wars Trilogy.mp4</video>
-		<marquee>./wheel/Star Wars Trilogy.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shoot'em Up</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="37525" source="ScreenScraper.fr">
 		<path>./Virtua Fighter 3.zip</path>
 		<name>Virtua Fighter 3</name>
@@ -344,5 +300,48 @@ Virtua Fighter 3 also adds undulations in the stages - knowing how to use these 
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./Star Wars Trilogy.zip</path>
+		<name>Star Wars Trilogy</name>
+		<desc>Star Wars Trilogy Arcade is a Model 3 shooter allowing the player to ride, fly, and shoot in galactic vehicles. 
+ 
+Players will travel through 6 incredibly detailed intergalactic stages, featuring scenes from A New Hope, Empire Strikes Back, and Return of the Jedi, both challenging the players shooting accuracy as well as vehicle maneuvering capabilities. 
+ 
+Hidden secrets, located in all stages, allow the player to alter the course of the stage, making each game an unconventional and thrilling experience.</desc>
+		<image>./mixart/Star Wars Trilogy.png</image>
+		<video>./snap/Star Wars Trilogy.mp4</video>
+		<marquee>./wheel/Star Wars Trilogy.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em Up</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Daytona USA 2 Power Edition.zip</path>
+		<name>Daytona USA 2: Power Edition</name>
+		<desc>Daytona USA 2 grades up! Experience the force and the excitement of the stock cars. This time, the player can use the Hornet Classic, the car from "Daytona USA". There are new features such as the Mix Course, the combination of Medium, Expert, and Beginners, and the player can drive the reverse direction.</desc>
+		<image>./mixart/Daytona USA 2 Power Edition.png</image>
+		<video>./snap/Daytona USA 2 Power Edition.mp4</video>
+		<marquee>./wheel/Daytona USA 2 Power Edition.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Dirt Devils.zip</path>
+		<name>Dirt Devils</name>
+		<image>./mixart/Dirt Devils.png</image>
+		<video>./snap/Dirt Devils.mp4</video>
+		<marquee>./wheel/Dirt Devils.png</marquee>
+		<md5>866edf08e552185d411602d8da01b36d</md5>
 	</game>
 </gameList>

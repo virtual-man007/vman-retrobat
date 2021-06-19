@@ -248,20 +248,6 @@ Join young Adam and Delphineus the dolphin as they brave the terrors of toxic wa
 		<name>+Start ScummVM</name>
 	</game>
 	<game>
-		<path>./grim.rvm</path>
-		<name>Grim Fandango</name>
-		<desc>The game follows Manny Calavera, a grim reaper for the Department of Death in the Land of the Dead. He learns that the system he works for is corrupt, after a woman who led a great life, Mercedes (Meche) Colomar, doesn't get to go straight to the seventh level of the afterlife, the land of eternal rest. Manny must take a four year journey to find out who's behind the corruption, find Meche, and earn himself a place in the land of eternal rest.</desc>
-		<image>./mixart/grim.png</image>
-		<video>./snap/grim.mp4</video>
-		<marquee>./wheel/grim.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19981030T000000</releasedate>
-		<developer>LucasArts</developer>
-		<publisher>LucasArts</publisher>
-		<genre>Point and Click-Adventure</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Blue Force (CD DOS).svm/Blue Force.scummvm</path>
 		<name>Blue Force</name>
 		<desc>May 15 1984. In a bar, shortly after a shady deal took place two men enter the bar. They are undercover cops, and once the criminal notices them, he flees the bar, and as his motorcycle skims past town, the pick-up truck used by the undercover cops isn't capable of keeping up when the criminal goes past a fence into an open field. However, while escaping, he left something very important behind. Three days later, someone breaks one of the agents' house. Inside, John and Jackie Ryan are brutally assassinated by an unknown hitman. Their son Jake witnesses everything hidden from the closet in his parent's room.
@@ -1688,5 +1674,19 @@ The games locations are done in hand-painted style. The CD version of the game a
 		<developer>Sierra</developer>
 		<publisher>Sierra</publisher>
 		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./grim.rvm</path>
+		<name>Grim Fandango</name>
+		<desc>The game follows Manny Calavera, a grim reaper for the Department of Death in the Land of the Dead. He learns that the system he works for is corrupt, after a woman who led a great life, Mercedes (Meche) Colomar, doesn't get to go straight to the seventh level of the afterlife, the land of eternal rest. Manny must take a four year journey to find out who's behind the corruption, find Meche, and earn himself a place in the land of eternal rest.</desc>
+		<image>./mixart/grim.png</image>
+		<video>./snap/grim.mp4</video>
+		<marquee>./wheel/grim.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19981030T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Point and Click-Adventure</genre>
+		<favorite>true</favorite>
 	</game>
 </gameList>

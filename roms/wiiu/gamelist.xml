@@ -15,6 +15,21 @@
 		<players>4+</players>
 		<md5>1357c833acd98ec03218eb773296824a</md5>
 	</game>
+	<game id="12121">
+		<path>./Bayonetta 2.m3u</path>
+		<name>Bayonetta 2</name>
+		<desc>Bayonetta 2 is the sequel to Bayonetta. You play as Bayonetta, an Umbran Witch who is out to rescue her friend Jeanne from the depths of Inferno. The game is set a few months after the events of the first game. Along the way she has to battle a host of angels and demons who are out to stop her. This is a 3rd-person action game in the mold of Devil May Cry or God of War, fighting multiple enemies and combining different moves based on melee combat and gunplay. The game is all about pulling off fantastic combos with precise timing as you face a number of memorable battles in a variety of locations.</desc>
+		<image>./images/PRJ_010-image.png</image>
+		<video>./videos/PRJ_010-video.mp4</video>
+		<marquee>./images/PRJ_010-marquee.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20141024T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>PlatinumGames</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+		<md5>97f64e73426fe55969678e76516ff1cb</md5>
+	</game>
 	<game id="12115">
 		<path>./Super Smash Bros Wii U.m3u</path>
 		<name>Super Smash Bros. For Wii U</name>
@@ -60,21 +75,6 @@ Up to four players can battle each other locally or online across beautifully de
 		<genre>Platform</genre>
 		<players>2</players>
 		<md5>236ba24c45c026beb1f04edb3e39c407</md5>
-	</game>
-	<game id="12121">
-		<path>./Bayonetta 2.m3u</path>
-		<name>Bayonetta 2</name>
-		<desc>Bayonetta 2 is the sequel to Bayonetta. You play as Bayonetta, an Umbran Witch who is out to rescue her friend Jeanne from the depths of Inferno. The game is set a few months after the events of the first game. Along the way she has to battle a host of angels and demons who are out to stop her. This is a 3rd-person action game in the mold of Devil May Cry or God of War, fighting multiple enemies and combining different moves based on melee combat and gunplay. The game is all about pulling off fantastic combos with precise timing as you face a number of memorable battles in a variety of locations.</desc>
-		<image>./images/PRJ_010-image.png</image>
-		<video>./videos/PRJ_010-video.mp4</video>
-		<marquee>./images/PRJ_010-marquee.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20141024T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>PlatinumGames</publisher>
-		<genre>Beat'em Up</genre>
-		<players>2</players>
-		<md5>97f64e73426fe55969678e76516ff1cb</md5>
 	</game>
 	<game id="12119">
 		<path>./Mario Kart 8.m3u</path>

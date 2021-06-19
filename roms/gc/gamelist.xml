@@ -495,20 +495,6 @@
 		<marquee>./wheel/Metal Gear Solid - The Twin Snakes (USA) (Disc 1).png</marquee>
 		<video>./snap/Metal Gear Solid - The Twin Snakes (USA) (Disc 1).mp4</video>
 	</game>
-	<game id="4770" source="ScreenScraper.fr">
-		<path>./Metroid Prime 2 - Echoes (USA).rvz</path>
-		<name>Metroid Prime 2 - Echoes</name>
-		<desc>In this highly anticipated sequel to Metroid Prime, become the bounty hunter behind the visor once more and travel to a planet torn into light and darkness. Hunted by a mysterious entity and a warring race called the Ing, Samus Aran must explore the light and dark worlds of this doomed planet to discover secrets and augment her suit's weapons and abilities. And now, for the first time in the history of the celebrated Metroid franchise, up to four players can battle each other as they search for weapons, grapple across ceilings, and turn into Morph Balls to make their escapes.</desc>
-		<rating>0.9</rating>
-		<releasedate>20041115T000000</releasedate>
-		<developer>Retro Studios</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Adventure</genre>
-		<players>2-4</players>
-		<image>./mixart/Metroid Prime 2 - Echoes (USA).png</image>
-		<marquee>./wheel/Metroid Prime 2 - Echoes (USA).png</marquee>
-		<video>./snap/Metroid Prime 2 - Echoes (USA).mp4</video>
-	</game>
 	<game id="4813" source="ScreenScraper.fr">
 		<path>./Naruto - Gekitou Ninja Taisen! 4 (Japan).rvz</path>
 		<name>Naruto Gektiou Ninja Taisen! 4</name>
@@ -4917,20 +4903,6 @@
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./TimeSplitters - Future Perfect (USA).rvz</path>
-		<name>TimeSplitters: Future Perfect</name>
-		<desc>In TimeSplitters: Future Perfect, humanity is on the brink of destruction by the evil TimeSplitters. With the help of some familiar faces, Cortez--the tough hero from previous installments--must chase a mystery foe across different time periods to trace the origins of the TimeSplitters. As Cortez, you'll have access to weapons, gadgets, characters, and environments that are unique to each time period. You can also correct the mistakes made in the past or team up with past and future versions of yourself in battles.</desc>
-		<image>./mixart/TimeSplitters - Future Perfect (USA).png</image>
-		<video>./snap/TimeSplitters - Future Perfect (USA).mp4</video>
-		<marquee>./wheel/TimeSplitters - Future Perfect (USA).png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20050325T000000</releasedate>
-		<developer>Radical Software</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Action</genre>
-		<players>2-4</players>
-	</game>
-	<game>
 		<path>./Hulk (USA).rvz</path>
 		<name>Hulk</name>
 		<desc>The Hulk takes place one year after the events in the film, with troubled scientist Bruce Banner and his enraged alter ego, The Hulk, forced into action once again. A new villain, known as The Leader, plans to use The Hulk's gamma energy to unleash a relentless army of gamma creatures on the world, and only you can stop him. Employ the powers of stealth and logic as Bruce Banner, or command the incredible strength and fury of The Hulk. Take down your foes in fully destructible environments. The Hulk's 25 attacks can hurt your foes and can also destroy your environment.</desc>
@@ -7745,20 +7717,6 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<video>./snap/ZooCube (USA).mp4</video>
 		<genreid>1280</genreid>
 	</game>
-	<game>
-		<path>./I-Ninja (USA).rvz</path>
-		<name>I-ninja</name>
-		<desc>A robot army led by Master O-Dor has destroyed the ninja clan. As the last of your kind you must take on the robot army and defeat Master O-Dor. You play a cartoon ninja with a big head in a level based 3D platform game. Each level is packed with new skills to master, challenges to beat, and grades to earn.</desc>
-		<image>./mixart/I-Ninja (USA).png</image>
-		<video>./snap/I-Ninja (USA).mp4</video>
-		<marquee>./wheel/I-Ninja (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20040202T000000</releasedate>
-		<developer>Argonaut</developer>
-		<publisher>Namco</publisher>
-		<genre>Action-Platform</genre>
-		<favorite>true</favorite>
-	</game>
 	<game id="4977" source="ScreenScraper.fr">
 		<path>./Incredible Hulk, The - Ultimate Destruction (USA).rvz</path>
 		<name>The Incredible Hulk Ultimate Destruction</name>
@@ -7803,20 +7761,6 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<players>1</players>
 		<favorite>true</favorite>
 	</game>
-	<game>
-		<path>./Metroid Prime (USA) (v1.02).rvz</path>
-		<name>Metroid Prime</name>
-		<desc>Everyone's favorite heroine, Samus Aran, is back! Packed to the gills with exploration, creative power-ups, and wicked enemies, Metroid Prime is a first-person adventure worthy of the Metroid stamp. An action-packed adventure set in the first-person perspective, Metroid Prime takes place just after the events in the original Metroid (NES). It has lead character Samus Aran, a bounty hunter by trade, chasing down the evil Space Pirates. Their intention is to use a genetic mutagen called Phazon to create a super army and take over the universe. While the installments in the series before have never been home to deeply involving storylines, Metroid Prime breaks the shell to offer up one of the most intriguing and read-worthy sagas yet. Developed by Texas-based Retro Studios. Metroid Prime brings all of the elements of the acclaimed franchise into a massive 3D arena.</desc>
-		<image>./mixart/Metroid Prime (USA) (v1.02).png</image>
-		<video>./snap/Metroid Prime (USA) (v1.02).mp4</video>
-		<marquee>./wheel/Metroid Prime (USA) (v1.02).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20021119T000000</releasedate>
-		<developer>Retro Studios, Inc.</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-	</game>
 	<game id="4761" source="ScreenScraper.fr">
 		<path>./Paper Mario - The Thousand-Year Door (USA).rvz</path>
 		<name>Paper Mario: The Thousand-Year Door</name>
@@ -7846,20 +7790,6 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<genre>Simulation-Various</genre>
 		<players>1</players>
 		<genreid>1024</genreid>
-	</game>
-	<game id="5291" source="ScreenScraper.fr">
-		<path>./Rampage - Total Destruction (USA).rvz</path>
-		<name>Rampage : Total Destruction</name>
-		<desc>Rampage: Total Destruction offers a fresh take on an arcade classic complete with everyone's favorite monsters: George, Lizzie, and Ralph, along with a variety of new monsters to collect and play. Virtually everything in the environment can be damaged, broken, and utterly destroyed with plenty of hilarious results. Aided by power-ups, the Rampage: Total Destruction monsters are capable of acquiring a number of upgrades throughout the course of a single campaign. Players can annihilate cities all over the world in either one or two player mode in this reinvention of the Midway classic.</desc>
-		<image>./mixart/Rampage - Total Destruction (USA).png</image>
-		<video>./snap/Rampage - Total Destruction (USA).mp4</video>
-		<marquee>./wheel/Rampage - Total Destruction (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20060428T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
 	</game>
 	<game id="4796" source="ScreenScraper.fr">
 		<path>./Star Fox - Assault (USA).rvz</path>
@@ -7937,6 +7867,20 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<region>us</region>
 	</game>
 	<game>
+		<path>./Fight Night Round 2 (USA).rvz</path>
+		<name>Fight Night : Round 2</name>
+		<desc>Packing in more fearsome punches, players can now dominate the ring with the all-new EA SPORTS Haymaker allowing gamers to knock down their opponents with one devastating blow by adding extra power to each punch. Every hit counts in the game with powerful punches inflicting dynamic injuries on opponents, and thus reducing a fighter's ability to defend himself. Players will also manage the boxers inside and out of the ring. Utilizing the new EA SPORTS Cutman, gamers can minimize damage on their fighters by helping them heal critical wounds between rounds.</desc>
+		<image>./mixart/Fight Night Round 2 (USA).png</image>
+		<video>./snap/Fight Night Round 2 (USA).mp4</video>
+		<marquee>./wheel/Fight Night Round 2 (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20050317T000000</releasedate>
+		<developer>EA Sports</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports-Fight</genre>
+		<players>2</players>
+	</game>
+	<game>
 		<path>./F-Zero GX (Europe).rvz</path>
 		<name>F-Zero GX</name>
 		<desc>The classic Nintendo franchise that has inspired countless futuristic racing games returns with F-Zero GX on the Nintendo GameCube. Long-time rival Sega collaborated with Nintendo to redefine the futuristic racing genre with intense competition, blazing speeds, and brilliant track designs. F-Zero GX offers 20 different tracks and over 30 unique pilots, as well as a custom craft editor where players can create their own vehicle. Multiple game modes including Grand Prix, Time Attack, Versus mode, and the all new challenging story mode offer a multitude of alternatives to traditional racing. Players can laso save their game data on a memory card and use it to race custom vehicles in the arcade version of F-Zero GX.</desc>
@@ -7948,6 +7892,49 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<developer>Amusement Vision</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Race, Driving</genre>
+		<players>2-4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Metroid Prime (USA) (v1.02).rvz</path>
+		<name>Metroid Prime</name>
+		<desc>Everyone's favorite heroine, Samus Aran, is back! Packed to the gills with exploration, creative power-ups, and wicked enemies, Metroid Prime is a first-person adventure worthy of the Metroid stamp. An action-packed adventure set in the first-person perspective, Metroid Prime takes place just after the events in the original Metroid (NES). It has lead character Samus Aran, a bounty hunter by trade, chasing down the evil Space Pirates. Their intention is to use a genetic mutagen called Phazon to create a super army and take over the universe. While the installments in the series before have never been home to deeply involving storylines, Metroid Prime breaks the shell to offer up one of the most intriguing and read-worthy sagas yet. Developed by Texas-based Retro Studios. Metroid Prime brings all of the elements of the acclaimed franchise into a massive 3D arena.</desc>
+		<image>./mixart/Metroid Prime (USA) (v1.02).png</image>
+		<video>./snap/Metroid Prime (USA) (v1.02).mp4</video>
+		<marquee>./wheel/Metroid Prime (USA) (v1.02).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20021119T000000</releasedate>
+		<developer>Retro Studios, Inc.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./I-Ninja (USA).rvz</path>
+		<name>I-ninja</name>
+		<desc>A robot army led by Master O-Dor has destroyed the ninja clan. As the last of your kind you must take on the robot army and defeat Master O-Dor. You play a cartoon ninja with a big head in a level based 3D platform game. Each level is packed with new skills to master, challenges to beat, and grades to earn.</desc>
+		<image>./mixart/I-Ninja (USA).png</image>
+		<video>./snap/I-Ninja (USA).mp4</video>
+		<marquee>./wheel/I-Ninja (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20040202T000000</releasedate>
+		<developer>Argonaut</developer>
+		<publisher>Namco</publisher>
+		<genre>Action-Platform</genre>
+		<favorite>true</favorite>
+	</game>
+	<game id="4770" source="ScreenScraper.fr">
+		<path>./Metroid Prime 2 - Echoes (USA).rvz</path>
+		<name>Metroid Prime 2 - Echoes</name>
+		<desc>In this highly anticipated sequel to Metroid Prime, become the bounty hunter behind the visor once more and travel to a planet torn into light and darkness. Hunted by a mysterious entity and a warring race called the Ing, Samus Aran must explore the light and dark worlds of this doomed planet to discover secrets and augment her suit's weapons and abilities. And now, for the first time in the history of the celebrated Metroid franchise, up to four players can battle each other as they search for weapons, grapple across ceilings, and turn into Morph Balls to make their escapes.</desc>
+		<image>./mixart/Metroid Prime 2 - Echoes (USA).png</image>
+		<video>./snap/Metroid Prime 2 - Echoes (USA).mp4</video>
+		<marquee>./wheel/Metroid Prime 2 - Echoes (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20041115T000000</releasedate>
+		<developer>Retro Studios</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
 		<players>2-4</players>
 		<favorite>true</favorite>
 	</game>
@@ -7966,18 +7953,32 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<players>4</players>
 		<favorite>true</favorite>
 	</game>
-	<game>
-		<path>./Fight Night Round 2 (USA).rvz</path>
-		<name>Fight Night : Round 2</name>
-		<desc>Packing in more fearsome punches, players can now dominate the ring with the all-new EA SPORTS Haymaker allowing gamers to knock down their opponents with one devastating blow by adding extra power to each punch. Every hit counts in the game with powerful punches inflicting dynamic injuries on opponents, and thus reducing a fighter's ability to defend himself. Players will also manage the boxers inside and out of the ring. Utilizing the new EA SPORTS Cutman, gamers can minimize damage on their fighters by helping them heal critical wounds between rounds.</desc>
-		<image>./mixart/Fight Night Round 2 (USA).png</image>
-		<video>./snap/Fight Night Round 2 (USA).mp4</video>
-		<marquee>./wheel/Fight Night Round 2 (USA).png</marquee>
+	<game id="5291" source="ScreenScraper.fr">
+		<path>./Rampage - Total Destruction (USA).rvz</path>
+		<name>Rampage : Total Destruction</name>
+		<desc>Rampage: Total Destruction offers a fresh take on an arcade classic complete with everyone's favorite monsters: George, Lizzie, and Ralph, along with a variety of new monsters to collect and play. Virtually everything in the environment can be damaged, broken, and utterly destroyed with plenty of hilarious results. Aided by power-ups, the Rampage: Total Destruction monsters are capable of acquiring a number of upgrades throughout the course of a single campaign. Players can annihilate cities all over the world in either one or two player mode in this reinvention of the Midway classic.</desc>
+		<image>./mixart/Rampage - Total Destruction (USA).png</image>
+		<video>./snap/Rampage - Total Destruction (USA).mp4</video>
+		<marquee>./wheel/Rampage - Total Destruction (USA).png</marquee>
 		<rating>0.85</rating>
-		<releasedate>20050317T000000</releasedate>
-		<developer>EA Sports</developer>
+		<releasedate>20060428T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./TimeSplitters - Future Perfect (USA).rvz</path>
+		<name>TimeSplitters: Future Perfect</name>
+		<desc>In TimeSplitters: Future Perfect, humanity is on the brink of destruction by the evil TimeSplitters. With the help of some familiar faces, Cortez--the tough hero from previous installments--must chase a mystery foe across different time periods to trace the origins of the TimeSplitters. As Cortez, you'll have access to weapons, gadgets, characters, and environments that are unique to each time period. You can also correct the mistakes made in the past or team up with past and future versions of yourself in battles.</desc>
+		<image>./mixart/TimeSplitters - Future Perfect (USA).png</image>
+		<video>./snap/TimeSplitters - Future Perfect (USA).mp4</video>
+		<marquee>./wheel/TimeSplitters - Future Perfect (USA).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20050325T000000</releasedate>
+		<developer>Radical Software</developer>
 		<publisher>Electronic Arts</publisher>
-		<genre>Sports-Fight</genre>
-		<players>2</players>
+		<genre>Action</genre>
+		<players>2-4</players>
 	</game>
 </gameList>
