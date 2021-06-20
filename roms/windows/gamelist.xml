@@ -160,20 +160,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./PAC-MAN Battle Royal.lnk</path>
-		<name>PAC-MAN Battle Royal</name>
-		<desc>Release in the Arcade as 4 player madness! The 17th arcade game in Pac-Man's series (11th official). It is made as part of Pac-Man's 30th Anniversary and developed by Namco Bandai Games</desc>
-		<image>./mixart/PAC-MAN Battle Royal.png</image>
-		<video>./snap/PAC-MAN Battle Royal.mp4</video>
-		<marquee>./wheel/PAC-MAN Battle Royal.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20111201T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Arcade</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Project AETHER First Contact.lnk</path>
 		<name>Project AETHER First Contact</name>
 		<desc>As a threat from beyond looms over the solar system, take control of the AETHER prototype in this rhythmic and tactical space shooter - fusing classic arcade-style action with stunning 3D environments and an engaging sci-fi story.</desc>
@@ -3762,22 +3748,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Anima - The Reign of Darkness.lnk</path>
-		<name>Anima - The Reign of Darkness</name>
-		<desc>Anima is an action RPG (hack’n slash) videogame inspired by the greatest old school games and made with passion by RPG lovers for RPG lovers.
-After the great success achieved on mobile devices, anima finally arrives on PC with brand new graphics and gameplay!
-Conquer the single player campaign with potentially infinite game difficulties, follow the storyline or simply go on, slash enemies, loot items and improve your character!</desc>
-		<image>./mixart/Anima - The Reign of Darkness.jpg</image>
-		<video>./snap/Anima - The Reign of Darkness.mp4</video>
-		<marquee>./wheel/Anima - The Reign of Darkness.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20211201T000000</releasedate>
-		<developer>Redeev</developer>
-		<publisher>Redeev</publisher>
-		<genre>Action, Role-Playing</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Ghosts 'n Goblins Resurrection.lnk</path>
 		<name>Ghosts 'n Goblins Resurrection</name>
 		<desc>Watch as this nostalgic yet completely re-imagined storybook world unravels before your very eyes. Taking cues from both Ghosts 'n Goblins and Ghouls 'n Ghosts and giving birth to something entirely new, Resurrection is a title worthy of its name. Don't be fooled—this picturesque storybook world, while gorgeous, is a love-letter to the original titles and maintains the same punishing game play that fans have come to expect. So go on and test your mettle, for the gauntlet has been thrown!</desc>
@@ -4051,32 +4021,48 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<players>1</players>
 	</game>
 	<game>
-		<path>./NINJA GAIDEN SIGMA 2.lnk</path>
-		<name>Ninja Gaiden Sigma 2 - Master Collection</name>
-		<desc>Three extremely high speed and intense ninja action games are now available in one package! Enjoy 3 games from the NINJA GAIDEN series in this single collection. The nostalgic yet timeless high-speed action of the series unfolds on the latest hardware, so look forward to heated battles with fearsome opponents! In addition to Ryu Hayabusa, the 4 female characters Ayane, Rachel, Momiji, and Kasumi are also playable. Pair up favorite characters, and switch between characters during battles. * The heroines included in this title are the same as the original versions. In addition, the characters that are playable and scenes (modes) vary for each title. Most of the previously released game modes and DLC costumes for each title are included in this thrilling collection.</desc>
-		<image>./mixart/NINJA GAIDEN - Master Collection2.jpg</image>
-		<video>./snap/NINJA GAIDEN - Master Collection.mp4</video>
-		<marquee>./wheel/NINJA GAIDEN - Master Collection.png</marquee>
+		<path>./Rivals of Aether.lnk</path>
+		<name>Rivals of Aether</name>
+		<desc>Rivals of Aether is an indie fighting game set in a world where civilizations wage war by summoning the power of Fire, Water, Air, and Earth. Choose a Rival to bring into the battlefield and manipulate the powers of the classical elements and animal movement. Unravel the mysterious conflicts of the planet Aether in Story Mode, band with friends to take on shadowy creatures in Abyss Mode, and bring your combat skills Online to challenge players across the world. Game Features: - Choose VERSUS MODE to duke it out in competitive 1v1 or 2v2 fights, or jump into a free-for-all.</desc>
+		<image>./mixart/Rivals of Aether.png</image>
+		<video>./snap/Rivals of Aether.mp4</video>
+		<marquee>./wheel/Rivals of Aether.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Dan Fornance</developer>
+		<publisher>Dan Fornance</publisher>
+		<genre>Fighting</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Anima - The Reign of Darkness.lnk</path>
+		<name>Anima - The Reign of Darkness</name>
+		<desc>Anima is an action RPG (hack’n slash) videogame inspired by the greatest old school games and made with passion by RPG lovers for RPG lovers.
+After the great success achieved on mobile devices, anima finally arrives on PC with brand new graphics and gameplay!
+Conquer the single player campaign with potentially infinite game difficulties, follow the storyline or simply go on, slash enemies, loot items and improve your character!</desc>
+		<image>./mixart/Anima - The Reign of Darkness.jpg</image>
+		<video>./snap/Anima - The Reign of Darkness.mp4</video>
+		<marquee>./wheel/Anima - The Reign of Darkness.png</marquee>
 		<rating>0.90</rating>
 		<releasedate>20211201T000000</releasedate>
-		<developer>Koei Tecmo</developer>
-		<publisher>Koei Tecmo</publisher>
-		<genre>Action</genre>
+		<developer>Redeev</developer>
+		<publisher>Redeev</publisher>
+		<genre>Action, Role-Playing</genre>
 		<players>1</players>
 	</game>
 	<game>
-		<path>./NINJA GAIDEN 3.lnk</path>
-		<name>Ninja Gaiden 3 - Master Collection</name>
-		<desc>Three extremely high speed and intense ninja action games are now available in one package! Enjoy 3 games from the NINJA GAIDEN series in this single collection. The nostalgic yet timeless high-speed action of the series unfolds on the latest hardware, so look forward to heated battles with fearsome opponents! In addition to Ryu Hayabusa, the 4 female characters Ayane, Rachel, Momiji, and Kasumi are also playable. Pair up favorite characters, and switch between characters during battles. * The heroines included in this title are the same as the original versions. In addition, the characters that are playable and scenes (modes) vary for each title. Most of the previously released game modes and DLC costumes for each title are included in this thrilling collection.</desc>
-		<image>./mixart/NINJA GAIDEN - Master Collection3.jpg</image>
-		<video>./snap/NINJA GAIDEN - Master Collection.mp4</video>
-		<marquee>./wheel/NINJA GAIDEN - Master Collection.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20211201T000000</releasedate>
-		<developer>Koei Tecmo</developer>
-		<publisher>Koei Tecmo</publisher>
-		<genre>Action</genre>
-		<players>1</players>
+		<path>./Real Boxing.lnk</path>
+		<name>Real Boxing</name>
+		<desc>The game is set to bring you the most exhilarating and true-to-life boxing simulation in existence. Featuring ultra-realistic motion capture from real boxers plus amazing graphics created with the powerful Unreal Engine, you’ll feel every hook, jab, and uppercut, with visible body damage and facial emotions appearing on boxer’s faces during matches.</desc>
+		<image>./mixart/Real Boxing.jpg</image>
+		<video>./snap/Real Boxing.mp4</video>
+		<marquee>./wheel/Real Boxing.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20121201T000000</releasedate>
+		<developer>Vivid Games</developer>
+		<publisher>Vivid Games</publisher>
+		<genre>Fighting, Sports</genre>
+		<players>2</players>
 	</game>
 	<game>
 		<path>./Halo - Combat Evolved Anniversary.lnk</path>
@@ -4093,17 +4079,58 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Real Boxing.lnk</path>
-		<name>Real Boxing</name>
-		<desc>The game is set to bring you the most exhilarating and true-to-life boxing simulation in existence. Featuring ultra-realistic motion capture from real boxers plus amazing graphics created with the powerful Unreal Engine, you’ll feel every hook, jab, and uppercut, with visible body damage and facial emotions appearing on boxer’s faces during matches.</desc>
-		<image>./mixart/Real Boxing.jpg</image>
-		<video>./snap/Real Boxing.mp4</video>
-		<marquee>./wheel/Real Boxing.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20121201T000000</releasedate>
-		<developer>Vivid Games</developer>
-		<publisher>Vivid Games</publisher>
-		<genre>Fighting, Sports</genre>
-		<players>2</players>
+		<path>./NINJA GAIDEN 3.lnk</path>
+		<name>Ninja Gaiden 3 - Master Collection</name>
+		<desc>Three extremely high speed and intense ninja action games are now available in one package! Enjoy 3 games from the NINJA GAIDEN series in this single collection. The nostalgic yet timeless high-speed action of the series unfolds on the latest hardware, so look forward to heated battles with fearsome opponents! In addition to Ryu Hayabusa, the 4 female characters Ayane, Rachel, Momiji, and Kasumi are also playable. Pair up favorite characters, and switch between characters during battles. * The heroines included in this title are the same as the original versions. In addition, the characters that are playable and scenes (modes) vary for each title. Most of the previously released game modes and DLC costumes for each title are included in this thrilling collection.</desc>
+		<image>./mixart/NINJA GAIDEN - Master Collection3.jpg</image>
+		<video>./snap/NINJA GAIDEN - Master Collection.mp4</video>
+		<marquee>./wheel/NINJA GAIDEN - Master Collection.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20211201T000000</releasedate>
+		<developer>Koei Tecmo</developer>
+		<publisher>Koei Tecmo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./NINJA GAIDEN SIGMA 2.lnk</path>
+		<name>Ninja Gaiden Sigma 2 - Master Collection</name>
+		<desc>Three extremely high speed and intense ninja action games are now available in one package! Enjoy 3 games from the NINJA GAIDEN series in this single collection. The nostalgic yet timeless high-speed action of the series unfolds on the latest hardware, so look forward to heated battles with fearsome opponents! In addition to Ryu Hayabusa, the 4 female characters Ayane, Rachel, Momiji, and Kasumi are also playable. Pair up favorite characters, and switch between characters during battles. * The heroines included in this title are the same as the original versions. In addition, the characters that are playable and scenes (modes) vary for each title. Most of the previously released game modes and DLC costumes for each title are included in this thrilling collection.</desc>
+		<image>./mixart/NINJA GAIDEN - Master Collection2.jpg</image>
+		<video>./snap/NINJA GAIDEN - Master Collection.mp4</video>
+		<marquee>./wheel/NINJA GAIDEN - Master Collection.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20211201T000000</releasedate>
+		<developer>Koei Tecmo</developer>
+		<publisher>Koei Tecmo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./PAC-MAN Battle Royal.lnk</path>
+		<name>PAC-MAN Battle Royal</name>
+		<desc>Release in the Arcade as 4 player madness! The 17th arcade game in Pac-Man's series (11th official). It is made as part of Pac-Man's 30th Anniversary and developed by Namco Bandai Games</desc>
+		<image>./mixart/PAC-MAN Battle Royal.png</image>
+		<video>./snap/PAC-MAN Battle Royal.mp4</video>
+		<marquee>./wheel/PAC-MAN Battle Royal.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20111201T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Arcade</genre>
+	</game>
+	<game>
+		<path>./PAC-MAN Museum.lnk</path>
+		<name>PAC-MAN Museum - Battle Royale</name>
+		<desc>Pac-Man Museum is a digital collection of Pac-Man games ported from a variety of platforms. It includes: Pac-Attack Pac-Land Pac-Man Pac-Man: Arrangement Pac-Man: Battle Royale Pac-Man: Championship Edition Pac-Mania Pac Pal Super Pac-Man The game has leaderboards for each game and uses an achievement system to fill a stamp book. Various collectibles can be earned and are stored in a Pac-Room. There is a navigation system to help find the best maze routes and progress can be saved. The arcade game Pac-Man: Battle Royale supports multiplayer for up to four players. Early buyers received Ms. Pac-Man as well. Later it was made available as DLC.</desc>
+		<image>./mixart/PAC-MAN Museum.jpg</image>
+		<video>./snap/PAC-MAN Museum.mp4</video>
+		<marquee>./wheel/PAC-MAN Museum.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20111201T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Arcade</genre>
+		<favorite>true</favorite>
 	</game>
 </gameList>
