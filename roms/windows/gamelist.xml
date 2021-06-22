@@ -3554,20 +3554,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Street Fighter X Tekken.lnk</path>
-		<name>Street Fighter X Tekken</name>
-		<desc>The game features characters from both the Street Fighter franchise and Namco's Tekken series. In the game, each player selects two characters respectively and face other as duos in tag team fighting matches, with the objective to knock out one of the members from the opposing team (deplete the opponent's health).</desc>
-		<image>./mixart/Street Fighter X Tekken.jpg</image>
-		<video>./snap/Street Fighter X Tekken.mp4</video>
-		<marquee>./wheel/Street Fighter X Tekken.png</marquee>
-		<rating>1.0</rating>
-		<releasedate>20121912T010000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fighting Game</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Torchlight 2.lnk</path>
 		<name>Torchlight 2</name>
 		<desc>After the events of the first game, Alchemist, one of the three main classes, is corrupted by the Emberblight from the heart of Ordrak, the main source of corruption beneath the town of Torchlight. Now he is on a rampage for taking the power of guardians and breaking the balance of elements. New heroes arrive to rise up against his madness with the help of the destroyer and the vanquisher, other two playable characters from the first game. Many elements from the original hack-and-slash RPG Torchlight (fishing, pets, etc) make a return in the sequel, including the randomly generated dungeons. There are more classes, pets and weapon types and the locations to visit are more varied. There are now snowy areas, deserts, forests etc. Instead of the dungeon descending structure of the original game, the sequel has large above-ground environments with hub towns and each one has a couple of separate dungeons that consist of one floor or multiple ones. Unlike the first game multiplayer is now supported through cooperative sessions for up to six players, both locally and online. There are three acts and an epilogue. Other new elements are time of day cycles, an updated interface design, and various weather effects. The character appearance can be fully customized based on various attributes.</desc>
@@ -3960,22 +3946,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Hotshot Racing.lnk</path>
-		<name>Hotshot Racing</name>
-		<desc>Hotshot Racing is a blisteringly fast arcade-style racing game fusing drift handling, razor-sharp retro visuals and an incredible sense of speed to create an exhilarating driving experience. Developed by racing game veterans SUMO Nottingham and Lucky Mountain Games, Hotshot Racing is an all-new driving experience which revives the classic arcade gameplay of the 90s and thrusts it into the modern era. 16 racing circuits provide the twists, turns and straights conducive to searingly quick racing.</desc>
-		<image>./mixart/Hotshot Racing.png</image>
-		<video>./snap/Hotshot Racing.mp4</video>
-		<marquee>./wheel/Hotshot Racing.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20201201T000000</releasedate>
-		<developer>Lucky Mountain Games</developer>
-		<publisher>Curve Digital</publisher>
-		<genre>Racing</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Assault Android Cactus Plus.lnk</path>
 		<name>Assault Android Cactus Plus</name>
 		<desc>Assault Android Cactus is a twin stick shoot 'em up with an emphasis on high pressure and stylish action. Expect screens full of enemies, buckets of bullets and high scoring combo chains! Take on the role of Cactus, an enthusiastic police android, who responds to a stranded space freighter only to discover it under siege by its malfunctioning robot workers. Cut off from the outside and in over her head, Cactus and the androids she recruits along the way battle through the crippled Genki Star to reach the brain of the ship and put things right before it's too late. Key Features Multiple Playable Characters - Each android has a unique weapon set and play style, experiment to find which android suits you best.</desc>
@@ -4192,5 +4162,51 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<genre>Action, RPG</genre>
 		<players>4</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Hotshot Racing.lnk</path>
+		<name>Hotshot Racing</name>
+		<desc>Hotshot Racing is a blisteringly fast arcade-style racing game fusing drift handling, razor-sharp retro visuals and an incredible sense of speed to create an exhilarating driving experience. Developed by racing game veterans SUMO Nottingham and Lucky Mountain Games, Hotshot Racing is an all-new driving experience which revives the classic arcade gameplay of the 90s and thrusts it into the modern era. 16 racing circuits provide the twists, turns and straights conducive to searingly quick racing.</desc>
+		<image>./mixart/Hotshot Racing.png</image>
+		<video>./snap/Hotshot Racing.mp4</video>
+		<marquee>./wheel/Hotshot Racing.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20201201T000000</releasedate>
+		<developer>Lucky Mountain Games</developer>
+		<publisher>Curve Digital</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Street Fighter X Tekken.lnk</path>
+		<name>Street Fighter X Tekken</name>
+		<desc>The game features characters from both the Street Fighter franchise and Namco's Tekken series. In the game, each player selects two characters respectively and face other as duos in tag team fighting matches, with the objective to knock out one of the members from the opposing team (deplete the opponent's health).</desc>
+		<image>./mixart/Street Fighter X Tekken.jpg</image>
+		<video>./snap/Street Fighter X Tekken.mp4</video>
+		<marquee>./wheel/Street Fighter X Tekken.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20121912T010000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting Game</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Alex Kidd in Miracle World DX.lnk</path>
+		<name>Alex Kidd in Miracle World DX</name>
+		<desc>The game features characters from both the Street Fighter franchise and Namco's Tekken series. In the game, each player selects two characters respectively and face other as duos in tag team fighting matches, with the objective to knock out one of the members from the opposing team (deplete the opponent's health).</desc>
+		<image>./mixart/Alex Kidd in Miracle World DX.jpg</image>
+		<video>./snap/Alex Kidd in Miracle World DX.mp4</video>
+		<marquee>./wheel/Alex Kidd in Miracle World DX.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20211912T010000</releasedate>
+		<developer>Jankenteam</developer>
+		<publisher>Merge Games</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>
