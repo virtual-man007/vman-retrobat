@@ -4051,20 +4051,6 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Real Boxing.lnk</path>
-		<name>Real Boxing</name>
-		<desc>The game is set to bring you the most exhilarating and true-to-life boxing simulation in existence. Featuring ultra-realistic motion capture from real boxers plus amazing graphics created with the powerful Unreal Engine, you’ll feel every hook, jab, and uppercut, with visible body damage and facial emotions appearing on boxer’s faces during matches.</desc>
-		<image>./mixart/Real Boxing.jpg</image>
-		<video>./snap/Real Boxing.mp4</video>
-		<marquee>./wheel/Real Boxing.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20121201T000000</releasedate>
-		<developer>Vivid Games</developer>
-		<publisher>Vivid Games</publisher>
-		<genre>Fighting, Sports</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Halo - Combat Evolved Anniversary.lnk</path>
 		<name>Halo - Combat Evolved Anniversary</name>
 		<desc>Halo: Combat Evolved Anniversary comes to PC as the second installment of Halo: The Master Chief Collection. Now optimized for PC, relive the spectacularly remastered edition of the original Halo campaign, created in celebration of the 10th anniversary of one of the most beloved franchises in gaming history.</desc>
@@ -4131,6 +4117,80 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<developer>Namco</developer>
 		<publisher>Namco</publisher>
 		<genre>Arcade</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Real Boxing.lnk</path>
+		<name>Real Boxing</name>
+		<desc>The game is set to bring you the most exhilarating and true-to-life boxing simulation in existence. Featuring ultra-realistic motion capture from real boxers plus amazing graphics created with the powerful Unreal Engine, you’ll feel every hook, jab, and uppercut, with visible body damage and facial emotions appearing on boxer’s faces during matches.</desc>
+		<image>./mixart/Real Boxing.jpg</image>
+		<video>./snap/Real Boxing.mp4</video>
+		<marquee>./wheel/Real Boxing.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20121201T000000</releasedate>
+		<developer>Vivid Games</developer>
+		<publisher>Vivid Games</publisher>
+		<genre>Fighting, Sports</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Super High Pinball.lnk</path>
+		<name>Super High Pinball - Pinball Platformer</name>
+		<desc>Super High Ball is a unique blend between a Pinball and a Platformer game! Control the flippers to kick the ball through difficult and dangerous traps, use your ability to slow down the ball to precisely take the quickest path to the end! Complete goals to unlock various customizations.</desc>
+		<image>./mixart/Super High Pinball.jpg</image>
+		<video>./snap/Super High Pinball.mp4</video>
+		<marquee>./wheel/Super High Pinball.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20211201T000000</releasedate>
+		<developer>Emberstone Interactive</developer>
+		<publisher>Emberstone Interactive</publisher>
+		<genre>Pinball, Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Leathal League Blaze.lnk</path>
+		<name>Leathal League Blaze</name>
+		<desc>Lethal League Blaze is an intense, high speed ball game, with unique characters, outta sight sounds and none of that weak shit. In Shine City, the anti-gravity ball game has long been illegal. The group who kept playing was dubbed the Lethal League. Even now, with their sport pushed underground, players and crews compete in the League for challenge and respect. In the game, the goal is to beat your opponents with the ball. You can manipulate the ball to get the perfect angle and use your character's special moves to surprise them. But every strike speeds up the ball or even doubles its speed, up to shatteringly extreme velocities. You can tag the ball to your color, but on those high speeds the tables are quickly turned. You can play locally with friends and foes.</desc>
+		<image>./mixart/Leathal League Blaze.jpg</image>
+		<video>./snap/Leathal League Blaze.mp4</video>
+		<marquee>./wheel/Leathal League Blaze.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>Team Reptile</developer>
+		<publisher>Team Reptile</publisher>
+		<genre>Action, Fighting</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Streets of Fury EX.lnk</path>
+		<name>Streets of Fury EX</name>
+		<desc>Fight the gangs of Paris in this action packed Beat'Em up. Up to 4 players can join in, to cooperate, or fight against each other! Many unlockables, game modes, crazy combos and devastating furies await you in this deep fighting game. Key Features: Oldschool “go right” beat’em up 4 players local Co-op and competitive play 17 playable characters The depth of a versus fighting game in a side-scrolling beat'em up Lots of moves, special moves, furies, cancels, chain combos, air combos, dodge, etc. Increase the Security Level to unlock new characters, game modes, and more... Story mode : Hunt the gang leaders in their respective districts Alternate Story mode : Build your own gang! Versus mode : Free for all and team battle for some multiplayer mayhem Survival mode : How long can you survive endless waves of enemies? Challenge mode : Try some time attack on special levels Featuring a whole new soundtrack by K93. Play with any controller Featuring famous youtuber Benzaie as the Hard Corner.</desc>
+		<image>./mixart/Streets of Fury EX.jpg</image>
+		<video>./snap/Streets of Fury EX.mp4</video>
+		<marquee>./wheel/Streets of Fury EX.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20151201T000000</releasedate>
+		<developer>Guard Crush Games</developer>
+		<publisher>Guard Crush Games</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Full Metal Furies.lnk</path>
+		<name>Full Metal Furies</name>
+		<desc>From the creators of Rogue Legacy comes a "true-cooperative" action RPG. FULL METAL FURIES puts an emphasis on team play with a unique combat system where everyone is important. Work together to defeat special enemies, string organics combos to deal massive damage, and save a wartorn world that is battling itself to extinction. Play on the couch or online with friends, and make it a party for up to four players! Or go solo in single-player, and show off your skills through a Pick 2 quick-switch system that retains all the nuances of multi-play. GAME FEATURES: Want to play with friends? Get friends first: - Up to 4 players can join in on the adventure, both ONLINE and OFFLINE.</desc>
+		<image>./mixart/Full Metal Furies.jpg</image>
+		<video>./snap/Full Metal Furies.mp4</video>
+		<marquee>./wheel/Full Metal Furies.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20181201T000000</releasedate>
+		<developer>Cellar Door Games</developer>
+		<publisher>Cellar Door Games</publisher>
+		<genre>Action, RPG</genre>
+		<players>4</players>
 		<favorite>true</favorite>
 	</game>
 </gameList>

@@ -533,21 +533,6 @@ Need some extra assistance bringing Bowser out of his frenzied, furious state? A
 		<lang>en</lang>
 		<region>wr</region>
 	</game>
-	<game id="198483">
-		<path>./The_Legend_of_Zelda_Links_Awakening.xci</path>
-		<name>Legend Of Zelda - Links Awakening, The</name>
-		<desc>As Link, you awaken in a strange land away from Hyrule, where animals talk and monsters roam. To uncover the truth behind your whereabouts and rouse the legendary Wind Fish, explore Koholint Island and all its trap-ridden dungeons, reimagined in stunning detail for this new release of one of the most beloved The Legend of Zelda games. Along the way, you'll meet a hilarious assortment of charming characters to which you'll never want to say goodbye.</desc>
-		<image>./images/The_Legend_of_Zelda_Links_Awakening-image.png</image>
-		<video>./videos/The_Legend_of_Zelda_Links_Awakening-video.mp4</video>
-		<marquee>./images/The_Legend_of_Zelda_Links_Awakening-marquee.png</marquee>
-		<releasedate>20190920T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action / Adventure</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game>
 		<path>./Crash_Team_Racing_Nitro_Fueled.xci</path>
 		<name>Crash Team Racing: Nitro-Fueled</name>
@@ -567,20 +552,6 @@ With Crash™ Team Racing Nitro-Fueled, the stakes are high and the competition 
 		<genre>Racing</genre>
 		<players>4</players>
 		<lang>en</lang>
-	</game>
-	<game id="13282">
-		<path>./SEGA_AGES_Virtua_Racing.nsp</path>
-		<name>Virtua Racing</name>
-		<desc>Virtua Racing or V.R. for short, is a Formula One racing arcade game, developed by Sega AM2 and released in 1992. Virtua Racing was initially a proof-of-concept application for exercising a new 3D-graphics platform under development, the "Model 1". The results were so encouraging, that Virtua Racing was fully developed into a standalone arcade title. Though its use of 3D polygonal graphics was predated by arcade rivals Namco (Winning Run in 1988) and Atari (Hard Drivin' in 1989), Virtua Racing had vastly improved visuals in terms of polygon count, frame rate, and overall scene complexity, and displayed multiple camera angles and 3D human non-player characters, which all contributed to a greater sense of immersion. Virtua Racing is regarded as one of the most influential video games of all time, for laying the foundations for subsequent 3D racing games and for popularizing 3D polygonal graphics among a wider audience</desc>
-		<image>./images/SEGA_AGES_Virtua_Racing-image.png</image>
-		<video>./videos/SEGA_AGES_Virtua_Racing-video.mp4</video>
-		<marquee>./images/SEGA_AGES_Virtua_Racing-marquee.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19951106T000000</releasedate>
-		<developer>Time Warner Interactive</developer>
-		<publisher>Time Warner Interactive</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
 	</game>
 	<game id="197817">
 		<path>./Diablo_III_Eternal_Collection.xci</path>
@@ -628,5 +599,34 @@ Team up with friends and combine your skills to battle your way through waves of
 		<players>4</players>
 		<lang>en</lang>
 		<region>wr</region>
+	</game>
+	<game id="13282">
+		<path>./SEGA_AGES_Virtua_Racing.nsp</path>
+		<name>Virtua Racing</name>
+		<desc>Virtua Racing or V.R. for short, is a Formula One racing arcade game, developed by Sega AM2 and released in 1992. Virtua Racing was initially a proof-of-concept application for exercising a new 3D-graphics platform under development, the "Model 1". The results were so encouraging, that Virtua Racing was fully developed into a standalone arcade title. Though its use of 3D polygonal graphics was predated by arcade rivals Namco (Winning Run in 1988) and Atari (Hard Drivin' in 1989), Virtua Racing had vastly improved visuals in terms of polygon count, frame rate, and overall scene complexity, and displayed multiple camera angles and 3D human non-player characters, which all contributed to a greater sense of immersion. Virtua Racing is regarded as one of the most influential video games of all time, for laying the foundations for subsequent 3D racing games and for popularizing 3D polygonal graphics among a wider audience</desc>
+		<image>./images/SEGA_AGES_Virtua_Racing-image.png</image>
+		<video>./videos/SEGA_AGES_Virtua_Racing-video.mp4</video>
+		<marquee>./images/SEGA_AGES_Virtua_Racing-marquee.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19951106T000000</releasedate>
+		<developer>Time Warner Interactive</developer>
+		<publisher>Time Warner Interactive</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+	</game>
+	<game id="198483">
+		<path>./The_Legend_of_Zelda_Links_Awakening.xci</path>
+		<name>Legend Of Zelda - Links Awakening, The</name>
+		<desc>As Link, you awaken in a strange land away from Hyrule, where animals talk and monsters roam. To uncover the truth behind your whereabouts and rouse the legendary Wind Fish, explore Koholint Island and all its trap-ridden dungeons, reimagined in stunning detail for this new release of one of the most beloved The Legend of Zelda games. Along the way, you'll meet a hilarious assortment of charming characters to which you'll never want to say goodbye.</desc>
+		<image>./images/The_Legend_of_Zelda_Links_Awakening-image.png</image>
+		<video>./videos/The_Legend_of_Zelda_Links_Awakening-video.mp4</video>
+		<marquee>./images/The_Legend_of_Zelda_Links_Awakening-marquee.png</marquee>
+		<releasedate>20190920T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

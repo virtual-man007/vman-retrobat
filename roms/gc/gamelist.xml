@@ -4665,20 +4665,6 @@
 		<players>1-4</players>
 	</game>
 	<game>
-		<path>./Soulcalibur II (USA).rvz</path>
-		<name>SoulCalibur II</name>
-		<desc>The quest for the all-powerful sword known as Soul Edge continues in Soulcalibur II, as old favorites and exciting new characters compete for the right to wield its power. Featuring seven game modes including Arcade, Time Attack, Survival Mode, Versus Mode, and Team Battle. Unlock and use over 200 different weapons and items in the updated Weapon Master Mode. Exclusive console-specific characters are in different versions of Soulcalibur II. The GameCube version boasts Nintendo's Link, of The Legend of Zelda fame.</desc>
-		<image>./mixart/Soulcalibur II (USA).png</image>
-		<video>./snap/Soulcalibur II (USA).mp4</video>
-		<marquee>./wheel/Soulcalibur II (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20030327T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Action-Fight</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Luigi's Mansion (USA).rvz</path>
 		<name>Luigi's Mansion</name>
 		<desc>Luigi's Mansion pits you as Luigi, Mario's forgotten brother.  Luigi, while checking his mail, found out he won a mansion in a contest.  What's weird, is he never entered any contest to begin with.  Being the curious person he is, he calls up his brother, Mario, and asks to meet him at the house.  Luigi sets forth through a dark and scary jungle to find the house, but sees that Mario is nowhere to be found.  Puzzled, Luigi enters the mansion, only to encounter ghosts.  He meets up with a scientist, Professor E. Gadd, who explains the situation and hands over the Poltergust 3000.  Luigi must now make his way through the mansion's many rooms, sucking up as many ghosts as he can.  As you explore, you must solve mysteries, collect cash/gems/jewels/coins, and encounter boss characters.  Luigi's vacuum has the ability to suck up ghosts that have inhabited this strange mansion.  However, the ghosts will not give up so easily.  You must struggle with them and pull them back to catch your prey with your trusty vacuum.  As you continue to your goal, you must face off with the deceased denizens of the house and the boos that haunt it, and unlock new rooms with the keys you find along the way.  You can also gain special abilities for your vacuum, such as the ability to shoot fire, water, or ice.  Remember though, treasure is scattered everywhere.  Check all the objects for coins and paper money, and who knows, you may just make enough money for Luigi to buy a mansion of his own...  As you explore the strange mansion, the plot slowly unravels and it becomes apparent that something more sinister is going on in that haunted house.  Will you ever see your lost brother Mario again?</desc>
@@ -7867,20 +7853,6 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<region>us</region>
 	</game>
 	<game>
-		<path>./Fight Night Round 2 (USA).rvz</path>
-		<name>Fight Night : Round 2</name>
-		<desc>Packing in more fearsome punches, players can now dominate the ring with the all-new EA SPORTS Haymaker allowing gamers to knock down their opponents with one devastating blow by adding extra power to each punch. Every hit counts in the game with powerful punches inflicting dynamic injuries on opponents, and thus reducing a fighter's ability to defend himself. Players will also manage the boxers inside and out of the ring. Utilizing the new EA SPORTS Cutman, gamers can minimize damage on their fighters by helping them heal critical wounds between rounds.</desc>
-		<image>./mixart/Fight Night Round 2 (USA).png</image>
-		<video>./snap/Fight Night Round 2 (USA).mp4</video>
-		<marquee>./wheel/Fight Night Round 2 (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20050317T000000</releasedate>
-		<developer>EA Sports</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Sports-Fight</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./F-Zero GX (Europe).rvz</path>
 		<name>F-Zero GX</name>
 		<desc>The classic Nintendo franchise that has inspired countless futuristic racing games returns with F-Zero GX on the Nintendo GameCube. Long-time rival Sega collaborated with Nintendo to redefine the futuristic racing genre with intense competition, blazing speeds, and brilliant track designs. F-Zero GX offers 20 different tracks and over 30 unique pilots, as well as a custom craft editor where players can create their own vehicle. Multiple game modes including Grand Prix, Time Attack, Versus mode, and the all new challenging story mode offer a multitude of alternatives to traditional racing. Players can laso save their game data on a memory card and use it to race custom vehicles in the arcade version of F-Zero GX.</desc>
@@ -7980,5 +7952,33 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<publisher>Electronic Arts</publisher>
 		<genre>Action</genre>
 		<players>2-4</players>
+	</game>
+	<game>
+		<path>./Soulcalibur II (USA).rvz</path>
+		<name>SoulCalibur II</name>
+		<desc>The quest for the all-powerful sword known as Soul Edge continues in Soulcalibur II, as old favorites and exciting new characters compete for the right to wield its power. Featuring seven game modes including Arcade, Time Attack, Survival Mode, Versus Mode, and Team Battle. Unlock and use over 200 different weapons and items in the updated Weapon Master Mode. Exclusive console-specific characters are in different versions of Soulcalibur II. The GameCube version boasts Nintendo's Link, of The Legend of Zelda fame.</desc>
+		<image>./mixart/Soulcalibur II (USA).png</image>
+		<video>./snap/Soulcalibur II (USA).mp4</video>
+		<marquee>./wheel/Soulcalibur II (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20030327T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Action-Fight</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Fight Night Round 2 (USA).rvz</path>
+		<name>Fight Night : Round 2</name>
+		<desc>Packing in more fearsome punches, players can now dominate the ring with the all-new EA SPORTS Haymaker allowing gamers to knock down their opponents with one devastating blow by adding extra power to each punch. Every hit counts in the game with powerful punches inflicting dynamic injuries on opponents, and thus reducing a fighter's ability to defend himself. Players will also manage the boxers inside and out of the ring. Utilizing the new EA SPORTS Cutman, gamers can minimize damage on their fighters by helping them heal critical wounds between rounds.</desc>
+		<image>./mixart/Fight Night Round 2 (USA).png</image>
+		<video>./snap/Fight Night Round 2 (USA).mp4</video>
+		<marquee>./wheel/Fight Night Round 2 (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20050317T000000</releasedate>
+		<developer>EA Sports</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports-Fight</genre>
+		<players>2</players>
 	</game>
 </gameList>

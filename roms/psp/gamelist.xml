@@ -1665,21 +1665,6 @@
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Tiger Woods PGA Tour 10 (USA).cso</path>
-		<name>Tiger Woods PGA Tour 10</name>
-		<desc>Tiger Woods PGA Tour 2010 features the U.S. Open, the USGA Championship and the USGA's Rules of Golf for the first time in the franchise's history. The Weather Channel provides dynamic weather data for the game (the forecast channel on the Wii). The new "Tournament Challenge" mode allows players to replicate famous shots and moments from the PGA Tour's history.    There are several new courses available for this version of the game, including Bethpage Black, Pinehurst (Course 2), Torrey Pines, Oakmont, Hazeltine National, Banff Springs, and Turnberry, with all those listed courses having hosted major championships before. There are also many golfers featured in the game that are listed below. There are also fictitious golfers who are present in the game.</desc>
-		<image>./mixart/Tiger Woods PGA Tour 10 (USA).png</image>
-		<video>./snap/Tiger Woods PGA Tour 10 (USA).mp4</video>
-		<marquee>./wheel/Tiger Woods PGA Tour 10 (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20090616T000000</releasedate>
-		<developer>Electronic Arts</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./God of War - Chains of Olympis.cso</path>
 		<name>God of War : Chains of Olympus</name>
 		<desc>Unleash the power of the Gods and embark on a merciless quest as Kratos, an ex-Spartan warrior driven to destroy Ares, the God of War. Armed with lethal double chainblades, Kratos must carve through mythology's darkest creatures including Medusa, Cyclops, the Hydra and more, while solving intricate puzzles in breathtaking environments. Driven by pure revenge, nothing can stop Kratos from achieving absolution.</desc>
@@ -2112,20 +2097,6 @@
 		<image>./mixart/Fifa Street 2.png</image>
 		<marquee>./wheel/Fifa Street 2.png</marquee>
 		<video>./snap/Fifa Street 2.mp4</video>
-	</game>
-	<game id="28146" source="ScreenScraper.fr">
-		<path>./Fight NightRound 3.cso</path>
-		<name>Fight Night Round 3</name>
-		<desc>Fight Night Round 3 was developed by EA Chicago, formerly NuFX. It is the third boxing title in the Fight Night franchise. It features the usual improvements such as better graphics and gameplay. "Impact Punches" are one of the most drastic changes, along with ESPN Classic fights and a new career mode, in which the player fights to gain popularity in order to reach sponsored fights, or to be featured on ESPN. Unlike in older versions, Round 3 defaults without a heads-up display (HUD), allowing a player to judge the status of their stamina and energy based on their stance, movements, and facial features, instead of the usual stamina meter.</desc>
-		<rating>0.85</rating>
-		<releasedate>20060309T000000</releasedate>
-		<developer>EA Sports</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<image>./mixart/Fight NightRound 3.png</image>
-		<marquee>./wheel/Fight NightRound 3.png</marquee>
-		<video>./snap/Fight NightRound 3.mp4</video>
 	</game>
 	<game id="28666" source="ScreenScraper.fr">
 		<path>./Fired Up.cso</path>
@@ -10907,6 +10878,36 @@ The 2007 release of the game has a few improvements over the original version, m
 		<publisher>Sony Computer Entertainment America, Inc.</publisher>
 		<genre>Platform-Various-Action</genre>
 		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Tiger Woods PGA Tour 10 (USA).cso</path>
+		<name>Tiger Woods PGA Tour 10</name>
+		<desc>Tiger Woods PGA Tour 2010 features the U.S. Open, the USGA Championship and the USGA's Rules of Golf for the first time in the franchise's history. The Weather Channel provides dynamic weather data for the game (the forecast channel on the Wii). The new "Tournament Challenge" mode allows players to replicate famous shots and moments from the PGA Tour's history.    There are several new courses available for this version of the game, including Bethpage Black, Pinehurst (Course 2), Torrey Pines, Oakmont, Hazeltine National, Banff Springs, and Turnberry, with all those listed courses having hosted major championships before. There are also many golfers featured in the game that are listed below. There are also fictitious golfers who are present in the game.</desc>
+		<image>./mixart/Tiger Woods PGA Tour 10 (USA).png</image>
+		<video>./snap/Tiger Woods PGA Tour 10 (USA).mp4</video>
+		<marquee>./wheel/Tiger Woods PGA Tour 10 (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20090616T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game id="28146" source="ScreenScraper.fr">
+		<path>./Fight NightRound 3.cso</path>
+		<name>Fight Night Round 3</name>
+		<desc>Fight Night Round 3 was developed by EA Chicago, formerly NuFX. It is the third boxing title in the Fight Night franchise. It features the usual improvements such as better graphics and gameplay. "Impact Punches" are one of the most drastic changes, along with ESPN Classic fights and a new career mode, in which the player fights to gain popularity in order to reach sponsored fights, or to be featured on ESPN. Unlike in older versions, Round 3 defaults without a heads-up display (HUD), allowing a player to judge the status of their stamina and energy based on their stance, movements, and facial features, instead of the usual stamina meter.</desc>
+		<image>./mixart/Fight NightRound 3.png</image>
+		<video>./snap/Fight NightRound 3.mp4</video>
+		<marquee>./wheel/Fight NightRound 3.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20060309T000000</releasedate>
+		<developer>EA Sports</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
 		<favorite>true</favorite>
 	</game>
 </gameList>

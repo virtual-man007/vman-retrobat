@@ -4127,23 +4127,6 @@ Keeping in tradition, Monster Rancher EVO features the series' unique media disc
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game>
-		<path>./MotorStorm - Arctic Edge (USA).gz</path>
-		<name>MotorStorm : Arctic Edge</name>
-		<desc>Motorstorm: Arctic Edge is an arcade racer pitting you against 8 other racers, human or AI in a competition to win in The Festival. The backdrop for the game is Alaska where you have to race on icy tracks in mountainous regions. Beside the other racers you have to take into account avalanches, broken ice bridges and a lot of other dangers on the route to victory.    The game is very fast-paced and it sees you racing around in cars, snowmobiles and trucks. You can select different wheels, exhausts, spoilers and more for your vehicles.</desc>
-		<image>./mixart/MotorStorm - Arctic Edge (USA).png</image>
-		<video>./snap/MotorStorm - Arctic Edge (USA).mp4</video>
-		<marquee>./wheel/MotorStorm - Arctic Edge (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20091014T000000</releasedate>
-		<developer>Bigbig Studios</developer>
-		<publisher>Sony</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="23579" source="ScreenScraper.fr">
 		<path>./MTV Celebrity Deathmatch (USA).gz</path>
 		<name>MTV Celebrity Deathmatch</name>
@@ -4282,23 +4265,6 @@ The game plays similarly to most JRPGs. Ari will visit towns and fight (turn bas
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>768</genreid>
-	</game>
-	<game id="21917" source="ScreenScraper.fr">
-		<path>./Okami (USA).gz</path>
-		<name>Okami</name>
-		<desc>The game is set in a Nippon (Japan) based on Japanese folklore, and begins with a flashback to events 100 years prior to the game's present; the narrator describes how Shiranui, a pure white wolf, and Nagi, a swordsman, together fought the eight-headed demon Orochi to save Kamiki Village and the maiden Nami, Nagi's beloved. Shiranui and Nagi are unable to defeat Orochi, but manage to seal the demon away.   In the game's present, Susano, a descendant of Nagi and self-proclaimed greatest warrior, breaks Orochi's seal due to the fact that he does not believe in the legend and wants to prove it false; Orochi escapes and curses the lands, sapping the life from every living being. Sakuya, the wood sprite and guardian of Kamiki Village, calls forth Amaterasu, the sun goddess, known to the villagers as the reincarnation of the white wolf Shiranui, and pleads for her to remove the curse that covers the land. Accompanied by the artist Issun (an inch-high creature known as a Poncle), Amaterasu is able to restore the land to its former beauty.</desc>
-		<image>./mixart/Okami (USA).png</image>
-		<video>./snap/Okami (USA).mp4</video>
-		<marquee>./wheel/Okami (USA).png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20070209T000000</releasedate>
-		<developer>Clover</developer>
-		<publisher>Capcom</publisher>
-		<genre>Platform-Action-Adventure</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
 	</game>
 	<game id="22449" source="ScreenScraper.fr">
 		<path>./Oni (USA).gz</path>
@@ -7231,5 +7197,74 @@ Once you've got the computer down for the count, you can play with any fighter o
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>262</genreid>
+	</game>
+	<game>
+		<path>./MotorStorm - Arctic Edge (USA).gz</path>
+		<name>MotorStorm : Arctic Edge</name>
+		<desc>Motorstorm: Arctic Edge is an arcade racer pitting you against 8 other racers, human or AI in a competition to win in The Festival. The backdrop for the game is Alaska where you have to race on icy tracks in mountainous regions. Beside the other racers you have to take into account avalanches, broken ice bridges and a lot of other dangers on the route to victory.    The game is very fast-paced and it sees you racing around in cars, snowmobiles and trucks. You can select different wheels, exhausts, spoilers and more for your vehicles.</desc>
+		<image>./mixart/MotorStorm - Arctic Edge (USA).png</image>
+		<video>./snap/MotorStorm - Arctic Edge (USA).mp4</video>
+		<marquee>./wheel/MotorStorm - Arctic Edge (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20091014T000000</releasedate>
+		<developer>Bigbig Studios</developer>
+		<publisher>Sony</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="21917" source="ScreenScraper.fr">
+		<path>./Okami (USA).gz</path>
+		<name>Okami</name>
+		<desc>The game is set in a Nippon (Japan) based on Japanese folklore, and begins with a flashback to events 100 years prior to the game's present; the narrator describes how Shiranui, a pure white wolf, and Nagi, a swordsman, together fought the eight-headed demon Orochi to save Kamiki Village and the maiden Nami, Nagi's beloved. Shiranui and Nagi are unable to defeat Orochi, but manage to seal the demon away.   In the game's present, Susano, a descendant of Nagi and self-proclaimed greatest warrior, breaks Orochi's seal due to the fact that he does not believe in the legend and wants to prove it false; Orochi escapes and curses the lands, sapping the life from every living being. Sakuya, the wood sprite and guardian of Kamiki Village, calls forth Amaterasu, the sun goddess, known to the villagers as the reincarnation of the white wolf Shiranui, and pleads for her to remove the curse that covers the land. Accompanied by the artist Issun (an inch-high creature known as a Poncle), Amaterasu is able to restore the land to its former beauty.</desc>
+		<image>./mixart/Okami (USA).png</image>
+		<video>./snap/Okami (USA).mp4</video>
+		<marquee>./wheel/Okami (USA).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20070209T000000</releasedate>
+		<developer>Clover</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform-Action-Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="22586" source="ScreenScraper.fr">
+		<path>./Urban Reign (USA).gz</path>
+		<name>Urban Reign</name>
+		<desc>Urban Reign is a Namco-produced 3D brawler, done in the tradition of Double Dragon and Final Fight. The story follows Brad Hawk, a hired thug, as he tries to find a gang member that was captured by a rival group. In each level, you set off against a handful of bruisers from one of Green Harbor's many gangs in search of clues. Make use of different allies, which can be given instructions, with skills in various fighting techniques to accomplish your goals, as you fight your way through 100 levels. There are different combos and special moves, different objects can be picked up and used as a weapon, and incoming attacks can be avoided by dodging.</desc>
+		<image>./mixart/Urban Reign (USA).png</image>
+		<video>./snap/Urban Reign (USA).mp4</video>
+		<marquee>./wheel/Urban Reign (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20060208T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Sony</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2-4</players>
+		<favorite>true</favorite>
+		<genreid>263</genreid>
+	</game>
+	<game id="22810" source="ScreenScraper.fr">
+		<path>./Drive to Survive (USA).gz</path>
+		<name>Mashed - Drive to Survive</name>
+		<desc>Mashed is an action-packed top-down arcade-racer. On 13 tracks (which must be played free in single-player first) you need all your driving skills to survive and make it to the finish as the 1st with one of the four different cars available (from slow ones to really fast ones). 
+ 
+The heart of the single-player mode (besides the quick battle against the AI) are the bronze, silver and gold challenges for every track you need to complete to play free the next track. Each challenge is one of the seven (eight in multiplayer) game modes available in Mashed. From normal race-events (just be the 1st) over battles where you need to kill all your enemies before they do to the ultimate survival mode where everyone doesn't really like you. 
+ 
+To make things much easier there are nine different power-ups and weapons scattered on the tracks which you can pick up. From simple oil slicks over mines to deadly mortars there's everything you need to kick the enemy drivers out of the race. Of course they can also choose from the equipment. As you can only survive a few hits you need to make sure they can't use them on you. And to make it even worse there are many small passages (or the track is just one small passage...) with nothing on one or both sides of the track in which you or your enemy can fall very deep.</desc>
+		<image>./mixart/Drive to Survive (USA).png</image>
+		<video>./snap/Drive to Survive (USA).mp4</video>
+		<marquee>./wheel/Drive to Survive (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20040618T000000</releasedate>
+		<developer>Supersonic Software</developer>
+		<publisher>Empire Interactive</publisher>
+		<genre>Action-Race, Driving</genre>
+		<players>4</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

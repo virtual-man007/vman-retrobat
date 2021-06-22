@@ -11309,23 +11309,6 @@ The food calorie count, from lowest to highest, is:
 		<region>us</region>
 	</game>
 	<game>
-		<path>./Demon Attack (USA).zip</path>
-		<name>Demon Attack</name>
-		<desc>Demon Attack is an arcade action game with gameplay similar to Space Invaders. You control a laser canon at the bottom of the screen, and need to destroy wave after wave of brightly colored demons. The demons bounce around the screen in bizarre patterns, and try to destroy your canon with bombs or lasers. When you shoot a demon, it will be replaced with another or will split into two smaller demons depending on which wave you are playing. When the required number of demons for the current round is finally destroyed, you can move on to the next, more difficult round.</desc>
-		<image>./mixart/Demon Attack (USA).png</image>
-		<video>./snap/Demon Attack (USA).mp4</video>
-		<marquee>./wheel/Demon Attack (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Imagic</developer>
-		<publisher>Imagic</publisher>
-		<genre>Shooter-Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./Adventure (USA).zip</path>
 		<name>Adventure</name>
 		<desc>An evil magician has stolen the Enchanted Chalice and has hidden it somewhere in the Kingdom. The object of the game is to rescue the Enchanted Chalice and place it inside the Golden Castle where it belongs. 
@@ -11345,6 +11328,23 @@ Adventure was the first action-adventure game on a video console, the first to c
 		<developer>Sears, Roebuck and Co.</developer>
 		<publisher>Atari</publisher>
 		<genre>Adventure</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Demon Attack (USA).zip</path>
+		<name>Demon Attack</name>
+		<desc>Demon Attack is an arcade action game with gameplay similar to Space Invaders. You control a laser canon at the bottom of the screen, and need to destroy wave after wave of brightly colored demons. The demons bounce around the screen in bizarre patterns, and try to destroy your canon with bombs or lasers. When you shoot a demon, it will be replaced with another or will split into two smaller demons depending on which wave you are playing. When the required number of demons for the current round is finally destroyed, you can move on to the next, more difficult round.</desc>
+		<image>./mixart/Demon Attack (USA).png</image>
+		<video>./snap/Demon Attack (USA).mp4</video>
+		<marquee>./wheel/Demon Attack (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Imagic</developer>
+		<publisher>Imagic</publisher>
+		<genre>Shooter-Action</genre>
+		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>

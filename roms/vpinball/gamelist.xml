@@ -2649,57 +2649,12 @@
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./TRON Classic (Original 2021) Mod v1.03.vpx</path>
-		<name>TRON Classic (Original 2021) Mod v1.03</name>
-		<desc>Flipper TRON Classic (Original 2021) Mod v1.03</desc>
-		<image>./mixart/TRON Classic (Original 2021) Mod v1.03.png</image>
-		<video>./snap/TRON Classic (Original 2021) Mod v1.03.mp4</video>
-		<marquee>./wheel/TRON Classic (Original 2021) Mod v1.03.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./A Real American Hero v1.8.1.vpx</path>
-		<name>G.I. Joe - A Real American Hero</name>
-		<desc>Flipper G.I. Joe - A Real American Hero v1.8.1</desc>
-		<image>./mixart/A Real American Hero v1.8.1.png</image>
-		<video>./snap/A Real American Hero v1.8.1.mp4</video>
-		<marquee>./wheel/A Real American Hero v1.8.1.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Inspector Gadget.vpx</path>
 		<name>Inspector Gadget</name>
 		<desc>Flipper Inspector Gadget</desc>
 		<image>./mixart/Inspector Gadget.png</image>
 		<video>./snap/Inspector Gadget.mp4</video>
 		<marquee>./wheel/Inspector Gadget.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Buck_Rogers (Gottlieb 1980) Sound MOD v1.11a.vpx</path>
-		<name>Buck Rogers (Gottlieb 1980)</name>
-		<desc>Flipper Buck Rogers (Gottlieb 1980) Sound MOD v1.11a</desc>
-		<image>./mixart/Buck_Rogers (Gottlieb 1980) Sound MOD v1.11a.png</image>
-		<video>./snap/Buck_Rogers (Gottlieb 1980) Sound MOD v1.11a.mp4</video>
-		<marquee>./wheel/Buck_Rogers (Gottlieb 1980) Sound MOD v1.11a.png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
@@ -2852,6 +2807,51 @@
 		<image>./mixart/Black Tiger Pinball (Williams 1981).png</image>
 		<video>./snap/Black Tiger Pinball (Williams 1981).mp4</video>
 		<marquee>./wheel/Black Tiger Pinball (Williams 1981).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./TRON Classic (Original 2021) Mod v1.03.vpx</path>
+		<name>TRON Classic (Original 2021) Mod v1.03</name>
+		<desc>Flipper TRON Classic (Original 2021) Mod v1.03</desc>
+		<image>./mixart/TRON Classic (Original 2021) Mod v1.03.png</image>
+		<video>./snap/TRON Classic (Original 2021) Mod v1.03.mp4</video>
+		<marquee>./wheel/TRON Classic (Original 2021) Mod v1.03.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./A Real American Hero v1.8.1.vpx</path>
+		<name>G.I. Joe - A Real American Hero</name>
+		<desc>Flipper G.I. Joe - A Real American Hero v1.8.1</desc>
+		<image>./mixart/A Real American Hero v1.8.1.png</image>
+		<video>./snap/A Real American Hero v1.8.1.mp4</video>
+		<marquee>./wheel/A Real American Hero v1.8.1.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Buck_Rogers (Gottlieb 1980) Sound MOD v1.11a.vpx</path>
+		<name>Buck Rogers (Gottlieb 1980)</name>
+		<desc>Flipper Buck Rogers (Gottlieb 1980) Sound MOD v1.11a</desc>
+		<image>./mixart/Buck_Rogers (Gottlieb 1980) Sound MOD v1.11a.png</image>
+		<video>./snap/Buck_Rogers (Gottlieb 1980) Sound MOD v1.11a.mp4</video>
+		<marquee>./wheel/Buck_Rogers (Gottlieb 1980) Sound MOD v1.11a.png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
