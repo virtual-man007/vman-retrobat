@@ -4135,12 +4135,12 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Super High Pinball.lnk</path>
+		<path>./Super High Ball.lnk</path>
 		<name>Super High Pinball - Pinball Platformer</name>
 		<desc>Super High Ball is a unique blend between a Pinball and a Platformer game! Control the flippers to kick the ball through difficult and dangerous traps, use your ability to slow down the ball to precisely take the quickest path to the end! Complete goals to unlock various customizations.</desc>
-		<image>./mixart/Super High Pinball.jpg</image>
-		<video>./snap/Super High Pinball.mp4</video>
-		<marquee>./wheel/Super High Pinball.png</marquee>
+		<image>./mixart/Super High Ball.jpg</image>
+		<video>./snap/Super High Ball.mp4</video>
+		<marquee>./wheel/Super High Ball.png</marquee>
 		<rating>0.90</rating>
 		<releasedate>20211201T000000</releasedate>
 		<developer>Emberstone Interactive</developer>
@@ -4150,12 +4150,12 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Leathal League Blaze.lnk</path>
-		<name>Leathal League Blaze</name>
+		<path>./Lethal League Blaze.lnk</path>
+		<name>Lethal League Blaze</name>
 		<desc>Lethal League Blaze is an intense, high speed ball game, with unique characters, outta sight sounds and none of that weak shit. In Shine City, the anti-gravity ball game has long been illegal. The group who kept playing was dubbed the Lethal League. Even now, with their sport pushed underground, players and crews compete in the League for challenge and respect. In the game, the goal is to beat your opponents with the ball. You can manipulate the ball to get the perfect angle and use your character's special moves to surprise them. But every strike speeds up the ball or even doubles its speed, up to shatteringly extreme velocities. You can tag the ball to your color, but on those high speeds the tables are quickly turned. You can play locally with friends and foes.</desc>
-		<image>./mixart/Leathal League Blaze.jpg</image>
-		<video>./snap/Leathal League Blaze.mp4</video>
-		<marquee>./wheel/Leathal League Blaze.png</marquee>
+		<image>./mixart/Lethal League Blaze.jpg</image>
+		<video>./snap/Lethal League Blaze.mp4</video>
+		<marquee>./wheel/Lethal League Blaze.png</marquee>
 		<rating>0.90</rating>
 		<releasedate>20191201T000000</releasedate>
 		<developer>Team Reptile</developer>
