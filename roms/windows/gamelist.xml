@@ -3249,20 +3249,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Circuit Superstars.lnk</path>
-		<name>Circuit Superstars</name>
-		<desc>Circuit Superstars is a top-down, physics driven racing game for PC and consoles. It combines arcade-style racing with more realistic tactile driving physics, which brings together a whole range of styles and eras of motorsport. From 60s-inspired single-seaters to modern GTs, Circuit Superstars will feature vehicles and tracks from various motorsport eras.</desc>
-		<image>./mixart/Circuit Superstars.jpg</image>
-		<video>./snap/Circuit Superstars.mp4</video>
-		<marquee>./wheel/Circuit Superstars.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20211201T000000</releasedate>
-		<developer>Fire Games</developer>
-		<publisher>Square Enix</publisher>
-		<genre>Racing</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Cloud Cutter.lnk</path>
 		<name>Cloud Cutter</name>
 		<desc>Cloud Cutter brings you classic arcade shoot ‘em up gameplay in top notch graphics. Cloud Cutter offers exactly what you expect and love in old-school scrolling shooters. Enjoy intense fast-paced explosive action full of epic destruction, arcade style power-ups, lasers and of course huge multi-stage boss fights. Blast your way through hundreds of enemies in a beautiful and ever-changing environment. Collect in-game power-ups to upgrade your ship and deal massive damage with a number of special powers. Master 13 detailed and immersive stages with challenging missions to complete that will push your pilot reflexes to their limits. Battle enormous and intimidating bosses.</desc>
@@ -4208,5 +4194,33 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Circuit Superstars.lnk</path>
+		<name>Circuit Superstars</name>
+		<desc>Circuit Superstars is a top-down, physics driven racing game for PC and consoles. It combines arcade-style racing with more realistic tactile driving physics, which brings together a whole range of styles and eras of motorsport. From 60s-inspired single-seaters to modern GTs, Circuit Superstars will feature vehicles and tracks from various motorsport eras.</desc>
+		<image>./mixart/Circuit Superstars.jpg</image>
+		<video>./snap/Circuit Superstars.mp4</video>
+		<marquee>./wheel/Circuit Superstars.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20211201T000000</releasedate>
+		<developer>Fire Games</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Astalon - Tears of the Earth.lnk</path>
+		<name>Astalon - Tears of the Earth</name>
+		<desc>Astalon: Tears Of The Earth is an action-platformer set in a dying world where life is cruel, but death can be a stepping stone to victory! Use the unique skills and weapons of Arias the fighter, Kyuli the rogue, and Algus the wizard, to surmount the mysterious tower and find the answers to their survival.</desc>
+		<image>./mixart/Astalon - Tears of the Earth.jpg</image>
+		<video>./snap/Astalon - Tears of the Earth.mp4</video>
+		<marquee>./wheel/Astalon - Tears of the Earth.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20211201T000000</releasedate>
+		<developer>Labs Works</developer>
+		<publisher>Dangen Entertainment</publisher>
+		<genre>Adventure, Platform</genre>
+		<players>1</players>
 	</game>
 </gameList>
