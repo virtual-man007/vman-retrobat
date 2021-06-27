@@ -28484,4 +28484,36 @@ Castlevania is a side-scrolling platform action game. The player taking the role
 		<lang>en</lang>
 		<region>us</region>
 	</game>
+  <game id="1321" source="ScreenScraper.fr">
+    <path>./Probotector II - Return of the Evil Forces (Europe) (Unl).zip</path>
+    <name>Probotector II : Return of the Evil Forces</name>
+    <desc>After losing a confrontation against Super Commandos Mad Dog and Scorpion, the juices of destruction drip from the spiked tongue of the vile alien warmonger - Red Falcon. Now, he's coming back stronger than ever, with a sinister plan that includes having his intergalactic warriors seep into the brains of the U.S. Army. To support his disguised forces of doom, he's recruited Jagger Froid, a demented alien from the Black Hole Galaxy. He's also shuttled in The Babula Destructoid Mechanism with its Beam of Death. With torrential terror about to rain down upon civilization, Earth's only hope rests with you, Scorpion, and your pal, the Dogster. And if your spread guns, lasers, flame throwers and mega shells fail to destroy Red Falcon's eight levels of terror, including radioactive lava fields, it's all over but for the shouting, the screaming and the cries from a disintegrating world!</desc>
+    <rating>0.85</rating>
+    <releasedate>19920101T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Konami</publisher>
+    <genre>Platform-Platform / Shooter Scrolling</genre>
+    <players>1-2</players>
+    <image>./mixart/Probotector II - Return of the Evil Forces (Europe) (Unl).png</image>
+    <video>./snap/Probotector II - Return of the Evil Forces (Europe) (Unl).mp4</video>
+	<marquee>./wheel/Probotector II - Return of the Evil Forces (Europe) (Unl).png</marquee>
+    <genreid>257</genreid>
+  </game>
+  <game id="189425" source="ScreenScraper.fr">
+    <path>./Probotector (Europe) (Unl).zip</path>
+    <name>Probotector</name>
+    <desc>In the year 2631, a small meteorite has fallen into the Galuga archipelago, located 20km northeast off the coast of New Zealand. Two years later, a terrorist group known as Red Falcon has seized the island in preparation for an alien invasion. The earth's marines sent two members of their elite Contra unit, Bill Rizer and Lance Bean, to neutralize the terrorists.
+
+As either, Bill (player 1) or Lance (player 2), the player must get to the end of each stage, shooting everything in sight, while avoiding enemy fire themselves. The player can upgrade their standard-issue rifle into one of four different weapons, including the powerful spread shot.</desc>
+    <rating>0.9</rating>
+    <releasedate>19901228T000000</releasedate>
+    <developer>Konami</developer>
+    <publisher>Konami</publisher>
+    <genre>Action</genre>
+    <players>2</players>
+    <image>./mixart/Probotector (Europe) (Unl).png</image>
+    <video>./snap/Probotector (Europe) (Unl).mp4</video>
+	<marquee>./wheel/Probotector (Europe) (Unl).png</marquee>
+    <genreid>256</genreid>
+  </game>
 </gameList>
