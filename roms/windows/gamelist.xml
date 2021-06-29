@@ -4250,6 +4250,7 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<publisher>Elden Pixels</publisher>
 		<genre>Platform, Puzzle</genre>
 		<players>1</players>
+		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Guns, Gore and Cannoli 2.lnk</path>
@@ -4334,5 +4335,6 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<publisher>Mossmouth</publisher>
 		<genre>Platform</genre>
 		<players>4</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>
