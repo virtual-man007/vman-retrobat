@@ -990,21 +990,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Shadowrun Returns.lnk</path>
-		<name>Shadowrun Returns</name>
-		<desc>Shadowrun Returns is a turn-based role-playing game with a skill based character progression system. You create your basic character and build the character based on your own needs during the game play, adding in the skills fit the most in your gamestyle. Combat is done with tactical, turn-based style, allowing you to take an advantage of your team skills as well as the surroundings of the battle. The game is played from an isometric view. The game world is created in a hand-painted style while the characters are in 3D.</desc>
-		<image>./mixart/Shadowrun Returns.png</image>
-		<video>./snap/Shadowrun Returns.mp4</video>
-		<marquee>./wheel/Shadowrun Returns.png</marquee>
-		<rating>3.88</rating>
-		<releasedate>20130725T000000</releasedate>
-		<developer>Harebrained Schemes</developer>
-		<publisher>Harebrained Schemes</publisher>
-		<genre>Role-Playing</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./SiN Gold.lnk</path>
 		<name>SiN Gold</name>
 		<desc>When the CEO of SinTEK Industries begins injecting the streets with a DNA-altering drug, it's time to reassess the laws of morality. When the same twisted bio-chemist plans to overtake the world with her unholy army of genetically-engineered mutants, it's time to rewrite the golden rule. You are Colonel John R. Blade, head of the most prominent private protection agency in Freeport. Now Elexis Sinclaire is waging her holy war against the security industry...and you along with it. You've made a religion out of fighting crime. Now you're going to make Elexis pay for her sins. Updated Features * Added "Wages of SiN" expansion * Added modernized Steam master server support * Added and restored editing SDK * Added support for additional 16:9 video resolutions * Restored/uncensored various original game assets General Improvements * Optimizations to math, container types, and search algorithms * Restored support for *.sin pack files, re-packed assets * Removed obsolete IPX networking support * Restored original sound and music engine * Changed video format to open-source/patent-free OGV/Theora Fixes * Fixed crash in Docks cinematic * Fixed incorrect behavior in Thug AI * Fixed undefined camera position and occasional crash in Wages of SiN ending cinematic * r_palettemode cvar for software mode now reads and writes correct configuration variable * Fixed memory corruption issue during multiplayer initialization * cl_maxfps default changed to 200 to avoid issues with game running too fast * Repaired issue with extremely loud sounds on menu screens when FPS is too high * Fixed possible soft lock when using menu hotkeys while inside an in-game computer console * Restored missing assets for Beecadrone enemy</desc>
@@ -1123,21 +1108,6 @@
 		<genre>Race, Driving</genre>
 		<players>2-6</players>
 		<md5>4b84e386e84d801224d0b1b733d7e66b</md5>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Shadow Warrior Classic Redux.lnk</path>
-		<name>Shadow Warrior Classic Redux</name>
-		<desc>Shadow Warrior Classic Redux is a PC version of Shadow Warrior, released on GOG.com - Challenging Steam achievements for only the most skilled warriors.</desc>
-		<image>./mixart/Shadow Warrior Classic Redux.png</image>
-		<video>./snap/Shadow Warrior Classic Redux.mp4</video>
-		<marquee>./wheel/Shadow Warrior Classic Redux.png</marquee>
-		<rating>3.27</rating>
-		<releasedate>20130708T000000</releasedate>
-		<developer>3D Realms, General Arcade, Level Infinity, Sunstorm Interactive, Wylde Productions</developer>
-		<publisher>Devolver Digital, GT Interactive</publisher>
-		<genre>Action, Shooter</genre>
-		<players>1</players>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -1605,21 +1575,6 @@ Your quest will not be an easy one, as the Empire is heavily defended by thousan
 		<genre>Strategy</genre>
 		<lang>en</lang>
 		<md5>1ef564be16ed2a20e9ea963d481deb56</md5>
-	</game>
-	<game>
-		<path>./Shadow Complex.lnk</path>
-		<name>Shadow Complex</name>
-		<desc>Powered by Unreal Engine technology, the “modern and masterful side-scroller” Shadow Complex became an instant classic when initially released in 2009, exclusively for Xbox 360. The fan favorite won more than 50 Game of the Year and Editor’s Choice Awards and was one of the most popular console games of the year. Shadow Complex Remastered features all the great content from the original game updated with exciting new enhancements and achievements.</desc>
-		<image>./mixart/Shadow.jpg</image>
-		<video>./snap/Shadow Complex.mp4</video>
-		<marquee>./wheel/shadow.png</marquee>
-		<rating>0</rating>
-		<releasedate>20160503T010000</releasedate>
-		<developer>chAIR Entertainment</developer>
-		<publisher>Epic Games</publisher>
-		<genre>Action</genre>
-		<lang>en</lang>
-		<md5>6aa376731b9bb2d15ebe0db8ec8fb12a</md5>
 	</game>
 	<game>
 		<path>./Sonic Mania.lnk</path>
@@ -3436,21 +3391,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<players>1</players>
 	</game>
 	<game>
-		<path>./AGS - King Quest I.lnk</path>
-		<name>AGS - King Quest I</name>
-		<desc>Fandmade remake of King Quest I using Adventure Gaming Studio engine. - AGD Interactive Ultimate Remake of King's Quest I: A dying King Edward entrusts his finest knight to seek the Three Lost Treasures of Daventry.</desc>
-		<image>./mixart/AGS - King Quest I.png</image>
-		<video>./snap/AGS - King Quest I.mp4</video>
-		<marquee>./wheel/AGS - King Quest I.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20010430T000000</releasedate>
-		<developer>AGD Interactive</developer>
-		<publisher>Fanmade</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./AGS - King Quest III.lnk</path>
 		<name>AGS - King Quest III</name>
 		<desc>Fandmade remake of King Quest III using Adventure Gaming Studio engine. - AGD Interactive Ultimate Remake of King's Quest III: To Heir is Human! Join Gwydion as he seeks to escape the bonds of slavery from his master, the evil wizard Mananann.</desc>
@@ -4076,21 +4016,6 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Real Boxing.lnk</path>
-		<name>Real Boxing</name>
-		<desc>The game is set to bring you the most exhilarating and true-to-life boxing simulation in existence. Featuring ultra-realistic motion capture from real boxers plus amazing graphics created with the powerful Unreal Engine, you’ll feel every hook, jab, and uppercut, with visible body damage and facial emotions appearing on boxer’s faces during matches.</desc>
-		<image>./mixart/Real Boxing.jpg</image>
-		<video>./snap/Real Boxing.mp4</video>
-		<marquee>./wheel/Real Boxing.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20121201T000000</releasedate>
-		<developer>Vivid Games</developer>
-		<publisher>Vivid Games</publisher>
-		<genre>Fighting, Sports</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Super High Ball.lnk</path>
 		<name>Super High Pinball - Pinball Platformer</name>
 		<desc>Super High Ball is a unique blend between a Pinball and a Platformer game! Control the flippers to kick the ball through difficult and dangerous traps, use your ability to slow down the ball to precisely take the quickest path to the end! Complete goals to unlock various customizations.</desc>
@@ -4180,22 +4105,6 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Alex Kidd in Miracle World DX.lnk</path>
-		<name>Alex Kidd in Miracle World DX</name>
-		<desc>The game features characters from both the Street Fighter franchise and Namco's Tekken series. In the game, each player selects two characters respectively and face other as duos in tag team fighting matches, with the objective to knock out one of the members from the opposing team (deplete the opponent's health).</desc>
-		<image>./mixart/Alex Kidd in Miracle World DX.jpg</image>
-		<video>./snap/Alex Kidd in Miracle World DX.mp4</video>
-		<marquee>./wheel/Alex Kidd in Miracle World DX.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20211912T010000</releasedate>
-		<developer>Jankenteam</developer>
-		<publisher>Merge Games</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Circuit Superstars.lnk</path>
 		<name>Circuit Superstars</name>
 		<desc>Circuit Superstars is a top-down, physics driven racing game for PC and consoles. It combines arcade-style racing with more realistic tactile driving physics, which brings together a whole range of styles and eras of motorsport. From 60s-inspired single-seaters to modern GTs, Circuit Superstars will feature vehicles and tracks from various motorsport eras.</desc>
@@ -4222,5 +4131,208 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<publisher>Dangen Entertainment</publisher>
 		<genre>Adventure, Platform</genre>
 		<players>1</players>
+	</game>
+	<game>
+		<path>./Alex Kidd in Miracle World DX.lnk</path>
+		<name>Alex Kidd in Miracle World DX</name>
+		<desc>The game features characters from both the Street Fighter franchise and Namco's Tekken series. In the game, each player selects two characters respectively and face other as duos in tag team fighting matches, with the objective to knock out one of the members from the opposing team (deplete the opponent's health).</desc>
+		<image>./mixart/Alex Kidd in Miracle World DX.jpg</image>
+		<video>./snap/Alex Kidd in Miracle World DX.mp4</video>
+		<marquee>./wheel/Alex Kidd in Miracle World DX.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20211912T010000</releasedate>
+		<developer>Jankenteam</developer>
+		<publisher>Merge Games</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Shadow Complex.lnk</path>
+		<name>Shadow Complex</name>
+		<desc>Powered by Unreal Engine technology, the “modern and masterful side-scroller” Shadow Complex became an instant classic when initially released in 2009, exclusively for Xbox 360. The fan favorite won more than 50 Game of the Year and Editor’s Choice Awards and was one of the most popular console games of the year. Shadow Complex Remastered features all the great content from the original game updated with exciting new enhancements and achievements.</desc>
+		<image>./mixart/Shadow.jpg</image>
+		<video>./snap/Shadow Complex.mp4</video>
+		<marquee>./wheel/shadow.png</marquee>
+		<rating>0</rating>
+		<releasedate>20160503T010000</releasedate>
+		<developer>chAIR Entertainment</developer>
+		<publisher>Epic Games</publisher>
+		<genre>Action</genre>
+		<md5>6aa376731b9bb2d15ebe0db8ec8fb12a</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Shadow Warrior Classic Redux.lnk</path>
+		<name>Shadow Warrior Classic Redux</name>
+		<desc>Shadow Warrior Classic Redux is a PC version of Shadow Warrior, released on GOG.com - Challenging Steam achievements for only the most skilled warriors.</desc>
+		<image>./mixart/Shadow Warrior Classic Redux.png</image>
+		<video>./snap/Shadow Warrior Classic Redux.mp4</video>
+		<marquee>./wheel/Shadow Warrior Classic Redux.png</marquee>
+		<rating>3.27</rating>
+		<releasedate>20130708T000000</releasedate>
+		<developer>3D Realms, General Arcade, Level Infinity, Sunstorm Interactive, Wylde Productions</developer>
+		<publisher>Devolver Digital, GT Interactive</publisher>
+		<genre>Action, Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Shadowrun Returns.lnk</path>
+		<name>Shadowrun Returns</name>
+		<desc>Shadowrun Returns is a turn-based role-playing game with a skill based character progression system. You create your basic character and build the character based on your own needs during the game play, adding in the skills fit the most in your gamestyle. Combat is done with tactical, turn-based style, allowing you to take an advantage of your team skills as well as the surroundings of the battle. The game is played from an isometric view. The game world is created in a hand-painted style while the characters are in 3D.</desc>
+		<image>./mixart/Shadowrun Returns.png</image>
+		<video>./snap/Shadowrun Returns.mp4</video>
+		<marquee>./wheel/Shadowrun Returns.png</marquee>
+		<rating>3.88</rating>
+		<releasedate>20130725T000000</releasedate>
+		<developer>Harebrained Schemes</developer>
+		<publisher>Harebrained Schemes</publisher>
+		<genre>Role-Playing</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Real Boxing.lnk</path>
+		<name>Real Boxing</name>
+		<desc>The game is set to bring you the most exhilarating and true-to-life boxing simulation in existence. Featuring ultra-realistic motion capture from real boxers plus amazing graphics created with the powerful Unreal Engine, you’ll feel every hook, jab, and uppercut, with visible body damage and facial emotions appearing on boxer’s faces during matches.</desc>
+		<image>./mixart/Real Boxing.jpg</image>
+		<video>./snap/Real Boxing.mp4</video>
+		<marquee>./wheel/Real Boxing.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20121201T000000</releasedate>
+		<developer>Vivid Games</developer>
+		<publisher>Vivid Games</publisher>
+		<genre>Fighting, Sports</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./AGS - King Quest I.lnk</path>
+		<name>AGS - King Quest I</name>
+		<desc>Fandmade remake of King Quest I using Adventure Gaming Studio engine. - AGD Interactive Ultimate Remake of King's Quest I: A dying King Edward entrusts his finest knight to seek the Three Lost Treasures of Daventry.</desc>
+		<image>./mixart/AGS - King Quest I.png</image>
+		<video>./snap/AGS - King Quest I.mp4</video>
+		<marquee>./wheel/AGS - King Quest I.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20010430T000000</releasedate>
+		<developer>AGD Interactive</developer>
+		<publisher>Fanmade</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Alwa's Awakening.lnk</path>
+		<name>Alwa's Awakening</name>
+		<desc>In Alwa's Awakening you play as Zoe, a heroine sent from another world to bring peace to the land of Alwa. Equipped only with a magic staff she awakens in a distant land and must set out to help the people. Traverse dangerous dungeons, meet interesting and fun characters and explore the world in this 8-bit adventure game. Just like the old classics you won't have a flashing arrow telling you exactly where to go and what to do next. Instead you are free to find your own way and by using your magic staff you can progress through the over 400 unique challenging rooms in the game.</desc>
+		<image>./mixart/Alwa's Awakening.png</image>
+		<video>./snap/Alwa's Awakening.mp4</video>
+		<marquee>./wheel/Alwa's Awakening.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20170202T000000</releasedate>
+		<developer>Elden Pixels</developer>
+		<publisher>Elden Pixels</publisher>
+		<genre>Platform, Puzzle</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Alwa's Legacy.lnk</path>
+		<name>Alwa's Legacy</name>
+		<desc>Alwa’s Legacy is a modern retro game full of dangerous dungeons, magical items and ancient secrets. By upgrading your magic, any way forward is right in this non-linear adventure game full of exploration.</desc>
+		<image>./mixart/Alwa's Legacy.jpg</image>
+		<video>./snap/Alwa's Legacy.mp4</video>
+		<marquee>./wheel/Alwa's Legacy.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20200202T000000</releasedate>
+		<developer>Elden Pixels</developer>
+		<publisher>Elden Pixels</publisher>
+		<genre>Platform, Puzzle</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Guns, Gore and Cannoli 2.lnk</path>
+		<name>Guns, Gore and Cannoli 2</name>
+		<desc>Welcome to the 1940’s. Europe is being torn apart by the war, the USA is preparing for battle and the mob does business as usual. Only this time they went too far, even for Vinnie’s standards. Prepare yourself to go to war after you make a shocking discovery about what actually happened during the end-stage of the Thugtown Massacre from Guns, Gore and Cannoli 1.</desc>
+		<image>./mixart/Guns, Gore and Cannoli 2.png</image>
+		<video>./snap/Guns, Gore and Cannoli 2.mp4</video>
+		<marquee>./wheel/Guns, Gore and Cannoli 2.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Claeys Brothers, Rogueside</developer>
+		<publisher>Rogueside</publisher>
+		<genre>Action, Platform, Shooter</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Hollow Knight Godmaster.lnk</path>
+		<name>Hollow Knight Godmaster</name>
+		<desc>Forge your own path in Hollow Knight! An epic action adventure through a vast ruined kingdom of insects and heroes. Explore twisting caverns, battle tainted creatures and befriend bizarre bugs, all in a classic, hand-drawn 2D style. Brave the Depths of a Forgotten Kingdom Beneath the fading town of Dirtmouth sleeps an ancient, ruined kingdom. Many are drawn below the surface, searching for riches, or glory, or answers to old secrets.</desc>
+		<image>./mixart/Hollow Knight Godmaster.png</image>
+		<video>./snap/Hollow Knight Godmaster.mp4</video>
+		<marquee>./wheel/Hollow Knight Godmaster.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20170224T000000</releasedate>
+		<developer>Team Cherry</developer>
+		<publisher>Team Cherry</publisher>
+		<genre>Action, Adventure, Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Iconoclasts.lnk</path>
+		<name>Iconoclasts</name>
+		<desc>Robin just wants to be a mechanic and help people, but without a license she’s a sinner in Mother’s eyes. Ever since picking up her wrench, the world has been going nuts and she's wanted to bolt it back together. Now Penance is raining down on everyone she loves and One Concern agents are after her. But something big is going on – bigger than droughts of Ivory fuel and personal conflicts – and Robin’s in the thick of it.</desc>
+		<image>./mixart/Iconoclasts.png</image>
+		<video>./snap/Iconoclasts.mp4</video>
+		<marquee>./wheel/Iconoclasts.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20180123T000000</releasedate>
+		<developer>Joakim Sandberg</developer>
+		<publisher>Bifrost Entertainment, DANGEN Entertainment</publisher>
+		<genre>Action, Adventure, Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Katana ZERO.lnk</path>
+		<name>Katana ZERO</name>
+		<desc>Katana ZERO is a stylish neo-noir, action-platformer featuring breakneck action and instant-death combat. Slash, dash, and manipulate time to unravel your past in a beautifully brutal acrobatic display. </desc>
+		<image>./mixart/Katana ZERO.png</image>
+		<video>./snap/Katana ZERO.mp4</video>
+		<marquee>./wheel/Katana ZERO.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20190418T000000</releasedate>
+		<developer>Askiisoft</developer>
+		<publisher>Devolver Digital</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Runner3.lnk</path>
+		<name>Runner3</name>
+		<desc>Runner3 is a rhythm platformer video game developed by Choice Provisions. A sequel to Bit.Trip Presents... Runner2: Future Legend of Rhythm Alien, Runner3 is part of the Bit.Trip series, starring the character CommanderVideo.</desc>
+		<image>./mixart/Runner3.png</image>
+		<video>./snap/Runner3.mp4</video>
+		<marquee>./wheel/Runner3.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20180522T000000</releasedate>
+		<developer>Choice Provisions</developer>
+		<publisher>Nicalis</publisher>
+		<genre>	Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Spelunky 2.lnk</path>
+		<name>Spelunky 2</name>
+		<desc>Spelunky 2 builds upon the unique, randomized challenges that made the original a roguelike classic, offering a huge adventure designed to satisfy players old and new. Meet the next generation of explorers as they find themselves on the Moon, searching for treasure and missing family.</desc>
+		<image>./mixart/Spelunky 2.png</image>
+		<video>./snap/Spelunky 2.mp4</video>
+		<marquee>./wheel/Spelunky 2.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20200929T000000</releasedate>
+		<developer>Blitworks, Mossmouth</developer>
+		<publisher>Mossmouth</publisher>
+		<genre>Platform</genre>
+		<players>4</players>
 	</game>
 </gameList>
