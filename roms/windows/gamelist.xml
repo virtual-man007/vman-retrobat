@@ -4337,4 +4337,153 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<players>4</players>
 		<favorite>true</favorite>
 	</game>
+	<game>
+		<path>./Wonder Boy - Asha in Monster World.lnk</path>
+		<name>Wonder Boy - Asha in Monster World</name>
+		<desc>Asha, the warrior protagonist of the game, is involved in a serious incident that will affect the survival of her world. Our green-haired heroine doesn’t have to save the world all alone, and sets off on an adventure with her cute flying friend, the blue Pepelogoo. Asha and the Pepelogoo have to work together to become the heroes the world needs them to be. The road ahead is long - but will they be able to save their world?</desc>
+		<image>./mixart/Wonder Boy - Asha in Monster World.png</image>
+		<video>./snap/Wonder Boy - Asha in Monster World.mp4</video>
+		<marquee>./wheel/Wonder Boy - Asha in Monster World.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20210929T000000</releasedate>
+		<developer>Monkeycraft</developer>
+		<publisher>G Choice</publisher>
+		<genre>Adventure, Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Wave Break.lnk</path>
+		<name>Wave Break</name>
+		<desc>Play with friends or compete online via split-screen local couch co-op and ranked online multiplayer in Trick Attack, Deathmatch and Turf War modes. Then, it’s skateBOAT or die in campaign mode as the rivalry between Wave Break’s usual suspects plays out in an episodic storyline involving guns, kickflips, and blood money. Trick out your ride and get new threads too via unlocked skills and items that’ll have you shredding Wave Break in style. From tropical beaches to frozen tundras, experience skate parks in a brand new way with a dynamic and high-tech physically-based fluid simulation. Vibe out to Wave Break’s fresh synthwave soundtrack produced by Crush Music, which will evolve and update periodically with new pack-sized EP drops, pop-up radio shows, and other creative integrations.</desc>
+		<image>./mixart/Wave Break.jpg</image>
+		<video>./snap/Wave Break.mp4</video>
+		<marquee>./wheel/Wave Break.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20210929T000000</releasedate>
+		<developer>Funktronic Labs</developer>
+		<publisher>Funktronic Labs</publisher>
+		<genre>Action, Racing</genre>
+		<players>8</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Curved Space.lnk</path>
+		<name>Curved Space</name>
+		<desc>Test your skills in Curved Space, a unique take on the classic twin stick shoot 'em up. Curved Space is an intense arcade-style twin-stick shooter that takes the classic formula and plunges it into the weirdest reaches of space.</desc>
+		<image>./mixart/Curved Space.jpg</image>
+		<video>./snap/Curved Space.mp4</video>
+		<marquee>./wheel/Curved Space.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20210929T000000</releasedate>
+		<developer>Only By Midnight</developer>
+		<publisher>Maximum Games</publisher>
+		<genre>Shoot 'Em Up</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Bombshell.lnk</path>
+		<name>Bombshell</name>
+		<desc>From the creators of 2013's Rise of the Triad and legendary game maker 3D Realms comes Bombshell, an isometric action role-playing game for PC and consoles. Bomb disposal technician turned mercenary for hire, Shelly "Bombshell" Harrison must strong-arm her way across 4 planets in an Unreal Engine-powered galactic adventure to rescue the president from an apocalyptic alien threat. With out-of-this-world enemies, a never-before-seen arsenal of devastating weaponry and a host of genre-crossing mechanics, Bombshell is set to blow you away. Brilliantly brutal isometric shooting layered with classic role-playing mechanics, including experience points, upgrades, side quests, and non-linear levels. All with a twist of first-person shooter mechanics. Shell, shock, and shatter your way through vicious, bloodthirsty predators, an augmented alien species, and the remnants of an ancient race re-animated, with more than 10 weaponized arm modifications. Fierce finishing moves and interactive environments make Bombshell as dynamic as she is deadly.</desc>
+		<image>./mixart/Bombshell.jpg</image>
+		<video>./snap/Bombshell.mp4</video>
+		<marquee>./wheel/Bombshell.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20160929T000000</releasedate>
+		<developer>Interceptor Entertainment</developer>
+		<publisher>3D Realms</publisher>
+		<genre>Action, Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Aluna - Sentinel of the Shards.lnk</path>
+		<name>Aluna - Sentinel of the Shards</name>
+		<desc>16th Century Spain, a time where superstition, mysticism and fear of the unknown gave life to a path that went beyond the land of its birth. We meet our heroine Aluna, who struggles with the truth of who she really is and the powers of a SHARD she was given at birth by her mother Pachamama, Goddess of Earth.</desc>
+		<image>./mixart/Aluna - Sentinel of the Shards.jpg</image>
+		<video>./snap/Aluna - Sentinel of the Shards.mp4</video>
+		<marquee>./wheel/Aluna - Sentinel of the Shards.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20210929T000000</releasedate>
+		<developer>N-Fusion</developer>
+		<publisher>Digiart Interactive</publisher>
+		<genre>Action, RPG</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Shadowgrounds.lnk</path>
+		<name>Shadowgrounds</name>
+		<desc>Shadowgrounds breathes fresh air into the action genre with explosive combat sequences, an innovative weapon upgrade system, and an intriguing storyline. The adrenaline-pumping, top-down gameplay and audiovisual fireworks set the scene for this new action experience which also includes single computer (split keyboard or joystick) co-op play.</desc>
+		<image>./mixart/Shadowgrounds.jpg</image>
+		<video>./snap/Shadowgrounds.mp4</video>
+		<marquee>./wheel/Shadowgrounds.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20050929T000000</releasedate>
+		<developer>Frozenbyte</developer>
+		<publisher>Meridian4</publisher>
+		<genre>Shooter</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Shadowgrounds Survivor.lnk</path>
+		<name>Shadowgrounds Survivor</name>
+		<desc>The award-winning atmosphere and gameplay mechanics of the original Shadowgrounds make a triumphant return in this spin off/sequel armed with a slick new feature set. Shadowgrounds Survivor tells the story of the last remaining humans on Jupiter's moon Ganymede, where the alien onslaught is in full force.</desc>
+		<image>./mixart/Shadowgrounds Survivor.jpg</image>
+		<video>./snap/Shadowgrounds Survivor.mp4</video>
+		<marquee>./wheel/Shadowgrounds Survivor.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20070929T000000</releasedate>
+		<developer>Frozenbyte</developer>
+		<publisher>Frozenbyte</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Super Toy Cars 2.lnk</path>
+		<name>Super Toy Cars 2</name>
+		<desc>Super Toy Cars 2 is a fast paced arcade racing game where you control miniature cars that speed through amazing tracks made of supersized everyday objects. In Super Toy Cars 2 you will race cool toy cars, alone or with friends, across crazy table top tracks made of everyday objects that take on a new dimension. In this world a sausage is the size of a bus, a burger is the size of a small swimming pool and you may encounter dangerous toy scissors cutting their way through the middle of the track. Outrace your opponents… or crush them to scrap! You can fight them up close or use one of the many power-ups scattered throughout the race. In the end this game is sure to do one thing for you: revive that crazy larger than life feeling of playing with toy cars when you were a kid. A gamepad is required to play Super Toy Cars 2 local multiplayer games.</desc>
+		<image>./mixart/Super Toy Cars 2.jpg</image>
+		<video>./snap/Super Toy Cars 2.mp4</video>
+		<marquee>./wheel/Super Toy Cars 2.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20200929T000000</releasedate>
+		<developer>Eclipse Games</developer>
+		<publisher>Eclipse Games</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Agent Intercept.lnk</path>
+		<name>Agent Intercept</name>
+		<desc>Agent Intercept. Agent Intercept. Leap into the driver's seat of an epic narrative of intrigue, betrayal, and unbelievable set-pieces. Stop the nefarious criminal organization CLAW and save the world from total destruction in your slick, souped-up, transforming vehicle.</desc>
+		<image>./mixart/Agent Intercept.jpg</image>
+		<video>./snap/Agent Intercept.mp4</video>
+		<marquee>./wheel/Agent Intercept.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20210929T000000</releasedate>
+		<developer>PikPok</developer>
+		<publisher>PikPok</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Guilty Gear Strive.lnk</path>
+		<name>Guilty Gear Strive</name>
+		<desc>Discover the Smell of the Game with Guilty Gear -Strive-! Immerse yourself in new gameplay mechanics designed to be simple and welcoming for fighting game newcomers, yet deep and creative for veterans. Ride the Fire into a heavy metal inspired alternate future full of over-the-top action, style and fun! Blazing! “Guilty Gear -Strive-“ is the latest entry in the critically acclaimed Guilty Gear fighting game franchise. Created by Daisuke Ishiwatari and developed by Arc System Works, “Guilty Gear -Strive-“ upholds the series’ reputation for a high octane soundtrack, groundbreaking hybrid 2D/3D cell-shaded graphics and intense, rewarding gameplay.</desc>
+		<image>./mixart/Guilty Gear Strive.jpg</image>
+		<video>./snap/Guilty Gear Strive.mp4</video>
+		<marquee>./wheel/Guilty Gear Strive.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20210929T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>Arc System Works</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
 </gameList>
