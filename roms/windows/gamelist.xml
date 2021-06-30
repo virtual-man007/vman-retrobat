@@ -4424,7 +4424,6 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<publisher>Meridian4</publisher>
 		<genre>Shooter</genre>
 		<players>4</players>
-		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Shadowgrounds Survivor.lnk</path>
@@ -4439,7 +4438,6 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<publisher>Frozenbyte</publisher>
 		<genre>Shooter</genre>
 		<players>2</players>
-		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Super Toy Cars 2.lnk</path>
@@ -4483,6 +4481,51 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<developer>Arc System Works</developer>
 		<publisher>Arc System Works</publisher>
 		<genre>Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Alien Breed - Impact.lnk</path>
+		<name>Alien Breed - Impact</name>
+		<desc>Alien Breed™ Impact is an explosive science fiction arcade-shooter that resurrects a much revered franchise with an epic story, swarms of highly intelligent alien enemies, high-impact weapons, highly detailed and rich environments; all implemented with superb technology in a state-of-the-art gaming experience. In addition to the thrilling single-player campaign mode, the game also offers a relentless, action-packed, online two-player co-operative battle mode.</desc>
+		<image>./mixart/Alien Breed - Impact.jpg</image>
+		<video>./snap/Alien Breed - Evolution.mp4</video>
+		<marquee>./wheel/Alien Breed - Impact.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20100929T000000</releasedate>
+		<developer>Team17</developer>
+		<publisher>Team17</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Alien Breed 2 - Assault.lnk</path>
+		<name>Alien Breed 2 - Assault</name>
+		<desc>Can you survive the alien onslaught? Alien Breed 2: Assault is the second chapter in the Alien Breed series, and is an explosive science-fiction arcade-shooter with an epic story, swarms of highly intelligent alien enemies, high-impact weaponry, highly detailed and rich environments, developed using Epic Games' Unreal Engine 3. Take control of the hero, Conrad, the ship’s Chief Engineer, and continue your fight for survival across the fatally damaged space vessel, against a ruthless assault by an alien horde. Your only hope relies on reigniting the alien space craft’s monstrous engines to rescue you from impending annihilation. Deep inside the bowels of the unfamiliar craft, and with time rapidly running out, ready your weapons and begin to claw your way through the darkness in a fight for survival. But you are not alone. The ship is home to the carnivorous alien horde and something else... something yet to reveal its true intentions... something biding its time. In addition to the thrilling single-player campaign and all new “survivor” modes, the game also offers relentless, action-packed, two-player online co-operative battle modes.</desc>
+		<image>./mixart/Alien Breed 2 - Assault.jpg</image>
+		<video>./snap/Alien Breed - Evolution.mp4</video>
+		<marquee>./wheel/Alien Breed 2 - Assault.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20100929T000000</releasedate>
+		<developer>Team17</developer>
+		<publisher>Team17</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Alien Breed 3 - Descent.lnk</path>
+		<name>Alien Breed 3 - Descent</name>
+		<desc>The award-winning atmosphere and gameplay mechanics of the original Shadowgrounds make a triumphant return in this spin off/sequel armed with a slick new feature set. Shadowgrounds Survivor tells the story of the last remaining humans on Jupiter's moon Ganymede, where the alien onslaught is in full force.</desc>
+		<image>./mixart/Alien Breed 3 - Descent.jpg</image>
+		<video>./snap/Alien Breed - Evolution.mp4</video>
+		<marquee>./wheel/Alien Breed 3 - Descent.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20100929T000000</releasedate>
+		<developer>Team17</developer>
+		<publisher>Team17</publisher>
+		<genre>Shooter</genre>
 		<players>2</players>
 		<favorite>true</favorite>
 	</game>
