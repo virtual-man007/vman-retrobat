@@ -33326,4 +33326,26 @@ Double Dragon was a huge success due to the many game-play innovations it brough
 		<lang>en</lang>
 		<region>us</region>
 	</game>
+	<game id="40733" source="ScreenScraper.fr">
+		<path>./crusnusa.zip</path>
+		<name>Cruis'n Usa</name>
+		<desc>Designed by the legendary Eugene Jarvis (creator of, among other things, "Robotron" and "Defender"), Cruis'n USA is a point-to-point racing game featuring fourteen separate courses set in a number of different US locations. 
+ 
+Each race takes place against nine other rival cars. In addition to the player's opponents, the roads are packed with civilian traffic that must be avoided. Any collision with either other vehicles or with trackside objects will result in lost time as the player races against both the clock and the nine rival racers. On many tracks, collisions can be avoided by driving off-road, although this has as inverse effect on both handling and speed. 
+ 
+The in-game physics are skewed entirely toward arcade-style handling. The aforementioned collisions have vehicles bouncing and spinning as though made of rubber, before righting themselves back on the track.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/crusnusa.png</image>
+		<video>./snap/crusnusa.mp4</video>
+		<marquee>./wheel/crusnusa.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<genreid>1537</genreid>
+	</game>
 </gameList>
