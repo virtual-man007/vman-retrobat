@@ -281,23 +281,6 @@ The newest feature of this game (other than the much better graphics) is the onl
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game>
-		<path>./Contra - Shattered Soldier (USA).gz</path>
-		<name>Contra : Shattered Soldier</name>
-		<desc>Making its debut in the arcades in 1987 and, more pervasively, on the NES in 1988, the long-running Contra series continues with Contra: Shattered Soldier for the PlayStation 2. The game maintains its old-school, 2D platforming roots, but is enhanced with 3D polygonal models and unlockable endings and levels based on player performance (such as percentage of enemies killed).</desc>
-		<image>./mixart/Contra - Shattered Soldier (USA).png</image>
-		<video>./snap/Contra - Shattered Soldier (USA).mp4</video>
-		<marquee>./wheel/Contra - Shattered Soldier (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20030214T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Shoot'em Up-Shoot'em up / Horizontal</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="22923" source="ScreenScraper.fr">
 		<path>./Freekstyle (USA).gz</path>
 		<name>Freekstyle</name>
@@ -7266,5 +7249,22 @@ To make things much easier there are nine different power-ups and weapons scatte
 		<genre>Action-Race, Driving</genre>
 		<players>4</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Contra - Shattered Soldier (USA).gz</path>
+		<name>Contra : Shattered Soldier</name>
+		<desc>Making its debut in the arcades in 1987 and, more pervasively, on the NES in 1988, the long-running Contra series continues with Contra: Shattered Soldier for the PlayStation 2. The game maintains its old-school, 2D platforming roots, but is enhanced with 3D polygonal models and unlockable endings and levels based on player performance (such as percentage of enemies killed).</desc>
+		<image>./mixart/Contra - Shattered Soldier (USA).png</image>
+		<video>./snap/Contra - Shattered Soldier (USA).mp4</video>
+		<marquee>./wheel/Contra - Shattered Soldier (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20030214T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em Up-Shoot'em up / Horizontal</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

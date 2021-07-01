@@ -304,20 +304,6 @@
 		<region>us</region>
 	</game>
 	<game>
-		<path>./Demonstration Cartridge 2 (USA).zip</path>
-		<name>Demonstration Cartridge 2</name>
-		<image>./mixart/Demonstration Cartridge 2 (USA).png</image>
-		<video>./snap/Demonstration Cartridge 2 (USA).mp4</video>
-		<marquee>./wheel/Demonstration Cartridge (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>19770101T000000</releasedate>
-		<developer>Fairlight</developer>
-		<publisher>Fairlight</publisher>
-		<genre>Demo</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./Hangman (USA).zip</path>
 		<name>Videocart-18: Hangman</name>
 		<desc>This game lets the player play the classic game of Hangman, in which the player is given an unknown word of a certain length and has to guess the correct letters that are contained in the unknown word. The player is only allowed a certain number of turns in which to guess these correct letters. Every incorrect guess will add a body part to a drawing of a man being hanged at the gallows. Once all the man's body parts are drawn from several incorrect guesses, he is hanged and the player loses.  The game contains 64 game variations of this basic premise for either 1 or 2 players, with or without a score. Variations include having the computer come up with a word to guess, have a player come up with a word for another player to solve, free letter which gives the player one of the letters in the word to help them get started, a variation where the game will tell the player they guessed the right letter but will not say where it belongs in a word, a version where the player is not told how long the word trying to be solved is, a version where the player has to guess the correct letter plus place it correctly where it belongs in a word, and a variation where the player has to solve an anagram.</desc>
@@ -418,6 +404,20 @@
 		<name>Demonstration Cartridge</name>
 		<image>./mixart/Demonstration Cartridge (USA).png</image>
 		<video>./snap/Demonstration Cartridge (USA).mp4</video>
+		<marquee>./wheel/Demonstration Cartridge (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Demo</genre>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Demonstration Cartridge 2 (USA).zip</path>
+		<name>Demonstration Cartridge 2</name>
+		<image>./mixart/Demonstration Cartridge 2 (USA).png</image>
+		<video>./snap/Demonstration Cartridge 2 (USA).mp4</video>
 		<marquee>./wheel/Demonstration Cartridge (USA).png</marquee>
 		<rating>0</rating>
 		<releasedate>19770101T000000</releasedate>

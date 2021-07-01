@@ -2002,22 +2002,6 @@ The plot is identical to the film, with levels based off of, or inspired by, sce
 		<marquee>./wheel/Clue (USA).png</marquee>
 		<video>./snap/Clue (USA).mp4</video>
 	</game>
-	<game id="1035" source="ScreenScraper.fr">
-		<path>./Coach K College Basketball (USA).7z</path>
-		<name>Coach K College Basketball</name>
-		<desc>Mike Krzyzewski, the lifetime coach of the Duke University basketball team, endorses this NCAA-licensed spin-off from the NBA Live engine. The game includes 32 NCAA teams (including K's own Duke Blue Devils and the 1994 NCAA Champions Arkansas Razorbacks), as well as eight classic teams, but the license does not include player names.
-
-There are three game modes: Season, Tournament (with three save slots for both) and Exhibition, and options follow the standard set from the NBA Live series. Gameplay also remains unchanged, with the typical three basic actions (fast running/steal, pass and shoot/block for A, B and C buttons) and the ability to call moves on the fly by pressing one of the buttons along Start (three or six moves can be set, depending on the joypad used).</desc>
-		<rating>0.65</rating>
-		<releasedate>19950201T000000</releasedate>
-		<developer>Electronic Arts Canada</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Sports / Basketball-Sports</genre>
-		<players>1-4</players>
-		<image>./mixart/Coach K College Basketball (USA).png</image>
-		<marquee>./wheel/Coach K College Basketball (USA).png</marquee>
-		<video>./snap/Coach K College Basketball (USA).mp4</video>
-	</game>
 	<game id="712" source="ScreenScraper.fr">
 		<path>./College Football USA 96 (USA).7z</path>
 		<name>College Football USA 96</name>
@@ -13352,6 +13336,22 @@ There are changes in both graphics (characters now are bigger, more detailed and
 		<publisher>Acclaim Entertainment</publisher>
 		<genre>Fight-Action</genre>
 		<players>2</players>
+	</game>
+	<game id="1035" source="ScreenScraper.fr">
+		<path>./Coach K College Basketball (USA).7z</path>
+		<name>Coach K College Basketball</name>
+		<desc>Mike Krzyzewski, the lifetime coach of the Duke University basketball team, endorses this NCAA-licensed spin-off from the NBA Live engine. The game includes 32 NCAA teams (including K's own Duke Blue Devils and the 1994 NCAA Champions Arkansas Razorbacks), as well as eight classic teams, but the license does not include player names.
+
+There are three game modes: Season, Tournament (with three save slots for both) and Exhibition, and options follow the standard set from the NBA Live series. Gameplay also remains unchanged, with the typical three basic actions (fast running/steal, pass and shoot/block for A, B and C buttons) and the ability to call moves on the fly by pressing one of the buttons along Start (three or six moves can be set, depending on the joypad used).</desc>
+		<image>./mixart/Coach K College Basketball (USA).png</image>
+		<video>./snap/Coach K College Basketball (USA).mp4</video>
+		<marquee>./wheel/Coach K College Basketball (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19950201T000000</releasedate>
+		<developer>Electronic Arts Canada</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports / Basketball-Sports</genre>
+		<players>4</players>
 	</game>
 	<game>
 		<path>./Fix It Felix Jr.7z</path>

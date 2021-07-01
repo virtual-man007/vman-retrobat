@@ -5048,23 +5048,6 @@
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Crime Wave (USA).chd</path>
-		<name>Crimewave</name>
-		<desc>Crimewave is a fast and frantic driving-based shoot-em-up. You will need first class driving and combat skills coupled with razor-sharp reflexes to enjoy features which include: Eight high-powered vehicles; Eight battle zones; A vast array of High destruction weaponry; Single player and split-screen action.</desc>
-		<image>./mixart/Crime Wave (USA).png</image>
-		<video>./snap/Crime Wave (USA).mp4</video>
-		<marquee>./wheel/Crime Wave (USA).png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19961108T000000</releasedate>
-		<developer>Eidos Interactive</developer>
-		<publisher>Virgin</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./Sega Rally Championship (USA).chd</path>
 		<name>Sega Rally Championship</name>
 		<desc>Sega Rally was a major success in the arcades, bringing rally-style racing to the masses before the Colin McRae games. Four detailed tracks have been created, with a succession of stomach-churning bends and jumps, and you can choose from 3 different cars. As well as the main championship, there is a time-trial mode featuring a ghost car to beat, so you always know how your run compares with your best-ever. Two machines can be linked for multi-player action. The handling of the cars is unrealistic, to put the focus on action and instant playability.</desc>
@@ -5075,6 +5058,23 @@
 		<releasedate>19951228T000000</releasedate>
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Crime Wave (USA).chd</path>
+		<name>Crimewave</name>
+		<desc>Crimewave is a fast and frantic driving-based shoot-em-up. You will need first class driving and combat skills coupled with razor-sharp reflexes to enjoy features which include: Eight high-powered vehicles; Eight battle zones; A vast array of High destruction weaponry; Single player and split-screen action.</desc>
+		<image>./mixart/Crime Wave (USA).png</image>
+		<video>./snap/Crime Wave (USA).mp4</video>
+		<marquee>./wheel/Crime Wave (USA).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19961108T000000</releasedate>
+		<developer>Eidos Interactive</developer>
+		<publisher>Virgin</publisher>
 		<genre>Race, Driving</genre>
 		<players>2</players>
 		<favorite>true</favorite>

@@ -3659,22 +3659,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Bruce Lee - Revenge of the Dragon.pak</path>
-		<name>Bruce Lee Revenge of the Dragon</name>
-		<desc>Based on Bruce Lee's movies. It uses modded Street Fighter Alpha characters and many others. It also uses music taken from Bruce Lee movies.</desc>
-		<image>./mixart/Bruce Lee - Revenge of the Dragon.png</image>
-		<video>./snap/Bruce Lee - Revenge of the Dragon.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./A Tale of Vengeance.pak</path>
 		<name>A Tale of Vengeance</name>
 		<desc>A 2D fighting forces with all great characeters from A Tale of Vengeance</desc>
@@ -3804,6 +3788,22 @@
 		<video>./snap/Retro Gamer Adventure [Ver. 1.0.3][v.3.0 Build 405X].mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
 		<rating>4</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Bruce Lee - Revenge of the Dragon.pak</path>
+		<name>Bruce Lee Revenge of the Dragon</name>
+		<desc>Based on Bruce Lee's movies. It uses modded Street Fighter Alpha characters and many others. It also uses music taken from Bruce Lee movies.</desc>
+		<image>./mixart/Bruce Lee - Revenge of the Dragon.png</image>
+		<video>./snap/Bruce Lee - Revenge of the Dragon.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4.8</rating>
 		<releasedate>2016</releasedate>
 		<developer>OpenBOR</developer>
 		<publisher>OpenBOR</publisher>

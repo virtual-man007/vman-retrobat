@@ -4108,21 +4108,6 @@ Join Rana, Captain Bluebell and Mr Yoho as they deal outsky-pirate justice! Make
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Angry Birds.cso</path>
-		<name>Angry Birds</name>
-		<desc>The survival of the Angry Birds is at stake. Dish out revenge on the green pigs who stole the Birds' eggs. Use the unique destructive powers of the Angry Birds to lay waste to the pigs' fortified castles. Angry Birds features hours of gameplay, challenging physics-based castle demolition, and lots of replay value. Each of the 63 levels requires logic, skill, and brute force to crush the enemy.</desc>
-		<image>./mixart/Angry Birds.png</image>
-		<video>./snap/Angry Birds.mp4</video>
-		<marquee>./wheel/Angry Birds.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20110112T000000</releasedate>
-		<developer>Rovio Mobile</developer>
-		<publisher>Chillingo</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Pac-Man Championship Edition.cso</path>
 		<name>Pac-man Championship Edition</name>
 		<desc>Pac-Man Championship Edition is similar in basic gameplay to the original 1980 Pac-Man: players have to eat dots, while avoiding the four ghosts that roam around the maze. Championship Edition, however, also brings many gameplay differences. 
@@ -4137,5 +4122,20 @@ The game was designed by the creator of the classic original 1980 arcade game Pa
 		<publisher>Bandai Namco</publisher>
 		<genre>Action-Action / Labyrinth-Various</genre>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Angry Birds.cso</path>
+		<name>Angry Birds</name>
+		<desc>The survival of the Angry Birds is at stake. Dish out revenge on the green pigs who stole the Birds' eggs. Use the unique destructive powers of the Angry Birds to lay waste to the pigs' fortified castles. Angry Birds features hours of gameplay, challenging physics-based castle demolition, and lots of replay value. Each of the 63 levels requires logic, skill, and brute force to crush the enemy.</desc>
+		<image>./mixart/Angry Birds.png</image>
+		<video>./snap/Angry Birds.mp4</video>
+		<marquee>./wheel/Angry Birds.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20110112T000000</releasedate>
+		<developer>Rovio Mobile</developer>
+		<publisher>Chillingo</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

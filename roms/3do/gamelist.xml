@@ -1646,22 +1646,6 @@
 		<region>jp</region>
 	</game>
 	<game>
-		<path>./BattleSport (Europe).chd</path>
-		<name>Battlesport</name>
-		<desc>Battlesport simulates the sport of the future. Choose your vehicle and enter the arena to face your computer opponents to see who scores the most goals before the clock runs out.    Scoring isn't easy. The ball constantly bounces over the arena, retrieved by a player constantly bombarded by opponents. A variety of weapons are available to shoot your competitor, and anyone that takes a hit while carrying the ball loses possession, sending the ball bouncing across the arena. Taking too many shots results in a temporary inability to take part in the action while your opponent happily scores goals.    Winning matches increases standing in the rankings and the acquisition of cash to purchase a better vehicle and enhanced offensive or defensive items.</desc>
-		<image>./mixart/BattleSport (Europe).png</image>
-		<video>./snap/BattleSport (Europe).mp4</video>
-		<marquee>./wheel/BattleSport (Europe).png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Cyclone Studios</developer>
-		<publisher>Panasonic</publisher>
-		<genre>Sports</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>eu</region>
-	</game>
-	<game>
 		<path>./Captain Quazar (USA).chd</path>
 		<name>Captain Quazar</name>
 		<desc>The idea behind Captain Quazar is simple, from a 3/4 overhead view control the Captain, kill the bad guys and save the day. Everything in this huge galaxy can be blown away, but be careful where you lay waste, because you have to manage your resources to survive.</desc>
@@ -1690,5 +1674,21 @@
 		<genre>Race, Driving</genre>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./BattleSport (Europe).chd</path>
+		<name>Battlesport</name>
+		<desc>Battlesport simulates the sport of the future. Choose your vehicle and enter the arena to face your computer opponents to see who scores the most goals before the clock runs out.    Scoring isn't easy. The ball constantly bounces over the arena, retrieved by a player constantly bombarded by opponents. A variety of weapons are available to shoot your competitor, and anyone that takes a hit while carrying the ball loses possession, sending the ball bouncing across the arena. Taking too many shots results in a temporary inability to take part in the action while your opponent happily scores goals.    Winning matches increases standing in the rankings and the acquisition of cash to purchase a better vehicle and enhanced offensive or defensive items.</desc>
+		<image>./mixart/BattleSport (Europe).png</image>
+		<video>./snap/BattleSport (Europe).mp4</video>
+		<marquee>./wheel/BattleSport (Europe).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Cyclone Studios</developer>
+		<publisher>Panasonic</publisher>
+		<genre>Sports</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>eu</region>
 	</game>
 </gameList>

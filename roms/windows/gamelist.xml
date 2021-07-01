@@ -706,21 +706,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Bloodstained - Ritual of the Night.lnk</path>
-		<name>Bloodstained - Ritual of the Night</name>
-		<desc>Bloodstained: Ritual of the Night is a gothic horror action side-scrolling RPG set in 19th century England. A paranormal force has summoned a demon-infested castle, revealing crystal shards infused with tremendous magical power. Play as Miriam, an orphan scarred by an alchemist's curse which slowly crystallizes her body. To save humanity, and herself in the process, Miriam must fight through the castle and defeat the summoner, Gebel. Collect, craft and unlock a vast array of weapons, equipment and loot to defeat the countless minions and bosses of hell that await!</desc>
-		<image>./mixart/Bloodstained - Ritual of the Night.png</image>
-		<video>./snap/Bloodstained - Ritual of the Night.mp4</video>
-		<marquee>./wheel/Bloodstained - Ritual of the Night.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20191201T000000</releasedate>
-		<developer>ArtPlay</developer>
-		<publisher>505 Games</publisher>
-		<genre>Action, Adventure, Platform</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Half Life 2.lnk</path>
 		<name>Half Life 2</name>
 		<desc>At the start of the game, the G-Man speaks to Gordon Freeman in a hallucination-like vision as he pulls Gordon out of stasis and places him on a train going to City 17. When the train arrives, Gordon gets off and proceeds through the Combine's security checkpoints where he is detained by a civil protection officer. Once in an interrogation room, the officer reveals himself to be Freeman's former co-worker and colleague, Barney Calhoun who is working undercover, and helps Freeman to get to Dr. Isaac Kleiner's laboratory. After meeting Alyx Vance, Freeman is instructed by Kleiner to step into a makeshift teleporter so that he can be safely extracted to the anti-Combine resistance base Black Mesa East along with Alyx, headed by her father, Dr. Eli Vance. However, Kleiner's pet headcrab Lamarr disrupts the machine, and Freeman finds himself — after briefly appearing in several different locations — just outside Kleiner's lab. With the Combine now alerted to his presence, Freeman works his way through the drained canal system, avoiding enemy forces and using the help of human resistance fighters  to safely arrive at Black Mesa East.</desc>
@@ -971,21 +956,6 @@
 		<developer>Lazy Bear Games</developer>
 		<publisher>tinyBuild</publisher>
 		<genre>Fighting, Role-Playing, Strategy</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Rad Rodgers.lnk</path>
-		<name>Rad Rodgers</name>
-		<desc>Rad is a rambunctious but spirited young boy who maybe plays too many video games. After dozing off at the tail end of a long night of gaming, Rad awakens to find his dusty old console has turned itself back on. Suddenly a vortex emerges and he's sucked into his TV, where he finds himself the star in his very own video game adventure. Dusty is Rad's good-hearted but foul-mouthed, now-sentient game console. His clock speed isn't what it used to be, but what he lacks for in megahertz he makes up for with experience and attitude! Rad and Dusty's adventure begins in the First World, taking them through seven dangerous stages of action-packed, humor-filled, hardcore platforming fun. This decaying jungle world has been infected by a fierce corruption, and it's up to the unlikely buddy-duo Rad and Dusty to save the jungle's inhabitants and restore the Elder Tree as guardian of the land. Weapons: Dusty arms Rad with a variety of radical bad-ass weaponry. The Bolt Blaster has unlimited ammo, is easy to use, and more than enough firepower to get the job done. The Phoenix Cannon shoots out a fiery bird whose wingspan lights enemies ablaze as it flies by. There are 5+ weapons in this first chapter, with more to come. Sounds and Music: Our composer Andrew Hulshult combined his years of musical experience (both performing and writing) with his passion for retro-style gaming to create an amazing and authentic soundtrack for the game complete with MIDI-inspired music... And synthesizers! The Pixelverse: While Rad and Dusty are a great team, only Dusty can enter the electrified Pixelverse -- a dangerous spacetime-breaking region that exists behind the game world. Dusty enters the Pixelverse when necessary to repair glitches in the running game world, allowing both Rad and Dusty to continue their journey. Classic Easter Eggs: The game features hard-to-find collectibles in sometimes even harder-to-find classic secret rooms. Use your precision platforming skills to collect 'em all.</desc>
-		<image>./mixart/Rad Rodgers.png</image>
-		<video>./snap/Rad Rodgers.mp4</video>
-		<marquee>./wheel/Rad Rodgers.png</marquee>
-		<rating>4.6</rating>
-		<releasedate>20161201T000000</releasedate>
-		<developer>Interceptor Entertainment</developer>
-		<publisher>3D Realms</publisher>
-		<genre>Action, Adventure, Platform</genre>
 		<players>1</players>
 		<lang>en</lang>
 	</game>
@@ -2374,20 +2344,6 @@ Nothing beats the competitive feel of racing. Feel the thrill as you race past y
 		<players>1</players>
 	</game>
 	<game>
-		<path>./The Messenger.lnk</path>
-		<name>The Messenger</name>
-		<desc>As a demon army besieges his village, a young ninja ventures through a cursed world, to deliver a scroll paramount to his clan’s survival. What begins as a classic action platformer soon unravels into an expansive time-traveling adventure full of thrills, surprises, and humor. - Dynamic, acrobatic gameplay and ultra tight controls worthy of an epic ninja adventure. - Character upgrades, new abilities, hidden levels, and branching paths to discover. - Meticulously designed 8-bit and 16-bit sprites, animations, and backgrounds in the spirit of the classics. - A memorable cast of offbeat villains, bosses, and associates.</desc>
-		<image>./mixart/The Messenger.jpg</image>
-		<video>./snap/The Messenger.mp4</video>
-		<marquee>./wheel/The Messenger.png</marquee>
-		<rating>0.80</rating>
-		<releasedate>20180430T000000</releasedate>
-		<developer>Sabotage Studio</developer>
-		<publisher>Devolver Digital</publisher>
-		<genre>Action, Platform</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Fury Unleashed.lnk</path>
 		<name>Fury Unleashed</name>
 		<desc>Fury Unleashed is an action platformer where you shoot your way through the pages of an ever-changing comic book. Take advantage of unique combo system to unleash your fury and become a whirling tornado of destruction. Discover why your creator doubted in you and prove him wrong. MAIN FEATURES: - Comic book setting – Play through the pages of a living comic book with Metal Slug inspired visuals. - Intriguing storyline - Find out why is John Kowalsky, author of acclaimed Fury Unleashed, series having a creativity crisis and see if you can help him deal with it. - Local co-op mode - Bring in your sidekick to increase your chances and double the fun. - Action platforming with 360° shooting – jump, dash, shoot and slash in any direction. Movement options are limitless, it's up to you to choose the best angle to deal with a given set of enemies. - Gameplay-impacting combo system - if you can kill enemies quickly enough, your power will increase and you will be able to take some hits without getting damaged. It's even possible to beat the entire game in one combo!</desc>
@@ -3450,21 +3406,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Gauntlet Slayer Edition.lnk</path>
-		<name>Gauntlet Slayer Edition</name>
-		<desc>Gauntlet is a top-down dungeon crawler and an entry in the long-running Gauntlet series. The game supports up to four online or local players working cooperatively, each using a different one of the four available hero types: Elf, Valkyrie, Warrior and Wizard.</desc>
-		<image>./mixart/Gauntlet Slayer Edition.png</image>
-		<video>./snap/Gauntlet Slayer Edition.mp4</video>
-		<marquee>./wheel/Gauntlet Slayer Edition.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20141101T000000</releasedate>
-		<developer>Arrowhead Game Studios</developer>
-		<publisher>WB Games</publisher>
-		<genre>Action, Role-Playing</genre>
-		<players>4</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Horizon Chase Turbo.lnk</path>
 		<name>Horizon Chase Turbo</name>
 		<desc>Horizon Chase Turbo is a racing game inspired by the great hits of the 80's and 90's: Out Run, Lotus Turbo Challenge, Top Gear (SNES), Rush, among others. Each curve and each lap in Horizon Chase Turbo recreates classic arcade gameplay and offers you unbound speed limits of fun. Full throttle on and enjoy!</desc>
@@ -4410,6 +4351,7 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<publisher>Digiart Interactive</publisher>
 		<genre>Action, RPG</genre>
 		<players>1</players>
+		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Shadowgrounds.lnk</path>
@@ -4450,21 +4392,6 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<releasedate>20200929T000000</releasedate>
 		<developer>Eclipse Games</developer>
 		<publisher>Eclipse Games</publisher>
-		<genre>Racing</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Agent Intercept.lnk</path>
-		<name>Agent Intercept</name>
-		<desc>Agent Intercept. Agent Intercept. Leap into the driver's seat of an epic narrative of intrigue, betrayal, and unbelievable set-pieces. Stop the nefarious criminal organization CLAW and save the world from total destruction in your slick, souped-up, transforming vehicle.</desc>
-		<image>./mixart/Agent Intercept.jpg</image>
-		<video>./snap/Agent Intercept.mp4</video>
-		<marquee>./wheel/Agent Intercept.png</marquee>
-		<rating>0.80</rating>
-		<releasedate>20210929T000000</releasedate>
-		<developer>PikPok</developer>
-		<publisher>PikPok</publisher>
 		<genre>Racing</genre>
 		<players>2</players>
 		<favorite>true</favorite>
@@ -4527,6 +4454,84 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<publisher>Team17</publisher>
 		<genre>Shooter</genre>
 		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Agent Intercept.lnk</path>
+		<name>Agent Intercept</name>
+		<desc>Agent Intercept. Agent Intercept. Leap into the driver's seat of an epic narrative of intrigue, betrayal, and unbelievable set-pieces. Stop the nefarious criminal organization CLAW and save the world from total destruction in your slick, souped-up, transforming vehicle.</desc>
+		<image>./mixart/Agent Intercept.jpg</image>
+		<video>./snap/Agent Intercept.mp4</video>
+		<marquee>./wheel/Agent Intercept.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20210929T000000</releasedate>
+		<developer>PikPok</developer>
+		<publisher>PikPok</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Bloodstained - Ritual of the Night.lnk</path>
+		<name>Bloodstained - Ritual of the Night</name>
+		<desc>Bloodstained: Ritual of the Night is a gothic horror action side-scrolling RPG set in 19th century England. A paranormal force has summoned a demon-infested castle, revealing crystal shards infused with tremendous magical power. Play as Miriam, an orphan scarred by an alchemist's curse which slowly crystallizes her body. To save humanity, and herself in the process, Miriam must fight through the castle and defeat the summoner, Gebel. Collect, craft and unlock a vast array of weapons, equipment and loot to defeat the countless minions and bosses of hell that await!</desc>
+		<image>./mixart/Bloodstained - Ritual of the Night.png</image>
+		<video>./snap/Bloodstained - Ritual of the Night.mp4</video>
+		<marquee>./wheel/Bloodstained - Ritual of the Night.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>ArtPlay</developer>
+		<publisher>505 Games</publisher>
+		<genre>Action, Adventure, Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Gauntlet Slayer Edition.lnk</path>
+		<name>Gauntlet Slayer Edition</name>
+		<desc>Gauntlet is a top-down dungeon crawler and an entry in the long-running Gauntlet series. The game supports up to four online or local players working cooperatively, each using a different one of the four available hero types: Elf, Valkyrie, Warrior and Wizard.</desc>
+		<image>./mixart/Gauntlet Slayer Edition.png</image>
+		<video>./snap/Gauntlet Slayer Edition.mp4</video>
+		<marquee>./wheel/Gauntlet Slayer Edition.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20141101T000000</releasedate>
+		<developer>Arrowhead Game Studios</developer>
+		<publisher>WB Games</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Rad Rodgers.lnk</path>
+		<name>Rad Rodgers</name>
+		<desc>Rad is a rambunctious but spirited young boy who maybe plays too many video games. After dozing off at the tail end of a long night of gaming, Rad awakens to find his dusty old console has turned itself back on. Suddenly a vortex emerges and he's sucked into his TV, where he finds himself the star in his very own video game adventure. Dusty is Rad's good-hearted but foul-mouthed, now-sentient game console. His clock speed isn't what it used to be, but what he lacks for in megahertz he makes up for with experience and attitude! Rad and Dusty's adventure begins in the First World, taking them through seven dangerous stages of action-packed, humor-filled, hardcore platforming fun. This decaying jungle world has been infected by a fierce corruption, and it's up to the unlikely buddy-duo Rad and Dusty to save the jungle's inhabitants and restore the Elder Tree as guardian of the land. Weapons: Dusty arms Rad with a variety of radical bad-ass weaponry. The Bolt Blaster has unlimited ammo, is easy to use, and more than enough firepower to get the job done. The Phoenix Cannon shoots out a fiery bird whose wingspan lights enemies ablaze as it flies by. There are 5+ weapons in this first chapter, with more to come. Sounds and Music: Our composer Andrew Hulshult combined his years of musical experience (both performing and writing) with his passion for retro-style gaming to create an amazing and authentic soundtrack for the game complete with MIDI-inspired music... And synthesizers! The Pixelverse: While Rad and Dusty are a great team, only Dusty can enter the electrified Pixelverse -- a dangerous spacetime-breaking region that exists behind the game world. Dusty enters the Pixelverse when necessary to repair glitches in the running game world, allowing both Rad and Dusty to continue their journey. Classic Easter Eggs: The game features hard-to-find collectibles in sometimes even harder-to-find classic secret rooms. Use your precision platforming skills to collect 'em all.</desc>
+		<image>./mixart/Rad Rodgers.png</image>
+		<video>./snap/Rad Rodgers.mp4</video>
+		<marquee>./wheel/Rad Rodgers.png</marquee>
+		<rating>4.6</rating>
+		<releasedate>20161201T000000</releasedate>
+		<developer>Interceptor Entertainment</developer>
+		<publisher>3D Realms</publisher>
+		<genre>Action, Adventure, Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./The Messenger.lnk</path>
+		<name>The Messenger</name>
+		<desc>As a demon army besieges his village, a young ninja ventures through a cursed world, to deliver a scroll paramount to his clan’s survival. What begins as a classic action platformer soon unravels into an expansive time-traveling adventure full of thrills, surprises, and humor. - Dynamic, acrobatic gameplay and ultra tight controls worthy of an epic ninja adventure. - Character upgrades, new abilities, hidden levels, and branching paths to discover. - Meticulously designed 8-bit and 16-bit sprites, animations, and backgrounds in the spirit of the classics. - A memorable cast of offbeat villains, bosses, and associates.</desc>
+		<image>./mixart/The Messenger.jpg</image>
+		<video>./snap/The Messenger.mp4</video>
+		<marquee>./wheel/The Messenger.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20180430T000000</releasedate>
+		<developer>Sabotage Studio</developer>
+		<publisher>Devolver Digital</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
 		<favorite>true</favorite>
 	</game>
 </gameList>

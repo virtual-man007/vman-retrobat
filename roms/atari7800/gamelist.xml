@@ -326,22 +326,6 @@ Wrestling Federation Championship ring. Based on the Technos coin-op of 1985, Ma
 		<marquee>./wheel/Mat Mania Challenge (USA).png</marquee>
 		<video>./snap/Mat Mania Challenge (USA).mp4</video>
 	</game>
-	<game id="38031" source="ScreenScraper.fr">
-		<path>./Mean 18 Ultimate Golf (USA).7z</path>
-		<name>Mean 18</name>
-		<desc>Pebbele Beach and St. Andrews are two of the courses on offer in this golf simulation, released in the early years of 16-bit technology. The three-click control system was used, whereby the first click starts the swing, the second sets the power, and the third sets draw or fade.
-
-Beginner and Expert difficulty options are given - the latter mode has more pronounced draw and fade effects, making the timing of the third click even more crucial. You can also choose between regular and professional tees - in the latter option the distance on the holes is longer, and the computer doesn't choose the best club automatically. Because long drives aren't a crucial aspect of many of the holes, the Begginer/Expert setting is a bigger factor on your likely scoring. A uniquie feature for the day was the course designer, which was quite versatile with practice.</desc>
-		<rating>0.4</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Accolade</developer>
-		<publisher>Accolade</publisher>
-		<genre>Educational-Sports</genre>
-		<players>1-2</players>
-		<image>./mixart/Mean 18 Ultimate Golf (USA).png</image>
-		<marquee>./wheel/Mean 18 Ultimate Golf (USA).png</marquee>
-		<video>./snap/Mean 18 Ultimate Golf (USA).mp4</video>
-	</game>
 	<game id="38032" source="ScreenScraper.fr">
 		<path>./Meltdown (USA).7z</path>
 		<name>Meltdown</name>
@@ -1002,6 +986,22 @@ Your mission ... stop enemy trains, intercept the terrible german V-1 buzz bombs
 		<genre>Action-Simulation</genre>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="38031" source="ScreenScraper.fr">
+		<path>./Mean 18 Ultimate Golf (USA).7z</path>
+		<name>Mean 18</name>
+		<desc>Pebbele Beach and St. Andrews are two of the courses on offer in this golf simulation, released in the early years of 16-bit technology. The three-click control system was used, whereby the first click starts the swing, the second sets the power, and the third sets draw or fade.
+
+Beginner and Expert difficulty options are given - the latter mode has more pronounced draw and fade effects, making the timing of the third click even more crucial. You can also choose between regular and professional tees - in the latter option the distance on the holes is longer, and the computer doesn't choose the best club automatically. Because long drives aren't a crucial aspect of many of the holes, the Begginer/Expert setting is a bigger factor on your likely scoring. A uniquie feature for the day was the course designer, which was quite versatile with practice.</desc>
+		<image>./mixart/Mean 18 Ultimate Golf (USA).png</image>
+		<video>./snap/Mean 18 Ultimate Golf (USA).mp4</video>
+		<marquee>./wheel/Mean 18 Ultimate Golf (USA).png</marquee>
+		<rating>0.4</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Accolade</developer>
+		<publisher>Accolade</publisher>
+		<genre>Educational-Sports</genre>
+		<players>2</players>
 	</game>
 	<game>
 		<path>./Dark Chambers (USA).7z</path>

@@ -2082,22 +2082,6 @@ The game was featured on the 13th season of the popular gaming Japanese TV show 
 		<marquee>./wheel/Gegege no Kitarou - Fukkatsu! Tenma Daiou (Japan).png</marquee>
 		<video>./snap/Gegege no Kitarou - Fukkatsu! Tenma Daiou (Japan).mp4</video>
 	</game>
-	<game id="19062" source="ScreenScraper.fr">
-		<path>./Gekitotsu Dangan Jidousha Kessen - Battle Mobile (Japan).zip</path>
-		<name>Gekitotsu Dangan Jidousha Kessen : Battle Mobile</name>
-		<desc>One year ago they took from you your wife. Now it's time to pay them back, with interest.
-
-Gekitotsu Dangan Jidousha Kessen: Battle Mobile plays similarly to Spyhunter in both perspective and objective, but your car in Battle Mobile isn't quite as high tech an instrument as that other game's vehicle. You can launch unlimited missiles, but they can only hit helicopters. For ground based targets you must dash into them to ram them off the road. Your car's health is constantly dwindling, even when you're not being attacked by enemies, so picking up the occasionally appearing energy refill items is essential. Shields can be picked up and stored that will make your car invulnerable to all damage for a short while.</desc>
-		<rating>0.65</rating>
-		<releasedate>19930625T000000</releasedate>
-		<developer>System Sacom</developer>
-		<publisher>System Sacom</publisher>
-		<players>1-2</players>
-		<hash>B9635FCD</hash>
-		<image>./mixart/Gekitotsu Dangan Jidousha Kessen - Battle Mobile (Japan).png</image>
-		<marquee>./wheel/Gekitotsu Dangan Jidousha Kessen - Battle Mobile (Japan).png</marquee>
-		<video>./snap/Gekitotsu Dangan Jidousha Kessen - Battle Mobile (Japan).mp4</video>
-	</game>
 	<game id="38801" source="ScreenScraper.fr">
 		<path>./Gekitou Burning Pro Wrestling (Japan) (Translated En).zip</path>
 		<name>Gekitou Burning Pro-Wrestling</name>
@@ -8028,6 +8012,22 @@ This is an action game with RPG elements. You wander around slaying enemies in r
 		<players>2</players>
 		<lang>jp,en</lang>
 		<region>jp</region>
+	</game>
+	<game id="19062" source="ScreenScraper.fr">
+		<path>./Gekitotsu Dangan Jidousha Kessen - Battle Mobile (Japan).zip</path>
+		<name>Gekitotsu Dangan Jidousha Kessen : Battle Mobile</name>
+		<desc>One year ago they took from you your wife. Now it's time to pay them back, with interest.
+
+Gekitotsu Dangan Jidousha Kessen: Battle Mobile plays similarly to Spyhunter in both perspective and objective, but your car in Battle Mobile isn't quite as high tech an instrument as that other game's vehicle. You can launch unlimited missiles, but they can only hit helicopters. For ground based targets you must dash into them to ram them off the road. Your car's health is constantly dwindling, even when you're not being attacked by enemies, so picking up the occasionally appearing energy refill items is essential. Shields can be picked up and stored that will make your car invulnerable to all damage for a short while.</desc>
+		<image>./mixart/Gekitotsu Dangan Jidousha Kessen - Battle Mobile (Japan).png</image>
+		<video>./snap/Gekitotsu Dangan Jidousha Kessen - Battle Mobile (Japan).mp4</video>
+		<marquee>./wheel/Gekitotsu Dangan Jidousha Kessen - Battle Mobile (Japan).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19930625T000000</releasedate>
+		<developer>System Sacom</developer>
+		<publisher>System Sacom</publisher>
+		<players>2</players>
+		<crc32>B9635FCD</crc32>
 	</game>
 	<game>
 		<path>./Acrobat Mission (Japan).zip</path>

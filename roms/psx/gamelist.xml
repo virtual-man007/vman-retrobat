@@ -17482,24 +17482,6 @@ As a FPS, Quake II contains a variety of weapons including the fall back Blaster
 		<genre>Simulation</genre>
 		<favorite>true</favorite>
 	</game>
-	<game>
-		<path>./Apocalypse (USA).chd</path>
-		<name>Apocalypse</name>
-		<desc>The end of the world is near. Featuring Bruce Willis' voice, you are Trey Kincaid, nano-physicist and sole defender of the world. It's up to you to defeat the Four Horsemen of the Apocalypse before it's happy trails to us all...
-
-Featuring a motion-captured, cyberscanned Bruce Willis, multiple levels, explosive sound effects, up to 20 on screen enemies and an arsenal like never seen before.</desc>
-		<image>./mixart/Apocalypse (USA).png</image>
-		<video>./snap/Apocalypse (USA).mp4</video>
-		<marquee>./wheel/Apocalypse (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19881031T000000</releasedate>
-		<developer>Activision</developer>
-		<publisher>Activision</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="19342" source="ScreenScraper.fr">
 		<path>./FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,Nl,Sv).chd</path>
 		<name>FIFA : Road to World Cup 98</name>
@@ -17649,5 +17631,23 @@ A free track add-on extends the game with one additional course for sportbikes a
 		<genre>Race, Driving</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Apocalypse (USA).chd</path>
+		<name>Apocalypse</name>
+		<desc>The end of the world is near. Featuring Bruce Willis' voice, you are Trey Kincaid, nano-physicist and sole defender of the world. It's up to you to defeat the Four Horsemen of the Apocalypse before it's happy trails to us all...
+
+Featuring a motion-captured, cyberscanned Bruce Willis, multiple levels, explosive sound effects, up to 20 on screen enemies and an arsenal like never seen before.</desc>
+		<image>./mixart/Apocalypse (USA).png</image>
+		<video>./snap/Apocalypse (USA).mp4</video>
+		<marquee>./wheel/Apocalypse (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19881031T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

@@ -13644,18 +13644,6 @@ All of the people you fight with and against are displayed on cards.  They can h
 		<genre>Role playing games</genre>
 		<players>1</players>
 	</game>
-	<game>
-		<path>./Hyper Street Kart.7z</path>
-		<name>'H'Hyper Street Kart</name>
-		<desc>Hack of Super Mario Kart. All the 8 drivers sprites have been replaced with fighters from Street Fighter II. New and modified Tracks.</desc>
-		<image>./mixart/Hyper Street Kart.png</image>
-		<video>./snap/Hyper Street Kart.mp4</video>
-		<marquee>./wheel/Hyper Street Kart.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game id="19248" source="ScreenScraper.fr">
 		<path>./Zombies Ate My Neighbors (USA).7z</path>
 		<name>Zombies Ate My Neighbors</name>
@@ -13669,19 +13657,6 @@ All of the people you fight with and against are displayed on cards.  They can h
 		<publisher>Konami - LucasArts</publisher>
 		<genre>Action</genre>
 		<players>2</players>
-	</game>
-	<game>
-		<path>./New Super Mario Land.7z</path>
-		<name>'H'New Super Mario Land</name>
-		<desc>New Super Mario Land is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
-		<image>./mixart/New Super Mario Land.png</image>
-		<video>./snap/New Super Mario Land.mp4</video>
-		<marquee>./wheel/New Super Mario Land.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>2019</releasedate>
-		<developer>Homebrew</developer>
-		<publisher>Non-commercial</publisher>
-		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Soldiers of Fortune (USA).7z</path>
@@ -13717,5 +13692,30 @@ In battle mode, up to four players go head to head in a battle to the death.  Pl
 		<publisher>Hudson</publisher>
 		<genre>Action</genre>
 		<players>4</players>
+	</game>
+	<game>
+		<path>./Hyper Street Kart.7z</path>
+		<name>'H'Hyper Street Kart</name>
+		<desc>Hack of Super Mario Kart. All the 8 drivers sprites have been replaced with fighters from Street Fighter II. New and modified Tracks.</desc>
+		<image>./mixart/Hyper Street Kart.png</image>
+		<video>./snap/Hyper Street Kart.mp4</video>
+		<marquee>./wheel/Hyper Street Kart.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./New Super Mario Land.7z</path>
+		<name>'H'New Super Mario Land</name>
+		<desc>New Super Mario Land is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
+		<image>./mixart/New Super Mario Land.png</image>
+		<video>./snap/New Super Mario Land.mp4</video>
+		<marquee>./wheel/New Super Mario Land.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2019</releasedate>
+		<developer>Homebrew</developer>
+		<publisher>Non-commercial</publisher>
+		<favorite>true</favorite>
 	</game>
 </gameList>

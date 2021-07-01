@@ -2062,21 +2062,6 @@ In 2020 Super Baseball is a fast-paced game with new rules, where you can select
 		<players>2</players>
 	</game>
 	<game>
-		<path>./mslugx.zip</path>
-		<name>Metal Slug X - Super Vehicle-001</name>
-		<desc>Jump! Shoot! Evade! The time to test your reflexes has come once again! Scatter the swarms of oncoming enemies with triple the firepower (compared with past SNK games). A festival of dazzling destruction, take on the Metal Slug world, if you dare!</desc>
-		<image>./mixart/mslugx.png</image>
-		<video>./snap/mslugx.mp4</video>
-		<marquee>./wheel/mslugx.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Plateform / Shooter Scrolling-Platform-Shooter / Run and Gun-Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./mslug.zip</path>
 		<name>Metal Slug - Super Vehicle-001</name>
 		<desc>Metal Slug, originally released on the Neo Geo, is a side-scrolling shoot'em'up.
@@ -2108,6 +2093,21 @@ The second game in the Shock Troopers series enables shot locking, close proximi
 		<developer>Saurus</developer>
 		<publisher>SNK</publisher>
 		<genre>Shoot'em Up-Shooter-Action-Beat'em Up-Shooter / Run and Shoot-Shooter / Run and Gun</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./mslugx.zip</path>
+		<name>Metal Slug X - Super Vehicle-001</name>
+		<desc>Jump! Shoot! Evade! The time to test your reflexes has come once again! Scatter the swarms of oncoming enemies with triple the firepower (compared with past SNK games). A festival of dazzling destruction, take on the Metal Slug world, if you dare!</desc>
+		<image>./mixart/mslugx.png</image>
+		<video>./snap/mslugx.mp4</video>
+		<marquee>./wheel/mslugx.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Plateform / Shooter Scrolling-Platform-Shooter / Run and Gun-Shooter</genre>
 		<players>2</players>
 		<favorite>true</favorite>
 	</game>

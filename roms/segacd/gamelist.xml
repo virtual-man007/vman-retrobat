@@ -3021,6 +3021,15 @@ Between levels, the game shows small digitized clips from the film that advance 
 		<genre>Action</genre>
 	</game>
 	<game>
+		<path>./Dune (USA).chd</path>
+		<name>Dune (USA)</name>
+		<image>./mixart/Dune (USA).png</image>
+		<video>./snap/Dune (USA).mp4</video>
+		<marquee>./wheel/Dune (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate />
+	</game>
+	<game>
 		<path>./Demolition Man (USA).chd</path>
 		<name>Demolition Man</name>
 		<desc>Demolition Man is a game based on the 1993 movie by the same name. As with the movie, the game takes place in a dystopian Los Angeles, in 1996. John Spartan is the country´s most fearsome cop and hunts his nemesis, Simon Phoenix. However in doing so, he kills several innocent civilians and both characters are sentenced to cryostasis rehabilitation where they will be brainwashed for 30 years. However the brainwashing does not go as planned and upon waking up, Phoenix goes on a new crime spree. However in 30 years the world has also changed and Los Angeles has become San Angeles, a utopian and violence-free society. As a remnant of a more violent past, police officer John Spartan is once again sent to capture Phoenix.
@@ -3039,14 +3048,5 @@ The Sega CD version of the game retains identical levels and gameplay, but adds 
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
-	</game>
-	<game>
-		<path>./Dune (USA).chd</path>
-		<name>Dune (USA)</name>
-		<image>./mixart/Dune (USA).png</image>
-		<video>./snap/Dune (USA).mp4</video>
-		<marquee>./wheel/Dune (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate></releasedate>
 	</game>
 </gameList>

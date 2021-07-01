@@ -32950,39 +32950,6 @@ Smash TV is broken down into stages, each with a set number of arenas. Tough end
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./astdelux.zip</path>
-		<name>Asteroids Deluxe</name>
-		<desc>Asteroids Deluxe is a 1 or 2-player game with an X-Y or vector-generator monitor. The game depicts a third-person view of a player's spaceship battling to destroy asteroids, flying saucers and enemy ships or 'death stars' (shaped like clusters of triangles). When hit, the asteroids and death stars will break into progressively smaller pieces. 
-
-Players can put up an octagon-shaped 'shield' to temporarily protect their spaceship. However, this shield wears out with use. 
-
-Large asteroids appear and drift in from the outer edges of the display. By pressing the ROTATE LEFT and ROTATE RIGHT pushbuttons on the control panel, the player may aim a spaceship toward any of the asteroids. The player uses the FIRE pushbutton to shoot at the asteroids and other objects. 
-
-When shot, each large asteroid divides into two medium-sized asteroids, and the game adds 20 points to the player's score. Medium-sized asteroids, when shot, divide into two small-sized asteroids, and the game awards 50 points to the player. When shot the smallest asteroid disappears and the game adds 100 points to the player's score. 
-
-In addition to asteroids, the players can score points for shooting the various enemy ships. When hit, the large ships ('death stars' shaped like hexagons) score 50 points and break into three diamond shapes. The medium-sized enemy or diamond, when hit, grants the player 100 points and breaks into two small triangular pieces. These small pieces disappear when the player hits them, and the score increases by 200 points. 
-
-At any time during game play, a flying saucer may appear from either side of the display. The game awards players 200 points for shooting a large saucer and 1,000 points for a small saucer (the latter is a smaller target for players, though not any faster moving than the large one. It also shoots more accurately). 
-
-The player's objective in the game is to shoot and destroy as many asteroids, saucers, and enemy ships as possible before all his or her spaceships are destroyed. A ship is destroyed if an asteroid, saucer or enemy ship smashes into it, or if a flying saucer shoots it. To prevent losing a ship, the player may press the THRUST pushbutton to move out of the path of an oncoming object. 
-
-As an emergency maneuver, a player can press the Shields button. An octagon will then appear around the player's ship as protection from all enemies. For challenge the shield power lasts only about 10 seconds, but the power is renewed with each ship. The amount of shielding power available is shown by the brightness of the octagon (dim means almost exhausted power).</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/astdelux.png</image>
-		<video>./snap/astdelux.mp4</video>
-		<marquee>./wheel/astdelux.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Dave Shepperd</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./biomtoy.zip</path>
 		<name>Biomechanical Toy</name>
 		<desc>Biomechanical Toy is an eightway-scrolling platform shoot-em-up set in a world of magically-animated toys, in which the magical pendulum that animates the toys has been stolen by the evil 'Scrubby', a criminal once imprisoned for trying to steal the pendulum who has managed to escape and take his revenge. The player takes on the role of Inguz and is tasked with freeing the few remaining good toys that are trapped throughout the stages, while destroying or avoiding the many evil toys that now patrol the kingdom. 
@@ -33002,23 +32969,6 @@ An abstract, oriental-looking face occasionally forms part of a level's platform
 		<developer>Gaelco</developer>
 		<publisher>Gaelco</publisher>
 		<genre>Platform-Plateform / Shooter Scrolling</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./cphd.zip</path>
-		<name>'H'Crouching Pony Hidden Dragon</name>
-		<desc>CPHD is a homebrew - A pedestrian shooter mixed with RPG features exclusive for the Neo-Geo. Collect money and experience to evolve your weapons and equipments. Confront hordes of ninjas, shaolins, geishas... into intense fight to earn your immortality.</desc>
-		<image>./mixart/cphd.png</image>
-		<video>./snap/cphd.mp4</video>
-		<marquee>./wheel/cphd.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20140714T000000</releasedate>
-		<developer>Le Cortex</developer>
-		<publisher>Neko Interactive</publisher>
-		<genre>Action</genre>
-		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
@@ -33168,36 +33118,6 @@ Enduro Racer is perhaps best remembered for its 'Wheelie' feature, which require
 		<region>us</region>
 	</game>
 	<game>
-		<path>./ddragon.zip</path>
-		<name>Double Dragon</name>
-		<desc>Double Dragon is a side-scrolling beat-em-up for one or two players, featuring twin brothers and martial arts masters, "Billy &amp; Jimmy Lee". The brothers must defeat the savage street gang known as the 'Black Warriors' to rescue Billy's kidnapped girlfriend, Marian. Standing between the brothers and Marian are four huge, colorful and varied levels; each populated with a wide variety of thugs.
-
-Many of the game's enemies carry weapons (knives, baseball bats etc.) and should Billy or Jimmy manage to knock the weapons from the enemies' hands, the heroes can pick the weapons up and use them against the enemies.
-
-The Black Warriors is made up of six distinct enemy characters- plus Willy, the game's final boss - with each differing in both physical appearance and fighting style. The members of the Black Warriors consist of the following fighters: 
-Williams - A street punk in a tank top. In addition to the standard punches and jump kicks, his signature technique is a body blow to the stomach. He also wields weapons such as baseball bats, knives and dynamite sticks.
-Rowper - A punk who wears matching-colored pants and shirtless vest. He wields all the same weapons as Williams, but can also lift and throw heavy objects such as oildrums, boxes and stones.
-Linda - Female punk who usually carries a whip. She's not very strong, as she falls down to ground with a couple of punches or a single kick (because of this, she is the only regular-sized enemy who cannot be placed on a headlock).
-Abobo - A tall, big-muscled bald guy. His attacks includes punches, a standing kick and a body toss. He can also lift and throw heavy objects like Rowper. Due to his large size, he cannot be put into a headlock.
-Boss 1 - The first boss, a head-swap of Abobo with a Mr. T-style mohawk and beard. Fights just like Abobo, only with an added double-handed slap. Unlike Abobo, he does not use weapons. A green version of him appears as the Mission 3 boss.
-Boss 2 - The second boss. A head swap of the player who uses almost all the same techniques. 
-Willy - The game's final boss, armed, somewhat unfairly, with a machine-gun.
-
-Double Dragon was a huge success due to the many game-play innovations it brought to the genre (see TRIVIA for details), but it demonstrates its final moment of inspired genius at the very end of the game. Should both players still be alive after the final boss has been defeated, they will then have to fight each OTHER. The winner of this fight will be the one who wins Marian's affections.</desc>
-		<image>./mixart/ddragon.png</image>
-		<video>./snap/ddragon.mp4</video>
-		<marquee>./wheel/ddragon.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Technos Japan</developer>
-		<publisher>Taito</publisher>
-		<genre>Plateform / Fighter Scrolling-Platform</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./btoads.zip</path>
 		<name>Battletoads</name>
 		<desc>Battletoads is a (mostly) horizontally-scrolling beat-em-up in which up to three players take on the roles of Rash, Pimple, or Zitz and must punch and kick their way through six enemy-infested stages to save their alternate universe from the Dark Queen.
@@ -33325,5 +33245,85 @@ A lucky few escaped and lived in exile. Four of the survivers decided to join fo
 		<publisher>Capcom</publisher>
 		<genre>Fight-Fight / Versus</genre>
 		<players>2</players>
+	</game>
+	<game>
+		<path>./astdelux.zip</path>
+		<name>Asteroids Deluxe</name>
+		<desc>Asteroids Deluxe is a 1 or 2-player game with an X-Y or vector-generator monitor. The game depicts a third-person view of a player's spaceship battling to destroy asteroids, flying saucers and enemy ships or 'death stars' (shaped like clusters of triangles). When hit, the asteroids and death stars will break into progressively smaller pieces. 
+
+Players can put up an octagon-shaped 'shield' to temporarily protect their spaceship. However, this shield wears out with use. 
+
+Large asteroids appear and drift in from the outer edges of the display. By pressing the ROTATE LEFT and ROTATE RIGHT pushbuttons on the control panel, the player may aim a spaceship toward any of the asteroids. The player uses the FIRE pushbutton to shoot at the asteroids and other objects. 
+
+When shot, each large asteroid divides into two medium-sized asteroids, and the game adds 20 points to the player's score. Medium-sized asteroids, when shot, divide into two small-sized asteroids, and the game awards 50 points to the player. When shot the smallest asteroid disappears and the game adds 100 points to the player's score. 
+
+In addition to asteroids, the players can score points for shooting the various enemy ships. When hit, the large ships ('death stars' shaped like hexagons) score 50 points and break into three diamond shapes. The medium-sized enemy or diamond, when hit, grants the player 100 points and breaks into two small triangular pieces. These small pieces disappear when the player hits them, and the score increases by 200 points. 
+
+At any time during game play, a flying saucer may appear from either side of the display. The game awards players 200 points for shooting a large saucer and 1,000 points for a small saucer (the latter is a smaller target for players, though not any faster moving than the large one. It also shoots more accurately). 
+
+The player's objective in the game is to shoot and destroy as many asteroids, saucers, and enemy ships as possible before all his or her spaceships are destroyed. A ship is destroyed if an asteroid, saucer or enemy ship smashes into it, or if a flying saucer shoots it. To prevent losing a ship, the player may press the THRUST pushbutton to move out of the path of an oncoming object. 
+
+As an emergency maneuver, a player can press the Shields button. An octagon will then appear around the player's ship as protection from all enemies. For challenge the shield power lasts only about 10 seconds, but the power is renewed with each ship. The amount of shielding power available is shown by the brightness of the octagon (dim means almost exhausted power).</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/astdelux.png</image>
+		<video>./snap/astdelux.mp4</video>
+		<marquee>./wheel/astdelux.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Dave Shepperd</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./cphd.zip</path>
+		<name>'H'Crouching Pony Hidden Dragon</name>
+		<desc>CPHD is a homebrew - A pedestrian shooter mixed with RPG features exclusive for the Neo-Geo. Collect money and experience to evolve your weapons and equipments. Confront hordes of ninjas, shaolins, geishas... into intense fight to earn your immortality.</desc>
+		<image>./mixart/cphd.png</image>
+		<video>./snap/cphd.mp4</video>
+		<marquee>./wheel/cphd.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20140714T000000</releasedate>
+		<developer>Le Cortex</developer>
+		<publisher>Neko Interactive</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./ddragon.zip</path>
+		<name>Double Dragon</name>
+		<desc>Double Dragon is a side-scrolling beat-em-up for one or two players, featuring twin brothers and martial arts masters, "Billy &amp; Jimmy Lee". The brothers must defeat the savage street gang known as the 'Black Warriors' to rescue Billy's kidnapped girlfriend, Marian. Standing between the brothers and Marian are four huge, colorful and varied levels; each populated with a wide variety of thugs.
+
+Many of the game's enemies carry weapons (knives, baseball bats etc.) and should Billy or Jimmy manage to knock the weapons from the enemies' hands, the heroes can pick the weapons up and use them against the enemies.
+
+The Black Warriors is made up of six distinct enemy characters- plus Willy, the game's final boss - with each differing in both physical appearance and fighting style. The members of the Black Warriors consist of the following fighters: 
+Williams - A street punk in a tank top. In addition to the standard punches and jump kicks, his signature technique is a body blow to the stomach. He also wields weapons such as baseball bats, knives and dynamite sticks.
+Rowper - A punk who wears matching-colored pants and shirtless vest. He wields all the same weapons as Williams, but can also lift and throw heavy objects such as oildrums, boxes and stones.
+Linda - Female punk who usually carries a whip. She's not very strong, as she falls down to ground with a couple of punches or a single kick (because of this, she is the only regular-sized enemy who cannot be placed on a headlock).
+Abobo - A tall, big-muscled bald guy. His attacks includes punches, a standing kick and a body toss. He can also lift and throw heavy objects like Rowper. Due to his large size, he cannot be put into a headlock.
+Boss 1 - The first boss, a head-swap of Abobo with a Mr. T-style mohawk and beard. Fights just like Abobo, only with an added double-handed slap. Unlike Abobo, he does not use weapons. A green version of him appears as the Mission 3 boss.
+Boss 2 - The second boss. A head swap of the player who uses almost all the same techniques. 
+Willy - The game's final boss, armed, somewhat unfairly, with a machine-gun.
+
+Double Dragon was a huge success due to the many game-play innovations it brought to the genre (see TRIVIA for details), but it demonstrates its final moment of inspired genius at the very end of the game. Should both players still be alive after the final boss has been defeated, they will then have to fight each OTHER. The winner of this fight will be the one who wins Marian's affections.</desc>
+		<image>./mixart/ddragon.png</image>
+		<video>./snap/ddragon.mp4</video>
+		<marquee>./wheel/ddragon.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Technos Japan</developer>
+		<publisher>Taito</publisher>
+		<genre>Plateform / Fighter Scrolling-Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

@@ -3801,23 +3801,6 @@ Many months have passed since the events of The Legend of Zelda: The Wind Waker,
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Retro Game Challenge (USA).zip</path>
-		<name>Retro Game Challenge</name>
-		<desc>Arino wants to be the greatest gamer in the world, but he's continually defeated by his friends at every new game that comes out. His obsession has spawned a digital version himself within his own Nintendo DS. This digital version of himself has come to be known as "Game Master Arino", who haunts gamers around the world with retro game challenges. You have been chosen by Game Master Arino, and are now trapped in the 1980s until you can defeat his game challenges.
-
-Retro Game Challenge, based on the Japanese TV show Game Center CX, has you playing faithfully-recreated clones of popular NES-era games, attempting to complete challenges and freeing yourself from Game Master Arino. You are accompanied by Arino himself as a young lad, who will cheer you on as you're playing each game. You can also read the latest gaming mags for tips, cheats, and previews of upcoming titles.
-
-There are eight games total, each modeled after 8-bit classics such as Galaga (Cosmic Gate), Dragon Warrior (Gaudia Quest), and Ninja Jajamaru-kun (Robot Ninja Haggle Man). Each game has multiple challenges from Arino to complete, such as clearing a certain stage or earning a set number of points, and can also be played in a free play mode once all challenges have been cleared.</desc>
-		<image>./mixart/Retro Game Challenge (USA).png</image>
-		<video>./snap/Retro Game Challenge (USA).mp4</video>
-		<marquee>./wheel/Retro Game Challenge (USA).png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20090210T000000</releasedate>
-		<developer>Indies Zero</developer>
-		<publisher>Xseed Games</publisher>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Tetris DS (USA).zip</path>
 		<name>Tetris DS</name>
 		<desc>At its base, Tetris DS is the same Tetris gameplay that's been around for years: rotate and arrange Tetriminos to create full lines and make them disappear.  However, it also has a style very different from earlier Tetris games, new play modes, and online play.
@@ -3893,5 +3876,22 @@ The Legend of Zelda: Spirit Tracks sets hero Link on a daring new adventure. The
 		<favorite>true</favorite>
 		<lang>de,en,es,fr,it</lang>
 		<region>eu</region>
+	</game>
+	<game>
+		<path>./Retro Game Challenge (USA).zip</path>
+		<name>Retro Game Challenge</name>
+		<desc>Arino wants to be the greatest gamer in the world, but he's continually defeated by his friends at every new game that comes out. His obsession has spawned a digital version himself within his own Nintendo DS. This digital version of himself has come to be known as "Game Master Arino", who haunts gamers around the world with retro game challenges. You have been chosen by Game Master Arino, and are now trapped in the 1980s until you can defeat his game challenges.
+
+Retro Game Challenge, based on the Japanese TV show Game Center CX, has you playing faithfully-recreated clones of popular NES-era games, attempting to complete challenges and freeing yourself from Game Master Arino. You are accompanied by Arino himself as a young lad, who will cheer you on as you're playing each game. You can also read the latest gaming mags for tips, cheats, and previews of upcoming titles.
+
+There are eight games total, each modeled after 8-bit classics such as Galaga (Cosmic Gate), Dragon Warrior (Gaudia Quest), and Ninja Jajamaru-kun (Robot Ninja Haggle Man). Each game has multiple challenges from Arino to complete, such as clearing a certain stage or earning a set number of points, and can also be played in a free play mode once all challenges have been cleared.</desc>
+		<image>./mixart/Retro Game Challenge (USA).png</image>
+		<video>./snap/Retro Game Challenge (USA).mp4</video>
+		<marquee>./wheel/Retro Game Challenge (USA).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20090210T000000</releasedate>
+		<developer>Indies Zero</developer>
+		<publisher>Xseed Games</publisher>
+		<favorite>true</favorite>
 	</game>
 </gameList>

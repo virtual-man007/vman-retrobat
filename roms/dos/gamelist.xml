@@ -6988,23 +6988,6 @@ There is also a freeform mode where the player is given an unlimited number of p
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Corridor 7 - Alien Invasion.pc</path>
-		<name>Corridor 7: Alien Invasion</name>
-		<desc>In the year 2012 it was finally possible to send a space ship to Mars. The scientists returned with a small object of unknown origin, which was supposed to be a proof for the existence of life on the planet. The object was taken to a special underground research facility and secured in its lowest labs, down ''Corridor 7''. Exposed to gamma radiation, the mysterious object caused a portal to appear, which connected two worlds. The Alien invasion began. It's time for you, a brave Special Forces agent, to descend to Corridor 7, where the fate of humanity must be decided.Corridor 7 is a first-person shooter that uses an enhanced version of the Wolfenstein 3D engine. New features include transparent and animated textures, an auto map and distance shading.Unlike Wolfenstein 3D, your goal is not to find the exit, but to kill all the aliens on the map.There are two versions of Corridor 7, a disk version and a CD version. Both versions feature the 30 levels of the research base, but the CD version adds an additional 10 single player levels with additional weapon and alien types.The CD version also comes with multiplayer in the form of 12 player Deathmatch and Team Deathmatch modes (believed to be the first FPS to allow that many players) and 8 additional maps made specially for it. In Deathmatch, the player can take control of one of 12 Corridor 7 characters (two recoloured humans and 10 aliens, 4 of which are Bandor variants) which all have slightly different starting stats (different speed and starting health) but all characters use the same weapons.</desc>
-		<emulator>libretro</emulator>
-		<core>dosbox_svn</core>
-		<image>./mixart/Corridor 7 - Alien Invasion.png</image>
-		<video>./snap/Corridor 7 - Alien Invasion.mp4</video>
-		<marquee>./wheel/Corridor 7 - Alien Invasion.png</marquee>
-		<rating>0</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Capstone Software</developer>
-		<publisher>Capstone Software</publisher>
-		<genre>Shooter / 1st person</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Epic_Pinball.pc</path>
 		<name>Epic Pinball: The Complete Collection</name>
 		<desc>Epic Pinball The Complete Collection is a pinball video game played from a 2D top-down view within a scrollable window. This release is an Epic Pinball compilation with some exclusive content. It includes:
@@ -7057,6 +7040,23 @@ Blood is a first-person shooter with horror elements, which uses the Build engin
 		<publisher>GT Interactive</publisher>
 		<genre>Shooter / 1st person</genre>
 		<players>40</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Corridor 7 - Alien Invasion.pc</path>
+		<name>Corridor 7: Alien Invasion</name>
+		<desc>In the year 2012 it was finally possible to send a space ship to Mars. The scientists returned with a small object of unknown origin, which was supposed to be a proof for the existence of life on the planet. The object was taken to a special underground research facility and secured in its lowest labs, down ''Corridor 7''. Exposed to gamma radiation, the mysterious object caused a portal to appear, which connected two worlds. The Alien invasion began. It's time for you, a brave Special Forces agent, to descend to Corridor 7, where the fate of humanity must be decided.Corridor 7 is a first-person shooter that uses an enhanced version of the Wolfenstein 3D engine. New features include transparent and animated textures, an auto map and distance shading.Unlike Wolfenstein 3D, your goal is not to find the exit, but to kill all the aliens on the map.There are two versions of Corridor 7, a disk version and a CD version. Both versions feature the 30 levels of the research base, but the CD version adds an additional 10 single player levels with additional weapon and alien types.The CD version also comes with multiplayer in the form of 12 player Deathmatch and Team Deathmatch modes (believed to be the first FPS to allow that many players) and 8 additional maps made specially for it. In Deathmatch, the player can take control of one of 12 Corridor 7 characters (two recoloured humans and 10 aliens, 4 of which are Bandor variants) which all have slightly different starting stats (different speed and starting health) but all characters use the same weapons.</desc>
+		<emulator>libretro</emulator>
+		<core>dosbox_svn</core>
+		<image>./mixart/Corridor 7 - Alien Invasion.png</image>
+		<video>./snap/Corridor 7 - Alien Invasion.mp4</video>
+		<marquee>./wheel/Corridor 7 - Alien Invasion.png</marquee>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Capstone Software</developer>
+		<publisher>Capstone Software</publisher>
+		<genre>Shooter / 1st person</genre>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

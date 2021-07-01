@@ -20,20 +20,6 @@
 		<marquee>./wheel/Bust-A-Move Pocket (USA).png</marquee>
 		<video>./snap/Bust-A-Move Pocket (USA).mp4</video>
 	</game>
-	<game id="51139" source="ScreenScraper.fr">
-		<path>./Cool Cool Jam (USA) (Proto).zip</path>
-		<name>Cool Cool Jam</name>
-		<desc>Cool Cool Jam is a rhythm video game which appeared on the Neo Geo Pocket Color in 2000. Cool Cool Jam is comparable in gameplay to other rhythm games such as: PaRappa the Rapper, Donkey Konga or Beatmania.    The storyline involves a boy and a girl who are transported 1,000 years into the future. To return home they must form a successful and popular music band.    The game can be played by one or two players. In two player mode the game plays like a duet; the players take it in turn to play tune and receive a message after completion. The game also features a single player storymode which has adventure game elements. Various instruments can be played in the game. Each instrument has a different playing style. The instruments include:    Clapping to a beat - a bar moves across the screen the player taps a button when they see a red dot. If successful the dot glows.    Violin - The player taps either the A or B when a red light (button A) or a green light (button B) appears. The power can be altered by moving the joystick up and down.    Bluesharp - The player moves the joystick to coincide with the position of the lights. The player then pushes A or B depending whether a red or green light appears.    Guitar - The player pushes A or B to play the strings and the joystick controls the pick.    Saxophone - The player moves the joystick and the buttons to control the pitch as the symbols appear on screen.    Trumpet - The player moves the joystick in four directions to change the pitch to coincide with the coloured symbols. The player then pushes A or B when the marker appears. A bar indicates air pressure.    Guitar 2 - Plays the same as the previous Guitar game only upside down.</desc>
-		<rating>0.75</rating>
-		<releasedate>20000810T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Rhythm-Music and Dance</genre>
-		<players>2</players>
-		<image>./mixart/Cool Cool Jam (USA) (Proto).png</image>
-		<marquee>./wheel/Cool Cool Jam (USA) (Proto).png</marquee>
-		<video>./snap/Cool Cool Jam (USA) (Proto).mp4</video>
-	</game>
 	<game id="47027" source="ScreenScraper.fr">
 		<path>./Crush Roller (World) (En,Ja).zip</path>
 		<name>Crush Roller</name>
@@ -540,6 +526,20 @@
 		<publisher>SNK</publisher>
 		<genre>Casino</genre>
 		<players>1-2</players>
+	</game>
+	<game id="51139" source="ScreenScraper.fr">
+		<path>./Cool Cool Jam (USA) (Proto).zip</path>
+		<name>Cool Cool Jam</name>
+		<desc>Cool Cool Jam is a rhythm video game which appeared on the Neo Geo Pocket Color in 2000. Cool Cool Jam is comparable in gameplay to other rhythm games such as: PaRappa the Rapper, Donkey Konga or Beatmania.    The storyline involves a boy and a girl who are transported 1,000 years into the future. To return home they must form a successful and popular music band.    The game can be played by one or two players. In two player mode the game plays like a duet; the players take it in turn to play tune and receive a message after completion. The game also features a single player storymode which has adventure game elements. Various instruments can be played in the game. Each instrument has a different playing style. The instruments include:    Clapping to a beat - a bar moves across the screen the player taps a button when they see a red dot. If successful the dot glows.    Violin - The player taps either the A or B when a red light (button A) or a green light (button B) appears. The power can be altered by moving the joystick up and down.    Bluesharp - The player moves the joystick to coincide with the position of the lights. The player then pushes A or B depending whether a red or green light appears.    Guitar - The player pushes A or B to play the strings and the joystick controls the pick.    Saxophone - The player moves the joystick and the buttons to control the pitch as the symbols appear on screen.    Trumpet - The player moves the joystick in four directions to change the pitch to coincide with the coloured symbols. The player then pushes A or B when the marker appears. A bar indicates air pressure.    Guitar 2 - Plays the same as the previous Guitar game only upside down.</desc>
+		<image>./mixart/Cool Cool Jam (USA) (Proto).png</image>
+		<video>./snap/Cool Cool Jam (USA) (Proto).mp4</video>
+		<marquee>./wheel/Cool Cool Jam (USA) (Proto).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20000810T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Rhythm-Music and Dance</genre>
+		<players>2</players>
 	</game>
 	<game>
 		<path>./Baseball Stars Color (World) (En,Ja).zip</path>

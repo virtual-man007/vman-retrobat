@@ -19,22 +19,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Crime Patrol 2 Drug Wars.cmd</path>
-		<name>Crime Patrol 2 : Drug Wars</name>
-		<desc>Crime Patrol 2 was a laserdisc game created by American Laser Games in 1993.  In this game, your mission is to apprehend Lopez the drug lord, take down his drug cartel, and destroy the lab where his drugs are processed.  Your mission will take you through Sierra County, Chicago, down to the Border, and then into South America.  Throughout your journey, you will come in contact with some of the most violent criminals in America.  Be prepared to shoot to kill.</desc>
-		<image>./mixart/Crime Patrol 2 Drug Wars.png</image>
-		<video>./content/Crime_Patrol_2_Drug_Wars_Singe_2/Video/menu-attract.mp4</video>
-		<marquee>./wheel/Crime Patrol 2 Drug Wars.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>American Laser Games</developer>
-		<publisher>American Laser Games</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Hologram Time Traveler.cmd</path>
 		<name>Hologram Time Traveler</name>
 		<desc>Time Traveler or Hologram Time Traveler is a LaserDisc interactive movie arcade game. It was designed by Dragon's Lair creator Rick Dyer, and released in 1991 by Sega. Its plot is that an American old west cowboy named Marshal Gram travels to various timelines to rescue Princess Kyi-La and defeat the evil time lord Vulcor.</desc>
@@ -95,22 +79,6 @@
 		<publisher>Worlds of Wonder, Inc.</publisher>
 		<genre>Shooter</genre>
 		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Blue Thunder.cmd</path>
-		<name>Blue Thunder</name>
-		<desc>Get in your chopper and take out the bad guys in this action-packed game.</desc>
-		<image>./mixart/Blue Thunder.png</image>
-		<video>./snap/Blue Thunder.mp4</video>
-		<marquee>./wheel/Blue Thunder.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Sourcing International, Ltd.</developer>
-		<publisher>Worlds of Wonder, Inc.</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -423,6 +391,38 @@
 		<marquee>./wheel/Who Shot Johnny Rock.png</marquee>
 		<rating>0.85</rating>
 		<releasedate>19910101T000000</releasedate>
+		<developer>American Laser Games</developer>
+		<publisher>American Laser Games</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Blue Thunder.cmd</path>
+		<name>Blue Thunder</name>
+		<desc>Get in your chopper and take out the bad guys in this action-packed game.</desc>
+		<image>./mixart/Blue Thunder.png</image>
+		<video>./snap/Blue Thunder.mp4</video>
+		<marquee>./wheel/Blue Thunder.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sourcing International, Ltd.</developer>
+		<publisher>Worlds of Wonder, Inc.</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Crime Patrol 2 Drug Wars.cmd</path>
+		<name>Crime Patrol 2 : Drug Wars</name>
+		<desc>Crime Patrol 2 was a laserdisc game created by American Laser Games in 1993.  In this game, your mission is to apprehend Lopez the drug lord, take down his drug cartel, and destroy the lab where his drugs are processed.  Your mission will take you through Sierra County, Chicago, down to the Border, and then into South America.  Throughout your journey, you will come in contact with some of the most violent criminals in America.  Be prepared to shoot to kill.</desc>
+		<image>./mixart/Crime Patrol 2 Drug Wars.png</image>
+		<video>./content/Crime_Patrol_2_Drug_Wars_Singe_2/Video/menu-attract.mp4</video>
+		<marquee>./wheel/Crime Patrol 2 Drug Wars.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
 		<developer>American Laser Games</developer>
 		<publisher>American Laser Games</publisher>
 		<genre>Shooter</genre>

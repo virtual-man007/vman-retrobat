@@ -28105,20 +28105,6 @@ The Legend of Zelda is known for several factors that were revolutionary at the 
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Gaplus for NES.zip</path>
-		<name>'H'Gaplus (NES Version)</name>
-		<desc>This archived file is a NES port of Gaplus seen in Namco Museum Archives Volume 2 (Namcot Collection in Japan), directly ripped from the international Steam release. This same game is also on Arcade system.</desc>
-		<image>./mixart/Gaplus for NES.png</image>
-		<video>./snap/Gaplus for NES.mp4</video>
-		<marquee>./wheel/Gaplus for NES.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20200621</releasedate>
-		<developer>Namcot</developer>
-		<publisher>BNEI</publisher>
-		<genre>Arcade/Hack</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Rygar (USA).zip</path>
 		<name>Rygar</name>
 		<desc>A hero has arrived to defeat the forces of evil in the land of Argool, and you are this hero. Do you have what it takes? This game was one of the first adventures to hit the NES and the remarkable aspect on top of this was the multiple viewpoints the games offers. When you are in an action zone, the game is a side-scrolling action game; however, then you are travelling between zones, the game takes on an overhead view that can also lead to combat situations.</desc>
@@ -28466,6 +28452,38 @@ The Legend of Zelda is known for several factors that were revolutionary at the 
 		<genre>Race, Driving</genre>
 		<players>1</players>
 	</game>
+	<game id="1321" source="ScreenScraper.fr">
+		<path>./Probotector II - Return of the Evil Forces (Europe) (Unl).zip</path>
+		<name>Probotector II : Return of the Evil Forces</name>
+		<desc>After losing a confrontation against Super Commandos Mad Dog and Scorpion, the juices of destruction drip from the spiked tongue of the vile alien warmonger - Red Falcon. Now, he's coming back stronger than ever, with a sinister plan that includes having his intergalactic warriors seep into the brains of the U.S. Army. To support his disguised forces of doom, he's recruited Jagger Froid, a demented alien from the Black Hole Galaxy. He's also shuttled in The Babula Destructoid Mechanism with its Beam of Death. With torrential terror about to rain down upon civilization, Earth's only hope rests with you, Scorpion, and your pal, the Dogster. And if your spread guns, lasers, flame throwers and mega shells fail to destroy Red Falcon's eight levels of terror, including radioactive lava fields, it's all over but for the shouting, the screaming and the cries from a disintegrating world!</desc>
+		<rating>0.85</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform-Platform / Shooter Scrolling</genre>
+		<players>1-2</players>
+		<image>./mixart/Probotector II - Return of the Evil Forces (Europe) (Unl).png</image>
+		<video>./snap/Probotector II - Return of the Evil Forces (Europe) (Unl).mp4</video>
+		<marquee>./wheel/Probotector II - Return of the Evil Forces (Europe) (Unl).png</marquee>
+		<genreid>257</genreid>
+	</game>
+	<game id="189425" source="ScreenScraper.fr">
+		<path>./Probotector (Europe) (Unl).zip</path>
+		<name>Probotector</name>
+		<desc>In the year 2631, a small meteorite has fallen into the Galuga archipelago, located 20km northeast off the coast of New Zealand. Two years later, a terrorist group known as Red Falcon has seized the island in preparation for an alien invasion. The earth's marines sent two members of their elite Contra unit, Bill Rizer and Lance Bean, to neutralize the terrorists.
+
+As either, Bill (player 1) or Lance (player 2), the player must get to the end of each stage, shooting everything in sight, while avoiding enemy fire themselves. The player can upgrade their standard-issue rifle into one of four different weapons, including the powerful spread shot.</desc>
+		<rating>0.9</rating>
+		<releasedate>19901228T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<image>./mixart/Probotector (Europe) (Unl).png</image>
+		<video>./snap/Probotector (Europe) (Unl).mp4</video>
+		<marquee>./wheel/Probotector (Europe) (Unl).png</marquee>
+		<genreid>256</genreid>
+	</game>
 	<game>
 		<path>./#nes-hd/Castlevania (USA) (Rev A) HD.7z</path>
 		<name>Castlevania HD</name>
@@ -28484,36 +28502,18 @@ Castlevania is a side-scrolling platform action game. The player taking the role
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-  <game id="1321" source="ScreenScraper.fr">
-    <path>./Probotector II - Return of the Evil Forces (Europe) (Unl).zip</path>
-    <name>Probotector II : Return of the Evil Forces</name>
-    <desc>After losing a confrontation against Super Commandos Mad Dog and Scorpion, the juices of destruction drip from the spiked tongue of the vile alien warmonger - Red Falcon. Now, he's coming back stronger than ever, with a sinister plan that includes having his intergalactic warriors seep into the brains of the U.S. Army. To support his disguised forces of doom, he's recruited Jagger Froid, a demented alien from the Black Hole Galaxy. He's also shuttled in The Babula Destructoid Mechanism with its Beam of Death. With torrential terror about to rain down upon civilization, Earth's only hope rests with you, Scorpion, and your pal, the Dogster. And if your spread guns, lasers, flame throwers and mega shells fail to destroy Red Falcon's eight levels of terror, including radioactive lava fields, it's all over but for the shouting, the screaming and the cries from a disintegrating world!</desc>
-    <rating>0.85</rating>
-    <releasedate>19920101T000000</releasedate>
-    <developer>Konami</developer>
-    <publisher>Konami</publisher>
-    <genre>Platform-Platform / Shooter Scrolling</genre>
-    <players>1-2</players>
-    <image>./mixart/Probotector II - Return of the Evil Forces (Europe) (Unl).png</image>
-    <video>./snap/Probotector II - Return of the Evil Forces (Europe) (Unl).mp4</video>
-	<marquee>./wheel/Probotector II - Return of the Evil Forces (Europe) (Unl).png</marquee>
-    <genreid>257</genreid>
-  </game>
-  <game id="189425" source="ScreenScraper.fr">
-    <path>./Probotector (Europe) (Unl).zip</path>
-    <name>Probotector</name>
-    <desc>In the year 2631, a small meteorite has fallen into the Galuga archipelago, located 20km northeast off the coast of New Zealand. Two years later, a terrorist group known as Red Falcon has seized the island in preparation for an alien invasion. The earth's marines sent two members of their elite Contra unit, Bill Rizer and Lance Bean, to neutralize the terrorists.
-
-As either, Bill (player 1) or Lance (player 2), the player must get to the end of each stage, shooting everything in sight, while avoiding enemy fire themselves. The player can upgrade their standard-issue rifle into one of four different weapons, including the powerful spread shot.</desc>
-    <rating>0.9</rating>
-    <releasedate>19901228T000000</releasedate>
-    <developer>Konami</developer>
-    <publisher>Konami</publisher>
-    <genre>Action</genre>
-    <players>2</players>
-    <image>./mixart/Probotector (Europe) (Unl).png</image>
-    <video>./snap/Probotector (Europe) (Unl).mp4</video>
-	<marquee>./wheel/Probotector (Europe) (Unl).png</marquee>
-    <genreid>256</genreid>
-  </game>
+	<game>
+		<path>./Gaplus for NES.zip</path>
+		<name>'H'Gaplus (NES Version)</name>
+		<desc>This archived file is a NES port of Gaplus seen in Namco Museum Archives Volume 2 (Namcot Collection in Japan), directly ripped from the international Steam release. This same game is also on Arcade system.</desc>
+		<image>./mixart/Gaplus for NES.png</image>
+		<video>./snap/Gaplus for NES.mp4</video>
+		<marquee>./wheel/Gaplus for NES.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20200621</releasedate>
+		<developer>Namcot</developer>
+		<publisher>BNEI</publisher>
+		<genre>Arcade/Hack</genre>
+		<players>2</players>
+	</game>
 </gameList>

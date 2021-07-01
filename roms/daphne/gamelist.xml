@@ -184,21 +184,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./astron.daphne</path>
-		<name>Astron Belt</name>
-		<desc>Astron Belt is an early laserdisc video game and third-person space combat rail shooter, released in 1983 by Sega in Japan and licensed to Bally Midway for release in the United States.</desc>
-		<image>./mixart/astron.png</image>
-		<video>./snap/astron.mp4</video>
-		<marquee>./wheel/astron.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19830515T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Bally Midway</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./badlands.daphne</path>
 		<name>Badlands</name>
 		<desc>Badlands early laserdisc video, the game is themed as an old West shooter, the function of the button is almost always the fire the main character's gun to fend off against attackers. If the player shoots too soon, he will be hanged for murder. Failing to fire in time, however, will result in being killed by the attack.</desc>
@@ -255,6 +240,21 @@
 		<developer>RDI Video Systems</developer>
 		<publisher>RDI Video Systems</publisher>
 		<genre>Platform-Plateform / Run Jump</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./astron.daphne</path>
+		<name>Astron Belt</name>
+		<desc>Astron Belt is an early laserdisc video game and third-person space combat rail shooter, released in 1983 by Sega in Japan and licensed to Bally Midway for release in the United States.</desc>
+		<image>./mixart/astron.png</image>
+		<video>./snap/astron.mp4</video>
+		<marquee>./wheel/astron.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19830515T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Bally Midway</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

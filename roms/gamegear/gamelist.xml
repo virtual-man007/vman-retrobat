@@ -4277,23 +4277,6 @@ The game begins on Tatooine, where you, as Luke Skywalker, must travel around an
 		<genre>Platform-Action</genre>
 	</game>
 	<game>
-		<path>./Aerial Assault (World).7z</path>
-		<name>Aerial Assault</name>
-		<desc>In Aerial Assault, you play the Freedom Fighter who must destroy five targets, including the Vinsk, CB-53 Bomber, "El", and two cliff fortresses. During each of the five missions, you will encounter enemy jets, choppers, submarines, jeeps, parachute bombs, and several other enemies in which you must destroy. Shooting either the spinning fighters or the small flying helicopters will earn you a power-up that allows you to upgrade or downgrade your firepower. There are three difficult settings: "Easy", "Normal", and "Hard". You will not be able to complete the game if you select the "Easy" setting.</desc>
-		<image>./mixart/Aerial Assault (World).png</image>
-		<video>./snap/Aerial Assault (World).mp4</video>
-		<marquee>./wheel/Aerial Assault (World).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Sims</developer>
-		<publisher>Sega</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
 		<path>./X-Men (USA).7z</path>
 		<name>X-Men</name>
 		<desc>X-Men is a sidescrolling beat'em up/platform game, much like its homonymous Mega Drive/ Genesis counterpart. Several X-Men characters are playable throughout the game. The player can choose from two characters from the start, Cyclops and Wolverine, and three Levels are accessible. In the course of the game, the player can unlock five other X-Men, namely Storm, Iceman, Rogue, Nightcrawler and Psylocke.
@@ -4312,5 +4295,22 @@ The basic mechanics of the game are punching, (double-)jumping and jump-kicking.
 		<players>4</players>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./Aerial Assault (World).7z</path>
+		<name>Aerial Assault</name>
+		<desc>In Aerial Assault, you play the Freedom Fighter who must destroy five targets, including the Vinsk, CB-53 Bomber, "El", and two cliff fortresses. During each of the five missions, you will encounter enemy jets, choppers, submarines, jeeps, parachute bombs, and several other enemies in which you must destroy. Shooting either the spinning fighters or the small flying helicopters will earn you a power-up that allows you to upgrade or downgrade your firepower. There are three difficult settings: "Easy", "Normal", and "Hard". You will not be able to complete the game if you select the "Easy" setting.</desc>
+		<image>./mixart/Aerial Assault (World).png</image>
+		<video>./snap/Aerial Assault (World).mp4</video>
+		<marquee>./wheel/Aerial Assault (World).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sims</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>wr</region>
 	</game>
 </gameList>

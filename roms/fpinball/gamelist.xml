@@ -1992,22 +1992,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Aliens Legacy ULTIMATE Pro 1.03.fpt</path>
-		<name>Aliens Legacy ULTIMATE Pro 1.03</name>
-		<desc>Flipper Aliens Legacy ULTIMATE Pro 1.03</desc>
-		<image>./mixart/Aliens Legacy ULTIMATE Pro 1.03.jpg</image>
-		<video>./snap/Aliens Legacy ULTIMATE Pro 1.03.mp4</video>
-		<marquee>./wheel/Aliens Legacy ULTIMATE Pro 1.03.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Avatar Collector's Edition 1.05.fpt</path>
 		<name>Avatar Collector's Edition 1.05</name>
 		<desc>Flipper Avatar Collector's Edition</desc>
@@ -2071,6 +2055,22 @@
 		<image>./mixart/Blade Runner ULTIMATE Pro 1.04.jpg</image>
 		<video>./snap/Blade Runner ULTIMATE Pro 1.04.mp4</video>
 		<marquee>./wheel/Blade Runner ULTIMATE Pro 1.04.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Aliens Legacy ULTIMATE Pro 1.03.fpt</path>
+		<name>Aliens Legacy ULTIMATE Pro 1.03</name>
+		<desc>Flipper Aliens Legacy ULTIMATE Pro 1.03</desc>
+		<image>./mixart/Aliens Legacy ULTIMATE Pro 1.03.jpg</image>
+		<video>./snap/Aliens Legacy ULTIMATE Pro 1.03.mp4</video>
+		<marquee>./wheel/Aliens Legacy ULTIMATE Pro 1.03.png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>

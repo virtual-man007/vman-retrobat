@@ -2769,22 +2769,6 @@
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Back To The Future 1.4 PF Mod.vpx</path>
-		<name>Back To The Future 1.4 PF Mod</name>
-		<desc>Flipper Back To The Future 1.4 PF Mod</desc>
-		<image>./mixart/Back To The Future 1.4 PF Mod.jpg</image>
-		<video>./snap/Back To The Future 1.4 PF Mod.mp4</video>
-		<marquee>./wheel/Back To The Future 1.4 PF Mod.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Battlestar Galactica (Williams 1980) Mod v1.4.1.vpx</path>
 		<name>Battlestar Galactica (Williams 1980)</name>
 		<desc>Flipper Battlestar Galactica (Williams 1980) Mod v1.4.1</desc>
@@ -2859,5 +2843,21 @@
 		<genre>Pinball</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Back To The Future 1.4 PF Mod.vpx</path>
+		<name>Back To The Future 1.4 PF Mod</name>
+		<desc>Flipper Back To The Future 1.4 PF Mod</desc>
+		<image>./mixart/Back To The Future 1.4 PF Mod.jpg</image>
+		<video>./snap/Back To The Future 1.4 PF Mod.mp4</video>
+		<marquee>./wheel/Back To The Future 1.4 PF Mod.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

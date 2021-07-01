@@ -553,21 +553,6 @@ With Crash™ Team Racing Nitro-Fueled, the stakes are high and the competition 
 		<players>4</players>
 		<lang>en</lang>
 	</game>
-	<game id="197817">
-		<path>./Diablo_III_Eternal_Collection.xci</path>
-		<name>Diablo 3 - Eternal Collection</name>
-		<desc>Ages ago, angels and demons birthed your world in a forbidden union. Now they've come to claim it. Stand tall among Sanctuary's meek and wicked to battle walking corpses, horrifying cultists, fallen seraphs, and the Lords of Hell. When the High Heavens and the Burning Hells war, humanity must be its own salvation.</desc>
-		<image>./images/Diablo_III_Eternal_Collection-image.png</image>
-		<video>./videos/Diablo_III_Eternal_Collection.mp4</video>
-		<marquee>./images/Diablo_III_Eternal_Collection-marquee.png</marquee>
-		<releasedate>20181102T000000</releasedate>
-		<developer>Blizzard Entertainment</developer>
-		<publisher>Blizzard Entertainment</publisher>
-		<genre>Adventure</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game>
 		<path>./Scott_Pilgrim_vs_The_World_The_Game.nsp</path>
 		<name>Scott Pilgrim vs. The World: The Game - Classic Edition (Limited Run #94)</name>
@@ -626,6 +611,21 @@ Team up with friends and combine your skills to battle your way through waves of
 		<publisher>Nintendo</publisher>
 		<genre>Action / Adventure</genre>
 		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="197817">
+		<path>./Diablo_III_Eternal_Collection.xci</path>
+		<name>Diablo 3 - Eternal Collection</name>
+		<desc>Ages ago, angels and demons birthed your world in a forbidden union. Now they've come to claim it. Stand tall among Sanctuary's meek and wicked to battle walking corpses, horrifying cultists, fallen seraphs, and the Lords of Hell. When the High Heavens and the Burning Hells war, humanity must be its own salvation.</desc>
+		<image>./images/Diablo_III_Eternal_Collection-image.png</image>
+		<video>./videos/Diablo_III_Eternal_Collection.mp4</video>
+		<marquee>./images/Diablo_III_Eternal_Collection-marquee.png</marquee>
+		<releasedate>20181102T000000</releasedate>
+		<developer>Blizzard Entertainment</developer>
+		<publisher>Blizzard Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>4</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

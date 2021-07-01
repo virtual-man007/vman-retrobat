@@ -1107,24 +1107,6 @@ The game's art is similar to the naturalistic style of Ocarina of Time, rather t
 		<lang>en,es,fr</lang>
 		<region>eu</region>
 	</game>
-	<game id="8724">
-		<path>./Metroid - Other M (USA) (En,Fr,Es) (Rev 1).rvz</path>
-		<name>Metroid: Other M</name>
-		<desc>Metroid: Other M is reminiscent of 2-D side-scrollers, but players can switch the perspective into 3-D at any time as they explore the twisting passages of a derelict space station and delve deep into a cinematic, never-before-told story of bounty hunter Samus Aran's past.
-
-This new approach uses a new control scheme in which players use the Wii Remote controller held sideways to battle enemies and navigate the expansive, gorgeous environments in classic Metroid fashion, then aim at the screen with the Wii Remote pointer to blast foes in first-person and hunt the world for clues and hidden passages.</desc>
-		<image>./mixart/Metroid - Other M (USA) (En,Fr,Es) (Rev 1).png</image>
-		<video>./snap/Metroid - Other M (USA) (En,Fr,Es) (Rev 1).mp4</video>
-		<marquee>./wheel/Metroid - Other M (USA) (En,Fr,Es) (Rev 1).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20100903T000000</releasedate>
-		<developer>Team Ninja</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<lang>en,es,fr</lang>
-		<region>eu</region>
-	</game>
 	<game id="8710">
 		<path>./Resident Evil 4 - Wii Edition (USA).rvz</path>
 		<name>Resident Evil 4: Wii Edition</name>
@@ -3019,43 +3001,6 @@ The game is structured very similar to previous Zelda games: you travel through 
 		<players>2</players>
 		<genreid>262</genreid>
 	</game>
-	<game id="9759" source="ScreenScraper.fr">
-		<path>./Contra ReBirth (USA) (WiiWare).wad</path>
-		<name>Contra Rebirth</name>
-		<desc>Experience fast paced 2D side scrolling action from the series that pioneered the run-and-gun genre.
-
-Chief Salamander and his Neo-Salamander Force travel back to 1973 AD to invade Earth. They land in Central America and take control of the Shizuoka ruins on the Yucatan Peninsula. There, the aliens plan the destruction of all the ?Contra" on Earth. The Galactic President calls on Lance Bean, a member of the elite "Contra" warriors to save the Earth, but his sudden disappearance jeopardizes the safety of the planet. Now, Bill Rizer and the samurai, Genbei Yagyu are the last hope for Earth and must pick up their weapons and defeat the evil Neo-Salamander Army before all is lost. Experience the fast paced action packed 2D side-scrolling adventure that pioneered the run-and-gun genre.</desc>
-		<image>./mixart/Contra ReBirth (USA) (WiiWare).png</image>
-		<video>./snap/Contra ReBirth (USA) (WiiWare).mp4</video>
-		<marquee>./wheel/Contra ReBirth (USA) (WiiWare).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20090512T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>256</genreid>
-	</game>
-	<game>
-		<path>./Excitebike - World Rally (USA) (WiiWare).wad</path>
-		<name>Excitebike : World Rally</name>
-		<desc>The classic game play of Excitebike is combined with new controls and features in this exclusive WiiWare title! 
-Prepare to face daredevil jumps, crazy obstacles, and other racers in the newest member of the venerable Excitebike franchise, exclusively available on the WiiWare service. Choose from multiple camera angles as you tilt your way to smooth landings using the motion-sensitive controls and compete in races around the world in four championship circuits. Better yet, use Nintendo Wi-Fi Connection to invite friends to a race, or if you re feeling brave, take on anyone else looking for a match. Feel like tackling a challenge of your own design? Use the intuitive Track Editor to choose from the available obstacles and put together your dream course, then share your masterpiece with friends (and vice versa) to see whose creation skills reign supreme. After all, you know what they say about riding a bikeâ€”once you ve learned how, you never forget...</desc>
-		<image>./mixart/Excitebike - World Rally (USA) (WiiWare).png</image>
-		<video>./snap/Excitebike - World Rally (USA) (WiiWare).mp4</video>
-		<marquee>./wheel/Excitebike - World Rally (USA) (WiiWare).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20091109T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="8812" source="ScreenScraper.fr">
 		<path>./Fragile Dreams - Farewell Ruins of the Moon (USA) (En,Ja,Fr).rvz</path>
 		<name>Fragile Dreams : Farewell Ruins of the Moon</name>
@@ -3279,5 +3224,60 @@ Players can also take a snapshot of the worlds they've completed along with thei
 		<lang>en,es,fr</lang>
 		<region>eu</region>
 		<genreid>257</genreid>
+	</game>
+	<game>
+		<path>./Excitebike - World Rally (USA) (WiiWare).wad</path>
+		<name>Excitebike : World Rally</name>
+		<desc>The classic game play of Excitebike is combined with new controls and features in this exclusive WiiWare title! 
+Prepare to face daredevil jumps, crazy obstacles, and other racers in the newest member of the venerable Excitebike franchise, exclusively available on the WiiWare service. Choose from multiple camera angles as you tilt your way to smooth landings using the motion-sensitive controls and compete in races around the world in four championship circuits. Better yet, use Nintendo Wi-Fi Connection to invite friends to a race, or if you re feeling brave, take on anyone else looking for a match. Feel like tackling a challenge of your own design? Use the intuitive Track Editor to choose from the available obstacles and put together your dream course, then share your masterpiece with friends (and vice versa) to see whose creation skills reign supreme. After all, you know what they say about riding a bikeâ€”once you ve learned how, you never forget...</desc>
+		<image>./mixart/Excitebike - World Rally (USA) (WiiWare).png</image>
+		<video>./snap/Excitebike - World Rally (USA) (WiiWare).mp4</video>
+		<marquee>./wheel/Excitebike - World Rally (USA) (WiiWare).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20091109T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="8724">
+		<path>./Metroid - Other M (USA) (En,Fr,Es) (Rev 1).rvz</path>
+		<name>Metroid: Other M</name>
+		<desc>Metroid: Other M is reminiscent of 2-D side-scrollers, but players can switch the perspective into 3-D at any time as they explore the twisting passages of a derelict space station and delve deep into a cinematic, never-before-told story of bounty hunter Samus Aran's past.
+
+This new approach uses a new control scheme in which players use the Wii Remote controller held sideways to battle enemies and navigate the expansive, gorgeous environments in classic Metroid fashion, then aim at the screen with the Wii Remote pointer to blast foes in first-person and hunt the world for clues and hidden passages.</desc>
+		<image>./mixart/Metroid - Other M (USA) (En,Fr,Es) (Rev 1).png</image>
+		<video>./snap/Metroid - Other M (USA) (En,Fr,Es) (Rev 1).mp4</video>
+		<marquee>./wheel/Metroid - Other M (USA) (En,Fr,Es) (Rev 1).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20100903T000000</releasedate>
+		<developer>Team Ninja</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="9759" source="ScreenScraper.fr">
+		<path>./Contra ReBirth (USA) (WiiWare).wad</path>
+		<name>Contra Rebirth</name>
+		<desc>Experience fast paced 2D side scrolling action from the series that pioneered the run-and-gun genre.
+
+Chief Salamander and his Neo-Salamander Force travel back to 1973 AD to invade Earth. They land in Central America and take control of the Shizuoka ruins on the Yucatan Peninsula. There, the aliens plan the destruction of all the ?Contra" on Earth. The Galactic President calls on Lance Bean, a member of the elite "Contra" warriors to save the Earth, but his sudden disappearance jeopardizes the safety of the planet. Now, Bill Rizer and the samurai, Genbei Yagyu are the last hope for Earth and must pick up their weapons and defeat the evil Neo-Salamander Army before all is lost. Experience the fast paced action packed 2D side-scrolling adventure that pioneered the run-and-gun genre.</desc>
+		<image>./mixart/Contra ReBirth (USA) (WiiWare).png</image>
+		<video>./snap/Contra ReBirth (USA) (WiiWare).mp4</video>
+		<marquee>./wheel/Contra ReBirth (USA) (WiiWare).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20090512T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>256</genreid>
 	</game>
 </gameList>

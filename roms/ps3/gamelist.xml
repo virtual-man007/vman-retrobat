@@ -1200,6 +1200,16 @@ Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or
 		<releasedate />
 		<lang>en</lang>
 	</game>
+	<game id="200853" source="ScreenScraper.fr">
+		<path>./Hot Shots Golf - Out of Bounds (USA).m3u</path>
+		<name>Hot Shots Golf - Out of Bounds</name>
+		<desc>(Also known as "Everybody's Golf 5", "Hot Shots Golf 5", and "Everybody's Golf: World Tour") The fun, addicting and ever-popular Hot Shots Golf franchise, tees it up on the PLAYSTATION 3 system. High Definition) detail of course graphics accompanied with new, more accurate golf physics, brings a revolutionary new level of immersion to the already established signature style of pick-up and play gameplay. With vibrant new courses, zany new characters and a wealth of new online features, Hot Shots Golf: Out of Bounds strives to enter the next generation strokes ahead of the competition.</desc>
+		<image>./mixart/Hot Shots Golf - Out of Bounds (USA).png</image>
+		<video>./snap/Hot Shots Golf - Out of Bounds (USA).mp4</video>
+		<marquee>./wheel/Hot Shots Golf - Out of Bounds (USA).png</marquee>
+		<rating>0.81</rating>
+		<releasedate />
+	</game>
 	<game id="25507" source="ScreenScraper.fr">
 		<path>./3D Dot Game Heroes.m3u</path>
 		<name>3d Dot Game Heroes</name>
@@ -1220,15 +1230,5 @@ Swords in game can be customized and leveled up to increase its length, width, a
 		<genre>Role playing games</genre>
 		<players>1</players>
 		<genreid>768</genreid>
-	</game>
-	<game id="200853" source="ScreenScraper.fr">
-		<path>./Hot Shots Golf - Out of Bounds (USA).m3u</path>
-		<name>Hot Shots Golf - Out of Bounds</name>
-		<desc>(Also known as "Everybody's Golf 5", "Hot Shots Golf 5", and "Everybody's Golf: World Tour") The fun, addicting and ever-popular Hot Shots Golf franchise, tees it up on the PLAYSTATION 3 system. High Definition) detail of course graphics accompanied with new, more accurate golf physics, brings a revolutionary new level of immersion to the already established signature style of pick-up and play gameplay. With vibrant new courses, zany new characters and a wealth of new online features, Hot Shots Golf: Out of Bounds strives to enter the next generation strokes ahead of the competition.</desc>
-		<image>./mixart/Hot Shots Golf - Out of Bounds (USA).png</image>
-		<video>./snap/Hot Shots Golf - Out of Bounds (USA).mp4</video>
-		<marquee>./wheel/Hot Shots Golf - Out of Bounds (USA).png</marquee>
-		<rating>0.81</rating>
-		<releasedate></releasedate>
 	</game>
 </gameList>

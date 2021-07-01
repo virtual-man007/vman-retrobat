@@ -833,22 +833,6 @@ A sequel was later released for the Xbox 360, entitled Fuzion Frenzy 2.</desc>
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Bruce Lee - Quest of the Dragon.cmd</path>
-		<name>Bruce Lee: Quest of the Dragon</name>
-		<desc>Bruce Lee: Quest of the Dragon is a beat 'em up video game featuring martial artist Bruce Lee. It was developed by Ronin Entertainment and published by Universal Interactive, and was released in Europe and the United States for the Xbox in 2002 to a negative critical reception.
-You are Bruce Lee, legendary martial arts master. Your father has been kidnapped, your monastery desecrated, and the mystical Golden Relic - keeper of the ancient martial arts secrets - has been stolen. Investigate the mysterious Black Lotus crime organization and the beautiful and deadly Dragon Lady. Use your mastery of Jeet Kune Do to punch, kick, block and combo as you fight hordes of thugs and crime bosses. In this compelling blend of epic adventure and intense fighting action you finally get the chance to be Bruce Lee.</desc>
-		<image>./mixart/Bruce Lee - Quest of the Dragon.png</image>
-		<video>./snap/Bruce Lee - Quest of the Dragon.mp4</video>
-		<marquee>./wheel/Bruce Lee - Quest of the Dragon.png</marquee>
-		<rating>0.55</rating>
-		<releasedate>20020701T000000</releasedate>
-		<developer>Ronin Entertainment</developer>
-		<publisher>Universal Interactive Inc.</publisher>
-		<genre>Fighting</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./The Bible Game.cmd</path>
 		<name>The Bible Game</name>
 		<desc>A trivia game to test gamers' biblical knowledge, The Bible Game casts players as contestants on a game show with fast-paced, "beat the buzzer" action and a comical off-screen announcer as emcee. 20 mini- and micro-games with 1,500 questions reinforce inspirational Old Testament teachings such as Jonah and the Whale, David and Goliath, The Tower of Babel, and many more. Multiplayer mode for up to 4 players encourages family members of all ages to play together, and provides a fun alternative for family game nights.</desc>
@@ -896,5 +880,21 @@ You are Bruce Lee, legendary martial arts master. Your father has been kidnapped
 		<favorite>true</favorite>
 		<md5>77f79c168f2d859aef09936ff708a15a</md5>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Bruce Lee - Quest of the Dragon.cmd</path>
+		<name>Bruce Lee: Quest of the Dragon</name>
+		<desc>Bruce Lee: Quest of the Dragon is a beat 'em up video game featuring martial artist Bruce Lee. It was developed by Ronin Entertainment and published by Universal Interactive, and was released in Europe and the United States for the Xbox in 2002 to a negative critical reception.
+You are Bruce Lee, legendary martial arts master. Your father has been kidnapped, your monastery desecrated, and the mystical Golden Relic - keeper of the ancient martial arts secrets - has been stolen. Investigate the mysterious Black Lotus crime organization and the beautiful and deadly Dragon Lady. Use your mastery of Jeet Kune Do to punch, kick, block and combo as you fight hordes of thugs and crime bosses. In this compelling blend of epic adventure and intense fighting action you finally get the chance to be Bruce Lee.</desc>
+		<image>./mixart/Bruce Lee - Quest of the Dragon.png</image>
+		<video>./snap/Bruce Lee - Quest of the Dragon.mp4</video>
+		<marquee>./wheel/Bruce Lee - Quest of the Dragon.png</marquee>
+		<rating>0.55</rating>
+		<releasedate>20020701T000000</releasedate>
+		<developer>Ronin Entertainment</developer>
+		<publisher>Universal Interactive Inc.</publisher>
+		<genre>Fighting</genre>
+		<players>1</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

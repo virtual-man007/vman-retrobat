@@ -10201,21 +10201,6 @@ Moving around an alien-infested complex in a top-down view, you must at all time
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Agony_v2.0_0960.lha</path>
-		<name>Agony</name>
-		<desc>This horizontally-scrolling shoot 'em up features six long levels, all with detailed and mellow background graphics, aiming for a less hectic feel than contemporaries such as Project X. As a magician's apprentice, you have been turned into an owl to give you the best chance of destroying the many dark creatures to be faced, and thus discovering the secret of cosmic strength.    These dark creatures include piranhas, giant ants and mosquitoes. Extra weapons and invincibility periods can be collected. The technical details include 3 layers of multi-directional parallax scrolling, background animation, and different title and in-game music.</desc>
-		<image>./mixart/Agony_v2.0_0960.png</image>
-		<video>./snap/Agony_v2.0_0960.mp4</video>
-		<marquee>./wheel/Agony_v2.0_0960.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Art &amp; Magic</developer>
-		<publisher>Psygnosis</publisher>
-		<genre>Shoot'em Up</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./ActionFighter_v1.3.1_1243.lha</path>
 		<name>Action Fighter</name>
 		<desc>This is a top down vertically scrolling shooter, in which you start off as a motorbike. You are quite vulnerable to attack at first, but power ups come in the form of a Sega van which you have to dock with. The first time you dock you get double fire, the second time gives you a rocket, the third gives a rear force field and the fourth invulnerablility.
@@ -10261,7 +10246,7 @@ Alfred cannot fly, but he can use ramps to jump up and hit enemies with his bion
 		<video>./snap/AlfredChicken_v1.01_AGA_0623.mp4</video>
 		<marquee>./wheel/AlfredChicken_v1.01_AGA_0623.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Twilight</developer>
 		<publisher>Mindscape</publisher>
 		<lang>en</lang>
@@ -10290,7 +10275,7 @@ The gameplay of the various Alien³ conversions varies from platform to platform
 		<video>./snap/AlienBreed2_v1.4_AGA_0044.mp4</video>
 		<marquee>./wheel/AlienBreed2_v1.4_AGA_0044.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<publisher>Team 17</publisher>
 		<players>2</players>
 		<lang>en</lang>
@@ -10583,6 +10568,21 @@ The game supports up to 16 players in singles matches on a variety of court surf
 		<developer>Starbyte</developer>
 		<publisher>Starbyte</publisher>
 		<players>8+</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Agony_v2.0_0960.lha</path>
+		<name>Agony</name>
+		<desc>This horizontally-scrolling shoot 'em up features six long levels, all with detailed and mellow background graphics, aiming for a less hectic feel than contemporaries such as Project X. As a magician's apprentice, you have been turned into an owl to give you the best chance of destroying the many dark creatures to be faced, and thus discovering the secret of cosmic strength.    These dark creatures include piranhas, giant ants and mosquitoes. Extra weapons and invincibility periods can be collected. The technical details include 3 layers of multi-directional parallax scrolling, background animation, and different title and in-game music.</desc>
+		<image>./mixart/Agony_v2.0_0960.png</image>
+		<video>./snap/Agony_v2.0_0960.mp4</video>
+		<marquee>./wheel/Agony_v2.0_0960.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Art &amp; Magic</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Shoot'em Up</genre>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

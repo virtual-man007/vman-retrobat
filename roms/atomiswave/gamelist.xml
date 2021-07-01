@@ -376,22 +376,6 @@
 		<players>2</players>
 	</game>
 	<game>
-		<path>./demofist.zip</path>
-		<name>Demolish Fist</name>
-		<desc>Demolish Fist is a side scrolling beat 'em up where the player controls one of four characters, Enzo, Leoneer, Vanessa or Undead as you battle your way through various stages. There are many items, which are available to use as a weapons against your enemies. Each player has their own assortment of moves and specials that they can unleash at will. Also all four of these characters have the ability to use the awesome 'Vertigo' technique! Demolish Fist is a well put together fighting game that has many things to offer the beat 'em up world.</desc>
-		<image>./mixart/demofist.png</image>
-		<video>./snap/demofist.mp4</video>
-		<marquee>./wheel/demofist.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20030101T000000</releasedate>
-		<developer>Sammy Studios</developer>
-		<publisher>Sammy Studios</publisher>
-		<genre>Beat'em Up-Fight-Fight / Versus</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./fotns.zip</path>
 		<name>Fist Of The North Star</name>
 		<desc>This was an arcade game released in 2000 by Konami (also known as Punch Mania: Hokuto no Ken)</desc>
@@ -403,6 +387,22 @@
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
 		<genre>Fight-Fight / Versus</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./demofist.zip</path>
+		<name>Demolish Fist</name>
+		<desc>Demolish Fist is a side scrolling beat 'em up where the player controls one of four characters, Enzo, Leoneer, Vanessa or Undead as you battle your way through various stages. There are many items, which are available to use as a weapons against your enemies. Each player has their own assortment of moves and specials that they can unleash at will. Also all four of these characters have the ability to use the awesome 'Vertigo' technique! Demolish Fist is a well put together fighting game that has many things to offer the beat 'em up world.</desc>
+		<image>./mixart/demofist.png</image>
+		<video>./snap/demofist.mp4</video>
+		<marquee>./wheel/demofist.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Beat'em Up-Fight-Fight / Versus</genre>
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
