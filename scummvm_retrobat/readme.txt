@@ -1,20 +1,4 @@
 Instructions #1
 ===============
-1) Execute the batch file retrobat_files.bat
-
------------------
-Retrobat behavior
-=================
-- Folders rename to support RetroBat/lr-scummvm 2.1.0 windows emulator specific configuration to load games properly.
-- Edit the .bat to view more info as it will break it down what exactly it does.
-
-Instructions #2
-===============
-1) Execute the batch file futurewars_tracks.bat
-
------------------
-Retrobat behavior
-=================
-- Renames the tracks to background music works properly in game.
-- Edit the .bat to view more info as it will break it down what exactly it does.
-
+1) In order to play 4 games from scummvm that leverages residualvm (grim fandango, escape from monkey island 4, myst3, the longest journey) you will need to copy scummvm.ini
+V:\_tools\vman-retrobat-master\scummvm_retrobat\ScummVM.ini copy to C:\Users\<youruserid>\AppData\Roaming\ScummVM\

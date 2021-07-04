@@ -155,7 +155,7 @@ Join young Adam and Delphineus the dolphin as they brave the terrors of toxic wa
 		<genre>Point and Click-Adventure</genre>
 	</game>
 	<game>
-		<path>./myst3-win.rvm</path>
+		<path>./myst3-win.cmd</path>
 		<name>Myst 3 - Exile</name>
 		<desc>Myst III Exile takes place 10 years after Riven. You go to Tomahna, Atrus' new home. Atrus offers to show you Releeshahn, the age where the remaining D'ni have established. Before that can happen, a man appears and steals the linking book. You go after him through several ages, and try to understand who he is.</desc>
 		<image>./mixart/myst3.png</image>
@@ -168,7 +168,7 @@ Join young Adam and Delphineus the dolphin as they brave the terrors of toxic wa
 		<genre>Point and Click-Adventure</genre>
 	</game>
 	<game>
-		<path>./monkey4-win.rvm</path>
+		<path>./monkey4-win.cmd</path>
 		<name>Escape From Monkey Island</name>
 		<desc>The game follows Guybrush Threepwood and Elaine Marley as they return to Mêlée Island from their honeymoon. There they discover that Elaine Marley's position of governor has been revoked, her mansion is scheduled to be demolished, and a politician named Charles L. Charles is running for the governorship. Guybrush learns that the islands are being purchased one by one, and pirates are being forced out in favor of tacky Carribean-themed tourism. Guybrush must find out who is threatening his way of life, piracy, and also find a way to save Elaine's mansion.</desc>
 		<image>./mixart/monkey4.png</image>
@@ -218,7 +218,7 @@ Join young Adam and Delphineus the dolphin as they brave the terrors of toxic wa
 		<name>+Start ResidualVM</name>
 	</game>
 	<game>
-		<path>./tlj-win.rvm</path>
+		<path>./tlj-win.cmd</path>
 		<name>The Longest Journey</name>
 		<desc>Between science and magic, between order and chaos, between Stark and Arcadia, there is an ancient balance. For thousands of years, the Guardian of the Balance has perserved the Divide between the twin worlds. But now the Guardian has abandoned his tower, the armies of Chaos are advancing, and the fate of the worlds is in the hands of one person... Her name is April Ryan. She is eighteen years old, and she has no idea that her destiny has already been foretold in hundred tales. With the power to pass between worlds like others pass from waking to sleep, Aprils must embark on the longest journey of her life; a journey not only across twin worlds, but also into her own heart and soul.</desc>
 		<image>./mixart/tlj.png</image>
@@ -1641,7 +1641,7 @@ The games locations are done in hand-painted style. The CD version of the game a
 		<genre>Point and Click-Adventure</genre>
 	</game>
 	<game>
-		<path>./grim.rvm</path>
+		<path>./grim-win.cmd</path>
 		<name>Grim Fandango</name>
 		<desc>The game follows Manny Calavera, a grim reaper for the Department of Death in the Land of the Dead. He learns that the system he works for is corrupt, after a woman who led a great life, Mercedes (Meche) Colomar, doesn't get to go straight to the seventh level of the afterlife, the land of eternal rest. Manny must take a four year journey to find out who's behind the corruption, find Meche, and earn himself a place in the land of eternal rest.</desc>
 		<image>./mixart/grim.png</image>
