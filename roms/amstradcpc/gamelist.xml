@@ -1712,21 +1712,6 @@ The goal of every round is to destroy a number of strategic targets. The positio
 		<region>eu</region>
 	</game>
 	<game>
-		<path>./Barbarian 1 (UK) (1987).dsk</path>
-		<name>Barbarian</name>
-		<desc>Barbarian: The Ultimate Warrior is a fighting game that supports one or two players. Players assume the roles of sword-wielding barbarians, who battle in locales such as a forest glade and a "fighting pit". The game's head-to-head mode lets a player fight against another or the computer in time-limited matches. The game also features a single-player story mode, which comprises a series of plot-connected challenges.</desc>
-		<image>./mixart/Barbarian 1 (UK) (1987).png</image>
-		<video>./snap/Barbarian 1 (UK) (1987).mp4</video>
-		<marquee>./wheel/Barbarian 1 (UK) (1987).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Palace Software</developer>
-		<publisher>Epyx</publisher>
-		<players>2</players>
-		<lang>en</lang>
-		<region>eu</region>
-	</game>
-	<game>
 		<path>./Barbarian 2 (UK) (1989).dsk</path>
 		<name>Barbarian II : The Dungeon of Drax</name>
 		<desc>Barbarian II: The Dungeon of Drax is a video game first published in 1988 for various home computers. It was also released as Axe of Rage in North America. The game is the sequel to Barbarian: The Ultimate Warrior (Death Sword in North America), which was published in 1987. In Barbarian II, the player controls a princess or barbarian character, exploring the game world to locate and defeat an evil wizard. The game's plot is an extension of its predecessor, although the gameplay is different. While the first game offers two players the opportunity for virtual head-to-head combat, the second is solely a single-player adventure with fewer fighting moves.
@@ -1773,6 +1758,21 @@ The car has high and low gears, and is susceptible to damage from contact with a
 		<releasedate>19890101T000000</releasedate>
 		<developer>Taito</developer>
 		<publisher>Virgin Mastertronic</publisher>
+		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./Barbarian 1 (UK) (1987).dsk</path>
+		<name>Barbarian</name>
+		<desc>Barbarian: The Ultimate Warrior is a fighting game that supports one or two players. Players assume the roles of sword-wielding barbarians, who battle in locales such as a forest glade and a "fighting pit". The game's head-to-head mode lets a player fight against another or the computer in time-limited matches. The game also features a single-player story mode, which comprises a series of plot-connected challenges.</desc>
+		<image>./mixart/Barbarian 1 (UK) (1987).png</image>
+		<video>./snap/Barbarian 1 (UK) (1987).mp4</video>
+		<marquee>./wheel/Barbarian 1 (UK) (1987).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Palace Software</developer>
+		<publisher>Epyx</publisher>
+		<players>2</players>
 		<lang>en</lang>
 		<region>eu</region>
 	</game>

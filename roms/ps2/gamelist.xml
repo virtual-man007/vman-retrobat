@@ -4392,22 +4392,6 @@ With this new power Samanosuke must fight through the monster-filled halls of In
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game>
-		<path>./OutRun 2006 - Coast 2 Coast (USA).gz</path>
-		<name>OutRun 2006 : Coast 2 Coast</name>
-		<desc>OutRun 2006: Coast 2 Coast features 15 unique cars, the most ever seen in any OutRun game. In addition to the ten cars from OutRun 2 SP, new models include the 550 Barchetta, F355 Spider, Superamerica, 328 GTS, and the Ferrari F430. Some models cannot be unlocked on the PlayStation Portable or PlayStation 2 without the use of the cross-system connectivity feature inherent of the two systems.</desc>
-		<image>./mixart/OutRun 2006 - Coast 2 Coast (USA).png</image>
-		<video>./snap/OutRun 2006 - Coast 2 Coast (USA).mp4</video>
-		<marquee>./wheel/OutRun 2006 - Coast 2 Coast (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20060331T000000</releasedate>
-		<developer>Sumo Digital</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving</genre>
-		<players>2-6</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="23738" source="ScreenScraper.fr">
 		<path>./Pac-Man Fever (USA).gz</path>
 		<name>Pac-Man Fever</name>
@@ -7264,6 +7248,22 @@ To make things much easier there are nine different power-ups and weapons scatte
 		<genre>Shoot'em Up-Shoot'em up / Horizontal</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./OutRun 2006 - Coast 2 Coast (USA).gz</path>
+		<name>OutRun 2006 : Coast 2 Coast</name>
+		<desc>OutRun 2006: Coast 2 Coast features 15 unique cars, the most ever seen in any OutRun game. In addition to the ten cars from OutRun 2 SP, new models include the 550 Barchetta, F355 Spider, Superamerica, 328 GTS, and the Ferrari F430. Some models cannot be unlocked on the PlayStation Portable or PlayStation 2 without the use of the cross-system connectivity feature inherent of the two systems.</desc>
+		<image>./mixart/OutRun 2006 - Coast 2 Coast (USA).png</image>
+		<video>./snap/OutRun 2006 - Coast 2 Coast (USA).mp4</video>
+		<marquee>./wheel/OutRun 2006 - Coast 2 Coast (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20060331T000000</releasedate>
+		<developer>Sumo Digital</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
+		<players>2-6</players>
 		<lang>en</lang>
 		<region>us</region>
 	</game>

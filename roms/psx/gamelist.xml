@@ -3956,19 +3956,6 @@ This version of the game has a few notable differences to its Nintendo 64 counte
 		<genre>Shooter / 1st person-Shooter</genre>
 	</game>
 	<game>
-		<path>./Ape Escape (USA).chd</path>
-		<name>Ape Escape</name>
-		<desc>A boisterous band of baboons carry out a daring zoo escape. It's ape anarchy and it's up to you to stop the chimps before they make chumps out of the human race! Use both analog sticks to operate great gadgets including a Tank, a Remote Control Car, a Stun Club, and a Time Net in your quest to hunt down over 200 apes!</desc>
-		<image>./mixart/Ape Escape (USA).png</image>
-		<video>./snap/Ape Escape (USA).mp4</video>
-		<marquee>./wheel/Ape Escape (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19990531T000000</releasedate>
-		<developer>Sony</developer>
-		<publisher>Sony</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
 		<path>./Chrono Cross (USA).m3u</path>
 		<name>Chrono Cross</name>
 		<desc>Chrono Cross is a sequel to the SNES RPG  Chrono Trigger.
@@ -17433,23 +17420,6 @@ Baldur’s Gate was intended to be a port of the game for the PlayStation. Notic
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Quake II (USA).chd</path>
-		<name>Quake II</name>
-		<desc>A sequel in name only, this follow up to id 1996 Quake, is a first-person shooter revolving around the Earth-Strogg war. The Strogg alien race threatens the Earth, but Earth has launched a counter-offensive, Operation Alien Overlord. Overlord takes the battle to the Strogg homeworld with the ultimate objective of securing their capital city and killing their ruler.
-
-As a FPS, Quake II contains a variety of weapons including the fall back Blaster, the Railgun, and the secret BFG10K. Health, armor, and ammunition pick-ups can be found during levels, as can the classic Quakes Quad Damage power-up. Game play involves mowing down alien opponents as the player progresses through levels, completing in-game objectives. Quake II also comes with multiplayer support for Deathmatches.</desc>
-		<image>./mixart/Quake II (USA).png</image>
-		<video>./snap/Quake II (USA).mp4</video>
-		<marquee>./wheel/Quake II (USA).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19990930T000000</releasedate>
-		<developer>Activision</developer>
-		<publisher>id Software</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Wing Commander III - Heart of the Tiger (USA).m3u</path>
 		<name>Wing Commander III : Heart of the Tiger</name>
 		<desc>The protagonist of the previous two games was officially assigned a name in WCIII, Colonel Christopher Blair (Mark Hamill). The opening cutscene, the first FMV cutscene in the Wing Commander series, depicts a saddening scene: Thrakhath nar Kiranka (John Rhys-Davies), Crown Prince of the hostile Kilrathi Empire, presiding over the execution by disintegration of a group of Terran Confederation prisoners of war. One, however, is left alive: Blair's lover Colonel Jeannette "Angel" Devereaux (Yolanda Jilot), due to her status among the Kilrathi as a respected warrior, who is executed by Prince Thrakhath using his claws to disembowel her (though her death scene is not shown until later in the game). The scene then cuts to the planet Vespus, where Blair and Brigadier General James "Paladin" Taggart inspect the downed wreckage of the TCS Concordia. The carrier is a total loss.</desc>
@@ -17476,23 +17446,6 @@ As a FPS, Quake II contains a variety of weapons including the fall back Blaster
 		<publisher>Electronic Arts</publisher>
 		<genre>Sports-Sports / Soccer</genre>
 		<players>2-8</players>
-	</game>
-	<game>
-		<path>./Formula 1 (USA).chd</path>
-		<name>Formula 1</name>
-		<desc>Formula 1 was the first of Sony's official FIA-licensed Formula 1 games. All the cars, teams and circuits of the 1995 season are recreated in millimetric detail. Variable game modes and camera angles are included. To widen the game's appeal, it includes optional helpers such as automatic braking.
-
-The game contains a rock soundtrack including tracks by Joe Satriani and Steve Vai, and commentary from UK TV legend Murray Walker.</desc>
-		<image>./mixart/Formula 1 (USA).png</image>
-		<video>./snap/Formula 1 (USA).mp4</video>
-		<marquee>./wheel/Formula 1 (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19960901T000000</releasedate>
-		<developer>Bizarre Creations</developer>
-		<publisher>Psygnosis</publisher>
-		<genre>Race, Driving-Sports</genre>
-		<players>2</players>
-		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./PGA Tour 98 (USA).chd</path>
@@ -17598,24 +17551,51 @@ A free track add-on extends the game with one additional course for sportbikes a
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Apocalypse (USA).chd</path>
-		<name>Apocalypse</name>
-		<desc>The end of the world is near. Featuring Bruce Willis' voice, you are Trey Kincaid, nano-physicist and sole defender of the world. It's up to you to defeat the Four Horsemen of the Apocalypse before it's happy trails to us all...
+		<path>./Formula 1 (USA).chd</path>
+		<name>Formula 1</name>
+		<desc>Formula 1 was the first of Sony's official FIA-licensed Formula 1 games. All the cars, teams and circuits of the 1995 season are recreated in millimetric detail. Variable game modes and camera angles are included. To widen the game's appeal, it includes optional helpers such as automatic braking.
 
-Featuring a motion-captured, cyberscanned Bruce Willis, multiple levels, explosive sound effects, up to 20 on screen enemies and an arsenal like never seen before.</desc>
-		<emulator>libretro</emulator>
-		<core>duckstation</core>
-		<image>./mixart/Apocalypse (USA).png</image>
-		<video>./snap/Apocalypse (USA).mp4</video>
-		<marquee>./wheel/Apocalypse (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19881031T000000</releasedate>
-		<developer>Activision</developer>
-		<publisher>Activision</publisher>
-		<genre>Action</genre>
+The game contains a rock soundtrack including tracks by Joe Satriani and Steve Vai, and commentary from UK TV legend Murray Walker.</desc>
+		<image>./mixart/Formula 1 (USA).png</image>
+		<video>./snap/Formula 1 (USA).mp4</video>
+		<marquee>./wheel/Formula 1 (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19960901T000000</releasedate>
+		<developer>Bizarre Creations</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Race, Driving-Sports</genre>
+		<players>2</players>
 		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
+	</game>
+	<game>
+		<path>./Quake II (USA).chd</path>
+		<name>Quake II</name>
+		<desc>A sequel in name only, this follow up to id 1996 Quake, is a first-person shooter revolving around the Earth-Strogg war. The Strogg alien race threatens the Earth, but Earth has launched a counter-offensive, Operation Alien Overlord. Overlord takes the battle to the Strogg homeworld with the ultimate objective of securing their capital city and killing their ruler.
+
+As a FPS, Quake II contains a variety of weapons including the fall back Blaster, the Railgun, and the secret BFG10K. Health, armor, and ammunition pick-ups can be found during levels, as can the classic Quake Quad Damage power-up. Game play involves mowing down alien opponents as the player progresses through levels, completing in-game objectives. Quake II also comes with multiplayer support for Deathmatches.</desc>
+		<image>./mixart/Quake II (USA).png</image>
+		<video>./snap/Quake II (USA).mp4</video>
+		<marquee>./wheel/Quake II (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19990930T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>id Software</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Ape Escape (USA).chd</path>
+		<name>Ape Escape</name>
+		<desc>A boisterous band of baboons carry out a daring zoo escape. It's ape anarchy and it's up to you to stop the chimps before they make chumps out of the human race! Use both analog sticks to operate great gadgets including a Tank, a Remote Control Car, a Stun Club, and a Time Net in your quest to hunt down over 200 apes!</desc>
+		<image>./mixart/Ape Escape (USA).png</image>
+		<video>./snap/Ape Escape (USA).mp4</video>
+		<marquee>./wheel/Ape Escape (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19990531T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Sony</publisher>
+		<genre>Platform</genre>
 	</game>
 	<game>
 		<path>./Championship Motocross Featuring Ricky Carmichael (USA).chd</path>
@@ -17633,8 +17613,24 @@ There are a variety of modes including a career mode where the player can compet
 		<genre>Race, Driving-Various</genre>
 		<players>2</players>
 		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
+	</game>
+	<game>
+		<path>./Apocalypse (USA).chd</path>
+		<name>Apocalypse</name>
+		<desc>The end of the world is near. Featuring Bruce Willis' voice, you are Trey Kincaid, nano-physicist and sole defender of the world. It's up to you to defeat the Four Horsemen of the Apocalypse before it's happy trails to us all...
+
+Featuring a motion-captured, cyberscanned Bruce Willis, multiple levels, explosive sound effects, up to 20 on screen enemies and an arsenal like never seen before.</desc>
+		<emulator>libretro</emulator>
+		<core>duckstation</core>
+		<image>./mixart/Apocalypse (USA).png</image>
+		<video>./snap/Apocalypse (USA).mp4</video>
+		<marquee>./wheel/Apocalypse (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19881031T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Heart of Darkness (USA).m3u</path>

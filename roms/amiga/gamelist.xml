@@ -4824,20 +4824,6 @@ This installment does away with random or pre-set enemy encounters, featuring in
 		<marquee>./wheel/MontyPythonsFlyingCircus_v1.3_0273.png</marquee>
 		<video>./snap/MontyPythonsFlyingCircus_v1.3_0273.mp4</video>
 	</game>
-	<game id="33220" source="ScreenScraper.fr">
-		<path>./Moonstone_v1.6_0360.lha</path>
-		<name>Moonstone : A Hard Days Knight</name>
-		<desc>Something's happening in these lands, and the only hope seems to be the moonstone. You, as a chosen knight from the druids are about to find it and bring it back. The game can be played from 1 to 4 players at once, with no difference between solo and multiplayer as no matter how many players play, the story stays the same for everyone. However, if you choose to play with only one player/knight, the other three will be the computer rivals. Wandering through the map, you can visit enchanted places, towns where you can buy equipment or try your luck in gambling, but mostly visited places on the map will be cabins which represents the places where certain enemy beasts are. Each spot has about two or more beasts which after defeating them can be rewarding in a certain way, depending on game's randomize placement.</desc>
-		<rating>0.95</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Mindscape</developer>
-		<publisher>Mindscape</publisher>
-		<players>1-4</players>
-		<hash>E99977EC</hash>
-		<image>./mixart/Moonstone_v1.6_0360.png</image>
-		<marquee>./wheel/Moonstone_v1.6_0360.png</marquee>
-		<video>./snap/Moonstone_v1.6_0360.mp4</video>
-	</game>
 	<game id="33236" source="ScreenScraper.fr">
 		<path>./MortalKombat2_v1.1.1_2MB_1105.lha</path>
 		<name>Mortal Kombat II</name>
@@ -10554,21 +10540,6 @@ The game supports up to 16 players in singles matches on a variety of court surf
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Agony_v2.0_0960.lha</path>
-		<name>Agony</name>
-		<desc>This horizontally-scrolling shoot 'em up features six long levels, all with detailed and mellow background graphics, aiming for a less hectic feel than contemporaries such as Project X. As a magician's apprentice, you have been turned into an owl to give you the best chance of destroying the many dark creatures to be faced, and thus discovering the secret of cosmic strength.    These dark creatures include piranhas, giant ants and mosquitoes. Extra weapons and invincibility periods can be collected. The technical details include 3 layers of multi-directional parallax scrolling, background animation, and different title and in-game music.</desc>
-		<image>./mixart/Agony_v2.0_0960.png</image>
-		<video>./snap/Agony_v2.0_0960.mp4</video>
-		<marquee>./wheel/Agony_v2.0_0960.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Art &amp; Magic</developer>
-		<publisher>Psygnosis</publisher>
-		<genre>Shoot'em Up</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./AlienBreed_v2.3a_0998.lha</path>
 		<name>Alien Breed</name>
 		<desc>Alien Breed is a top-down science fiction shooter somewhat inspired by the movie Alien in terms of plot and atmosphere. Gameplay, though, was obviously inspired by the Atari arcade classic Gauntlet. The game tells a typical sci-fi story of an alien invasion on the space station ISRC-4. Two space marines, Johnson and Stone, are the only human beings left to clear the base of aliens.
@@ -10584,5 +10555,34 @@ Moving around an alien-infested complex in a top-down view, you must at all time
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Agony_v2.0_0960.lha</path>
+		<name>Agony</name>
+		<desc>This horizontally-scrolling shoot 'em up features six long levels, all with detailed and mellow background graphics, aiming for a less hectic feel than contemporaries such as Project X. As a magician's apprentice, you have been turned into an owl to give you the best chance of destroying the many dark creatures to be faced, and thus discovering the secret of cosmic strength.    These dark creatures include piranhas, giant ants and mosquitoes. Extra weapons and invincibility periods can be collected. The technical details include 3 layers of multi-directional parallax scrolling, background animation, and different title and in-game music.</desc>
+		<image>./mixart/Agony_v2.0_0960.png</image>
+		<video>./snap/Agony_v2.0_0960.mp4</video>
+		<marquee>./wheel/Agony_v2.0_0960.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Art &amp; Magic</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Shoot'em Up</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="33220" source="ScreenScraper.fr">
+		<path>./Moonstone_v1.6_0360.lha</path>
+		<name>Moonstone : A Hard Days Knight</name>
+		<desc>Something's happening in these lands, and the only hope seems to be the moonstone. You, as a chosen knight from the druids are about to find it and bring it back. The game can be played from 1 to 4 players at once, with no difference between solo and multiplayer as no matter how many players play, the story stays the same for everyone. However, if you choose to play with only one player/knight, the other three will be the computer rivals. Wandering through the map, you can visit enchanted places, towns where you can buy equipment or try your luck in gambling, but mostly visited places on the map will be cabins which represents the places where certain enemy beasts are. Each spot has about two or more beasts which after defeating them can be rewarding in a certain way, depending on game's randomize placement.</desc>
+		<image>./mixart/Moonstone_v1.6_0360.png</image>
+		<video>./snap/Moonstone_v1.6_0360.mp4</video>
+		<marquee>./wheel/Moonstone_v1.6_0360.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Mindscape</developer>
+		<publisher>Mindscape</publisher>
+		<players>4</players>
+		<crc32>E99977EC</crc32>
 	</game>
 </gameList>
