@@ -981,125 +981,6 @@ Game Tengoku - The Game Paradise offers both 'Standard' and 'Time Attack' modes 
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./hardyard.zip</path>
-		<name>Hard Yardage</name>
-		<desc>An arcade football game released in 1993 by the Strata Group, a division of Incredible Technologies.  Looks similar to early 3D Madden games.</desc>
-		<image>./mixart/hardyard.png</image>
-		<video>./snap/hardyard.mp4</video>
-		<marquee>./wheel/hardyard.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Strata</developer>
-		<publisher>Strata/Incredible Technologies</publisher>
-		<genre>Sports-Sports / Football</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./hitice.zip</path>
-		<name>Hit the Ice</name>
-		<desc>Welcome to no holds barred hockey brought to you by the Video Hockey League.  It's the Reds versus the Blues, the VHL's biggest rivalry.
-
-The same hockey rules apply, pass the puck around around the ice rink and shoot it past the opposite goalie to score. You can also check your opponent just like real hockey, only each character has their own bone-crushing way of checking, each with maximum impact and zero tolerance for your well-being.  Players can also start fights with one another to really spice things up.
-
-For an additional credit, players can purchase a 'power drink' that will make them 'Skate Faster and Shoot Harder' at the start of the period for one minute.
-
-Now get to the action and DROP THAT PUCK!</desc>
-		<image>./mixart/hitice.png</image>
-		<video>./snap/hitice.mp4</video>
-		<marquee>./wheel/hitice.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Williams, Inc.</developer>
-		<publisher>Taito Corporation (Williams license)</publisher>
-		<genre>Sports-Sports / Hockey</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./hyperpac.zip</path>
-		<name>Hyper Pacman</name>
-		<desc>This is an updated version of Namco's seminal "Pac-Man", featuring forced-perspective 3-D graphics that allow the players to jump over the enemy ghosts; in a similar fashion to Namco's "Pac-Mania", released in 1987. There are secret items and food to be found on each level that increases the player's power and score. The power-ups themselves consist of a shield, helmet lasers, speed and jump shoes. Players will face a boss encounter every ten stages and the game ends after the 30th stage.</desc>
-		<image>./mixart/hyperpac.png</image>
-		<video>./snap/hyperpac.mp4</video>
-		<marquee>./wheel/hyperpac.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>SemiCom</developer>
-		<publisher>SemiCom</publisher>
-		<genre>Action / Labyrinth-Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./kungfum.zip</path>
-		<name>Kung-Fu Master</name>
-		<desc>Kung-Fu Master, known in Japan as Spartan X (ã¹ãã«ã¿ã³X?), is a 1984 beat 'em up arcade game developed and published in Japan by Irem. It was later published in North America by Data East. The Japanese version was based on the Jackie Chan movie Wheels on Meals, known as Spartan X in Japan, and credited "Paragon Films Ltd., Towa Promotion", who produced the film upon which it was based. The game is considered by many to be the first beat 'em up video game, and contains elements of Bruce Lee's Game of Death.</desc>
-		<image>./mixart/kungfum.png</image>
-		<video>./snap/kungfum.mp4</video>
-		<marquee>./wheel/kungfum.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Irem</developer>
-		<publisher>Irem</publisher>
-		<genre>Fight / 2D-Fight</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./martmast.zip</path>
-		<name>Martial Masters</name>
-		<desc>At the end of the Qin's Dynasty, the government weakened by corruption was attacked by foreign influences.
-
-The people were flung into misery and became quite unsatisfied with the situation. They did not believe in the government anymore and turned their faith back to religion.
-
-The White Lotus sect saw this as an opportunity and took over. They claimed to help the government to defeat foreigners and bring peace to the world. Their Ideology was quickly adopted. Everything related with the Western world was killed or destroyed. Anyone against this principal was considered an enemy and accused of being bound with the devil. 
-
-Dragon of Martial Master and Master Huang of Po Chi Lam could not accept these outrageous actions so they band together in order to prevent much bloodshed. One day the leader of White Lotus Sect sent an invitation to Dragon and Master Huang but Dragon's disciples saw this as a trap and recommended that they wait for Master Huang, who was out of town collecting medicine.
-
-The Master did not want to miss this opportunity to make peace and went alone. Unfortunately, he was captured and put in prison. Both parties started confrontations and have struggled since then. Now dangers are hidden all over the place. Who is capable of resolving the situation? Let's find out!</desc>
-		<image>./mixart/martmast.png</image>
-		<video>./snap/martmast.mp4</video>
-		<marquee>./wheel/martmast.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20010101T000000</releasedate>
-		<developer>IGS</developer>
-		<publisher>IGS</publisher>
-		<genre>Fight / Versus-Fight</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./mmatrix.zip</path>
-		<name>Mars Matrix: Hyper Solid Shooting</name>
-		<desc>A prediction is that before human civilization, there was once an advanced civilization on Mars. A sorceress destroyed the civilization and everything that was remembered of it, except a chip called "INFINITY". In 2100, millions of people were starving due to massive food shortages and has caused civil wars around the world. Centuries later, however, the world government had sent colonists to Mars which began to solve these problems. At a nearby farm, the Infinity chip was discovered and it revealed all the technology of the advanced civilization. In 2309, a Declaration of Independence has been sent to Earth. Large armies have been amassed on Mars, and a gigantic armada was waiting for any attack from Earth. The Earth government sends out a fleet of battleships followed by a special air raid unit called ACID; ACID is equipped with a new fighter ship known as the Mosquito. Their mission is to enter Mars, stop the rebel violence, locate and destroy the rebel leader, whoever... or whatever it may be...</desc>
-		<image>./mixart/mmatrix.png</image>
-		<video>./snap/mmatrix.mp4</video>
-		<marquee>./wheel/mmatrix.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Takumi</developer>
-		<publisher>Takumi</publisher>
-		<genre>Shoot'em up / Vertical-Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./mmaulers.zip</path>
-		<name>Monster Maulers</name>
-		<desc>A trio of supervillains unleashes an army of gross mutants on earth in order to start an alien invasion. Our only hope is the trio of superheroes known as the 'Ultimate Task Force'. Squash the evil mutants and put an end to the alien menace. Features excellent graphics &amp; sound as well as plenty of moves to find!</desc>
-		<image>./mixart/mmaulers.png</image>
-		<video>./snap/mmaulers.mp4</video>
-		<marquee>./wheel/mmaulers.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Fight /  Co-op-Fight</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./moomesa.zip</path>
 		<name>Wild West C.O.W.-Boys of Moo Mesa</name>
 		<desc>Wild West C.O.W. Boys of Moo Mesa is a horizontally-scrolling platform run 'n' gun game for up to four players. The game is set in America's Wild West and is based on the cartoon series of the same name. 
@@ -1120,111 +1001,6 @@ The game consists of eight stages, each with a boss fight at the end, and after 
 		<publisher>Konami</publisher>
 		<genre>Plateform / Shooter Scrolling-Platform</genre>
 		<players>4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./nbbatman.zip</path>
-		<name>Ninja Baseball Bat Man</name>
-		<desc>Ninja Baseball Batman is an abstract, horizontally-scrolling beat-em-up for in which up to four players control a team of robotic baseball-star ninjas who must fight their way through a variety of levels, defeating the game's many enemies. 
-
-The object of the game is to recover a number of artifacts stolen from the Baseball Hall of Fame, a task prescribed to them by the Commissioner of Baseball. Each stage takes place in several parts of the United States, with a boss character appears at the end of each stage.
-
-The game's enemies are themed entirely around the sport of Baseball; taking the form of Baseballs, Catcher's mitts, bats etc. The game also allows players to perform combos, throws and dash attacks against multiple enemies. When a player's health bar flashes red, more moves can be performed as long as the player does not restore or completely lose health. 
-
-Health restoring food and drink items appear throughout the game, as well as throwable weapon pick-ups, including baseballs and shuriken. Occasionally players will find a pink heart, collecting this summons cheerleaders who either damage all on-screen enemies or drop a large amount of food.
-
-The four characters of "Ninja Baseball Batman" and their traits are:
-
-Captain Jose - Head of the team and technician. Well-balanced and a good choice for beginners. 
-    
-Twinbats Ryno - Very fast and wields two bats, but is the weakest of the four.
-    
-Beanball Roger - He is a powerful buster, but not as fast as others. 
-    
-Stick Straw - A long-reach hitter, making him the best choice for long-range moves.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/nbbatman.png</image>
-		<video>./snap/nbbatman.mp4</video>
-		<marquee>./wheel/nbbatman.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Irem</developer>
-		<publisher>Irem</publisher>
-		<genre>Fight-Fight / 2.5D</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./puckpkmn.zip</path>
-		<name>Puckman Pockimon</name>
-		<desc>A "Pac-man" style game with Pac-Man and Pocket Monster (Pok'n) characters. Player 1 controls Puckman and Player 2 controls Pikachu's head. Trying to catch you are the Ghost Monsters from the Pac-man games along with some Pocket Monsters. Get the 'power fruit' and you can eat them instead. When you complete a level, you are shown a digitized photograph of an Asian woman for some reason.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/puckpkmn.png</image>
-		<video>./snap/puckpkmn.mp4</video>
-		<marquee>./wheel/puckpkmn.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Genie</developer>
-		<publisher>Genie</publisher>
-		<genre>Action / Labyrinth-Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./rmpgwt.zip</path>
-		<name>Rampage: World Tour</name>
-		<desc>A sequel to the 1986 original, Rampage World Tour once again has George, Lizzie, and Ralph bent on a trail of destruction. The 'World Tour' of the title refers to the fact that the action now takes place around the entire world, instead of just North America. Graphics are much improved and a kick button has been added to allow even more chaos.
-
-Hidden bonus items have also been added to the game; two examples are an item that allows any player character to transport to almost any location in the game instantly. A second gives the players more destructive power. Some stages have a vat of toxic chemicals that can mutate any player character into a huge purple bat-like creature called V.E.R.N (Violently Enraged Radioactive Nemesis) for the duration of the stage.</desc>
-		<image>./mixart/rmpgwt.png</image>
-		<video>./snap/rmpgwt.mp4</video>
-		<marquee>./wheel/rmpgwt.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19970101T000000</releasedate>
-		<publisher>Midway</publisher>
-		<genre>Platform-Fight</genre>
-		<players>3</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./robotron.zip</path>
-		<name>Robotron: 2084</name>
-		<desc>
-Set in the year 2084, Robotron is a single-screen shoot-em-up in which super-intelligent self-aware robots known as 'Robotrons' - designed and built to help mankind - have revolted against their creators and vowed to either reprogram the humans into Robotrons or, failing this, wipe-out the human race entirely. 
-
-The player must destroy the robots and rescue the Earth's remaining human families. The player's only weapon is a multi-directional Anti-Robot Laser Gun. Used effectively, it will give players the power to destroy all the Robot waves, with the exception of the indestructible 'Hulk' unit. 
-
-At the start of the attack wave, players will have three chances to wipe out the enemy and advance to the next wave. Every 25,000 points players are granted another chance to complete their mission. 
-
-MAN, WOMAN, CHILD: These are the only three types of human clones left on Earth. Defenseless and easy prey to the Robots, they are totally dependent upon players for their survival and will wander aimlessly until the player makes contact with them. Touching them will place them under the player's protective powers and earn them the following points: 1,000 for rescuing the 1st human; 2,000 for the 2nd: 3,000 for the 3rd; 4,000 for the 4th; 5,000 for the 5th; and 5,000 for every additional human saved. At the beginning of each new wave and when the player loses a turn, rescue scoring will again begin at 1,000.
-
-</desc>
-		<image>./mixart/robotron.png</image>
-		<video>./snap/robotron.mp4</video>
-		<marquee>./wheel/robotron.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Vid Kidz</developer>
-		<publisher>Williams / Vid Kidz</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./sailormn.zip</path>
-		<name>Pretty Soldier Sailor Moon</name>
-		<desc>The game is a side-scrolling "beat-'em-up" game, one or two players pick their desired Senshi and travel through various stages defeating enemies. Items are sometimes dropped by enemies that can range from items that restore health, give extra points, or crystals that allow the Senshi to perform special attacks. Up to five crystals can be collected per player to power up the Senshi's special attacks. During the most difficult moments in battle, Tuxedo Mask will appear and throw a rose, which is a bonus to pick up and depart.</desc>
-		<image>./mixart/sailormn.png</image>
-		<video>./snap/sailormn.mp4</video>
-		<marquee>./wheel/sailormn.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Gazelle</developer>
-		<publisher>Gazelle</publisher>
-		<genre>Fight-Fight / 2.5D</genre>
-		<players>2</players>
 		<favorite>true</favorite>
 	</game>
 	<game>
@@ -31124,23 +30900,6 @@ Base - Player must maneuver the Chopper over tall buildings against arcing missi
 		<players>2</players>
 	</game>
 	<game>
-		<path>./mk3.zip</path>
-		<name>Mortal Kombat 3</name>
-		<desc>Succeeding in taking over the Earth realm, Shao Kahn takes all the human souls on Earth as his own. To stop the Outworld realm from totally merging with the Earth realm, a few Earth warriors were chosen to have their souls protected from Shao Kahn in order to defend the Earth realm in a new Mortal Kombat tournament. 14 digitized characters fight to overthrow Shao Kahn and his Centaur lieutenant Motaro.</desc>
-		<image>./mixart/mk3.png</image>
-		<video>./snap/mk3.mp4</video>
-		<marquee>./wheel/mk3.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19950401T000000</releasedate>
-		<developer>bootleg / Midway</developer>
-		<publisher>bootleg / Midway</publisher>
-		<genre>Fight / Versus-Fight</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./005.zip</path>
 		<name>005</name>
 		<desc>Agent 005 brings new cash collections to you. His mission is to deliver secret attache cases to an awaiting helicopter. Through wily street chases and the shadows of warehouse darkness to slippery skating rink maneuvers and the blazing aerial getaway fight. Agent 005 steels the scene and delivers customers to you. Fun-filled music attracts them. Four thrilling escape scenes challenge them and the continuous fun keeps them playing and playing. The unique audio and video excitement matches every players skill level.</desc>
@@ -31969,27 +31728,6 @@ The players take control of up to three of four characters: Dutch, Linn, a Preda
 		<region>us</region>
 	</game>
 	<game>
-		<path>./bloodstm.zip</path>
-		<name>Blood Storm</name>
-		<desc>Blood Storm is considered by many as a quasi-'sequel' to Time Killers. The game had a rather dark storyline as there were few ambiguously good characters as the other ranged from being sociopathically insane or deceptive folk.
-
-BloodStorm was dubbed as a possible MK-killer in an attempt to surpass rival Midway's success with Mortal Kombat, though it did not prevail. It was the last game Strata produced before the company went out of business.
-
-As with its predecessor Time Killers, BloodStorm features many of the aspects carried down from it, such as the removal of an opponent s arms and an instant kill attack, as well as a Special Death Move. The button layout is virtually the same. They are labeled as "back leg", "front leg", "back arm" and "front arm" respectively. A button in the center is used to make the character block. As one would suspect, if a particular limb is lost in combat, its corresponding button is rendered useless.</desc>
-		<image>./mixart/bloodstm.png</image>
-		<video>./snap/bloodstm.mp4</video>
-		<marquee>./wheel/bloodstm.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Incredible Technologies</developer>
-		<publisher>Strata</publisher>
-		<genre>Fight-Fight / Versus</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./djboy.zip</path>
 		<name>DJ Boy</name>
 		<desc>DJ Boy is a side-scrolling Beat 'em up, released in 1989 by Kaneko for the Arcade, and later, Genesis.  The game features a uniquely Japanese take on mid-to-late 80s Hip-hop/Urban culture.  You play as DJ Boy, a rollerskater hoping to win the "Rollergame" fight-race competition in Cigaretch city.</desc>
@@ -32128,23 +31866,6 @@ Unlike in "Asteroids", the player ship has a finite amount of fuel which must be
 		<releasedate>19870101T000000</releasedate>
 		<developer>Atari</developer>
 		<publisher>Atari</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./aztarac.zip</path>
-		<name>Aztarac</name>
-		<desc>The actual game has you piloting a little space tank. The tank and its turret are controlled independently, which allows you to move in one direction while shooting in another. Your mission is to guard various space outposts from hordes of incoming enemy ships. Each level will have several outposts all clustered together in the center. If an enemy ship touches an outpost, then the outpost is destroyed. You can activate a long range scanner by using your second button. This allows you to locate enemies before they get close, that way you can fly off and get them before they even have a shot at the outposts.</desc>
-		<image>./mixart/aztarac.png</image>
-		<video>./snap/aztarac.mp4</video>
-		<marquee>./wheel/aztarac.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Tim Stryker</developer>
-		<publisher>Centuri</publisher>
 		<genre>Shooter</genre>
 		<players>2</players>
 		<favorite>true</favorite>
@@ -32352,27 +32073,6 @@ The conflict in Wu-Lin seemed to trigger at any moment, unconsciously all sword 
 		<publisher>Sega</publisher>
 		<genre>Shooter-Shooter / Plane, 1st person</genre>
 		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./narc.zip</path>
-		<name>Narc</name>
-		<desc>NARC is a graphically violent one or two-player side-scrolling shoot-em-up in which players take on the role of "Narcs"; futuristic police officers whose duty it is to either arrest or kill drug dealers, junkies and attack dogs as players fight to crush the criminal empire known as K.R.A.K. 
-
-The Narcs have both machine guns and rocket launchers at their disposal and players can also pick up (confiscate) discarded drugs and money to earn extra points. These are totaled up at the end of each level. On many stages a special colour-specific 'Keycard' needs to be found before players can progress to the next section of the level.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/narc.png</image>
-		<video>./snap/narc.mp4</video>
-		<marquee>./wheel/narc.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Williams</developer>
-		<publisher>Williams</publisher>
-		<genre>Platform-Plateform / Shooter Scrolling</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
 	</game>
 	<game>
 		<path>./kinst.zip</path>
@@ -32935,21 +32635,6 @@ Smash TV is broken down into stages, each with a set number of arenas. Tough end
 		<players>2</players>
 	</game>
 	<game>
-		<path>./mwalk.zip</path>
-		<name>Michael Jackson's Moonwalker</name>
-		<desc>Based on the movie of the same name, Moonwalker is a scrolling, isometric beat' em up in which Michael Jackson (1958-2009), along with his chimp Bubbles, attempts to save children and defeat the evil 'Mr. Big'. During each round, the player must defeat each and every one of Mr. Big's henchmen and the deadly enemy machines that patrol the levels. This is achieved either by shooting them with Michael Jackson's 'magical energy', or by using his Dance Magic - the game's equivalent of a smart bomb. Some enemies take only one shot to defeat whereas others take several shots before they are destroyed. The longer the player holds down on the fire button, the greater the amount of magical energy Michael can inflict. At the start of each round, the player is given 2 dance magic smart bombs. Towards the end of each round, Michael's pet chimpanzee, Bubbles, will be seen moving about. If Michael touches Bubbles, he will turn into a powerful robot (the 'Moonwalker' of the game's title). After Michael has become Moonwalker, he will be able to shoot lasers and fire missiles. Michael must defeat every boss enemy at the end of each round in order to proceed to the next.</desc>
-		<image>./mixart/mwalk.png</image>
-		<video>./snap/mwalk.mp4</video>
-		<marquee>./wheel/mwalk.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Fight-Action / Labyrinth-Action</genre>
-		<players>3</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./biomtoy.zip</path>
 		<name>Biomechanical Toy</name>
 		<desc>Biomechanical Toy is an eightway-scrolling platform shoot-em-up set in a world of magically-animated toys, in which the magical pendulum that animates the toys has been stolen by the evil 'Scrubby', a criminal once imprisoned for trying to steal the pendulum who has managed to escape and take his revenge. The player takes on the role of Inguz and is tasked with freeing the few remaining good toys that are trapped throughout the stages, while destroying or avoiding the many evil toys that now patrol the kingdom. 
@@ -33040,46 +32725,6 @@ Hasta La Vista, Baby!</desc>
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./contra.zip</path>
-		<name>Contra</name>
-		<desc>In 2631, a meteorite strikes the Galuga archipelago near New Zealand, carrying with it a dormant alien being. Two years later, a terrorist organization calling themselves Red Falcon takes over the island as part of their plot to invade the Earth. Bill Rizer and Lance Bean, of the Contra unit, are sent to the Oceania island to stop the evil threat.
-
-'Contra' is a hectic one or two player platform shoot-em-up featuring 10 stages. In addition to the standard side-view levels, there are also "3D maze" stages in which the player must proceed through a series of corridors inside an enemy base, destroying various sensors, in order to reach the core of the base.
-
-Each player's character is equipped with a semi-automatic machine gun with an unlimited amount of ammunition and can jump, move and fire in all eight cardinal directions. Players can also move and jump simultaneously while firing. Co-ordination of the character's movement is essential as a single hit from any enemy, bullet, or other hazard will instantly kill the player's character and also eliminate the current weapon from the player's inventory.</desc>
-		<image>./mixart/contra.png</image>
-		<video>./snap/contra.mp4</video>
-		<marquee>./wheel/contra.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Plateform / Shooter Scrolling-Platform</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./crkdown.zip</path>
-		<name>Crack Down</name>
-		<desc>A futuristic city has been over-taken by a powerful, bio-mechanical army; created by an evil scientist in a bid to take over the world. 2 elite agents must plant a series of time bombs to destroy their base and crush the rebellion.
-
-The 1- or 2-player shoot-em-up action is displayed via an innovative split screen that allows 2 players to work either individually or as a team. A timer countdown timers adds to the tension. Time bombs must be set by running over areas marked with an 'X'; while machine guns and cannons can be reloaded by finding the ammo caches that appear on each level. If ammo runs out, players must result to punching and kicking to defeat opponents.</desc>
-		<image>./mixart/crkdown.png</image>
-		<video>./snap/crkdown.mp4</video>
-		<marquee>./wheel/crkdown.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action / Labyrinth-Shooter Large-Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./enduror.zip</path>
 		<name>Enduro Racer</name>
 		<desc>Enduro Racer is an off-road racing game in which players ride a dirt bike across five extremely hilly and twisting courses. Each course is littered with logs, rocks, trees and rival racers that must be either jumped over or avoided.
@@ -33118,52 +32763,6 @@ Enduro Racer is perhaps best remembered for its 'Wheelie' feature, which require
 		<region>us</region>
 	</game>
 	<game>
-		<path>./btoads.zip</path>
-		<name>Battletoads</name>
-		<desc>Battletoads is a (mostly) horizontally-scrolling beat-em-up in which up to three players take on the roles of Rash, Pimple, or Zitz and must punch and kick their way through six enemy-infested stages to save their alternate universe from the Dark Queen.
-
-The Toads each vary in fighting style: Rash is nimble, Pimple is burly and strong, and Zitz is a balance of the two. Each Toad also has its own signature exaggerated power and attack, in which their limbs turn into objects such as axes and drills.
-
-In a visually unique twist, the Toads can knock the game's enemies 'off-screen' so that they appear to fly towards the players, breaking the fourth wall. Enemies include aliens, mutant rodents and snowmen.
-
-The game's stages, in addition to having their own unique visual theme, often differ in gameplay style. Some levels are Double Dragon-style 2.5D brawlers, while others are strictly two-dimensional, platform-like stages. In one level, the Toads wear jet-packs and descend a tunnel and in the final level, the Toads shoot enemies from a vehicle.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/btoads.png</image>
-		<video>./snap/btoads.mp4</video>
-		<marquee>./wheel/btoads.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Rare</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Fight-Fight / 2.5D</genre>
-		<players>3</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./dmnfrnt.zip</path>
-		<name>Demon Front</name>
-		<desc>Demon Front is a platform run 'n' Gun game for up to four players (two simultaneously) that is very reminscent of SNK's "Metal Slug" series, although there are significant additions to the gameplay. 
-
-20 light years from Earth lies the planet of Andres, a peaceful and civilised place. In the year A.C. 2016 Andres experienced a solar eclipse that lasted for over three months. All living creatures were exposed to a strange, dark red light and many began to mutate in both appearance and character. Few inhabitants would survive the torture inflicted by these crazed mutants. 
-
-A lucky few escaped and lived in exile. Four of the survivers decided to join forces, to fight back and overthrow the evil that dominates the planet.</desc>
-		<image>./mixart/dmnfrnt.png</image>
-		<video>./snap/dmnfrnt.mp4</video>
-		<marquee>./wheel/dmnfrnt.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20020101T000000</releasedate>
-		<developer>IGS Corp.</developer>
-		<publisher>IGS</publisher>
-		<genre>Platform-Plateform / Shooter Scrolling</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./mslug2.zip</path>
 		<name>Metal Slug 2: Super Vehicle-001/II</name>
 		<desc>As Marco, Eri, Tarma, or Fio, you must defeat the evil General Morden and his henchman. To do this, you must defeat various enemies that get in your way. Throughout the game, you can collect new weapons including the Heavy Machine Gun, Shot Gun, Rocket Launcher, Flame Shot, Laser Shot, Flame Bottles, and Armor Piercer. Also scattered throughout the game, you can ride in  four different vehicles (aka: Slugs) such as the Metal Slug, Slug Flyer, Camel Slug, and SlugNoid. By using these vehicles, you can cause awesome destruction against Morden's evil army. Other items such as energy, extra ammunition, and food (eat too much and your player will gain weight) are also found throughout the game.</desc>
@@ -33187,20 +32786,6 @@ A lucky few escaped and lived in exile. Four of the survivers decided to join fo
 		<rating>0.8</rating>
 		<releasedate>20000101T000000</releasedate>
 		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Platform/Shooter</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./mslug.zip</path>
-		<name>Metal Slug: Super Vehicle-001</name>
-		<desc>Metal Slug, originally released on the Neo Geo, is a side-scrolling shoot'em'up.  The player(s) takes the role of a soldier (or two) and fights a gigantic army. Every level consists of running forward blasting anything that moves, while collecting power-ups along the way (there's also a wide selection of weaponry in the game). In the end of each level the player goes up against one gigantic boss.   The PlayStation port introduces some extra features: there is a combat school where the player may fight with other players for the best time on each level and an art gallery.</desc>
-		<image>./mixart/mslug.png</image>
-		<video>./snap/mslug.mp4</video>
-		<marquee>./wheel/mslug.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Nazca Corporation</developer>
 		<publisher>SNK</publisher>
 		<genre>Platform/Shooter</genre>
 		<players>2</players>
@@ -33247,6 +32832,57 @@ A lucky few escaped and lived in exile. Four of the survivers decided to join fo
 		<players>2</players>
 	</game>
 	<game>
+		<path>./ddragon.zip</path>
+		<name>Double Dragon</name>
+		<desc>Double Dragon is a side-scrolling beat-em-up for one or two players, featuring twin brothers and martial arts masters, "Billy &amp; Jimmy Lee". The brothers must defeat the savage street gang known as the 'Black Warriors' to rescue Billy's kidnapped girlfriend, Marian. Standing between the brothers and Marian are four huge, colorful and varied levels; each populated with a wide variety of thugs.
+
+Many of the game's enemies carry weapons (knives, baseball bats etc.) and should Billy or Jimmy manage to knock the weapons from the enemies' hands, the heroes can pick the weapons up and use them against the enemies.
+
+The Black Warriors is made up of six distinct enemy characters- plus Willy, the game's final boss - with each differing in both physical appearance and fighting style. The members of the Black Warriors consist of the following fighters: 
+Williams - A street punk in a tank top. In addition to the standard punches and jump kicks, his signature technique is a body blow to the stomach. He also wields weapons such as baseball bats, knives and dynamite sticks.
+Rowper - A punk who wears matching-colored pants and shirtless vest. He wields all the same weapons as Williams, but can also lift and throw heavy objects such as oildrums, boxes and stones.
+Linda - Female punk who usually carries a whip. She's not very strong, as she falls down to ground with a couple of punches or a single kick (because of this, she is the only regular-sized enemy who cannot be placed on a headlock).
+Abobo - A tall, big-muscled bald guy. His attacks includes punches, a standing kick and a body toss. He can also lift and throw heavy objects like Rowper. Due to his large size, he cannot be put into a headlock.
+Boss 1 - The first boss, a head-swap of Abobo with a Mr. T-style mohawk and beard. Fights just like Abobo, only with an added double-handed slap. Unlike Abobo, he does not use weapons. A green version of him appears as the Mission 3 boss.
+Boss 2 - The second boss. A head swap of the player who uses almost all the same techniques. 
+Willy - The game's final boss, armed, somewhat unfairly, with a machine-gun.
+
+Double Dragon was a huge success due to the many game-play innovations it brought to the genre (see TRIVIA for details), but it demonstrates its final moment of inspired genius at the very end of the game. Should both players still be alive after the final boss has been defeated, they will then have to fight each OTHER. The winner of this fight will be the one who wins Marian's affections.</desc>
+		<image>./mixart/ddragon.png</image>
+		<video>./snap/ddragon.mp4</video>
+		<marquee>./wheel/ddragon.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Technos Japan</developer>
+		<publisher>Taito</publisher>
+		<genre>Plateform / Fighter Scrolling-Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./bloodstm.zip</path>
+		<name>Blood Storm</name>
+		<desc>Blood Storm is considered by many as a quasi-'sequel' to Time Killers. The game had a rather dark storyline as there were few ambiguously good characters as the other ranged from being sociopathically insane or deceptive folk.
+
+BloodStorm was dubbed as a possible MK-killer in an attempt to surpass rival Midway's success with Mortal Kombat, though it did not prevail. It was the last game Strata produced before the company went out of business.
+
+As with its predecessor Time Killers, BloodStorm features many of the aspects carried down from it, such as the removal of an opponent s arms and an instant kill attack, as well as a Special Death Move. The button layout is virtually the same. They are labeled as "back leg", "front leg", "back arm" and "front arm" respectively. A button in the center is used to make the character block. As one would suspect, if a particular limb is lost in combat, its corresponding button is rendered useless.</desc>
+		<image>./mixart/bloodstm.png</image>
+		<video>./snap/bloodstm.mp4</video>
+		<marquee>./wheel/bloodstm.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Incredible Technologies</developer>
+		<publisher>Strata</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
 		<path>./astdelux.zip</path>
 		<name>Asteroids Deluxe</name>
 		<desc>Asteroids Deluxe is a 1 or 2-player game with an X-Y or vector-generator monitor. The game depicts a third-person view of a player's spaceship battling to destroy asteroids, flying saucers and enemy ships or 'death stars' (shaped like clusters of triangles). When hit, the asteroids and death stars will break into progressively smaller pieces. 
@@ -33280,6 +32916,109 @@ As an emergency maneuver, a player can press the Shields button. An octagon will
 		<region>us</region>
 	</game>
 	<game>
+		<path>./aztarac.zip</path>
+		<name>Aztarac</name>
+		<desc>The actual game has you piloting a little space tank. The tank and its turret are controlled independently, which allows you to move in one direction while shooting in another. Your mission is to guard various space outposts from hordes of incoming enemy ships. Each level will have several outposts all clustered together in the center. If an enemy ship touches an outpost, then the outpost is destroyed. You can activate a long range scanner by using your second button. This allows you to locate enemies before they get close, that way you can fly off and get them before they even have a shot at the outposts.</desc>
+		<image>./mixart/aztarac.png</image>
+		<video>./snap/aztarac.mp4</video>
+		<marquee>./wheel/aztarac.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Tim Stryker</developer>
+		<publisher>Centuri</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./btoads.zip</path>
+		<name>Battletoads</name>
+		<desc>Battletoads is a (mostly) horizontally-scrolling beat-em-up in which up to three players take on the roles of Rash, Pimple, or Zitz and must punch and kick their way through six enemy-infested stages to save their alternate universe from the Dark Queen.
+
+The Toads each vary in fighting style: Rash is nimble, Pimple is burly and strong, and Zitz is a balance of the two. Each Toad also has its own signature exaggerated power and attack, in which their limbs turn into objects such as axes and drills.
+
+In a visually unique twist, the Toads can knock the game's enemies 'off-screen' so that they appear to fly towards the players, breaking the fourth wall. Enemies include aliens, mutant rodents and snowmen.
+
+The game's stages, in addition to having their own unique visual theme, often differ in gameplay style. Some levels are Double Dragon-style 2.5D brawlers, while others are strictly two-dimensional, platform-like stages. In one level, the Toads wear jet-packs and descend a tunnel and in the final level, the Toads shoot enemies from a vehicle.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/btoads.png</image>
+		<video>./snap/btoads.mp4</video>
+		<marquee>./wheel/btoads.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Fight-Fight / 2.5D</genre>
+		<players>3</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./contra.zip</path>
+		<name>Contra</name>
+		<desc>In 2631, a meteorite strikes the Galuga archipelago near New Zealand, carrying with it a dormant alien being. Two years later, a terrorist organization calling themselves Red Falcon takes over the island as part of their plot to invade the Earth. Bill Rizer and Lance Bean, of the Contra unit, are sent to the Oceania island to stop the evil threat.
+
+'Contra' is a hectic one or two player platform shoot-em-up featuring 10 stages. In addition to the standard side-view levels, there are also "3D maze" stages in which the player must proceed through a series of corridors inside an enemy base, destroying various sensors, in order to reach the core of the base.
+
+Each player's character is equipped with a semi-automatic machine gun with an unlimited amount of ammunition and can jump, move and fire in all eight cardinal directions. Players can also move and jump simultaneously while firing. Co-ordination of the character's movement is essential as a single hit from any enemy, bullet, or other hazard will instantly kill the player's character and also eliminate the current weapon from the player's inventory.</desc>
+		<image>./mixart/contra.png</image>
+		<video>./snap/contra.mp4</video>
+		<marquee>./wheel/contra.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Plateform / Shooter Scrolling-Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./crkdown.zip</path>
+		<name>Crack Down</name>
+		<desc>A futuristic city has been over-taken by a powerful, bio-mechanical army; created by an evil scientist in a bid to take over the world. 2 elite agents must plant a series of time bombs to destroy their base and crush the rebellion.
+
+The 1- or 2-player shoot-em-up action is displayed via an innovative split screen that allows 2 players to work either individually or as a team. A timer countdown timers adds to the tension. Time bombs must be set by running over areas marked with an 'X'; while machine guns and cannons can be reloaded by finding the ammo caches that appear on each level. If ammo runs out, players must result to punching and kicking to defeat opponents.</desc>
+		<image>./mixart/crkdown.png</image>
+		<video>./snap/crkdown.mp4</video>
+		<marquee>./wheel/crkdown.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action / Labyrinth-Shooter Large-Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./dmnfrnt.zip</path>
+		<name>Demon Front</name>
+		<desc>Demon Front is a platform run 'n' Gun game for up to four players (two simultaneously) that is very reminscent of SNK's "Metal Slug" series, although there are significant additions to the gameplay. 
+
+20 light years from Earth lies the planet of Andres, a peaceful and civilised place. In the year A.C. 2016 Andres experienced a solar eclipse that lasted for over three months. All living creatures were exposed to a strange, dark red light and many began to mutate in both appearance and character. Few inhabitants would survive the torture inflicted by these crazed mutants. 
+
+A lucky few escaped and lived in exile. Four of the survivers decided to join forces, to fight back and overthrow the evil that dominates the planet.</desc>
+		<image>./mixart/dmnfrnt.png</image>
+		<video>./snap/dmnfrnt.mp4</video>
+		<marquee>./wheel/dmnfrnt.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20020101T000000</releasedate>
+		<developer>IGS Corp.</developer>
+		<publisher>IGS</publisher>
+		<genre>Platform-Plateform / Shooter Scrolling</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
 		<path>./cphd.zip</path>
 		<name>'H'Crouching Pony Hidden Dragon</name>
 		<desc>CPHD is a homebrew - A pedestrian shooter mixed with RPG features exclusive for the Neo-Geo. Collect money and experience to evolve your weapons and equipments. Confront hordes of ninjas, shaolins, geishas... into intense fight to earn your immortality.</desc>
@@ -33297,34 +33036,18 @@ As an emergency maneuver, a player can press the Shields button. An octagon will
 		<region>us</region>
 	</game>
 	<game>
-		<path>./ddragon.zip</path>
-		<name>Double Dragon</name>
-		<desc>Double Dragon is a side-scrolling beat-em-up for one or two players, featuring twin brothers and martial arts masters, "Billy &amp; Jimmy Lee". The brothers must defeat the savage street gang known as the 'Black Warriors' to rescue Billy's kidnapped girlfriend, Marian. Standing between the brothers and Marian are four huge, colorful and varied levels; each populated with a wide variety of thugs.
-
-Many of the game's enemies carry weapons (knives, baseball bats etc.) and should Billy or Jimmy manage to knock the weapons from the enemies' hands, the heroes can pick the weapons up and use them against the enemies.
-
-The Black Warriors is made up of six distinct enemy characters- plus Willy, the game's final boss - with each differing in both physical appearance and fighting style. The members of the Black Warriors consist of the following fighters: 
-Williams - A street punk in a tank top. In addition to the standard punches and jump kicks, his signature technique is a body blow to the stomach. He also wields weapons such as baseball bats, knives and dynamite sticks.
-Rowper - A punk who wears matching-colored pants and shirtless vest. He wields all the same weapons as Williams, but can also lift and throw heavy objects such as oildrums, boxes and stones.
-Linda - Female punk who usually carries a whip. She's not very strong, as she falls down to ground with a couple of punches or a single kick (because of this, she is the only regular-sized enemy who cannot be placed on a headlock).
-Abobo - A tall, big-muscled bald guy. His attacks includes punches, a standing kick and a body toss. He can also lift and throw heavy objects like Rowper. Due to his large size, he cannot be put into a headlock.
-Boss 1 - The first boss, a head-swap of Abobo with a Mr. T-style mohawk and beard. Fights just like Abobo, only with an added double-handed slap. Unlike Abobo, he does not use weapons. A green version of him appears as the Mission 3 boss.
-Boss 2 - The second boss. A head swap of the player who uses almost all the same techniques. 
-Willy - The game's final boss, armed, somewhat unfairly, with a machine-gun.
-
-Double Dragon was a huge success due to the many game-play innovations it brought to the genre (see TRIVIA for details), but it demonstrates its final moment of inspired genius at the very end of the game. Should both players still be alive after the final boss has been defeated, they will then have to fight each OTHER. The winner of this fight will be the one who wins Marian's affections.</desc>
-		<image>./mixart/ddragon.png</image>
-		<video>./snap/ddragon.mp4</video>
-		<marquee>./wheel/ddragon.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Technos Japan</developer>
-		<publisher>Taito</publisher>
-		<genre>Plateform / Fighter Scrolling-Platform</genre>
+		<path>./mslug.zip</path>
+		<name>Metal Slug: Super Vehicle-001</name>
+		<desc>Metal Slug, originally released on the Neo Geo, is a side-scrolling shoot'em'up.  The player(s) takes the role of a soldier (or two) and fights a gigantic army. Every level consists of running forward blasting anything that moves, while collecting power-ups along the way (there's also a wide selection of weaponry in the game). In the end of each level the player goes up against one gigantic boss.   The PlayStation port introduces some extra features: there is a combat school where the player may fight with other players for the best time on each level and an art gallery.</desc>
+		<image>./mixart/mslug.png</image>
+		<video>./snap/mslug.mp4</video>
+		<marquee>./wheel/mslug.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Nazca Corporation</developer>
+		<publisher>SNK</publisher>
+		<genre>Platform/Shooter</genre>
 		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
 	</game>
 	<game id="40733" source="ScreenScraper.fr">
 		<path>./crusnusa.zip</path>
@@ -33346,6 +33069,308 @@ The in-game physics are skewed entirely toward arcade-style handling. The aforem
 		<genre>Race 3rd Pers. view-Race, Driving</genre>
 		<players>1</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 		<genreid>1537</genreid>
+	</game>
+	<game>
+		<path>./hardyard.zip</path>
+		<name>Hard Yardage</name>
+		<desc>An arcade football game released in 1993 by the Strata Group, a division of Incredible Technologies.  Looks similar to early 3D Madden games.</desc>
+		<image>./mixart/hardyard.png</image>
+		<video>./snap/hardyard.mp4</video>
+		<marquee>./wheel/hardyard.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Strata</developer>
+		<publisher>Strata/Incredible Technologies</publisher>
+		<genre>Sports-Sports / Football</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./hitice.zip</path>
+		<name>Hit the Ice</name>
+		<desc>Welcome to no holds barred hockey brought to you by the Video Hockey League.  It's the Reds versus the Blues, the VHL's biggest rivalry.
+
+The same hockey rules apply, pass the puck around around the ice rink and shoot it past the opposite goalie to score. You can also check your opponent just like real hockey, only each character has their own bone-crushing way of checking, each with maximum impact and zero tolerance for your well-being.  Players can also start fights with one another to really spice things up.
+
+For an additional credit, players can purchase a 'power drink' that will make them 'Skate Faster and Shoot Harder' at the start of the period for one minute.
+
+Now get to the action and DROP THAT PUCK!</desc>
+		<image>./mixart/hitice.png</image>
+		<video>./snap/hitice.mp4</video>
+		<marquee>./wheel/hitice.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Williams, Inc.</developer>
+		<publisher>Taito Corporation (Williams license)</publisher>
+		<genre>Sports-Sports / Hockey</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./hyperpac.zip</path>
+		<name>Hyper Pacman</name>
+		<desc>This is an updated version of Namco's seminal "Pac-Man", featuring forced-perspective 3-D graphics that allow the players to jump over the enemy ghosts; in a similar fashion to Namco's "Pac-Mania", released in 1987. There are secret items and food to be found on each level that increases the player's power and score. The power-ups themselves consist of a shield, helmet lasers, speed and jump shoes. Players will face a boss encounter every ten stages and the game ends after the 30th stage.</desc>
+		<image>./mixart/hyperpac.png</image>
+		<video>./snap/hyperpac.mp4</video>
+		<marquee>./wheel/hyperpac.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>SemiCom</developer>
+		<publisher>SemiCom</publisher>
+		<genre>Action / Labyrinth-Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./kungfum.zip</path>
+		<name>Kung-Fu Master</name>
+		<desc>Kung-Fu Master, known in Japan as Spartan X (ã¹ãã«ã¿ã³X?), is a 1984 beat 'em up arcade game developed and published in Japan by Irem. It was later published in North America by Data East. The Japanese version was based on the Jackie Chan movie Wheels on Meals, known as Spartan X in Japan, and credited "Paragon Films Ltd., Towa Promotion", who produced the film upon which it was based. The game is considered by many to be the first beat 'em up video game, and contains elements of Bruce Lee's Game of Death.</desc>
+		<image>./mixart/kungfum.png</image>
+		<video>./snap/kungfum.mp4</video>
+		<marquee>./wheel/kungfum.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Fight / 2D-Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./martmast.zip</path>
+		<name>Martial Masters</name>
+		<desc>At the end of the Qin's Dynasty, the government weakened by corruption was attacked by foreign influences.
+
+The people were flung into misery and became quite unsatisfied with the situation. They did not believe in the government anymore and turned their faith back to religion.
+
+The White Lotus sect saw this as an opportunity and took over. They claimed to help the government to defeat foreigners and bring peace to the world. Their Ideology was quickly adopted. Everything related with the Western world was killed or destroyed. Anyone against this principal was considered an enemy and accused of being bound with the devil. 
+
+Dragon of Martial Master and Master Huang of Po Chi Lam could not accept these outrageous actions so they band together in order to prevent much bloodshed. One day the leader of White Lotus Sect sent an invitation to Dragon and Master Huang but Dragon's disciples saw this as a trap and recommended that they wait for Master Huang, who was out of town collecting medicine.
+
+The Master did not want to miss this opportunity to make peace and went alone. Unfortunately, he was captured and put in prison. Both parties started confrontations and have struggled since then. Now dangers are hidden all over the place. Who is capable of resolving the situation? Let's find out!</desc>
+		<image>./mixart/martmast.png</image>
+		<video>./snap/martmast.mp4</video>
+		<marquee>./wheel/martmast.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./mk3.zip</path>
+		<name>Mortal Kombat 3</name>
+		<desc>Succeeding in taking over the Earth realm, Shao Kahn takes all the human souls on Earth as his own. To stop the Outworld realm from totally merging with the Earth realm, a few Earth warriors were chosen to have their souls protected from Shao Kahn in order to defend the Earth realm in a new Mortal Kombat tournament. 14 digitized characters fight to overthrow Shao Kahn and his Centaur lieutenant Motaro.</desc>
+		<image>./mixart/mk3.png</image>
+		<video>./snap/mk3.mp4</video>
+		<marquee>./wheel/mk3.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950401T000000</releasedate>
+		<developer>bootleg / Midway</developer>
+		<publisher>bootleg / Midway</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./mmatrix.zip</path>
+		<name>Mars Matrix: Hyper Solid Shooting</name>
+		<desc>A prediction is that before human civilization, there was once an advanced civilization on Mars. A sorceress destroyed the civilization and everything that was remembered of it, except a chip called "INFINITY". In 2100, millions of people were starving due to massive food shortages and has caused civil wars around the world. Centuries later, however, the world government had sent colonists to Mars which began to solve these problems. At a nearby farm, the Infinity chip was discovered and it revealed all the technology of the advanced civilization. In 2309, a Declaration of Independence has been sent to Earth. Large armies have been amassed on Mars, and a gigantic armada was waiting for any attack from Earth. The Earth government sends out a fleet of battleships followed by a special air raid unit called ACID; ACID is equipped with a new fighter ship known as the Mosquito. Their mission is to enter Mars, stop the rebel violence, locate and destroy the rebel leader, whoever... or whatever it may be...</desc>
+		<image>./mixart/mmatrix.png</image>
+		<video>./snap/mmatrix.mp4</video>
+		<marquee>./wheel/mmatrix.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Takumi</developer>
+		<publisher>Takumi</publisher>
+		<genre>Shoot'em up / Vertical-Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./mmaulers.zip</path>
+		<name>Monster Maulers</name>
+		<desc>A trio of supervillains unleashes an army of gross mutants on earth in order to start an alien invasion. Our only hope is the trio of superheroes known as the 'Ultimate Task Force'. Squash the evil mutants and put an end to the alien menace. Features excellent graphics &amp; sound as well as plenty of moves to find!</desc>
+		<image>./mixart/mmaulers.png</image>
+		<video>./snap/mmaulers.mp4</video>
+		<marquee>./wheel/mmaulers.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Fight /  Co-op-Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./mwalk.zip</path>
+		<name>Michael Jackson's Moonwalker</name>
+		<desc>Based on the movie of the same name, Moonwalker is a scrolling, isometric beat' em up in which Michael Jackson (1958-2009), along with his chimp Bubbles, attempts to save children and defeat the evil 'Mr. Big'. During each round, the player must defeat each and every one of Mr. Big's henchmen and the deadly enemy machines that patrol the levels. This is achieved either by shooting them with Michael Jackson's 'magical energy', or by using his Dance Magic - the game's equivalent of a smart bomb. Some enemies take only one shot to defeat whereas others take several shots before they are destroyed. The longer the player holds down on the fire button, the greater the amount of magical energy Michael can inflict. At the start of each round, the player is given 2 dance magic smart bombs. Towards the end of each round, Michael's pet chimpanzee, Bubbles, will be seen moving about. If Michael touches Bubbles, he will turn into a powerful robot (the 'Moonwalker' of the game's title). After Michael has become Moonwalker, he will be able to shoot lasers and fire missiles. Michael must defeat every boss enemy at the end of each round in order to proceed to the next.</desc>
+		<image>./mixart/mwalk.png</image>
+		<video>./snap/mwalk.mp4</video>
+		<marquee>./wheel/mwalk.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight-Action / Labyrinth-Action</genre>
+		<players>3</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./narc.zip</path>
+		<name>Narc</name>
+		<desc>NARC is a graphically violent one or two-player side-scrolling shoot-em-up in which players take on the role of "Narcs"; futuristic police officers whose duty it is to either arrest or kill drug dealers, junkies and attack dogs as players fight to crush the criminal empire known as K.R.A.K. 
+
+The Narcs have both machine guns and rocket launchers at their disposal and players can also pick up (confiscate) discarded drugs and money to earn extra points. These are totaled up at the end of each level. On many stages a special colour-specific 'Keycard' needs to be found before players can progress to the next section of the level.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/narc.png</image>
+		<video>./snap/narc.mp4</video>
+		<marquee>./wheel/narc.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Williams</developer>
+		<publisher>Williams</publisher>
+		<genre>Platform-Plateform / Shooter Scrolling</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./nbbatman.zip</path>
+		<name>Ninja Baseball Bat Man</name>
+		<desc>Ninja Baseball Batman is an abstract, horizontally-scrolling beat-em-up for in which up to four players control a team of robotic baseball-star ninjas who must fight their way through a variety of levels, defeating the game's many enemies. 
+
+The object of the game is to recover a number of artifacts stolen from the Baseball Hall of Fame, a task prescribed to them by the Commissioner of Baseball. Each stage takes place in several parts of the United States, with a boss character appears at the end of each stage.
+
+The game's enemies are themed entirely around the sport of Baseball; taking the form of Baseballs, Catcher's mitts, bats etc. The game also allows players to perform combos, throws and dash attacks against multiple enemies. When a player's health bar flashes red, more moves can be performed as long as the player does not restore or completely lose health. 
+
+Health restoring food and drink items appear throughout the game, as well as throwable weapon pick-ups, including baseballs and shuriken. Occasionally players will find a pink heart, collecting this summons cheerleaders who either damage all on-screen enemies or drop a large amount of food.
+
+The four characters of "Ninja Baseball Batman" and their traits are:
+
+Captain Jose - Head of the team and technician. Well-balanced and a good choice for beginners. 
+    
+Twinbats Ryno - Very fast and wields two bats, but is the weakest of the four.
+    
+Beanball Roger - He is a powerful buster, but not as fast as others. 
+    
+Stick Straw - A long-reach hitter, making him the best choice for long-range moves.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/nbbatman.png</image>
+		<video>./snap/nbbatman.mp4</video>
+		<marquee>./wheel/nbbatman.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Fight-Fight / 2.5D</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./puckpkmn.zip</path>
+		<name>Puckman Pockimon</name>
+		<desc>A "Pac-man" style game with Pac-Man and Pocket Monster (Pok'n) characters. Player 1 controls Puckman and Player 2 controls Pikachu's head. Trying to catch you are the Ghost Monsters from the Pac-man games along with some Pocket Monsters. Get the 'power fruit' and you can eat them instead. When you complete a level, you are shown a digitized photograph of an Asian woman for some reason.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/puckpkmn.png</image>
+		<video>./snap/puckpkmn.mp4</video>
+		<marquee>./wheel/puckpkmn.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Genie</developer>
+		<publisher>Genie</publisher>
+		<genre>Action / Labyrinth-Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./rmpgwt.zip</path>
+		<name>Rampage: World Tour</name>
+		<desc>A sequel to the 1986 original, Rampage World Tour once again has George, Lizzie, and Ralph bent on a trail of destruction. The 'World Tour' of the title refers to the fact that the action now takes place around the entire world, instead of just North America. Graphics are much improved and a kick button has been added to allow even more chaos.
+
+Hidden bonus items have also been added to the game; two examples are an item that allows any player character to transport to almost any location in the game instantly. A second gives the players more destructive power. Some stages have a vat of toxic chemicals that can mutate any player character into a huge purple bat-like creature called V.E.R.N (Violently Enraged Radioactive Nemesis) for the duration of the stage.</desc>
+		<image>./mixart/rmpgwt.png</image>
+		<video>./snap/rmpgwt.mp4</video>
+		<marquee>./wheel/rmpgwt.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19970101T000000</releasedate>
+		<publisher>Midway</publisher>
+		<genre>Platform-Fight</genre>
+		<players>3</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./robotron.zip</path>
+		<name>Robotron: 2084</name>
+		<desc>Set in the year 2084, Robotron is a single-screen shoot-em-up in which super-intelligent self-aware robots known as 'Robotrons' - designed and built to help mankind - have revolted against their creators and vowed to either reprogram the humans into Robotrons or, failing this, wipe-out the human race entirely. 
+
+The player must destroy the robots and rescue the Earth's remaining human families. The player's only weapon is a multi-directional Anti-Robot Laser Gun. Used effectively, it will give players the power to destroy all the Robot waves, with the exception of the indestructible 'Hulk' unit. 
+
+At the start of the attack wave, players will have three chances to wipe out the enemy and advance to the next wave. Every 25,000 points players are granted another chance to complete their mission. 
+
+MAN, WOMAN, CHILD: These are the only three types of human clones left on Earth. Defenseless and easy prey to the Robots, they are totally dependent upon players for their survival and will wander aimlessly until the player makes contact with them. Touching them will place them under the player's protective powers and earn them the following points: 1,000 for rescuing the 1st human; 2,000 for the 2nd: 3,000 for the 3rd; 4,000 for the 4th; 5,000 for the 5th; and 5,000 for every additional human saved. At the beginning of each new wave and when the player loses a turn, rescue scoring will again begin at 1,000.</desc>
+		<image>./mixart/robotron.png</image>
+		<video>./snap/robotron.mp4</video>
+		<marquee>./wheel/robotron.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Vid Kidz</developer>
+		<publisher>Williams / Vid Kidz</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./sailormn.zip</path>
+		<name>Pretty Soldier Sailor Moon</name>
+		<desc>The game is a side-scrolling "beat-'em-up" game, one or two players pick their desired Senshi and travel through various stages defeating enemies. Items are sometimes dropped by enemies that can range from items that restore health, give extra points, or crystals that allow the Senshi to perform special attacks. Up to five crystals can be collected per player to power up the Senshi's special attacks. During the most difficult moments in battle, Tuxedo Mask will appear and throw a rose, which is a bonus to pick up and depart.</desc>
+		<image>./mixart/sailormn.png</image>
+		<video>./snap/sailormn.mp4</video>
+		<marquee>./wheel/sailormn.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Gazelle</developer>
+		<publisher>Gazelle</publisher>
+		<genre>Fight-Fight / 2.5D</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

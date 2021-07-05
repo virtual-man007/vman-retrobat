@@ -595,6 +595,25 @@ The 32X version of Virtua Racing adds a couple of new features. There are now 3 
 		<region>us</region>
 	</game>
 	<game>
+		<path>./Star Wars Arcade (USA).7z</path>
+		<name>Star Wars Arcade</name>
+		<desc>Star Wars Arcade is a 3D shoot 'em-up set in Episodes 4, 5, and 6 of the Star Wars saga.  You take control of either an X-Wing or Y-Wing, and are put right in the middle of the space combat.  In some levels, you have to shoot down a specific number of TIE fighters before time runs out. In other levels, your goal is to simply to make it to the end without getting blasted out of the sky.
+
+Some of the missions take place in deep space, around asteroids, or near Star Destroyers.  Other missions take place on the surface of the Death Star and re-create the Luke Skywalker's famous trench run to destroy it.</desc>
+		<image>./mixart/Star Wars Arcade (USA).png</image>
+		<video>./snap/Star Wars Arcade (USA).mp4</video>
+		<marquee>./wheel/Star Wars Arcade (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19941121T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
 		<path>./Blackthorne (USA).7z</path>
 		<name>Blackthorne</name>
 		<desc>Blackthorne is an action-adventure game that takes place on the planet Tuul. Tuul was a peaceful place, until the evil warrior Sarlac used the power of the Darkstone to take control.  Blackthorne's father, the good King Vlaros, sent him to Earth just as his kingdom crumbled around him.  Now, 20 years later, Blackthorne is grown and must return to Tuul to free it from the clutches of Sarlac.
@@ -610,25 +629,6 @@ This game is played from a side-view with non-scrolling backgrounds. It has stro
 		<developer>Blizzard Entertainment</developer>
 		<publisher>Interplay</publisher>
 		<genre>Platform-Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Star Wars Arcade (USA).7z</path>
-		<name>Star Wars Arcade</name>
-		<desc>Star Wars Arcade is a 3D shoot 'em-up set in Episodes 4, 5, and 6 of the Star Wars saga.  You take control of either an X-Wing or Y-Wing, and are put right in the middle of the space combat.  In some levels, you have to shoot down a specific number of TIE fighters before time runs out. In other levels, your goal is to simply to make it to the end without getting blasted out of the sky.
-
-Some of the missions take place in deep space, around asteroids, or near Star Destroyers.  Other missions take place on the surface of the Death Star and re-create the Luke Skywalker's famous trench run to destroy it.</desc>
-		<image>./mixart/Star Wars Arcade (USA).png</image>
-		<video>./snap/Star Wars Arcade (USA).mp4</video>
-		<marquee>./wheel/Star Wars Arcade (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19941121T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>LucasArts</publisher>
-		<genre>Action</genre>
-		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>

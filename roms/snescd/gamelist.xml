@@ -573,21 +573,6 @@ The action-RPG gameplay is very much like Secret of Mana, with a few key changes
 		<marquee>./wheel/Secret of Mana (MSU-1).png</marquee>
 		<video>./snap/Secret of Mana (MSU-1).mp4</video>
 	</game>
-	<game id="" source="ScreenScraper">
-		<path>./Street Fighter 2 Turbo (MSU-1).smc</path>
-		<name />
-		<desc />
-		<thumbnail />
-		<rating>0</rating>
-		<releasedate>01010101T000000</releasedate>
-		<developer />
-		<publisher />
-		<genre />
-		<players />
-		<image>./mixart/Street Fighter 2 Turbo (MSU-1).png</image>
-		<marquee>./wheel/Street Fighter 2 Turbo (MSU-1).png</marquee>
-		<video>./snap/Street Fighter 2 Turbo (MSU-1).mp4</video>
-	</game>
 	<game id="2173" source="ScreenScraper">
 		<path>./Super Castlevania IV (MSU-1).sfc</path>
 		<name>Super Castlevania IV</name>
@@ -1847,6 +1832,15 @@ The Alien Wars begin!!!</desc>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game source="ScreenScraper">
+		<path>./Street Fighter 2 Turbo (MSU-1).smc</path>
+		<name>Street Fighter 2 Turbo (MSU-1)</name>
+		<image>./mixart/Street Fighter 2 Turbo (MSU-1).png</image>
+		<video>./snap/Street Fighter 2 Turbo (MSU-1).mp4</video>
+		<marquee>./wheel/Street Fighter 2 Turbo (MSU-1).png</marquee>
+		<rating>0</rating>
+		<releasedate>01010101T000000</releasedate>
 	</game>
 	<game>
 		<path>./Castlevania_-_Dracula_X_(USA)_(MSU1).sfc</path>

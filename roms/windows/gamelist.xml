@@ -3145,21 +3145,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Sky Force Reloaded.lnk</path>
-		<name>Sky Force Reloaded</name>
-		<desc>Sky Force Reloaded is the spirit of the classic arcade shoot ‘em ups, captured with modern visuals and design. New entry in the series will keep you entertained with all the things you’ve came to love in scrolling shooters. Meaty explosions, incinerating lasers, collosal bosses and diverse aircrafts to pilot. Sky Force Reloaded is not your average scrolling shooter. It will draw you in with its beautiful environments and intense effects.</desc>
-		<image>./mixart/Sky Force Reloaded.png</image>
-		<video>./snap/Sky Force Reloaded.mp4</video>
-		<marquee>./wheel/Sky Force Reloaded.png</marquee>
-		<rating>0.99</rating>
-		<releasedate>20171201T000000</releasedate>
-		<developer>Infinite Dreams</developer>
-		<publisher>Infinite Dreams</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Cloud Cutter.lnk</path>
 		<name>Cloud Cutter</name>
 		<desc>Cloud Cutter brings you classic arcade shoot ‘em up gameplay in top notch graphics. Cloud Cutter offers exactly what you expect and love in old-school scrolling shooters. Enjoy intense fast-paced explosive action full of epic destruction, arcade style power-ups, lasers and of course huge multi-stage boss fights. Blast your way through hundreds of enemies in a beautiful and ever-changing environment. Collect in-game power-ups to upgrade your ship and deal massive damage with a number of special powers. Master 13 detailed and immersive stages with challenging missions to complete that will push your pilot reflexes to their limits. Battle enormous and intimidating bosses.</desc>
@@ -3586,21 +3571,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Warhammer - Chaosbane.lnk</path>
-		<name>Warhammer - Chaosbane</name>
-		<desc>In a world ravaged by war and dominated by magic, you are the last hope for the Empire of Man against the Chaos hordes. Playing solo or with up to 4 in local or online co-op, choose a hero from 4 character classes with unique and complementary skills, and prepare for epic battles wielding some of the most powerful artefacts of the Old World. • THE FIRST HACK AND SLASH set in the Warhammer Fantasy world, told through an all-new story written by Mike Lee (a Black Library author) and featuring a soundtrack composed by Chance Thomas. • FEROCIOUS BATTLES: from the sewers of Nuln to the ruined streets of Praag, fight your way through monster hordes using over 180 different powers. Activate your bloodlust, a devastating skill, to escape the most perilous situations. • 4 CHARACTER CLASSES, each with unique skills and customisation: a soldier of the Empire who can take heavy damage, a Dwarf specialising in melee combat, a High Elf who deals ranged damage by manipulating magic or a Wood Elf who lays deadly traps and wields the bow like no other!</desc>
-		<image>./mixart/Warhammer - Chaosbane.jpg</image>
-		<video>./snap/Warhammer - Chaosbane.mp4</video>
-		<marquee>./wheel/Warhammer - Chaosbane.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20191201T000000</releasedate>
-		<developer>Eko Software</developer>
-		<publisher>BigBen Interactive</publisher>
-		<genre>Action, Role-Playing</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Ghosts 'n Goblins Resurrection.lnk</path>
 		<name>Ghosts 'n Goblins Resurrection</name>
 		<desc>Watch as this nostalgic yet completely re-imagined storybook world unravels before your very eyes. Taking cues from both Ghosts 'n Goblins and Ghouls 'n Ghosts and giving birth to something entirely new, Resurrection is a title worthy of its name. Don't be fooled—this picturesque storybook world, while gorgeous, is a love-letter to the original titles and maintains the same punishing game play that fans have come to expect. So go on and test your mettle, for the gauntlet has been thrown!</desc>
@@ -3703,21 +3673,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<developer>Crystal Dynamics</developer>
 		<publisher>Eidos Interactive</publisher>
 		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./River City Girls.lnk</path>
-		<name>River City Girls</name>
-		<desc>Kick butt, take names, and pound punks in this all-new installment of the classic co-op beat-’em-up series! River City Girls stars Kyoko and Misako, two street-tough high-schoolers who must fight their way through the six regions of River City to rescue their kidnapped boyfriends, series mainstays Kunio and Riki. Along the way, they’ll utilize an arsenal of combos, counters, throws, and special attacks; battle an assortment of enemies; accept numerous side quests; level up with experience points; interact with NPCs (including guest stars from past River City games); and shop for a variety of items, food, and gear to boost stats and unlock new abilities. The girls can even wield weapons and recruit defeated foes to join them in combat! The one- or local two-player bare-knuckle brawling is complemented by spectacular 16-bit-style graphics and an epic synth-pop soundtrack.</desc>
-		<image>./mixart/River City Girls.png</image>
-		<video>./snap/River City Girls.mp4</video>
-		<marquee>./wheel/River City Girls.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20191201T000000</releasedate>
-		<developer>WayForward Tech</developer>
-		<publisher>Arc System Works</publisher>
-		<genre>Beat'em Up</genre>
 		<players>2</players>
 		<favorite>true</favorite>
 	</game>
@@ -3943,20 +3898,6 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<genre>Arcade</genre>
 	</game>
 	<game>
-		<path>./PAC-MAN Museum.lnk</path>
-		<name>PAC-MAN Museum - Battle Royale</name>
-		<desc>Pac-Man Museum is a digital collection of Pac-Man games ported from a variety of platforms. It includes: Pac-Attack Pac-Land Pac-Man Pac-Man: Arrangement Pac-Man: Battle Royale Pac-Man: Championship Edition Pac-Mania Pac Pal Super Pac-Man The game has leaderboards for each game and uses an achievement system to fill a stamp book. Various collectibles can be earned and are stored in a Pac-Room. There is a navigation system to help find the best maze routes and progress can be saved. The arcade game Pac-Man: Battle Royale supports multiplayer for up to four players. Early buyers received Ms. Pac-Man as well. Later it was made available as DLC.</desc>
-		<image>./mixart/PAC-MAN Museum.jpg</image>
-		<video>./snap/PAC-MAN Museum.mp4</video>
-		<marquee>./wheel/PAC-MAN Museum.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20111201T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Arcade</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Super High Ball.lnk</path>
 		<name>Super High Pinball - Pinball Platformer</name>
 		<desc>Super High Ball is a unique blend between a Pinball and a Platformer game! Control the flippers to kick the ball through difficult and dangerous traps, use your ability to slow down the ball to precisely take the quickest path to the end! Complete goals to unlock various customizations.</desc>
@@ -3984,21 +3925,6 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<publisher>Team Reptile</publisher>
 		<genre>Action, Fighting</genre>
 		<players>4</players>
-	</game>
-	<game>
-		<path>./Streets of Fury EX.lnk</path>
-		<name>Streets of Fury EX</name>
-		<desc>Fight the gangs of Paris in this action packed Beat'Em up. Up to 4 players can join in, to cooperate, or fight against each other! Many unlockables, game modes, crazy combos and devastating furies await you in this deep fighting game. Key Features: Oldschool “go right” beat’em up 4 players local Co-op and competitive play 17 playable characters The depth of a versus fighting game in a side-scrolling beat'em up Lots of moves, special moves, furies, cancels, chain combos, air combos, dodge, etc. Increase the Security Level to unlock new characters, game modes, and more... Story mode : Hunt the gang leaders in their respective districts Alternate Story mode : Build your own gang! Versus mode : Free for all and team battle for some multiplayer mayhem Survival mode : How long can you survive endless waves of enemies? Challenge mode : Try some time attack on special levels Featuring a whole new soundtrack by K93. Play with any controller Featuring famous youtuber Benzaie as the Hard Corner.</desc>
-		<image>./mixart/Streets of Fury EX.jpg</image>
-		<video>./snap/Streets of Fury EX.mp4</video>
-		<marquee>./wheel/Streets of Fury EX.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20151201T000000</releasedate>
-		<developer>Guard Crush Games</developer>
-		<publisher>Guard Crush Games</publisher>
-		<genre>Action</genre>
-		<players>4</players>
-		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Full Metal Furies.lnk</path>
@@ -4264,21 +4190,6 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Spelunky 2.lnk</path>
-		<name>Spelunky 2</name>
-		<desc>Spelunky 2 builds upon the unique, randomized challenges that made the original a roguelike classic, offering a huge adventure designed to satisfy players old and new. Meet the next generation of explorers as they find themselves on the Moon, searching for treasure and missing family.</desc>
-		<image>./mixart/Spelunky 2.png</image>
-		<video>./snap/Spelunky 2.mp4</video>
-		<marquee>./wheel/Spelunky 2.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20200929T000000</releasedate>
-		<developer>Blitworks, Mossmouth</developer>
-		<publisher>Mossmouth</publisher>
-		<genre>Platform</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Wonder Boy - Asha in Monster World.lnk</path>
 		<name>Wonder Boy - Asha in Monster World</name>
 		<desc>Asha, the warrior protagonist of the game, is involved in a serious incident that will affect the survival of her world. Our green-haired heroine doesn’t have to save the world all alone, and sets off on an adventure with her cute flying friend, the blue Pepelogoo. Asha and the Pepelogoo have to work together to become the heroes the world needs them to be. The road ahead is long - but will they be able to save their world?</desc>
@@ -4306,21 +4217,6 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<publisher>Funktronic Labs</publisher>
 		<genre>Action, Racing</genre>
 		<players>8</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Curved Space.lnk</path>
-		<name>Curved Space</name>
-		<desc>Test your skills in Curved Space, a unique take on the classic twin stick shoot 'em up. Curved Space is an intense arcade-style twin-stick shooter that takes the classic formula and plunges it into the weirdest reaches of space.</desc>
-		<image>./mixart/Curved Space.jpg</image>
-		<video>./snap/Curved Space.mp4</video>
-		<marquee>./wheel/Curved Space.png</marquee>
-		<rating>0.80</rating>
-		<releasedate>20210929T000000</releasedate>
-		<developer>Only By Midnight</developer>
-		<publisher>Maximum Games</publisher>
-		<genre>Shoot 'Em Up</genre>
-		<players>1</players>
 		<favorite>true</favorite>
 	</game>
 	<game>
@@ -4382,21 +4278,6 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Super Toy Cars 2.lnk</path>
-		<name>Super Toy Cars 2</name>
-		<desc>Super Toy Cars 2 is a fast paced arcade racing game where you control miniature cars that speed through amazing tracks made of supersized everyday objects. In Super Toy Cars 2 you will race cool toy cars, alone or with friends, across crazy table top tracks made of everyday objects that take on a new dimension. In this world a sausage is the size of a bus, a burger is the size of a small swimming pool and you may encounter dangerous toy scissors cutting their way through the middle of the track. Outrace your opponents… or crush them to scrap! You can fight them up close or use one of the many power-ups scattered throughout the race. In the end this game is sure to do one thing for you: revive that crazy larger than life feeling of playing with toy cars when you were a kid. A gamepad is required to play Super Toy Cars 2 local multiplayer games.</desc>
-		<image>./mixart/Super Toy Cars 2.jpg</image>
-		<video>./snap/Super Toy Cars 2.mp4</video>
-		<marquee>./wheel/Super Toy Cars 2.png</marquee>
-		<rating>0.80</rating>
-		<releasedate>20200929T000000</releasedate>
-		<developer>Eclipse Games</developer>
-		<publisher>Eclipse Games</publisher>
-		<genre>Racing</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Guilty Gear Strive.lnk</path>
 		<name>Guilty Gear Strive</name>
 		<desc>Discover the Smell of the Game with Guilty Gear -Strive-! Immerse yourself in new gameplay mechanics designed to be simple and welcoming for fighting game newcomers, yet deep and creative for veterans. Ride the Fire into a heavy metal inspired alternate future full of over-the-top action, style and fun! Blazing! “Guilty Gear -Strive-“ is the latest entry in the critically acclaimed Guilty Gear fighting game franchise. Created by Daisuke Ishiwatari and developed by Arc System Works, “Guilty Gear -Strive-“ upholds the series’ reputation for a high octane soundtrack, groundbreaking hybrid 2D/3D cell-shaded graphics and intense, rewarding gameplay.</desc>
@@ -4453,21 +4334,6 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<developer>Team17</developer>
 		<publisher>Team17</publisher>
 		<genre>Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Agent Intercept.lnk</path>
-		<name>Agent Intercept</name>
-		<desc>Agent Intercept. Agent Intercept. Leap into the driver's seat of an epic narrative of intrigue, betrayal, and unbelievable set-pieces. Stop the nefarious criminal organization CLAW and save the world from total destruction in your slick, souped-up, transforming vehicle.</desc>
-		<image>./mixart/Agent Intercept.jpg</image>
-		<video>./snap/Agent Intercept.mp4</video>
-		<marquee>./wheel/Agent Intercept.png</marquee>
-		<rating>0.80</rating>
-		<releasedate>20210929T000000</releasedate>
-		<developer>PikPok</developer>
-		<publisher>PikPok</publisher>
-		<genre>Racing</genre>
 		<players>2</players>
 		<favorite>true</favorite>
 	</game>
@@ -4532,6 +4398,140 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<publisher>Devolver Digital</publisher>
 		<genre>Action, Platform</genre>
 		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Curved Space.lnk</path>
+		<name>Curved Space</name>
+		<desc>Test your skills in Curved Space, a unique take on the classic twin stick shoot 'em up. Curved Space is an intense arcade-style twin-stick shooter that takes the classic formula and plunges it into the weirdest reaches of space.</desc>
+		<image>./mixart/Curved Space.jpg</image>
+		<video>./snap/Curved Space.mp4</video>
+		<marquee>./wheel/Curved Space.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20210929T000000</releasedate>
+		<developer>Only By Midnight</developer>
+		<publisher>Maximum Games</publisher>
+		<genre>Shoot 'Em Up</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./River City Girls.lnk</path>
+		<name>River City Girls</name>
+		<desc>Kick butt, take names, and pound punks in this all-new installment of the classic co-op beat-’em-up series! River City Girls stars Kyoko and Misako, two street-tough high-schoolers who must fight their way through the six regions of River City to rescue their kidnapped boyfriends, series mainstays Kunio and Riki. Along the way, they’ll utilize an arsenal of combos, counters, throws, and special attacks; battle an assortment of enemies; accept numerous side quests; level up with experience points; interact with NPCs (including guest stars from past River City games); and shop for a variety of items, food, and gear to boost stats and unlock new abilities. The girls can even wield weapons and recruit defeated foes to join them in combat! The one- or local two-player bare-knuckle brawling is complemented by spectacular 16-bit-style graphics and an epic synth-pop soundtrack.</desc>
+		<image>./mixart/River City Girls.png</image>
+		<video>./snap/River City Girls.mp4</video>
+		<marquee>./wheel/River City Girls.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>WayForward Tech</developer>
+		<publisher>Arc System Works</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./PAC-MAN Museum.lnk</path>
+		<name>PAC-MAN Museum - Battle Royale</name>
+		<desc>Pac-Man Museum is a digital collection of Pac-Man games ported from a variety of platforms. It includes: Pac-Attack Pac-Land Pac-Man Pac-Man: Arrangement Pac-Man: Battle Royale Pac-Man: Championship Edition Pac-Mania Pac Pal Super Pac-Man The game has leaderboards for each game and uses an achievement system to fill a stamp book. Various collectibles can be earned and are stored in a Pac-Room. There is a navigation system to help find the best maze routes and progress can be saved. The arcade game Pac-Man: Battle Royale supports multiplayer for up to four players. Early buyers received Ms. Pac-Man as well. Later it was made available as DLC.</desc>
+		<image>./mixart/PAC-MAN Museum.jpg</image>
+		<video>./snap/PAC-MAN Museum.mp4</video>
+		<marquee>./wheel/PAC-MAN Museum.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20111201T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Arcade</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Sky Force Reloaded.lnk</path>
+		<name>Sky Force Reloaded</name>
+		<desc>Sky Force Reloaded is the spirit of the classic arcade shoot ‘em ups, captured with modern visuals and design. New entry in the series will keep you entertained with all the things you’ve came to love in scrolling shooters. Meaty explosions, incinerating lasers, collosal bosses and diverse aircrafts to pilot. Sky Force Reloaded is not your average scrolling shooter. It will draw you in with its beautiful environments and intense effects.</desc>
+		<image>./mixart/Sky Force Reloaded.png</image>
+		<video>./snap/Sky Force Reloaded.mp4</video>
+		<marquee>./wheel/Sky Force Reloaded.png</marquee>
+		<rating>0.99</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Infinite Dreams</developer>
+		<publisher>Infinite Dreams</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Spelunky 2.lnk</path>
+		<name>Spelunky 2</name>
+		<desc>Spelunky 2 builds upon the unique, randomized challenges that made the original a roguelike classic, offering a huge adventure designed to satisfy players old and new. Meet the next generation of explorers as they find themselves on the Moon, searching for treasure and missing family.</desc>
+		<image>./mixart/Spelunky 2.png</image>
+		<video>./snap/Spelunky 2.mp4</video>
+		<marquee>./wheel/Spelunky 2.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20200929T000000</releasedate>
+		<developer>Blitworks, Mossmouth</developer>
+		<publisher>Mossmouth</publisher>
+		<genre>Platform</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Streets of Fury EX.lnk</path>
+		<name>Streets of Fury EX</name>
+		<desc>Fight the gangs of Paris in this action packed Beat'Em up. Up to 4 players can join in, to cooperate, or fight against each other! Many unlockables, game modes, crazy combos and devastating furies await you in this deep fighting game. Key Features: Oldschool “go right” beat’em up 4 players local Co-op and competitive play 17 playable characters The depth of a versus fighting game in a side-scrolling beat'em up Lots of moves, special moves, furies, cancels, chain combos, air combos, dodge, etc. Increase the Security Level to unlock new characters, game modes, and more... Story mode : Hunt the gang leaders in their respective districts Alternate Story mode : Build your own gang! Versus mode : Free for all and team battle for some multiplayer mayhem Survival mode : How long can you survive endless waves of enemies? Challenge mode : Try some time attack on special levels Featuring a whole new soundtrack by K93. Play with any controller Featuring famous youtuber Benzaie as the Hard Corner.</desc>
+		<image>./mixart/Streets of Fury EX.jpg</image>
+		<video>./snap/Streets of Fury EX.mp4</video>
+		<marquee>./wheel/Streets of Fury EX.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20151201T000000</releasedate>
+		<developer>Guard Crush Games</developer>
+		<publisher>Guard Crush Games</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Super Toy Cars 2.lnk</path>
+		<name>Super Toy Cars 2</name>
+		<desc>Super Toy Cars 2 is a fast paced arcade racing game where you control miniature cars that speed through amazing tracks made of supersized everyday objects. In Super Toy Cars 2 you will race cool toy cars, alone or with friends, across crazy table top tracks made of everyday objects that take on a new dimension. In this world a sausage is the size of a bus, a burger is the size of a small swimming pool and you may encounter dangerous toy scissors cutting their way through the middle of the track. Outrace your opponents… or crush them to scrap! You can fight them up close or use one of the many power-ups scattered throughout the race. In the end this game is sure to do one thing for you: revive that crazy larger than life feeling of playing with toy cars when you were a kid. A gamepad is required to play Super Toy Cars 2 local multiplayer games.</desc>
+		<image>./mixart/Super Toy Cars 2.jpg</image>
+		<video>./snap/Super Toy Cars 2.mp4</video>
+		<marquee>./wheel/Super Toy Cars 2.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20200929T000000</releasedate>
+		<developer>Eclipse Games</developer>
+		<publisher>Eclipse Games</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Warhammer - Chaosbane.lnk</path>
+		<name>Warhammer - Chaosbane</name>
+		<desc>In a world ravaged by war and dominated by magic, you are the last hope for the Empire of Man against the Chaos hordes. Playing solo or with up to 4 in local or online co-op, choose a hero from 4 character classes with unique and complementary skills, and prepare for epic battles wielding some of the most powerful artefacts of the Old World. • THE FIRST HACK AND SLASH set in the Warhammer Fantasy world, told through an all-new story written by Mike Lee (a Black Library author) and featuring a soundtrack composed by Chance Thomas. • FEROCIOUS BATTLES: from the sewers of Nuln to the ruined streets of Praag, fight your way through monster hordes using over 180 different powers. Activate your bloodlust, a devastating skill, to escape the most perilous situations. • 4 CHARACTER CLASSES, each with unique skills and customisation: a soldier of the Empire who can take heavy damage, a Dwarf specialising in melee combat, a High Elf who deals ranged damage by manipulating magic or a Wood Elf who lays deadly traps and wields the bow like no other!</desc>
+		<image>./mixart/Warhammer - Chaosbane.jpg</image>
+		<video>./snap/Warhammer - Chaosbane.mp4</video>
+		<marquee>./wheel/Warhammer - Chaosbane.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>Eko Software</developer>
+		<publisher>BigBen Interactive</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Agent Intercept.lnk</path>
+		<name>Agent Intercept</name>
+		<desc>Agent Intercept. Agent Intercept. Leap into the driver's seat of an epic narrative of intrigue, betrayal, and unbelievable set-pieces. Stop the nefarious criminal organization CLAW and save the world from total destruction in your slick, souped-up, transforming vehicle.</desc>
+		<image>./mixart/Agent Intercept.jpg</image>
+		<video>./snap/Agent Intercept.mp4</video>
+		<marquee>./wheel/Agent Intercept.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20210929T000000</releasedate>
+		<developer>PikPok</developer>
+		<publisher>PikPok</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
 		<favorite>true</favorite>
 	</game>
 </gameList>

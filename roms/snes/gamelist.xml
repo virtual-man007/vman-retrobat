@@ -13694,18 +13694,6 @@ In battle mode, up to four players go head to head in a battle to the death.  Pl
 		<players>4</players>
 	</game>
 	<game>
-		<path>./Hyper Street Kart.7z</path>
-		<name>'H'Hyper Street Kart</name>
-		<desc>Hack of Super Mario Kart. All the 8 drivers sprites have been replaced with fighters from Street Fighter II. New and modified Tracks.</desc>
-		<image>./mixart/Hyper Street Kart.png</image>
-		<video>./snap/Hyper Street Kart.mp4</video>
-		<marquee>./wheel/Hyper Street Kart.png</marquee>
-		<rating>0</rating>
-		<releasedate></releasedate>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./New Super Mario Land.7z</path>
 		<name>'H'New Super Mario Land</name>
 		<desc>New Super Mario Land is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
@@ -13717,5 +13705,17 @@ In battle mode, up to four players go head to head in a battle to the death.  Pl
 		<developer>Homebrew</developer>
 		<publisher>Non-commercial</publisher>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Hyper Street Kart.7z</path>
+		<name>'H'Hyper Street Kart</name>
+		<desc>Hack of Super Mario Kart. All the 8 drivers sprites have been replaced with fighters from Street Fighter II. New and modified Tracks.</desc>
+		<image>./mixart/Hyper Street Kart.png</image>
+		<video>./snap/Hyper Street Kart.mp4</video>
+		<marquee>./wheel/Hyper Street Kart.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

@@ -208,23 +208,6 @@ Play with a friend in co-op mode or switch between any of the three beautiful pl
 		<genreid>256</genreid>
 	</game>
 	<game source="ScreenScraper.fr">
-		<path>./Tetris Evolution.m3u</path>
-		<name>Tetris Evolution</name>
-		<desc>In Tetris Evolution, players enjoy not only traditional Tetris gameplay but numerous new modes including "Go Low" and "Eraser" for both single and multiplayer. The multiplayer mode not only allows for up to four players on a single console, but players can now compete with up to four players via the Xbox Live online entertainment service.</desc>
-		<image>./mixart/Tetris Evolution.png</image>
-		<marquee>./wheel/Tetris Evolution.png</marquee>
-		<rating>0.3</rating>
-		<releasedate>20070319T000000</releasedate>
-		<developer>Mass Media, Inc.</developer>
-		<publisher>THQ</publisher>
-		<genre>Puzzle</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>7fe88ddc05a08875e243ccdc1a69ee6c</md5>
-		<lang>en</lang>
-		<genreid>2816</genreid>
-	</game>
-	<game source="ScreenScraper.fr">
 		<path>./Gears of War Judgement.m3u</path>
 		<name>Gears of War: Judgment</name>
 		<desc>"Gears of War: Judgment" takes you back before events of the original "Gears of War" trilogy to the immediate aftermath of Emergence Day - the defining event of the "Gears of War" universe. Follow Kilo Squad, led by Damon Baird and Augustus "The Cole Train" Cole, as they fight to save the city of Halvo Bay from an unstoppable enemy in the most intense 'Gears' game yet.</desc>
@@ -283,5 +266,22 @@ Play with a friend in co-op mode or switch between any of the three beautiful pl
 		<players>4</players>
 		<md5>1a0b5fb07af6ddd55f83df93f1116d11</md5>
 		<lang>en</lang>
+	</game>
+	<game source="ScreenScraper.fr">
+		<path>./Tetris Evolution.m3u</path>
+		<name>Tetris Evolution</name>
+		<desc>In Tetris Evolution, players enjoy not only traditional Tetris gameplay but numerous new modes including "Go Low" and "Eraser" for both single and multiplayer. The multiplayer mode not only allows for up to four players on a single console, but players can now compete with up to four players via the Xbox Live online entertainment service.</desc>
+		<image>./mixart/Tetris Evolution.png</image>
+		<marquee>./wheel/Tetris Evolution.png</marquee>
+		<rating>0.3</rating>
+		<releasedate>20070319T000000</releasedate>
+		<developer>Mass Media, Inc.</developer>
+		<publisher>THQ</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>7fe88ddc05a08875e243ccdc1a69ee6c</md5>
+		<lang>en</lang>
+		<genreid>2816</genreid>
 	</game>
 </gameList>

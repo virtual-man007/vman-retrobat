@@ -336,20 +336,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./dolphin.zip</path>
-		<name>Dolphin Blue</name>
-		<desc>Sammy's Atomiswave arcade shoot-em-up in the vein of Metal Slug, where players ride dolphins and destroy fleets of enemy ships and submarines.  Unfortunately, this arcade shoot-em-up was never ported to any home console.</desc>
-		<image>./mixart/dolphin.png</image>
-		<video>./snap/dolphin.mp4</video>
-		<marquee>./wheel/dolphin.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20030101T000000</releasedate>
-		<genre>Shoot'em Up-Platform-Plateform / Shooter Scrolling</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./atvtrack.zip</path>
 		<name>Atv Track (set 1)</name>
 		<desc>A four-wheel motorcycle racing simulator with four different circuits and two selectable modes : Practice and Competition.</desc>
@@ -403,6 +389,20 @@
 		<developer>Sammy Studios</developer>
 		<publisher>Sammy Studios</publisher>
 		<genre>Beat'em Up-Fight-Fight / Versus</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./dolphin.zip</path>
+		<name>Dolphin Blue</name>
+		<desc>Sammy's Atomiswave arcade shoot-em-up in the vein of Metal Slug, where players ride dolphins and destroy fleets of enemy ships and submarines.  Unfortunately, this arcade shoot-em-up was never ported to any home console.</desc>
+		<image>./mixart/dolphin.png</image>
+		<video>./snap/dolphin.mp4</video>
+		<marquee>./wheel/dolphin.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20030101T000000</releasedate>
+		<genre>Shoot'em Up-Platform-Plateform / Shooter Scrolling</genre>
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>

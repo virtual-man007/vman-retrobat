@@ -155,32 +155,6 @@ Join young Adam and Delphineus the dolphin as they brave the terrors of toxic wa
 		<genre>Point and Click-Adventure</genre>
 	</game>
 	<game>
-		<path>./myst3-win.cmd</path>
-		<name>Myst 3 - Exile</name>
-		<desc>Myst III Exile takes place 10 years after Riven. You go to Tomahna, Atrus' new home. Atrus offers to show you Releeshahn, the age where the remaining D'ni have established. Before that can happen, a man appears and steals the linking book. You go after him through several ages, and try to understand who he is.</desc>
-		<image>./mixart/myst3.png</image>
-		<video>./snap/myst3.mp4</video>
-		<marquee>./wheel/myst3.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20010508T000000</releasedate>
-		<developer>Presto Studios</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Point and Click-Adventure</genre>
-	</game>
-	<game>
-		<path>./monkey4-win.cmd</path>
-		<name>Escape From Monkey Island</name>
-		<desc>The game follows Guybrush Threepwood and Elaine Marley as they return to Mêlée Island from their honeymoon. There they discover that Elaine Marley's position of governor has been revoked, her mansion is scheduled to be demolished, and a politician named Charles L. Charles is running for the governorship. Guybrush learns that the islands are being purchased one by one, and pirates are being forced out in favor of tacky Carribean-themed tourism. Guybrush must find out who is threatening his way of life, piracy, and also find a way to save Elaine's mansion.</desc>
-		<image>./mixart/monkey4.png</image>
-		<video>./snap/monkey4.mp4</video>
-		<marquee>./wheel/monkey4.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20001108T000000</releasedate>
-		<developer>LucasArts</developer>
-		<publisher>LucasArts</publisher>
-		<genre>Point and Click-Adventure</genre>
-	</game>
-	<game>
 		<path>./laurabow2-cd.svm/Laura Bow 2  The Dagger of AmonRa (CD DOS).scummvm</path>
 		<name>Laura Bow 2  The Dagger of AmonRa (CD DOS)</name>
 		<image>./mixart/laurabow2-cd.png</image>
@@ -216,19 +190,6 @@ Join young Adam and Delphineus the dolphin as they brave the terrors of toxic wa
 	<game>
 		<path>./+Start ResidualVM.sh</path>
 		<name>+Start ResidualVM</name>
-	</game>
-	<game>
-		<path>./tlj-win.cmd</path>
-		<name>The Longest Journey</name>
-		<desc>Between science and magic, between order and chaos, between Stark and Arcadia, there is an ancient balance. For thousands of years, the Guardian of the Balance has perserved the Divide between the twin worlds. But now the Guardian has abandoned his tower, the armies of Chaos are advancing, and the fate of the worlds is in the hands of one person... Her name is April Ryan. She is eighteen years old, and she has no idea that her destiny has already been foretold in hundred tales. With the power to pass between worlds like others pass from waking to sleep, Aprils must embark on the longest journey of her life; a journey not only across twin worlds, but also into her own heart and soul.</desc>
-		<image>./mixart/tlj.png</image>
-		<video>./snap/tlj.mp4</video>
-		<marquee>./wheel/tlj.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Funcom</developer>
-		<publisher>Funcom</publisher>
-		<genre>Adventure / Point and Click-Adventure</genre>
 	</game>
 	<game>
 		<path>./draci.svm/Dragon History.scummvm</path>
@@ -1102,18 +1063,6 @@ Several months later, Sordid's Fortress of Doom is reconstructed and Sordid has 
 		<genre>Point and Click-Adventure</genre>
 	</game>
 	<game>
-		<path>./Space Quest 4 - Roger Wilco and the Time Rippers (CD DOS).svm/Space Quest IV - Roger Wilco and the Time Rippers.scummvm</path>
-		<name>Space Quest IV: Roger Wilco and the Time Rippers</name>
-		<image>./mixart/sq4.png</image>
-		<video>./snap/sq4.mp4</video>
-		<marquee>./wheel/sq4.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Sierra</developer>
-		<publisher>Sierra</publisher>
-		<genre>Point and Click-Adventure</genre>
-	</game>
-	<game>
 		<path>./Space Quest 6 - The Spinal Frontier (CD DOS).svm/Space Quest 6 - Roger Wilco in the Spinal Frontier.scummvm</path>
 		<name>Space Quest 6: Roger Wilco in the Spinal Frontier</name>
 		<desc>Roger Wilco, the brave interstellar janitor who has already saved the universe from many great dangers, is now in a very embarrassing position. His commanders show no respect for his courageous actions in the previous game. Instead, he is being accused of all kinds of violations against the galactic law, is deprived of all the honors he got in the previous game, and as a token of mercy, is allowed to return to his old job - cleaning closets... But those unfortunate events are just the beginning of much bigger troubles Roger will get into. Once again, the future of galaxy depends on him!Space Quest 6 is the first game in the series to be released exclusively on a CD ROM. The game continues the humorous tradition of the series and is especially inclined towards parody of popular sci-fi movies. It features SVGA graphics and voice-overs for conversations and text descriptions. The interface is slightly different from icon-based system used by Sierra in many other adventure games: the player chooses verbs from a menu that appears at the bottom of the screen, similarly to earlier LucasArts titles. Unlike all previous Space Quest installments, the game allows the player to retry immediately in case Roger dies, without the need to restore a previously saved game.</desc>
@@ -1573,21 +1522,6 @@ The games locations are done in hand-painted style. The CD version of the game a
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./bladerunner-win.svm/Blade Runner.scummvm</path>
-		<name>Blade Runner</name>
-		<desc>Set in 2019 Los Angeles, the game tells the story of Ray McCoy, an elite detective charged with hunting down a group of dangerous replicants (bioengineered androids designed to look and act like humans). Although several of the film's characters appear in the game, with some of the original actors returning to voice them, the film's protagonist, Rick Deckard, does not appear in a speaking role. Instead, he is referred to on multiple occasions, is seen several times, and his activities as depicted in the film are mentioned. Other parallels with the film include the reproduction of several prominent locations, as well as scenes and dialogue closely modelled on the original. The game also features extracts from the film's soundtrack.</desc>
-		<image>./mixart/bladerunner-win.png</image>
-		<video>./snap/bladerunner-win.mp4</video>
-		<marquee>./wheel/bladerunner-win.png</marquee>
-		<rating>1</rating>
-		<releasedate>19971031T000000</releasedate>
-		<developer>Westwood Studios</developer>
-		<publisher>Virgin</publisher>
-		<genre>Point and Click-Adventure</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./gk2.svm/Beast Within - A Gabriel Knight Mystery, The.scummvm</path>
 		<name>Beast Within - A Gabriel Knight Mystery, The</name>
 		<desc>The Beast Within is a point-and-click adventure game, played from a third-person perspective. The game is divided into six chapters and the player controls Gabriel and Grace alternately between the chapters. They conduct their investigations separately for the most of the game, only joining forces in the finale.</desc>
@@ -1641,20 +1575,6 @@ The games locations are done in hand-painted style. The CD version of the game a
 		<genre>Point and Click-Adventure</genre>
 	</game>
 	<game>
-		<path>./grim-win.cmd</path>
-		<name>Grim Fandango</name>
-		<desc>The game follows Manny Calavera, a grim reaper for the Department of Death in the Land of the Dead. He learns that the system he works for is corrupt, after a woman who led a great life, Mercedes (Meche) Colomar, doesn't get to go straight to the seventh level of the afterlife, the land of eternal rest. Manny must take a four year journey to find out who's behind the corruption, find Meche, and earn himself a place in the land of eternal rest.</desc>
-		<image>./mixart/grim.png</image>
-		<video>./snap/grim.mp4</video>
-		<marquee>./wheel/grim.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19981030T000000</releasedate>
-		<developer>LucasArts</developer>
-		<publisher>LucasArts</publisher>
-		<genre>Point and Click-Adventure</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./ite-cd.svm/Inherit the Earth - Quest for the Orb.scummvm</path>
 		<name>Inherit the Earth: Quest for the Orb</name>
 		<desc>Join Rif the Fox and his companions Okk and Eeah on the adventure of your life! Inherit the Earth will transport you to a world of beauty and intrigue... Earth! The Orb of Storms has been stolen and Rif is accused. You have only days to help Rif get to the bottom of the mystery of the missing Orb. Your journey takes you to the Wild Lands, through hostile territories and ultimately to the ancient ruins of the legendary Humans.
@@ -1685,6 +1605,86 @@ The games locations are done in hand-painted style. The CD version of the game a
 		<releasedate>19940101T000000</releasedate>
 		<developer>Creative Reality</developer>
 		<publisher>Empire Interactive Entertainment</publisher>
+		<genre>Point and Click-Adventure</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./monkey4-win.cmd</path>
+		<name>Escape From Monkey Island</name>
+		<desc>The game follows Guybrush Threepwood and Elaine Marley as they return to Mêlée Island from their honeymoon. There they discover that Elaine Marley's position of governor has been revoked, her mansion is scheduled to be demolished, and a politician named Charles L. Charles is running for the governorship. Guybrush learns that the islands are being purchased one by one, and pirates are being forced out in favor of tacky Carribean-themed tourism. Guybrush must find out who is threatening his way of life, piracy, and also find a way to save Elaine's mansion.</desc>
+		<image>./mixart/monkey4.png</image>
+		<video>./snap/monkey4.mp4</video>
+		<marquee>./wheel/monkey4.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20001108T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./myst3-win.cmd</path>
+		<name>Myst 3 - Exile</name>
+		<desc>Myst III Exile takes place 10 years after Riven. You go to Tomahna, Atrus' new home. Atrus offers to show you Releeshahn, the age where the remaining D'ni have established. Before that can happen, a man appears and steals the linking book. You go after him through several ages, and try to understand who he is.</desc>
+		<image>./mixart/myst3.png</image>
+		<video>./snap/myst3.mp4</video>
+		<marquee>./wheel/myst3.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20010508T000000</releasedate>
+		<developer>Presto Studios</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./tlj-win.cmd</path>
+		<name>The Longest Journey</name>
+		<desc>Between science and magic, between order and chaos, between Stark and Arcadia, there is an ancient balance. For thousands of years, the Guardian of the Balance has perserved the Divide between the twin worlds. But now the Guardian has abandoned his tower, the armies of Chaos are advancing, and the fate of the worlds is in the hands of one person... Her name is April Ryan. She is eighteen years old, and she has no idea that her destiny has already been foretold in hundred tales. With the power to pass between worlds like others pass from waking to sleep, Aprils must embark on the longest journey of her life; a journey not only across twin worlds, but also into her own heart and soul.</desc>
+		<image>./mixart/tlj.png</image>
+		<video>./snap/tlj.mp4</video>
+		<marquee>./wheel/tlj.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Funcom</developer>
+		<publisher>Funcom</publisher>
+		<genre>Adventure / Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./Space Quest 4 - Roger Wilco and the Time Rippers (CD DOS).svm/Space Quest IV - Roger Wilco and the Time Rippers.scummvm</path>
+		<name>Space Quest IV: Roger Wilco and the Time Rippers</name>
+		<image>./mixart/sq4.png</image>
+		<video>./snap/sq4.mp4</video>
+		<marquee>./wheel/sq4.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+	</game>
+	<game>
+		<path>./grim-win.cmd</path>
+		<name>Grim Fandango</name>
+		<desc>The game follows Manny Calavera, a grim reaper for the Department of Death in the Land of the Dead. He learns that the system he works for is corrupt, after a woman who led a great life, Mercedes (Meche) Colomar, doesn't get to go straight to the seventh level of the afterlife, the land of eternal rest. Manny must take a four year journey to find out who's behind the corruption, find Meche, and earn himself a place in the land of eternal rest.</desc>
+		<image>./mixart/grim.png</image>
+		<video>./snap/grim.mp4</video>
+		<marquee>./wheel/grim.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19981030T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Point and Click-Adventure</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./bladerunner-win.svm/Blade Runner.scummvm</path>
+		<name>Blade Runner</name>
+		<desc>Set in 2019 Los Angeles, the game tells the story of Ray McCoy, an elite detective charged with hunting down a group of dangerous replicants (bioengineered androids designed to look and act like humans). Although several of the film's characters appear in the game, with some of the original actors returning to voice them, the film's protagonist, Rick Deckard, does not appear in a speaking role. Instead, he is referred to on multiple occasions, is seen several times, and his activities as depicted in the film are mentioned. Other parallels with the film include the reproduction of several prominent locations, as well as scenes and dialogue closely modelled on the original. The game also features extracts from the film's soundtrack.</desc>
+		<image>./mixart/bladerunner-win.png</image>
+		<video>./snap/bladerunner-win.mp4</video>
+		<marquee>./wheel/bladerunner-win.png</marquee>
+		<rating>1</rating>
+		<releasedate>19971031T000000</releasedate>
+		<developer>Westwood Studios</developer>
+		<publisher>Virgin</publisher>
 		<genre>Point and Click-Adventure</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>

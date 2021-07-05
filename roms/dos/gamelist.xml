@@ -6327,26 +6327,6 @@ You play Mike Dawson, an ad company manager who, in pursuit of his goal in life 
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Abuse.pc</path>
-		<name>Abuse</name>
-		<desc>It is the unimaginably distant year 2009. You are Nick Vrenna, falsely locked inside a high security prison. The genetic experiments conducted in the prison, combined with a full-scale riot that took place recently, caused all guards and inmates to be transformed into insane, aggressive mutants. Your job is to escape while stopping the genetic plague from transforming the whole world. 
-
-Abuse is a side-scrolling platformer with a lot of shooting. It's a nonlinear game, as the levels often have a few exits that lead to different areas. Your character is a cyborg equipped with various weapons; initially, you only have a weak laser rifle with unlimited ammo, but you can find more powerful guns later on, such as grenade launchers, flamethrowers or lightsabers. You move through a building complex, fighting any enemies you might encounter on the way. The enemies are mostly the mutants, but also the defense systems (such as stationary missile launchers). 
-
-While you move with the keyboard, you can aim with your mouse, so you can shoot at any angle no matter what direction you are running. On your way, you'll find elevators, teleporters, cracked walls that can be destroyed and more. 
-
-Apart from ammo and health, you can also find upgrades which have a number of beneficial effect - increasing your running speed, for example.</desc>
-		<image>./mixart/Abuse.png</image>
-		<video>./snap/Abuse.mp4</video>
-		<marquee>./wheel/Abuse.png</marquee>
-		<rating>0</rating>
-		<releasedate>19960229T000000</releasedate>
-		<developer>Crack dot Com</developer>
-		<publisher>Crack dot Com</publisher>
-		<genre>Action</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Albion.pc</path>
 		<name>Albion</name>
 		<desc>The year is 2227. The powerful DDT Corporation has sent a factory ship called the Toronto to harvest minerals and resources from Albion, a newly discovered world which is supposedly barren of life but rich in resources. The space pilot Tom Driscoll is sent to take some atmospheric readings on the planet, but crash lands after an apparently accidental systems failure of his shuttle. Upon recovering from the accident he is shocked to discover that Albion is in fact a rich, life-filled world inhabited by various races with their unique cultures. It then becomes his task to explore the strange new world, helps its inhabitants, and eventually find his way back to Toronto.nnnnAlbion is a party-based role-playing game and a spiritual successor to Amber games. It features two principal exploration modes, 3D and 2D. The first-person 3D mode, similar to that of The Elder Scrolls: Arena, is used for most towns and all dungeons. The 2D mode takes place in the overworld, in smaller locations, and inside buildings, and uses a top-down perspective similar to Ultima VII: The Black Gate. Mouse or keyboard can be used to navigate the protagonists and interact with the environment. nnnnThe player controls a party of up to six characters in the game, all of which can be recruited in various locations in the game world and join the protagonist for plot-related reasons. Each character has his or her own unique fighting styles, abilities, and in some cases magic spells. Experience points are acquired by defeating enemies or solving puzzles; in addition, the player receives a set amount of training points that can be used to raise the characters' skills (such as close or ranged combat, magic, etc.). Enemies can be encountered in both 3D and 2D areas; a battle initiates when the protagonist comes into contact with an enemy. Combat is turn-based and takes place on a 2D 6x6 square grid. Topic-based dialogue system is used to obtain information about the game world, receive assignments, and advance the plot.</desc>
@@ -6988,28 +6968,6 @@ There is also a freeform mode where the player is given an unlimited number of p
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Epic_Pinball.pc</path>
-		<name>Epic Pinball: The Complete Collection</name>
-		<desc>Epic Pinball The Complete Collection is a pinball video game played from a 2D top-down view within a scrollable window. This release is an Epic Pinball compilation with some exclusive content. It includes:
-
-Pack 1 (Android, Pot of Gold, Excalibur, Crash and Burn)
-Pack 2 (Magic, Jungle Pinball, Deep Sea, Enigma)
-Pack 3 (Cyborgirl, Pangaea, Space Journey, Toy Factory)
-Exclusive table African Safari
-
-Each table has up to four flippers, giving the player the possibility to control the ball uniquely during the game. The tables are themed, making each table individual on its own way.</desc>
-		<emulator>libretro</emulator>
-		<core>dosbox_pure</core>
-		<image>./mixart/Epic Pinball.png</image>
-		<video>./snap/Epic Pinball.mp4</video>
-		<marquee>./wheel/Epic Pinball.png</marquee>
-		<rating>0</rating>
-		<releasedate>19700101T010000</releasedate>
-		<developer>Digital Extremes</developer>
-		<publisher>Epic Games</publisher>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Ecstatica.pc</path>
 		<name>Ecstatica</name>
 		<desc>Ecstatica is a 3D graphic adventure, where you must free a the young sorceress Ecstatica from the unholy spell cast by vile supernatural forces. The peaceful village of Tirich was invaded by horrifying monsters. You are a lonely adventurer looking for shelter who finds himself in the role of a hero who must awaken Ecstatica, save the village and its inhabitants, and defeat the forces of darkness who are pulling the triggers behind the scene. 
@@ -7041,6 +6999,48 @@ Blood is a first-person shooter with horror elements, which uses the Build engin
 		<genre>Shooter / 1st person</genre>
 		<players>40</players>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Abuse.pc</path>
+		<name>Abuse</name>
+		<desc>It is the unimaginably distant year 2009. You are Nick Vrenna, falsely locked inside a high security prison. The genetic experiments conducted in the prison, combined with a full-scale riot that took place recently, caused all guards and inmates to be transformed into insane, aggressive mutants. Your job is to escape while stopping the genetic plague from transforming the whole world. 
+
+Abuse is a side-scrolling platformer with a lot of shooting. It's a nonlinear game, as the levels often have a few exits that lead to different areas. Your character is a cyborg equipped with various weapons; initially, you only have a weak laser rifle with unlimited ammo, but you can find more powerful guns later on, such as grenade launchers, flamethrowers or lightsabers. You move through a building complex, fighting any enemies you might encounter on the way. The enemies are mostly the mutants, but also the defense systems (such as stationary missile launchers). 
+
+While you move with the keyboard, you can aim with your mouse, so you can shoot at any angle no matter what direction you are running. On your way, you'll find elevators, teleporters, cracked walls that can be destroyed and more. 
+
+Apart from ammo and health, you can also find upgrades which have a number of beneficial effect - increasing your running speed, for example.</desc>
+		<image>./mixart/Abuse.png</image>
+		<video>./snap/Abuse.mp4</video>
+		<marquee>./wheel/Abuse.png</marquee>
+		<rating>0</rating>
+		<releasedate>19960229T000000</releasedate>
+		<developer>Crack dot Com</developer>
+		<publisher>Crack dot Com</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Epic_Pinball.pc</path>
+		<name>Epic Pinball: The Complete Collection</name>
+		<desc>Epic Pinball The Complete Collection is a pinball video game played from a 2D top-down view within a scrollable window. This release is an Epic Pinball compilation with some exclusive content. It includes:
+
+Pack 1 (Android, Pot of Gold, Excalibur, Crash and Burn)
+Pack 2 (Magic, Jungle Pinball, Deep Sea, Enigma)
+Pack 3 (Cyborgirl, Pangaea, Space Journey, Toy Factory)
+Exclusive table African Safari
+
+Each table has up to four flippers, giving the player the possibility to control the ball uniquely during the game. The tables are themed, making each table individual on its own way.</desc>
+		<emulator>libretro</emulator>
+		<core>dosbox_pure</core>
+		<image>./mixart/Epic Pinball.png</image>
+		<video>./snap/Epic Pinball.mp4</video>
+		<marquee>./wheel/Epic Pinball.png</marquee>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<developer>Digital Extremes</developer>
+		<publisher>Epic Games</publisher>
+		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Corridor 7 - Alien Invasion.pc</path>

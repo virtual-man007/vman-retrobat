@@ -63,20 +63,6 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<players>1</players>
 	</game>
 	<game>
-		<path>./FNFSC.parrot</path>
-		<name>The Fast and the Furious SuperCars</name>
-		<desc>The Fast and the Furious: Super Cars is the third game inspired by the hit movie franchise. Super Cars takes players from all over USA. Players can choose from 12 licensed cars and riders. Like The Fast and the Furious, players can upgrade their bikes with NOS, bigger engines, tires and more!</desc>
-		<image>./mixart/The Fast and the Furious SuperCars.png</image>
-		<video>./snap/The Fast and the Furious SuperCars.mp4</video>
-		<marquee>./wheel/The Fast and the Furious SuperCars.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20061201T000000</releasedate>
-		<developer>Raw Thrills</developer>
-		<publisher>Raw Thrills</publisher>
-		<genre>Racing</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./HOTD4.parrot</path>
 		<name>The House of the Dead 4</name>
 		<desc>The House of the Dead 4 is an arcade game that takes place shortly after The House of the Dead 4 for up to two players working cooperatively. Kate Green from the original game teams up with G to deal with another zombie infestation. This leads them to the Magician, a boss character from the first two games in the series. Next to the Magician, Justice is another boss character encountered in the game. Just like the original title the player holds an uzi gun to attack the zombies from a first-person perspective. There are two large screens, the seats can shake and air is blown when taking damage. As a rail shooter movement is done automatically, the player only aims and shoots. Some sections of the game are done on foot and others in a vehicle. There are also moments where a branching path can be chosen and there are various cut-scenes shown from a third-person perspective. Entirely new for the series is the addition for a green life bar near the bottom of the screen, allowing for multiple hits, taking damage, before the game is over.</desc>
@@ -255,20 +241,6 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<players>2</players>
 	</game>
 	<game>
-		<path>./FNF.parrot</path>
-		<name>The Fast and the Furious</name>
-		<desc>In Outrun 2 - Special Tours: Sega adds a number of new features that will challenge and entertain players of all skill levels including: -15 new exhilarating courses for a total of 30! The new courses are based on highways and byways of the US. You'll recognize skylines and vistas of major cities and highways from across the country! -2 new Ferrari's - The 512BB and 250GTO. This gives players a choice of 10 of the world's greatest sports cars to race with! -Players of any skill level will feel the thrill of competing like never before thanks to Sega's Re-tuned Artifical Intelligence. The enhanced AI will help novice drivers stay in the race until the very end resulting in increased enjoyment for all! -New Background Music. 7 tunes from the original OutRun and Turbo OutRun have been added that'll bring back fond memories.</desc>
-		<image>./mixart/The Fast and the Furious.png</image>
-		<video>./snap/The Fast and the Furious.mp4</video>
-		<marquee>./wheel/The Fast and the Furious.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20041201T000000</releasedate>
-		<developer>Raw Thrills</developer>
-		<publisher>Raw Thrills</publisher>
-		<genre>Racing</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Mballblitz.parrot</path>
 		<name>Super Monkey Ball Ticket Blitz</name>
 		<desc>Super Monkey Ball: Ticket Blitz is an arcade game released as part of the Super Monkey Ball series. It is a redemption game, in which progressing through levels will give the users tickets (hence "Ticket Blitz") which would then be traded in for prizes.</desc>
@@ -416,22 +388,6 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<region>us</region>
 	</game>
 	<game>
-		<path>./GtiClub3.parrot</path>
-		<name>GTI Club Supermini Festa!</name>
-		<desc>GTI Club Supermini Festa! shifts its way onto Arcade! Staying true to the original racing frenzy of the award-winning arcade game, players will race through the cityscapes of France, the UK, Italy, USA and Japan. Speed through tight bends and back roads of the urban sprawl, up steep mountainous roads and caves. Tackle a wide variety of driving conditions in the ultimate race to the finish! Features • Journey through 5 stages and 15+ courses: Race through open cities, tackle oncoming traffic and pedestrians, and journey through high mountainous roads (locations include France, UK, Italy, USA, Japan) to uncover new routes and secret courses.</desc>
-		<image>./mixart/GTI Club Supermini Festa.png</image>
-		<video>./snap/GTI Club Supermini Festa.mp4</video>
-		<marquee>./wheel/GTI Club Supermini Festa.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20081201T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Racing</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./Transformers.parrot</path>
 		<name>Transformers - Human Alliance</name>
 		<desc>Sega's action adventure game, TRANSFORMERS Human Alliance, partners players with one of three of the movie's stars, Optimus Prime, Bumblebee or Sideswipe. Players must battle their way across America, Africa and Europe destroying the Decepticons before they find the All Spark, a material capable of bringing any mechanical or electronic object to life.</desc>
@@ -472,21 +428,6 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<developer>Global VR</developer>
 		<genre>1st Person Shooter</genre>
 		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./H2Overdrive.parrot</path>
-		<name>H2Overdrive</name>
-		<desc>Players race using powerboats with various levels of difficulty against other boats, as well as seven other players on nearby cabinets. During the races, players can run into crates that give them power-ups that can range from speed boosts to MegaHull and HullCrusher abilities, which can be used to destroy opposing boats. On the cabinet, a throttle is used to move the boat, instead of pedals. On the throttle, a red button is used to boost the boat. Unlike in Hydro Thunder, boats can now perform stunts, as well as various acrobatic maneuvers.</desc>
-		<image>./mixart/H2Overdrive.png</image>
-		<video>./snap/H2Overdrive.mp4</video>
-		<marquee>./wheel/H2Overdrive.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20091201T000000</releasedate>
-		<developer>Specular Interactive</developer>
-		<publisher>Raw Thrills</publisher>
-		<genre>Driving</genre>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
@@ -565,22 +506,6 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<region>us</region>
 	</game>
 	<game>
-		<path>./StarWars.parrot</path>
-		<name>Star Wars Battle Pod</name>
-		<desc>Star Wars: Battle Pod is an experiential arcade game that features a dome-shaped screen, transporting players into heated battles in a galaxy far, far away. In iconic locations like the Death Star, players will be able to take control of some of the most memorable vehicles and moments in the Star Wars universe and pilot them to victory.</desc>
-		<image>./mixart/Star Wars - Battle Pod.png</image>
-		<video>./snap/Star Wars - Battle Pod.mp4</video>
-		<marquee>./wheel/Star Wars - Battle Pod.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20141201T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Arcade Shooter</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./Tekken7FR.parrot</path>
 		<name>Tekken 7 Fated Retribution</name>
 		<desc>Tekken 7 is a fighting game developed and published by Bandai Namco Entertainment. It is the seventh canonical installment in the Tekken series (ninth overall main title) following Tekken Tag Tournament 2, also it is the final chapter of The Mishima Saga Story and was the first to make use of the Unreal Engine. Tekken 7 had a limited arcade release in March 2015.</desc>
@@ -639,6 +564,83 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<publisher>Sega</publisher>
 		<genre>Driving-Shooter</genre>
 		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./FNF.parrot</path>
+		<name>The Fast and the Furious</name>
+		<desc>In Outrun 2 - Special Tours: Sega adds a number of new features that will challenge and entertain players of all skill levels including: -15 new exhilarating courses for a total of 30! The new courses are based on highways and byways of the US. You'll recognize skylines and vistas of major cities and highways from across the country! -2 new Ferrari's - The 512BB and 250GTO. This gives players a choice of 10 of the world's greatest sports cars to race with! -Players of any skill level will feel the thrill of competing like never before thanks to Sega's Re-tuned Artifical Intelligence. The enhanced AI will help novice drivers stay in the race until the very end resulting in increased enjoyment for all! -New Background Music. 7 tunes from the original OutRun and Turbo OutRun have been added that'll bring back fond memories.</desc>
+		<image>./mixart/The Fast and the Furious.png</image>
+		<video>./snap/The Fast and the Furious.mp4</video>
+		<marquee>./wheel/The Fast and the Furious.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20041201T000000</releasedate>
+		<developer>Raw Thrills</developer>
+		<publisher>Raw Thrills</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./FNFSC.parrot</path>
+		<name>The Fast and the Furious SuperCars</name>
+		<desc>The Fast and the Furious: Super Cars is the third game inspired by the hit movie franchise. Super Cars takes players from all over USA. Players can choose from 12 licensed cars and riders. Like The Fast and the Furious, players can upgrade their bikes with NOS, bigger engines, tires and more!</desc>
+		<image>./mixart/The Fast and the Furious SuperCars.png</image>
+		<video>./snap/The Fast and the Furious SuperCars.mp4</video>
+		<marquee>./wheel/The Fast and the Furious SuperCars.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20061201T000000</releasedate>
+		<developer>Raw Thrills</developer>
+		<publisher>Raw Thrills</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./GtiClub3.parrot</path>
+		<name>GTI Club Supermini Festa!</name>
+		<desc>GTI Club Supermini Festa! shifts its way onto Arcade! Staying true to the original racing frenzy of the award-winning arcade game, players will race through the cityscapes of France, the UK, Italy, USA and Japan. Speed through tight bends and back roads of the urban sprawl, up steep mountainous roads and caves. Tackle a wide variety of driving conditions in the ultimate race to the finish! Features • Journey through 5 stages and 15+ courses: Race through open cities, tackle oncoming traffic and pedestrians, and journey through high mountainous roads (locations include France, UK, Italy, USA, Japan) to uncover new routes and secret courses.</desc>
+		<image>./mixart/GTI Club Supermini Festa.png</image>
+		<video>./snap/GTI Club Supermini Festa.mp4</video>
+		<marquee>./wheel/GTI Club Supermini Festa.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20081201T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./StarWars.parrot</path>
+		<name>Star Wars Battle Pod</name>
+		<desc>Star Wars: Battle Pod is an experiential arcade game that features a dome-shaped screen, transporting players into heated battles in a galaxy far, far away. In iconic locations like the Death Star, players will be able to take control of some of the most memorable vehicles and moments in the Star Wars universe and pilot them to victory.</desc>
+		<image>./mixart/Star Wars - Battle Pod.png</image>
+		<video>./snap/Star Wars - Battle Pod.mp4</video>
+		<marquee>./wheel/Star Wars - Battle Pod.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20141201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Arcade Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./H2Overdrive.parrot</path>
+		<name>H2Overdrive</name>
+		<desc>Players race using powerboats with various levels of difficulty against other boats, as well as seven other players on nearby cabinets. During the races, players can run into crates that give them power-ups that can range from speed boosts to MegaHull and HullCrusher abilities, which can be used to destroy opposing boats. On the cabinet, a throttle is used to move the boat, instead of pedals. On the throttle, a red button is used to boost the boat. Unlike in Hydro Thunder, boats can now perform stunts, as well as various acrobatic maneuvers.</desc>
+		<image>./mixart/H2Overdrive.png</image>
+		<video>./snap/H2Overdrive.mp4</video>
+		<marquee>./wheel/H2Overdrive.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20091201T000000</releasedate>
+		<developer>Specular Interactive</developer>
+		<publisher>Raw Thrills</publisher>
+		<genre>Driving</genre>
 		<lang>en</lang>
 		<region>us</region>
 	</game>

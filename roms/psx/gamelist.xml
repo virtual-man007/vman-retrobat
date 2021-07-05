@@ -17155,25 +17155,6 @@ During the game you control three characters: Rudy, a wanderer who uses ARMS, Ja
 		<genre>Role playing games</genre>
 	</game>
 	<game>
-		<path>./Championship Motocross Featuring Ricky Carmichael (USA).chd</path>
-		<name>Championship Motocross 2001 featuring Ricky Carmic</name>
-		<desc>This is the sequel to Championship Motocross Featuring Ricky Carmichael.  This version has 30 of the top motocross riders including the game's namesake, Ricky Carmichael.  There are a plethora of tracks to race on that range from regular races and stunt tracks where players can pull off 50 different tricks for points in order to advance.
-
-There are a variety of modes including a career mode where the player can compete in races, using the money to buy better equipment and negotiate with sponsors to gain more money and notoriety.  Players can also create their own rider and use them in exhibition races or in the career mode and customize everything from the appearance to their abilities.</desc>
-		<image>./mixart/Championship Motocross Featuring Ricky Carmichael (USA).png</image>
-		<video>./snap/Championship Motocross Featuring Ricky Carmichael (USA).mp4</video>
-		<marquee>./wheel/Championship Motocross Featuring Ricky Carmichael (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20010406T000000</releasedate>
-		<developer>Funcom</developer>
-		<publisher>THQ</publisher>
-		<genre>Race, Driving-Various</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./70's Robot Anime - Geppy-X - The Super Boosted Armor (Japan).m3u</path>
 		<name>70's Robot Anime : Geppy-X, The Super Boosted Armor</name>
 		<desc>70's Robot Anime - Geppy-X - The Super Boosted Armor is a side scrolling shooter game released in 1999 by Aroma for Sony Playstation console consist of 4 CD-ROMs, and don't published in US. 
@@ -17497,22 +17478,6 @@ As a FPS, Quake II contains a variety of weapons including the fall back Blaster
 		<players>2-8</players>
 	</game>
 	<game>
-		<path>./Heart of Darkness (USA).m3u</path>
-		<name>Heart of Darkness</name>
-		<desc>You're a boy who most of all loves to play, and leave studying for somebody else to take care of. Your best company is your little dog who loves to wear your baseball cap. But on a hot sunny day, the moon covered the sun, and your dog disappears. You run to your treehouse and power up your computer and secret flying machine. Taking all you need, and go to find your lost puppy. Suddenly while in the sky, you strike some black creature, which was followed by a big crash. 
-
-You get off your spaceship and begin your quest, which takes in 8 worlds and 176 screens of ladders, ledges and platforms, across locations such as mountains and caves. There are puzzles to solve and precise timing sections along the way. The game features orchestral music and video sequences.</desc>
-		<image>./mixart/Heart of Darkness (USA).png</image>
-		<video>./snap/Heart of Darkness (USA).mp4</video>
-		<marquee>./wheel/Heart of Darkness (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Ocean</developer>
-		<publisher>Amazing Studios</publisher>
-		<genre>Platform-Action</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Formula 1 (USA).chd</path>
 		<name>Formula 1</name>
 		<desc>Formula 1 was the first of Sony's official FIA-licensed Formula 1 games. All the cars, teams and circuits of the 1995 season are recreated in millimetric detail. Variable game modes and camera angles are included. To widen the game's appeal, it includes optional helpers such as automatic braking.
@@ -17638,6 +17603,8 @@ A free track add-on extends the game with one additional course for sportbikes a
 		<desc>The end of the world is near. Featuring Bruce Willis' voice, you are Trey Kincaid, nano-physicist and sole defender of the world. It's up to you to defeat the Four Horsemen of the Apocalypse before it's happy trails to us all...
 
 Featuring a motion-captured, cyberscanned Bruce Willis, multiple levels, explosive sound effects, up to 20 on screen enemies and an arsenal like never seen before.</desc>
+		<emulator>libretro</emulator>
+		<core>duckstation</core>
 		<image>./mixart/Apocalypse (USA).png</image>
 		<video>./snap/Apocalypse (USA).mp4</video>
 		<marquee>./wheel/Apocalypse (USA).png</marquee>
@@ -17649,5 +17616,40 @@ Featuring a motion-captured, cyberscanned Bruce Willis, multiple levels, explosi
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./Championship Motocross Featuring Ricky Carmichael (USA).chd</path>
+		<name>Championship Motocross 2001 featuring Ricky Carmic</name>
+		<desc>This is the sequel to Championship Motocross Featuring Ricky Carmichael.  This version has 30 of the top motocross riders including the game's namesake, Ricky Carmichael.  There are a plethora of tracks to race on that range from regular races and stunt tracks where players can pull off 50 different tricks for points in order to advance.
+
+There are a variety of modes including a career mode where the player can compete in races, using the money to buy better equipment and negotiate with sponsors to gain more money and notoriety.  Players can also create their own rider and use them in exhibition races or in the career mode and customize everything from the appearance to their abilities.</desc>
+		<image>./mixart/Championship Motocross Featuring Ricky Carmichael (USA).png</image>
+		<video>./snap/Championship Motocross Featuring Ricky Carmichael (USA).mp4</video>
+		<marquee>./wheel/Championship Motocross Featuring Ricky Carmichael (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20010406T000000</releasedate>
+		<developer>Funcom</developer>
+		<publisher>THQ</publisher>
+		<genre>Race, Driving-Various</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Heart of Darkness (USA).m3u</path>
+		<name>Heart of Darkness</name>
+		<desc>You're a boy who most of all loves to play, and leave studying for somebody else to take care of. Your best company is your little dog who loves to wear your baseball cap. But on a hot sunny day, the moon covered the sun, and your dog disappears. You run to your treehouse and power up your computer and secret flying machine. Taking all you need, and go to find your lost puppy. Suddenly while in the sky, you strike some black creature, which was followed by a big crash. 
+
+You get off your spaceship and begin your quest, which takes in 8 worlds and 176 screens of ladders, ledges and platforms, across locations such as mountains and caves. There are puzzles to solve and precise timing sections along the way. The game features orchestral music and video sequences.</desc>
+		<image>./mixart/Heart of Darkness (USA).png</image>
+		<video>./snap/Heart of Darkness (USA).mp4</video>
+		<marquee>./wheel/Heart of Darkness (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Amazing Studios</publisher>
+		<genre>Platform-Action</genre>
+		<favorite>true</favorite>
 	</game>
 </gameList>

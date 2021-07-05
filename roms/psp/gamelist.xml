@@ -10882,6 +10882,20 @@ The 2007 release of the game has a few improvements over the original version, m
 		<favorite>true</favorite>
 	</game>
 	<game>
+		<path>./Mega Man Maverick Hunter X.cso</path>
+		<name>Mega Man : Maverick Hunter X</name>
+		<desc>Set a century after the events in the original Mega Man series, Mega Man Maverick Hunter X is a remake of the original SNES game Mega Man X, and details the story of Dr. Light's greatest creation: X, a robot with free will. Dr. Cain's discovery of X led to the creation of reploids, robots modeled after the design of X. When the maverick virus infects a group of reploids, they band together in a revolt against humanity. The call goes to the maverick hunters, X and Zero, to fight the Mavericks.  The game is a side-scrolling action game where the player controls X as he hunts the maverick reploids. Notable features include the ability to find enhancements to augment X's abilities, and the ability to absorb the powers of the maverick reploids X defeats. The original moves, such as dashes, wall jumps and charge shorts are still present.  The original flat backgrounds have been replaced by polygonal models, and the remake features enhanced explosions and generally more detail. Additionally, animated cutscenes and voice acting have been added. All weapon and armour upgrades have been relocated to new hidden areas, and there is a new mode: Vile, in which you can play the entire game as maverick Vile, with abilities Mega Man does not have. As a bonus, there is a demo of Mega Man Powered Up on the UMD - a remake of the very first Mega Man game.</desc>
+		<image>./mixart/Mega Man Maverick Hunter X.png</image>
+		<video>./snap/Mega Man Maverick Hunter X.mp4</video>
+		<marquee>./wheel/Mega Man Maverick Hunter X.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20060131T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform-Action</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
 		<path>./300.cso</path>
 		<name>300 : March to Glory</name>
 		<desc>In the action packed 300: March to Glory, players take on the role of King Leonidas, who leads the brave 300 Spartans against Xerxes and his massive Persian army. The player, as Leonidas, uses his sword, spear and shield and the power of the soldiers in a battle to determine the very fate of western civilization. 300: March to Glory is a visceral experience focused on action and combat, allowing the player to fight both solo and in a phalanx alongside his fellow Spartans</desc>
@@ -10895,19 +10909,5 @@ The 2007 release of the game has a few improvements over the original version, m
 		<genre>Beat'em Up</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Mega Man Maverick Hunter X.cso</path>
-		<name>Mega Man : Maverick Hunter X</name>
-		<desc>Set a century after the events in the original Mega Man series, Mega Man Maverick Hunter X is a remake of the original SNES game Mega Man X, and details the story of Dr. Light's greatest creation: X, a robot with free will. Dr. Cain's discovery of X led to the creation of reploids, robots modeled after the design of X. When the maverick virus infects a group of reploids, they band together in a revolt against humanity. The call goes to the maverick hunters, X and Zero, to fight the Mavericks.  The game is a side-scrolling action game where the player controls X as he hunts the maverick reploids. Notable features include the ability to find enhancements to augment X's abilities, and the ability to absorb the powers of the maverick reploids X defeats. The original moves, such as dashes, wall jumps and charge shorts are still present.  The original flat backgrounds have been replaced by polygonal models, and the remake features enhanced explosions and generally more detail. Additionally, animated cutscenes and voice acting have been added. All weapon and armour upgrades have been relocated to new hidden areas, and there is a new mode: Vile, in which you can play the entire game as maverick Vile, with abilities Mega Man does not have. As a bonus, there is a demo of Mega Man Powered Up on the UMD - a remake of the very first Mega Man game.</desc>
-		<image>./mixart/Mega Man Maverick Hunter X.png</image>
-		<video>./snap/Mega Man Maverick Hunter X.mp4</video>
-		<marquee>./wheel/Mega Man Maverick Hunter X.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20060131T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Platform-Action</genre>
-		<favorite>true</favorite>
 	</game>
 </gameList>

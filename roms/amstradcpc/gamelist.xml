@@ -17,22 +17,6 @@
 		<video>./snap/Wild Bunch, The (UK) (1985).mp4</video>
 		<marquee>./wheel/Wild Bunch, The (UK) (1985).png</marquee>
 	</game>
-	<game id="34824" source="ScreenScraper.fr">
-		<path>./Batman Caped Crusader (UK) (1988).dsk</path>
-		<name>Batman : The Caped Crusader</name>
-		<desc>Batman: The Caped Crusader is a combination of an arcade and adventure game. The game is played with a side scrolling view, with each new location opening in a new panel similar to the appearance of a comic book. 
-
-The game has two parts to it, and these can be played in any order. In A Bird In the Hand, The Penguin is back, and planning on taking over the world with an army of robotic penguins. In A Fete Worse Than Death, The Joker has kidnapped Robin, and it's up to Batman to save him.</desc>
-		<rating>0</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Ocean</developer>
-		<publisher>Special FX Ltd.</publisher>
-		<players>1</players>
-		<hash>2EF83D50</hash>
-		<image>./mixart/Batman Caped Crusader (UK) (1988).png</image>
-		<marquee>./wheel/Batman Caped Crusader (UK) (1988).png</marquee>
-		<video>./snap/Batman Caped Crusader (UK) (1988).mp4</video>
-	</game>
 	<game id="34794" source="ScreenScraper.fr">
 		<path>./Batman - The Movie (UK) (1989).dsk</path>
 		<name>Batman : The Movie</name>
@@ -1536,20 +1520,6 @@ Based on the 1987 movie of the same name, RoboCop allows the player to control R
 		<publisher>Ocean</publisher>
 	</game>
 	<game>
-		<path>./Continental Circus (UK) (1989).dsk</path>
-		<name>Continental Circus</name>
-		<desc>The home conversions of Continental Circus lack the full-on 3D and special glasses of the arcade version, but retain the essential gameplay structure. The first race is in Brazil and features 100 cars, and requires you to finish in the top 80 in order to qualify for  next race. As you work through the 8 races the size of the field steadily decreases, but so does the worst acceptable finishing position to qualify.
-
-The car has high and low gears, and is susceptible to damage from contact with another car. Once you hit a car or a piece of the trackside scenery you will be called into the pits - fail to make it back, or hit another car, and you will crash and lose several seconds.</desc>
-		<image>./mixart/Continental Circus (UK) (1989).png</image>
-		<video>./snap/Continental Circus (UK) (1989).mp4</video>
-		<marquee>./wheel/Continental Circus (UK) (1989).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Virgin Mastertronic</publisher>
-	</game>
-	<game>
 		<path>./Get Dexter (UK,F,G) (1986).dsk</path>
 		<name>Get Dexter</name>
 		<desc>Crafton the android wants a life of freedom, away from the science experiments he is usually subjected to. Escaping the compound will require a security code, which is split into eight parts. Find the scientists who hold these to escape, in this isometric arcade adventure.
@@ -1607,20 +1577,6 @@ Some of the levels differ in gameplay, and range between action and driving scen
 		<publisher>U.S. Gold</publisher>
 	</game>
 	<game>
-		<path>./Barbarian 2 (UK) (1989).dsk</path>
-		<name>Barbarian II : The Dungeon of Drax</name>
-		<desc>Barbarian II: The Dungeon of Drax is a video game first published in 1988 for various home computers. It was also released as Axe of Rage in North America. The game is the sequel to Barbarian: The Ultimate Warrior (Death Sword in North America), which was published in 1987. In Barbarian II, the player controls a princess or barbarian character, exploring the game world to locate and defeat an evil wizard. The game's plot is an extension of its predecessor, although the gameplay is different. While the first game offers two players the opportunity for virtual head-to-head combat, the second is solely a single-player adventure with fewer fighting moves.
-
-Palace Software, the developer of the two Barbarian games, marketed the sequel with the same strategy they used for the first game. They hired Maria Whittaker, a model known for her topless work, to pose on the cover and posters as the princess in the game, attempting to recapture the controversy that had boosted sales. Barbarian II received a mixed critical reception. Reviewers were split in their opinions over whether the game was a refreshing and gory adventure, or a boring and lonely sojourn through a confusing digital world.</desc>
-		<image>./mixart/Barbarian 1 Part 2 (UK) (1988).png</image>
-		<video>./snap/Barbarian 1 Part 2 (UK) (1988).mp4</video>
-		<marquee>./wheel/Barbarian 1 Part 2 (UK) (1988).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Palace Software</developer>
-		<publisher>Palace Software</publisher>
-	</game>
-	<game>
 		<path>./Cybernoid (UK) (1988).dsk</path>
 		<name>Cybernoid : The Fighting Machine</name>
 		<desc>There are three asteroids, hidden among thousands, where various minerals and precious gems were stored. It was believed the riches would be safe there, until the Zoggians discovered them! Now you have to fly an experimental spacefighter, the Cybernoid, into battle to recover the asteroids. The Cybernoid is equipped with standard laser blasters, missiles, and the ability to pick up other weapons along the way. 
@@ -1633,19 +1589,6 @@ Cybernoid is an arcade style action game for one player. You can choose from thr
 		<releasedate>19880101T000000</releasedate>
 		<developer>Hewson</developer>
 		<publisher>Hewson Consultants</publisher>
-	</game>
-	<game>
-		<path>./Barbarian 1 (UK) (1987).dsk</path>
-		<name>Barbarian</name>
-		<desc>Barbarian: The Ultimate Warrior is a fighting game that supports one or two players. Players assume the roles of sword-wielding barbarians, who battle in locales such as a forest glade and a "fighting pit". The game's head-to-head mode lets a player fight against another or the computer in time-limited matches. The game also features a single-player story mode, which comprises a series of plot-connected challenges.</desc>
-		<image>./mixart/Barbarian 1 (UK) (1987).png</image>
-		<video>./snap/Barbarian 1 (UK) (1987).mp4</video>
-		<marquee>./wheel/Barbarian 1 (UK) (1987).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Palace Software</developer>
-		<publisher>Epyx</publisher>
-		<players>1-2</players>
 	</game>
 	<game>
 		<path>./Everyone's A Wally - Meet The Gang (UK) (1985).dsk</path>
@@ -1722,30 +1665,6 @@ The druid can also come across a pentagram on the ground which will restore his 
 		<publisher>Domark Software</publisher>
 	</game>
 	<game>
-		<path>./Advanced Tactical Fighter (UK) (1986).dsk</path>
-		<name>Advanced Tactical Fighter</name>
-		<desc>ATF: Advanced Tactical Fighter is an action-oriented flight game. The game is set during a war of two unnamed war parties over an unnamed island. The player mans an Lockheed ATF fighter bomber to win the battle.
-
-The goal of every round is to destroy a number of strategic targets. The positions are shown on the jet's on board computer and the player can tackle them in any order. The game is action-oriented in nature, but the player still needs to take care of a few parameters, like a constant speed to avoid crashing or limited fuel and ammo. When resources or health are low (and the jet is near a friendly base), the player can start an automatic landing sequence to refill and repair. On the way to the targets it is either possible to take on enemy jets in direct combat or to fly low to avoid detection. The camera is fixed behind the jet's back.</desc>
-		<image>./mixart/Advanced Tactical Fighter (UK) (1986).png</image>
-		<video>./snap/Advanced Tactical Fighter (UK) (1986).mp4</video>
-		<marquee>./wheel/Advanced Tactical Fighter (UK) (1986).png</marquee>
-		<rating>0</rating>
-		<releasedate>19880101T000000</releasedate>
-		<publisher>Digital Integration</publisher>
-	</game>
-	<game>
-		<path>./Academy - Tau Ceti 2 (UK) (1987).dsk</path>
-		<name>Academy</name>
-		<image>./mixart/Academy - Tau Ceti 2 (UK) (1987).png</image>
-		<video>./snap/Academy - Tau Ceti 2 (UK) (1987).mp4</video>
-		<marquee>./wheel/Academy - Tau Ceti 2 (UK) (1987).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>CRL Group</developer>
-		<publisher>CRL Group</publisher>
-	</game>
-	<game>
 		<path>./180 Darts (UK) (1986).dsk</path>
 		<name>180 Darts</name>
 		<desc>180 allows you to play a game of darts by yourself or against either the computer or another player. Before you play there are a number of games that can be selected and they are a one player game, two player game, Round the Board or Snooker. The one player game has you trying to get from the score 501 to zero, and you must try to get to zero within 20 darts and also finish with a double or Bullseye. If you manage to finish within 20 darts then you qualify for a league against seven other players and you must try to play one of seven games of darts in the lowest number of darts thrown. If you finish top of the league you then play four rounds of the World Championship which is a knock-out format. 
@@ -1761,6 +1680,99 @@ The dart boards are seen from a 1st person perspective shown on the whole screen
 		<developer>Binary Design</developer>
 		<publisher>Mastertronic Added Dimension</publisher>
 		<players>2</players>
+		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./Academy - Tau Ceti 2 (UK) (1987).dsk</path>
+		<name>Academy</name>
+		<image>./mixart/Academy - Tau Ceti 2 (UK) (1987).png</image>
+		<video>./snap/Academy - Tau Ceti 2 (UK) (1987).mp4</video>
+		<marquee>./wheel/Academy - Tau Ceti 2 (UK) (1987).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>CRL Group</developer>
+		<publisher>CRL Group</publisher>
+		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./Advanced Tactical Fighter (UK) (1986).dsk</path>
+		<name>Advanced Tactical Fighter</name>
+		<desc>ATF: Advanced Tactical Fighter is an action-oriented flight game. The game is set during a war of two unnamed war parties over an unnamed island. The player mans an Lockheed ATF fighter bomber to win the battle.
+
+The goal of every round is to destroy a number of strategic targets. The positions are shown on the jet's on board computer and the player can tackle them in any order. The game is action-oriented in nature, but the player still needs to take care of a few parameters, like a constant speed to avoid crashing or limited fuel and ammo. When resources or health are low (and the jet is near a friendly base), the player can start an automatic landing sequence to refill and repair. On the way to the targets it is either possible to take on enemy jets in direct combat or to fly low to avoid detection. The camera is fixed behind the jet's back.</desc>
+		<image>./mixart/Advanced Tactical Fighter (UK) (1986).png</image>
+		<video>./snap/Advanced Tactical Fighter (UK) (1986).mp4</video>
+		<marquee>./wheel/Advanced Tactical Fighter (UK) (1986).png</marquee>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<publisher>Digital Integration</publisher>
+		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./Barbarian 1 (UK) (1987).dsk</path>
+		<name>Barbarian</name>
+		<desc>Barbarian: The Ultimate Warrior is a fighting game that supports one or two players. Players assume the roles of sword-wielding barbarians, who battle in locales such as a forest glade and a "fighting pit". The game's head-to-head mode lets a player fight against another or the computer in time-limited matches. The game also features a single-player story mode, which comprises a series of plot-connected challenges.</desc>
+		<image>./mixart/Barbarian 1 (UK) (1987).png</image>
+		<video>./snap/Barbarian 1 (UK) (1987).mp4</video>
+		<marquee>./wheel/Barbarian 1 (UK) (1987).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Palace Software</developer>
+		<publisher>Epyx</publisher>
+		<players>2</players>
+		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./Barbarian 2 (UK) (1989).dsk</path>
+		<name>Barbarian II : The Dungeon of Drax</name>
+		<desc>Barbarian II: The Dungeon of Drax is a video game first published in 1988 for various home computers. It was also released as Axe of Rage in North America. The game is the sequel to Barbarian: The Ultimate Warrior (Death Sword in North America), which was published in 1987. In Barbarian II, the player controls a princess or barbarian character, exploring the game world to locate and defeat an evil wizard. The game's plot is an extension of its predecessor, although the gameplay is different. While the first game offers two players the opportunity for virtual head-to-head combat, the second is solely a single-player adventure with fewer fighting moves.
+
+Palace Software, the developer of the two Barbarian games, marketed the sequel with the same strategy they used for the first game. They hired Maria Whittaker, a model known for her topless work, to pose on the cover and posters as the princess in the game, attempting to recapture the controversy that had boosted sales. Barbarian II received a mixed critical reception. Reviewers were split in their opinions over whether the game was a refreshing and gory adventure, or a boring and lonely sojourn through a confusing digital world.</desc>
+		<image>./mixart/Barbarian 1 Part 2 (UK) (1988).png</image>
+		<video>./snap/Barbarian 1 Part 2 (UK) (1988).mp4</video>
+		<marquee>./wheel/Barbarian 1 Part 2 (UK) (1988).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Palace Software</developer>
+		<publisher>Palace Software</publisher>
+		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game id="34824" source="ScreenScraper.fr">
+		<path>./Batman Caped Crusader (UK) (1988).dsk</path>
+		<name>Batman : The Caped Crusader</name>
+		<desc>Batman: The Caped Crusader is a combination of an arcade and adventure game. The game is played with a side scrolling view, with each new location opening in a new panel similar to the appearance of a comic book. 
+
+The game has two parts to it, and these can be played in any order. In A Bird In the Hand, The Penguin is back, and planning on taking over the world with an army of robotic penguins. In A Fete Worse Than Death, The Joker has kidnapped Robin, and it's up to Batman to save him.</desc>
+		<image>./mixart/Batman Caped Crusader (UK) (1988).png</image>
+		<video>./snap/Batman Caped Crusader (UK) (1988).mp4</video>
+		<marquee>./wheel/Batman Caped Crusader (UK) (1988).png</marquee>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Special FX Ltd.</publisher>
+		<players>1</players>
+		<crc32>2EF83D50</crc32>
+		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./Continental Circus (UK) (1989).dsk</path>
+		<name>Continental Circus</name>
+		<desc>The home conversions of Continental Circus lack the full-on 3D and special glasses of the arcade version, but retain the essential gameplay structure. The first race is in Brazil and features 100 cars, and requires you to finish in the top 80 in order to qualify for  next race. As you work through the 8 races the size of the field steadily decreases, but so does the worst acceptable finishing position to qualify.
+
+The car has high and low gears, and is susceptible to damage from contact with another car. Once you hit a car or a piece of the trackside scenery you will be called into the pits - fail to make it back, or hit another car, and you will crash and lose several seconds.</desc>
+		<image>./mixart/Continental Circus (UK) (1989).png</image>
+		<video>./snap/Continental Circus (UK) (1989).mp4</video>
+		<marquee>./wheel/Continental Circus (UK) (1989).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Virgin Mastertronic</publisher>
 		<lang>en</lang>
 		<region>eu</region>
 	</game>

@@ -3862,22 +3862,6 @@ The Legend of Zelda: Spirit Tracks sets hero Link on a daring new adventure. The
 		<path>./Legend of Zelda, The - Spirit Tracks (USA) (En,Fr,Es).zip</path>
 	</game>
 	<game>
-		<path>./Mario Kart DS (USA) (En,Fr,De,Es,It).zip</path>
-		<name>Mario Kart Ds</name>
-		<desc>Mario Kart DS is the continuation of the long running racing game series that began on the Super Nintendo. It features 16 new tracks as well as 16 tracks from the previous 4 games, with each set split up into the Nitro and Retro Grand Prix respectively. Eight racers are initially available, each with two go-karts to choose from. A number of characters and additional karts are also available to unlock. New items have been added to the arsenal, including a Blooper squid that squirts ink onto the screens of other players and a Bullet Bill power up that transforms the player into a giant, fast-travelling bullet on autopilot.</desc>
-		<image>./mixart/Mario Kart DS (USA) (En,Fr,De,Es,It).png</image>
-		<video>./snap/Mario Kart DS (USA) (En,Fr,De,Es,It).mp4</video>
-		<marquee>./wheel/Mario Kart DS (USA) (En,Fr,De,Es,It).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20051114T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<players>2-8</players>
-		<favorite>true</favorite>
-		<lang>de,en,es,fr,it</lang>
-		<region>eu</region>
-	</game>
-	<game>
 		<path>./Retro Game Challenge (USA).zip</path>
 		<name>Retro Game Challenge</name>
 		<desc>Arino wants to be the greatest gamer in the world, but he's continually defeated by his friends at every new game that comes out. His obsession has spawned a digital version himself within his own Nintendo DS. This digital version of himself has come to be known as "Game Master Arino", who haunts gamers around the world with retro game challenges. You have been chosen by Game Master Arino, and are now trapped in the 1980s until you can defeat his game challenges.
@@ -3893,5 +3877,21 @@ There are eight games total, each modeled after 8-bit classics such as Galaga (C
 		<developer>Indies Zero</developer>
 		<publisher>Xseed Games</publisher>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Mario Kart DS (USA) (En,Fr,De,Es,It).zip</path>
+		<name>Mario Kart Ds</name>
+		<desc>Mario Kart DS is the continuation of the long running racing game series that began on the Super Nintendo. It features 16 new tracks as well as 16 tracks from the previous 4 games, with each set split up into the Nitro and Retro Grand Prix respectively. Eight racers are initially available, each with two go-karts to choose from. A number of characters and additional karts are also available to unlock. New items have been added to the arsenal, including a Blooper squid that squirts ink onto the screens of other players and a Bullet Bill power up that transforms the player into a giant, fast-travelling bullet on autopilot.</desc>
+		<image>./mixart/Mario Kart DS (USA) (En,Fr,De,Es,It).png</image>
+		<video>./snap/Mario Kart DS (USA) (En,Fr,De,Es,It).mp4</video>
+		<marquee>./wheel/Mario Kart DS (USA) (En,Fr,De,Es,It).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20051114T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<players>2-8</players>
+		<favorite>true</favorite>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
 	</game>
 </gameList>

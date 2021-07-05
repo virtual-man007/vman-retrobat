@@ -442,19 +442,6 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Rockin'Bliss!.lnk</path>
-		<name>Rockin'Bliss!</name>
-		<desc>**VMAN's ROCKIN'BLISS SEPERATE BUILD REQUIRED** - Combined Guitar Hero + Rock Band = Rockin'Bliss! This is powered by Clone-Hero with Virtualman's customization to give you the best Rocking Rhythm gaming experience on earth! Play with your friends local or online with over 4000+ songs from VMAN's official song pack!.</desc>
-		<image>./mixart/Rockin'Bliss!.png</image>
-		<video>./snap/Rockin'Bliss!.mp4</video>
-		<marquee>./wheel/Rockin'Bliss!.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20210719T000000</releasedate>
-		<genre>Rythem</genre>
-		<players>1-4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Daggerfall Unity.lnk</path>
 		<name>The Elder Scrolls - Daggerfall </name>
 		<desc>Daggerfall is a sequel to The Elder Scrolls: Arena; it is set in the same medieval fantasy world Tamriel - more specifically, in the homeland of the Breton race, known as High Rock, and the province Hammerfell, home of the Redguards. The game's title is derived from the name of High Rock's capital city. The main protagonist travels to Daggerfall at the request of the emperor Uriel Septim. His mission involves freeing the ghost of the late King Lysandus. Like its predecessor, Daggerfall is an open-ended role-playing game, in which the main quest is but a small fraction of the various missions and assignments the player is able to undertake. The game is notable for breaking records concerning the size of its world (though much of it has been generated randomly). Interaction with hundreds of thousands of non-playable characters is possible.</desc>
@@ -470,16 +457,18 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./3dSen.lnk</path>
-		<name>3DSen</name>
-		<desc>3dSen PC breathes new life into your favorite NES games by magically converting them into 3D and letting you play them in real-time.</desc>
-		<image>./mixart/3DSen.png</image>
-		<video>./snap/3DSen.mp4</video>
-		<marquee>./wheel/3DSen.png</marquee>
+		<path>./Brutal Doom.lnk</path>
+		<name>'H'Brutal Doom</name>
+		<desc>Doom on Steroids!
+NOTE: Requires keyboard to exit!</desc>
+		<image>./mixart/Brutal Doom.png</image>
+		<video>./snap/Brutal Doom.mp4</video>
+		<marquee>./wheel/Brutal Doom.png</marquee>
 		<rating>0.75</rating>
-		<releasedate>20200719T000000</releasedate>
-		<genre>Emulator</genre>
+		<releasedate>20150101T000000</releasedate>
+		<genre>Shooter</genre>
 		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 	<game>
 		<path>./Goldeneye XBLA.lnk</path>
@@ -497,17 +486,28 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Brutal Doom.lnk</path>
-		<name>'H'Brutal Doom</name>
-		<desc>Doom on Steroids!
-NOTE: Requires keyboard to exit!</desc>
-		<image>./mixart/Brutal Doom.png</image>
-		<video>./snap/Brutal Doom.mp4</video>
-		<marquee>./wheel/Brutal Doom.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20150101T000000</releasedate>
-		<genre>Shooter</genre>
+		<path>./Rockin'Bliss!.lnk</path>
+		<name>Rockin'Bliss!</name>
+		<desc>**VMAN's ROCKIN'BLISS SEPERATE BUILD REQUIRED** - Combined Guitar Hero + Rock Band = Rockin'Bliss! This is powered by Clone-Hero with Virtualman's customization to give you the best Rocking Rhythm gaming experience on earth! Play with your friends local or online with over 4000+ songs from VMAN's official song pack!.</desc>
+		<image>./mixart/Rockin'Bliss!.png</image>
+		<video>./snap/Rockin'Bliss!.mp4</video>
+		<marquee>./wheel/Rockin'Bliss!.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20210719T000000</releasedate>
+		<genre>Rythem</genre>
+		<players>4</players>
 		<favorite>true</favorite>
-		<lang>en</lang>
+	</game>
+	<game>
+		<path>./3dSen.lnk</path>
+		<name>3DSen</name>
+		<desc>3dSen PC breathes new life into your favorite NES games by magically converting them into 3D and letting you play them in real-time.</desc>
+		<image>./mixart/3DSen.png</image>
+		<video>./snap/3DSen.mp4</video>
+		<marquee>./wheel/3DSen.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20200719T000000</releasedate>
+		<genre>Emulator</genre>
+		<favorite>true</favorite>
 	</game>
 </gameList>

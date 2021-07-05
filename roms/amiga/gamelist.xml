@@ -10184,23 +10184,6 @@ The game is played in real-time, which means the key to success is being in the 
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./AlienBreed_v2.3a_0998.lha</path>
-		<name>Alien Breed</name>
-		<desc>Alien Breed is a top-down science fiction shooter somewhat inspired by the movie Alien in terms of plot and atmosphere. Gameplay, though, was obviously inspired by the Atari arcade classic Gauntlet. The game tells a typical sci-fi story of an alien invasion on the space station ISRC-4. Two space marines, Johnson and Stone, are the only human beings left to clear the base of aliens.
-
-Moving around an alien-infested complex in a top-down view, you must at all times keep an eye not only on your energy level, but also be conservative with ammunition. Though you will find new ammo cartridges strewn around the levels, they are consumed quickly by respawning aliens that may come crawling out of the floors and walls when you least expect it. On the floors, you will also find keys for passing through locked doors. Keys must also be used with care, or you may find yourself locked out of a room containing the remaining keys that you will need in order to complete the level. Other doors are one-way, and will electrocute you if you try to pass it in the other direction.</desc>
-		<image>./mixart/AlienBreed_v2.3a_0998.png</image>
-		<video>./snap/AlienBreed_v2.3a_0998.mp4</video>
-		<marquee>./wheel/AlienBreed_v2.3a_0998.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19911014T000000</releasedate>
-		<developer>Team 17</developer>
-		<publisher>Team 17</publisher>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./ActionFighter_v1.3.1_1243.lha</path>
 		<name>Action Fighter</name>
 		<desc>This is a top down vertically scrolling shooter, in which you start off as a motorbike. You are quite vulnerable to attack at first, but power ups come in the form of a Sega van which you have to dock with. The first time you dock you get double fire, the second time gives you a rocket, the third gives a rear force field and the fourth invulnerablility.
@@ -10582,6 +10565,23 @@ The game supports up to 16 players in singles matches on a variety of court surf
 		<developer>Art &amp; Magic</developer>
 		<publisher>Psygnosis</publisher>
 		<genre>Shoot'em Up</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./AlienBreed_v2.3a_0998.lha</path>
+		<name>Alien Breed</name>
+		<desc>Alien Breed is a top-down science fiction shooter somewhat inspired by the movie Alien in terms of plot and atmosphere. Gameplay, though, was obviously inspired by the Atari arcade classic Gauntlet. The game tells a typical sci-fi story of an alien invasion on the space station ISRC-4. Two space marines, Johnson and Stone, are the only human beings left to clear the base of aliens.
+
+Moving around an alien-infested complex in a top-down view, you must at all times keep an eye not only on your energy level, but also be conservative with ammunition. Though you will find new ammo cartridges strewn around the levels, they are consumed quickly by respawning aliens that may come crawling out of the floors and walls when you least expect it. On the floors, you will also find keys for passing through locked doors. Keys must also be used with care, or you may find yourself locked out of a room containing the remaining keys that you will need in order to complete the level. Other doors are one-way, and will electrocute you if you try to pass it in the other direction.</desc>
+		<image>./mixart/AlienBreed_v2.3a_0998.png</image>
+		<video>./snap/AlienBreed_v2.3a_0998.mp4</video>
+		<marquee>./wheel/AlienBreed_v2.3a_0998.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19911014T000000</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Team 17</publisher>
+		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

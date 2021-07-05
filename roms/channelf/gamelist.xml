@@ -400,10 +400,10 @@
 		<region>us</region>
 	</game>
 	<game>
-		<path>./Demonstration Cartridge (USA).zip</path>
-		<name>Demonstration Cartridge</name>
-		<image>./mixart/Demonstration Cartridge (USA).png</image>
-		<video>./snap/Demonstration Cartridge (USA).mp4</video>
+		<path>./Demonstration Cartridge 2 (USA).zip</path>
+		<name>Demonstration Cartridge 2</name>
+		<image>./mixart/Demonstration Cartridge 2 (USA).png</image>
+		<video>./snap/Demonstration Cartridge 2 (USA).mp4</video>
 		<marquee>./wheel/Demonstration Cartridge (USA).png</marquee>
 		<rating>0</rating>
 		<releasedate>19770101T000000</releasedate>
@@ -414,10 +414,10 @@
 		<region>us</region>
 	</game>
 	<game>
-		<path>./Demonstration Cartridge 2 (USA).zip</path>
-		<name>Demonstration Cartridge 2</name>
-		<image>./mixart/Demonstration Cartridge 2 (USA).png</image>
-		<video>./snap/Demonstration Cartridge 2 (USA).mp4</video>
+		<path>./Demonstration Cartridge (USA).zip</path>
+		<name>Demonstration Cartridge</name>
+		<image>./mixart/Demonstration Cartridge (USA).png</image>
+		<video>./snap/Demonstration Cartridge (USA).mp4</video>
 		<marquee>./wheel/Demonstration Cartridge (USA).png</marquee>
 		<rating>0</rating>
 		<releasedate>19770101T000000</releasedate>

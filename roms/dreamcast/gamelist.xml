@@ -4616,23 +4616,6 @@ Designed by Chris and Erin Roberts, the creative force behind the Wing Commander
 		<region>us</region>
 		<genreid>260</genreid>
 	</game>
-	<game>
-		<path>./Sturmwind.cdi</path>
-		<name>Sturmwind</name>
-		<desc>You found the way in now find the way out! Survive 16 levels and even more big grumpy boss enemies</desc>
-		<emulator>redream</emulator>
-		<core>redream</core>
-		<image>./mixart/Sturmwind.png</image>
-		<video>./snap/Sturmwind.mp4</video>
-		<marquee>./wheel/Sturmwind.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20130424T000000</releasedate>
-		<developer>Redspotgames</developer>
-		<publisher>Redspotgames</publisher>
-		<genre>Shoot'em Up</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game id="13816" source="ScreenScraper.fr">
 		<path>./Trizeal (Japan).chd</path>
 		<name>Trizeal</name>
@@ -4755,5 +4738,22 @@ Sega Rally 2 contains several modes of play. The first mode is the simple arcade
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./Sturmwind.cdi</path>
+		<name>Sturmwind</name>
+		<desc>You found the way in now find the way out! Survive 16 levels and even more big grumpy boss enemies</desc>
+		<emulator>redream</emulator>
+		<core>redream</core>
+		<image>./mixart/Sturmwind.png</image>
+		<video>./snap/Sturmwind.mp4</video>
+		<marquee>./wheel/Sturmwind.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20130424T000000</releasedate>
+		<developer>Redspotgames</developer>
+		<publisher>Redspotgames</publisher>
+		<genre>Shoot'em Up</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

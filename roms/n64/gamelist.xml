@@ -1034,20 +1034,6 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Cruis'n World (USA).n64</path>
-		<name>Cruis'n World</name>
-		<desc>Pack your bags and prepare for a first class trip around the world. Your ticket is courtesy of Midway, who has transformed its arcade mega-hit Cruis'n World into an all-new racer for the N64.   Cruis'n USA thrilled racers with a scenic trip across the highways of America, but this time the action will take you all around the world. Each track is packed full of realistic scenery and authentic landmarks, so playing this game could save you a lot of dough on travel expenses. You can catch a glimpse of the Sphinx, the Statue of Liberty, and the Mayan ruins without leaving the security of your living room couch.    If you're looking for a realistic racing simulation with real world physics, then this is definitely not the game for you. The graphics are realistic, but the actual game play is twisted to the extreme. Even though blazing across the Great Wall of China may be unbelievable, it certainly is fun. You can leap-frog over a semi truck with a police car, or perform a back flip with a military ATV. Add to this a bonus race that takes place on the moon, and you have a good idea of Midway's over-the-top execution of the Cruis'n concept.   Many of us will never get the chance to visit the Egyptian pyramids, let alone the opportunity to drive a screaming ambulance straight through them. Cruis'n World provides fun fantasy racing action, and the best thing about it is that you won't have to worry about your luggage getting left behind in Russia.</desc>
-		<image>./mixart/Cruis'n World (USA).png</image>
-		<video>./snap/Cruis'n World (USA).mp4</video>
-		<marquee>./wheel/Cruis'n World (USA).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19980928T000000</releasedate>
-		<developer>Eurocom</developer>
-		<publisher>Eurocom </publisher>
-		<genre>Race, Driving</genre>
-		<players>1-4</players>
-	</game>
-	<game>
 		<path>./CyberTiger (USA).n64</path>
 		<name>CyberTiger</name>
 		<desc>A step back from the Tiger Woods PGA's simulation style, Cyber Tiger Woods has more of an arcade feel to it, with cartoony-style animations, fast gameplay and elements added to make the game of golf more lively than the real-life counterpart.</desc>
@@ -4138,21 +4124,6 @@
 		<region>us</region>
 	</game>
 	<game>
-		<path>./Cruis'n Exotica (USA).n64</path>
-		<name>Cruis'n Exotica</name>
-		<desc>The sequel to Cruis'n World both in the arcades and on Nintendo 64, Cruis'n Exotica lets you race against the computer or up to three other opponents in a wide variety of cars and locales. Game mechanics follow "arcade" rules, which include "turbos" to accelerate to (and raise) maximum speed, and any deviation off of the track bumps you right back on it.  Cars range from sportcars to more esoteric cars like trucks, minis, and police vehicles. Tracks model real life (Alaska, India, Korea, etc.) and eventually branch out into fantasy worlds (Atlantis, Amazon, Mars).</desc>
-		<image>./mixart/Cruis'n Exotica (USA).png</image>
-		<video>./snap/Cruis'n Exotica (USA).mp4</video>
-		<marquee>./wheel/Cruis'n Exotica (USA).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>20001017T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Gratuitous Games</publisher>
-		<genre>Race, Driving</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Killer Instinct Gold (USA) (Rev B).n64</path>
 		<name>Killer Instinct Gold</name>
 		<desc>An updated conversion of Killer Instinct 2 from the arcades, all of the fighters, moves and stages are available (including the three newest inclusions to the fighter line-up, Maya, Kim Wu and Tusk) plus new game modes such as Team, Team Elimination, 5 speed levels and a complete training mode helping you to learn the many moves, combos and special attacks for each fighter.</desc>
@@ -4194,6 +4165,35 @@
 		<developer>Rareware</developer>
 		<publisher>Rare, Ltd.</publisher>
 		<genre>Action</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Cruis'n World (USA).n64</path>
+		<name>Cruis'n World</name>
+		<desc>Pack your bags and prepare for a first class trip around the world. Your ticket is courtesy of Midway, who has transformed its arcade mega-hit Cruis'n World into an all-new racer for the N64.   Cruis'n USA thrilled racers with a scenic trip across the highways of America, but this time the action will take you all around the world. Each track is packed full of realistic scenery and authentic landmarks, so playing this game could save you a lot of dough on travel expenses. You can catch a glimpse of the Sphinx, the Statue of Liberty, and the Mayan ruins without leaving the security of your living room couch.    If you're looking for a realistic racing simulation with real world physics, then this is definitely not the game for you. The graphics are realistic, but the actual game play is twisted to the extreme. Even though blazing across the Great Wall of China may be unbelievable, it certainly is fun. You can leap-frog over a semi truck with a police car, or perform a back flip with a military ATV. Add to this a bonus race that takes place on the moon, and you have a good idea of Midway's over-the-top execution of the Cruis'n concept.   Many of us will never get the chance to visit the Egyptian pyramids, let alone the opportunity to drive a screaming ambulance straight through them. Cruis'n World provides fun fantasy racing action, and the best thing about it is that you won't have to worry about your luggage getting left behind in Russia.</desc>
+		<image>./mixart/Cruis'n World (USA).png</image>
+		<video>./snap/Cruis'n World (USA).mp4</video>
+		<marquee>./wheel/Cruis'n World (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19980928T000000</releasedate>
+		<developer>Eurocom</developer>
+		<publisher>Eurocom</publisher>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Cruis'n Exotica (USA).n64</path>
+		<name>Cruis'n Exotica</name>
+		<desc>The sequel to Cruis'n World both in the arcades and on Nintendo 64, Cruis'n Exotica lets you race against the computer or up to three other opponents in a wide variety of cars and locales. Game mechanics follow "arcade" rules, which include "turbos" to accelerate to (and raise) maximum speed, and any deviation off of the track bumps you right back on it.  Cars range from sportcars to more esoteric cars like trucks, minis, and police vehicles. Tracks model real life (Alaska, India, Korea, etc.) and eventually branch out into fantasy worlds (Atlantis, Amazon, Mars).</desc>
+		<image>./mixart/Cruis'n Exotica (USA).png</image>
+		<video>./snap/Cruis'n Exotica (USA).mp4</video>
+		<marquee>./wheel/Cruis'n Exotica (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20001017T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Gratuitous Games</publisher>
+		<genre>Race, Driving</genre>
 		<players>4</players>
 		<favorite>true</favorite>
 	</game>

@@ -27047,22 +27047,6 @@ The player has limited fuel, and will run slowly if supplies run out, and the ca
 		<players>1-4</players>
 	</game>
 	<game>
-		<path>./10-Yard Fight (USA, Europe).zip</path>
-		<name>10-Yard Fight</name>
-		<desc>10-Yard Fight is a simple arcade game based on American football. One player can play against the computer or a second player head-to-head matchup and can choose between five levels of difficulty (high school, college, pro, playoffs, and Super Bowl). If you win a game at a lower difficulty level, the following game is automatically played at the next highest difficulty level.
-
-Gameplay is top-down and vertical-scrolling. There are no plays or formations to select from before the action begins; the player can take the snap as quarterback or choose one of two players on defense. On offense, the player can either keep the ball on the run, toss it to one of the two running backs, or throw long to the receiver; an interception turns the ball over to the other team. If a touchdown can't be scored, then the directional kicking system can be used to punt the ball or try for a field goal. One game consists (accelerated real-time) 30-minute halves of play to decide who wins this 10-Yard Fight.</desc>
-		<image>./mixart/10-Yard Fight (USA, Europe).png</image>
-		<video>./snap/10-Yard Fight (USA, Europe).mp4</video>
-		<marquee>./wheel/10-Yard Fight (USA, Europe).png</marquee>
-		<rating>0.4</rating>
-		<releasedate>19851001T000000</releasedate>
-		<developer>Irem</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Sports</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Bad Dudes (USA).zip</path>
 		<name>Bad Dudes</name>
 		<desc>This six-level action game was converted from a Data East coin-op. The gameplay involving beating a succession of guys to complete the level, then an end-of-level bad guy. The action takes place on two different levels of the screen, which can be jumped across or navigated using ladders. Moves such as punches and kicks are on offer. The control method makes jumping sideways quite tricky.
@@ -28091,20 +28075,6 @@ The Legend of Zelda is known for several factors that were revolutionary at the 
 		<genre>Action-Role playing games</genre>
 	</game>
 	<game>
-		<path>./Pac-Man Championship Edition NES Demake.zip</path>
-		<name>'H'Pac-Man Championship-Edition Demake</name>
-		<desc>Pac-Man CE demastered in 8-bit style! This was extracted from the steam version of Namco Museum Archives Volume 1. This was tested on some emulators and it managed to work perfectly.</desc>
-		<image>./mixart/Pac-Man Championship Edition NES Demake.png</image>
-		<video>./snap/Pac-Man Championship Edition NES Demake.mp4</video>
-		<marquee>./wheel/Pac-Man Championship Edition NES Demake.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20200621</releasedate>
-		<developer>Namcot</developer>
-		<publisher>BNEI</publisher>
-		<genre>Arcade/Hack</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Rygar (USA).zip</path>
 		<name>Rygar</name>
 		<desc>A hero has arrived to defeat the forces of evil in the land of Argool, and you are this hero. Do you have what it takes? This game was one of the first adventures to hit the NES and the remarkable aspect on top of this was the multiple viewpoints the games offers. When you are in an action zone, the game is a side-scrolling action game; however, then you are travelling between zones, the game takes on an overhead view that can also lead to combat situations.</desc>
@@ -28396,21 +28366,6 @@ As either, Bill (player 1) or Lance (player 2), the player must get to the end o
 		<players>2</players>
 	</game>
 	<game>
-		<path>./#nes-hd/Donkey Kong (JU) [p1] HD.7z</path>
-		<name>Donkey Kong HD</name>
-		<desc>Donkey Kong Classics features the original Donkey Kong. In Donkey Kong, you need to guide Mario safely up the scaffolding to rescue his girlfriend, Pauline. In Donkey Kong Jr., the roles are reversed; you control Jr. who needs to rescue his father, who has been captured by Mario.</desc>
-		<image>./#nes-hd/mixart/Donkey Kong (JU) [p1].png</image>
-		<video>./#nes-hd/snap/Donkey Kong (JU) [p1].mp4</video>
-		<marquee>./#nes-hd/wheel/Donkey Kong (JU) [p1].png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19881001T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action-Compilation</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./#nes-hd/Legend of Zelda, The (USA) HD.7z</path>
 		<name>The Legend of Zelda HD</name>
 		<desc>In one of the darkest times in the Kingdom of Hyrule, a young, pointy-eared boy named Link takes on an epic quest to restore the fragmented Triforce of Wisdom and save the Princess Zelda from the clutches of the evil, power-hungry Ganon.
@@ -28503,6 +28458,37 @@ Castlevania is a side-scrolling platform action game. The player taking the role
 		<region>us</region>
 	</game>
 	<game>
+		<path>./#nes-hd/Donkey Kong (JU) [p1] HD.7z</path>
+		<name>Donkey Kong HD</name>
+		<desc>Donkey Kong Classics features the original Donkey Kong. In Donkey Kong, you need to guide Mario safely up the scaffolding to rescue his girlfriend, Pauline. In Donkey Kong Jr., the roles are reversed; you control Jr. who needs to rescue his father, who has been captured by Mario.</desc>
+		<image>./#nes-hd/mixart/Donkey Kong (JU) [p1].png</image>
+		<video>./#nes-hd/snap/Donkey Kong (JU) [p1].mp4</video>
+		<marquee>./#nes-hd/wheel/Donkey Kong (JU) [p1].png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19881001T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Compilation</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./10-Yard Fight (USA, Europe).zip</path>
+		<name>10-Yard Fight</name>
+		<desc>10-Yard Fight is a simple arcade game based on American football. One player can play against the computer or a second player head-to-head matchup and can choose between five levels of difficulty (high school, college, pro, playoffs, and Super Bowl). If you win a game at a lower difficulty level, the following game is automatically played at the next highest difficulty level.
+
+Gameplay is top-down and vertical-scrolling. There are no plays or formations to select from before the action begins; the player can take the snap as quarterback or choose one of two players on defense. On offense, the player can either keep the ball on the run, toss it to one of the two running backs, or throw long to the receiver; an interception turns the ball over to the other team. If a touchdown can't be scored, then the directional kicking system can be used to punt the ball or try for a field goal. One game consists (accelerated real-time) 30-minute halves of play to decide who wins this 10-Yard Fight.</desc>
+		<image>./mixart/10-Yard Fight (USA, Europe).png</image>
+		<video>./snap/10-Yard Fight (USA, Europe).mp4</video>
+		<marquee>./wheel/10-Yard Fight (USA, Europe).png</marquee>
+		<rating>0.4</rating>
+		<releasedate>19851001T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+	</game>
+	<game>
 		<path>./Gaplus for NES.zip</path>
 		<name>'H'Gaplus (NES Version)</name>
 		<desc>This archived file is a NES port of Gaplus seen in Namco Museum Archives Volume 2 (Namcot Collection in Japan), directly ripped from the international Steam release. This same game is also on Arcade system.</desc>
@@ -28515,5 +28501,21 @@ Castlevania is a side-scrolling platform action game. The player taking the role
 		<publisher>BNEI</publisher>
 		<genre>Arcade/Hack</genre>
 		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Pac-Man Championship Edition NES Demake.zip</path>
+		<name>'H'Pac-Man Championship-Edition Demake</name>
+		<desc>Pac-Man CE demastered in 8-bit style! This was extracted from the steam version of Namco Museum Archives Volume 1. This was tested on some emulators and it managed to work perfectly.</desc>
+		<image>./mixart/Pac-Man Championship Edition NES Demake.png</image>
+		<video>./snap/Pac-Man Championship Edition NES Demake.mp4</video>
+		<marquee>./wheel/Pac-Man Championship Edition NES Demake.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20200621</releasedate>
+		<developer>Namcot</developer>
+		<publisher>BNEI</publisher>
+		<genre>Arcade/Hack</genre>
+		<players>2</players>
+		<lang>en</lang>
 	</game>
 </gameList>

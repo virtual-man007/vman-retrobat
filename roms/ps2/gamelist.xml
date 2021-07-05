@@ -4734,23 +4734,6 @@ The game has over twenty levels (planets) and includes as many real-time cut-sce
 		<region>us</region>
 		<genreid>257</genreid>
 	</game>
-	<game id="21933" source="ScreenScraper.fr">
-		<path>./Ratchet &amp; Clank - Up Your Arsenal (USA) (En,Fr,Es).gz</path>
-		<name>Ratchet &amp; Clank : Up Your Arsenal</name>
-		<desc>Rejoignez Ratchet et Clank dans leurs troisièmes aventures sur PS2 pour défaire les plans machiavéliques du Dr Nefarious. En plus des nombreux gadgets, plus de 15 armes différentes sont à votre disposition pour défourailler autour de vous. Un mode spécial permet de jouer à plusieurs en invitant trois autres amis.</desc>
-		<image>./mixart/Ratchet &amp; Clank - Up Your Arsenal (USA) (En,Fr,Es).png</image>
-		<video>./snap/Ratchet &amp; Clank - Up Your Arsenal (USA) (En,Fr,Es).mp4</video>
-		<marquee>./wheel/Ratchet &amp; Clank - Up Your Arsenal (USA) (En,Fr,Es).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20041109T000000</releasedate>
-		<developer>Insomniac Games</developer>
-		<publisher>Sony</publisher>
-		<genre>Platform</genre>
-		<players>2-8</players>
-		<lang>en,es,fr</lang>
-		<region>eu</region>
-		<genreid>257</genreid>
-	</game>
 	<game id="127678" source="ScreenScraper.fr">
 		<path>./Ratchet - Deadlocked (USA) (En,Fr,Es).gz</path>
 		<name>Ratchet : Deadlocked</name>
@@ -7249,6 +7232,23 @@ To make things much easier there are nine different power-ups and weapons scatte
 		<genre>Action-Race, Driving</genre>
 		<players>4</players>
 		<favorite>true</favorite>
+	</game>
+	<game id="21933" source="ScreenScraper.fr">
+		<path>./Ratchet &amp; Clank - Up Your Arsenal (USA) (En,Fr,Es).gz</path>
+		<name>Ratchet &amp; Clank : Up Your Arsenal</name>
+		<desc>Rejoignez Ratchet et Clank dans leurs troisièmes aventures sur PS2 pour défaire les plans machiavéliques du Dr Nefarious. En plus des nombreux gadgets, plus de 15 armes différentes sont à votre disposition pour défourailler autour de vous. Un mode spécial permet de jouer à plusieurs en invitant trois autres amis.</desc>
+		<image>./mixart/Ratchet &amp; Clank - Up Your Arsenal (USA) (En,Fr,Es).png</image>
+		<video>./snap/Ratchet &amp; Clank - Up Your Arsenal (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/Ratchet &amp; Clank - Up Your Arsenal (USA) (En,Fr,Es).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20041109T000000</releasedate>
+		<developer>Insomniac Games</developer>
+		<publisher>Sony</publisher>
+		<genre>Platform</genre>
+		<players>2-8</players>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+		<genreid>257</genreid>
 	</game>
 	<game>
 		<path>./Contra - Shattered Soldier (USA).gz</path>

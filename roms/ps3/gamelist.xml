@@ -1229,6 +1229,7 @@ Swords in game can be customized and leveled up to increase its length, width, a
 		<publisher>Silicon Studio</publisher>
 		<genre>Role playing games</genre>
 		<players>1</players>
+		<favorite>true</favorite>
 		<genreid>768</genreid>
 	</game>
 </gameList>
