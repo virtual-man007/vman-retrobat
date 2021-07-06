@@ -2473,20 +2473,6 @@ Small Saucer - The smaller flying saucers are deadlier than the large variety. T
 		<players>2</players>
 	</game>
 	<game>
-		<path>./baddudes.zip</path>
-		<name>Bad Dudes vs. Dragonninja</name>
-		<desc>The game starts in New York City, where President Ronnie has been kidnapped by the nefarious DragonNinja. The game's intro begins with the following introduction: "Rampant ninja related crimes these days... Whitehouse is not the exception...". As soon as that occurs, a Secret Service agent asks two street-smart brawlers, named Blade and Striker: "President Ronnie has been kidnapped by the ninjas. Are you a bad enough dude to rescue Ronnie?".   After hearing that, the Bad Dudes pursue the DragonNinja through the city streets, highway, sewers, transport train, forest, cave and into the secret ninja base in order to save President Ronnie.</desc>
-		<image>./mixart/baddudes.png</image>
-		<video>./snap/baddudes.mp4</video>
-		<marquee>./wheel/baddudes.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Data East</publisher>
-		<genre>Platform-Plateform / Fighter Scrolling</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./badlands.zip</path>
 		<name>Badlands</name>
 		<desc>A Western/Gun shooting game where you play a character named Buck, whose wife and children were killed by a group of bad guys. Revenge is the only thing on your mind. You head for town, equipped only with your gun, searching for the people who ruined your life.</desc>
@@ -10377,26 +10363,6 @@ New level elements were also added to further increase variety. These included d
 		<publisher>Atari</publisher>
 		<genre>Action / Labyrinth-Shooter Large-Action</genre>
 		<players>4</players>
-	</game>
-	<game>
-		<path>./gauntlet2p.zip</path>
-		<name>Gauntlet</name>
-		<desc>Gauntlet is a maze-based shoot-em-up for up to four players. Heavily influenced by classic fantasy conventions, players take on the role of either Thor the Warrior, Thyra the Valkyrie, Merlin the Wizard, or Questor the Elf and must play cooperatively as they explore and fight their way through the enemy-packed mazes. Competitive play is encouraged as players must fight for the limited amount of food, treasure, magic potions and power-up items that litter the dungeons. 
-
-Each of Gauntlet's four characters have different strengths and weaknesses: Thyra has the strongest armour, Thor is best at hand-to-hand combat, Questor has the fastest speed and Merlin has the most powerful magic attacks. The object of the game is simply to survive as long as possible while exploring Gauntlet's mazes in search of treasure, food, magic potions and, ultimately, the exit that leads to the next dungeon. 
-
-The potions - shown as blue bottles - that litter the levels offer either improved character abilities (such as 'speed' or 'extra shot power') or can be used as a 'smart bomb', destroying some or all of the on-screen monsters. Potions are also the only way to kill the game's 'Death' character that appears in many of the stages. Magic potions can be kept and used at the player's discretion by pressing 'Magic' button, although each potion can only be used once. 
-
-The first seven mazes are always the same, but from level 8 onwards, players will find themselves on any one of over a hundred different mazes. If players survive for long enough, the mazes will be repeated in a different order. How long a player lasts depends upon the player's 'health' level. Health continually depletes as time progresses and further health is lost by contact with various monsters or their projectiles. Health can be replenished by consuming the food found in the mazes or by inserting more credits. The many treasure chests that litter the levels can be plundered for points, and collecting treasure increases a player's score multiplier when two or more players are playing the game.</desc>
-		<emulator>libretro</emulator>
-		<core>fbalpha2012</core>
-		<image>./mixart/gauntlet2p.png</image>
-		<video>./snap/gauntlet.mp4</video>
-		<marquee>./wheel/gauntlet.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19850101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
 	</game>
 	<game>
 		<path>./gbusters.zip</path>
@@ -31987,42 +31953,6 @@ The conflict in Wu-Lin seemed to trigger at any moment, unconsciously all sword 
 		<players>2</players>
 	</game>
 	<game>
-		<path>./swa.zip</path>
-		<name>Star Wars Arcade</name>
-		<desc>Star Wars Arcade is a superb 3-D shoot-em-up for one or two players, based on the legendary 1977 movie of the same name. In the two player game, one player takes on the role of the pilot, who controls both the speed and direction of the fighter ship, and who can only shoot at the centre of the screen. The second other player takes on the role of the 'gunner' and can target a much larger area on-screen.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2016</core>
-		<image>./mixart/swa.png</image>
-		<video>./snap/swa.mp4</video>
-		<marquee>./wheel/swa.png</marquee>
-		<rating>1</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Shooter / Plane, 1st person</genre>
-		<arcadesystemname>sega</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>b06e1037d2e3f3f33b4b6a3dba3cb6de</md5>
-	</game>
-	<game>
-		<path>./vf.zip</path>
-		<name>Virtua Fighter</name>
-		<desc>In this 3-D fighting game, the game's battle system is simple, yet complex. There are 3 buttons: Punch, Kick and Guard. Movement is strictly confined to a horizontal plane.    Battles are won by draining the energy bar of your opponent or by pushing your opponent off the edges of the ring (known as a 'Ring-out').</desc>
-		<emulator>libretro</emulator>
-		<core>mame2016</core>
-		<image>./mixart/vf.png</image>
-		<video>./snap/vf.mp4</video>
-		<marquee>./wheel/vf.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Fight-Fight / Versus</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./vformula.zip</path>
 		<name>Virtua Formula</name>
 		<desc>Virtua Formula (バーチャフォーミュラ) is an expanded version of the 1992 Sega Model 1 arcade game Virtua Racing, designed as a medium-scale attraction for theme parks and family entertainment centers..</desc>
@@ -33372,5 +33302,75 @@ MAN, WOMAN, CHILD: These are the only three types of human clones left on Earth.
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./baddudes.zip</path>
+		<name>Bad Dudes vs. Dragonninja</name>
+		<desc>The game starts in New York City, where President Ronnie has been kidnapped by the nefarious DragonNinja. The game's intro begins with the following introduction: "Rampant ninja related crimes these days... Whitehouse is not the exception...". As soon as that occurs, a Secret Service agent asks two street-smart brawlers, named Blade and Striker: "President Ronnie has been kidnapped by the ninjas. Are you a bad enough dude to rescue Ronnie?".   After hearing that, the Bad Dudes pursue the DragonNinja through the city streets, highway, sewers, transport train, forest, cave and into the secret ninja base in order to save President Ronnie.</desc>
+		<image>./mixart/baddudes.png</image>
+		<video>./snap/baddudes.mp4</video>
+		<marquee>./wheel/baddudes.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Platform-Plateform / Fighter Scrolling</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./gauntlet2p.zip</path>
+		<name>Gauntlet</name>
+		<desc>Gauntlet is a maze-based shoot-em-up for up to four players. Heavily influenced by classic fantasy conventions, players take on the role of either Thor the Warrior, Thyra the Valkyrie, Merlin the Wizard, or Questor the Elf and must play cooperatively as they explore and fight their way through the enemy-packed mazes. Competitive play is encouraged as players must fight for the limited amount of food, treasure, magic potions and power-up items that litter the dungeons. 
+
+Each of Gauntlet's four characters have different strengths and weaknesses: Thyra has the strongest armour, Thor is best at hand-to-hand combat, Questor has the fastest speed and Merlin has the most powerful magic attacks. The object of the game is simply to survive as long as possible while exploring Gauntlet's mazes in search of treasure, food, magic potions and, ultimately, the exit that leads to the next dungeon. 
+
+The potions - shown as blue bottles - that litter the levels offer either improved character abilities (such as 'speed' or 'extra shot power') or can be used as a 'smart bomb', destroying some or all of the on-screen monsters. Potions are also the only way to kill the game's 'Death' character that appears in many of the stages. Magic potions can be kept and used at the player's discretion by pressing 'Magic' button, although each potion can only be used once. 
+
+The first seven mazes are always the same, but from level 8 onwards, players will find themselves on any one of over a hundred different mazes. If players survive for long enough, the mazes will be repeated in a different order. How long a player lasts depends upon the player's 'health' level. Health continually depletes as time progresses and further health is lost by contact with various monsters or their projectiles. Health can be replenished by consuming the food found in the mazes or by inserting more credits. The many treasure chests that litter the levels can be plundered for points, and collecting treasure increases a player's score multiplier when two or more players are playing the game.</desc>
+		<emulator>libretro</emulator>
+		<core>fbalpha2012</core>
+		<image>./mixart/gauntlet2p.png</image>
+		<video>./snap/gauntlet.mp4</video>
+		<marquee>./wheel/gauntlet.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+	</game>
+	<game>
+		<path>./swa.zip</path>
+		<name>Star Wars Arcade</name>
+		<desc>Star Wars Arcade is a superb 3-D shoot-em-up for one or two players, based on the legendary 1977 movie of the same name. In the two player game, one player takes on the role of the pilot, who controls both the speed and direction of the fighter ship, and who can only shoot at the centre of the screen. The second other player takes on the role of the 'gunner' and can target a much larger area on-screen.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2016</core>
+		<image>./mixart/swa.png</image>
+		<video>./snap/swa.mp4</video>
+		<marquee>./wheel/swa.png</marquee>
+		<rating>1</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / Plane, 1st person</genre>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>b06e1037d2e3f3f33b4b6a3dba3cb6de</md5>
+	</game>
+	<game>
+		<path>./vf.zip</path>
+		<name>Virtua Fighter</name>
+		<desc>In this 3-D fighting game, the game's battle system is simple, yet complex. There are 3 buttons: Punch, Kick and Guard. Movement is strictly confined to a horizontal plane.    Battles are won by draining the energy bar of your opponent or by pushing your opponent off the edges of the ring (known as a 'Ring-out').</desc>
+		<emulator>libretro</emulator>
+		<core>mame2016</core>
+		<image>./mixart/vf.png</image>
+		<video>./snap/vf.mp4</video>
+		<marquee>./wheel/vf.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

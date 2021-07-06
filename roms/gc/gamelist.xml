@@ -7794,21 +7794,6 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<region>us</region>
 	</game>
 	<game>
-		<path>./F-Zero GX (Europe).rvz</path>
-		<name>F-Zero GX</name>
-		<desc>The classic Nintendo franchise that has inspired countless futuristic racing games returns with F-Zero GX on the Nintendo GameCube. Long-time rival Sega collaborated with Nintendo to redefine the futuristic racing genre with intense competition, blazing speeds, and brilliant track designs. F-Zero GX offers 20 different tracks and over 30 unique pilots, as well as a custom craft editor where players can create their own vehicle. Multiple game modes including Grand Prix, Time Attack, Versus mode, and the all new challenging story mode offer a multitude of alternatives to traditional racing. Players can laso save their game data on a memory card and use it to race custom vehicles in the arcade version of F-Zero GX.</desc>
-		<image>./mixart/F-Zero GX (Europe).png</image>
-		<video>./snap/F-Zero GX (Europe).mp4</video>
-		<marquee>./wheel/F-Zero GX (Europe).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20031031T000000</releasedate>
-		<developer>Amusement Vision</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<players>2-4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Metroid Prime (USA) (v1.02).rvz</path>
 		<name>Metroid Prime</name>
 		<desc>Everyone's favorite heroine, Samus Aran, is back! Packed to the gills with exploration, creative power-ups, and wicked enemies, Metroid Prime is a first-person adventure worthy of the Metroid stamp. An action-packed adventure set in the first-person perspective, Metroid Prime takes place just after the events in the original Metroid (NES). It has lead character Samus Aran, a bounty hunter by trade, chasing down the evil Space Pirates. Their intention is to use a genetic mutagen called Phazon to create a super army and take over the universe. While the installments in the series before have never been home to deeply involving storylines, Metroid Prime breaks the shell to offer up one of the most intriguing and read-worthy sagas yet. Developed by Texas-based Retro Studios. Metroid Prime brings all of the elements of the acclaimed franchise into a massive 3D arena.</desc>
@@ -7820,20 +7805,6 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<developer>Retro Studios, Inc.</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Action</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./I-Ninja (USA).rvz</path>
-		<name>I-ninja</name>
-		<desc>A robot army led by Master O-Dor has destroyed the ninja clan. As the last of your kind you must take on the robot army and defeat Master O-Dor. You play a cartoon ninja with a big head in a level based 3D platform game. Each level is packed with new skills to master, challenges to beat, and grades to earn.</desc>
-		<image>./mixart/I-Ninja (USA).png</image>
-		<video>./snap/I-Ninja (USA).mp4</video>
-		<marquee>./wheel/I-Ninja (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20040202T000000</releasedate>
-		<developer>Argonaut</developer>
-		<publisher>Namco</publisher>
-		<genre>Action-Platform</genre>
 		<favorite>true</favorite>
 	</game>
 	<game id="4770" source="ScreenScraper.fr">
@@ -7981,5 +7952,34 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./I-Ninja (USA).rvz</path>
+		<name>I-ninja</name>
+		<desc>A robot army led by Master O-Dor has destroyed the ninja clan. As the last of your kind you must take on the robot army and defeat Master O-Dor. You play a cartoon ninja with a big head in a level based 3D platform game. Each level is packed with new skills to master, challenges to beat, and grades to earn.</desc>
+		<image>./mixart/I-Ninja (USA).png</image>
+		<video>./snap/I-Ninja (USA).mp4</video>
+		<marquee>./wheel/I-Ninja (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20040202T000000</releasedate>
+		<developer>Argonaut</developer>
+		<publisher>Namco</publisher>
+		<genre>Action-Platform</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./F-Zero GX (Europe).rvz</path>
+		<name>F-Zero GX</name>
+		<desc>The classic Nintendo franchise that has inspired countless futuristic racing games returns with F-Zero GX on the Nintendo GameCube. Long-time rival Sega collaborated with Nintendo to redefine the futuristic racing genre with intense competition, blazing speeds, and brilliant track designs. F-Zero GX offers 20 different tracks and over 30 unique pilots, as well as a custom craft editor where players can create their own vehicle. Multiple game modes including Grand Prix, Time Attack, Versus mode, and the all new challenging story mode offer a multitude of alternatives to traditional racing. Players can laso save their game data on a memory card and use it to race custom vehicles in the arcade version of F-Zero GX.</desc>
+		<image>./mixart/F-Zero GX (Europe).png</image>
+		<video>./snap/F-Zero GX (Europe).mp4</video>
+		<marquee>./wheel/F-Zero GX (Europe).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20031031T000000</releasedate>
+		<developer>Amusement Vision</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>2-4</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

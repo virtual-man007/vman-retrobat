@@ -28458,21 +28458,6 @@ Castlevania is a side-scrolling platform action game. The player taking the role
 		<region>us</region>
 	</game>
 	<game>
-		<path>./#nes-hd/Donkey Kong (JU) [p1] HD.7z</path>
-		<name>Donkey Kong HD</name>
-		<desc>Donkey Kong Classics features the original Donkey Kong. In Donkey Kong, you need to guide Mario safely up the scaffolding to rescue his girlfriend, Pauline. In Donkey Kong Jr., the roles are reversed; you control Jr. who needs to rescue his father, who has been captured by Mario.</desc>
-		<image>./#nes-hd/mixart/Donkey Kong (JU) [p1].png</image>
-		<video>./#nes-hd/snap/Donkey Kong (JU) [p1].mp4</video>
-		<marquee>./#nes-hd/wheel/Donkey Kong (JU) [p1].png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19881001T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action-Compilation</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./10-Yard Fight (USA, Europe).zip</path>
 		<name>10-Yard Fight</name>
 		<desc>10-Yard Fight is a simple arcade game based on American football. One player can play against the computer or a second player head-to-head matchup and can choose between five levels of difficulty (high school, college, pro, playoffs, and Super Bowl). If you win a game at a lower difficulty level, the following game is automatically played at the next highest difficulty level.
@@ -28517,5 +28502,20 @@ Gameplay is top-down and vertical-scrolling. There are no plays or formations to
 		<genre>Arcade/Hack</genre>
 		<players>2</players>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./#nes-hd/Donkey Kong (JU) [p1] HD.7z</path>
+		<name>Donkey Kong HD</name>
+		<desc>Donkey Kong Classics features the original Donkey Kong. In Donkey Kong, you need to guide Mario safely up the scaffolding to rescue his girlfriend, Pauline. In Donkey Kong Jr., the roles are reversed; you control Jr. who needs to rescue his father, who has been captured by Mario.</desc>
+		<image>./#nes-hd/mixart/Donkey Kong (JU) [p1].png</image>
+		<video>./#nes-hd/snap/Donkey Kong (JU) [p1].mp4</video>
+		<marquee>./#nes-hd/wheel/Donkey Kong (JU) [p1].png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19881001T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Compilation</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

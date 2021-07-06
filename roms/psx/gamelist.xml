@@ -8081,20 +8081,6 @@ Your ship is outfitted with phaser cannons and photon torpedoes, both of which y
 		<marquee>./wheel/Soul of the Samurai (USA).png</marquee>
 		<video>./snap/Soul of the Samurai (USA).mp4</video>
 	</game>
-	<game>
-		<path>./Rapid Reload (Europe).chd</path>
-		<name>Rapid Reload</name>
-		<desc>The object of interest in this game is the mysterious Valkiry Stone. Two treasure hunters, Axel and Ruka, set out to find the stone, but the evil gang known as the Pumpkin Heads wants to find the stone first.    As either Axel or Ruka, blast your way through six side-scrolling levels against hordes of enemies, facing off against several bosses in each level. You can select from four different weapon effects (normal, bouncing, homing and flamethrower), use smartbombs and a grappling hook.</desc>
-		<image>./mixart/Rapid Reload (Europe).png</image>
-		<video>./snap/Rapid Reload (Europe).mp4</video>
-		<marquee>./wheel/Rapid Reload (Europe).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19950929T000000</releasedate>
-		<developer>Media.Vision Entertainment Inc.</developer>
-		<publisher>Sony Computer Entertaiment</publisher>
-		<genre>Shooter / Run and Gun-Shooter</genre>
-		<favorite>true</favorite>
-	</game>
 	<game id="102981" source="ScreenScraper.fr">
 		<path>./Covert Ops - Nuclear Dawn (USA).m3u</path>
 		<name>Covert Ops : Nuclear Dawn</name>
@@ -17260,24 +17246,6 @@ WC4 puts you in control of a variety of spaceships armed with your choice of wea
 		<path>./Wing Commander IV - The Price of Freedom (USA).m3u</path>
 	</game>
 	<game>
-		<path>./X-Files, The (USA).m3u</path>
-		<name>The X-Files</name>
-		<desc>Enter the world of the X-Files as field agent Craig Willmore, assigned to assist Special Agents Fox Mulder and Dana Scully in Their latest investigation into paranormal activity. Follow a tail of elusive clues, sift through evidence at crime scenes, use a wide range of standard issue FBI equipment and special tools, conduct interviews with witness and suspects, and make critical decisions to solve an all new X-Files case.</desc>
-		<emulator>libretro</emulator>
-		<core>pcsx_rearmed</core>
-		<image>./mixart/X-Files, The (USA).png</image>
-		<video>./snap/X-Files, The (USA).mp4</video>
-		<marquee>./wheel/X-Files, The (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19990930T000000</releasedate>
-		<developer>Sony</developer>
-		<publisher>Hyperbole Studios</publisher>
-		<genre>Adventure</genre>
-		<favorite>true</favorite>
-		<path>./X-Files, The (USA).m3u</path>
-		<path>./X-Files, The (USA).m3u</path>
-	</game>
-	<game>
 		<path>./Fade to Black (USA).chd</path>
 		<name>Fade To Black</name>
 		<desc>This is the sequel to   Flashback: the Quest for Identity. You take control of Conrad, the hero from "Flashback," who has been imprisoned by his old enemy, the Morphs.  Gaining the trust and assistance of the mysterious Ancients, Conrad must fight off the Morph invasion, not knowing who he can trust...  
@@ -17344,51 +17312,6 @@ As either Axel or Ruka, blast your way through six side-scrolling levels against
 		<developer>Sony</developer>
 		<publisher>Sony</publisher>
 		<genre>Role playing games</genre>
-	</game>
-	<game>
-		<path>./Pro Pinball - Big Race USA (USA).chd</path>
-		<name>Pro Pinball - Big Race Usa</name>
-		<desc>A whirlwind frenzy of color, sound, and adrenaline-pumping action. Take an exciting ride across the USA for your chance to compete in the big race and win hoards of cash. But watch out for the police car on your tail. Packed with more features than your local multiplex, Big Race USA brings a whole new dimension of mind-boggling realism to your PlayStation.</desc>
-		<emulator>libretro</emulator>
-		<core>pcsx_rearmed</core>
-		<image>./mixart/Pro Pinball - Big Race USA (USA).png</image>
-		<video>./snap/Pro Pinball - Big Race USA (USA).mp4</video>
-		<marquee>./wheel/Pro Pinball - Big Race USA (USA).png</marquee>
-		<rating>1</rating>
-		<releasedate>19700101T000000</releasedate>
-		<developer>Cunning Development</developer>
-		<publisher>Empire Interactive</publisher>
-		<genre>Pinball</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Pro Pinball - Fantastic Journey (USA).chd</path>
-		<name>Pro Pinball : Fantastic Journey</name>
-		<desc>Roll up! Roll up! Travel back to Victorian times with five steam-powered adventures. Use your flippers to tunnel to the Earth's core, journey to the ocean depths, fly through the tallest mountains and steam to a mysterious island to stop the evil General Yagov! Marvel at the most accurate ever ball physics! Balls that really spin, slide, roll and jump! Gasp in awe at the complexity of the table design, featuring bumpers, ramps, drop targets, magnets and more!</desc>
-		<image>./mixart/Pro Pinball - Fantastic Journey (USA).png</image>
-		<video>./snap/Pro Pinball - Fantastic Journey (USA).mp4</video>
-		<marquee>./wheel/Pro Pinball - Fantastic Journey (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19990101T000000</releasedate>
-		<genre>Pinball</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Crisis Beat (E).chd</path>
-		<name>Crisis Beat</name>
-		<desc>Much more than a beat 'em up, Crisis Beat is a blend of action and adventure rarely seen on PlayStation, wrapped up in a compelling narrative that runs throughout the game, guiding players from one exciting challenge to another.   To combat the hordes of bad guys all over the ship, you have to use stealth, strategy and be ready to brawl with the best. Depending on which character you have opted to play (a choice of four), the game AI will select the best "BOSS" to hamper your progress. This system gives players the play-it-again variety that will have them wanting to play Crisis Beat again and again.   When you can't make the grade on your own you can call on a friend to help in two player mode. Here there are two teams to choose from and, depending on which one is selected, chooses which stage and "BOSS" you start the game with.</desc>
-		<image>./mixart/Crisis Beat (E).png</image>
-		<video>./snap/Crisis Beat (E).mp4</video>
-		<marquee>./wheel/Crisis Beat (E).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19980618T000000</releasedate>
-		<developer>Studio 3</developer>
-		<publisher>Studio 3</publisher>
-		<genre>Beat'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>eu</region>
 	</game>
 	<game>
 		<path>./Baldur's Gate (USA).m3u</path>
@@ -17490,20 +17413,6 @@ Baldur’s Gate was intended to be a port of the game for the PlayStation. Notic
 		<players>2</players>
 	</game>
 	<game>
-		<path>./CT Special Forces 3 - Bioterror.chd</path>
-		<name>CT Special Forces 3 : Bioterror</name>
-		<desc>CT Special Forces 3: Bioterror is an Action game, developed by The Code Monkeys and published by LSP, which was released in Europe in 2004.</desc>
-		<image>./mixart/CT Special Forces 3 - Bioterror.png</image>
-		<video>./snap/CT Special Forces 3 - Bioterror.mp4</video>
-		<marquee>./wheel/CT Special Forces 3 - Bioterror.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20040305T000000</releasedate>
-		<developer>Hip Interactive</developer>
-		<publisher>LSP</publisher>
-		<genre>Beat'em Up-Shooter / Run and Gun-Shooter</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Tekken 3 (USA).chd</path>
 		<name>Tekken 3</name>
 		<desc>An ancient evil force has reawakened, attacking in secret and feeding on the souls of mighty warriors. To lure it out of hiding will take the greatest fighting contest the world has ever seen... Tekken 3. Some are fighting for revenge, some for honor, ultimately, all are fighting for their lives and the fate of all mankind.</desc>
@@ -17516,56 +17425,6 @@ Baldur’s Gate was intended to be a port of the game for the PlayStation. Notic
 		<publisher>Namco</publisher>
 		<genre>Fight</genre>
 		<players>2</players>
-	</game>
-	<game>
-		<path>./Moto Racer (USA).chd</path>
-		<name>Moto Racer</name>
-		<desc>An arcade motorcycle racer in which both superbike and motocross events are available. Game modes include Practice, Time Attack, in which players race against their own replays, Single Races against computer-controlled opponents, and a Championship Circuit. Network or Internet play for up to 8 players is available as well.
-
-Winning the championship unlocks additional courses out of the 4 road and 4 dirt tracks available, as well as the new game options Reverse and Pocket Bike. In Reverse mode the tracks are raced in the opposite direction, while in Pocket Bike mode every racer is given a miniature version of his motorcycle.
-
-A free track add-on extends the game with one additional course for sportbikes and dirtbikes each.</desc>
-		<image>./mixart/Moto Racer (USA).png</image>
-		<video>./snap/Moto Racer (USA).mp4</video>
-		<marquee>./wheel/Moto Racer (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19971130T000000</releasedate>
-		<developer>Delphine Software International</developer>
-		<publisher>Electronic Arts</publisher>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game id="19462" source="ScreenScraper.fr">
-		<path>./FoxKids.com - Micro Maniacs Racing (USA).chd</path>
-		<name>FoxKids.com : Micro Maniacs Racing</name>
-		<desc>Since saving the world from the impending food shortage is a tall order, our good friend Dr. Minimizer sets out to cajole, blackmail and create participants to compete for the right to lead the colonization of Earth once everyone's been shrunk to 1/30th their original size.   The mad doctor has therefore created an obstacle course in his home to find the ultimate soldier through a Darwinian style survival-of-the-fittest competition. But he's lacking participants. Once he collects eight such participants, it's off to the races to find the Earth's savior. Who'd have thought that slipping in the bathtub could potentially hold the fate of 7 billion people in its balance?</desc>
-		<image>./mixart/FoxKids.com - Micro Maniacs Racing (USA).png</image>
-		<video>./snap/FoxKids.com - Micro Maniacs Racing (USA).mp4</video>
-		<marquee>./wheel/FoxKids.com - Micro Maniacs Racing (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20000815T000000</releasedate>
-		<developer>Codemasters</developer>
-		<publisher>Codemasters</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Formula 1 (USA).chd</path>
-		<name>Formula 1</name>
-		<desc>Formula 1 was the first of Sony's official FIA-licensed Formula 1 games. All the cars, teams and circuits of the 1995 season are recreated in millimetric detail. Variable game modes and camera angles are included. To widen the game's appeal, it includes optional helpers such as automatic braking.
-
-The game contains a rock soundtrack including tracks by Joe Satriani and Steve Vai, and commentary from UK TV legend Murray Walker.</desc>
-		<image>./mixart/Formula 1 (USA).png</image>
-		<video>./snap/Formula 1 (USA).mp4</video>
-		<marquee>./wheel/Formula 1 (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19960901T000000</releasedate>
-		<developer>Bizarre Creations</developer>
-		<publisher>Psygnosis</publisher>
-		<genre>Race, Driving-Sports</genre>
-		<players>2</players>
-		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Quake II (USA).chd</path>
@@ -17585,9 +17444,26 @@ As a FPS, Quake II contains a variety of weapons including the fall back Blaster
 		<favorite>true</favorite>
 	</game>
 	<game>
+		<path>./Heart of Darkness (USA).m3u</path>
+		<name>Heart of Darkness</name>
+		<desc>You're a boy who most of all loves to play, and leave studying for somebody else to take care of. Your best company is your little dog who loves to wear your baseball cap. But on a hot sunny day, the moon covered the sun, and your dog disappears. You run to your treehouse and power up your computer and secret flying machine. Taking all you need, and go to find your lost puppy. Suddenly while in the sky, you strike some black creature, which was followed by a big crash. 
+
+You get off your spaceship and begin your quest, which takes in 8 worlds and 176 screens of ladders, ledges and platforms, across locations such as mountains and caves. There are puzzles to solve and precise timing sections along the way. The game features orchestral music and video sequences.</desc>
+		<image>./mixart/Heart of Darkness (USA).png</image>
+		<video>./snap/Heart of Darkness (USA).mp4</video>
+		<marquee>./wheel/Heart of Darkness (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Amazing Studios</publisher>
+		<genre>Platform-Action</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
 		<path>./Ape Escape (USA).chd</path>
 		<name>Ape Escape</name>
 		<desc>A boisterous band of baboons carry out a daring zoo escape. It's ape anarchy and it's up to you to stop the chimps before they make chumps out of the human race! Use both analog sticks to operate great gadgets including a Tank, a Remote Control Car, a Stun Club, and a Time Net in your quest to hunt down over 200 apes!</desc>
+		<emulator>duckstation</emulator>
 		<image>./mixart/Ape Escape (USA).png</image>
 		<video>./snap/Ape Escape (USA).mp4</video>
 		<marquee>./wheel/Ape Escape (USA).png</marquee>
@@ -17596,22 +17472,6 @@ As a FPS, Quake II contains a variety of weapons including the fall back Blaster
 		<developer>Sony</developer>
 		<publisher>Sony</publisher>
 		<genre>Platform</genre>
-	</game>
-	<game>
-		<path>./Championship Motocross Featuring Ricky Carmichael (USA).chd</path>
-		<name>Championship Motocross 2001 featuring Ricky Carmic</name>
-		<desc>This is the sequel to Championship Motocross Featuring Ricky Carmichael.  This version has 30 of the top motocross riders including the game's namesake, Ricky Carmichael.  There are a plethora of tracks to race on that range from regular races and stunt tracks where players can pull off 50 different tricks for points in order to advance.
-
-There are a variety of modes including a career mode where the player can compete in races, using the money to buy better equipment and negotiate with sponsors to gain more money and notoriety.  Players can also create their own rider and use them in exhibition races or in the career mode and customize everything from the appearance to their abilities.</desc>
-		<image>./mixart/Championship Motocross Featuring Ricky Carmichael (USA).png</image>
-		<video>./snap/Championship Motocross Featuring Ricky Carmichael (USA).mp4</video>
-		<marquee>./wheel/Championship Motocross Featuring Ricky Carmichael (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20010406T000000</releasedate>
-		<developer>Funcom</developer>
-		<publisher>THQ</publisher>
-		<genre>Race, Driving-Various</genre>
-		<players>2</players>
 		<favorite>true</favorite>
 	</game>
 	<game>
@@ -17633,19 +17493,157 @@ Featuring a motion-captured, cyberscanned Bruce Willis, multiple levels, explosi
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Heart of Darkness (USA).m3u</path>
-		<name>Heart of Darkness</name>
-		<desc>You're a boy who most of all loves to play, and leave studying for somebody else to take care of. Your best company is your little dog who loves to wear your baseball cap. But on a hot sunny day, the moon covered the sun, and your dog disappears. You run to your treehouse and power up your computer and secret flying machine. Taking all you need, and go to find your lost puppy. Suddenly while in the sky, you strike some black creature, which was followed by a big crash. 
+		<path>./Championship Motocross Featuring Ricky Carmichael (USA).chd</path>
+		<name>Championship Motocross 2001 featuring Ricky Carmic</name>
+		<desc>This is the sequel to Championship Motocross Featuring Ricky Carmichael.  This version has 30 of the top motocross riders including the game's namesake, Ricky Carmichael.  There are a plethora of tracks to race on that range from regular races and stunt tracks where players can pull off 50 different tricks for points in order to advance.
 
-You get off your spaceship and begin your quest, which takes in 8 worlds and 176 screens of ladders, ledges and platforms, across locations such as mountains and caves. There are puzzles to solve and precise timing sections along the way. The game features orchestral music and video sequences.</desc>
-		<image>./mixart/Heart of Darkness (USA).png</image>
-		<video>./snap/Heart of Darkness (USA).mp4</video>
-		<marquee>./wheel/Heart of Darkness (USA).png</marquee>
+There are a variety of modes including a career mode where the player can compete in races, using the money to buy better equipment and negotiate with sponsors to gain more money and notoriety.  Players can also create their own rider and use them in exhibition races or in the career mode and customize everything from the appearance to their abilities.</desc>
+		<image>./mixart/Championship Motocross Featuring Ricky Carmichael (USA).png</image>
+		<video>./snap/Championship Motocross Featuring Ricky Carmichael (USA).mp4</video>
+		<marquee>./wheel/Championship Motocross Featuring Ricky Carmichael (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20010406T000000</releasedate>
+		<developer>Funcom</developer>
+		<publisher>THQ</publisher>
+		<genre>Race, Driving-Various</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Crisis Beat (E).chd</path>
+		<name>Crisis Beat</name>
+		<desc>Much more than a beat 'em up, Crisis Beat is a blend of action and adventure rarely seen on PlayStation, wrapped up in a compelling narrative that runs throughout the game, guiding players from one exciting challenge to another.   To combat the hordes of bad guys all over the ship, you have to use stealth, strategy and be ready to brawl with the best. Depending on which character you have opted to play (a choice of four), the game AI will select the best "BOSS" to hamper your progress. This system gives players the play-it-again variety that will have them wanting to play Crisis Beat again and again.   When you can't make the grade on your own you can call on a friend to help in two player mode. Here there are two teams to choose from and, depending on which one is selected, chooses which stage and "BOSS" you start the game with.</desc>
+		<image>./mixart/Crisis Beat (E).png</image>
+		<video>./snap/Crisis Beat (E).mp4</video>
+		<marquee>./wheel/Crisis Beat (E).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19980618T000000</releasedate>
+		<developer>Studio 3</developer>
+		<publisher>Studio 3</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./CT Special Forces 3 - Bioterror.chd</path>
+		<name>CT Special Forces 3 : Bioterror</name>
+		<desc>CT Special Forces 3: Bioterror is an Action game, developed by The Code Monkeys and published by LSP, which was released in Europe in 2004.</desc>
+		<image>./mixart/CT Special Forces 3 - Bioterror.png</image>
+		<video>./snap/CT Special Forces 3 - Bioterror.mp4</video>
+		<marquee>./wheel/CT Special Forces 3 - Bioterror.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20040305T000000</releasedate>
+		<developer>Hip Interactive</developer>
+		<publisher>LSP</publisher>
+		<genre>Beat'em Up-Shooter / Run and Gun-Shooter</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Formula 1 (USA).chd</path>
+		<name>Formula 1</name>
+		<desc>Formula 1 was the first of Sony's official FIA-licensed Formula 1 games. All the cars, teams and circuits of the 1995 season are recreated in millimetric detail. Variable game modes and camera angles are included. To widen the game's appeal, it includes optional helpers such as automatic braking.
+
+The game contains a rock soundtrack including tracks by Joe Satriani and Steve Vai, and commentary from UK TV legend Murray Walker.</desc>
+		<image>./mixart/Formula 1 (USA).png</image>
+		<video>./snap/Formula 1 (USA).mp4</video>
+		<marquee>./wheel/Formula 1 (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19960901T000000</releasedate>
+		<developer>Bizarre Creations</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Race, Driving-Sports</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game id="19462" source="ScreenScraper.fr">
+		<path>./FoxKids.com - Micro Maniacs Racing (USA).chd</path>
+		<name>FoxKids.com : Micro Maniacs Racing</name>
+		<desc>Since saving the world from the impending food shortage is a tall order, our good friend Dr. Minimizer sets out to cajole, blackmail and create participants to compete for the right to lead the colonization of Earth once everyone's been shrunk to 1/30th their original size.   The mad doctor has therefore created an obstacle course in his home to find the ultimate soldier through a Darwinian style survival-of-the-fittest competition. But he's lacking participants. Once he collects eight such participants, it's off to the races to find the Earth's savior. Who'd have thought that slipping in the bathtub could potentially hold the fate of 7 billion people in its balance?</desc>
+		<image>./mixart/FoxKids.com - Micro Maniacs Racing (USA).png</image>
+		<video>./snap/FoxKids.com - Micro Maniacs Racing (USA).mp4</video>
+		<marquee>./wheel/FoxKids.com - Micro Maniacs Racing (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20000815T000000</releasedate>
+		<developer>Codemasters</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Moto Racer (USA).chd</path>
+		<name>Moto Racer</name>
+		<desc>An arcade motorcycle racer in which both superbike and motocross events are available. Game modes include Practice, Time Attack, in which players race against their own replays, Single Races against computer-controlled opponents, and a Championship Circuit. Network or Internet play for up to 8 players is available as well.
+
+Winning the championship unlocks additional courses out of the 4 road and 4 dirt tracks available, as well as the new game options Reverse and Pocket Bike. In Reverse mode the tracks are raced in the opposite direction, while in Pocket Bike mode every racer is given a miniature version of his motorcycle.
+
+A free track add-on extends the game with one additional course for sportbikes and dirtbikes each.</desc>
+		<image>./mixart/Moto Racer (USA).png</image>
+		<video>./snap/Moto Racer (USA).mp4</video>
+		<marquee>./wheel/Moto Racer (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19971130T000000</releasedate>
+		<developer>Delphine Software International</developer>
+		<publisher>Electronic Arts</publisher>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Pro Pinball - Big Race USA (USA).chd</path>
+		<name>Pro Pinball - Big Race Usa</name>
+		<desc>A whirlwind frenzy of color, sound, and adrenaline-pumping action. Take an exciting ride across the USA for your chance to compete in the big race and win hoards of cash. But watch out for the police car on your tail. Packed with more features than your local multiplex, Big Race USA brings a whole new dimension of mind-boggling realism to your PlayStation.</desc>
+		<image>./mixart/Pro Pinball - Big Race USA (USA).png</image>
+		<video>./snap/Pro Pinball - Big Race USA (USA).mp4</video>
+		<marquee>./wheel/Pro Pinball - Big Race USA (USA).png</marquee>
+		<rating>1</rating>
+		<releasedate>19700101T000000</releasedate>
+		<developer>Cunning Development</developer>
+		<publisher>Empire Interactive</publisher>
+		<genre>Pinball</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Pro Pinball - Fantastic Journey (USA).chd</path>
+		<name>Pro Pinball : Fantastic Journey</name>
+		<desc>Roll up! Roll up! Travel back to Victorian times with five steam-powered adventures. Use your flippers to tunnel to the Earth's core, journey to the ocean depths, fly through the tallest mountains and steam to a mysterious island to stop the evil General Yagov! Marvel at the most accurate ever ball physics! Balls that really spin, slide, roll and jump! Gasp in awe at the complexity of the table design, featuring bumpers, ramps, drop targets, magnets and more!</desc>
+		<image>./mixart/Pro Pinball - Fantastic Journey (USA).png</image>
+		<video>./snap/Pro Pinball - Fantastic Journey (USA).mp4</video>
+		<marquee>./wheel/Pro Pinball - Fantastic Journey (USA).png</marquee>
 		<rating>0.75</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Ocean</developer>
-		<publisher>Amazing Studios</publisher>
-		<genre>Platform-Action</genre>
+		<releasedate>19990101T000000</releasedate>
+		<genre>Pinball</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Rapid Reload (Europe).chd</path>
+		<name>Rapid Reload</name>
+		<desc>The object of interest in this game is the mysterious Valkiry Stone. Two treasure hunters, Axel and Ruka, set out to find the stone, but the evil gang known as the Pumpkin Heads wants to find the stone first.    As either Axel or Ruka, blast your way through six side-scrolling levels against hordes of enemies, facing off against several bosses in each level. You can select from four different weapon effects (normal, bouncing, homing and flamethrower), use smartbombs and a grappling hook.</desc>
+		<image>./mixart/Rapid Reload (Europe).png</image>
+		<video>./snap/Rapid Reload (Europe).mp4</video>
+		<marquee>./wheel/Rapid Reload (Europe).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950929T000000</releasedate>
+		<developer>Media.Vision Entertainment Inc.</developer>
+		<publisher>Sony Computer Entertaiment</publisher>
+		<genre>Shooter / Run and Gun-Shooter</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./X-Files, The (USA).m3u</path>
+		<name>The X-Files</name>
+		<desc>Enter the world of the X-Files as field agent Craig Willmore, assigned to assist Special Agents Fox Mulder and Dana Scully in Their latest investigation into paranormal activity. Follow a tail of elusive clues, sift through evidence at crime scenes, use a wide range of standard issue FBI equipment and special tools, conduct interviews with witness and suspects, and make critical decisions to solve an all new X-Files case.</desc>
+		<emulator>libretro</emulator>
+		<core>pcsx_rearmed</core>
+		<image>./mixart/X-Files, The (USA).png</image>
+		<video>./snap/X-Files, The (USA).mp4</video>
+		<marquee>./wheel/X-Files, The (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19990930T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Hyperbole Studios</publisher>
+		<genre>Adventure</genre>
 		<favorite>true</favorite>
 	</game>
 </gameList>

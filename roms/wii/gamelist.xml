@@ -3167,23 +3167,6 @@ Players can also take a snapshot of the worlds they've completed along with thei
 		<region>eu</region>
 		<genreid>257</genreid>
 	</game>
-	<game>
-		<path>./Excitebike - World Rally (USA) (WiiWare).wad</path>
-		<name>Excitebike : World Rally</name>
-		<desc>The classic game play of Excitebike is combined with new controls and features in this exclusive WiiWare title! 
-Prepare to face daredevil jumps, crazy obstacles, and other racers in the newest member of the venerable Excitebike franchise, exclusively available on the WiiWare service. Choose from multiple camera angles as you tilt your way to smooth landings using the motion-sensitive controls and compete in races around the world in four championship circuits. Better yet, use Nintendo Wi-Fi Connection to invite friends to a race, or if you re feeling brave, take on anyone else looking for a match. Feel like tackling a challenge of your own design? Use the intuitive Track Editor to choose from the available obstacles and put together your dream course, then share your masterpiece with friends (and vice versa) to see whose creation skills reign supreme. After all, you know what they say about riding a bikeâ€”once you ve learned how, you never forget...</desc>
-		<image>./mixart/Excitebike - World Rally (USA) (WiiWare).png</image>
-		<video>./snap/Excitebike - World Rally (USA) (WiiWare).mp4</video>
-		<marquee>./wheel/Excitebike - World Rally (USA) (WiiWare).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20091109T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="8724">
 		<path>./Metroid - Other M (USA) (En,Fr,Es) (Rev 1).rvz</path>
 		<name>Metroid: Other M</name>
@@ -3201,22 +3184,6 @@ This new approach uses a new control scheme in which players use the Wii Remote 
 		<players>1</players>
 		<lang>en,es,fr</lang>
 		<region>eu</region>
-	</game>
-	<game id="9250" source="ScreenScraper.fr">
-		<path>./Ghost Squad (USA).rvz</path>
-		<name>Ghost Squad</name>
-		<desc>Sega?s top-grossing light-gun game, Ghost Squad, comes to the Wii system and replicates the excitement of the arcade experience in your home!.The Ghost Squad is a Special Forces unit established in strict secrecy by the U.N. to combat terrorism and carry out special highly-classified missions without leaving a trace. As an elite member of the Ghost Squad, players will complete dangerous missions such as eliminating terrorist groups, releasing hostages, deactivating bombs, and even rescuing the US President when terrorists hijack Air Force One!Using the Wii Remote or Nintendo?s new Wii Zapper peripheral, players will utilize revolutionary selectable weapons including a high powered rifle, sub machine and shot gun, or even engage in hand-to-hand combat.</desc>
-		<image>./mixart/Ghost Squad (USA).png</image>
-		<video>./snap/Ghost Squad (USA).mp4</video>
-		<marquee>./wheel/Ghost Squad (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20071120T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Action-Lightgun Shooter</genre>
-		<players>2-4</players>
-		<favorite>true</favorite>
-		<region>us</region>
 	</game>
 	<game id="10249" source="ScreenScraper.fr">
 		<path>./Indianapolis 500 Legends (USA).cc.rvz</path>
@@ -3259,6 +3226,22 @@ Players can shake the Wii remote after jumping on bad guys but before hitting th
 		<favorite>true</favorite>
 		<genreid>257</genreid>
 	</game>
+	<game id="9702" source="ScreenScraper.fr">
+		<path>./Cruis'n (USA) (En,Fr,Es).rvz</path>
+		<name>Cruis'n</name>
+		<desc>The race starts in New York's Times Square, and ends in Los Angeles's Muholland Drive. The objective of this game is to outrun seven different cars by cruising through twelve different courses, doing different kind of stunts, and using the new nitrous system. This game introduces the money system which you gain money to unlock new cars. When you start the game only four tracks and four cars where unlocked. Along the way you unlock different stages and cars by gaining money or racing in the Circuit Challenge. This game allows up to two players on the track.</desc>
+		<image>./mixart/Cruis'n (USA) (En,Fr,Es).png</image>
+		<video>./snap/Cruis'n (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/Cruis'n (USA) (En,Fr,Es).png</marquee>
+		<rating>0.35</rating>
+		<releasedate>20071112T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<genreid>1537</genreid>
+	</game>
 	<game id="9759" source="ScreenScraper.fr">
 		<path>./Contra ReBirth (USA) (WiiWare).wad</path>
 		<name>Contra Rebirth</name>
@@ -3279,20 +3262,37 @@ Chief Salamander and his Neo-Salamander Force travel back to 1973 AD to invade E
 		<region>us</region>
 		<genreid>256</genreid>
 	</game>
-	<game id="9702" source="ScreenScraper.fr">
-		<path>./Cruis'n (USA) (En,Fr,Es).rvz</path>
-		<name>Cruis'n</name>
-		<desc>The race starts in New York's Times Square, and ends in Los Angeles's Muholland Drive. The objective of this game is to outrun seven different cars by cruising through twelve different courses, doing different kind of stunts, and using the new nitrous system. This game introduces the money system which you gain money to unlock new cars. When you start the game only four tracks and four cars where unlocked. Along the way you unlock different stages and cars by gaining money or racing in the Circuit Challenge. This game allows up to two players on the track.</desc>
-		<image>./mixart/Cruis'n (USA) (En,Fr,Es).png</image>
-		<video>./snap/Cruis'n (USA) (En,Fr,Es).mp4</video>
-		<marquee>./wheel/Cruis'n (USA) (En,Fr,Es).png</marquee>
-		<rating>0.35</rating>
-		<releasedate>20071112T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
+	<game>
+		<path>./Excitebike - World Rally (USA) (WiiWare).wad</path>
+		<name>Excitebike : World Rally</name>
+		<desc>The classic game play of Excitebike is combined with new controls and features in this exclusive WiiWare title! 
+Prepare to face daredevil jumps, crazy obstacles, and other racers in the newest member of the venerable Excitebike franchise, exclusively available on the WiiWare service. Choose from multiple camera angles as you tilt your way to smooth landings using the motion-sensitive controls and compete in races around the world in four championship circuits. Better yet, use Nintendo Wi-Fi Connection to invite friends to a race, or if you re feeling brave, take on anyone else looking for a match. Feel like tackling a challenge of your own design? Use the intuitive Track Editor to choose from the available obstacles and put together your dream course, then share your masterpiece with friends (and vice versa) to see whose creation skills reign supreme. After all, you know what they say about riding a bikeâ€”once you ve learned how, you never forget...</desc>
+		<image>./mixart/Excitebike - World Rally (USA) (WiiWare).png</image>
+		<video>./snap/Excitebike - World Rally (USA) (WiiWare).mp4</video>
+		<marquee>./wheel/Excitebike - World Rally (USA) (WiiWare).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20091109T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
 		<genre>Race, Driving</genre>
-		<players>2</players>
 		<favorite>true</favorite>
-		<genreid>1537</genreid>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="9250" source="ScreenScraper.fr">
+		<path>./Ghost Squad (USA).rvz</path>
+		<name>Ghost Squad</name>
+		<desc>Sega?s top-grossing light-gun game, Ghost Squad, comes to the Wii system and replicates the excitement of the arcade experience in your home!.The Ghost Squad is a Special Forces unit established in strict secrecy by the U.N. to combat terrorism and carry out special highly-classified missions without leaving a trace. As an elite member of the Ghost Squad, players will complete dangerous missions such as eliminating terrorist groups, releasing hostages, deactivating bombs, and even rescuing the US President when terrorists hijack Air Force One!Using the Wii Remote or Nintendo?s new Wii Zapper peripheral, players will utilize revolutionary selectable weapons including a high powered rifle, sub machine and shot gun, or even engage in hand-to-hand combat.</desc>
+		<image>./mixart/Ghost Squad (USA).png</image>
+		<video>./snap/Ghost Squad (USA).mp4</video>
+		<marquee>./wheel/Ghost Squad (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20071120T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action-Lightgun Shooter</genre>
+		<players>2-4</players>
+		<favorite>true</favorite>
+		<region>us</region>
 	</game>
 </gameList>

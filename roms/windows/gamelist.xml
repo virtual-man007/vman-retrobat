@@ -674,22 +674,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Huntdown.lnk</path>
-		<name>Huntdown</name>
-		<desc>In the mayhem-filled streets of the future where gangs rule and cops fear to tread, only the bounty hunters can free the city from corruption. Lay waste to the criminal underworld and make a killing in this hard boiled action comedy arcade shooter.</desc>
-		<image>./mixart/Huntdown.png</image>
-		<video>./snap/Huntdown.mp4</video>
-		<marquee>./wheel/Huntdown.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20201201T000000</releasedate>
-		<developer>Easy Trigger</developer>
-		<publisher>Coffee Stain Publishing</publisher>
-		<genre>Action, Platform</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Kung Fury - Street Rage.lnk</path>
 		<name>Kung Fury - Street Rage</name>
 		<desc>Get blown into another dimension as you experience the gutbusting fun of the KUNG FURY: STREET RAGE game. Beat the nazis to stop Kung Führer and uphold the law! BECOME THE ACTION! BECOME KUNG FURY!</desc>
@@ -3009,21 +2993,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Xeno Crisis.lnk</path>
-		<name>Xeno Crisis</name>
-		<desc>Xeno Crisis is an arena shooter in which one or two players take control of battle-hardened marines embarking on a deadly mission to confront an alien menace and get home alive! Run and gun your way through thousands of adversaries as you explore the devastated research outpost, searching for survivors, and ultimately facing the origin of the outpost's demise. Outpost 88 is divided into seven distinct areas, each being randomly generated with each play, meaning that your strategy must evolve on the fly if you're to succeed in your mission. Collect dog-tags from vanquished enemies to upgrade your equipment between areas and look out for special weapons which will give you a momentary advantage. +A faithful port of the hit 16 bit game with added extras. +Incredible pixel art from the legendary pixel artist, Henk Nieborg. +Intense FM chiptune soundtrack by Savaged Regime, originally created for the YM2612! +Two difficulty levels and three modes of play. +An arsenal of 10 weapons to master. +Play solo or local co-op with a friend!</desc>
-		<image>./mixart/Xeno Crisis.jpg</image>
-		<video>./snap/Xeno Crisis.mp4</video>
-		<marquee>./wheel/Xeno Crisis.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20191201T000000</releasedate>
-		<developer>Bitmap Bureau</developer>
-		<publisher>Independent</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Pinball Arcade.lnk</path>
 		<name>Pinball Arcade</name>
 		<desc>Pinball Arcade by FarSight Studios features exact recreations of the all-time greatest pinball tables from Stern Pinball! The Pinball Arcade is the most realistic and comprehensive pinball game ever created. Please support us in our efforts to preserve these tables and join the indelible part of Americana that is pinball!</desc>
@@ -3036,21 +3005,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<publisher>FarSight Studios</publisher>
 		<genre>Action</genre>
 		<players>4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./RetroMania Wrestling.lnk</path>
-		<name>RetroMania Wrestling</name>
-		<desc>RetroMania Wrestling is the official sequel to the classic arcade game Wrestlefest that was released in 1991 by Technos of Japan. RetroMania Wrestling will be a “pick up and play” arcade wrestling game with beautiful 2D sprites, incredible backgrounds and fast-paced arcade style game play. • 16 Unique, distinct playable wrestlers at launch (adding more post launch via DLC) • Over 15 Arenas • 3 distinct Game Modes; Story Mode, 10 Pounds of Gold, and Retro Rumble • 2-8 player local multiplayer • Several match types, including One-on-One matches, Tag Team matches, 6-Man Tag, 8-Man Tag, Cages matches with 3 different cage styles and Battle Royal.​• Ring entrances with entrance music • Strategic gameplay that is easy to pick up and play • Beautiful 2D pixel art animated sprites with over 700 frames of animation and animated backgrounds • Crowd chants that react to the action on screen • Commentary by Ian Riccaboni and Colt Cabana​.</desc>
-		<image>./mixart/RetroMania Wrestling.jpg</image>
-		<video>./snap/RetroMania Wrestling.mp4</video>
-		<marquee>./wheel/RetroMania Wrestling.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20211201T000000</releasedate>
-		<developer>Retrosoft Studios</developer>
-		<publisher>Retrosoft Studios</publisher>
-		<genre>Fighting, Sports</genre>
-		<players>8</players>
 		<favorite>true</favorite>
 	</game>
 	<game>
@@ -4205,21 +4159,6 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Wave Break.lnk</path>
-		<name>Wave Break</name>
-		<desc>Play with friends or compete online via split-screen local couch co-op and ranked online multiplayer in Trick Attack, Deathmatch and Turf War modes. Then, it’s skateBOAT or die in campaign mode as the rivalry between Wave Break’s usual suspects plays out in an episodic storyline involving guns, kickflips, and blood money. Trick out your ride and get new threads too via unlocked skills and items that’ll have you shredding Wave Break in style. From tropical beaches to frozen tundras, experience skate parks in a brand new way with a dynamic and high-tech physically-based fluid simulation. Vibe out to Wave Break’s fresh synthwave soundtrack produced by Crush Music, which will evolve and update periodically with new pack-sized EP drops, pop-up radio shows, and other creative integrations.</desc>
-		<image>./mixart/Wave Break.jpg</image>
-		<video>./snap/Wave Break.mp4</video>
-		<marquee>./wheel/Wave Break.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20210929T000000</releasedate>
-		<developer>Funktronic Labs</developer>
-		<publisher>Funktronic Labs</publisher>
-		<genre>Action, Racing</genre>
-		<players>8</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Bombshell.lnk</path>
 		<name>Bombshell</name>
 		<desc>From the creators of 2013's Rise of the Triad and legendary game maker 3D Realms comes Bombshell, an isometric action role-playing game for PC and consoles. Bomb disposal technician turned mercenary for hire, Shelly "Bombshell" Harrison must strong-arm her way across 4 planets in an Unreal Engine-powered galactic adventure to rescue the president from an apocalyptic alien threat. With out-of-this-world enemies, a never-before-seen arsenal of devastating weaponry and a host of genre-crossing mechanics, Bombshell is set to blow you away. Brilliantly brutal isometric shooting layered with classic role-playing mechanics, including experience points, upgrades, side quests, and non-linear levels. All with a twist of first-person shooter mechanics. Shell, shock, and shatter your way through vicious, bloodthirsty predators, an augmented alien species, and the remnants of an ancient race re-animated, with more than 10 weaponized arm modifications. Fierce finishing moves and interactive environments make Bombshell as dynamic as she is deadly.</desc>
@@ -4293,36 +4232,6 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Alien Breed - Impact.lnk</path>
-		<name>Alien Breed - Impact</name>
-		<desc>Alien Breed™ Impact is an explosive science fiction arcade-shooter that resurrects a much revered franchise with an epic story, swarms of highly intelligent alien enemies, high-impact weapons, highly detailed and rich environments; all implemented with superb technology in a state-of-the-art gaming experience. In addition to the thrilling single-player campaign mode, the game also offers a relentless, action-packed, online two-player co-operative battle mode.</desc>
-		<image>./mixart/Alien Breed - Impact.jpg</image>
-		<video>./snap/Alien Breed - Evolution.mp4</video>
-		<marquee>./wheel/Alien Breed - Impact.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20100929T000000</releasedate>
-		<developer>Team17</developer>
-		<publisher>Team17</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Alien Breed 2 - Assault.lnk</path>
-		<name>Alien Breed 2 - Assault</name>
-		<desc>Can you survive the alien onslaught? Alien Breed 2: Assault is the second chapter in the Alien Breed series, and is an explosive science-fiction arcade-shooter with an epic story, swarms of highly intelligent alien enemies, high-impact weaponry, highly detailed and rich environments, developed using Epic Games' Unreal Engine 3. Take control of the hero, Conrad, the ship’s Chief Engineer, and continue your fight for survival across the fatally damaged space vessel, against a ruthless assault by an alien horde. Your only hope relies on reigniting the alien space craft’s monstrous engines to rescue you from impending annihilation. Deep inside the bowels of the unfamiliar craft, and with time rapidly running out, ready your weapons and begin to claw your way through the darkness in a fight for survival. But you are not alone. The ship is home to the carnivorous alien horde and something else... something yet to reveal its true intentions... something biding its time. In addition to the thrilling single-player campaign and all new “survivor” modes, the game also offers relentless, action-packed, two-player online co-operative battle modes.</desc>
-		<image>./mixart/Alien Breed 2 - Assault.jpg</image>
-		<video>./snap/Alien Breed - Evolution.mp4</video>
-		<marquee>./wheel/Alien Breed 2 - Assault.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20100929T000000</releasedate>
-		<developer>Team17</developer>
-		<publisher>Team17</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Alien Breed 3 - Descent.lnk</path>
 		<name>Alien Breed 3 - Descent</name>
 		<desc>The award-winning atmosphere and gameplay mechanics of the original Shadowgrounds make a triumphant return in this spin off/sequel armed with a slick new feature set. Shadowgrounds Survivor tells the story of the last remaining humans on Jupiter's moon Ganymede, where the alien onslaught is in full force.</desc>
@@ -4350,22 +4259,6 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<publisher>505 Games</publisher>
 		<genre>Action, Adventure, Platform</genre>
 		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Gauntlet Slayer Edition.lnk</path>
-		<name>Gauntlet Slayer Edition</name>
-		<desc>Gauntlet is a top-down dungeon crawler and an entry in the long-running Gauntlet series. The game supports up to four online or local players working cooperatively, each using a different one of the four available hero types: Elf, Valkyrie, Warrior and Wizard.</desc>
-		<image>./mixart/Gauntlet Slayer Edition.png</image>
-		<video>./snap/Gauntlet Slayer Edition.mp4</video>
-		<marquee>./wheel/Gauntlet Slayer Edition.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20141101T000000</releasedate>
-		<developer>Arrowhead Game Studios</developer>
-		<publisher>WB Games</publisher>
-		<genre>Action, Role-Playing</genre>
-		<players>4</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
@@ -4431,20 +4324,6 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./PAC-MAN Museum.lnk</path>
-		<name>PAC-MAN Museum - Battle Royale</name>
-		<desc>Pac-Man Museum is a digital collection of Pac-Man games ported from a variety of platforms. It includes: Pac-Attack Pac-Land Pac-Man Pac-Man: Arrangement Pac-Man: Battle Royale Pac-Man: Championship Edition Pac-Mania Pac Pal Super Pac-Man The game has leaderboards for each game and uses an achievement system to fill a stamp book. Various collectibles can be earned and are stored in a Pac-Room. There is a navigation system to help find the best maze routes and progress can be saved. The arcade game Pac-Man: Battle Royale supports multiplayer for up to four players. Early buyers received Ms. Pac-Man as well. Later it was made available as DLC.</desc>
-		<image>./mixart/PAC-MAN Museum.jpg</image>
-		<video>./snap/PAC-MAN Museum.mp4</video>
-		<marquee>./wheel/PAC-MAN Museum.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20111201T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Arcade</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Sky Force Reloaded.lnk</path>
 		<name>Sky Force Reloaded</name>
 		<desc>Sky Force Reloaded is the spirit of the classic arcade shoot ‘em ups, captured with modern visuals and design. New entry in the series will keep you entertained with all the things you’ve came to love in scrolling shooters. Meaty explosions, incinerating lasers, collosal bosses and diverse aircrafts to pilot. Sky Force Reloaded is not your average scrolling shooter. It will draw you in with its beautiful environments and intense effects.</desc>
@@ -4471,21 +4350,6 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<developer>Blitworks, Mossmouth</developer>
 		<publisher>Mossmouth</publisher>
 		<genre>Platform</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Streets of Fury EX.lnk</path>
-		<name>Streets of Fury EX</name>
-		<desc>Fight the gangs of Paris in this action packed Beat'Em up. Up to 4 players can join in, to cooperate, or fight against each other! Many unlockables, game modes, crazy combos and devastating furies await you in this deep fighting game. Key Features: Oldschool “go right” beat’em up 4 players local Co-op and competitive play 17 playable characters The depth of a versus fighting game in a side-scrolling beat'em up Lots of moves, special moves, furies, cancels, chain combos, air combos, dodge, etc. Increase the Security Level to unlock new characters, game modes, and more... Story mode : Hunt the gang leaders in their respective districts Alternate Story mode : Build your own gang! Versus mode : Free for all and team battle for some multiplayer mayhem Survival mode : How long can you survive endless waves of enemies? Challenge mode : Try some time attack on special levels Featuring a whole new soundtrack by K93. Play with any controller Featuring famous youtuber Benzaie as the Hard Corner.</desc>
-		<image>./mixart/Streets of Fury EX.jpg</image>
-		<video>./snap/Streets of Fury EX.mp4</video>
-		<marquee>./wheel/Streets of Fury EX.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20151201T000000</releasedate>
-		<developer>Guard Crush Games</developer>
-		<publisher>Guard Crush Games</publisher>
-		<genre>Action</genre>
 		<players>4</players>
 		<favorite>true</favorite>
 	</game>
@@ -4532,6 +4396,161 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<publisher>PikPok</publisher>
 		<genre>Racing</genre>
 		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Alien Breed - Impact.lnk</path>
+		<name>Alien Breed - Impact</name>
+		<desc>Alien Breed™ Impact is an explosive science fiction arcade-shooter that resurrects a much revered franchise with an epic story, swarms of highly intelligent alien enemies, high-impact weapons, highly detailed and rich environments; all implemented with superb technology in a state-of-the-art gaming experience. In addition to the thrilling single-player campaign mode, the game also offers a relentless, action-packed, online two-player co-operative battle mode.</desc>
+		<image>./mixart/Alien Breed - Impact.jpg</image>
+		<video>./snap/Alien Breed - Evolution.mp4</video>
+		<marquee>./wheel/Alien Breed - Impact.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20100929T000000</releasedate>
+		<developer>Team17</developer>
+		<publisher>Team17</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Alien Breed 2 - Assault.lnk</path>
+		<name>Alien Breed 2 - Assault</name>
+		<desc>Can you survive the alien onslaught? Alien Breed 2: Assault is the second chapter in the Alien Breed series, and is an explosive science-fiction arcade-shooter with an epic story, swarms of highly intelligent alien enemies, high-impact weaponry, highly detailed and rich environments, developed using Epic Games' Unreal Engine 3. Take control of the hero, Conrad, the ship’s Chief Engineer, and continue your fight for survival across the fatally damaged space vessel, against a ruthless assault by an alien horde. Your only hope relies on reigniting the alien space craft’s monstrous engines to rescue you from impending annihilation. Deep inside the bowels of the unfamiliar craft, and with time rapidly running out, ready your weapons and begin to claw your way through the darkness in a fight for survival. But you are not alone. The ship is home to the carnivorous alien horde and something else... something yet to reveal its true intentions... something biding its time. In addition to the thrilling single-player campaign and all new “survivor” modes, the game also offers relentless, action-packed, two-player online co-operative battle modes.</desc>
+		<image>./mixart/Alien Breed 2 - Assault.jpg</image>
+		<video>./snap/Alien Breed - Evolution.mp4</video>
+		<marquee>./wheel/Alien Breed 2 - Assault.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20100929T000000</releasedate>
+		<developer>Team17</developer>
+		<publisher>Team17</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Gauntlet Slayer Edition.lnk</path>
+		<name>Gauntlet Slayer Edition</name>
+		<desc>Gauntlet is a top-down dungeon crawler and an entry in the long-running Gauntlet series. The game supports up to four online or local players working cooperatively, each using a different one of the four available hero types: Elf, Valkyrie, Warrior and Wizard.</desc>
+		<image>./mixart/Gauntlet Slayer Edition.png</image>
+		<video>./snap/Gauntlet Slayer Edition.mp4</video>
+		<marquee>./wheel/Gauntlet Slayer Edition.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20141101T000000</releasedate>
+		<developer>Arrowhead Game Studios</developer>
+		<publisher>WB Games</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Huntdown.lnk</path>
+		<name>Huntdown</name>
+		<desc>In the mayhem-filled streets of the future where gangs rule and cops fear to tread, only the bounty hunters can free the city from corruption. Lay waste to the criminal underworld and make a killing in this hard boiled action comedy arcade shooter.</desc>
+		<image>./mixart/Huntdown.png</image>
+		<video>./snap/Huntdown.mp4</video>
+		<marquee>./wheel/Huntdown.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20201201T000000</releasedate>
+		<developer>Easy Trigger</developer>
+		<publisher>Coffee Stain Publishing</publisher>
+		<genre>Action, Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./PAC-MAN Museum.lnk</path>
+		<name>PAC-MAN Museum - Battle Royale</name>
+		<desc>Pac-Man Museum is a digital collection of Pac-Man games ported from a variety of platforms. It includes: Pac-Attack Pac-Land Pac-Man Pac-Man: Arrangement Pac-Man: Battle Royale Pac-Man: Championship Edition Pac-Mania Pac Pal Super Pac-Man The game has leaderboards for each game and uses an achievement system to fill a stamp book. Various collectibles can be earned and are stored in a Pac-Room. There is a navigation system to help find the best maze routes and progress can be saved. The arcade game Pac-Man: Battle Royale supports multiplayer for up to four players. Early buyers received Ms. Pac-Man as well. Later it was made available as DLC.</desc>
+		<image>./mixart/PAC-MAN Museum.jpg</image>
+		<video>./snap/PAC-MAN Museum.mp4</video>
+		<marquee>./wheel/PAC-MAN Museum.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20111201T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Arcade</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./RetroMania Wrestling.lnk</path>
+		<name>RetroMania Wrestling</name>
+		<desc>RetroMania Wrestling is the official sequel to the classic arcade game Wrestlefest that was released in 1991 by Technos of Japan. RetroMania Wrestling will be a “pick up and play” arcade wrestling game with beautiful 2D sprites, incredible backgrounds and fast-paced arcade style game play. • 16 Unique, distinct playable wrestlers at launch (adding more post launch via DLC) • Over 15 Arenas • 3 distinct Game Modes; Story Mode, 10 Pounds of Gold, and Retro Rumble • 2-8 player local multiplayer • Several match types, including One-on-One matches, Tag Team matches, 6-Man Tag, 8-Man Tag, Cages matches with 3 different cage styles and Battle Royal.​• Ring entrances with entrance music • Strategic gameplay that is easy to pick up and play • Beautiful 2D pixel art animated sprites with over 700 frames of animation and animated backgrounds • Crowd chants that react to the action on screen • Commentary by Ian Riccaboni and Colt Cabana​.</desc>
+		<image>./mixart/RetroMania Wrestling.jpg</image>
+		<video>./snap/RetroMania Wrestling.mp4</video>
+		<marquee>./wheel/RetroMania Wrestling.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20211201T000000</releasedate>
+		<developer>Retrosoft Studios</developer>
+		<publisher>Retrosoft Studios</publisher>
+		<genre>Fighting, Sports</genre>
+		<players>8</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Streets of Fury EX.lnk</path>
+		<name>Streets of Fury EX</name>
+		<desc>Fight the gangs of Paris in this action packed Beat'Em up. Up to 4 players can join in, to cooperate, or fight against each other! Many unlockables, game modes, crazy combos and devastating furies await you in this deep fighting game. Key Features: Oldschool “go right” beat’em up 4 players local Co-op and competitive play 17 playable characters The depth of a versus fighting game in a side-scrolling beat'em up Lots of moves, special moves, furies, cancels, chain combos, air combos, dodge, etc. Increase the Security Level to unlock new characters, game modes, and more... Story mode : Hunt the gang leaders in their respective districts Alternate Story mode : Build your own gang! Versus mode : Free for all and team battle for some multiplayer mayhem Survival mode : How long can you survive endless waves of enemies? Challenge mode : Try some time attack on special levels Featuring a whole new soundtrack by K93. Play with any controller Featuring famous youtuber Benzaie as the Hard Corner.</desc>
+		<image>./mixart/Streets of Fury EX.jpg</image>
+		<video>./snap/Streets of Fury EX.mp4</video>
+		<marquee>./wheel/Streets of Fury EX.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20151201T000000</releasedate>
+		<developer>Guard Crush Games</developer>
+		<publisher>Guard Crush Games</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Wave Break.lnk</path>
+		<name>Wave Break</name>
+		<desc>Play with friends or compete online via split-screen local couch co-op and ranked online multiplayer in Trick Attack, Deathmatch and Turf War modes. Then, it’s skateBOAT or die in campaign mode as the rivalry between Wave Break’s usual suspects plays out in an episodic storyline involving guns, kickflips, and blood money. Trick out your ride and get new threads too via unlocked skills and items that’ll have you shredding Wave Break in style. From tropical beaches to frozen tundras, experience skate parks in a brand new way with a dynamic and high-tech physically-based fluid simulation. Vibe out to Wave Break’s fresh synthwave soundtrack produced by Crush Music, which will evolve and update periodically with new pack-sized EP drops, pop-up radio shows, and other creative integrations.</desc>
+		<image>./mixart/Wave Break.jpg</image>
+		<video>./snap/Wave Break.mp4</video>
+		<marquee>./wheel/Wave Break.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20210929T000000</releasedate>
+		<developer>Funktronic Labs</developer>
+		<publisher>Funktronic Labs</publisher>
+		<genre>Action, Racing</genre>
+		<players>8</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Xeno Crisis.lnk</path>
+		<name>Xeno Crisis</name>
+		<desc>Xeno Crisis is an arena shooter in which one or two players take control of battle-hardened marines embarking on a deadly mission to confront an alien menace and get home alive! Run and gun your way through thousands of adversaries as you explore the devastated research outpost, searching for survivors, and ultimately facing the origin of the outpost's demise. Outpost 88 is divided into seven distinct areas, each being randomly generated with each play, meaning that your strategy must evolve on the fly if you're to succeed in your mission. Collect dog-tags from vanquished enemies to upgrade your equipment between areas and look out for special weapons which will give you a momentary advantage. +A faithful port of the hit 16 bit game with added extras. +Incredible pixel art from the legendary pixel artist, Henk Nieborg. +Intense FM chiptune soundtrack by Savaged Regime, originally created for the YM2612! +Two difficulty levels and three modes of play. +An arsenal of 10 weapons to master. +Play solo or local co-op with a friend!</desc>
+		<image>./mixart/Xeno Crisis.jpg</image>
+		<video>./snap/Xeno Crisis.mp4</video>
+		<marquee>./wheel/Xeno Crisis.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>Bitmap Bureau</developer>
+		<publisher>Independent</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Mashed.lnk</path>
+		<name>Mashed - Drive to Survive</name>
+		<desc>Mashed is an action-packed top-down arcade-racer. On 13 tracks (which must be played free in single-player first) you need all your driving skills to survive and make it to the finish as the 1st with one of the four different cars available (from slow ones to really fast ones). 
+ 
+The heart of the single-player mode (besides the quick battle against the AI) are the bronze, silver and gold challenges for every track you need to complete to play free the next track. Each challenge is one of the seven (eight in multiplayer) game modes available in Mashed. From normal race-events (just be the 1st) over battles where you need to kill all your enemies before they do to the ultimate survival mode where everyone doesn't really like you. 
+ 
+To make things much easier there are nine different power-ups and weapons scattered on the tracks which you can pick up. From simple oil slicks over mines to deadly mortars there's everything you need to kick the enemy drivers out of the race. Of course they can also choose from the equipment. As you can only survive a few hits you need to make sure they can't use them on you. And to make it even worse there are many small passages (or the track is just one small passage...) with nothing on one or both sides of the track in which you or your enemy can fall very deep.</desc>
+		<image>./mixart/Drive to Survive (USA).png</image>
+		<video>./snap/Drive to Survive (USA).mp4</video>
+		<marquee>./wheel/Drive to Survive (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20040618T000000</releasedate>
+		<developer>Supersonic Software</developer>
+		<publisher>Empire Interactive</publisher>
+		<genre>Action-Race, Driving</genre>
+		<players>4</players>
 		<favorite>true</favorite>
 	</game>
 </gameList>

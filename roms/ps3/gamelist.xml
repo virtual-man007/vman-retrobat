@@ -1232,4 +1232,19 @@ Swords in game can be customized and leveled up to increase its length, width, a
 		<favorite>true</favorite>
 		<genreid>768</genreid>
 	</game>
+	<game>
+		<path>./Hajime No Ippo - The Fighting! (Japan).m3u</path>
+		<name>Hajime No Ippo - The Fighting! (Japan)</name>
+		<desc>The game is a third-person fighting game following the Hajime no Ippo story. In the Japanese gameplay trailer the newest character shown is Sawamura Ryuuhei, which indicates the story may cover up to Volume 55, though it also hints at a Mashiba vs. Sawamura match from Volume 72-74. It features a "Best Match Mode" which enables alternate timelines; if Ippo defeats Date Eiji in this mode, he can become the champion sooner and challenge other boxers than he would have in the manga. Other non-canon matches include Miyata vs. Itagaki and Sawamura vs. Sendou. The trailer shows Ippo skipping his match with Ponchai Chuwatana in Best Match Mode, suggesting that certain characters will not appear despite the storyline requiring them.</desc>
+		<image>./mixart/Hajime No Ippo - The Fighting! (Japan).png</image>
+		<video>./snap/Hajime No Ippo - The Fighting! (Japan).mp4</video>
+		<marquee>./wheel/Hajime No Ippo - The Fighting! (Japan).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20141105T000000</releasedate>
+		<developer>Bandai</developer>
+		<publisher>Bandai</publisher>
+		<genre>Fighting, Sports</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
 </gameList>

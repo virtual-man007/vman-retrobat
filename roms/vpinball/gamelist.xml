@@ -2664,21 +2664,6 @@
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./HALO.vpx</path>
-		<name>HALO</name>
-		<desc>Flipper HALO</desc>
-		<image>./mixart/HALO.png</image>
-		<video>./snap/HALO.mp4</video>
-		<marquee>./wheel/HALO.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Tron Legacy (Stern 2011) (1.6, SSF, Lightmod 1.2, NPC).vpx</path>
 		<name>Tron Legacy</name>
 		<desc>The Ultimate Tron Legacy virtual pinball cabinet experience!</desc>
@@ -2785,21 +2770,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Black Tiger Pinball (Williams 1981).vpx</path>
-		<name>Black Tiger Pinball (Williams 1981)</name>
-		<desc>Flipper Black Tiger Pinball (Williams 1981)</desc>
-		<image>./mixart/Black Tiger Pinball (Williams 1981).png</image>
-		<video>./snap/Black Tiger Pinball (Williams 1981).mp4</video>
-		<marquee>./wheel/Black Tiger Pinball (Williams 1981).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./TRON Classic (Original 2021) Mod v1.03.vpx</path>
 		<name>TRON Classic (Original 2021) Mod v1.03</name>
 		<desc>Flipper TRON Classic (Original 2021) Mod v1.03</desc>
@@ -2859,5 +2829,35 @@
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Black Tiger Pinball (Williams 1981).vpx</path>
+		<name>Black Tiger Pinball (Williams 1981)</name>
+		<desc>Flipper Black Tiger Pinball (Williams 1981)</desc>
+		<image>./mixart/Black Tiger Pinball (Williams 1981).png</image>
+		<video>./snap/Black Tiger Pinball (Williams 1981).mp4</video>
+		<marquee>./wheel/Black Tiger Pinball (Williams 1981).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./HALO.vpx</path>
+		<name>HALO</name>
+		<desc>Flipper HALO</desc>
+		<image>./mixart/HALO.png</image>
+		<video>./snap/HALO.mp4</video>
+		<marquee>./wheel/HALO.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

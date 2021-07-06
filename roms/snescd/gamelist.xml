@@ -1813,26 +1813,6 @@ There are various enemies - alien fauna - lurking around planet Zebes. The enemi
 		<publisher>Enix</publisher>
 		<genre>Platform-Action</genre>
 	</game>
-	<game>
-		<path>./Contra_III_-_The_Alien_Wars_(USA)_(MSU1).sfc</path>
-		<name>Contra III - The Alien Wars</name>
-		<desc>It's time for revenge...
-
-The hideous Red Falcon, thought to have been destroyed long ago by the Earth's greatest commandos, Mad Dog and Scorpian, has risen again, this time pissed off and thirsty for revenge. His armies are marching through the cities, across the lands, and with the intention of exterminating the human race like a bad case of fleas. Two new commandos, Jimbo and Sully, have come forth now to kick Red Falcon's ass and save what remains of the world from his hideous plans!
-
-The Alien Wars begin!!!</desc>
-		<image>./mixart/Contra_III_-_The_Alien_Wars_(USA)_(MSU1).png</image>
-		<video>./snap/Contra_III_-_The_Alien_Wars_(USA)_(MSU1).mp4</video>
-		<marquee>./wheel/Contra_III_-_The_Alien_Wars_(USA)_(MSU1).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19921119T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game source="ScreenScraper">
 		<path>./Street Fighter 2 Turbo (MSU-1).smc</path>
 		<name>Street Fighter 2 Turbo (MSU-1)</name>
@@ -1853,6 +1833,26 @@ The Alien Wars begin!!!</desc>
 		<releasedate>19951031T000000</releasedate>
 		<developer>Konami</developer>
 		<publisher>Konami</publisher>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Contra_III_-_The_Alien_Wars_(USA)_(MSU1).sfc</path>
+		<name>Contra III - The Alien Wars</name>
+		<desc>It's time for revenge...
+
+The hideous Red Falcon, thought to have been destroyed long ago by the Earth's greatest commandos, Mad Dog and Scorpian, has risen again, this time pissed off and thirsty for revenge. His armies are marching through the cities, across the lands, and with the intention of exterminating the human race like a bad case of fleas. Two new commandos, Jimbo and Sully, have come forth now to kick Red Falcon's ass and save what remains of the world from his hideous plans!
+
+The Alien Wars begin!!!</desc>
+		<image>./mixart/Contra_III_-_The_Alien_Wars_(USA)_(MSU1).png</image>
+		<video>./snap/Contra_III_-_The_Alien_Wars_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Contra_III_-_The_Alien_Wars_(USA)_(MSU1).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19921119T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>

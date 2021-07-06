@@ -265,22 +265,6 @@ The newest feature of this game (other than the much better graphics) is the onl
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game>
-		<path>./God of War II (USA).gz</path>
-		<name>God of War II</name>
-		<desc>Kratos, thanks to your help, is no longer a lowly mortal but a legendary god. The former warrior of Sparta has not been the same after usurping Ares, however. His mind is filled with persistent thoughts of blood, brutal suffering, and violent conflict, as the rest of the gods on Mount Olympus embroil themselves in petty politics and duplicitous deeds. Kratos wishes to end his torment, and he makes a solemn oath to end his reign as the God of War in unprecedented fashion: by permanently altering his fate. God of War II has you twirling Kratos' twin blades for more adventurous action in Ancient Greece, as the grim hero encounters an assortment of new mythological creatures and environmental dangers on his path to redemption.</desc>
-		<image>./mixart/God of War II (USA).png</image>
-		<video>./snap/God of War II (USA).mp4</video>
-		<marquee>./wheel/God of War II (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20070313T000000</releasedate>
-		<developer>SCE Santa Monica Studio</developer>
-		<publisher>Sony</publisher>
-		<genre>Beat'em Up</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="22923" source="ScreenScraper.fr">
 		<path>./Freekstyle (USA).gz</path>
 		<name>Freekstyle</name>
@@ -4790,24 +4774,6 @@ Clank is not a playable character in this game, although he gives advice to Ratc
 		<region>us</region>
 		<genreid>256</genreid>
 	</game>
-	<game id="23326" source="ScreenScraper.fr">
-		<path>./Red Star, The (USA).gz</path>
-		<name>The Red Star</name>
-		<desc>This game is a mix of different types of games. It has been described as a fighting, action, and shooter game rolled into one. RPG elements are also apparent as players have the option of upgrading certain attributes of a character depending on how well levels are completed. 
-This story is based on The Red Star graphic novel, set in a futuristic, magic-using Soviet Union, which uses floating Skyfurnaces (gigantic magical ships, reminiscent of all-metal blimps) and Warkasters (sorcerers) to conquer its enemies.</desc>
-		<image>./mixart/Red Star, The (USA).png</image>
-		<video>./snap/Red Star, The (USA).mp4</video>
-		<marquee>./wheel/Red Star, The (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20070406T000000</releasedate>
-		<developer>XS Games</developer>
-		<publisher>Take 2 Interactive</publisher>
-		<genre>Shoot'em Up-Beat'em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>260</genreid>
-	</game>
 	<game id="22009" source="ScreenScraper.fr">
 		<path>./Resident Evil - Outbreak (USA) (v2.00).gz</path>
 		<name>Resident Evil : Outbreak</name>
@@ -7198,25 +7164,6 @@ Once you've got the computer down for the count, you can play with any fighter o
 		<favorite>true</favorite>
 		<genreid>263</genreid>
 	</game>
-	<game id="22810" source="ScreenScraper.fr">
-		<path>./Drive to Survive (USA).gz</path>
-		<name>Mashed - Drive to Survive</name>
-		<desc>Mashed is an action-packed top-down arcade-racer. On 13 tracks (which must be played free in single-player first) you need all your driving skills to survive and make it to the finish as the 1st with one of the four different cars available (from slow ones to really fast ones). 
- 
-The heart of the single-player mode (besides the quick battle against the AI) are the bronze, silver and gold challenges for every track you need to complete to play free the next track. Each challenge is one of the seven (eight in multiplayer) game modes available in Mashed. From normal race-events (just be the 1st) over battles where you need to kill all your enemies before they do to the ultimate survival mode where everyone doesn't really like you. 
- 
-To make things much easier there are nine different power-ups and weapons scattered on the tracks which you can pick up. From simple oil slicks over mines to deadly mortars there's everything you need to kick the enemy drivers out of the race. Of course they can also choose from the equipment. As you can only survive a few hits you need to make sure they can't use them on you. And to make it even worse there are many small passages (or the track is just one small passage...) with nothing on one or both sides of the track in which you or your enemy can fall very deep.</desc>
-		<image>./mixart/Drive to Survive (USA).png</image>
-		<video>./snap/Drive to Survive (USA).mp4</video>
-		<marquee>./wheel/Drive to Survive (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20040618T000000</releasedate>
-		<developer>Supersonic Software</developer>
-		<publisher>Empire Interactive</publisher>
-		<genre>Action-Race, Driving</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-	</game>
 	<game id="21933" source="ScreenScraper.fr">
 		<path>./Ratchet &amp; Clank - Up Your Arsenal (USA) (En,Fr,Es).gz</path>
 		<name>Ratchet &amp; Clank : Up Your Arsenal</name>
@@ -7235,6 +7182,56 @@ To make things much easier there are nine different power-ups and weapons scatte
 		<genreid>257</genreid>
 	</game>
 	<game>
+		<path>./OutRun 2006 - Coast 2 Coast (USA).gz</path>
+		<name>OutRun 2006 : Coast 2 Coast</name>
+		<desc>OutRun 2006: Coast 2 Coast features 15 unique cars, the most ever seen in any OutRun game. In addition to the ten cars from OutRun 2 SP, new models include the 550 Barchetta, F355 Spider, Superamerica, 328 GTS, and the Ferrari F430. Some models cannot be unlocked on the PlayStation Portable or PlayStation 2 without the use of the cross-system connectivity feature inherent of the two systems.</desc>
+		<image>./mixart/OutRun 2006 - Coast 2 Coast (USA).png</image>
+		<video>./snap/OutRun 2006 - Coast 2 Coast (USA).mp4</video>
+		<marquee>./wheel/OutRun 2006 - Coast 2 Coast (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20060331T000000</releasedate>
+		<developer>Sumo Digital</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
+		<players>2-6</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./God of War II (USA).gz</path>
+		<name>God of War II</name>
+		<desc>Kratos, thanks to your help, is no longer a lowly mortal but a legendary god. The former warrior of Sparta has not been the same after usurping Ares, however. His mind is filled with persistent thoughts of blood, brutal suffering, and violent conflict, as the rest of the gods on Mount Olympus embroil themselves in petty politics and duplicitous deeds. Kratos wishes to end his torment, and he makes a solemn oath to end his reign as the God of War in unprecedented fashion: by permanently altering his fate. God of War II has you twirling Kratos' twin blades for more adventurous action in Ancient Greece, as the grim hero encounters an assortment of new mythological creatures and environmental dangers on his path to redemption.</desc>
+		<image>./mixart/God of War II (USA).png</image>
+		<video>./snap/God of War II (USA).mp4</video>
+		<marquee>./wheel/God of War II (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20070313T000000</releasedate>
+		<developer>SCE Santa Monica Studio</developer>
+		<publisher>Sony</publisher>
+		<genre>Beat'em Up</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="23326" source="ScreenScraper.fr">
+		<path>./Red Star, The (USA).gz</path>
+		<name>The Red Star</name>
+		<desc>This game is a mix of different types of games. It has been described as a fighting, action, and shooter game rolled into one. RPG elements are also apparent as players have the option of upgrading certain attributes of a character depending on how well levels are completed. 
+This story is based on The Red Star graphic novel, set in a futuristic, magic-using Soviet Union, which uses floating Skyfurnaces (gigantic magical ships, reminiscent of all-metal blimps) and Warkasters (sorcerers) to conquer its enemies.</desc>
+		<image>./mixart/Red Star, The (USA).png</image>
+		<video>./snap/Red Star, The (USA).mp4</video>
+		<marquee>./wheel/Red Star, The (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20070406T000000</releasedate>
+		<developer>XS Games</developer>
+		<publisher>Take 2 Interactive</publisher>
+		<genre>Shoot'em Up-Beat'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>260</genreid>
+	</game>
+	<game>
 		<path>./Contra - Shattered Soldier (USA).gz</path>
 		<name>Contra : Shattered Soldier</name>
 		<desc>Making its debut in the arcades in 1987 and, more pervasively, on the NES in 1988, the long-running Contra series continues with Contra: Shattered Soldier for the PlayStation 2. The game maintains its old-school, 2D platforming roots, but is enhanced with 3D polygonal models and unlockable endings and levels based on player performance (such as percentage of enemies killed).</desc>
@@ -7251,20 +7248,23 @@ To make things much easier there are nine different power-ups and weapons scatte
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game>
-		<path>./OutRun 2006 - Coast 2 Coast (USA).gz</path>
-		<name>OutRun 2006 : Coast 2 Coast</name>
-		<desc>OutRun 2006: Coast 2 Coast features 15 unique cars, the most ever seen in any OutRun game. In addition to the ten cars from OutRun 2 SP, new models include the 550 Barchetta, F355 Spider, Superamerica, 328 GTS, and the Ferrari F430. Some models cannot be unlocked on the PlayStation Portable or PlayStation 2 without the use of the cross-system connectivity feature inherent of the two systems.</desc>
-		<image>./mixart/OutRun 2006 - Coast 2 Coast (USA).png</image>
-		<video>./snap/OutRun 2006 - Coast 2 Coast (USA).mp4</video>
-		<marquee>./wheel/OutRun 2006 - Coast 2 Coast (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20060331T000000</releasedate>
-		<developer>Sumo Digital</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving</genre>
-		<players>2-6</players>
-		<lang>en</lang>
-		<region>us</region>
+	<game id="22810" source="ScreenScraper.fr">
+		<path>./Drive to Survive (USA).gz</path>
+		<name>Mashed - Drive to Survive</name>
+		<desc>Mashed is an action-packed top-down arcade-racer. On 13 tracks (which must be played free in single-player first) you need all your driving skills to survive and make it to the finish as the 1st with one of the four different cars available (from slow ones to really fast ones). 
+ 
+The heart of the single-player mode (besides the quick battle against the AI) are the bronze, silver and gold challenges for every track you need to complete to play free the next track. Each challenge is one of the seven (eight in multiplayer) game modes available in Mashed. From normal race-events (just be the 1st) over battles where you need to kill all your enemies before they do to the ultimate survival mode where everyone doesn't really like you. 
+ 
+To make things much easier there are nine different power-ups and weapons scattered on the tracks which you can pick up. From simple oil slicks over mines to deadly mortars there's everything you need to kick the enemy drivers out of the race. Of course they can also choose from the equipment. As you can only survive a few hits you need to make sure they can't use them on you. And to make it even worse there are many small passages (or the track is just one small passage...) with nothing on one or both sides of the track in which you or your enemy can fall very deep.</desc>
+		<image>./mixart/Drive to Survive (USA).png</image>
+		<video>./snap/Drive to Survive (USA).mp4</video>
+		<marquee>./wheel/Drive to Survive (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20040618T000000</releasedate>
+		<developer>Supersonic Software</developer>
+		<publisher>Empire Interactive</publisher>
+		<genre>Action-Race, Driving</genre>
+		<players>4</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

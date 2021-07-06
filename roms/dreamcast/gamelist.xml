@@ -3398,23 +3398,6 @@ The tracks are set in canals of major cities, like London, Amsterdam and New Yor
 		<lang>jp</lang>
 		<region>jp</region>
 	</game>
-	<game>
-		<path>./Dead or Alive 2 - Limited Edition (Japan).chd</path>
-		<name>Dead or Alive 2 Limited Edition</name>
-		<desc>Limited Edition - The arcade conversion adds an improved tag feature, with new stadiums to fight in, new character moves to play with, and plenty of windows, walls and ledges to fall over and crash through. Unlike Tekken Tag Tournament, however, DOA2 also includes a single player mode, a dodge button (allowing you to move left and right away from attacks), and multi-level arenas.</desc>
-		<image>./mixart/Dead or Alive 2 - Limited Edition (Japan).png</image>
-		<video>./snap/Dead or Alive 2 - Limited Edition (Japan).mp4</video>
-		<marquee>./wheel/Dead or Alive 2 - Limited Edition (Japan).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20000229T000000</releasedate>
-		<developer>Tecmo</developer>
-		<publisher>Acclaim</publisher>
-		<genre>Fight</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
 	<game id="13600" source="ScreenScraper.fr">
 		<path>./Cannon Spike (USA).chd</path>
 		<name>Cannon Spike</name>
@@ -4755,5 +4738,22 @@ Sega Rally 2 contains several modes of play. The first mode is the simple arcade
 		<genre>Shoot'em Up</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Dead or Alive 2 - Limited Edition (Japan).chd</path>
+		<name>Dead or Alive 2 Limited Edition</name>
+		<desc>Limited Edition - The arcade conversion adds an improved tag feature, with new stadiums to fight in, new character moves to play with, and plenty of windows, walls and ledges to fall over and crash through. Unlike Tekken Tag Tournament, however, DOA2 also includes a single player mode, a dodge button (allowing you to move left and right away from attacks), and multi-level arenas.</desc>
+		<image>./mixart/Dead or Alive 2 - Limited Edition (Japan).png</image>
+		<video>./snap/Dead or Alive 2 - Limited Edition (Japan).mp4</video>
+		<marquee>./wheel/Dead or Alive 2 - Limited Edition (Japan).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20000229T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Fight</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>jp</lang>
+		<region>jp</region>
 	</game>
 </gameList>

@@ -647,4 +647,19 @@ But all is not so simple in the world of golf. To best today's players you have 
 		<favorite>true</favorite>
 		<genreid>1538</genreid>
 	</game>
+	<game>
+		<path>./Mario_Golf_Super_Rush.nsp</path>
+		<name>Mario Golf: Super Rush</name>
+		<desc>Golf with a Mushroom Kingdom twist! Hit the green with up to four players locally and golf with friends from the Super Mario series like Mario, Peach, Yoshi, and more! Modes range from Standard Golf to the energetic Speed Golf and an exciting Golf Adventure. Simple motion or button controls make it easy for both new players and seasoned pros to drive and putt. Choose from one of 16 characters from the Super Mario series and hit the green in several modes! Take it slow in Standard Golf and choose from 3-18 holes across 6 different courses that range from lush scenery to windy wilds. Intuitive controls and a shot gauge that adapts to the curve of the course make it easy for both new players and seasoned pros to drive and putt. Characters include Mario Golf veterans like Mario, Luigi, and Peach. Characters like Pauline and Chargin’ Chuck are also here to make their debut on the green. In addition to the frenetic Speed Golf, you can also enjoy simultaneously swinging in Battle Golf. The neon-soaked Super Golf Stadium has 9 open holes—first player to get 3 flags wins! Use obstacles, including Thwomps, Chain Chomps, Bob-ombs, and banana peels to your advantage. Up to four players** can join the fast and flashy fun.</desc>
+		<image>./mixart/Mario_Golf_Super_Rush.jpg</image>
+		<video>./snap/Mario_Golf_Super_Rush.mp4</video>
+		<marquee>./wheel/Mario_Golf_Super_Rush.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20210928T000000</releasedate>
+		<developer>Camelot</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports / Golf-Adventure</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
 </gameList>
