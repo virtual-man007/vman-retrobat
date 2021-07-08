@@ -510,4 +510,18 @@ NOTE: Requires keyboard to exit!</desc>
 		<genre>Emulator</genre>
 		<favorite>true</favorite>
 	</game>
+	<game>
+		<path>./Star Wars - Tie Fighter Total Conversion.lnk</path>
+		<name>Star Wars - Tie Fighter Total Conversion</name>
+		<desc>Star Wars - X-Wing Alliance re-imagined/enhanced (fanmade)! Out of countless Star Wars video games, 1994’s TIE Fighter remains a beloved classic, throwing you into the titular Imperial starfighters and letting you blast away at rebels, pirates, and traitors. Twenty-five years later, a new fan mod has fully updated TIE Fighter with new graphics, widescreen support, new missions, and more. The result is an updated game that, as the mod team puts it, imagines “how TIE Fighter could've been had the technology of the time not limited it.”</desc>
+		<image>./mixart/Tie Fighter Total Conversion.png</image>
+		<video>./snap/Tie Fighter Total Conversion.mp4</video>
+		<marquee>./wheel/Tie Fighter Total Conversion.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>2021</releasedate>
+		<developer>LucasArts/Fanmade</developer>
+		<publisher>LucasArts/Fanmade</publisher>
+		<genre>Action, Flight Simulator</genre>
+		<favorite>true</favorite>
+	</game>
 </gameList>
