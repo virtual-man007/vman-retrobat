@@ -430,4 +430,35 @@
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
+	<game>
+		<path>./Tron Classic.cmd</path>
+		<name>Tron Classic</name>
+		<desc>Kevin, a software programmer, is dragged into the virtual world where he is pitted against a malevolent software. He takes the help of Tron, a security programme that helps him defeat the villain. This game is an HD adaptation of the work Disney original Tron Movie.</desc>
+		<image>./mixart/Tron Classic.png</image>
+		<video>./snap/Tron Classic.mp4</video>
+		<marquee>./wheel/Tron Classic.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20210101T000000</releasedate>
+		<developer>Fan Made</developer>
+		<publisher>Fan Made</publisher>
+		<genre>Quick Time Event (QTE)</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Altered Carbon.cmd</path>
+		<name>Altered Carbon</name>
+		<desc>On the planet Latimer, reawakened Takeshi Kovacs must protect a teenage tattooist named Holly while investigating the death of a yakuza boss alongside Gina, a strangely familiar no-nonsense CTAC agent."</desc>
+		<image>./mixart/Altered Carbon.png</image>
+		<video>./snap/Altered Carbon.mp4</video>
+		<marquee>./wheel/Altered Carbon.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20210101T000000</releasedate>
+		<developer>Fan Made</developer>
+		<publisher>Fan Made</publisher>
+		<genre>Quick Time Event (QTE)</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
 </gameList>
