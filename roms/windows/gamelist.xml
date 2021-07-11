@@ -3896,21 +3896,6 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Hotshot Racing.lnk</path>
-		<name>Hotshot Racing</name>
-		<desc>Hotshot Racing is a blisteringly fast arcade-style racing game fusing drift handling, razor-sharp retro visuals and an incredible sense of speed to create an exhilarating driving experience. Developed by racing game veterans SUMO Nottingham and Lucky Mountain Games, Hotshot Racing is an all-new driving experience which revives the classic arcade gameplay of the 90s and thrusts it into the modern era. 16 racing circuits provide the twists, turns and straights conducive to searingly quick racing.</desc>
-		<image>./mixart/Hotshot Racing.png</image>
-		<video>./snap/Hotshot Racing.mp4</video>
-		<marquee>./wheel/Hotshot Racing.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20201201T000000</releasedate>
-		<developer>Lucky Mountain Games</developer>
-		<publisher>Curve Digital</publisher>
-		<genre>Racing</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Street Fighter X Tekken.lnk</path>
 		<name>Street Fighter X Tekken</name>
 		<desc>The game features characters from both the Street Fighter franchise and Namco's Tekken series. In the game, each player selects two characters respectively and face other as duos in tag team fighting matches, with the objective to knock out one of the members from the opposing team (deplete the opponent's health).</desc>
@@ -4384,21 +4369,6 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Agent Intercept.lnk</path>
-		<name>Agent Intercept</name>
-		<desc>Agent Intercept. Agent Intercept. Leap into the driver's seat of an epic narrative of intrigue, betrayal, and unbelievable set-pieces. Stop the nefarious criminal organization CLAW and save the world from total destruction in your slick, souped-up, transforming vehicle.</desc>
-		<image>./mixart/Agent Intercept.jpg</image>
-		<video>./snap/Agent Intercept.mp4</video>
-		<marquee>./wheel/Agent Intercept.png</marquee>
-		<rating>0.80</rating>
-		<releasedate>20210929T000000</releasedate>
-		<developer>PikPok</developer>
-		<publisher>PikPok</publisher>
-		<genre>Racing</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Alien Breed - Impact.lnk</path>
 		<name>Alien Breed - Impact</name>
 		<desc>Alien Breed™ Impact is an explosive science fiction arcade-shooter that resurrects a much revered franchise with an epic story, swarms of highly intelligent alien enemies, high-impact weapons, highly detailed and rich environments; all implemented with superb technology in a state-of-the-art gaming experience. In addition to the thrilling single-player campaign mode, the game also offers a relentless, action-packed, online two-player co-operative battle mode.</desc>
@@ -4429,52 +4399,6 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Gauntlet Slayer Edition.lnk</path>
-		<name>Gauntlet Slayer Edition</name>
-		<desc>Gauntlet is a top-down dungeon crawler and an entry in the long-running Gauntlet series. The game supports up to four online or local players working cooperatively, each using a different one of the four available hero types: Elf, Valkyrie, Warrior and Wizard.</desc>
-		<image>./mixart/Gauntlet Slayer Edition.png</image>
-		<video>./snap/Gauntlet Slayer Edition.mp4</video>
-		<marquee>./wheel/Gauntlet Slayer Edition.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20141101T000000</releasedate>
-		<developer>Arrowhead Game Studios</developer>
-		<publisher>WB Games</publisher>
-		<genre>Action, Role-Playing</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Huntdown.lnk</path>
-		<name>Huntdown</name>
-		<desc>In the mayhem-filled streets of the future where gangs rule and cops fear to tread, only the bounty hunters can free the city from corruption. Lay waste to the criminal underworld and make a killing in this hard boiled action comedy arcade shooter.</desc>
-		<image>./mixart/Huntdown.png</image>
-		<video>./snap/Huntdown.mp4</video>
-		<marquee>./wheel/Huntdown.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20201201T000000</releasedate>
-		<developer>Easy Trigger</developer>
-		<publisher>Coffee Stain Publishing</publisher>
-		<genre>Action, Platform</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./PAC-MAN Museum.lnk</path>
-		<name>PAC-MAN Museum - Battle Royale</name>
-		<desc>Pac-Man Museum is a digital collection of Pac-Man games ported from a variety of platforms. It includes: Pac-Attack Pac-Land Pac-Man Pac-Man: Arrangement Pac-Man: Battle Royale Pac-Man: Championship Edition Pac-Mania Pac Pal Super Pac-Man The game has leaderboards for each game and uses an achievement system to fill a stamp book. Various collectibles can be earned and are stored in a Pac-Room. There is a navigation system to help find the best maze routes and progress can be saved. The arcade game Pac-Man: Battle Royale supports multiplayer for up to four players. Early buyers received Ms. Pac-Man as well. Later it was made available as DLC.</desc>
-		<image>./mixart/PAC-MAN Museum.jpg</image>
-		<video>./snap/PAC-MAN Museum.mp4</video>
-		<marquee>./wheel/PAC-MAN Museum.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20111201T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Arcade</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./RetroMania Wrestling.lnk</path>
 		<name>RetroMania Wrestling</name>
 		<desc>RetroMania Wrestling is the official sequel to the classic arcade game Wrestlefest that was released in 1991 by Technos of Japan. RetroMania Wrestling will be a “pick up and play” arcade wrestling game with beautiful 2D sprites, incredible backgrounds and fast-paced arcade style game play. • 16 Unique, distinct playable wrestlers at launch (adding more post launch via DLC) • Over 15 Arenas • 3 distinct Game Modes; Story Mode, 10 Pounds of Gold, and Retro Rumble • 2-8 player local multiplayer • Several match types, including One-on-One matches, Tag Team matches, 6-Man Tag, 8-Man Tag, Cages matches with 3 different cage styles and Battle Royal.​• Ring entrances with entrance music • Strategic gameplay that is easy to pick up and play • Beautiful 2D pixel art animated sprites with over 700 frames of animation and animated backgrounds • Crowd chants that react to the action on screen • Commentary by Ian Riccaboni and Colt Cabana​.</desc>
@@ -4487,21 +4411,6 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<publisher>Retrosoft Studios</publisher>
 		<genre>Fighting, Sports</genre>
 		<players>8</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Streets of Fury EX.lnk</path>
-		<name>Streets of Fury EX</name>
-		<desc>Fight the gangs of Paris in this action packed Beat'Em up. Up to 4 players can join in, to cooperate, or fight against each other! Many unlockables, game modes, crazy combos and devastating furies await you in this deep fighting game. Key Features: Oldschool “go right” beat’em up 4 players local Co-op and competitive play 17 playable characters The depth of a versus fighting game in a side-scrolling beat'em up Lots of moves, special moves, furies, cancels, chain combos, air combos, dodge, etc. Increase the Security Level to unlock new characters, game modes, and more... Story mode : Hunt the gang leaders in their respective districts Alternate Story mode : Build your own gang! Versus mode : Free for all and team battle for some multiplayer mayhem Survival mode : How long can you survive endless waves of enemies? Challenge mode : Try some time attack on special levels Featuring a whole new soundtrack by K93. Play with any controller Featuring famous youtuber Benzaie as the Hard Corner.</desc>
-		<image>./mixart/Streets of Fury EX.jpg</image>
-		<video>./snap/Streets of Fury EX.mp4</video>
-		<marquee>./wheel/Streets of Fury EX.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20151201T000000</releasedate>
-		<developer>Guard Crush Games</developer>
-		<publisher>Guard Crush Games</publisher>
-		<genre>Action</genre>
-		<players>4</players>
 		<favorite>true</favorite>
 	</game>
 	<game>
@@ -4535,6 +4444,22 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<favorite>true</favorite>
 	</game>
 	<game>
+		<path>./Gauntlet Slayer Edition.lnk</path>
+		<name>Gauntlet Slayer Edition</name>
+		<desc>Gauntlet is a top-down dungeon crawler and an entry in the long-running Gauntlet series. The game supports up to four online or local players working cooperatively, each using a different one of the four available hero types: Elf, Valkyrie, Warrior and Wizard.</desc>
+		<image>./mixart/Gauntlet Slayer Edition.png</image>
+		<video>./snap/Gauntlet Slayer Edition.mp4</video>
+		<marquee>./wheel/Gauntlet Slayer Edition.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20141101T000000</releasedate>
+		<developer>Arrowhead Game Studios</developer>
+		<publisher>WB Games</publisher>
+		<genre>Action, Role-Playing</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Mashed.lnk</path>
 		<name>Mashed - Drive to Survive</name>
 		<desc>Mashed is an action-packed top-down arcade-racer. On 13 tracks (which must be played free in single-player first) you need all your driving skills to survive and make it to the finish as the 1st with one of the four different cars available (from slow ones to really fast ones). 
@@ -4551,6 +4476,111 @@ To make things much easier there are nine different power-ups and weapons scatte
 		<publisher>Empire Interactive</publisher>
 		<genre>Action-Race, Driving</genre>
 		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./PAC-MAN Museum.lnk</path>
+		<name>PAC-MAN Museum - Battle Royale</name>
+		<desc>Pac-Man Museum is a digital collection of Pac-Man games ported from a variety of platforms. It includes: Pac-Attack Pac-Land Pac-Man Pac-Man: Arrangement Pac-Man: Battle Royale Pac-Man: Championship Edition Pac-Mania Pac Pal Super Pac-Man The game has leaderboards for each game and uses an achievement system to fill a stamp book. Various collectibles can be earned and are stored in a Pac-Room. There is a navigation system to help find the best maze routes and progress can be saved. The arcade game Pac-Man: Battle Royale supports multiplayer for up to four players. Early buyers received Ms. Pac-Man as well. Later it was made available as DLC.</desc>
+		<image>./mixart/PAC-MAN Museum.jpg</image>
+		<video>./snap/PAC-MAN Museum.mp4</video>
+		<marquee>./wheel/PAC-MAN Museum.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20111201T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Arcade</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Agent Intercept.lnk</path>
+		<name>Agent Intercept</name>
+		<desc>Agent Intercept. Agent Intercept. Leap into the driver's seat of an epic narrative of intrigue, betrayal, and unbelievable set-pieces. Stop the nefarious criminal organization CLAW and save the world from total destruction in your slick, souped-up, transforming vehicle.</desc>
+		<image>./mixart/Agent Intercept.jpg</image>
+		<video>./snap/Agent Intercept.mp4</video>
+		<marquee>./wheel/Agent Intercept.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20210929T000000</releasedate>
+		<developer>PikPok</developer>
+		<publisher>PikPok</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Hotshot Racing.lnk</path>
+		<name>Hotshot Racing</name>
+		<desc>Hotshot Racing is a blisteringly fast arcade-style racing game fusing drift handling, razor-sharp retro visuals and an incredible sense of speed to create an exhilarating driving experience. Developed by racing game veterans SUMO Nottingham and Lucky Mountain Games, Hotshot Racing is an all-new driving experience which revives the classic arcade gameplay of the 90s and thrusts it into the modern era. 16 racing circuits provide the twists, turns and straights conducive to searingly quick racing.</desc>
+		<image>./mixart/Hotshot Racing.png</image>
+		<video>./snap/Hotshot Racing.mp4</video>
+		<marquee>./wheel/Hotshot Racing.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20201201T000000</releasedate>
+		<developer>Lucky Mountain Games</developer>
+		<publisher>Curve Digital</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Huntdown.lnk</path>
+		<name>Huntdown</name>
+		<desc>In the mayhem-filled streets of the future where gangs rule and cops fear to tread, only the bounty hunters can free the city from corruption. Lay waste to the criminal underworld and make a killing in this hard boiled action comedy arcade shooter.</desc>
+		<image>./mixart/Huntdown.png</image>
+		<video>./snap/Huntdown.mp4</video>
+		<marquee>./wheel/Huntdown.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20201201T000000</releasedate>
+		<developer>Easy Trigger</developer>
+		<publisher>Coffee Stain Publishing</publisher>
+		<genre>Action, Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Streets of Fury EX.lnk</path>
+		<name>Streets of Fury EX</name>
+		<desc>Fight the gangs of Paris in this action packed Beat'Em up. Up to 4 players can join in, to cooperate, or fight against each other! Many unlockables, game modes, crazy combos and devastating furies await you in this deep fighting game. Key Features: Oldschool “go right” beat’em up 4 players local Co-op and competitive play 17 playable characters The depth of a versus fighting game in a side-scrolling beat'em up Lots of moves, special moves, furies, cancels, chain combos, air combos, dodge, etc. Increase the Security Level to unlock new characters, game modes, and more... Story mode : Hunt the gang leaders in their respective districts Alternate Story mode : Build your own gang! Versus mode : Free for all and team battle for some multiplayer mayhem Survival mode : How long can you survive endless waves of enemies? Challenge mode : Try some time attack on special levels Featuring a whole new soundtrack by K93. Play with any controller Featuring famous youtuber Benzaie as the Hard Corner.</desc>
+		<image>./mixart/Streets of Fury EX.jpg</image>
+		<video>./snap/Streets of Fury EX.mp4</video>
+		<marquee>./wheel/Streets of Fury EX.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20151201T000000</releasedate>
+		<developer>Guard Crush Games</developer>
+		<publisher>Guard Crush Games</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Danger Scavenger.lnk</path>
+		<name>Danger Scavenger</name>
+		<desc>Danger Scavenger is fast-paced action, cyberpunk-themed, roguelite skyline crawler. Blow up, cut, shoot enemy robots on the roofs of skyscrapers. Choose your way to higher levels, loot, buy stuff, upgrade yourself, fight against greedy corporations, be a rebel!</desc>
+		<image>./mixart/Danger Scavenger.png</image>
+		<video>./snap/Danger Scavenger.mp4</video>
+		<marquee>./wheel/Danger Scavenger.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20201201T000000</releasedate>
+		<developer>Star Drifters</developer>
+		<publisher>Forever Entertainment</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Pixel Cup Soccer Ultimate Edition.lnk</path>
+		<name>Pixel Cup Soccer Ultimate Edition</name>
+		<desc>Pixel Cup Soccer is an arcade retro style soccer game. A dynamic arcade game with a fast paced gameplay. Just the fun part of soccer! Pixel Cup Soccer 17 features great pixel art and soundtracks that evoke nostalgia of the glory days of the 80’s and 90’s arcade games. Move, pass, and shoot the ball to victory! You will learn to play in one minute, but it takes much longer to master it. The simple controls enable a rich set of features such as charging and aiming your shots, directing your corner kicks and throw-ins, shooting lobs, dashing, and more. Play single player (player VS computer), two players (player VS player), or Party Mode (in Competitions). Pixel Cup Soccer currently supports local multiplayer only. Online multiplayer will be added with your support! PLAY MODES - 1. Friendly Match - 2. Competitions - 3. Penalty Kicks COMPETITIONS - Copa America Centenario (USA) - European Cup 2016 (France) - World Cup - Women's World Cup - Olympic Games - Women's Olympic Games - Pixel League - Pixel Tournament</desc>
+		<image>./mixart/Pixel Cup Soccer Ultimate Edition.jpg</image>
+		<video>./snap/Pixel Cup Soccer Ultimate Edition.mp4</video>
+		<marquee>./wheel/Pixel Cup Soccer Ultimate Edition.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20161201T000000</releasedate>
+		<developer>Batovi Games Studio</developer>
+		<publisher>Batovi Games Studio</publisher>
+		<genre>Action, Sports</genre>
+		<players>2</players>
 		<favorite>true</favorite>
 	</game>
 </gameList>
