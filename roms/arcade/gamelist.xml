@@ -22683,7 +22683,7 @@ Many new characters.</desc>
 		<name>Snapper</name>
 		<desc>Snapper is a fun "Blockade" style game. You controls a hungry snake through various levels, will need eat all the balls as you grow and avoid colliding with his own body, while avoiding enemies to open the exit to the next level.</desc>
 		<image>./mixart/snapper.png</image>
-		<video>./snapper.mp4</video>
+		<video>./snap/snapper.mp4</video>
 		<marquee>./wheel/snapper.png</marquee>
 		<rating>0.5</rating>
 		<releasedate>19900101T000000</releasedate>
@@ -26843,51 +26843,6 @@ The legendary music Horizon by Olof 'Blaizer' Gustafsson found in many Amiga Cra
 		<publisher>Taito</publisher>
 		<genre>Shooter-Shooter / 3rd person</genre>
 		<players>2</players>
-	</game>
-	<game>
-		<path>./tmnt2.zip</path>
-		<name>Teenage Mutant Ninja Turtles - Turtles in Time</name>
-		<desc>The sequel to 1989's hugely successful original, 'Turtles in Time' once more sees the four heroes taking on Shredder and his army. Gameplay remains similar to the original game, but the experience is enhanced further with the obligatory improved graphics and sound effects. 'Turtles in Time' also features a larger variety of levels, as now the battle between good and evil rages across time as the Turtles travel to prehistoric, pirate and Wild West times in their pursuit of the elusive Splinter. 
-
-Yet again, Konami's mastery of the genre was in evidence as the manic energy and humour of the cartoon and comic-book series upon which the game is based was captured perfectly.</desc>
-		<image>./mixart/tmnt2.png</image>
-		<video>./snap/tmnt2.mp4</video>
-		<marquee>./wheel/tmnt2.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19910918T000000</releasedate>
-		<publisher>Konami</publisher>
-		<genre>Fight-Fight / 2.5D</genre>
-		<players>4</players>
-	</game>
-	<game>
-		<path>./tmnt22p.zip</path>
-		<name>Teenage Mutant Ninja Turtles - Turtles in Time</name>
-		<desc>The sequel to 1989's hugely successful original, 'Turtles in Time' once more sees the four heroes taking on Shredder and his army. Gameplay remains similar to the original game, but the experience is enhanced further with the obligatory improved graphics and sound effects. 'Turtles in Time' also features a larger variety of levels, as now the battle between good and evil rages across time as the Turtles travel to prehistoric, pirate and Wild West times in their pursuit of the elusive Splinter. 
-
-Yet again, Konami's mastery of the genre was in evidence as the manic energy and humour of the cartoon and comic-book series upon which the game is based was captured perfectly.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/tmnt22p.png</image>
-		<video>./snap/tmnt22p.mp4</video>
-		<marquee>./wheel/tmnt22p.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19910918T000000</releasedate>
-		<publisher>Konami</publisher>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./tmnt2po.zip</path>
-		<name>Teenage Mutant Ninja Turtles</name>
-		<desc>Teenage Mutant Ninja Turtles est un beat them all à défilement latéral dans lequel jusqu'à quatre joueurs peuvent choisir de jouer avec l'une des 4 tortues, soit «Leonardo» (bandana bleu, katana), «Raphael» (bandana rouge, 2 saïs), «Michaelangelo» (bandana orange, nunchakus) ou «Donatello» (bandana pourpre, Bo) contre la puissance de l'armée de Shredder pour tenter de sauver April O'Neil et Splinter, avant une confrontation finale avec leurs ennemis jurés Krang et Shredder.</desc>
-		<image>./mixart/tmnt2po.png</image>
-		<video>./snap/tmnt2po.mp4</video>
-		<marquee>./wheel/tmnt2po.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Beat'em Up</genre>
-		<players>4</players>
 	</game>
 	<game>
 		<path>./tnexspce.zip</path>
@@ -31952,25 +31907,6 @@ The conflict in Wu-Lin seemed to trigger at any moment, unconsciously all sword 
 		<genre>Platform-Plateform / Shooter Scrolling</genre>
 		<players>2</players>
 	</game>
-	<game>
-		<path>./vformula.zip</path>
-		<name>Virtua Formula</name>
-		<desc>Virtua Formula (バーチャフォーミュラ) is an expanded version of the 1992 Sega Model 1 arcade game Virtua Racing, designed as a medium-scale attraction for theme parks and family entertainment centers..</desc>
-		<emulator>libretro</emulator>
-		<core>mame2016</core>
-		<image>./mixart/vformula.png</image>
-		<video>./snap/vformula.mp4</video>
-		<marquee>./images/vformula.png</marquee>
-		<rating>1</rating>
-		<releasedate>19921030T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Race, Driving / Race 1st Pers. view</genre>
-		<arcadesystemname>sega</arcadesystemname>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>cc40a2587dc79b0c45193cbfc256fc78</md5>
-	</game>
 	<game id="43982" source="ScreenScraper.fr">
 		<path>./vr.zip</path>
 		<name>Virtua Racing</name>
@@ -32034,26 +31970,6 @@ The conflict in Wu-Lin seemed to trigger at any moment, unconsciously all sword 
 		<developer>Bally Midway</developer>
 		<publisher>Bally Midway</publisher>
 		<genre>Platform-Plateform / Run Jump</genre>
-	</game>
-	<game>
-		<path>./spidey.zip</path>
-		<name>Spider-Man: The Videogame</name>
-		<desc>Spider-man - The Video Game is a sideways scrolling beat-em-up for 1 to 4 players; choosing from Spider-Man, Black-Cat, Hawkeye or Sub-Mariner. The heroes must fight their way through four levels of Dr. Doom's villains; including Venom, The Scorpion, The Lizard, The Green Goblin, The Sandman, The Kingpin, The Hobgoblin, Electro, Dr. Octopus and, of course, Dr. Doom himself.
-
-Each player character has a different weapon or power that can be used throughout the game while fighting. Spider-Man uses his webs, The Black Cat uses her 'cat's claw' grappling hook and cable, Hawkeye uses his bow and arrows and The Sub-Mariner uses his hydro-electric charges. The game's viewpoint pans in and out between alternate large and small scale (4-way scrolling) sections. The game's 'camera' zooms out on alternate levels with the zoomed-out view introducing four-way scrolling platform sections to the gameplay. The game ends when the fourth and final chapter has been completed.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/spidey.png</image>
-		<video>./snap/spidey.mp4</video>
-		<marquee>./wheel/spidey.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19910101T000000</releasedate>
-		<publisher>Sega</publisher>
-		<genre>Platform-Plateform / Fighter Scrolling</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
 	</game>
 	<game>
 		<path>./kinst2.zip</path>
@@ -32674,25 +32590,6 @@ Enduro Racer is perhaps best remembered for its 'Wheelie' feature, which require
 		<genre>Race, Driving-Motorcycle Race, 3rd Pers.</genre>
 	</game>
 	<game>
-		<path>./wwfwfest.zip</path>
-		<name>WWF WrestleFest</name>
-		<desc>10 selectable wrestlers fight in a tag team tournament or take part in the Royal Rumble.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/wwfwfest.png</image>
-		<video>./snap/wwfwfest.mp4</video>
-		<marquee>./wheel/wwfwfest.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Technos</developer>
-		<publisher>Tecmo</publisher>
-		<genre>Sports-Sports / Wrestling</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./mslug2.zip</path>
 		<name>Metal Slug 2: Super Vehicle-001/II</name>
 		<desc>As Marco, Eri, Tarma, or Fio, you must defeat the evil General Morden and his henchman. To do this, you must defeat various enemies that get in your way. Throughout the game, you can collect new weapons including the Heavy Machine Gun, Shot Gun, Rocket Launcher, Flame Shot, Laser Shot, Flame Bottles, and Armor Piercer. Also scattered throughout the game, you can ride in  four different vehicles (aka: Slugs) such as the Metal Slug, Slug Flyer, Camel Slug, and SlugNoid. By using these vehicles, you can cause awesome destruction against Morden's evil army. Other items such as energy, extra ammunition, and food (eat too much and your player will gain weight) are also found throughout the game.</desc>
@@ -32813,39 +32710,6 @@ As with its predecessor Time Killers, BloodStorm features many of the aspects ca
 		<region>us</region>
 	</game>
 	<game>
-		<path>./astdelux.zip</path>
-		<name>Asteroids Deluxe</name>
-		<desc>Asteroids Deluxe is a 1 or 2-player game with an X-Y or vector-generator monitor. The game depicts a third-person view of a player's spaceship battling to destroy asteroids, flying saucers and enemy ships or 'death stars' (shaped like clusters of triangles). When hit, the asteroids and death stars will break into progressively smaller pieces. 
-
-Players can put up an octagon-shaped 'shield' to temporarily protect their spaceship. However, this shield wears out with use. 
-
-Large asteroids appear and drift in from the outer edges of the display. By pressing the ROTATE LEFT and ROTATE RIGHT pushbuttons on the control panel, the player may aim a spaceship toward any of the asteroids. The player uses the FIRE pushbutton to shoot at the asteroids and other objects. 
-
-When shot, each large asteroid divides into two medium-sized asteroids, and the game adds 20 points to the player's score. Medium-sized asteroids, when shot, divide into two small-sized asteroids, and the game awards 50 points to the player. When shot the smallest asteroid disappears and the game adds 100 points to the player's score. 
-
-In addition to asteroids, the players can score points for shooting the various enemy ships. When hit, the large ships ('death stars' shaped like hexagons) score 50 points and break into three diamond shapes. The medium-sized enemy or diamond, when hit, grants the player 100 points and breaks into two small triangular pieces. These small pieces disappear when the player hits them, and the score increases by 200 points. 
-
-At any time during game play, a flying saucer may appear from either side of the display. The game awards players 200 points for shooting a large saucer and 1,000 points for a small saucer (the latter is a smaller target for players, though not any faster moving than the large one. It also shoots more accurately). 
-
-The player's objective in the game is to shoot and destroy as many asteroids, saucers, and enemy ships as possible before all his or her spaceships are destroyed. A ship is destroyed if an asteroid, saucer or enemy ship smashes into it, or if a flying saucer shoots it. To prevent losing a ship, the player may press the THRUST pushbutton to move out of the path of an oncoming object. 
-
-As an emergency maneuver, a player can press the Shields button. An octagon will then appear around the player's ship as protection from all enemies. For challenge the shield power lasts only about 10 seconds, but the power is renewed with each ship. The amount of shielding power available is shown by the brightness of the octagon (dim means almost exhausted power).</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/astdelux.png</image>
-		<video>./snap/astdelux.mp4</video>
-		<marquee>./wheel/astdelux.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Dave Shepperd</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./aztarac.zip</path>
 		<name>Aztarac</name>
 		<desc>The actual game has you piloting a little space tank. The tank and its turret are controlled independently, which allows you to move in one direction while shooting in another. Your mission is to guard various space outposts from hordes of incoming enemy ships. Each level will have several outposts all clustered together in the center. If an enemy ship touches an outpost, then the outpost is destroyed. You can activate a long range scanner by using your second button. This allows you to locate enemies before they get close, that way you can fly off and get them before they even have a shot at the outposts.</desc>
@@ -32858,31 +32722,6 @@ As an emergency maneuver, a player can press the Shields button. An octagon will
 		<publisher>Centuri</publisher>
 		<genre>Shooter</genre>
 		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./btoads.zip</path>
-		<name>Battletoads</name>
-		<desc>Battletoads is a (mostly) horizontally-scrolling beat-em-up in which up to three players take on the roles of Rash, Pimple, or Zitz and must punch and kick their way through six enemy-infested stages to save their alternate universe from the Dark Queen.
-
-The Toads each vary in fighting style: Rash is nimble, Pimple is burly and strong, and Zitz is a balance of the two. Each Toad also has its own signature exaggerated power and attack, in which their limbs turn into objects such as axes and drills.
-
-In a visually unique twist, the Toads can knock the game's enemies 'off-screen' so that they appear to fly towards the players, breaking the fourth wall. Enemies include aliens, mutant rodents and snowmen.
-
-The game's stages, in addition to having their own unique visual theme, often differ in gameplay style. Some levels are Double Dragon-style 2.5D brawlers, while others are strictly two-dimensional, platform-like stages. In one level, the Toads wear jet-packs and descend a tunnel and in the final level, the Toads shoot enemies from a vehicle.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/btoads.png</image>
-		<video>./snap/btoads.mp4</video>
-		<marquee>./wheel/btoads.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Rare</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Fight-Fight / 2.5D</genre>
-		<players>3</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
@@ -33137,23 +32976,6 @@ The Master did not want to miss this opportunity to make peace and went alone. U
 		<region>us</region>
 	</game>
 	<game>
-		<path>./mwalk.zip</path>
-		<name>Michael Jackson's Moonwalker</name>
-		<desc>Based on the movie of the same name, Moonwalker is a scrolling, isometric beat' em up in which Michael Jackson (1958-2009), along with his chimp Bubbles, attempts to save children and defeat the evil 'Mr. Big'. During each round, the player must defeat each and every one of Mr. Big's henchmen and the deadly enemy machines that patrol the levels. This is achieved either by shooting them with Michael Jackson's 'magical energy', or by using his Dance Magic - the game's equivalent of a smart bomb. Some enemies take only one shot to defeat whereas others take several shots before they are destroyed. The longer the player holds down on the fire button, the greater the amount of magical energy Michael can inflict. At the start of each round, the player is given 2 dance magic smart bombs. Towards the end of each round, Michael's pet chimpanzee, Bubbles, will be seen moving about. If Michael touches Bubbles, he will turn into a powerful robot (the 'Moonwalker' of the game's title). After Michael has become Moonwalker, he will be able to shoot lasers and fire missiles. Michael must defeat every boss enemy at the end of each round in order to proceed to the next.</desc>
-		<image>./mixart/mwalk.png</image>
-		<video>./snap/mwalk.mp4</video>
-		<marquee>./wheel/mwalk.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Fight-Action / Labyrinth-Action</genre>
-		<players>3</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./narc.zip</path>
 		<name>Narc</name>
 		<desc>NARC is a graphically violent one or two-player side-scrolling shoot-em-up in which players take on the role of "Narcs"; futuristic police officers whose duty it is to either arrest or kill drug dealers, junkies and attack dogs as players fight to crush the criminal empire known as K.R.A.K. 
@@ -33287,23 +33109,6 @@ MAN, WOMAN, CHILD: These are the only three types of human clones left on Earth.
 		<region>us</region>
 	</game>
 	<game>
-		<path>./cphd.zip</path>
-		<name>'H'Crouching Pony Hidden Dragon</name>
-		<desc>CPHD is a homebrew - A pedestrian shooter mixed with RPG features exclusive for the Neo-Geo. Collect money and experience to evolve your weapons and equipments. Confront hordes of ninjas, shaolins, geishas... into intense fight to earn your immortality.</desc>
-		<image>./mixart/cphd.png</image>
-		<video>./snap/cphd.mp4</video>
-		<marquee>./wheel/cphd.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20140714T000000</releasedate>
-		<developer>Le Cortex</developer>
-		<publisher>Neko Interactive</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./baddudes.zip</path>
 		<name>Bad Dudes vs. Dragonninja</name>
 		<desc>The game starts in New York City, where President Ronnie has been kidnapped by the nefarious DragonNinja. The game's intro begins with the following introduction: "Rampant ninja related crimes these days... Whitehouse is not the exception...". As soon as that occurs, a Secret Service agent asks two street-smart brawlers, named Blade and Striker: "President Ronnie has been kidnapped by the ninjas. Are you a bad enough dude to rescue Ronnie?".   After hearing that, the Bad Dudes pursue the DragonNinja through the city streets, highway, sewers, transport train, forest, cave and into the secret ninja base in order to save President Ronnie.</desc>
@@ -33338,6 +33143,103 @@ The first seven mazes are always the same, but from level 8 onwards, players wil
 		<publisher>Atari</publisher>
 	</game>
 	<game>
+		<path>./vf.zip</path>
+		<name>Virtua Fighter</name>
+		<desc>In this 3-D fighting game, the game's battle system is simple, yet complex. There are 3 buttons: Punch, Kick and Guard. Movement is strictly confined to a horizontal plane.    Battles are won by draining the energy bar of your opponent or by pushing your opponent off the edges of the ring (known as a 'Ring-out').</desc>
+		<emulator>libretro</emulator>
+		<core>mame2016</core>
+		<image>./mixart/vf.png</image>
+		<video>./snap/vf.mp4</video>
+		<marquee>./wheel/vf.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./cphd.zip</path>
+		<name>'H'Crouching Pony Hidden Dragon</name>
+		<desc>CPHD is a homebrew - A pedestrian shooter mixed with RPG features exclusive for the Neo-Geo. Collect money and experience to evolve your weapons and equipments. Confront hordes of ninjas, shaolins, geishas... into intense fight to earn your immortality.</desc>
+		<image>./mixart/cphd.png</image>
+		<video>./snap/cphd.mp4</video>
+		<marquee>./wheel/cphd.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20140714T000000</releasedate>
+		<developer>Le Cortex</developer>
+		<publisher>Neko Interactive</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./vformula.zip</path>
+		<name>Virtua Formula</name>
+		<desc>Virtua Formula (バーチャフォーミュラ) is an expanded version of the 1992 Sega Model 1 arcade game Virtua Racing, designed as a medium-scale attraction for theme parks and family entertainment centers..</desc>
+		<emulator>libretro</emulator>
+		<core>mame2016</core>
+		<image>./mixart/vformula.png</image>
+		<video>./snap/vformula.mp4</video>
+		<marquee>./images/vformula.png</marquee>
+		<rating>1</rating>
+		<releasedate>19921030T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 1st Pers. view</genre>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>cc40a2587dc79b0c45193cbfc256fc78</md5>
+	</game>
+	<game>
+		<path>./btoads.zip</path>
+		<name>Battletoads</name>
+		<desc>Battletoads is a (mostly) horizontally-scrolling beat-em-up in which up to three players take on the roles of Rash, Pimple, or Zitz and must punch and kick their way through six enemy-infested stages to save their alternate universe from the Dark Queen.
+
+The Toads each vary in fighting style: Rash is nimble, Pimple is burly and strong, and Zitz is a balance of the two. Each Toad also has its own signature exaggerated power and attack, in which their limbs turn into objects such as axes and drills.
+
+In a visually unique twist, the Toads can knock the game's enemies 'off-screen' so that they appear to fly towards the players, breaking the fourth wall. Enemies include aliens, mutant rodents and snowmen.
+
+The game's stages, in addition to having their own unique visual theme, often differ in gameplay style. Some levels are Double Dragon-style 2.5D brawlers, while others are strictly two-dimensional, platform-like stages. In one level, the Toads wear jet-packs and descend a tunnel and in the final level, the Toads shoot enemies from a vehicle.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/btoads.png</image>
+		<video>./snap/btoads.mp4</video>
+		<marquee>./wheel/btoads.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Fight-Fight / 2.5D</genre>
+		<players>3</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./wwfwfest.zip</path>
+		<name>WWF WrestleFest</name>
+		<desc>10 selectable wrestlers fight in a tag team tournament or take part in the Royal Rumble.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/wwfwfest.png</image>
+		<video>./snap/wwfwfest.mp4</video>
+		<marquee>./wheel/wwfwfest.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Technos</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Sports-Sports / Wrestling</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
 		<path>./swa.zip</path>
 		<name>Star Wars Arcade</name>
 		<desc>Star Wars Arcade is a superb 3-D shoot-em-up for one or two players, based on the legendary 1977 movie of the same name. In the two player game, one player takes on the role of the pilot, who controls both the speed and direction of the fighter ship, and who can only shoot at the centre of the screen. The second other player takes on the role of the 'gunner' and can target a much larger area on-screen.</desc>
@@ -33357,20 +33259,127 @@ The first seven mazes are always the same, but from level 8 onwards, players wil
 		<md5>b06e1037d2e3f3f33b4b6a3dba3cb6de</md5>
 	</game>
 	<game>
-		<path>./vf.zip</path>
-		<name>Virtua Fighter</name>
-		<desc>In this 3-D fighting game, the game's battle system is simple, yet complex. There are 3 buttons: Punch, Kick and Guard. Movement is strictly confined to a horizontal plane.    Battles are won by draining the energy bar of your opponent or by pushing your opponent off the edges of the ring (known as a 'Ring-out').</desc>
+		<path>./astdelux.zip</path>
+		<name>Asteroids Deluxe</name>
+		<desc>Asteroids Deluxe is a 1 or 2-player game with an X-Y or vector-generator monitor. The game depicts a third-person view of a player's spaceship battling to destroy asteroids, flying saucers and enemy ships or 'death stars' (shaped like clusters of triangles). When hit, the asteroids and death stars will break into progressively smaller pieces. 
+
+Players can put up an octagon-shaped 'shield' to temporarily protect their spaceship. However, this shield wears out with use. 
+
+Large asteroids appear and drift in from the outer edges of the display. By pressing the ROTATE LEFT and ROTATE RIGHT pushbuttons on the control panel, the player may aim a spaceship toward any of the asteroids. The player uses the FIRE pushbutton to shoot at the asteroids and other objects. 
+
+When shot, each large asteroid divides into two medium-sized asteroids, and the game adds 20 points to the player's score. Medium-sized asteroids, when shot, divide into two small-sized asteroids, and the game awards 50 points to the player. When shot the smallest asteroid disappears and the game adds 100 points to the player's score. 
+
+In addition to asteroids, the players can score points for shooting the various enemy ships. When hit, the large ships ('death stars' shaped like hexagons) score 50 points and break into three diamond shapes. The medium-sized enemy or diamond, when hit, grants the player 100 points and breaks into two small triangular pieces. These small pieces disappear when the player hits them, and the score increases by 200 points. 
+
+At any time during game play, a flying saucer may appear from either side of the display. The game awards players 200 points for shooting a large saucer and 1,000 points for a small saucer (the latter is a smaller target for players, though not any faster moving than the large one. It also shoots more accurately). 
+
+The player's objective in the game is to shoot and destroy as many asteroids, saucers, and enemy ships as possible before all his or her spaceships are destroyed. A ship is destroyed if an asteroid, saucer or enemy ship smashes into it, or if a flying saucer shoots it. To prevent losing a ship, the player may press the THRUST pushbutton to move out of the path of an oncoming object. 
+
+As an emergency maneuver, a player can press the Shields button. An octagon will then appear around the player's ship as protection from all enemies. For challenge the shield power lasts only about 10 seconds, but the power is renewed with each ship. The amount of shielding power available is shown by the brightness of the octagon (dim means almost exhausted power).</desc>
 		<emulator>libretro</emulator>
-		<core>mame2016</core>
-		<image>./mixart/vf.png</image>
-		<video>./snap/vf.mp4</video>
-		<marquee>./wheel/vf.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Fight-Fight / Versus</genre>
+		<core>mame2003_plus</core>
+		<image>./mixart/astdelux.png</image>
+		<video>./snap/astdelux.mp4</video>
+		<marquee>./wheel/astdelux.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Dave Shepperd</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<playcount>2</playcount>
+		<lastplayed>20210710T200618</lastplayed>
+		<gametime>107</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./spidey.zip</path>
+		<name>Spider-Man: The Videogame</name>
+		<desc>Spider-man - The Video Game is a sideways scrolling beat-em-up for 1 to 4 players; choosing from Spider-Man, Black-Cat, Hawkeye or Sub-Mariner. The heroes must fight their way through four levels of Dr. Doom's villains; including Venom, The Scorpion, The Lizard, The Green Goblin, The Sandman, The Kingpin, The Hobgoblin, Electro, Dr. Octopus and, of course, Dr. Doom himself.
+
+Each player character has a different weapon or power that can be used throughout the game while fighting. Spider-Man uses his webs, The Black Cat uses her 'cat's claw' grappling hook and cable, Hawkeye uses his bow and arrows and The Sub-Mariner uses his hydro-electric charges. The game's viewpoint pans in and out between alternate large and small scale (4-way scrolling) sections. The game's 'camera' zooms out on alternate levels with the zoomed-out view introducing four-way scrolling platform sections to the gameplay. The game ends when the fourth and final chapter has been completed.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/spidey.png</image>
+		<video>./snap/spidey.mp4</video>
+		<marquee>./wheel/spidey.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<publisher>Sega</publisher>
+		<genre>Platform-Plateform / Fighter Scrolling</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<playcount>2</playcount>
+		<lastplayed>20210711T150544</lastplayed>
+		<gametime>812</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./mwalk.zip</path>
+		<name>Michael Jackson's Moonwalker</name>
+		<desc>Based on the movie of the same name, Moonwalker is a scrolling, isometric beat' em up in which Michael Jackson (1958-2009), along with his chimp Bubbles, attempts to save children and defeat the evil 'Mr. Big'. During each round, the player must defeat each and every one of Mr. Big's henchmen and the deadly enemy machines that patrol the levels. This is achieved either by shooting them with Michael Jackson's 'magical energy', or by using his Dance Magic - the game's equivalent of a smart bomb. Some enemies take only one shot to defeat whereas others take several shots before they are destroyed. The longer the player holds down on the fire button, the greater the amount of magical energy Michael can inflict. At the start of each round, the player is given 2 dance magic smart bombs. Towards the end of each round, Michael's pet chimpanzee, Bubbles, will be seen moving about. If Michael touches Bubbles, he will turn into a powerful robot (the 'Moonwalker' of the game's title). After Michael has become Moonwalker, he will be able to shoot lasers and fire missiles. Michael must defeat every boss enemy at the end of each round in order to proceed to the next.</desc>
+		<image>./mixart/mwalk.png</image>
+		<video>./snap/mwalk.mp4</video>
+		<marquee>./wheel/mwalk.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight-Action / Labyrinth-Action</genre>
+		<players>3</players>
+		<favorite>true</favorite>
+		<playcount>1</playcount>
+		<lastplayed>20210711T212415</lastplayed>
+		<gametime>13</gametime>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./tmnt2.zip</path>
+		<name>Teenage Mutant Ninja Turtles - Turtles in Time</name>
+		<desc>The sequel to 1989's hugely successful original, 'Turtles in Time' once more sees the four heroes taking on Shredder and his army. Gameplay remains similar to the original game, but the experience is enhanced further with the obligatory improved graphics and sound effects. 'Turtles in Time' also features a larger variety of levels, as now the battle between good and evil rages across time as the Turtles travel to prehistoric, pirate and Wild West times in their pursuit of the elusive Splinter. 
+
+Yet again, Konami's mastery of the genre was in evidence as the manic energy and humour of the cartoon and comic-book series upon which the game is based was captured perfectly.</desc>
+		<image>./mixart/tmnt2.png</image>
+		<video>./snap/tmnt2.mp4</video>
+		<marquee>./wheel/tmnt2.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19910918T000000</releasedate>
+		<publisher>Konami</publisher>
+		<genre>Fight-Fight / 2.5D</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./tmnt22p.zip</path>
+		<name>Teenage Mutant Ninja Turtles - Turtles in Time</name>
+		<desc>The sequel to 1989's hugely successful original, 'Turtles in Time' once more sees the four heroes taking on Shredder and his army. Gameplay remains similar to the original game, but the experience is enhanced further with the obligatory improved graphics and sound effects. 'Turtles in Time' also features a larger variety of levels, as now the battle between good and evil rages across time as the Turtles travel to prehistoric, pirate and Wild West times in their pursuit of the elusive Splinter. 
+
+Yet again, Konami's mastery of the genre was in evidence as the manic energy and humour of the cartoon and comic-book series upon which the game is based was captured perfectly.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/tmnt22p.png</image>
+		<video>./snap/tmnt22p.mp4</video>
+		<marquee>./wheel/tmnt22p.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19910918T000000</releasedate>
+		<publisher>Konami</publisher>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./tmnt2po.zip</path>
+		<name>Teenage Mutant Ninja Turtles</name>
+		<desc>Teenage Mutant Ninja Turtles est un beat them all à défilement latéral dans lequel jusqu'à quatre joueurs peuvent choisir de jouer avec l'une des 4 tortues, soit «Leonardo» (bandana bleu, katana), «Raphael» (bandana rouge, 2 saïs), «Michaelangelo» (bandana orange, nunchakus) ou «Donatello» (bandana pourpre, Bo) contre la puissance de l'armée de Shredder pour tenter de sauver April O'Neil et Splinter, avant une confrontation finale avec leurs ennemis jurés Krang et Shredder.</desc>
+		<image>./mixart/tmnt2po.png</image>
+		<video>./snap/tmnt2po.mp4</video>
+		<marquee>./wheel/tmnt2po.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Beat'em Up</genre>
+		<players>4</players>
 	</game>
 </gameList>
