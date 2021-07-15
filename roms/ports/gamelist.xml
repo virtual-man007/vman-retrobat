@@ -143,20 +143,6 @@ NOTE: Requires keyboard to exit!</desc>
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Brutal Wolfenstein 3D.lnk</path>
-		<name>'H'Brutal Wolfenstein 3D</name>
-		<desc>Wolfenstein 3-D on Steroids!
-NOTE: Requires keyboard to exit!</desc>
-		<image>./mixart/Brutal Wolfenstein 3D.png</image>
-		<video>./snap/Brutal Wolfenstein 3D.mp4</video>
-		<marquee>./wheel/Brutal Wolfenstein 3D.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20150101T000000</releasedate>
-		<genre>Shooter</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./C-Dogs SDL.lnk</path>
 		<name>C Dogs</name>
 		<desc>Open source, classic overhead run-and-gun game. Customize your player and choose from up to 11 weapons.</desc>
@@ -498,8 +484,7 @@ The source code to the original Quake engine was released under the GPLv2 licens
 	<game>
 		<path>./Brutal Doom.lnk</path>
 		<name>'H'Brutal Doom</name>
-		<desc>Doom on Steroids!
-NOTE: Requires keyboard to exit!</desc>
+		<desc>Doom on Steroids!</desc>
 		<image>./mixart/Brutal Doom.png</image>
 		<video>./snap/Brutal Doom.mp4</video>
 		<marquee>./wheel/Brutal Doom.png</marquee>
@@ -523,5 +508,18 @@ NOTE: Requires keyboard to exit!</desc>
 		<genre>Action-Shooter-Shooter / 1st person</genre>
 		<players>4</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Brutal Wolfenstein 3D.lnk</path>
+		<name>'H'Brutal Wolfenstein 3D</name>
+		<desc>Wolfenstein 3-D on Steroids!</desc>
+		<image>./mixart/Brutal Wolfenstein 3D.png</image>
+		<video>./snap/Brutal Wolfenstein 3D.mp4</video>
+		<marquee>./wheel/Brutal Wolfenstein 3D.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20150101T000000</releasedate>
+		<genre>Shooter</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>
