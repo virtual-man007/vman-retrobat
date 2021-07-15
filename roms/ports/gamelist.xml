@@ -233,21 +233,6 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Xash3D.lnk</path>
-		<name>Half-Life</name>
-		<desc>Deep in the bowels of the Black Mesa Federal Research Facility, a decommissioned missile base, a top-secret experiment goes terribly wrong. As aliens come through the walls and a military death squad shoots everything in sight, young research associate Gordon Freeman must scramble to stay alive. Find your way through the monster-ridden areas of Black Mesa using your wits, limited security clearance, and a variety of weapons, ranging from a crowbar and pistols to a rocket launcher and grenades. With split-screen deathmatch and its exclusive "Decay" single-player and multiplayer cooperative modes, Half-Life is an action experience like no other.</desc>
-		<image>./mixart/Half-Life.png</image>
-		<video>./snap/Half-Life.mp4</video>
-		<marquee>./wheel/Half-Life.png</marquee>
-		<rating>0.75</rating>
-		<releasedate />
-		<developer>Valve</developer>
-		<publisher>Valve</publisher>
-		<genre>Action-Shooter / 3rd person-Shooter</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Cannonball - OutRun Engine.lnk</path>
 		<name>CannonBall: The Enhanced OutRun</name>
 		<desc>Cannonball is an enhanced version of Sega’s classic 1986 game Outrun available for Windows, Mac OS, Linux, Pandora and Android. Although it requires the same ROMs that popular arcade emulators use to play the game,  this is no mere emulator. Cannonball is a complete re-write of the game engine which adds a variety of enhancements such as true widescreen support, high-resolution graphics with improved sprite scaling, several bug fixes, additional view modes and support for both analog and digital gamepads.</desc>
@@ -457,6 +442,60 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<favorite>true</favorite>
 	</game>
 	<game>
+		<path>./Rockin'Bliss!.lnk</path>
+		<name>Rockin'Bliss!</name>
+		<desc>**VMAN's ROCKIN'BLISS SEPERATE BUILD REQUIRED** - Combined Guitar Hero + Rock Band = Rockin'Bliss! This is powered by Clone-Hero with Virtualman's customization to give you the best Rocking Rhythm gaming experience on earth! Play with your friends local or online with over 4000+ songs from VMAN's official song pack!.</desc>
+		<image>./mixart/Rockin'Bliss!.png</image>
+		<video>./snap/Rockin'Bliss!.mp4</video>
+		<marquee>./wheel/Rockin'Bliss!.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20210719T000000</releasedate>
+		<genre>Rythem</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Xash3D.lnk</path>
+		<name>Half-Life</name>
+		<desc>Deep in the bowels of the Black Mesa Federal Research Facility, a decommissioned missile base, a top-secret experiment goes terribly wrong. As aliens come through the walls and a military death squad shoots everything in sight, young research associate Gordon Freeman must scramble to stay alive. Find your way through the monster-ridden areas of Black Mesa using your wits, limited security clearance, and a variety of weapons, ranging from a crowbar and pistols to a rocket launcher and grenades. With split-screen deathmatch and its exclusive "Decay" single-player and multiplayer cooperative modes, Half-Life is an action experience like no other.</desc>
+		<image>./mixart/Half-Life.png</image>
+		<video>./snap/Half-Life.mp4</video>
+		<marquee>./wheel/Half-Life.png</marquee>
+		<rating>0.75</rating>
+		<releasedate />
+		<developer>Valve</developer>
+		<publisher>Valve</publisher>
+		<genre>Action-Shooter / 3rd person-Shooter</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./3dSen.lnk</path>
+		<name>3DSen</name>
+		<desc>3dSen PC breathes new life into your favorite NES games by magically converting them into 3D and letting you play them in real-time.</desc>
+		<image>./mixart/3DSen.png</image>
+		<video>./snap/3DSen.mp4</video>
+		<marquee>./wheel/3DSen.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20200719T000000</releasedate>
+		<genre>Emulator</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Star Wars - Tie Fighter Total Conversion.lnk</path>
+		<name>Star Wars - Tie Fighter Total Conversion</name>
+		<desc>Star Wars - X-Wing Alliance re-imagined/enhanced (fanmade)! Out of countless Star Wars video games, 1994’s TIE Fighter remains a beloved classic, throwing you into the titular Imperial starfighters and letting you blast away at rebels, pirates, and traitors. Twenty-five years later, a new fan mod has fully updated TIE Fighter with new graphics, widescreen support, new missions, and more. The result is an updated game that, as the mod team puts it, imagines “how TIE Fighter could've been had the technology of the time not limited it.”</desc>
+		<image>./mixart/Tie Fighter Total Conversion.png</image>
+		<video>./snap/Tie Fighter Total Conversion.mp4</video>
+		<marquee>./wheel/Tie Fighter Total Conversion.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>2021</releasedate>
+		<developer>LucasArts/Fanmade</developer>
+		<publisher>LucasArts/Fanmade</publisher>
+		<genre>Action, Flight Simulator</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
 		<path>./Brutal Doom.lnk</path>
 		<name>'H'Brutal Doom</name>
 		<desc>Doom on Steroids!
@@ -483,45 +522,6 @@ NOTE: Requires keyboard to exit!</desc>
 		<publisher>Xbox/Nintendo</publisher>
 		<genre>Action-Shooter-Shooter / 1st person</genre>
 		<players>4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Rockin'Bliss!.lnk</path>
-		<name>Rockin'Bliss!</name>
-		<desc>**VMAN's ROCKIN'BLISS SEPERATE BUILD REQUIRED** - Combined Guitar Hero + Rock Band = Rockin'Bliss! This is powered by Clone-Hero with Virtualman's customization to give you the best Rocking Rhythm gaming experience on earth! Play with your friends local or online with over 4000+ songs from VMAN's official song pack!.</desc>
-		<image>./mixart/Rockin'Bliss!.png</image>
-		<video>./snap/Rockin'Bliss!.mp4</video>
-		<marquee>./wheel/Rockin'Bliss!.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20210719T000000</releasedate>
-		<genre>Rythem</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./3dSen.lnk</path>
-		<name>3DSen</name>
-		<desc>3dSen PC breathes new life into your favorite NES games by magically converting them into 3D and letting you play them in real-time.</desc>
-		<image>./mixart/3DSen.png</image>
-		<video>./snap/3DSen.mp4</video>
-		<marquee>./wheel/3DSen.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20200719T000000</releasedate>
-		<genre>Emulator</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Star Wars - Tie Fighter Total Conversion.lnk</path>
-		<name>Star Wars - Tie Fighter Total Conversion</name>
-		<desc>Star Wars - X-Wing Alliance re-imagined/enhanced (fanmade)! Out of countless Star Wars video games, 1994’s TIE Fighter remains a beloved classic, throwing you into the titular Imperial starfighters and letting you blast away at rebels, pirates, and traitors. Twenty-five years later, a new fan mod has fully updated TIE Fighter with new graphics, widescreen support, new missions, and more. The result is an updated game that, as the mod team puts it, imagines “how TIE Fighter could've been had the technology of the time not limited it.”</desc>
-		<image>./mixart/Tie Fighter Total Conversion.png</image>
-		<video>./snap/Tie Fighter Total Conversion.mp4</video>
-		<marquee>./wheel/Tie Fighter Total Conversion.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>2021</releasedate>
-		<developer>LucasArts/Fanmade</developer>
-		<publisher>LucasArts/Fanmade</publisher>
-		<genre>Action, Flight Simulator</genre>
 		<favorite>true</favorite>
 	</game>
 </gameList>
