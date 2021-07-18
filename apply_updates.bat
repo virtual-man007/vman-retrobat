@@ -24,6 +24,8 @@ powershell -Command "$ErrorActionPreference= 'silentlycontinue' ; (Get-Content '
 
 rem 1. 2021-07-11 - Fix Spider-Man The Video Game Arcade bezelproject decoration and for any other future missing overlays.- reported by Virtualman
 robocopy V:\_tools\vman-retrobat-master\RetroBat\decorations\thebezelproject\games\ V:\RetroBat\decorations\thebezelproject\games\ /S /NFL /NDL /IS /MT:4
+rem 2. 2021-07-18 - GameCube Controller mapping fix (x/y swap) and for any other future controller profiles for dolphin - reported by Virtualman
+robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\dolphin-emu\ V:\RetroBat\emulators\dolphine-emu\ /S /NFL /NDL /IS /MT:4
 
 echo.
 echo Update Completed. Enjoy! :)
